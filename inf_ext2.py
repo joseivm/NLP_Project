@@ -107,7 +107,7 @@ def get_article_pops():
 	name_pop = {}
 	with open(os.getcwd()+answer_key) as infile:
 		for line in infile:
-			if not '*' in line: 
+			if not '*' in line and not '-1' in line: 
 				split_line = line.split()
 				name = split_line[0]
 				pop = split_line[1]
