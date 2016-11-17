@@ -1,0 +1,501 @@
+letters
+
+© 2011 Nature America, Inc. All rights reserved.
+
+Germline mutations in RAD51D confer susceptibility to ovarian cancer
+Chey Loveday1,30, Clare Turnbull1,30, Emma Ramsay1, Deborah Hughes1, Elise Ruark1, Jessica R Frankum2, Georgina Bowden1, Bolot Kalmyrzaev1, Margaret Warren-Perry1, Katie Snape1, Julian W Adlard3, Julian Barwell4, Jonathan Berg5, Angela F Brady6, Carole Brewer7, Glen Brice8, Cyril Chapman9, Jackie Cook10, Rosemarie Davidson11, Alan Donaldson12, Fiona Douglas13, Lynn Greenhalgh14, Alex Henderson15, Louise Izatt16, Ajith Kumar17, Fiona Lalloo18, Zosia Miedzybrodzka19, Patrick J Morrison20, Joan Paterson21, Mary Porteous22, Mark T Rogers23, Susan Shanley24, Lisa Walker25, Breast Cancer Susceptibility Collaboration (UK)26, Diana Eccles27, D Gareth Evans28, Anthony Renwick1, Sheila Seal1, Christopher J Lord2, Alan Ashworth2, Jorge S Reis-Filho2, Antonis C Antoniou29 & Nazneen Rahman1
+
+Recently, RAD51C mutations were identified in families with breast and ovarian cancer1. This observation prompted us to investigate the role of RAD51D in cancer susceptibility. We identified eight inactivating RAD51D mutations in unrelated individuals from 911 breast-ovarian cancer families compared with one inactivating mutation identified in 1,060 controls (P = 0.01). The association found here was principally with ovarian cancer, with three mutations identified in the 59 pedigrees with three or more individuals with ovarian cancer (P = 0.0005). The relative risk of ovarian cancer for RAD51D mutation carriers was estimated to be 6.30 (95% CI 2.86­13.85, P = 4.8 × 10­6). By contrast, we estimated the relative risk of breast cancer to be 1.32 (95% CI 0.59­2.96, P = 0.50). These data indicate that RAD51D mutation testing may have clinical utility in individuals with ovarian cancer and their families. Moreover, we show that cells deficient in RAD51D are sensitive to treatment with a PARP inhibitor, suggesting a possible therapeutic approach for cancers arising in RAD51D mutation carriers.
+
+Homologous recombination is a mechanism for repairing stalled replication forks, DNA interstrand crosslinks and double-strand breaks2. Constitutional inactivating mutations in several genes that encode proteins crucial for DNA repair by homologous recombination have been shown to predispose to cancer3. In particular, these mutations have a strong association with female cancers, and mutations in genes such as BRCA1, BRCA2, ATM, BRIP1, CHEK2, PALB2, RAD50 and RAD51C have been shown to confer susceptibility to breast and/or ovarian cancer1,4. Indeed, the analysis of families with breast and ovarian cancer was crucial to mapping BRCA1 (ref. 5). For many years, it was widely believed that the genetic contribution to families with breast and ovarian cancer was largely attributable to mutations in BRCA1 and BRCA2 (refs. 6­8). Last year, however, researchers1 identified mutations in RAD51C in breast-ovarian cancer families. This suggested that analysis of such families may still have utility in the discovery of cancer predisposition genes.
+In eukaryotic cells, DNA repair by homologous  recombination involves several proteins, of which a central player is the DNA
+
+1Section of Cancer Genetics, The Institute of Cancer Research, Sutton, UK. 2The Breakthrough Breast Cancer Research Centre, The Institute of Cancer Research, London, UK. 3Yorkshire Regional Centre for Cancer Treatment, Cookridge Hospital, Leeds, UK. 4Leicestershire Genetics Centre, University Hospitals of Leicester National Health Service (NHS) Trust, Leicester, UK. 5Human Genetics, Division of Medical Sciences, University of Dundee, Dundee, UK. 6North West Thames Regional Genetics Service, Kennedy Galton Centre, London, UK. 7Peninsula Regional Genetics Service, Royal Devon & Exeter Hospital, Exeter, UK. 8South West Thames Regional Genetics Service, St. George's Hospital, London, UK. 9West Midlands Regional Genetics Service, Birmingham Women's Hospital, Birmingham, UK. 10Sheffield Regional Genetics Service, Sheffield Children's NHS Foundation Trust, Sheffield, UK. 11West of Scotland Regional Genetics Service, FergusonSmith Centre for Clinical Genetics, Glasgow, UK. 12South Western Regional Genetics Service, University Hospitals of Bristol NHS Foundation Trust, Bristol, UK. 13Northern Genetics Service, Newcastle upon Tyne Hospitals NHS Foundation Trust, Newcastle upon Tyne, UK. 14Cheshire and Merseyside Clinical Genetics Service, Alder Hey Children's NHS Foundation Trust, Liverpool, UK. 15Northern Genetics Service (Cumbria), Newcastle upon Tyne Hospitals NHS Trust, Newcastle upon Tyne, UK. 16South East Thames Regional Genetics Service, Guys and St. Thomas NHS Foundation Trust, London, UK. 17North East Thames Regional Genetics Service, Great Ormond St. Hospital, London, UK. 18University Department of Medical Genetics & Regional Genetics Service, St. Mary's Hospital, Manchester, UK. 19University of Aberdeen and North of Scotland Clinical Genetics Service, Aberdeen Royal Infirmary, Aberdeen, UK. 20Northern Ireland Regional Genetics Service, Belfast Health and Social Care (HSC) Trust & Department of Medical Genetics, Queen's University Belfast, Belfast, UK. 21East Anglian Regional Genetics Service, Cambridge University Hospitals NHS Foundation Trust, Cambridge, UK. 22South East of Scotland Clinical Genetics Service, Western General Hospital, Edinburgh, UK. 23All Wales Medical Genetics Service, University Hospital of Wales, Cardiff, UK. 24Royal Marsden NHS Foundation Trust, London, UK. 25Oxford Regional Genetics Service, Oxford Radcliffe Hospitals NHS Trust, Oxford, UK. 26A full list of members appears in the Supplementary Note. 27Faculty of Medicine, University of Southampton, Southampton University Hospitals NHS Trust, Southampton, UK. 28University Department of Medical Genetics & Regional Genetics Service, St. Mary's Hospital, Manchester, UK. 29Center for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK. 30These authors contributed equally to this work. Correspondence should be addressed to N.R. (nazneen.rahman@icr.ac.uk).
+Received 3 March; accepted 1 July; published online 7 August 2011; doi:10.1038/ng.893
+
+Nature Genetics VOLUME 43 | NUMBER 9 | SEPTEMBER 2011
+
+879
+
+letters
+
+© 2011 Nature America, Inc. All rights reserved.
+
+Table 1 Cancer history and pathology in RAD51D mutation carriers
+
+Family ID Mutation; protein alterationa Person ID Cancer history (age)b
+
+Pathology
+
+Tumor analysis
+
+Fam1 c.363delA
+
+Fam2 Fam3
+
+c.803G>A; p.Trp268X c.556C>T; p.Arg186X
+
+Fam4 Fam5
+
+c.480+1G>A c.345G>C; p.Gln115Hisc
+
+Fam6 Fam7
+
+c.556C>T; p.Arg186X c.757C>T; p.Arg253X
+
+Fam8 c.270_271dupTA
+
+Control c.748delC
+
+1 Breast cancer, left (34) Invasive ductal carcinoma of no special type, grade 3 NA
+
+Breast cancer, right (52) Invasive ductal carcinoma of no special type, grade 3 Loss of wild-type allele
+
+1 Ovarian cancer (58)
+
+Bilateral serous adenocarcinoma
+
+Loss of wild-type allele
+
+1 Ovarian cancer (38)
+
+NA
+
+NA
+
+2 Breast cancer (39)
+
+High grade ductal comedo carcinoma in situ
+
+NA
+
+3 Breast cancer (58)
+
+Invasive carcinoma with medullary features
+
+NA
+
+4 Breast cancer (53)
+
+Invasive ductal carcinoma of no special type
+
+NA
+
+1 Breast cancer (51)
+
+Invasive ductal carcinoma of no special type, grade 3 NA
+
+1 Ovarian cancer (45)
+
+Bilateral serous adenocarcinoma
+
+NA
+
+2 Ovarian cancer (74)
+
+NA
+
+NA
+
+1 Breast cancer (35)
+
+Invasive ductal carcinoma of no special type, grade 3 NA
+
+1 Ovarian cancer (51)
+
+Differentiated endometrioid adenocarcinoma
+
+NA
+
+2 Breast cancer (47)
+
+NA
+
+NA
+
+1 Ovarian cancer (58)
+
+Differentiated adenocarcinoma
+
+Loss of mutant allele
+
+Breast cancer (65)
+
+Invasive ductal carcinoma of no special type, grade 3 Reduction of wild-type allele
+
+NA NA
+
+NA
+
+NA, not available. aMutation nomenclature corresponds to Ensembl Transcript ID ENST00000345365. bAge at which cancer occurred in years. cThis mutation is at the final base of exon 4, disrupts the splice site and results in skipping of exons 3 and 4. Person IDs correspond to those shown in Figure 1.
+
+recombinase RAD51, the ortholog of bacterial recA9. RAD51 forms heli- ovarian cancer: we detected four mutations in 235 families with two or
+
+cal filaments on DNA and catalyzes DNA strand invasion and exchange. more cases of ovarian cancer (P = 0.005) and three mutations in the 59
+
+Many other proteins are involved in these processes, including five RAD51 families with three or more cases of ovarian cancer (P = 0.0005) (Fig. 1).
+
+paralogs (RAD51B, RAD51C, RAD51D,
+
+XRCC2 and XRCC3)10. Here, through a case-
+
+control mutation study, we show that mutations in RAD51D (also known as RAD51L3) predis-
+
+Family 1
+
+Family 2
+
+CORCC
+
+pose to cancer in humans.
+
+We sequenced the full coding sequence and intron-exon boundaries of RAD51D in
+
+CRC 40
+
+PrC 68PrC 60 OC 56
+
+BC 79 OC
+
+OC BC bilat
+
+DNA from unrelated probands from 911
+
+breast-ovarian cancer families and 1,060 population controls (Supplementary Table 1).
+
+1 BC bilat. 34 52
+c.363delA
+
+1 OC 58
+
+LC
+
+54
+
+p.Trp268X
+
+BC 70
+
+The breast-ovarian cancer families included at least one case of breast cancer and at least
+
+Family 3 CRC
+
+Family 4
+
+one case of ovarian cancer and all families
+
+were negative for mutations in BRCA1 and
+
+BRCA2 (Supplementary Table 2).
+
+CRC 51
+
+OC OC 65
+
+OC 54
+
+We identified inactivating mutations in
+
+RAD51D in 8 of the 911 cases and in 1 of the 1,060 controls (P = 0.01) (Table 1). The mutations were not equally distributed within the
+
+OC 49
+
+4 BC 53 p.Arg186X
+
+CRC 52
+
+3 BC 58
+
+OC
+
+62
+
+p.Arg186X
+
+1BC 51 c.480+1G>A
+
+series, with a higher prevalence of mutations present in families with more than one case of
+
+21
+
+p.ABrCg13896X
+
+OC 38 p.Arg186X
+
+BC 43 NHL 49
+
+Figure 1 Abridged pedigrees of eight families with RAD51D mutations. Individuals with ovarian cancer are shown as red circles; individuals with breast cancer are shown as black circles. Other cancers are shown as unfilled circles or squares. Where known, the age of cancer diagnosis is listed under the individual, with two ages given for metachronous bilateral breast cancers. The relevant RAD51D mutation is listed under the affected individuals analyzed, but not the unaffected individuals, to preserve confidentiality. BC, breast cancer; BC bilat., bilateral breast cancer; OC, ovarian cancer; CRC, colorectal cancer; LC, lung cancer; NHL, non-Hodgkin lymphoma; PaC, pancreatic cancer; PrC, prostate cancer.
+
+Family 5
+
+CRC
+
+CRC 74 PaC 75
+
+OC 74 p.Gln115His 1 OC 45 p.Gln115His
+Family 7
+
+OC 37 PaC 78
+
+BC 36 Family 8
+
+Family 6
+
+OC
+
+OC 46 CRC
+1 BC 35 p.Arg186X
+
+12 OC 51 BC 47 p.Arg253X p.Arg253X
+
+1 OC 58 BC 65 c.270_271dupTA
+
+880
+
+VOLUME 43 | NUMBER 9 | SEPTEMBER 2011 Nature Genetics
+
+letters
+
+© 2011 Nature America, Inc. All rights reserved.
+
+0.4 BRCA1
+
+and two breast cancers. We detected loss of the wild-type allele in one
+
+BRCA2
+
+ovarian and one breast cancer and reduction of the proportion of the
+
+RAD51D Population 0.3
+
+wild-type allele in a further breast cancer. In the last ovarian cancer, the mutant allele was lost and the wild-type allele was retained (Table 1 and Supplementary Fig. 2).
+
+Cumulative risk
+
+These characteristics are typical of the intermediate-penetrance
+
+cancer predisposition genes that we and others have described in
+
+0.2 breast cancer1,4,11­14. To estimate directly the risks associated with
+
+RAD51D mutations, we performed modified segregation analysis by
+
+modeling the risks of ovarian and breast cancer simultaneously and
+
+0.1 incorporating the information from the controls and full pedigrees
+
+of both mutation-positive and mutation-negative breast-ovarian
+
+cancer families. The ovarian cancer relative risk for RAD51D
+
+0 30
+
+40 50 60 Age
+
+70
+
+mutation carriers was estimated to be 6.30 (95% CI 2.86­13.85, P = 4.8 × 10­6) (Fig. 2). By contrast, the association with breast cancer risk was not statistically significant (relative risk = 1.32, 95%
+
+Figure 2 Average age-related cumulative risk of ovarian cancer in
+
+CI 0.59­2.96, P = 0.50).
+
+RAD51D mutation carriers, BRCA1 and BRCA2 mutation carriers22 and
+
+To further explore the role of RAD51D mutations in breast cancer
+
+the general population23.
+
+risk, we sequenced the gene in an additional series of 737 unrelated
+
+individuals from pedigrees in which there was familial breast cancer
+
+All the mutations are predicted to result in protein truncation but no ovarian cancer. We did not identify any inactivating mutations
+
+through frameshifting insertions or deletions (n = 3), the genera- (0 out of 737 cases compared to 1 out of 1,060 controls had inacti-
+
+tion of nonsense codons (n = 4) or splice defects (n = 2) (Table 1). vating mutations; P = 1.0). Although at first glance these data may
+
+We also identified 5 intronic, 3 synonymous and 15 nonsynonymous seem surprising, they are consistent with the results of the segregation
+
+variants. Three coding variants, rs9901455 (p.Ser78Ser), rs4796033 analysis. In particular, if RAD51D mutations confer a sizeable rela-
+
+(p.Arg165Gln) and rs28363284 (p.Glu233Gly), have minor allele fre- tive risk of ovarian cancer but only a small or no increase in breast
+
+quencies >1%; none of these variants was associated with risk of breast cancer risk, the frequency of RAD51D mutations in a series of breast
+
+or ovarian cancer in our dataset (Supplementary Table 3). Of the cancer families selected on the basis of not containing ovarian cancer
+
+remaining rare variants, three were present in both cases and controls, would be anticipated to be very low. The data are also consistent with
+
+nine were detected in a single case and eight were detected in a single the detection of RAD51D mutations in seven individuals with breast
+
+control (Supplementary Table 4). Thus, there was no overall difference cancer in the breast-ovarian cancer families, as we specifically ascer-
+
+in the frequency of nontruncating RAD51D variants between cases tained the ovarian cancer cases because of their close family history
+
+and controls. Moreover, there was no difference in the position or pre- of breast cancer. This selection will inevitably result in an enrichment
+
+dicted functional effects of these variants, and it is noteworthy that an of breast cancer in relatives of RAD51D-mutation­positive ovarian
+
+equal number (n = 5) of nonsynonymous variants detected in cases cancer cases irrespective of whether or not such mutations confer
+
+and controls are predicted to affect function (Supplementary Fig. 1 a risk of breast cancer. To formally refine the risk of breast cancer
+
+and Supplementary Table 4). These data indicate that mutations that associated with RAD51D mutations will likely be very challenging
+
+result in inactivation of RAD51D function predispose to cancer but because the population frequency of RAD51D mutations is so low.
+
+that other variants are likely to be predominantly nonpathogenic.
+
+Assuming a population mutation frequency of 0.1% and a relative risk
+
+We tested for the family mutations in samples from 13 relatives. This of breast cancer of 1.3, full mutational analysis of RAD51D in 275,000
+
+showed that five of five individuals affected with ovarian or breast cancer cases and 275,000 controls would be required to have 90% power to
+
+carried the family mutation, whereas six of eight unaffected relatives show the association.
+
+did not carry the family mutation. Several
+
+other cancers were present in relatives, such a 1.0
+
+b 1.0
+
+c 1.2
+
+as pancreatic, prostate and colorectal cancer
+
+(Fig. 1). However, the mutation status of these
+
+0.8
+
+0.8
+
+1.0
+
+Surviving fraction Surviving fraction Surviving fraction
+
+individuals is not known, and additional studies will be required to evaluate whether
+
+0.6
+
+0.6
+
+0.8
+
+RAD51D mutations predispose to other can-
+
+0.6
+
+cers. Pathology information was available for
+
+0.4
+
+0.4
+
+four ovarian cancers from RAD51D mutation
+
+0.4
+
+carriers; three of the cancers were serous adenocarcinoma and one was an endometrioid cancer. Pathology information was available
+
+0.2 siCONTROL siBRCA2
+0
+
+0.2 siRAD51D OLIGO1 siRAD51D OLIGO2 siRAD51D POOL
+0
+
+0.2 RAD51D WT RAD51D MUT
+0
+
+for eight breast cancers, of which seven were ductal in origin and one was a carcinoma with medullary features. Receptor status was available from five breast cancers, of which three were estrogen-receptor positive and two were estrogen-receptor negative. Tumor mate-
+
+0 ­9 ­8 ­7 ­6 ­5 Olaparib (M)
+
+0 ­9 ­8 ­7 ­6 ­5 Olaparib (M)
+
+0 ­9 ­8 ­7 ­6 ­5 Olaparib (M)
+
+Figure 3 Effect of RAD51D silencing on olaparib sensitivity. (a,b) We transfected CAL51 (a) or MCF7 (b) cells with siCONTROL, siRNA directed against RAD51D or siRNA directed against BRCA2. For siRNA targeting RAD51D, cells were transfected with one of two individual siRNAs or a pool of both siRNAs combined. We then treated transfected cells with olaparib for 7 days before
+assaying for cell viability. (c) We treated wild-type (WT) CHO cells or CHO cells mutated (MUT) in
+
+rial was available from two ovarian cancers RAD51D with olaparib for 7 days before assaying for cell viability. M, molar concentration.
+
+Nature Genetics VOLUME 43 | NUMBER 9 | SEPTEMBER 2011
+
+881
+
+© 2011 Nature America, Inc. All rights reserved.
+
+letters
+
+Our data clearly show that RAD51D is an ovarian cancer predisposition gene, but further studies in familial and sporadic ovarian cancer series would be of value to further clarify the risks of ovarian cancer. RAD51D mutation analysis in individuals with Fanconi anemia and Fanconi-like disorders would also be of interest, given that biallelic mutations in BRCA2, PALB2, BRIP1 and RAD51C have been shown to cause these phenotypes15­18.
+Our discovery has potential clinical utility both for individuals with cancer and their relatives. For example, cancer patients with RAD51D mutations may benefit from specific therapies such as poly (ADPribose) polymerase (PARP) inhibitors, which have shown efficacy in patients with impaired homologous recombination caused by mutations in BRCA1 or BRCA2 (ref. 19). To investigate this, we used RNA interference (RNAi) and assessed the relationship between RAD51D loss of function and the sensitivity of tumor cells to a clinical PARP inhibitor, olaparib (AstraZeneca). Short interfering RNAi (siRNAi) reagents targeting RAD51D caused olaparib sensitivity of a magnitude similar to that achieved following silencing of BRCA2 (Fig. 3a,b), an observation in keeping with the homologous recombination defect observed in Rad51d-null rodent cell lines20. To extend this analysis, we also observed the RAD51D-selective effect of olaparib in RAD51Ddeficient Chinese hamster ovary (CHO) cells in which both alleles of RAD51D had been rendered dysfunctional by gene targeting (Fig. 3c)20. These data suggest that PARP inhibitors may have clinical utility in individuals with RAD51D mutations. We estimate that only ~0.6% of unselected individuals with ovarian cancer will harbor RAD51D mutations, but as we enter an era in which genetic testing will become routine, such individuals will be readily identifiable. Their identification will also be of potential value to female relatives, as those relatives with mutations will be, on average, at an approximately sixfold increased risk of ovarian cancer, which equates to an ~10% cumulative risk by age 80. An appreciable proportion of women at this level of risk may consider strategies such as laparoscopic oophorectomy, which is well tolerated and is undertaken in many women with BRCA mutations21. URLs. Centre for Longitudinal Studies, National Child Development Study, http://www.cls.ioe.ac.uk/studies.asp?section=000100020003; Mutation Surveyor software, http://www.softgenetics.com/. Methods Methods and any associated references are available in the online v ersion of the paper at http://www.nature.com/naturegenetics/. Accession codes. RAD51D mutation nomenclature corresponds to Ensembl Transcript ID ENST00000345365.
+Note: Supplementary information is available on the Nature Genetics website. Acknowledgments We thank all the subjects and families that participated in the research. We thank A. Hall, D. Dudakia, J. Bull, R. Linger and A. Zachariou for their assistance in recruitment, B. Ebbs for assistance in DNA extraction and running the ABI sequencers, L. Thompson for the provision of cell lines and A. Strydom for assistance in preparing the manuscript. We are very grateful to all the clinicians and counselors in the Breast Cancer Susceptibility Collaboration UK (BCSC) that have contributed to the recruitment and collection of the Familial Breast Cancer Study (FBCS) samples. The full list of BCSC contributors is provided in the Supplementary Note. This work was funded by Cancer Research UK (C8620/A8372 and C8620/A8857), US Military Acquisition (ACQ) Activity, Era of Hope Award (W81XWH-05-1-0204), Breakthrough Breast Cancer and the Institute of Cancer Research (UK). We acknowledge NHS funding to the Royal Marsden/Institute of Cancer Research National Institute for Health Research
+
+(NIHR) Specialist Cancer Biomedical Research Centre. C.T. is a Medical Research Council (MRC)-funded Clinical Research Fellow. A.C.A. is a Cancer Research UK Senior Cancer Research Fellow (C12292/A11174). We acknowledge the use of DNA from the British 1958 Birth Cohort collection funded by the MRC grant G0000934 and the Wellcome Trust grant 068545/Z/02.
+AUTHOR CONTRIBUTIONS N.R., C.L. and C.T. designed the experiment. M.W.-P., C.T. and N.R. coordinated recruitment to the FBCS. J.W.A., J. Barwell, J. Berg, A.F.B., C.B., G. Brice, C.C., J.C., R.D., A.D., F.D., D.G.E., D.E., L.G., A.H., L.I., A.K., F.L., Z.M., P.J.M., J.P., M.P., M.T.R., S. Shanley and L.W. coordinated the FBCS sample recruitment from their respective Genetics centers. C.L., E. Ramsay, D.H., G. Bowden, B.K., K.S., A.R. and S. Seal performed sequencing of RAD51D. J.R.F., C.J.L. and A.A. designed and conducted drug sensitivity experiments. J.S.R.-F. undertook examination and dissection of pathological specimens. C.T., E. Ruark and A.C.A. performed statistical analyses. C.L., C.T. and N.R. drafted the manuscript with substantial input from D.G.E., D.E., A.C.A., A.A. and J.S.R.-F. C.T. and N.R. oversaw and managed all aspects of the study.
+COMPETING FINANCIAL INTERESTS The authors declare no competing financial interests.
+Published online at http://www.nature.com/naturegenetics/. Reprints and permissions information is available online at http://www.nature.com/ reprints/index.html.
+1. Meindl, A. et al. Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat. Genet. 42, 410­414 (2010).
+2. Heyer, W.-D., Ehmsen, K.T. & Liu, J. Regulation of homologous recombination in eukaryotes. Annu. Rev. Genet. 44, 113­139 (2010).
+3. Futreal, P.A. et al. A census of human cancer genes. Nat. Rev. Cancer 4, 177­183 (2004).
+4. Turnbull, C. & Rahman, N. Genetic predisposition to breast cancer: past, present, and future. Annu. Rev. Genomics Hum. Genet. 9, 321­345 (2008).
+5. Easton, D.F., Bishop, D.T., Ford, D. & Crockford, G.P. Genetic linkage analysis in familial breast and ovarian cancer: results from 214 families. The Breast Cancer Linkage Consortium. Am. J. Hum. Genet. 52, 678­701 (1993).
+6. Gayther, S.A. et al. The contribution of germline BRCA1 and BRCA2 mutations to familial ovarian cancer: no evidence for other ovarian cancer-susceptibility genes. Am. J. Hum. Genet. 65, 1021­1029 (1999).
+7. Ramus, S.J. et al. Contribution of BRCA1 and BRCA2 mutations to inherited ovarian cancer. Hum. Mutat. 28, 1207­1215 (2007).
+8. Antoniou, A.C., Gayther, S.A., Stratton, J.F., Ponder, B.A. & Easton, D.F. Risk models for familial ovarian and breast cancer. Genet. Epidemiol. 18, 173­190 (2000).
+9. Shinohara, A. et al. Cloning of human, mouse and fission yeast recombination genes homologous to RAD51 and recA. Nat. Genet. 4, 239­243 (1993).
+10.Masson, J.Y. et al. Identification and purification of two distinct complexes containing the five RAD51 paralogs. Genes Dev. 15, 3296­3307 (2001).
+11.Meijers-Heijboer, H. et al. Low-penetrance susceptibility to breast cancer due to CHEK2(*)1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat. Genet. 31, 55­59 (2002).
+12.Renwick, A. et al. ATM mutations that cause ataxia-telangiectasia are breast cancer susceptibility alleles. Nat. Genet. 38, 873­875 (2006).
+13.Rahman, N. et al. PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat. Genet. 39, 165­167 (2007).
+14.Seal, S. et al. Truncating mutations in the Fanconi anemia J gene BRIP1 are lowpenetrance breast cancer susceptibility alleles. Nat. Genet. 38, 1239­1241 (2006).
+15.Howlett, N.G. et al. Biallelic inactivation of BRCA2 in Fanconi anemia. Science 297, 606­609 (2002).
+16.Levitus, M. et al. The DNA helicase BRIP1 is defective in Fanconi anemia complementation group J. Nat. Genet. 37, 934­935 (2005).
+17.Reid, S. et al. Biallelic mutations in PALB2 cause Fanconi anemia subtype FA-N and predispose to childhood cancer. Nat. Genet. 39, 162­164 (2007).
+18.Vaz, F. et al. Mutation of the RAD51C gene in a Fanconi anemia-like disorder. Nat. Genet. 42, 406­409 (2010).
+19.Fong, P.C. et al. Inhibition of poly(ADP-ribose) polymerase in tumors from BRCA mutation carriers. N. Engl. J. Med. 361, 123­134 (2009).
+20.Hinz, J.M. et al. Repression of mutagenesis by Rad51D-mediated homologous recombination. Nucleic Acids Res. 34, 1358­1368 (2006).
+21.Rebbeck, T.R., Kauff, N.D. & Domchek, S.M. Meta-analysis of risk reduction estimates associated with risk-reducing salpingo-oophorectomy in BRCA1 or BRCA2 mutation carriers. J. Natl. Cancer Inst. 101, 80­87 (2009).
+22.Antoniou, A. et al. Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies. Am. J. Hum. Genet. 72, 1117­1130 (2003).
+23.International Agency for Research on Cancer. Cancer incidence in five continents. Volume VIII. IARC Sci. Publ. 1­781 (2002).
+
+882
+
+VOLUME 43 | NUMBER 9 | SEPTEMBER 2011 Nature Genetics
+
+© 2011 Nature America, Inc. All rights reserved.
+
+ONLINE METHODS Cases. We used lymphocyte DNA from 1,648 families with breast-ovarian cancer or breast cancer only. These families were ascertained from 24 genetics centers in the UK through the Genetics of Familial Breast Cancer Study (FBCS), which recruits women 18 years of age who have had breast and/or ovarian cancer and have a family history of breast and/or ovarian cancer. At least 97% of the families studied are of European ancestry. Index cases from each family were screened and were negative for germline mutations, including large rearrangements, in BRCA1 and BRCA2. Informed consent was obtained from all participants and the research was approved by the London Multicentre Research Ethics Committee (MREC/01/2/18). Breast-ovarian cancer pedigrees. We included 911 unrelated index cases from breast-ovarian cancer pedigrees. The index cases were diagnosed with breast and/or ovarian cancer. Each family contained an individual with both breast and ovarian cancer or contained at least one case of breast cancer and at least one case of ovarian cancer with 1 intervening unaffected female relative. Cases of ovarian cancer below the age of 20 were excluded from the analysis, as an appreciable proportion of these cases are likely to represent nonepithelial ovarian tumors, for example germ cell cancers. Of the 911 probands, 271 had ovarian cancer (with or without breast cancer) and 617 had breast cancer only. The number of family members (including the probands) diagnosed with breast cancer and/or ovarian cancer in the 911 breast-ovarian cancer pedigrees included in the analysis is shown in Supplementary Table 2. Breast-cancer­only pedigrees. We included 737 unrelated index cases from breast cancer­only pedigrees. The index case from each family was diagnosed with breast cancer and had bilateral disease and/or a family history of breast cancer. There was no known case of ovarian cancer in any of these pedigrees. The number of family members (including the probands) diagnosed with breast cancer in the 737 breast cancer­only pedigrees included in the analysis is shown in Supplementary Table 2. The six cases of isolated breast cancer all had bilateral disease. Samples and pathology information from mutation-positive families. For families in which a mutation in RAD51D was detected, we sought DNA samples from relatives, and we genotyped all obtainable samples for the family mutation. We also requested tumor material, pathology information and receptor status in probands and affected relatives from the hospitals where they had been treated. Controls. We used lymphocyte DNA from 1,060 population-based controls obtained from the 1958 Birth Cohort Collection, an ongoing follow-up of persons born in Great Britain during one week in 1958. Biomedical assessment was undertaken during 2002­2004, at which blood samples and informed consent were obtained for the creation of a genetic resource; phenotype data for these individuals were not available (see URLs). At least 97% of the controls were of European ancestry. Mutation analysis of RAD51D. We analyzed genomic DNA extracted from lymphocytes for mutations by direct sequencing of the full coding sequence and the intron-exon boundaries of RAD51D. Primer sequences and PCR conditions are given in Supplementary Table 1. The PCR reactions were performed in multiplex using the QIAGEN Multiplex PCR Kit (QIAGEN) according to the manufacturer's instructions. Amplicons were unidirectionally sequenced using the BigDye Terminator Cycle sequencing kit and an ABI3730 automated sequencer (ABI PerkinElmer). Sequencing traces were analyzed using Mutation Surveyor software (see URLs) and by visual inspection. All mutations were confirmed by bidirectional sequencing from a fresh aliquot of the stock DNA. Samples from members of RAD51D-mutation­positive families were tested for the family mutation by direct sequencing of the a ppropriate exon. In silico analyses of identified variants. We computed the predicted effects of RAD51D missense variants on protein function using PolyPhen24 and SIFT25. All variants (intronic and coding) were analyzed for their potential effect on splicing. Variants were analyzed using two splice prediction
+
+algorithms, NNsplice26 and MaxEntScan27, using the Alamut software interface (Interactive Biosoftware). If both the NNsplice and MaxEntScan scores were altered by >20% (that is, a wild-type splice-site score decreased and/or a cryptic splice-site score increased), three further prediction algorithms were used; NetGene2 (ref. 28), HumanSplicingFinder29 and GENSCAN30. A consen sus decrease in a wild-type splice-site score and/or a consensus increase in a cryptic splice-site score across all algorithms was considered indicative of disruption of normal splicing. Tumor analysis. Representative tumor sections were stained with Nuclear Fast Red and microdissected using a sterile needle and a stereomicroscope (Olympus SZ61) to ensure that the proportion of tumor cells was >90%, as previously described31. DNA was extracted using the DNeasy kit (QIAGEN) according to the manufacturer's instructions. DNA concentration was mea sured using the PicoGreen assay (Invitrogen) according to the manufacturer's instructions. RAD51D-specific fragments encompassing the relevant mutations were PCR amplified using the primers listed in Supplementary Table 1 and bidirectionally sequenced using the BigDye Terminator Cycle sequencing kit and an ABI3730 automated sequencer (ABI PerkinElmer). Sequence traces from tumor DNA were compared to sequence traces from lymphocyte DNA from the same individual. Drug sensitivity. We used nonsilencing BRCA2 and RAD51D siGENOME siRNAs (Dharmacon). CAL51 and MCF7 cells were grown in Dulbecco's Modified Eagle Medium (DMEM) (Gibco, Invitrogen) supplemented with 10% (v/v) FCS (Gibco, Invitrogen). Chinese hamster ovary (CHO) RAD51D wild-type (51D1.3 clone) and RAD51D dysfunctional (51D1 clone) cells were grown in MEM (Gibco, Invitrogen) supplemented with 10% FCS (Gibco, Invitrogen). Cells were siRNA transfected using RNAiMAX (Invitrogen), plated in 96-well microtiter plates and then exposed to a titration of olaparib for 7 days. The media and drug were replenished every 3 days. After 7 days of continuous culture, cell viability was estimated using CellTiter-Glo reagent (Promega), and surviving fractions were calculated as previously described32. Statistical methods. Statistical analyses were performed using Stata v11 software (StataCorp). The frequency of mutations in cases and controls was compared using a two-sided Fisher's exact test. We estimated the RAD51D combined mutation frequency, the breast cancer risk ratio and the ovarian cancer risk ratio relative to non-RAD51D mutation carriers simultaneously using modified segregation analysis implemented in the pedigree analysis software MENDEL33. The analysis was based on breast and ovarian cancer occurrence in the combined dataset of families and controls. All individuals were censored at age 80 years, the age of their first cancer or their age of death or last observation, whichever occurred first. Females who had bilateral prophylactic mastectomy were censored for breast cancer, and those who had had bilateral prophylactic oophorectomy were censored for ovarian cancer. Thus, only information on the first cancer was included in the primary analysis. We assumed that the breast cancer incidence depends on the underlying genotype through a model of the form: (t)=0(t)exp(x), where 0(t) is the baseline incidence at age t in nonmutation carriers,  is the log risk ratio associated with the mutation and x takes value 0 for nonmutation carriers and 1 for mutation carriers. A similar model was assumed for the ovarian cancer incidences. Breast and ovarian cancers were assumed to occur independently, conditional on the genotype22. The overall breast and ovarian cancer incidences were constrained to agree with the population incidences for England and Wales in the period of 1993­1997 (ref. 23), as described previously34,35. The models were parameterized in terms of the mutation frequencies and log-risk ratios for breast and ovarian cancer. Parameters were estimated using a maximum likelihood estimation. Because RAD51D mutation screening was carried out in all index cases and controls, we were able to incorporate information from all controls and the full pedigrees from all cases (including those without a RAD51D mutation) together with the segregation information from the families in which a RAD51D mutation was detected and genotyping was possible in relatives of the index case. To adjust for ascertainment, we modeled the conditional likelihood of all family phenotypes and mutation status of the index family member and other tested
+
+doi:10.1038/ng.893
+
+Nature Genetics
+
+family members given the disease phenotypes of all family members. For the controls, we modeled the likelihood of the mutation status given that they were unaffected. The variances of the parameters were obtained by inverting the observed information matrix. Log risk ratios were assumed to be normally distributed. Because this model does not explicitly incorporate the effects of other susceptibility genes, it assumes implicitly that the effects of RAD51D and other potential susceptibility genes can be regarded as independent, as in a multiplicative model.
+Power calculations were based on two-sided association testing with a significance level of  = 0.05. We assumed that the observed frequency of truncating mutations in cases from breast-ovarian cancer families (0.88%) and controls (0.094%) reflects the true underlying mutation frequencies in the population, and that the effect calculated from the segregation analysis (odds ratio = 6.30) represents the true risk of ovarian cancer in the population. We assumed that the same ratio of truncating mutations to missense variants (predicted deleterious) would be detected in isolated cases of ovarian cancer as in cases from breast-ovarian cancer families. We assumed that in association testing of mutation frequencies across 25,000 genes, the 2 statistics would be normally distributed, and we applied a Bonferroni correction for multiple testing.
+
+24.Ramensky, V., Bork, P. & Sunyaev, S. Human non-synonymous SNPs: server and survey. Nucleic Acids Res. 30, 3894­3900 (2002).
+25.Ng, P.C. & Henikoff, S. Predicting deleterious amino acid substitutions. Genome Res. 11, 863­874 (2001).
+26.Reese, M.G., Eeckman, F.H., Kulp, D. & Haussler, D. Improved splice site detection in Genie. J. Comput. Biol. 4, 311­323 (1997).
+27.Yeo, G. & Burge, C.B. Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals. J. Comput. Biol. 11, 377­394 (2004).
+28.Brunak, S., Engelbrecht, J. & Knudsen, S. Prediction of human mRNA donor and acceptor sites from the DNA sequence. J. Mol. Biol. 220, 49­65 (1991).
+29.Desmet, F.O. et al. Human Splicing Finder: an online bioinformatics tool to predict splicing signals. Nucleic Acids Res. 37, e67 (2009).
+30.Burge, C. & Karlin, S. Prediction of complete gene structures in human genomic DNA. J. Mol. Biol. 268, 78­94 (1997).
+31.Geyer, F.C. et al. Molecular analysis reveals a genetic basis for the phenotypic diversity of metaplastic breast carcinomas. J. Pathol. 220, 562­573 (2010).
+32.Farmer, H. et al. Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy. Nature 434, 917­921 (2005).
+33.Lange, K., Weeks, D. & Boehnke, M. Programs for pedigree analysis: MENDEL, FISHER, and dGENE. Genet. Epidemiol. 5, 471­472 (1988).
+34.Antoniou, A.C. & Easton, D.F. Polygenic inheritance of breast cancer: implications for design of association studies. Genet. Epidemiol. 25, 190­202 (2003).
+35.Antoniou, A.C. et al. Evidence for further breast cancer susceptibility genes in addition to BRCA1 and BRCA2 in a population-based study. Genet. Epidemiol. 21, 1­18 (2001).
+
+© 2011 Nature America, Inc. All rights reserved.
+
+Nature Genetics
+
+doi:10.1038/ng.893
+
+

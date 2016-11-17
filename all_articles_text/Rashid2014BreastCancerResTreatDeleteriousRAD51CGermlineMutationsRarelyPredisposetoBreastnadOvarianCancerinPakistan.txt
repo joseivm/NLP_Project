@@ -1,0 +1,372 @@
+Breast Cancer Res Treat (2014) 145:775­784 DOI 10.1007/s10549-014-2972-0
+EPIDEMIOLOGY
+Deleterious RAD51C germline mutations rarely predispose to breast and ovarian cancer in Pakistan
+Muhammad U. Rashid · Noor Muhammad · Saima Faisal · Asim Amin · Ute Hamann
+
+Received: 4 February 2014 / Accepted: 15 April 2014 / Published online: 7 May 2014 Ó Springer Science+Business Media New York 2014
+
+Abstract RAD51C plays a key role in homologous recombination-mediated DNA repair and maintenance of genomic stability. Biallelic RAD51C mutations cause Fanconi anemia, and monoallelic mutations predispose women to breast and ovarian cancer. Genetic variability of RAD51C and its impact in Asian populations have been poorly studied. Here, we report the results of comprehensive mutational screening of the RAD51C gene in 348 BRCA1/2-negative breast and/or ovarian cancer patients from Pakistan. Mutation analysis of the complete RAD51Ccoding region was performed using denaturing high-performance liquid chromatography analysis, followed by DNA sequencing of variant fragments. Three novel protein-truncating mutations, c.204T[A, c.225T[G, and c.701C[G, were identified. c.204T[A was found in one out of 22 (4.5 %) early-onset (B45 years of age) ovarian cancer patients and c.225T[G in one out of 119 (0.8 %) patients from breast cancer only families. c.701C[G was found in a 60-year-old control with no family history of breast/ovarian cancer. Furthermore, three novel in silicopredicted potentially functional mutations, a missense mutation, c.873T[G, a variant in 50UTR, c.1-34T[G, and a recurrent intronic variant, c.965?21A[G, were identified.
+M. U. Rashid Á N. Muhammad Á S. Faisal Shaukat Khanum Memorial Cancer Hospital and Research Centre (SKMCH & RC), Lahore, Pakistan
+M. U. Rashid Á U. Hamann (&) German Cancer Research Center (DKFZ), Molecular Genetics of Breast Cancer, Im Neuenheimer Feld 580, 69120 Heidelberg, Germany e-mail: u.hamann@dkfz-heidelberg.de
+A. Amin Carolinas Medical Center, Levine Cancer Institute, Charlotte, USA
+
+The missense mutation was observed in a patient with bilateral breast cancer from a breast and ovarian cancer family (HBOC), the 50UTR variant was noted in an earlyonset breast cancer patient, and the intronic variant in one early-onset breast cancer patient and one ovarian cancer patient from a HBOC family. Five of the six mutations described were not detected in 400 healthy controls. These findings suggest that RAD51C plays a marginal role in breast and ovarian cancer predisposition in Pakistan. Reliable estimation of the clinical implications of carrying a deleterious RAD51C mutation will require identification of additional mutation-positive patients/families.
+Keywords RAD51C Á Germline mutations Á Familial breast and/or ovarian cancer Á Pakistan
+Introduction
+Approximately 30 % of familial breast cancer is explained by monoallelic mutations in the high and moderate breast cancer penetrance genes BRCA1, BRCA2, ATM, CHEK2, BRIP1, and PALB2. These genes play a key role in maintenance of genomic stability and have been functionally linked with homologous recombination (HR)-mediated DNA repair. Biallelic mutations in three of these genes, BRCA2 [1], PALB2 [2], and BRIP1 [3] also cause Fanconi anemia (FA), establishing a strong link between breast cancer susceptibility and the FA pathway. This link was further strengthened by the identification of a fourth gene, RAD51C that is also involved in HR in these hereditary diseases. Biallelic RAD51C mutations were identified in two patients from a consanguineous Pakistani family with features of FA [4]. Subsequently, monoallelic mutations were found in families with breast and ovarian cancer [5].
+
+123
+
+776 Breast Cancer Res Treat (2014) 145:775­784
+
+In the first study on the role of RAD51C in breast and ovarian cancer predisposition, six monoallelic deleterious RAD51C mutations were identified by a combination of genetic and functional assays exclusively in 480 (1.3 %) German breast and ovarian cancer (HBOC) families, but not among any of the 620 families with breast cancer only (HBC) [5]. Since then, many studies have been conducted in Caucasian populations to validate these findings, which, however, yielded controversial results. While no obvious deleterious mutations were detected in various studies undertaken in BRCA1/2-negative breast and/or ovarian cancer families from Belgium, the Netherlands, Canada [6, 7], USA [8, 9], Australia [10], and Israel [6, 11], unequivocal deleterious mutations were identified in BRCA1/2-negative HBOC families from Spain [12, 13], UK [14], and Australia [15] at frequencies ranging from 0.6 to 1.3 % in studies comprising more than 100 cases and higher frequencies of 2.4 and 2.9 % in smaller studies [16, 17]. In the Finnish study, two deleterious RAD51C mutations were identified in eight cases with a personal or family history of ovarian cancer, which conferred moderate-to-high risk of ovarian cancer [18]. The observed mutation frequencies were 25 % (2/8) in ovarian cancer families (HOC) and 1 % in unselected ovarian cancer patients (4/409). These results substantiated the impact of RAD51C germline mutations on increased susceptibility and predisposition to breast and ovarian cancer, but also suggest that the RAD51C mutation frequency may be lower than initially stated [5].
+In Asia, only one study conducted in an East Asian population from China has previously addressed the contribution of RAD51C germline mutations toward increased predisposition to breast and ovarian cancer. In this study, no unequivocal deleterious mutations were identified in 273 patients from breast and/or ovarian cancer families [19]. Of the eight identified variants, two were in silico predicted to be potentially functional. Given the paucity of data on genetic variability of RAD51C in Asian populations and the fact that germline mutations in the high-penetrance genes BRCA1, BRCA2, and TP53 and the moderate-penetrance gene CHEK2 account for only 20 % of early-onset or familial breast/ovarian cancer in Pakistan [20­22], we assessed the prevalence of RAD51C germline mutations in 348 high-risk BRCA1/2-negative earlyonset and familial breast and/or ovarian cancer patients from Pakistan. An additional group of 400 healthy female Pakistani controls was screened for the identified RAD51C mutations.
+Materials and methods
+
+breast cancer or epithelial ovarian cancer at the Shaukat Khanum Memorial Cancer Hospital and Research Center (SKMCH & RC) in Lahore, Pakistan, from June 2001 to June 2011. The index cases were categorized into seven categories based on family history of cancer: (1) families with one female breast cancer diagnosed B30 years of age; (2) families with two first- or second-degree (through a male) female relatives diagnosed with breast cancer; at least one diagnosed B50 years of age; (3) families with at least three cases of breast cancer; at least one diagnosed B50 years of age; (4) families with one male breast cancer case diagnosed at any age; (5) families with at least one female breast cancer and one ovarian cancer at any age; (6) families with one ovarian cancer diagnosed B45 years of age; and (7) families with at least two ovarian cancers; at least one diagnosed B45 years of age. Cases fulfilling the criteria (2) and (3) were considered as HBC families, those with criterion (5) as HBOC families, and those with criterion (7) as HOC families. All index cases were tested negative for deleterious mutations in the BRCA1 and BRCA2 genes [20, 22]. Bilateral breast cancer and breast and ovarian cancer in the same patient were counted as two independent cases. A detailed description of the 348 index cases is provided in Table 1.
+The control population comprised 400 healthy Pakistani women. These were either attendants of the patients registered at the hospital or visiting the cancer center for medical reasons other than cancer. The study was approved by the Institutional Review Board of the SKMCH & RC. All study participants signed informed written consent.
+Mutation screening
+Genomic DNA was extracted as previously described [20]. The complete coding sequence and exon­intron junctions of the RAD51C gene (Genbank accession number NM_058216.1) were screened in the 348 index patients by denaturing high-performance liquid chromatography (DHPLC) analysis. DHPLC analysis was performed with the WAVE system (Transgenomics, Omaha, NE, USA). PCR primer pairs were according to Meindl and colleagues [5]. Melting temperatures for the amplicons were predicted by the Transgenomic Navigator software (Version 1.7.0). The setup of PCR reactions, cycling conditions, and DHPLC running conditions are available on request.
+The presence of the RAD51C mutations identified in the 348 BRCA1/2-negative index cases was subsequently evaluated in 400 controls.
+
+Study subjects
+
+DNA sequence analysis
+
+The study included index patients from 348 breast and/or Each sample revealing variants identified by DHPLC ovarian cancer families who were diagnosed with invasive analysis was sequenced using an automated 3730XL DNA
+
+123
+
+Breast Cancer Res Treat (2014) 145:775­784
+
+777
+
+Table 1 Description of index cases screened for RAD51C mutations
+
+Cancer type of index case
+
+Phenotype of familiesa
+
+Number of families
+
+BC index cases Unilateral Bilateral
+
+Mean age of index cases in years (age range)
+
+Females BC BC BC
+BC BC ? OCb OC
+OC OC Males BC All casesc
+
+Breast cancer Early-onset BC (1 case B30 years) HBC (2 cases, C1 diagnosed B50 years) HBC (C3 cases, C1 diagnosed B50 years) Breast and ovarian cancer HBOC (C2 cases) HBOC (C2 cases) HBOC (C2 cases) Ovarian cancer Early-onset OC (1 case B 45 years) HOC (2 cases, C1 diagnosed B45 years) Breast cancer Male BC (1 case)
+
+175 60 59
+9 6 5
+22 1
+11 348
+
+175 ­ 27.2 (19­30) 41 19 39.7 (21­59) 51 8 43.8 (24­73)
+7 2 48.6 (25­67) 4 2 38.8 (29­59) ­ ­ 40.4 (33­60)
+­ ­ 32.9 (22­45) ­ ­ 31
+11 ­ 48 (30­73) 289 31
+
+BC breast cancer, HBC hereditary breast cancer, OC ovarian cancer, HBOC hereditary breast and ovarian cancer, HOC hereditary ovarian cancer a See ``Study subjects'' in the Method section b Bilateral breast cancer and breast and ovarian cancer in the same patient (n = 6) were counted as two independent cases c Including 309 female BCs, 34 OCs, and eleven male BCs
+
+sequencer (Applied Biosystems, California, USA) according to the manufacturers' instructions. Amplicons were bidirectionally sequenced to confirm the occurrence of a mutation.
+In silico analyses
+The RAD51C missense variants were analyzed for their potential effect on protein function using the default settings of web tools SIFT (http://sift.jcvi.org), Panther (http://www. pantherdb.org/tools/csnpScoreForm.jsp), PhD-SNP (http:// snps.uib.es/phd-snp/phd-snp.html), SNAP (http://www.ros tlab.org/services/snap/submit), and PolyPhen2 (http://genet ics.bwh.harvard.edu/pph2/). Furthermore, all intronic variants were analyzed for their potential effect on splicing using the splice prediction algorithms SpliceSiteFinder-like (http:// www.umd.be/searchSpliceSite.html), MaxEntScan (http:// genes.mit.edu/burgelab/maxent/), NNSPLICE (http://www. fruitfly.org/seq_tools/splice.html), GeneSplicer (http://ccb. jhu.edu/software/genesplicer/), and HumanSplice Finder (http://www.umd.be/HSF/) via the Alamut software interface (Interactive Biosoftware) in default settings.
+Results
+Total of 348 BRCA1/2-negative Pakistani breast and ovarian cancer patients were screened for germline mutations in the RAD51C gene using DHPLC followed by DNA
+
+sequencing analysis of variant bands. Of these patients, 175 were early-onset breast cancer cases (B30 years of age), 60 belonged to families with two breast cancer cases, 59 to families with three or more breast cancer cases, 20 to families with both breast and ovarian cancer, 22 were early-onset ovarian cancer cases (B45 years), one belonged to a HOC family, and eleven to families with male breast cancer (Table 1). The median age of disease presentation was 30 years (range 19­73) for female breast cancer (n = 309), 45 years (range 30­73) for male breast cancer (n = 11), and 33.5 years (range 22­60) for ovarian cancer (n = 34). Thirty-one of 309 (10 %) women were diagnosed with bilateral breast cancer.
+In total, we detected 17 different RAD51C variants. These comprised nine novel heterozygous variants including three protein-truncating mutations, one nonsynonymous and five noncoding variants, as well as eight variants that were previously identified (Table 2).
+One truncating mutation, a nonsense substitution of T to A at nucleotide position 204 in exon 2, c.204T[A (C68*), was identified in a 45-year-old ovarian cancer patient (III:10) of Punjabi ethnicity, who presented with a grade 3 endometrioid carcinoma (Fig. 1a) but no family history of breast/ovarian cancer. The mutation was also identified in an unaffected 51-year-old sister of the index patient (III:8) and in one of her sons (IV:2), who was diagnosed with leukemia at age 20. In this family, four other cancers were reported: two leukemias diagnosed at ages \20 (III:2) and 25 (V:2), one uterine tumor at unknown age (V:1), and one
+
+123
+
+778 Breast Cancer Res Treat (2014) 145:775­784
+
+Table 2 RAD51C germline alterations in familial breast/ovarian cancer patients and controls from Pakistan
+
+Location Coding (c.)
+DNA Sequencea
+
+Effect
+
+SNP Linkb Classification
+
+Prevalence
+
+Previously
+
+described Cases (N = 348) N (%) Controls (N = 400) N (%)
+
+Exon 2 Exon 2 Exon 2 Exon 2 Exon 4 Exon 5 Exon 6 50UTR 50UTR Intron 2 Intron 2 Intron 3 Intron 6 Intron 7 Intron 8 Intron 8 30UTR
+
+c.204T>A (C68*) c.225T[G (Y75*) c.195A[G (R65R) c.376G[A (A126T) c.701C[G (S234*) c.790G[A (G264S) c.873T[G (D291E) c.1 226C[T c.1 234T[G c.404 ?63_71dup9 c.405 2111A[G c.572 217G[T c.904 ?34T[C c.965 121A[G c.1026 113T[C c.1027 217T[C c.*25C[G
+
+Nonsense Nonsense Silent Missense Nonsense Missense Missense 50UTR 50UTR Intronic Intronic Intronic Intronic Intronic Intronic Intronic 30UTR
+
+­ ­ rs45511291 rs61758784 ­ ­ ­ rs12946397 ­ ­ ­ ­ rs28363318 ­ ­ ­ rs28363336
+
+M M P P M P M?c P M?c P P P P M?c P P P
+
+1 (0.3) 1 (0.3) 1 (0.3) 1 (0.3) 0 (0.0) 1 (0.3) 1 (0.3) 74 (21.3) 1 (0.3) 2 (0.6) 1 (0.3) 1 (0.3) 109 (31.3) 2 (0.6) 2 (0.6) 1 (0.3) 64 (18.4)
+
+0 (0.0) 0 (0.0) 0 (0.0) 1 (0.25) 1 (0.2) 0 (0.0) 0 (0.0) 105 (26.3) 0 (0.0) 0 (0.0) 0 (0.0) 1 (0.2) 125 (31.3) 0 (0.0) 0 (0.0) 0 (0.0) 49 (12.3)
+
+No
+No Yesd Yese
+No Yesf
+No Yesg
+No Yesh
+No Yesi Yesj
+No
+No
+No Yesk
+
+Novel germline mutations are marked in bold
+P polymorphism, M mutation, M? potentially deleterious mutation a Nomenclature follows Human Genome Variation Society (HGVS) (http://www.hgvs.org). Numbering starts at the first A of the first coding ATG (located in exon 1) of NCBI GenBank Accession NM_058216.1 b Link to NCBI SNP database (http://ncbi.nlm.nih.gov/projects/SNP/) c Classification of the mutation is based on in silico analyses d [7, 9, 15] e [5, 6, 32] f [5, 15, 18] g [9, 18, 32] h [9] i [13, 15, 32] j [9, 13, 32] k [7]
+
+abdominal cancer of unknown primary origin at age 23 (III:1).
+The second truncating mutation, another nonsense substitution of T to G at nucleotide 225 also in exon 2, c.225T[G (Y75*), was identified in a patient from Kashmir, who was diagnosed with breast cancer at age 51 (III:1) and reported a family history of breast cancer only (Fig. 1b). The mutation was also found in a maternal aunt of the index patient diagnosed with breast cancer at age 49 (II:11) and not in her unaffected sister (III:3). Both mutation carriers presented with invasive ductal carcinoma (IDC), with no lymph node involvement, and were negative for estrogen receptor (ER), progesterone receptor (PR), and human epidermal growth factor receptor 2 (HER2).
+
+The third truncating mutation, another nonsense substitution of C to G at nucleotide 701 in exon 4, c.701C[G (S234*), was identified in a 60-year-old control with no family history of breast/ovarian cancer implying that she was an asymptomatic mutation carrier.
+The remaining six novel variants were analyzed for their potential functional effect by in silico analyses (Table 3). The coding variant c.873T[G (p.D291E) is predicted to be likely pathogenic by three of the five prediction tools, and the two noncoding variants c.1-34T[G in the 50UTR and c.965?21A[G in intron 7 were predicted to create a splice donor site by four of the five splice-site prediction algorithms integrated in the Alamut software implying that they are disease-causative.
+
+123
+
+Breast Cancer Res Treat (2014) 145:775­784
+
+779
+
+Fig. 1 Pedigrees of breast and ovarian cancer patients with RAD51C mutations. a Family 70 carrying the c.204T[A (p.C68*) mutation; b Family 245 carrying the c.225T[G (p.Y75*) mutation; c Family 517 carrying the c.873T[G (p.D291E) mutation. Circles are females, squares are males, and a diagonal slash indicates a deceased individual. Symbols with filled left upper quadrant: unilateral breast cancer. Symbols with filled upper half: bilateral breast cancer. Symbols with filled left lower quadrant: ovarian cancer. Symbols with filled right lower quadrant: cancer other than breast or ovarian cancer, the name of that cancer is mentioned. Identification numbers of individuals are below the symbols. The index patient is indicated by an arrow. BC breast cancer, CRC colorectal cancer, OC ovarian cancer. The numbers following these abbreviations indicate age at cancer diagnosis. M? mutation positive, M- mutation negative
+
+a
+I:1 I:2
+
+II:1 II:2
+
+II:3
+
+II:4 II:5
+
+I:3 I:4
+
+II:6 II:7
+
+III:1 III:2 III:3 III:4 III:5 III:6 III:7 III:8 Abdomen:23 Leukemia:<20
+M+
+
+III:9
+
+III:10 OC:45
+M+
+
+III:11 III:12 III:13
+
+III:14
+
+IV:1 IV:2 IV:3 IV:4 IV:5 IV:6 IV:7 IV:8 IV:9 IV:10 Leukemia:20 M+
+
+IV:11
+
+IV:12
+
+b
+I:1 I:2
+
+V:1 V:2 Uterus Leukemia:25
+
+II:1 II:2 II:3 II:4 II:5 II:6 II:7
+
+II:8 II:9
+
+II:10
+
+II:11
+
+BC:49
+
+M+
+
+III:1 BC:51
+M+
+
+III:2 III:3 M-
+
+III:4 BC:45
+
+III:5
+
+IV:1 IV:2
+
+IV:3 IV:4
+
+c
+I:1 I:2
+
+I:3 I:4
+
+II:1 II:2
+
+II:3
+
+II:4 II:5
+
+II:6
+
+II:7 II:8 II:9 Leukemia:49
+
+II:10
+
+II:11
+
+II:12 II:13
+
+II:14
+
+III:1 III:2 III:3 III:4 III:5 III:6
+
+III:7 III:8 III:9 III:10 III:11 III:12 III:13 III:14 III:15 III:16 III:17 Leukemia:59 Prostate:>70
+
+III:18 III:19 III:20 III:21 M+
+
+III:22 III:23 III:24 III:25 III:26 III:27 III:28 III:29 III:30 III:31 III:32
+
+CRC:60
+
+BC:54,56 BC:50
+
+M+ M+
+
+IV:1 IV:2 IV:3 IV:4 IV:5 BC:24
+
+IV:6 IV:7 IV:8 OC:20
+
+123
+
+780 Breast Cancer Res Treat (2014) 145:775­784
+
+Table 3 In silico analysis of the novel RAD51C variants
+
+Coding variant
+
+PolyPhen2
+
+SIFT
+
+In silico predictions
+
+PANTHER
+
+PhD-SNP
+
+SNAP
+
+Consensusa
+
+c.873T[G (D291E)
+
+Benign
+
+Noncoding variant
+c.1 -34T[G c.405 -111A[G c.965 ?21A[G c.1026 ?13T[C c.1027 -17T[C
+
+SpliceSiteFinder-like
+D (0 ? 71.2)c NE D (0 ? 78.0)d NE NE
+
+Tolerated
+
+Deleterious
+
+Disease
+
+Disease
+
+Splice-site predictions
+
+MaxEntScan NNSPLICE GeneSplicer HumanSpliceSite Finder
+
+D (0 ? 3.5)c D (0 ? 4.8) D (0 ? 4.2)d NE NE
+
+NE NE D (0 ? 0.7)d NE NE
+
+D (0 ? 4.9)c NE NE NE NE
+
+D (0 ? 82.7)c D (0 ? 74.0) D (0 ? 70.7)e NE NE
+
+Deleterious
+Consensusa, b
+Deleterious Benign Deleterious Benign Benign
+
+A acceptor, D donor, NE no effect a The variant is considered as deleterious by three of the five protein function prediction algorithms b [20 % change in score (i.e., a wild-type splice-site score decreases, and/or a cryptic splice-site score increases) is considered as significant c Creates a cryptic splice donor site at c.1-35 d Creates a cryptic splice donor site at c.965?16 e Creates a cryptic splice donor site at c.965?20
+
+The novel potentially functional missense mutation, c.873T[G (p.D291E), was identified in a patient of Hindko origin, who was diagnosed with bilateral metachronous breast cancer at ages 54 and 56 (III:26) and reported a family history of breast and ovarian cancer (Fig. 1c). The index case presented with a grade 2, lymph node-positive, IDC that was ER/PR positive. On the contralateral side, she presented with a grade 2, lymph node-positive, ER/PRnegative, and HER2-positive IDC. The mutation was also identified in two brothers of the index patient; one was diagnosed with colorectal cancer at age 60 (III:22), and the other was unaffected at age 72 (III:18). A daughter of III:18 had been diagnosed with breast cancer at age 24 and died at 26 (IV:3) implying that she may have inherited the mutation from her unaffected father. In this family, another breast cancer case and one ovarian cancer case were reported with diagnoses at 50 (III:27) and 20 (IV:7) years of age, respectively, and two leukemias at 49 (II:8) and 59 (III:8) years of age and one prostate cancer diagnosed above age 70 (III:10).
+The c.1-34T[G variant was observed in an early-onset breast cancer diagnosed at age 25 who presented with an ER/PR/HER2-negative grade 3 IDC. The other variant (c.965?21A[G) was found in two patients: one with earlyonset diagnosis who presented at age 29 with an ER/PR/ HER2-positive grade 3 IDC, and the other diagnosed with serous ovarian cancer at age 34. The index patient's mother was diagnosed with breast cancer at age 38, and her mother's maternal aunt was affected with breast cancer at an unknown age.
+The truncating mutations c.204T[A (p.C68*) and c.225T[G (p.Y75*) and the three in silico-predicted
+
+potentially functional variants were not identified in 400 controls further supporting their pathogenicity (Table 2).
+The remaining eight variants have been detected in other recent RAD51C mutation studies and classified as polymorphisms (Table 2). Of these, c.790G[A, encoding a p.G264S amino acid residue change, has shown evidence of association with cancer [14].
+Discussion
+The significance of RAD51C gene as a potential moderateto-high-penetrance breast and/or ovarian cancer susceptibility gene has generated significant interest and has been intensively studied in Caucasian populations. In the current study, we investigated the prevalence of RAD51C germline mutations in BRCA1/2-negative early-onset and familial breast and/or ovarian cancer patients from Pakistan. While only one previous study conducted in an East Asian population from China has assessed the RAD51C mutation frequency in familial breast and/or ovarian cancer patients [19], our study conducted in Pakistan provides additional information for a South Asian population.
+We identified two novel protein-truncating RAD51C mutations, p.C68* and p.Y75*, and three novel in silicopredicted potentially functional mutations, p.D291E, c.1-34T[G, and c.965?21A[G, the latter of which was detected in two unrelated patients. These mutations were not detected in 400 healthy controls further supporting the notion that they may be associated with disease. Additionally, a third novel truncating mutation, p.S234*, was identified in a 60-year-old control with no family history of
+
+123
+
+Breast Cancer Res Treat (2014) 145:775­784
+
+781
+
+breast/ovarian cancer. This nonsense mutation is likely to be pathogenic and, in view of the relatively advanced age of the woman, probably of low penetrance. In contrast to our study, no clearly pathogenic mutations were identified in the Chinese study, in which two out of eight identified variants were in silico predicted to be possibly functional [19]. These findings suggest that the prevalence and spectrum of RAD51C mutations may vary within Asian populations.
+In the present study conducted in Pakistan, no unequivocal deleterious RAD51C mutation was identified in HBOC families although the sample size of this subgroup of patients was relatively small (n = 20). In the studies describing RAD51C mutation frequency in Caucasian population, variable results have been reported. In the initial German study, the frequency of mutations in HBOC families was 1.3 % (6/480) [5], that is the same as reported in a Spanish study (4/300) [12]. Lower frequency of mutation was observed in other larger studies with more than 100 families conducted in Australia (2/335; 0.6 %) [15], UK (8/1102; 0.7 %) [14], and Spain (1/101; 1 %) [13], while no disease-causative mutations were detected in families from Belgium, Netherlands, Canada (n = 351) [6, 7], USA (n = 92) [9] and (n = 192) [8], Australia (n = 70) [10], and Israel (n = 100) [6] and (n = 206) [11]. These findings suggest that the prevalence of RAD51C mutations in HBOC families may be lower than that initially described [5].
+In this study, we identified one deleterious RAD51C mutation in the small subset of 22 early-onset ovarian cancer patients (4.5 %). Deleterious RAD51C mutations were also identified in unselected Australian or Finnish ovarian cancer patients (1/267; 0.4 % and 4/409; 1 %, respectively) [15, 18] and in HOC families from the UK (1/30; 3.3 %) [14], Australia (1/21; 4.8 %) [15], and Finland (2/8; 25 %) [18] confirming the role of RAD51C as a potential susceptibility gene predisposing to ovarian cancer.
+While evidence for RAD51C conferring susceptibility to ovarian cancer is convincing, albeit with low penetrance, its role in conferring susceptibility to breast cancer is less clear. Few studies have identified pathogenic RAD51C mutations in HBC families. A deleterious mutation, p.Gln143Arg, was previously identified in a Spanish HBC family [12], and several in silico-predicted potentially functional missense variants were described in Australian families [15]. In our study, we identified a deleterious mutation in one of the 119 HBC families from Pakistan (0.8 %) supporting the low potential contribution of RAD51C in predisposition to breast cancer.
+The contributory role of RAD51C mutations to risk of early-onset breast cancer was investigated in a previous study on 34 early-onset breast cancer cases (diagnosed
+
+below age 35), and it showed no mutations to be associated [13]. In contrast, the present study showed two of the 175 early-onset breast cancer patients diagnosed below age 30 to harbor an in silico-predicted potentially functional mutation suggesting an association.
+No pathogenic RAD51C mutation was observed in eleven male breast cancer patients from Pakistan. A similar observation was previously reported by Silvestri and colleagues who screened 97 BRCA1/2-negative male breast cancers from Italy [23]. This finding supports the notion that RAD51C may not confer susceptibility to breast cancer in males.
+Two of the RAD51C mutations identified in this study, p.C68* and p.D291E, occurred in families with multiple cases of leukemia. In the p.C68*-positive family, the mutation was also found in a nephew of the index patient who was diagnosed with leukemia at age 20, implying that a monoallelic RAD51C mutation may predispose to leukemia. However, further evidence for this could not be provided because DNA samples from the two additional family members affected with leukemia were not available for analysis. Similarly, lack of DNA samples prevented further evaluation of the two leukemic patients from the p.D291Epositive HBOC family and three leukemic patients from a previously described Finnish HBOC family positive for the deleterious c.-13_14del27 RAD51C mutation [17].
+In the present study, no recurrent pathogenic mutation in the RAD51C gene was detected. Worldwide, only four recurrent mutations have been described. Two founder mutations (c.93delG and c.837 ?1G[A) were identified in Finnish breast and/or ovarian cancer families/unselected ovarian cancer patients [18]. Another mutation (c.774delT) was detected in one unselected ovarian cancer patient from Sweden and one HBOC family from Spain [13, 17]. The Spanish patient inherited the mutation from her unaffected Swedish mother, suggesting that c.774delT is a recurrent Swedish mutation. Recently, one gross deletion encompassing exons 5­9 was identified in one HBC and one HBOC family from Germany [24]. However, due to their low prevalence, estimates of the breast and ovarian cancer risk associated with the recurrent mutations are unknown.
+Association of RAD51C mutations with the development of two or more tumors has previously been suggested in an Australian study, in which two of three truncating RAD51C mutations were observed in women with breast and ovarian cancer [15]. Additionally, a Spanish study showed four of the seven affected women harboring a deleterious mutation developed bilateral tumors, either breast or ovarian, including one patient diagnosed with breast cancer at age 64 and bilateral ovarian cancer at age 74 [12]. These findings contrast with that of our study, in which both patients with a deleterious mutation presented with unilateral disease.
+
+123
+
+782 Breast Cancer Res Treat (2014) 145:775­784
+
+The proportion of missense mutations differs greatly between genes affecting either no or few alleles, as is the case for BRCA1 and BRCA2 (BIC database, http://research. nhgri.nih.gov/bic/) or affecting the majority of alleles, as is the case for TP53 [25] and apparently also RAD51C [5, 12, 13, 19]. Interestingly, in the Pakistani study, only three out of 17 RAD51C variants were of missense type, whereas in the Chinese study, four out of eight were missense mutations suggesting that the nature of RAD51C mutations may vary between populations.
+Many methods have been developed for the in silico prediction of the phenotypic effect of nonsynonymous SNPs (nsSNPs) that may affect gene function through their effect on structure and/or function of the encoded protein. The methods differ in the properties of the variants they take into account in the prediction, as well as in the nature and possible training of the classification method used for decision making. Due to these differences, the prediction performance of these methods for a given variant can differ. Recently, it was shown that a consensus prediction using multiple algorithms improved the prediction performance [26]. However, since none of the methods are 100 % predictive, they are considered as one tool to help interpret nsSNPs according to their predicted pathogenicity. The definite proof for the pathogenicity of the variants, however, has to be provided by functional in vitro assays, which are often complicated and time consuming as is the case for RAD51C. For that reason, most studies including the present one used multiple methods to classify RAD51C variants [5, 7­9, 12, 13, 15, 17, 19]. Two studies that in addition functionally characterized the variants yielded similar results [5, 12], supporting the notion for good performance of prediction methods.
+In contrast to the mean age of breast cancer onset of 31 years (range 22­49) in Pakistani patients harboring BRCA1 germline mutations [20], the mean age of breast cancer onset of the two Pakistani patients with the p.Y75* RAD51C truncating mutation was 50 years (range 49­51), which is similar to mean age of 53 years previously reported in Caucasians [5].
+The present study included 175 female early-onset breast cancer patients with diagnosis B30 years of age. The mean age of the remaining familial breast cancer cases ranged from 39.7 to 43.8 years. It is of note that in Pakistan, women usually present with breast cancer below 40 years of age [27]. The Karachi Cancer Registry also reported the highest risk of breast cancer in women between 25 and 39 years of age [28]. Recently, similar findings were observed in two other studies showing that Pakistani women residing in the US more often presented with breast cancer before age 40 compared to Caucasian women [29, 30].
+The breast tumors of the two p.Y75* RAD51C mutation carriers were of IDC histology, lymph node negative, and
+
+negative for ER, PR, and HER2 expression. This is in keeping with findings from various previous studies showing that RAD51C-linked breast tumors were predominantly IDC, lymph node negative, and HER2 negative [5, 12, 18], whereas results of ER and PR status were not consistent.
+RAD51C mutations have been shown to confer a sixfold increased risk of ovarian cancer in Caucasians, which constitutes a greater than 9 % cumulative risk by age 80 [14]. Conversely, the risk of breast cancer and other cancer types including leukemia [17] and in present study, nonHodgkin lymphoma, lower abdominal tumor [5], cancers of the bowel, rectum [15], and skin [18], as well as sporadic squamous cell carcinomas of the head and neck [31], are minimal or unknown due to low mutation prevalence in these tumor phenotypes. In Asian populations, data on the prevalence of RAD51C mutations are even rarer and data on risks and tumor phenotypes associated with RAD51C mutations are lacking.
+In this study, we have identified two novel deleterious mutations in the Pakistani patients/breast/ovarian cancer families. The RAD51C mutation frequency was 0.8 % (1/119) in HBC families and 4.5 % (1/22) in early-onset ovarian cancer patients, while no mutations were detected in the 20 HBOC families and the 175 early-onset breast cancer cases. These findings suggest that RAD51C mutations may not have substantial contribution toward breast and ovarian cancer predisposition in Pakistan. These findings imply that in Pakistan, larger studies are required to assess the genotype­phenotype correlation in regard to tumor spectrum and penetrance associated with RAD51C mutations before a genetic test can be introduced in the clinical setting.
+Acknowledgments We are grateful to all family members for their participation in this study. This study was supported by the Shaukat Khanum Memorial Cancer Hospital and Research Centre and the German Cancer Research Center.
+Conflict of interest The authors declare that they have no conflicts of interest.
+References
+1. Howlett NG, Taniguchi T, Olson S, Cox B, Waisfisz Q, De DieSmulders C, Persky N, Grompe M, Joenje H, Pals G, Ikeda H, Fox EA, D'Andrea AD (2002) Biallelic inactivation of BRCA2 in Fanconi anemia. Science 297(5581):606­609
+2. Xia B, Dorsman JC, Ameziane N, de Vries Y, Rooimans MA, Sheng Q, Pals G, Errami A, Gluckman E, Llera J, Wang W, Livingston DM, Joenje H, de Winter JP (2007) Fanconi anemia is associated with a defect in the BRCA2 partner PALB2. Nat Genet 39(2):159­161
+3. Levran O, Attwooll C, Henry RT, Milton KL, Neveling K, Rio P, Batish SD, Kalb R, Velleuer E, Barral S, Ott J, Petrini J, Schindler D, Hanenberg H, Auerbach AD (2005) The BRCA1-
+
+123
+
+Breast Cancer Res Treat (2014) 145:775­784
+
+783
+
+interacting helicase BRIP1 is deficient in Fanconi anemia. Nat Genet 37(9):931­933 4. Vaz F, Hanenberg H, Schuster B, Barker K, Wiek C, Erven V, Neveling K, Endt D, Kesterton I, Autore F, Fraternali F, Freund M, Hartmann L, Grimwade D, Roberts RG, Schaal H, Mohammed S, Rahman N, Schindler D, Mathew CG (2010) Mutation of the RAD51C gene in a Fanconi anemia-like disorder. Nat Genet 42(5):406­409 5. Meindl A, Hellebrand H, Wiek C, Erven V, Wappenschmidt B, Niederacher D, Freund M, Lichtner P, Hartmann L, Schaal H, Ramser J, Honisch E, Kubisch C, Wichmann HE, Kast K, Deissler H, Engel C, Muller-Myhsok B, Neveling K, Kiechle M, Mathew CG, Schindler D, Schmutzler RK, Hanenberg H (2010) Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 42(5):410­414 6. Akbari MR, Tonin P, Foulkes WD, Ghadirian P, Tischkowitz M, Narod SA (2010) RAD51C germline mutations in breast and ovarian cancer patients. Breast Cancer Res 12(4):404­405 7. De Leeneer K, Van BM, De BS, Swietek N, Schietecatte P, Sabbaghian N, Van den EJ, Willocx S, Storm K, Blaumeiser B, van Asperen CJ, Wijnen JT, Leunen K, Legius E, Michils G, Matthijs G, Blok MJ, Gomez-Garcia E, De PA, Tischkowitz M, Poppe B, Claes K (2012) Evaluation of RAD51C as cancer susceptibility gene in a large breast-ovarian cancer patient population referred for genetic testing. Breast Cancer Res Treat 133(1):393­398 8. Lu W, Wang X, Lin H, Lindor NM, Couch FJ (2012) Mutation screening of RAD51C in high-risk breast and ovarian cancer families. Fam Cancer 11(3):381­385 9. Zheng Y, Zhang J, Hope K, Niu Q, Huo D, Olopade OI (2010) Screening RAD51C nucleotide alterations in patients with a family history of breast and ovarian cancer. Breast Cancer Res Treat 124(3):857­861 10. Wong MW, Nordfors C, Mossman D, Pecenpetelovska G, VeryKiejda KA, Talseth-Palmer B, Bowden NA, Scott RJ (2011) BRIP1, PALB2, and RAD51C mutation analysis reveals their relative importance as genetic susceptibility factors for breast cancer. Breast Cancer Res Treat 127(3):853­859 11. Kushnir A, Laitman Y, Shimon SP, Berger R, Friedman E (2012) Germline mutations in RAD51C in Jewish high cancer risk families. Breast Cancer Res Treat 136(3):869­874 12. Osorio A, Endt D, Fernandez F, Eirich K, de la Hoya M, Schmutzler R, Caldes T, Meindl A, Schindler D, Benitez J (2012) Predominance of pathogenic missense variants in the RAD51C gene occurring in breast and ovarian cancer families. Hum Mol Genet 21(13):2889­2898 13. Romero A, Perez-Segura P, Tosar A, Garcia-Saenz JA, Az-Rubio E, Caldes T, de la Hoya M (2011) A HRM-based screening method detects RAD51C germ-line deleterious mutations in Spanish breast and ovarian cancer families. Breast Cancer Res Treat 129(3):939­946 14. Loveday C, Turnbull C, Ruark E, Xicola RM, Ramsay E, Hughes D, Warren-Perry M, Snape K, Eccles D, Evans DG, Gore M, Renwick A, Seal S, Antoniou AC, Rahman N (2012) Germline RAD51C mutations confer susceptibility to ovarian cancer. Nat Genet 44(5):475­476 15. Thompson ER, Boyle SE, Johnson J, Ryland GL, Sawyer S, Choong DYH, kConFab, Chenevix-Trench G, Trainer AH, Lindeman GJ, Mitchell G, James PA, Campbell IG (2012) Analysis of RAD51C germline mutations in high-risk breast and ovarian cancer families and ovarian cancer patients. Hum Mutat 33(1):95­99 16. Coulet F, Fajac A, Colas C, Eyries M, Dion-Miniere A, Rouzier R, Uzan S, Lefranc JP, Carbonnel M, Cornelis F, Cortez A,
+
+Soubrier F (2013) Germline RAD51C mutations in ovarian cancer susceptibility. Clin Genet 83(4):332­336 17. Vuorela M, Pylkas K, Hartikainen JM, Sundfeldt K, Lindblom A, von Wachenfeldt WA, Haanpaa M, Puistola U, Rosengren A, Anttila M, Kosma VM, Mannermaa A, Winqvist R (2011) Further evidence for the contribution of the RAD51C gene in hereditary breast and ovarian cancer susceptibility. Breast Cancer Res Treat 130(3):1003­1010 18. Pelttari LM, Heikkinen T, Thompson D, Kallioniemi A, Schleutker J, Holli K, Blomqvist C, Aittomaki K, Butzow R, Nevanlinna H (2011) RAD51C is a susceptibility gene for ovarian cancer. Hum Mol Genet 20(16):3278­3288 19. Pang Z, Yao L, Zhang J, Ouyang T, Li J, Wang T, Fan Z, Fan T, Lin B, Xie Y (2011) RAD51C germline mutations in Chinese women with familial breast cancer. Breast Cancer Res Treat 129(3):1019­1020 20. Rashid MU, Zaidi A, Torres D, Sultan F, Benner A, Naqvi B, Shakoori AR, Seidel-Renkert A, Farooq H, Narod S, Amin A, Hamann U (2006) Prevalence of BRCA1 and BRCA2 mutations in Pakistani breast and ovarian cancer patients. Int J Cancer 119(12):2832­2839 21. Rashid MU, Gull S, Asghar K, Muhammad N, Amin A, Hamann U (2012) Prevalence of TP53 germ line mutations in young Pakistani breast cancer patients. Fam Cancer 11(2):307­311 22. Rashid MU, Muhammad N, Faisal S, Amin A, Hamann U (2013) Constitutional CHEK2 mutations are infrequent in early-onset and familial breast/ovarian cancer patients from Pakistan. BMC Cancer 13(6):312­318 23. Silvestri V, Rizzolo P, Falchetti M, Zanna I, Masala G, Palli D, Ottini L (2011) Mutation screening of RAD51C in male breast cancer patients. Breast Cancer Res 13(1):404­405 24. Schnurbein G, Hauke J, Wappenschmidt B, Weber-Lassalle N, Engert S, Hellebrand H, Garbes L, Becker A, Neidhardt G, Rhiem K, Meindl A, Schmutzler RK, Hahnen E (2013) RAD51C deletion screening identifies a recurrent gross deletion in breast cancer and ovarian cancer families. Breast Cancer Res 15(6):R120 25. Petitjean A, Mathe E, Kato S, Ishioka C, Tavtigian SV, Hainaut P, Olivier M (2007) Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: lessons from recent developments in the IARC TP53 database. Hum Mutat 28(6):622­629 26. Chan PA, Duraisamy S, Miller PJ, Newell JA, McBride C, Bond JP, Raevaara T, Ollila S, Nystrom M, Grimm AJ, Christodoulou J, Oetting WS, Greenblatt MS (2007) Interpreting missense variants: comparing computational methods in human disease genes CDKN2A, MLH1, MSH2, MECP2, and tyrosinase (TYR). Hum Mutat 28(7):683­693 27. Usmani K, Khanum A, Afzal H, Ahmad N (1996) Breast carcinoma in Pakistani women. J Environ Pathol Toxicol Oncol 15(2­4):251­253 28. Bhurgri Y, Kayani N, Faridi N, Pervez S, Usman A, Bhurgri H, Malik J, Bashir I, Bhurgri A, Hasan SH, Zaidi SH (2007) Pathoepidemiology of breast cancer in Karachi `1995­1997'. Asian Pac J Cancer Prev 8(2):215­220 29. Kakarala M, Rozek L, Cote M, Liyanage S, Brenner DE (2010) Breast cancer histology and receptor status characterization in Asian Indian and Pakistani women in the U.S--a SEER analysis. BMC Cancer 10:191 30. Moran MS, Gonsalves L, Goss DM, Ma S (2011) Breast cancers in U.S. residing Indian-Pakistani versus non-Hispanic White women: comparative analysis of clinical-pathologic features, treatment, and survival. Breast Cancer Res Treat 128(2):543­551 31. Scheckenbach K, Baldus SE, Balz V, Freund M, Pakropa P, Sproll C, Schafer KL, Wagenmann M, Schipper J, Hanenberg H (2014) RAD51C--a new human cancer susceptibility gene for
+
+123
+
+784
+sporadic squamous cell carcinoma of the head and neck (HNSCC). Oral Oncol 50(3):196­199 32. Clague J, Wilhoite G, Adamson A, Bailis A, Weitzel JN, Neuhausen SL (2011) RAD51C germline mutations in breast and
+
+Breast Cancer Res Treat (2014) 145:775­784
+ovarian cancer cases from high-risk families. PLoS ONE 6(9):e25632
+
+123
+
+

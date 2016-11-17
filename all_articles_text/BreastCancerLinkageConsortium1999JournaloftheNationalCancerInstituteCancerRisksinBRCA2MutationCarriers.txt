@@ -1,0 +1,531 @@
+REPORTS
+
+Downloaded from http://jnci.oxfordjournals.org/ at McLean Hospital, Mental Health Sciences Library on June 9, 2016
+
+Cancer Risks in BRCA2 Mutation Carriers
+The Breast Cancer Linkage Consortium
+Background: Carriers of germline mutations in the BRCA2 gene are known to be at high risk of breast and ovarian cancers, but the risks of other cancers in mutation carriers are uncertain. We investigated these risks in 173 breast­ ovarian cancer families with BRCA2 mutations identified at 20 centers in Europe and North America. Methods: Other cancer occurrence was determined in a final cohort of 3728 individuals, among whom 681 persons had breast or ovarian cancer and 3047 persons either were known mutation carriers, were first-degree relatives of known mutation carriers, or were firstdegree relatives of breast or ovarian cancer patients. Incidence rates were compared with population-specific incidence rates, and relative risks (RRs) to carriers, together with 95% confidence intervals (CIs), were estimated by use of a maximum likelihood approach. Three hundred thirty-three other cancers occurred in this cohort. Results: Statistically significant increases in risks were observed for prostate cancer (estimated RR = 4.65; 95% CI = 3.48­6.22), pancreatic cancer (RR = 3.51; 95% CI = 1.87­6.58), gallbladder and bile duct cancer (RR = 4.97; 95% CI = 1.50­16.52), stomach cancer (RR = 2.59; 95%CI = 1.46­4.61), and malignant melanoma (RR = 2.58; 95% CI = 1.28­5.17). The RR for prostate cancer for men below the age of 65 years was 7.33 (95% CI = 4.66­11.52). Among women who had already developed breast cancer, the cumulative risks of a second, contralateral breast cancer and of ovarian cancer by the age of 70 years were estimated to be 52.3% (95% CI = 41.7%­61.0%) and 15.9% (95% CI = 8.8%­22.5%), respectively. Conclusions: In addition to the large risks of breast and ovarian cancers, BRCA2 mutations may be associated with increased risks of several other cancers. [J Natl Cancer Inst 1999;91: 1310­6]
+
+The majority of families with a clearly dominant predisposition to breast and/or ovarian cancer are now known to harbor germline mutations in either BRCA1 or BRCA2 genes (1­3). More than 100 distinct disease-causing mutations in BRCA2 have been found since its identification in 1995. BRCA2 mutations are known to predispose individuals to a high lifetime risk of breast cancer, similar to that associated with BRCA1 mutations, together with a lower, although still statistically significant, risk of ovarian cancer (3).
+In addition to the risks of breast and ovarian cancers, several reports have suggested that BRCA2 mutations may be associated with an increased risk of other cancers. Easton et al. (4) studied two of the largest known families linked to BRCA2, from Utah in the United States and from Ireland, respectively. They found a statistically significant excess of prostate cancer, with a relative risk (RR) of 2.69 based on five possible carriers, and of laryngeal cancer, with an RR of 7.67 based on two possible mutation carriers. They also found one confirmed and one possible case of ocular melanoma in obligate carriers. Further support for the prostate cancer risk was provided by Struewing et al. (5) in their study of BRCA1 and BRCA2 mutations in Ashkenazi Jewish volunteers from the Washington, DC, area. On the basis of the family histories of known mutation carriers, they estimated a cumulative risk of prostate cancer of 16% by the age of 70 years, with no statistically significant difference between BRCA1 and BRCA2 carriers. An excess risk of prostate cancer has also been reported in relatives of breast cancer patients from Iceland (6) and specifically in multiple-case breast cancer families, the majority of which are due to a single founder BRCA2 mutation 999del5 (7,8). Johannesdottir et al. (9) found the BRCA2 mutation 999del5 in two of 75 prostate cancer case patients diagnosed below the age of 65 years, compared with two of 499 in Icelandic population control subjects. An association between BRCA2 and pancreatic cancer has also been suspected, since homozygous deletion of BRCA2 in a pancreatic adenocarcinoma has been observed (10). Several pancre-
+
+atic cancers have been observed in BRCA2 families [e.g., (11)]. In addition, Goggins et al. (12) found probable germline BRCA2 mutations in three of 15 pancreatic cancer patients with loss of heterozygosity (LOH) at the BRCA2 locus in the tumor and two further mutations in a limited screen of 245 unselected patients with pancreatic cancer. These proportions are higher than likely population frequencies, but the magnitude of the excess is hard to evaluate, particularly since three of the mutations were the 6174delT mutation, which is highly prevalent in Ashkenazi Jews. Katagiri et al. (13) found no mutations among 36 Japanese patients with pancreatic cancer.
+To provide a more comprehensive assessment of the cancer risks to BRCA2 mutation carriers, we have studied the risks of cancer in the large series of families collected by the Breast Cancer Linkage Consortium (BCLC). To our knowledge, this is by far the largest series of BRCA2 families and carriers currently available. We have also used data on the occurrence of bilateral breast cancer and ovarian cancer subsequent to breast cancer to provide further estimates of the risks of breast and ovarian cancers in mutation carriers.
+SUBJECTS AND METHODS
+Families
+Families were ascertained from 20 centers in Western Europe, the United States, and Canada that were studying familial breast or ovarian cancer. Thirteen families from the Toronto group were families of Ashkenazi Jewish patients from North American centers with ovarian cancer who tested positive for the 6174delT mutation. Eight of the Swedish
+Affiliation of authors: Cancer Research Campaign (CRC) Genetic Epidemiology Unit, Strangeways Research Laboratory, Cambridge, U.K.
+Correspondence to: Douglas Easton, Ph.D., CRC Genetic Epidemiology Unit, Strangeways Research Laboratory, Worts Causeway, Cambridge, U.K. (email: douglas@srl.cam.ac.uk).
+See "Appendix" section for a list of the consortium members.
+See "Notes" following "References."
+© Oxford University Press
+
+1310 REPORTS
+
+Journal of the National Cancer Institute, Vol. 91, No. 15, August 4, 1999
+
+Downloaded from http://jnci.oxfordjournals.org/ at McLean Hospital, Mental Health Sciences Library on June 9, 2016
+
+families were ascertained through mutation testing of an unselected series of male breast cancer patients (six families) or ovarian cancer patients (two families), and two additional families were ascertained through testing of breast cancer cases among women under the age of 30 years. All of the remaining families were ascertained on the basis of at least two relatives with breast cancer diagnosed below age 60 years or ovarian cancer diagnosed at any age, with more restrictive criteria in some centers. There were 173 families, ranging in size from three to 255 individuals, with the median family size being 17. These families contained 596 female breast cancer patients diagnosed under the age of 60 years, 132 ovarian cancer patients, and 72 male breast cancer patients. Eighty-eight of the female breast cancer patients and four of the male breast cancer patients had bilateral disease. Thirty-nine families contained five or more female breast cancer patients under 60 years of age, 76 contained at least one ovarian cancer patient, and 53 contained at least one male breast cancer patient.
+Families were eligible for this study if one or more affected individuals tested positive for a pathologic BRCA2 mutation or if there was clear evidence of linkage to BRCA2, with LOD (i.e., logarithm of the odds) scores greater than 1.0. In practice, only four families were included on the basis of linkage alone. A total of 97 distinct mutations (70 frameshift, 15 nonsense, six missense, and six splice site) were observed in 169 families; one family had both a frameshift and a missense mutation. The mutations accounting for the larger number of families were 6174delT (23 families), 999del5 (14 families), 8764delAG (11 families), 3034del4 (seven families), 6503delTT (six families), and 4486delG (six families). All other mutations occurred in three or fewer families.
+For all available families, basic follow-up information, including dates of birth, death, and last observation and dates and types of all cancers, was requested for all patients with breast or ovarian cancer and all of their first-degree relatives and from all known carriers and all of their first-degree relatives. Information on mastectomies and oophorectomies was also recorded. We also requested information on carrier status, when known, as determined by either direct mutation testing or segregation of linked haplotypes. All cancers were coded according to the 9th revision of the International Classification of Diseases (ICD) (14). A total of 566 cancers, excluding breast cancer, ovarian cancer, and nonmelanoma skin cancer, were reported among the 4778 individuals who were either affected with breast or ovarian cancer, known mutation carriers, or first-degree relatives of these individuals. Of these, 269 (48%) were confirmed by pathology report, clinical records, or death certificate. All participating centers of the study had received approvals from the respective ethical committees of their institutions.
+Statistical Methods
+The principal aim of this study was to estimate the risks of cancer in mutation carriers. We first constructed a cohort of the following individuals: (a) women affected with breast cancer under the age of 60 years or with ovarian cancer at any age or men affected with breast cancer at any age (800 individuals, 363 of whom were known mutation carriers), (b) unaffected known mutation carriers (622 individu-
+
+als), or (c) first-degree relatives of affected individuals in category a or of known carriers (3271 individuals). For these purposes, a woman diagnosed with her first breast cancer at the age of 60 years or older and who had not had an ovarian cancer was included in the "unaffected" category. Eighty-five breast or ovarian cancer patients were shown to be noncarriers of the disease causing mutation in that family ("sporadic" cases) and were ignored in this analysis, leaving 4693 individuals to be considered further.
+To compute incidence rates for individuals not affected with breast or ovarian cancer, follow-up was deemed to commence on their date of birth or on January 1, 1960, whichever was the later, and to cease on the date of their first cancer, their date of death or loss to follow-up, their 85th birthday, or on December 31, 1995, whichever occurred first. Follow-up before 1960 was ignored to minimize errors in classification of tumors and because reliable population-specific incidence rates were available for almost all centers from that date, but often not before. We also excluded all individuals born before January 1, 1890. Follow-up for individuals affected with breast or ovarian cancer was similar, except that it commenced on the date of their first cancer rather than on the date of their birth and ceased on the date of their second cancer.
+Since ascertainment was based on a minimum number of breast or ovarian cancer cases within a family, to include these ascertainment-influencing events in the analysis would bias the results. We were unable to determine reliably the specific cases in each family responsible for that family's ascertainment; therefore, to correct for this ascertainment bias, it was necessary to ignore all follow-up prior to and including the first breast or ovarian cancer for every individual.
+After those cases with no follow-up in the relevant period were removed, the final cohort comprised 3728 individuals, of whom 50 were men with breast cancer and 631 were women with breast cancer below the age of 60 years or with ovarian cancer at any age. Among the unaffected individuals, there were 471 known carriers, 390 known noncarriers, and 2186 persons of unknown carrier status. One hundred forty-eight of the 471 unaffected identified carriers were "obligate carriers" (i.e., individuals known to be carriers by virtue of their position in the family, such that a mutation in a descendant must have been inherited through them). The remaining 323 carriers were identified by direct testing. Of the 1050 total individuals excluded, 236 were lost to follow-up. Other than breast or ovarian cancer, 333 cancers occurred in the cohort, of which 176 (53%) were confirmed.
+Expected numbers of cancers were computed in the usual manner by multiplying person-years at risk by the appropriate age-, sex-, period-, site-, and population-specific incidence rates, by use of the program Person-Years (15). The relevant rates were obtained from the publications "Cancer Incidence in Five Continents" (16­20) together with information provided by the International Agency for Research on Cancer. The calendar periods into which rates were divided differed slightly between registries, according to the data available, but most periods covered 5 years. For the U.S. centers, we used rates from the Surveillance, Epidemiology, and End Results (SEER) Program1 for the periods from 1973 onward. Rates for whites were used, since almost all
+
+of the families were from this group. SEER rates were not available before 1973, and we used instead the rates for Alameda, CA. For Montreal, we used Quebec rates; for all of the other centers, we used country-specific rates.
+To provide unbiased estimates of the RR for each cancer, it was necessary to combine data on the observed risks to known carriers and those relatives whose carrier status was unknown. (Estimates based only on typed carriers would have been biased, since the probability of being typed could be influenced by disease status.)
+As a first approximation to the RR (^ ) for each site, we used the following formula:
+
+^ = wiOi, wiEi
+
+[1]
+
+where Oi is 1 if individual i is affected and 0 otherwise, and Ei is the number of cancers expected for individual i under the null hypothesis of no BRCA2-
+associated risk, i.e., on the basis of population rates
+as described above. wi is the probability that individual i is a mutation carrier, given his or her phe-
+notypic status (age, sex, and disease status) and po-
+sition in the pedigree. The probabilities wi were computed by use of a standard procedure for com-
+puting genetic risks, with the use of the program
+MENDEL (21). In these computations, we assumed
+that the risks of breast and ovarian cancers in
+BRCA2 mutation carriers were those estimated in
+the previous analysis of BCLC families (3). We also estimated RRs (^ ) for noncarriers using
+the following analogous formula:
+
+^ = 1 - wiOi. 1 - wiEi
+
+[2]
+
+Since the distributions of these estimated RRs were complex mixtures of Poisson distributions, we constructed statistical tests of the hypotheses that the RRs were greater than 1 by simulation. We derived the distribution of the estimated risk under the null hypothesis of no excess risk by simulating each Oi 10 000 times as a random draw from a Poisson distribution with mean Ei. Significance levels were then computed as the proportion of simulated datasets for which the RR exceeded the observed value multiplied by 2 to give two-sided P values.
+The above procedure provides significance tests for the RR but does not provide consistent estimates of the RRs because the carrier probabilities wi do not take into account the phenotypic status with regard to the site of interest. We, therefore, computed maximum likelihood estimates of  and  using the EM algorithm (22). In this procedure, the carrier probabilities wi, given the initial estimates of  and , were re-estimated with the use of the Bayes formula:
+
+wi
+
+=
+
+wiOi
+
+wiOi exp-Ei +
+
+exp-Ei 1 - wiOi
+
+exp-Ei
+
+    1  Oi
+
+-1
+
+= 1 + wi - 1  expEi -  .
+
+[3]
+
+Iterative re-estimation of the carrier probabilities and RRs with the use of formulae 1­3 leads to maximum likelihood estimates in the usual way. Confidence intervals (CIs) for  and  were derived from standard estimates for the variance­covariance matrix for estimates obtained with the use of the EM algorithm (22), which reduces in this case to:
+
+Journal of the National Cancer Institute, Vol. 91, No. 15, August 4, 1999
+
+REPORTS 1311
+
+Downloaded from http://jnci.oxfordjournals.org/ at McLean Hospital, Mental Health Sciences Library on June 9, 2016
+
+   Varlog^,log^  =
+
+wiOi - wi1 - wiOi - ^ Ei2
+
+wi1 - wiQi - ^ EiOi - ^ Ei
+
+-1 .
+
+  wi1 - wiOi - ^ EiOi - ^ Ei
+
+1 - wiOi - wi1 - wiOi - ^ Ei2
+
+[4]
+
+In practice, joint estimation of  and  led, in most cases, to estimates of the RR  to noncarriers that were not significantly different from 1, and the RR for all sites combined was very close to 1. To simplify the analyses (and to gain some precision), the estimates of  presented in the tables have been derived under the restriction that   1, and we have commented explicitly where this assumption may not be justified. Statistical tests of the hypotheses that the RR estimates differed by age or by center were constructed in the usual way from the above variance estimates. These tests were twosided.
+The risks of breast and ovarian cancers following a first breast cancer in mutation carriers were computed in an analogous manner. For these analyses,
+
+hood for those sites where a significant
+excess was observed. Significantly in-
+creased risks in carriers were observed for cancers of the stomach (RR  2.59; 95% CI  1.46­4.61; P  .012), pancreas (RR  3.51; 95% CI  1.87­6.58; P  .0012), gallbladder and bile ducts (RR  4.97; 95% CI  1.50­16.52; P  .03), malignant melanoma (RR  2.58; 95% CI  1.28­5.17; P  .01), and prostate (RR  4.65; 95% CI  3.48­ 6.22; P<.0001). There was also a statisti-
+cally significant excess of cancers of other or ill-defined sites (RR  4.13;
+
+95% CI  2.05­8.32; P  .01). The in-
+creased risk of cancers of the buccal cav-
+ity and pharynx did not quite reach statistical significance (RR  2.26; 95% CI  1.09­4.68; P  .06).
+The RR of prostate cancer was signifi-
+cantly higher in men below the age of 65 years than in men at older ages (RR  7.33 [95% CI  4.66­11.52] versus RR  3.39 [95% CI2.34­4.92]; P  .01).
+There is some suggestion that the RR was
+dependent on country, being lower for
+U.S. than for non-U.S. centers (U.S. RR  4.28 [95% CI  1.89­9.68] versus non-U.S. RR  10.76 [95% CI  6.29­18.41] below age 65; U.S. RR  1.78 [95% CI  0.90­3.53] versus nonU.S. RR  5.53 [95% CI  3.55­8.60] for age 65 years and above; P  .004).
+
+follow-up commenced at the first breast cancer or
+
+1960 (whichever was later). Synchronous bilateral
+
+cancers and ovarian cancers occurring before a breast cancer did not, therefore, contribute to this analysis. In addition to censoring events described
+
+Table 1. Observed (Obs) and expected (Exp) numbers of cancers in BRCA2 families and estimated relative risks (RRs) to BRCA2 carriers
+
+above for other cancers, follow-up for breast and ovarian cancers was also censored at the date of bilateral mastectomy or oophorectomy, respectively, if recorded. Estimates based on the incidence rates in all affected individuals might be biased, inasmuch as they would not account for sporadic cases. To allow for this, maximum likelihood estimates were derived by use of the program MENDEL, analogous to the procedure used for the analysis of other cancers. A separate RR was estimated for each 10-year age group 20­29 years, 30­39 years, 40­49 years, . . . 70­79 years, relative to population incidence rates. (For this purpose, we used population incidence rates averaged over all centers.) These estimates were then used to derive the cumulative risk estimates shown, with the use of the following formula:
+
+1
+Ft = 1 - exp-j^j, j=0
+
+[5]
+
+where F(t) is the cumulative risk by age t, (j) is the population incidence rate of disease at age j, and ^ (j) is the maximum likelihood estimate of RR of disease at age j.
+Cumulative risks of cancers other than those of the breast and ovary were also computed by use of RRs estimated by the EM algorithm approach (22) described above. RRs were estimated for just two separate age groups (<65 years old and 65 years old) because of the smaller number of these other cancers.
+
+RESULTS
+
+Risks of Cancers Other Than Cancers of the Breast and Ovary
+
+Cancer site or type (9th ICD codes)*
+Buccal cavity and pharynx (140­149)
+Esophagus (150) Stomach (151)
+Colon (153) Rectum (154) Liver (155) Gallbladder and
+bile ducts (156) Pancreas (157)
+Larynx (161) Lung (162) Bone (170) Connective tissue (171) Malignant melanoma (172)
+Cervix (180) Other uterus (179,181,182) Prostate (185)
+Testis (186) Bladder (188) Kidney (189) Brain (191,192) Thyroid (193) Hodgkin's disease (201) Other lymphoma (200,202) Myeloma (203) Leukemia (204­208) Other cancers§
+Unknown site (199) All cancers except breast,
+ovary, and nonmelanoma skin
+
+Probable carriers
+Obs Exp
+4 2.26
+1 0.89 8 3.29
+8 6.56 6 3.45 2 0.56 2 0.42
+6 2.06
+1 1.03 9 11.43 1 0.19 0 0.49 7 2.04
+2 3.73 5 3.35 29 6.06
+1 0.28 3 3.39 3 2.11 3 1.57 2 1.06 2 0.82 5 1.97 0 0.84 1 1.85 4 1.59
+2 2.96 117 66.25
+
+Noncarriers
+Obs Exp
+0 1.01
+0 0.35 3 1.24
+6 2.85 4 1.47 0 0.24 0 0.17
+0 0.87
+0 0.46 4 4.79 0 0.11 0 0.24 2 1.00
+2 1.91 2 1.68 6 2.26
+0 0.15 0 1.36 2 0.96 1 0.79 2 0.55 0 0.47 1 0.90 0 0.35 0 0.85 0 0.74
+0 1.39 35 29.16
+
+Unknown status
+Obs Exp
+8 5.74
+2 2.25 14 8.52
+16 14.37 3 8.03 2 1.45 2 0.96
+8 4.76
+1 2.79 24 27.37
+1 0.68 2 1.27 3 4.37
+10 7.42 2 4.99
+40 17.09
+0 1.46 3 8.85 2 5.07 4 4.34 2 2.46 1 2.62 4 4.62 1 1.90 10 4.96 9 3.39
+7 7.21 181 158.94
+
+RR (95% CI) [P value]
+2.26 (1.09­4.58) [.06]
+0.00 2.59 (1.46­4.61)
+[.012] 1.43 (0.79­2.58) 1.11 (0.48­2.60) 4.18 (1.56­11.23) 4.97 (1.50­16.52)
+[.03] 3.51 (1.87­6.58)
+[.0012] 0.69 (0.11­4.37) 1.04 (0.62­1.73) 2.14 (0.13­36.25) 1.15 (0.07­18.56) 2.58 (1.28­5.17)
+[.01] 1.29 (0.48­3.43) 1.25 (0.46­3.37) 4.65 (3.48­6.22)
+[<.0001] 1.10 (0.16­7.83) 0.69 (0.24­1.97) 0.82 (0.23­2.95) 1.96 (0.80­4.82) 1.55 (0.43­5.53) 1.48 (0.40­5.48) 1.91 (0.81­4.49) 0.00 1.12 (0.30­4.25) 4.13 (2.05­8.32)
+[.01] 0.82 (0.22­3.15) 2.45 (2.15­2.78)
+[<.0001]
+
+The observed and expected numbers of cancers other than breast and ovarian cancers in the study cohort, together with the estimated RR, are shown in Table 1. Table 2 gives the corresponding RRs and 95% CIs obtained by maximum likeli-
+
+*Coded according to the 9th revision of the International Classification of Diseases (14). Breast cancer case patients aged <60 years, ovarian cancer case patients and male breast cancer case patients (excluding those known to be noncarriers), and known carriers by typing and obligate carriers. All P values are two-sided. CI  confidence interval. §Three peritoneum, two other digestive, two nose, one other endocrine, two lymph node secondary, and three other/ill defined.
+
+1312 REPORTS
+
+Journal of the National Cancer Institute, Vol. 91, No. 15, August 4, 1999
+
+Downloaded from http://jnci.oxfordjournals.org/ at McLean Hospital, Mental Health Sciences Library on June 9, 2016
+
+Table 2. Estimated relative risks (RRs) and 95% confidence intervals (CIs) for selected cancers, by
+
+and females combined was used, since
+
+age group
+
+there was no evidence of any difference in
+
+Site or type
+
+0 to <65 y of age
+
+65­85 y of age
+
+All ages: 0­85 y RR between the sexes. For other cancers, sex-specific RRs were applied. The cu-
+
+of cancer
+
+RR 95% CI RR 95% CI RR 95% CI mulative risks shown are derived assum-
+
+Buccal cavity and pharynx Stomach
+
+1.52 0.44­5.19 2.57 1.13­5.84
+
+3.15 1.24­7.99 2.26 1.09­4.68 ing population rates for England and 1.93 0.77­4.83 2.59 1.46­4.61 Wales (1988­1992) but assuming the RRs
+
+Pancreas Gallbladder and bile ducts Malignant melanoma Prostate
+
+5.54 2.72­11.32 1.61 0.45­5.72 3.51 1.87­6.58 derived from the whole dataset.
+
+* 3.22 1.57­5.83
+
+* 
+
+4.97 1.50­16.52 2.58 1.28­5.17
+
+If the RRs for prostate cancer derived
+
+7.33 4.66­11.52 3.39 2.34­4.92 4.65 3.48­6.22 from the whole dataset were applied to
+
+All cancers except breast, ovary,
+
+1.48 1.15­1.91
+
+prostate, and pancreas
+
+All cancers except breast and ovary 1.89 1.52­2.33
+
+1.30 0.96­1.76 1.47 1.21­1.79 U.S. (SEER) rates, the estimated cumulative risk of prostate cancer in U.S. carriers
+1.72 1.36­2.17 1.90 1.63­2.23 by the age of 70 years would be 33.1%
+
+*There were too few gallbladder cancer and bile duct cancer case patients to allow separate calculation of (95% CI  26.1%­39.4%). This, how-
+
+RRs for the two age groups unrealistic.
+
+ever, may be a considerable overestimate,
+
+Maximum likelihood procedure did not converge. There were no melanoma case patients older than 65 given that the RR based on U.S. families
+
+years among known carriers.
+
+alone is somewhat lower than the overall
+
+estimate. Based on the RR obtained in
+
+Among the non-U.S. centers, the RRs were higher in Iceland and Canada than in Europe (excluding Iceland), but these differences were not statistically significant.
+Analyses were also conducted in which RRs for carriers and noncarriers were estimated simultaneously. There was no evidence of an overall excess of cancer in noncarriers (RR  0.70 [95% CI  0.50­0.99] below the age of 65 years; RR  0.98 [95% CI  0.75­1.27] at the age of 65 years or above). Furthermore, none of the above sites showed significantly elevated risks to noncarriers, except for prostate cancer in men below the age of 65 years (RR  2.91; 95% CI  1.31­6.49). This excess is largely due to three prostate cancers in close relatives in a single family in Iceland. Even in this case, allowing for an increased risk to noncarriers made little difference to the estimated risk to carriers.
+Four cancers of the fallopian tube occurred in known or potential carriers; three of these cancers occurred during the
+
+curred in a woman subsequently diagnosed with breast cancer, one (in an Irish family) occurred in an obligate carrier, and one (in a German family) occurred in a first-degree relative of a known carrier. (A further ocular cancer was reported in a Utah family, but the evidence on the site of this cancer conflicts, and this case has not been included.) Two of these cases could be included in the analysis by extending the cohort back to 1930 rather than to 1960. (The first case cannot be included in this analysis either, since it occurred before a breast cancer.) On this basis and making the assumption that incidence rates in 1960­1964 also apply to the period 1930­1959, the expected number of ocular cancers in carriers or individuals of unknown status would be 0.69 (P  .09).
+Cumulative Risks
+The RRs of cancer have been used to derive cumulative risks of these cancers in mutation carriers (Table 3). For pancreatic cancer, the estimated RR for males
+
+U.S. families alone, the cumulative risk estimate to U.S. carriers would be 20.2% (95% CI  11.6%­28.0%). Conversely, the cumulative prostate cancer risk to European carriers in England and Wales, based on the RR obtained in European families alone, would be 10.9% (95% CI  4.4%­17.0%) by age 70 years.
+These estimates can then be combined with previously derived breast and ovarian cancer risks to produce cumulative risks of all cancers. For ovarian and breast cancers, we used the risks derived from the BCLC families by the maximum LOD score method (3). On this basis, the estimated cumulative risks for all cancers in women would be 32% by age 50 years, 56% by age 60 years, and 90% by age 70 years. Unfortunately, no precise estimate of breast cancer risk in males is currently available to our knowledge. We used the estimates derived by Easton et al. (4), who estimated a cumulative risk of male breast cancer of 6% by the age of 70 years, although these estimates are based
+
+follow-up period. The precise expected
+
+numbers could not be computed for this
+
+Table 3. Estimated cumulative risks (%)* of cancers in BRCA2 mutation carriers, by sex and age
+
+site, since cancer of the fallopian tube is
+
+grouped with ovarian cancer in the ICD.
+
+Prostate cancer
+
+Pancreatic cancer
+
+Other cancer
+
+However, an analysis using rates from the East Anglian Cancer Registry suggests an approximate expected number of 0.006 (ratio of observed to expected  500;
+
+Sex Male
+
+Age, y
+
+Risk
+
+95% CI
+
+40 0.0 0.01­0.02 50 0.1 0.1­0.2 60 1.6 0.9­2.3
+
+Risk
+0.0 0.2 1.0
+
+95% CI
+0.0­0.1 0.1­0.4 0.4­1.5
+
+Risk
+1.5 3.3 8.4
+
+95% CI
+1.0­2.1 2.5­4.1 6.6­10.3
+
+P<.0001).
+
+70
+
+7.5 5.7­9.3
+
+2.1
+
+1.2­3.0
+
+20.2 16.9­23.4
+
+In addition to the cancer sites dis-
+
+80
+
+19.8 15.2­24.2
+
+3.2
+
+1.6­4.9
+
+37.3 30.8­43.2
+
+cussed above, cancers of the eye were of Female
+
+40 50
+
+0.0 0.0­0.1 1.9 1.2­2.6 0.2 0.1­0.3 3.9 2.9­4.9
+
+particular interest, since two such cancers
+
+60
+
+0.7 0.3­1.1 8.3 6.4­10.1
+
+had been previously noted in large BRCA2 kindreds (4). In this dataset, three
+
+70 80
+
+1.5
+
+0.9­2.1
+
+16.0 13.0­18.9
+
+2.3
+
+1.1­3.5
+
+26.0 20.2­31.3
+
+cancers of the eye were also noted, but all occurred before 1960 and hence were excluded from the cohort analysis. Of these
+
+*Cumulative risk of cancer by age t is the probability of an individual being diagnosed with cancer by their tth birthday (see "Subjects and Methods" section). CI  confidence interval.
+"Other cancer" category consists of all cancer sites except breast, ovary, prostate, pancreas, and non-
+
+cases, one (in an Icelandic family) oc- melanoma skin cancer.
+
+Journal of the National Cancer Institute, Vol. 91, No. 15, August 4, 1999
+
+REPORTS 1313
+
+Downloaded from http://jnci.oxfordjournals.org/ at McLean Hospital, Mental Health Sciences Library on June 9, 2016
+
+on only two large BRCA2 families. On this basis, the cumulative risk for all cancers in men would be 4% by age 50 years, 13% by age 60 years, and 32% by age 70 years.
+Risk of Second Cancers
+Table 4 shows the observed numbers of contralateral breast cancers and of ovarian cancers after a first breast cancer and the estimated incidence rates and cumulative risks in carriers. The estimates of the contralateral breast cancer incidence rates fall in the range of 2%­3% per year between the ages of 30 and 60 years. These risks are equivalent to a cumulative risk of breast cancer, starting at age 30 years, of 37.0% (95% CI  25.7%­46.6%) by age 50 years, and of 52.3% (95% CI  41.7%­61.0%) by age 70 years. The incidence rates may also be used to estimate the risk of a first breast cancer in a mutation carrier, under the assumption that the risk of cancer in the two breasts is independent, by multiplying the incidence rates by 2. The estimated cumulative risks are then 60% (95% CI  44%­72%) by age 50 years and 77% (95% CI  71%­88%) by age 70 years. The corresponding estimated cumulative risks of ovarian cancer were 3.3% (95% CI  0.8%­5.7%) by age 50 years and 15.9% (95% CI  8.8%­22.5%) by age 70 years.
+DISCUSSION
+This study provides strong confirmation of an increased risk of prostate cancer and pancreatic cancer in BRCA2 mutation carriers, as well as some evidence of an excess of cancer at four other sites: buccal cavity and pharynx, stomach, melanoma of the skin, and gallbladder and bile ducts. This more general increase
+
+in cancer risk appears to contrast with the situation for BRCA1, where no excess risk was observed except for prostate cancer and colorectal cancer (23). It should be emphasized, however, that the BRCA1 study was far smaller than the current study, and an RR of the order of 1.5 would not have been reliably detected. (There were only 78 cancers in carriers and first-degree relatives in that study compared with 298 in the current study.) Clearly, some of the elevated risks observed at the last four sites may have occurred by chance, given the number of cancer sites analyzed, and these associations require confirmation in other studies. There does, however, appear to be a significantly increased cancer risk in carriers, of the order of 1.5-fold, even when the sites breast, ovary, prostate, and pancreas are excluded.
+An obvious concern in this study is that the observed excess cancer risk in carriers may be the result of selection of families for the occurrence of other cancers. There are several reasons for believing this to be unlikely. All centers have selection criteria for screening families based on the occurrence of breast and ovarian cancers, but not on the occurrence of other cancers. In particular, a large fraction of the data comes from large families, which would certainly have been ascertained on the basis of their breast and ovarian cancer occurrence alone. Furthermore, there is a large excess of cancer in the relatives of breast or ovarian cancer case patients who are themselves mutation carriers, but not in the relatives who are noncarriers. When RRs for carriers and noncarriers were estimated jointly, the RR for noncarriers was estimated to be slightly less than 1. The only cancer site where a statistically significant risk to noncarriers was observed was the prostate, and this excess can largely be ex-
+
+Table 4. Observed (Obs) numbers, estimated incidence rates, and cumulative risks (95% confidence intervals [CIs]) of second (contralateral) breast and ovarian cancers, following breast cancer in BRCA2
+mutation carriers
+
+Contralateral breast cancer
+
+Ovarian cancer
+
+Age group, y
+
+Annual incidence Women-years Obs rate
+
+% cumulative risk (95% CI)*
+
+Annual incidence Obs rate
+
+% cumulative risk (95% CI)
+
+30­39 40­49 50­59 60­69 70­79
+Total
+
+603.8 1127.3 1190.0
+851.6 386.2 4158.9
+
+12 0.0200 17.7 (6.5­27.5)
+
+0 0.0011 1.1 (0.0­2.2)
+
+25 0.0270 37.0 (25.7­46.6) 4 0.0022 3.3 (0.8­5.7)
+
+21 0.0200 48.4 (37.5­57.3) 8 0.0074 10.2 (4.9­15.2)
+
+6 0.0080 52.3 (41.7­61.0) 7 0.0066 15.9 (8.8­22.5)
+
+2 0.011 57.1 (46.4­65.6) 3 0.0063 21.0 (12.0­29.1)
+
+66 22
+
+*Cumulative risks to the end of the age interval.
+
+plained by a single family in Iceland with three cases in noncarriers. Since families in Iceland are ascertained through a population-based registry, this is unlikely to be due to selection bias and is more likely to be due to coincident segregation of a prostate cancer susceptibility gene or genes in the same family.
+Many of the cancers in relatives could not be typed for mutations. However, by incorporating the carrier probability of each relative into the analysis, we were able to produce unbiased RR estimates. Another potential concern is that only a proportion of cancers in relatives could be confirmed, and there is thus potential for some misclassification of cancer site. Overall, however, the excess cancer risks were similar in those centers able to confirm a high proportion of cancers (Iceland, Finland, and Sweden) than in the remainder. Misclassification of cancer site seems unlikely to have been a major problem for pancreatic cancer, prostate cancer, cancer of the buccal cavity and pharynx, or melanoma. Some of the excess of stomach cancer could be attributed to misclassification of ovarian cancer, since the observed RR was somewhat higher in female carriers than in male carriers (4.2 versus 2.1), and some of cancers of the gallbladder and bile ducts might have been misclassified pancreatic cancers.
+Most of the families included in this study were selected on the basis of multiple cases of breast and/or ovarian cancer, and it is possible that the excess risks of other cancers may be different in mutation carriers with less striking family histories. At present, there are no data, to our knowledge, with which to address this issue.
+The constellation of cancers associated with BRCA2 does not appear to fit any obvious pattern. Epidemiologically, breast and prostate cancers are both strongly related to endogenous sex hormones (estrogens and androgens), and both are associated with a Western-style diet. On the other hand, pancreatic cancer is not known to be associated with reproductive factors or diet, although some pancreatic tumors are estrogen receptor positive and respond to tamoxifen (as do some ovarian cancers). The strongest known risk factor for pancreatic cancer is cigarette smoking, which is also a risk factor for cancers of the buccal cavity and pharynx. However, there is no evidence of any excess risk of lung cancer in
+
+1314 REPORTS
+
+Journal of the National Cancer Institute, Vol. 91, No. 15, August 4, 1999
+
+Downloaded from http://jnci.oxfordjournals.org/ at McLean Hospital, Mental Health Sciences Library on June 9, 2016
+
+BRCA2 carriers. Pancreatic cancer and melanoma, but none of the other cancers, are known to occur at increased frequency in INK4A (p16) germline mutation carriers. Further detailed study of the pathology of these tumors in carriers would be worthwhile.
+In terms of absolute risk, the most important effect (excluding breast and ovarian cancers) is the increased risk of prostate cancer in male carriers. This is most unlikely to be the result of increased surveillance, since most of the excess risk occurred before screening became widespread. The RR for prostate cancer was in fact higher in Europe than in the United States, where screening is more widespread; i.e., the cumulative risk of prostate cancer in U.S. carriers was lower than would be expected on the basis of the RR in Europe. This suggests that the prostate cancer risks in carriers are less affected by surveillance, which would in turn imply a different natural history, with a greater proportion of clinically detectable disease. The risk is probably not sufficiently high to cause an appreciable fraction of early-onset prostate cancer cases, except in Icelandic and Ashkenazi populations, but this needs to be studied directly. The substantially elevated risk of prostate cancer raises the issue of early detection, in that screening by prostatespecific antigen might be justified at a substantially earlier age for mutation carriers. The risk of pancreatic cancer is less important in absolute terms, although it is not insignificant in terms of mortality, since the disease is uniformly and rapidly fatal.
+The analyses presented here assume a uniform risk across all mutations, and the clinical implications could be different if certain mutations were associated with higher cancer risks. There is some evidence that carriers of mutations in the central region of the BRCA2 gene, known as the OCCR (ovarian cancer cluster region), are at higher risk of ovarian cancer and, perhaps, at lower risk of breast cancer (24). Analyses of genotype­phenotype associations for other cancers are in progress.
+This study has also been able to provide an estimate of the risk of ovarian cancer in mutation carriers subsequent to breast cancer and of contralateral breast cancer. There is some potential for bias here, since the presence of two cancers in the same individual might have influenced the decision for a family to be re-
+
+ferred and screened for mutations. However, none of the centers used the presence of a second cancer as part of their inclusion criteria. Moreover, the estimated risk of ovarian cancer following breast cancer is consistent with that predicted from the previous analysis of first cancers, with the current estimate being the more precise. The incidence rates for ovarian cancer are approximately fourfold lower than those for BRCA1 but, nevertheless, still more than 10-fold greater than general population rates. There is some support for the hypothesis that the ovarian cancers in BRCA2 carriers occur later than in BRCA1 carriers, although this is based on small numbers--the average incidence rates in the age group 30­ 49 years were sevenfold lower than those in the age group 50­69 years, whereas for BRCA1 the incidence rates were highest in the age group 40­49 years. There is even some suggestion, both from these data and from the previous estimates, that the disease occurs later than in the general population. From a practical point of view, the low rate of disease below age 50 years might indicate that prophylactic oophorectomy could be safely delayed until, say, the late thirties, and still be effective, but this needs to be tested in prospective studies. The observed risk of cancer of the fallopian tube, which is perhaps a substantial underestimate given the difficulties of determining the true primary site of these tumors, also needs to be borne in mind when considering prophylactic surgery.
+The analysis of second cancers confirms, as expected, a high risk of contralateral breast cancer in affected carriers. The estimates are slightly lower than those previously derived by the BCLC for BRCA1 (3) (37% versus 48% by age 50 years; 52% versus 64% by age 70 years). The cumulative risk of breast cancer by age 70 years is close to what one would predict from the previously derived risks of a first cancer, by halving the incidence rates to allow for only one breast being at risk (52% observed and 60% expected), but the cumulative contralateral risk by age 50 years is significantly higher than predicted (37% observed and 15% expected). This effect (which was also seen for BRCA1) indicates either that some selection bias toward inclusion of young bilateral cases occurs or that modifying factors may be important determinants of risk at young ages.
+
+APPENDIX
+The following are the contributing centers and the names of the principal investigators. The number of families contributed by each center is given in brackets:
+CRC Genetic Epidemiology Unit, Cambridge, U.K. (coordinating center): D. Easton, D. Thompson, L. McGuffog
+University of Aberdeen, U.K.: N. Haites, A. Schofield [1]
+Humangenetik, Kantonsspital, Basel, Switzerland: R. J. Scott [2]
+Departments of Medicine and Genetics, University of Washington, Seattle: M.-C. King, E. Schubert [6]
+Centre Jean Perrin, Clermont-Ferrand, France: Y. Bignon [1]
+Institute of Cancer Research, London, U.K.: M. Stratton, D. Ford, J. Peto, R. Eeles [19]
+CRC Human Cancer Genetics Research Group, Cambridge, U.K.: B. Ponder, S. Gayther [11]
+Deutsches Krebsforschungszentrum, Heidelberg, and University of Wu¨rzburg, Germany: J. Chang-Claude, B. H. F. Weber, U. Hamann [5]
+Fundacio´n Jime´nez D´iaz, Madrid, Spain: J. Benitez, A. Osorio [4]
+University Central Hospital, Departments of Oncology and Obstetrics and Gynaecology, Helsinki, Finland: H. Eerola, H. Nevanlinna [11]
+Creighton University, Omaha, NE, and International Agency for Research on Cancer, Lyon, France: H. T. Lynch, S. Narod, D. Goldgar, G. Lenoir [8]
+Institut Curie, Paris, France: D. StoppaLyonnet [9]
+University of Iceland, Reykjavik: A. Arason, R. Barkardottir, V. Egilsson [5]
+Icelandic Cancer Society, Reykjavik, Iceland: J. Eyfjord, H. Tulinius [5]
+Imperial Cancer Research Fund, Leeds, U.K.: D. T. Bishop [3]
+University of Lund, Sweden: A. Borg, N. Loman, O. Johannsson, H. Olsson [20]
+McGill University, Montreal, PQ, Canada: P. Tonin, W. Foulkes [11]
+University of Montreal, PQ, Canada: P. Ghadirian, A. M. Mes-Masson, D. Provencher [8]
+University of Pennsylvania, Philadelphia: B. Weber [11]
+University of Leiden and Foundation for the Detection of Hereditary Tumours, Leiden, The Netherlands, and Erasmus Medical Center and Daniel den Hoed Cancer Center, Rotterdam, The Netherlands: P. Devilee, H. Vasen, C. J. Cornelisse, H. Meijers-Heijboer, J. G. M. Klijn [8]
+University of Toronto, ON, Canada: S. Narod, J -S. Brunet, R. Moslehi [19]
+University of Utah, Salt Lake City: S. Neuhausen, L. Cannon-Albright [6]
+
+Journal of the National Cancer Institute, Vol. 91, No. 15, August 4, 1999
+
+REPORTS 1315
+
+Downloaded from http://jnci.oxfordjournals.org/ at McLean Hospital, Mental Health Sciences Library on June 9, 2016
+
+REFERENCES
+(1) Miki Y, Swensen J, Shattuck-Eidens D, Futreal PA, Harshman K, Tavtigian S, et al. A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science 1994;266: 66­71.
+(2) Wooster R, Bignell G, Lancaster J, Swift S, Seal S, Mangion J, et al. Identification of the breast cancer susceptibility gene BRCA2 [published erratum appears in Nature 1996;379: 749]. Nature 1995;378:789­92.
+(3) Ford D, Easton DF, Stratton M, Narod S, Goldgar D, Devilee P, et al. Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. The Breast Cancer Linkage Consortium. Am J Hum Genet 1998;62:676­89.
+(4) Easton DF, Steele L, Fields P, Ormistin W, Averill D, Daly PA, et al. Cancer risks in two large breast cancer families linked to BRCA2 on chromosome 13q12­13. Am J Hum Genet 1997;61:120­8.
+(5) Struewing JP, Hartge P, Wacholder S, Baker SM, Berlin M, McAdams M, et al. The risk of cancer associated with specific mutations of BRCA1 and BRCA2 among Ashkenazi Jews. N Engl J Med 1997;336:1401­8.
+(6) Tulinius H, Egilsson V, Olafsdottir GH, Sigvaldson H. Risk of prostate, ovarian and endometrial cancer among relatives of women with breast cancer. BMJ 1992;305:855­7.
+(7) Arason A, Barkardottir RB, Egilsson V. Linkage analysis of chromosome 17q markers and breast­ovarian cancer in Icelandic families, and possible relationship to prostatic cancer. Am J Hum Genet 1993;52:711­7.
+(8) Thorlacius S, Olafsdottir G, Tryggvadottir L, Neuhausen S, Jonasson JG, Tavtigian SV, et al. A single BRCA2 mutation in male and female breast cancer families from Iceland with varied cancer phenotypes. Nat Genet 1996;13:117­9.
+(9) Johannesdottir G, Gudmundsson J, Bergthorsson JT, Arason A, Agnarsson BA, Johannsson OT, et al. High prevalence of the 999del5 mutation in Icelandic breast and ovarian cancer patients. Cancer Res 1996;56:3663­5.
+(10) Schutte M, da Costa LT, Hahn SA, Moskaluk C, Hoque AT, Rozenblum E, et al. Identification by representational difference analysis of a homozygous deletion in pancreatic carcinoma that lies within the BRCA2 region. Proc Natl Acad Sci U S A 1995;92:5950­4.
+
+(11) Phelan CM, Lancaster JM, Tonin P, Gumbs C, Cochran C, Carter R, et al. Mutation analysis of the BRCA2 gene in 49 site-specific breast cancer families. Nat Genet 1996;13:120­2.
+(12) Goggins M, Schutte M, Lu J, Moskaluk CA, Weinstein CL, Petersen GM, et al. Germline BRCA2 gene mutations in patients with apparently sporadic pancreatic carcinomas. Cancer Res 1996;56:5360­4.
+(13) Katagiri T, Nakamura Y, Miki Y. Mutations in the BRCA2 gene in hepatocellular carcinomas. Cancer Res 1996;56:4575­7.
+(14) World Health Organization (WHO). International Classification of Diseases: manual of the international statistical classification of diseases, injuries and causes of death. Vol I. Geneva (Switzerland): WHO; 1977.
+(15) Coleman MP, Hermon C, Douglas A. PersonYears (PYRS)--a fortran program for cohort study analysis. International Agency for Research on Cancer (IARC) internal report No. 89/006. Lyon (France): IARC; 1989.
+(16) Waterhouse JA, Muir C, Correa P, Powell J, editors. Cancer incidence in five continents. Vol III. IARC Sci Publ No. 15. Lyon (France): International Agency for Research on Cancer; 1976.
+(17) Waterhouse J, Muir C, Shanmugaratnam K, Powell J, editors. Cancer incidence in five continents. Vol IV. IARC Sci Publ No. 42. Lyon (France): International Agency for Research on Cancer; 1982.
+(18) Muir C, Waterhouse J, Mack T, Powell J, Whelan S, editors. Cancer incidence in five continents. Vol V. IARC Sci Publ No. 88. Lyon (France): International Agency for Research on Cancer; 1987.
+(19) Parkin DM, Muir CS, Whelan SL, Gao YT, Ferlay J, Powell J, editors. Cancer incidence in five continents. Vol VI. IARC Sci Publ No. 120. Lyon (France): International Agency for Research on Cancer; 1992.
+(20) Parkin DM, Whelan SL, Ferlay J, Raymond L, Young J, editors. Cancer incidence in five continents. Vol VII. IARC Sci Publ No. 143. Lyon (France): International Agency for Research on Cancer; 1997.
+(21) Lange K, Weeks D, Boehnke M. Programs for Pedigree Analysis: MENDEL, FISHER, and dGENE [letter]. Genet Epidemiol 1988;5: 471­2.
+(22) Dempster AP, Laird NM, Rubin DB. Maximum likelihood from incomplete data via the
+
+EM algorithm (with discussion). J Roy Statist Soc Series B 1977;39:1­38. (23) Ford D, Easton DF, Bishop DT, Narod SA, Goldgar DE. Risks of cancer in BRCA1 mutation carriers. Breast Cancer Linkage Consortium. Lancet 1994;343:692­5. (24) Gayther SA, Mangion J, Russell P, Seal S, Barfoot R, Ponder BA, et al. Variation of risks of breast and ovarian cancer associated with different germline mutations of the BRCA2 gene. Nat Genet 1997;15:103­5.
+NOTES
+1Editor's note: SEER is a set of geographically defined, population-based, central cancer registries in the United States, operated by local nonprofit organizations under contract to the National Cancer Institute (NCI). Registry data are submitted electronically without personal identifiers to the NCI on a biannual basis, and the NCI makes the data available to the public for scientific research.
+The coordination and analysis of this study has been supported by the Cancer Research Campaign and by a Concerted Action From the European Union. Data collection has been supported by the Cancer Research Campaign; by the Imperial Cancer Research Fund; by the Swedish Cancer Society; by the Foundation de France; by Biomed2 BMH4CT96-1133; by SAF 96/0192; by the Conchita Ra'bago Foundation; by the Nordic Cancer Union; by the University of Iceland Hospital Research Fund; by The Cancer Society and Cancer Registry of Finland; by the Canadian Breast Cancer Research Initiative; by Public Health Service grants R01CA27632 (to M.-C. King) and CA77415 (to S. Neuhausen) from the National Cancer Institute, National Institutes of Health, Department of Health and Human Services; by U.S. Army grant DAMD17-94J-4260; and by the Utah Cancer Registry (supported by Public Health Service contract N01CN6700 from the National Cancer Institute, National Institutes of Health, Department of Health and Human Services, and by the University of Utah).
+We thank Max Parkin for assistance in obtaining cancer incidence rates for various countries. We also thank Debbie Howe for her help in preparing this manuscript.
+Manuscript received November 30, 1998; revised June 2, 1999; accepted June 15, 1999.
+
+1316 REPORTS
+
+Journal of the National Cancer Institute, Vol. 91, No. 15, August 4, 1999
+
+

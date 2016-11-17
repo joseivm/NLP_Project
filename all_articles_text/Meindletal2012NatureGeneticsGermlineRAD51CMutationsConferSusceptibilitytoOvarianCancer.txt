@@ -1,0 +1,124 @@
+© 2012 Nature America, Inc. All rights reserved.
+
+correspondence
+
+Germline RAD51C mutations confer susceptibility to ovarian cancer
+
+To the Editor: In 2010, Meindl and colleagues proposed that germline RAD51C mutations confer high risk for breast and ovarian cancer, comparable to BRCA1 and BRCA2 mutations1,2. However, multiple follow-up studies have provided no supportive evidence that RAD51C mutations predispose to breast cancer3­12.
+Following the original report, we began investigating the role of other RAD51 paralogs in breast and ovarian cancer susceptibility. This led to our recent discovery that germline RAD51D mutations predispose to ovarian cancer13. We identified truncating RAD51D mutations in 8 of 911 familial breast-ovarian cancer pedigrees and 1 of 1,060 population controls. Our analysis of simultaneous association with both breast and ovarian cancer risk showed that RAD51D mutations confer a sixfold increased risk of ovarian cancer (relative risk (RR) = 6.30, 95% confidence interval (CI) = 2.86­13.85; P = 4.8 °-- 10-6) but do not affect or cause only a small increase in breast cancer risk (RR = 1.32, 95% CI = 0.59­ 2.96; P = 0.50). This result was supported by our analysis of 737 familial breast cancer pedigrees with no ovarian cancer, in which we detected no RAD51D mutations.
+These findings prompted us to reevaluate the role of RAD51C in cancer susceptibility. We sequenced the full coding region and intronexon boundaries of RAD51C in 1,132 probands from families with a history of ovarian cancer occurring with or without breast cancer, 272 individuals with ovarian cancer from a hospital-based unselected case series and 1,156 population-based controls (Supplementary Tables 1 and 2 and Supplementary Methods). We identified 12 mutations that result in premature protein truncation in cases compared to 1 such mutation in controls (P = 0.009) (Table 1 and Supplementary Fig. 1). Nine mutations were identified among the 1,132 familial cases, and there was a higher prevalence of mutations in families with multiple ovarian cancer cases: 4 mutations were detected in 311 families with 2 or more cases of ovarian cancer, and 2 mutations were detected in the 67 families with 3 or more cases of ovarian cancer. Three mutations were identified among the 272 individuals with ovarian cancer unselected for family history, suggesting that ~1% of ovarian cancer cases harbor germline RAD51C mutations.
+We also identified a total of 12 nonsynonymous RAD51C variants (Supplementary Table 3). Four variants were identified in cases
+
+and controls; only one, c.790G>A, encoding a p.Gly264Ser amino-acid change, showed any evidence of association with cancer (P = 0.02), consistent with other studies2,9,12. Of note, this variant is predicted to be benign by in silico analyses and has limited impact on RAD51C function2. The remaining eight nonsynonymous variants were each identified in a single individual; there was no significant difference in the overall frequency (P = 0.36), position or predicted functional effects of these variants between cases and controls (Supplementary Table 3). These data exemplify the inherent complexities of evaluating the clinical consequences of missense variants (outside simple Mendelian disorders) and underscore why non-truncating and truncating variants should be considered separately. Analyzing controls for specific rare variants detected in cases and concluding that their absence in controls is evidence of pathogenicity can result in over-interpretation of the data. Such findings confirm that the specific variant is rare but can seldom provide conclusive evidence of disease association. Full sequencing of the gene in both cases and controls is a more appropriate analysis, as it allows the spectrum of variants in cases and controls to be directly compared. Functional and conservation data can be useful in the evaluation of variants, but in vitro functional effects do not necessarily imply that the vari-
+
+ant has clinical sequelae. Moreover, as we and others have shown (for example, in studies of the breast cancer susceptibility genes BRIP1 and ATM), such an assumption can result in incorrect attribution of pathogenicity14,15. Better information is provided when mutational and functional analyses are equally ascertained in both cases and controls.
+To estimate the risk associated with RAD51C mutations, we undertook modified segregation analysis, in which we simultaneously modeled the risks of ovarian and breast cancer and incorporated control data and information from the full pedigrees of mutation-positive and mutation-negative families (Supplementary Methods). The relative risk of ovarian cancer for RAD51C mutation carriers was estimated to be 5.88 (95% CI = 2.91­11.88; P = 7.65 × 10-7), which constitutes a >9% cumulative risk by age 80. In contrast, there was no evidence of an association with breast cancer (RR = 0.91, 95% CI = 0.45­1.86; P = 0.8). Thus, the cancer risk estimates for RAD51C mutations were similar to those estimated for RAD51D mutations13.
+These data are fully consistent with the results presented by Meindl et al. and provide a likely explanation for why Meindl et al. identified RAD51C mutations only in breast cancer cases that had relatives with ovarian cancer and not in 620 familial breast cancer pedigrees without ovarian cancer. As RAD51C
+
+Table 1 Cancer history in RAD51C mutation carriers
+
+IDaMutationb
+
+Protein alteration
+
+Breast and/or ovarian cancer familial series
+
+Fam1
+
+c.837+5G>T
+
+
+
+Fam2c.1026+5_1026+7delGTAc
+
+Fam3
+
+c.706-2A>G
+
+
+
+Fam4c.577C>T
+
+p.Arg193*
+
+Fam5c.397C>T
+
+p.Gln133*
+
+Fam6c.664C>T
+
+p.Gln222*
+
+Fam7c.955C>T
+
+p.Arg319*
+
+Fam8c.397C>T
+
+p.Gln133*
+
+Fam9
+
+c.706-2A>G
+
+Unselected ovarian cancer series
+
+ c.704dupA
+
+ c.706­2A>G
+
+ c.904+5G>T
+
+Control series
+
+c.1026+5_1026+7delGTAc
+
+Cancer (age at diagnosis)
+Ovarian (46 years) Breast (45 years) Breast (35 years) Ovarian (42 years) Breast (65 years) Ovarian (69 years) Ovarian (61 years) Breast (35 years) Ovarian (59 years) Breast (36 years) Breast (36 years)
+Ovarian (63 years) Ovarian (56 years) Ovarian (54 years)
+
+aFamily IDs correspond to those in Supplementary Figure 1. bMutation nomenclature corresponds to Ensembl Transcript ID ENST00000337432. cThis mutation is predicted to abolish the exon 8 splice-donor site.
+
+npg
+
+nature genetics | volume 44 | number 5 | may 2012
+
+475
+
+correspondence
+
+© 2012 Nature America, Inc. All rights reserved.
+
+mutations predispose to ovarian cancer, an apparent association may be inferred with any additional phenotype studied in relatives of mutation-positive ovarian cancer cases if the exact relationships between family members (both affected and unaffected) and mutation segregation with each of the phenotypes is not taken into account. These factors need to be considered in risk calculations; failure to do so will inevitably lead to overestimation of the risk of the second phenotype. Our results are also consistent with the data presented in other follow-up studies3­12. Analysis of large series of ovarian cancer cases from the general population would now be of value to better estimate the frequency of and risk conferred by RAD51C and RAD51D mutations and to inform clinical implementation of these genes.
+The identification of RAD51C as a cancer predisposition gene was an important discovery1,2. However, we note that Meindl et al. did not present any risk analyses to quantify the extent of associations between RAD51C mutations and risk of breast and/or ovarian cancer, and we believe that their data warranted a more cautious interpretation. As we enter an era in which mutational data will become readily obtainable, appropriate genetic and epidemiological experiments are required for the clinical promise of genetic research to be realized.
+Note: Supplementary information is available on the Nature Genetics website. AUTHOR CONTRIBUTIONS N.R., C.L. and C.T. designed the experiment. M.W.-P., C.T., K.S., D.E., D.G.E., BCSC (UK), M.G. and N.R. coordinated recruitment of cases and samples. C.L., R.M.M.X., E. Ramsay, D.H., A.R. and S.S. performed sequencing of RAD51C. C.T., E. Ruark and A.C.A. performed statistical analyses. N.R. oversaw all aspects of the study. ACKNOWLEDGMENTS We thank all the subjects and families that participated in the research and the many individuals that assisted in their recruitment. We are grateful to R. Houlston for coordination of the collection of the unselected ovarian series. We acknowledge the use of DNA from the British 1958 Birth Cohort collection. We acknowledge NHS funding to the National Institute for Health Research (NIHR) Biomedical Research Centre. This work was funded by Cancer Research UK (C8620/A8372 and C8620/A8857) and the Institute of Cancer Research (UK). C.T. is a Medical Research Council (MRC)-funded Clinical Research Fellow. A.C.A. is a Cancer Research UK Senior Cancer Research Fellow (C12292/A11174). Informed consent was obtained from participants, and the research was approved by the London Multicentre Research Ethics Committee (MREC/01/2/18). COMPETING FINANCIAL INTERESTS The authors declare no competing financial interests. Chey Loveday1,7, Clare Turnbull1,7, Elise Ruark1, Rosa Maria Munoz Xicola1, Emma Ramsay1, Deborah Hughes1, Margaret Warren-Perry1,
+
+Katie Snape1, Breast Cancer Susceptibility Collaboration (BCSC) (UK)2, Diana Eccles3, D Gareth Evans4, Martin Gore5, Anthony Renwick1, Sheila Seal1, Antonis C Antoniou6 & Nazneen Rahman1 1Division of Genetics and Epidemiology, The Institute of Cancer Research, Sutton, UK. 2A full list of members is provided in the Supplementary Note. 3Faculty of Medicine, University of Southampton, Southampton University Hospital National Health Service (NHS) Trust, Southampton, UK. 4University Department of Medical Genetics & Regional Genetics Service, St Mary's Hospital, Manchester, UK. 5Department of Gynaecologic Oncology, Royal Marsden Hospital NHS Foundation Trust, London, UK. 6Center for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK. 7These authors contributed equally to this work. e-mail: nazneen.rahman@icr.ac.uk
+1. Levy-Lahad, E. Nat. Genet. 42, 368­369 (2010). 2. Meindl, A. et al. Nat. Genet. 42, 410­414 (2010). 3. Zheng, Y. et al. Breast Cancer Res. Treat. 124, 857­861
+(2010). 4. Akbari, M.R. et al. Breast Cancer Res. 12, 404 (2010). 5. Silvestri, V. et al. Breast Cancer Res. 13, 404 (2011). 6. Wong, M.W. et al. Breast Cancer Res. Treat. 127,
+853­859 (2011). 7. Romero, A. et al. Breast Cancer Res. Treat. 129,
+939­946 (2011). 8. Pang, Z. et al. Breast Cancer Res. Treat. 129,
+1019­1020 (2011). 9. Pelttari, L.M. et al. Hum. Mol. Genet. 20, 3278­3288
+(2011). 10.Vuorela, M. et al. Breast Cancer Res. Treat. 130,
+1003­1010 (2011). 11.Clague, J. et al. PLoS ONE 6, e25632 (2011). 12.Thompson, E.R. et al. Hum. Mutat. 33, 95­99 (2012). 13.Loveday, C. et al. Nat. Genet. 43, 879­882 (2011). 14.Ahmed, M. & Rahman, N. Oncogene 25, 5906­5911
+(2006). 15.Seal, S. et al. Nat. Genet. 38, 1239­1241 (2006).
+Meindl et al. reply: Loveday et al.1 claim, as do Pelttari et al.2, that RAD51C is a predisposing gene for ovarian cancer. However, their screening results do not falsify or disprove our assertion that RAD51C is a predisposing gene for breast cancer and ovarian cancer3. Indeed, we found that RAD51C mutations segregated with breast cancer in two out of the seven families with breast cancer and ovarian cancer we analyzed3. Furthermore, Vuorela et al.4 found an in-frame deletion in one individual with breast cancer from a family with four cases of breast cancer and four cases of ovarian cancer. However, they were unable to establish segregation in this pedigree.
+The skepticism of Loveday et al. toward a pathogenic role for missense mutations is unwarranted. In general, these authors refuse to accept the causality of missense mutations in RAD51C in breast cancer. In fact, most of the variants discussed here
+
+are predicted to affect amino-acid residues conserved in at least three of the five RAD51 paralogs, and the effects of the variants have been characterized by functional approaches. It is, of course, easier to classify a truncating mutation as pathogenic. We note that Clague et al.5 recently reported a missense variant in RAD51C, which seems to compromise the interaction between the RAD51C protein and its interacting partners RAD51B and XRCC3.
+The statistical arguments presented1 might be valid only for a subgroup of families or populations. Here we agree with Rahman and colleagues that RAD51C, as well as RAD51D, have to be validated in larger cohorts to generate reasonable clinical proposals or conclusions. Rahman et al., as in our study3, found the p.Gly264Ser alteration in RAD51C (encoded by a c.790G>A mutation) overrepresented in families with breast cancer and ovarian cancer compared to controls. However, there was also a statistically significant overrepresentation of this variant in individuals with ovarian cancer from Australia6. Although screening of samples of larger size is required, these observations are consistent with population-specific effects.
+AUTHOR CONTRIBUTIONS A.M. wrote the paper and designed the concept. K.E., S.E., A.B., D.E. and N.D. provided experimental or clinical data. R.K.S. designed the concept and collected clinical data. D.S. supervised the experiments.
+ACKNOWLEDGMENTs This work was supported by the German Cancer Aid (Deutsche Krebshilfe) grant 107352.
+COMPETING FINANCIAL INTERESTS The authors declare competing financial interests: details accompany the full-text HTML version of the paper at http://www.nature.com/naturegenetics/.
+Alfons Meindl1, Katharina Eirich2, Stefanie Engert1, Alexandra Becker3, Daniela Endt2, Nina Ditsch4, Rita K Schmutzler3 & Detlev Schindler2 1Clinic for Gynecology and Obstetrics, Technische Universität München, Munich, Germany. 2Institute of Human Genetics, Wuerzburg, Germany. 3Center for Familial Breast and Ovarian Cancer, University of Cologne, Cologne, Germany. 4Department of Obstetrics and Gynecology, Ludwig Maximilians University, Munich, Germany. e-mail: alfons.meindl@lrz.tu-muenchen.de
+1. Loveday, C. et al. Nat. Genet. 44, 475­476 (2012). 2. Pelttari, L.M. et al. Hum. Mol. Genet. 20, 3278­3288
+(2011). 3. Meindl, A. et al. Nat. Genet. 42, 410­414 (2010). 4. Vuorela, M. et al. Breast Cancer Res. Treat. 130, 1003­
+1010 (2011). 5. Clague, J. et al. PLoS ONE 6, e25632 (2011). 6. Thompson, E.R. et al. Hum. Mutat. 33, 95­99 (2012).
+
+476
+
+volume 44 | number 5 | may 2012 | nature genetics
+
+npg
+
+

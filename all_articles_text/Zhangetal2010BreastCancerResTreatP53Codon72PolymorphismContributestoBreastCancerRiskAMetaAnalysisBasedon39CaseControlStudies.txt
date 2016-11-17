@@ -1,0 +1,398 @@
+Breast Cancer Res Treat (2010) 120:509­517 DOI 10.1007/s10549-009-0480-4
+EPIDEMIOLOGY
+P53 codon 72 polymorphism contributes to breast cancer risk: a meta-analysis based on 39 case­control studies
+Zhizhong Zhang Æ Meilin Wang Æ Dongmei Wu Æ Miaomiao Wang Æ Na Tong Æ Yuanyuan Tian Æ Zhengdong Zhang
+
+Received: 24 April 2009 / Accepted: 11 July 2009 / Published online: 23 July 2009 Ó Springer Science+Business Media, LLC. 2009
+
+Abstract P53 is a tumor suppressor gene and plays important roles in the etiology of breast cancer. Studies revealing conflicting results on the role of p53 codon 72 polymorphism (G[C) on breast cancer risk led us to perform a meta-analysis to investigate this relationship. Thirty-nine published studies, including 26,041 breast cancer cases and 29,679 controls were identified. Odds ratios (ORs) and 95% confidence intervals (CIs) were used to assess the strength of the associations. The overall results suggested that the variant genotypes were associated with a significantly reduced breast cancer risk (GC vs. GG: OR = 0.91, 95% CI: 0.83­1.00; CC/GC vs. GG: OR = 0.90, 95% CI: 0.82­0.99). In the stratified analyses, significantly decreased risks were also found among European populations (GC vs. GG: OR = 0.89, 95% CI: 0.80­0.99; CC/GC vs. GG: OR = 0.88, 95% CI: 0.80­0.98) and studies with population-based controls (GC vs. GG: OR = 0.88, 95% CI: 0.78­0.98; CC/GC vs. GG: OR = 0.87, 95% CI: 0.78­0.97). The results suggested that
+Electronic supplementary material The online version of this article (doi:10.1007/s10549-009-0480-4) contains supplementary material, which is available to authorized users.
+Z. Zhang Á M. Wang Á Z. Zhang Key Laboratory of Reproductive Medicine, Nanjing Medical University, 210029 Nanjing, China
+Z. Zhang Á M. Wang Á D. Wu Á M. Wang Á Y. Tian Á Z. Zhang (&) Department of Molecular & Genetic Toxicology, School of Public Health, Nanjing Medical University, 140 Hanzhong Road, 210029 Nanjing, China e-mail: zdzhang@njmu.edu.cn
+N. Tong Á Z. Zhang Epidemiology & Biostatistics, Cancer Center of Nanjing Medical University, 210029 Nanjing, China
+
+p53 codon 72 polymorphism may contribute to susceptibility to breast cancer, especially in Europeans. Additional well-designed large studies were required to validate this association in different populations.
+Keywords P53 Á Breast cancer Á Meta-analysis Á Molecular epidemiology Á Genetic variation
+Introduction
+Breast cancer is one of the major cancers affecting morbidity and mortality of females worldwide [1]. Although many risk factors for breast cancer have been identified, such as the genetic predisposition and estrogen level, the molecular mechanisms related to breast carcinogenesis remain under investigation [2, 3]. Previous studies have shown alterations in the cell cycle regulatory proteins in breast carcinoma including overexpression and amplification of the cyclin genes, inactivation and deletions of the Rb gene and alterations of the p53 gene [4­6]. Thus, this disease seems to be the result of cumulative alterations of oncogenes and tumor suppressor genes.
+The p53 tumor suppressor gene, located on chromosome 17p13, is one of the most commonly mutated genes in all types of human cancer [7]. P53 protein is involved in many important physiological processes, such as cell cycle arrest, gene transcription, DNA repair, and apoptosis. If a mutation occurs, p53 may lose its normal functions, leading to unchecked cell proliferation and tumorigenesis. In breast cancers, it is mutated in around 30­35% of the cases and mutations often lead to poorer prognosis [8].
+Besides mutations, a common single nucleotide polymorphism (SNP) in codon 72 of p53 (p53 codon 72, rs1042522), resulting in either an arginine (Arg) residue
+
+123
+
+510 Breast Cancer Res Treat (2010) 120:509­517
+
+(CGC) or proline (Pro) residue (CCC), has been demonstrated to affect p53 function. The two polymorphic variants have been shown to have not only structural differences, as reflected by distinct electrophoresis patterns of migration, but also different biological properties [9, 10].
+Over the last two decades, a number of case­control studies were conducted to investigate the association between the p53 codon 72 polymorphism and breast cancer risk in humans. But these studies reported conflicting results. In consideration of the extensive role of p53 in the carcinogenesis of breast cancer, we carried out a metaanalysis on all eligible case­control studies to estimate the overall breast cancer risk of p53 codon 72 polymorphism as well as to quantify the between-study heterogeneity and potential bias.
+Materials and methods
+Identification and eligibility of relevant studies
+We searched the electronic literature MEDLINE for all relevant reports (the last search update was March 1, 2009, using the search terms ``p53'', ``polymorphism,'' and ``breast cancer''). The search was limited to Englishlanguage papers. Additional studies were identified by a hand search of the references of original studies. We also used the PubMed option ``Related Articles'' in each research article to search potentially relevant articles. Of the studies with the same or overlapping data published by the same investigators, we selected the most recent ones with the largest number of subjects. Studies included in our meta-analysis have to meet the following criteria: (1) use a case­control design and (2) contain available genotype frequency. Major reasons for exclusion of studies were (1) no control population and (2) duplicate of previous publication.
+Data extraction
+Two investigators independently extracted data and reached a consensus on all of the items. For each study, the following information was sought: the first author's last name, year of publication, country of origin, ethnicity, matching conditions, numbers of genotyped cases and controls, source of control groups (population- or hospitalbased controls), genotyping methods, and quality control. Different ethnic descents were categorized as European, Asian, African, or Mixed that included more than one ethnic descent. For studies including subjects of different ethnic groups, data were extracted separately for each ethnic group whenever possible.
+
+Statistical analysis
+For control group of each study, the allelic frequency was calculated and the observed genotype frequencies of the p53 codon 72 polymorphism were assessed for Hardy­ Weinberg equilibrium using the v2 test. The strength of the association between the p53 codon 72 polymorphism and breast cancer risk was measured by odds ratios (ORs) with 95% confidence intervals (CIs). We first estimated the risks of the GC and CC genotypes on breast cancer, compared with the wild-type GG homozygote, and then evaluated the risks of (GC/CC) versus GG and CC versus (GC/GG) on breast cancer, assuming dominant and recessive effects of the variant C allele, respectively. Stratified analyses were also performed by ethnicity, source of controls, and clinicopathologic characteristics. In consideration of the possibility of heterogeneity across the studies, a statistical test for heterogeneity was performed based on the Q-test. If the P value is greater than 0.05 of the Q-test, which indicates a lack of heterogeneity among studies, the summary OR estimate of each study was calculated by the fixed-effects model (the Mantel­Haenszel method) [11]. Otherwise, the random-effects model (the DerSimonian and Laird method) was used [12]. Sensitivity analyses were performed to assess the stability of the results, namely, a single study in the meta-analysis was deleted each time to reflect the influence of the individual data set to the pooled OR. Funnel plots and Egger's linear regression test were used to provide diagnosis of the potential publication bias [13]. All analyses were done Stata software (version 8.2; StataCorp LP, College Station, TX), using two-sided P values.
+Results
+Characteristics of studies
+Through literature search and selection based on the inclusion criteria, 62 studies were found. During the extraction of data, 23 articles were excluded, because they did not provide allele frequencies needed for OR calculation, leaving 39 eligible studies [14­52] that had assessed the association between the p53 codon 72 polymorphism and breast cancer risk. Study characteristics are summarized in Supplementary Table 1. Among the 39 eligible case­control studies, there were 26,041 breast cancer cases and 29,679 controls. Besides, there were 29 studies of European descendents, 9 studies of Asian descendents, 1 of African descendents. Breast cancers were confirmed histologically or pathologically in most studies. Of the 39 studies, 34 studies used frequency-matched controls to the cases by the age or ethnicity. A classic polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP) assay was
+
+123
+
+Breast Cancer Res Treat (2010) 120:509­517
+
+511
+
+Table 1 Meta-analysis of the P53 codon 72 polymorphism on breast cancer risk
+
+Variables
+
+na GC vs. GG
+
+CC vs. GG
+
+CC/GC vs. GG (dominant) CC vs. GC/GG (recessive)
+
+OR (95% CI) P*
+
+OR (95% CI) P*
+
+OR (95% CI)
+
+P*
+
+OR (95% CI)
+
+P*
+
+Total
+
+39
+
+Ethnicities
+
+Asian
+
+9
+
+European
+
+29
+
+African
+
+1
+
+Source of controls
+
+Population-based 30
+
+Hospital-based 7
+
+Premenopause
+
+2
+
+Postmenopause
+
+2
+
+0.91 (0.83­1.00)  \0.001 0.92 (0.82­1.04)  \0.001
+
+1.04 (0.86­1.25) 0.216 0.92 (0.65­1.31)  0.013 0.89 (0.80­0.99)  \0.001 0.92 (0.81­1.05)  \0.001
+
+0.36 (0.13­0.99) ­
+
+0.79 (0.16­4.04) ­
+
+0.88 (0.78­0.98)  \0.001 0.88 (0.77­1.00)  0.95 (0.66­1.37)  \0.001 1.08 (0.66­1.78) 
+0.63 (0.36­1.12) 0.362 1.05 (0.48­2.29) 0.65 (0.10­4.16)  0.004 1.21 (0.17­8.80) 
+
+0.001 0.003 0.705 0.021
+
+0.90 (0.82­0.99)  \0.001
+1.01 (0.82­1.25) 0.065 0.88 (0.80­0.98)  \0.001 0.42 (0.17­1.07) ­
+0.87 (0.78­0.97)  \0.001 0.97 (0.66­1.42)  \0.001 0.73 (0.43­1.23) 0.338 0.77 (0.10­5.71)  0.001
+
+0.95 (0.87­1.04) 
+0.93 (0.70­1.23) 0.96 (0.87­1.06)  1.25 (0.26­6.02)
+0.94 (0.87­1.02) 1.12 (0.78­1.62) 1.30 (0.62­2.73) 1.85 (0.85­4.04)
+
+0.032
+0.059 0.028 ­
+0.100 0.058 0.977 0.260
+
+* P value of Q-test for heterogeneity test   Random-effects model was used when P value for heterogeneity test \0.05; otherwise, fixed-effects model was used a Number of comparisons
+
+adopted in 21 of the 39 studies; however, only 54% of the included studies mentioned quality control on genotyping, such as blindness to the case­control status, randomly repeated assays, or validation using a different genotyping method. The distribution of genotypes in the controls was consistent with Hardy­Weinberg equilibrium in all studies except for three studies (P \ 0.01) [19, 27, 52].
+Quantitative synthesis
+There was a wide variation in the C allele frequency of the p53 codon 72 polymorphism among the controls across different ethnicities, ranging from 0.23 to 0.74. For Asian controls, the C allele frequency was 0.40 (95% CI: 0.35­0.46), which was higher than that in European controls (0.34; 95% CI: 0.29­0.39).
+Overall, there was evidence of an association between the reduced risk of breast cancer and the variant genotypes in different genetic models when all the eligible studies were pooled into the meta-analysis. As shown in Table 1, the variant heterozygote genotype GC, was associated with a significantly decreased risk of breast cancer (OR = 0.91, 95% CI: 0.83­1.00), compared with the wild-type homozygote GG. In addition, significant main effects were also observed in dominant model (OR = 0.90, 95% CI: 0.82­0.99).
+In the stratified analysis by ethnicity, significantly decreased risks were also found among European populations (heterozygote comparison: OR = 0.89, 95% CI: 0.80­ 0.99; dominant model: OR = 0.88, 95% CI: 0.80­0.98) and African populations (heterozygote comparison: OR = 0.36, 95% CI: 0.13­0.99). However, these similar signifi cant associations were not observed for Asian populations (Table 1; Fig. 1).
+
+Then, we divided these studies into two subgroups according to their sources of controls. For the studies with population-based controls, we found that the variant genotypes were associated with a significantly decreased breast cancer risk in all genetic models except for recessive model (homozygote comparison: OR = 0.88, 95% CI: 0.77­1.00; heterozygote comparison: OR = 0.88, 95% CI: 0.78­0.98; dominant model: OR = 0.87, 95% CI: 0.78­ 0.97; Fig. 2). However, among studies with hospital-based controls, no significant association was observed in any genetic model (Table 1).
+One of the problems with these included studies is their small sample size, because studies with small sample size may have insufficient statistical power to detect a slight effect or may have generated a fluctuated risk estimate. Then, we repeated our analyses with studies containing more than 500 subjects and stratified the analyses by ethnicity and source of control. As a result, no significant association was detected in any comparison (Table 2).
+The data on genotypes of the p53 codon 72 among cases and controls stratified by menopause status were available in two studies [27, 52]. Our results showed that there was no association between the variant genotypes and breast cancer risk regardless of the menopause status (Table 1).
+Furthermore, we stratified the included studies by clinicopathologic characteristics of breast cancer such as tumor grade and lymph node metastasis status. Similarly, no statistically significant result was observed for any analysis (Table 3).
+Test of heterogeneity
+Significant heterogeneity between studies was observed in overall comparisons. Then, we assessed the source of
+
+123
+
+512 Breast Cancer Res Treat (2010) 120:509­517
+
+Fig. 1 Forest plot of breast cancer risk associated with the p53 codon 72 polymorphism (CC/GC vs. GG) among Europeans. The squares and horizontal lines correspond to the study-specific OR and 95% CI.
+
+The area of the squares reflects the study-specific weight (inverse of the variance). The diamond represents the pooled OR and 95% CI
+
+heterogeneity for heterozygote comparison (GC vs. GG)
+and dominant model comparison (GC/CC vs. GG) by
+ethnicity, source of controls, and sample size (more than
+500 subjects). As a result, sample size (GC vs. GG: v2 = 9.26, df = 1, P = 0.002; GC/CC vs. GG: v2 =
+6.16, df = 1, P = 0.013) and ethnicity (GC vs. GG: v2 = 6.32, df = 2, P = 0.042; GC/CC vs. GG: v2 =
+6.29, df = 2, P = 0.043) but not the source of controls (GC vs. GG: v2 = 0.34, df = 1, P = 0.559; GC/CC vs. GG: v2 = 0.16, df = 1, P = 0.687) were found to con-
+tribute to substantial heterogeneity. The heterogeneity
+was effectively decreased or removed after exclusion of
+those studies with small sample size (less than 500
+subjects), suggesting that sample size is very important
+in the study design.
+
+Sensitivity analyses
+Sensitivity analyses indicated that two independent studies by Huang et al. [23] and Lum et al. [50] were the main origin of heterogeneity in Asians. The heterogeneity was effectively decreased or removed after exclusion of these two studies (CC vs. GG: Pheterogeneity = 0.616). In addition, no other single study influenced the pooled OR qualitatively, as indicated by sensitivity analyses, suggesting that the results of this meta-analysis are stable.
+Publication bias
+Begg's funnel plot and Egger's test were performed to evaluate the publication bias of literatures. As shown in
+
+123
+
+Breast Cancer Res Treat (2010) 120:509­517
+
+513
+
+Fig. 2 Forest plot of breast cancers risk associated with the p53 codon 72 polymorphism (CC/GC vs. GG) among studies with populationbased controls. The squares and horizontal lines correspond to the
+
+study-specific OR and 95% CI. The area of the squares reflects the study-specific weight (inverse of the variance). The diamond represents the pooled OR and 95% CI
+
+Table 2 Stratified analyses of the P53 codon 72 polymorphism on breast cancer risk with studies containing more than 500 subjects
+
+Variables
+
+na GC vs. GG
+
+CC vs. GG
+
+CC/GC vs. GG (dominant) CC vs. GC/GG (recessive)
+
+OR (95% CI) P* OR (95% CI)
+
+P* OR (95% CI)
+
+P* OR (95% CI) P*
+
+Total
+
+18 1.01 (0.97­1.05) 0.123 0.99 (0.92­1.06) 0.078 1.02 (0.96­1.08) 
+
+Ethnicities
+
+Asian European
+
+1 0.81 (0.60­1.09) ­
+
+0.78 (0.53­1.13) ­
+
+0.80 (0.60­1.06)
+
+17 1.02 (0.98­1.06) 0.155 1.00 (0.93­1.07) 0.086 1.02 (0.97­1.09) 
+
+Source of controls
+
+Hospital-based 2 1.07 (0.87­1.32) 0.128 1.15 (0.75­1.77) 0.905 1.08 (0.89­1.32) Population-based 14 1.02 (0.97­1.07) 0.099 0.98 (0.86­1.11)  0.024 1.02 (0.94­1.10) 
+
+Asian European
+
+1 0.81 (0.60­1.09) ­
+
+0.78 (0.53­1.13) ­
+
+0.80 (0.60­1.06)
+
+13 1.03 (0.98­1.08) 0.135 0.99 (0.87­1.14)  0.027 1.03 (0.95­1.11) 
+
+0.023
+­ 0.033
+0.163 0.012 ­ 0.019
+
+0.97 (0.91­1.03)
+0.88 (0.63­1.22) 0.97 (0.91­1.04)
+1.14 (0.75­1.73) 0.96 (0.89­1.04) 0.88 (0.63­1.22) 0.97 (0.89­1.05)
+
+0.302
+­ 0.263
+0.864 0.184 ­ 0.150
+
+* P value of Q-test for heterogeneity test   Random-effects model was used when P value for heterogeneity test \0.05; otherwise, fix-effects model was used a Number of comparisons
+
+123
+
+514 Breast Cancer Res Treat (2010) 120:509­517
+
+Table 3 Stratified analyses of the P53 codon 72 polymorphism by clinicopathologic characteristics on breast cancer risk
+
+Stratification of breast cancer
+
+na GC vs. GG OR (95% CI)
+
+CC vs. GG
+
+CC/GC vs. GG (dominant) CC vs. GC/GG (recessive)
+
+P* OR (95% CI) P* OR (95% CI) P* OR (95% CI) P*
+
+Grade 3 vs. Grade (1/2) 5
+
+Asian
+
+1
+
+European
+
+4
+
+Lymph node: positive vs. 3 negative
+
+Asian
+
+1
+
+European
+
+2
+
+0.90 (0.52­1.54)  0.048 0.79 (0.46­1.35) 0.353 0.88 (0.63­1.23)
+
+0.92 (0.38­2.20) ­
+
+0.37 (0.08­1.75) ­
+
+0.74 (0.32­1.68)
+
+0.92 (0.45­1.85)  0.023 0.88 (0.48­1.62) 0.321 0.90 (0.58­1.39)
+
+0.99 (0.77­1.27) 0.283 0.82 (0.53­1.28) 0.571 0.96 (0.76­1.21)
+
+1.03 (0.51­2.08) ­
+
+0.86 (0.34­2.20) ­
+
+0.98 (0.52­1.85)
+
+0.98 (0.76­1.28) 0.113 0.81 (0.49­1.33) 0.293 0.95 (0.74­1.23)
+
+0.278 ­ 0.185 0.219
+­ 0.082
+
+0.77 (0.49­1.21) 0.39 (0.09­1.74) 0.84 (0.52­1.36) 0.83 (0.54­1.27)
+0.85 (0.35­1.07) 0.82 (0.50­1.34)
+
+0.146 ­ 0.123 0.754
+­ 0.455
+
+* P value of Q-test for heterogeneity test   Random-effects model was used when P value for heterogeneity test \0.05; otherwise, fixed-effects model was used a Number of comparisons
+
+Fig. 3, the shape of the funnel plots seemed asymmetrical in both heterozygote comparison and dominant model comparison, suggesting the presence of publication bias. Then, the Egger's test was adopted to provide statistical evidence of funnel plot asymmetry. As expected, the results have shown an obvious evidence of publication bias (t = -2.45, P = 0.019 for GC vs. GG; t = -2.54, P = 0.015 for CC/GC vs. GG).
+Discussion
+This meta-analysis examined the association between a commonly studied p53 polymorphism (codon 72 G[C, Arg72Pro) and breast cancer risk. A total of 26,041 breast cases and 29,679 controls from 39 studies were included in the final analysis. We found that the variant genotypes of the Arg72Pro polymorphism were associated with significant decrease in overall breast cancer risk. Given the important roles of p53 in multiple cellular functions, such as gene transcription, DNA repair, and apoptosis, it is biologically plausible that p53 polymorphisms may modulate the risk of breast cancer.
+The p53 Arg72Pro polymorphism was well characterized in both functional analyses and association studies. Many studies have shown significant difference in the biochemical properties of the p53 protein depending on the particular polymorphic form. Storey et al. [53] reported that patients with human papilloma virus (HPV)-associated tumors revealed a striking overexpression of homozygous Arg-72 p53 compared with the normal population. Moreover, the Arg allele is more susceptible to degradation by the HPV E6 protein, with individuals homozygous for Arg being about seven times more susceptible to HPVassociated tumorigenesis than heterozygotes. Recent studies demonstrated that HPV DNA had been detected in breast carcinoma by different laboratorial techniques,
+
+suggesting the virus could play an important role in the pathogenesis of breast tumor [54, 55]. Therefore, the Argencoding allele (G allele) represents a significant risk factor in the development of HPV-associated breast cancer. The results of our meta-analysis were consistent with these experimental findings.
+We found an evidence for the association between the Arg72Pro and breast cancer risk among Europeans and Africans, but not among Asians, a possible reflection of differences in genetic background and gene­environment interactions in the etiology. For example, the C allele frequency among controls was 0.40 in Asian populations and 0.34 in European populations, suggesting a possible ethnic difference. Other factors such as selection bias, different matching criteria may also play a role. The abovementioned differences may account for the inconsistent results. In addition, there is only one reported study using African population. So, it is also likely that the observed ethnic differences may be due to chance because studies with small sample size may have insufficient statistical power to detect a slight effect. Therefore, additional studies are warranted to further validate ethnic difference in the effect of this functional polymorphism on breast cancer risk, especially in Africans.
+Significant association was also observed among studies using the population-based controls, but not the hospitalbased controls. This may be because the hospital-based studies have inherent selection biases due to the fact that such controls may not be representative of the study population or the general population, particularly when the genotypes under investigation were associated with the disease-related conditions that hospital-based controls may have. Thus, the use of proper and representative population-based control participants is of great importance in reducing biases in such genotype association studies.
+No significant association between variant genotypes and breast cancer risk was observed when the included
+
+123
+
+Breast Cancer Res Treat (2010) 120:509­517
+Fig. 3 Begg's funnel plot for publication bias test. a GC vs. GG. b CC/GC vs. GG. Each point represents a separate study for the indicated association. Log[OR], natural logarithm of odds ratio. Horizontal line, mean effect size
+
+515
+
+studies were stratified by menopause status, pathological grade, or lymph node metastasis status. The null result may be due to limited number of studies with available data on these characteristics, which had insufficient statistical power to detect a slight effect or may have generated a fluctuated risk estimate.
+Some limitations of this meta-analysis should be addressed. First, most of the studies had a very small sample size and did not have adequate power to detect the possible risk for p53 codon 72 polymorphism, and the observed significant ORs in some studies of small sample size may be false association. Therefore, more large and well-designed studies should be performed to further confirm all these results. Second, lack of the original data of the reviewed studies limited our further evaluation of potential interactions, because the interactions between gene­gene, gene­ environment, and even different polymorphic loci of the
+
+same gene may modulate breast cancer risk. Third, misclassifications on disease status and genotypes may also influence the results, because cases in several studies were not confirmed by pathology or other gold standard method, and the quality control of genotyping was also not well documented in some studies. In spite of these, our present meta-analysis also had some advantages. First, substantial number of cases and controls were pooled from different studies, which greatly increased statistical power of the analysis. Second, the quality of case­control studies included in this meta-analysis was satisfactory according to our selection criteria.
+In conclusion, this meta-analysis showed some evidence that the p53 codon 72 polymorphism was associated with a decreased risk of breast cancer. As studies among the Asians and Africans are currently limited, further studies including a wider spectrum of subjects should be carried
+
+123
+
+516 Breast Cancer Res Treat (2010) 120:509­517
+
+out to investigate the role of this functional variant in other populations, which should lead to better, comprehensive understanding of the association between the p53 codon 72 polymorphism and breast cancer risk.
+Acknowledgments This study was partly supported by the National Natural Science Foundation of China (30571583, 30800926 and 30872084), the Ph.D. Programs Foundation of Ministry of Education of China (20060312002), the Natural Science Foundation of Jiangsu Province (BK2006231), the Key Program for Basic Research of Jiangsu Provincial Department of Education (08KJA330001) and ``Qinglan Project'' Foundation for the Young Academic Leader of Jiangsu Province (2006).
+References
+1. Parkin DM, Bray F, Ferlay J et al (2001) Estimating the world cancer burden: Globocan 2000. Int J Cancer 94:153­156
+2. Yager JD, Davidson NE (2006) Estrogen carcinogenesis in breast cancer. N Engl J Med 354:270­282
+3. Veronesi U, Boyle P, Goldhirsch A et al (2005) Breast cancer. Lancet 365:1727­1741
+4. Bartkova J, Lukas J, Strauss M et al (1995) Cyclin D1 oncoprotein aberrantly accumulates in malignancies of diverse histogenesis. Oncogene 10:775­778
+5. Porter-Jordan K, Lippman ME (1994) Overview of the biologic markers of breast cancer. Hematol Oncol Clin North Am 8: 73­100
+6. Callahan R, Cropp CS, Merlo GR et al (1992) Somatic mutations and human breast cancer. A status report. Cancer 69:1582­1588
+7. Hollstein M, Sidransky D, Vogelstein B et al (1991) p53 mutations in human cancers. Science 253:49­53
+8. Petitjean A, Achatz MI, Borresen-Dale AL et al (2007) TP53 mutations in human cancers: functional selection and impact on cancer prognosis and outcomes. Oncogene 26:2157­2165
+9. Harris N, Brill E, Shohat O et al (1986) Molecular basis for heterogeneity of the human p53 protein. Mol Cell Biol 6:4650­4656
+10. Dumont P, Leu JI, Della Pietra ACIII et al (2003) The codon 72 polymorphic variants of p53 have markedly different apoptotic potential. Nat Genet 33:357­365
+11. Mantel N, Haenszel W (1959) Statistical aspects of the analysis of data from retrospective studies of disease. J Natl Cancer Inst 22:719­748
+12. DerSimonian R, Laird N (1986) Meta-analysis in clinical trials. Control Clin Trials 7:177­188
+13. Egger M, Davey Smith G, Schneider M et al (1997) Bias in metaanalysis detected by a simple, graphical test. BMJ 315:629­634
+14. Kawajiri K, Nakachi K, Imai K et al (1993) Germ line polymorphisms of p53 and CYP1A1 genes involved in human lung cancer. Carcinogenesis 14:1085­1089
+15. Sjalander A, Birgander R, Hallmans G et al (1996) p53 polymorphisms and haplotypes in breast cancer. Carcinogenesis 17:1313­1316
+16. Weston A, Pan CF, Ksieski HB et al (1997) p53 haplotype determination in breast cancer. Cancer Epidemiol Biomarkers Prev 6:105­112
+17. Wang-Gohrke S, Rebbeck TR, Besenfelder W et al (1998) p53 germline polymorphisms are associated with an increased risk for breast cancer in German women. Anticancer Res 18:2095­2099
+
+18. Khaliq S, Hameed A, Khaliq T et al (2000) P53 mutations, polymorphisms, and haplotypes in Pakistani ethnic groups and breast cancer patients. Genet Test 4:23­29
+19. Papadakis EN, Dokianakis DN, Spandidos DA (2000) p53 codon 72 polymorphism as a risk factor in the development of breast cancer. Mol Cell Biol Res Commun 3:389­392
+20. Li T, Lu ZM, Guo M et al (2002) p53 codon 72 polymorphism (C/G) and the risk of human papillomavirus-associated carcinomas in China. Cancer 95:2571­2576
+21. Wang-Gohrke S, Becher H, Kreienberg R et al (2002) Intron 3 16 bp duplication polymorphism of p53 is associated with an increased risk for breast cancer by the age of 50 years. Pharmacogenetics 12:269­272
+22. Buyru N, Tigli H, Dalay N (2003) P53 codon 72 polymorphism in breast cancer. Oncol Rep 10:711­714
+23. Huang XE, Hamajima N, Katsuda N et al (2003) Association of p53 codon Arg72Pro and p73 G4C14-to-A4T14 at exon 2 genetic polymorphisms with the risk of Japanese breast cancer. Breast Cancer 10:307­311
+24. Mabrouk I, Baccouche S, El-Abed R et al (2003) No evidence of correlation between p53 codon 72 polymorphism and risk of bladder or breast carcinoma in Tunisian patients. Ann N Y Acad Sci 1010:764­770
+25. Suspitsin EN, Buslov KG, Grigoriev MY et al (2003) Evidence against involvement of p53 polymorphism in breast cancer predisposition. Int J Cancer 103:431­433
+26. Mahasneh AA, Abdel-Hafiz SS (2004) Polymorphism of p53 gene in Jordanian population and possible associations with breast cancer and lung adenocarcinoma. Saudi Med J 25: 1568­1573
+27. Noma C, Miyoshi Y, Taguchi T et al (2004) Association of p53 genetic polymorphism (Arg72Pro) with estrogen receptor positive breast cancer risk in Japanese women. Cancer Lett 210: 197­203
+28. Kalemi TG, Lambropoulos AF, Gueorguiev M et al (2005) The association of p53 mutations and p53 codon 72, Her 2 codon 655 and MTHFR C677T polymorphisms with breast cancer in Northern Greece. Cancer Lett 222:57­65
+29. Ohayon T, Gershoni-Baruch R, Papa MZ et al (2005) The R72P P53 mutation is associated with familial breast cancer in Jewish women. Br J Cancer 92:1144­1148
+30. Siddique MM, Balram C, Fiszer-Maliszewska L et al (2005) Evidence for selective expression of the p53 codon 72 polymorphs: implications in cancer development. Cancer Epidemiol Biomarkers Prev 14:2245­2252
+31. Tommiska J, Eerola H, Heinonen M et al (2005) Breast cancer patients with p53 Pro72 homozygous genotype have a poorer survival. Clin Cancer Res 11:5098­5103
+32. Damin AP, Frazzon AP, Damin DC et al (2006) Evidence for an association of TP53 codon 72 polymorphism with breast cancer risk. Cancer Detect Prev 30:523­529
+33. Ma H, Hu Z, Zhai X et al (2006) Joint effects of single nucleotide polymorphisms in P53BP1 and p53 on breast cancer risk in a Chinese population. Carcinogenesis 27:766­771
+34. Baynes C, Healey CS, Pooley KA et al (2007) Common variants in the ATM, BRCA1, BRCA2, CHEK2 and TP53 cancer susceptibility genes are unlikely to increase breast cancer risk. Breast Cancer Res 9:R27
+35. Buyru N, Altinisik J, Demokan S et al (2007) p53 genotypes and haplotypes associated with risk of breast cancer. Cancer Detect Prev 31:207­213
+36. Cox DG, Deer D, Guo Q et al (2007) The p53 Arg72Pro and MDM2-309 polymorphisms and risk of breast cancer in the nurses' health studies. Cancer Causes Control 18:621­625
+
+123
+
+Breast Cancer Res Treat (2010) 120:509­517
+
+517
+
+37. Franekova M, Zubor P, Stanclova A et al (2007) Association of p53 polymorphisms with breast cancer: a case­control study in Slovak population. Neoplasma 54:155­161
+38. Garcia-Closas M, Kristensen V, Langerod A et al (2007) Common genetic variation in TP53 and its flanking genes, WDR79 and ATP1B2, and susceptibility to breast cancer. Int J Cancer 121:2532­2538
+39. Gochhait S, Bukhari SI, Bairwa N et al (2007) Implication of BRCA2 -26G[A 50 untranslated region polymorphism in susceptibility to sporadic breast cancer and its modulation by p53 codon 72 Arg[Pro polymorphism. Breast Cancer Res 9:R71
+40. Johnson N, Fletcher O, Palles C et al (2007) Counting potentially functional variants in BRCA1, BRCA2 and ATM predicts breast cancer susceptibility. Hum Mol Genet 16:1051­1057
+41. Khadang B, Fattahi MJ, Talei A et al (2007) Polymorphism of TP53 codon 72 showed no association with breast cancer in Iranian women. Cancer Genet Cytogenet 173:38­42
+42. Pharoah PD, Tyrer J, Dunning AM et al (2007) Association between common variation in 120 candidate genes and breast cancer risk. PLoS Genet 3:e42
+43. Samson M, Swaminathan R, Rama R et al (2007) Role of GSTM1 (Null/Present), GSTP1 (Ile105Val) and P53 (Arg72Pro) genetic polymorphisms and the risk of breast cancer: a case control study from South India. Asian Pac J Cancer Prev 8:253­257
+44. Schmidt MK, Reincke S, Broeks A et al (2007) Do MDM2 SNP309 and TP53 R72P interact in breast cancer susceptibility? A large pooled series from the breast cancer association consortium. Cancer Res 67:9584­9590
+45. Sprague BL, Trentham-Dietz A, Garcia-Closas M et al (2007) Genetic variation in TP53 and risk of breast cancer in a population-based case control study. Carcinogenesis 28:1680­1686
+46. Cavallone L, Arcand SL, Maugard C et al (2008) Haplotype analysis of TP53 polymorphisms, Arg72Pro and Ins16, in BRCA1 and BRCA2 mutation carriers of French Canadian descent. BMC Cancer 8:96
+
+47. Costa S, Pinto D, Pereira D et al (2008) Importance of TP53 codon 72 and intron 3 duplication 16 bp polymorphisms in prediction of susceptibility on breast cancer. BMC Cancer 8:32
+48. De Vecchi G, Verderio P, Pizzamiglio S et al (2008) The p53 Arg72Pro and Ins16 bp polymorphisms and their haplotypes are not associated with breast cancer risk in BRCA-mutation negative familial cases. Cancer Detect Prev 32:140­143
+49. Gaudet MM, Gammon MD, Bensen JT et al (2008) Genetic variation of TP53, polycyclic aromatic hydrocarbon-related exposures, and breast cancer risk among women on Long Island, New York. Breast Cancer Res Treat 108:93­99
+50. Lum SS, Chua HW, Li H et al (2008) MDM2 SNP309 G allele increases risk but the T allele is associated with earlier onset age of sporadic breast cancers in the Chinese population. Carcinogenesis 29:754­761
+51. Nordgard SH, Alnaes GI, Hihn B et al (2008) Pathway based analysis of SNPs with relevance to 5-FU therapy: relation to intratumoral mRNA expression and survival. Int J Cancer 123: 577­585
+52. Singh V, Rastogi N, Mathur N et al (2008) Association of polymorphism in MDM-2 and p53 genes with breast cancer risk in Indian women. Ann Epidemiol 18:48­57
+53. Storey A, Thomas M, Kalita A et al (1998) Role of a p53 polymorphism in the development of human papillomavirusassociated cancer. Nature 393:229­234
+54. Damin AP, Karam R, Zettler CG et al (2004) Evidence for an association of human papillomavirus and breast carcinomas. Breast Cancer Res Treat 84:131­137
+55. Akil N, Yasmeen A, Kassab A et al (2008) High-risk human papillomavirus infections in breast cancer in Syrian women and their association with Id-1 expression: a tissue microarray study. Br J Cancer 99:404­407
+
+123
+
+

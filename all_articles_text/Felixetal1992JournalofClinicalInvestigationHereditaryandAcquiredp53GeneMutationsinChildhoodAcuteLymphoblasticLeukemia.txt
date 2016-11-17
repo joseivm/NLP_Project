@@ -1,0 +1,460 @@
+Hereditary and Acquired p53 Gene Mutations in Childhood Acute Lymphoblastic Leukemia
+Carolyn A. Felix,* Marion M. Nau,t Takashi Takahashi,* Tetsuya Mitsudomi,* Itsuo Chiba,t David G. Poplack,* Gregory H. Reaman,* Diane E. Cole,* John J. Letterio,* Jacqueline Whang-Peng,11 Turid Knutsen,11 and John D. Minna" *Pediatric, WNavy Medical Oncology, and IlMedicine Branches, National Cancer Institute, National Institutes ofHealth, Bethesda,
+Maryland 20892; Division ofHematology-Oncology, Children's National Medical Center, and Department ofPediatrics, George Washington University School ofMedicine, Washington, District ofColumbia 20010; and 'Simmons Cancer Center, University of Texas Southwestern School ofMedicine, Dallas, Texas 75235
+
+Abstract
+The p53 gene was examined in primary lymphoblasts of 25 pediatric patients with acute lymphoblastic leukemia by the RNase protection assay and by single strand conformation polymorphism analysis in 23 of 25 cases. p53 mutations were found to occur, but at a low frequency (4 of 25). While all four mutations were identified by single strand conformation polymorphism, the comparative sensitivity ofRNase protection was 50% (2 of 4). Heterozygosity was retained at mutated codons in 3 of 4 cases. One pedigree was consistent with the Li-Fraumeni syndrome, and bone marrow from both diagnosis and remission indicated a germline G to T transversion at codon 272 (valine to leucine). Although members of another family were affected with leukemia, a 2-bp deletion in exon 6 was nonhereditary. The other two nonhereditary p53 mutations included a T to G transversion at codon 270 (phenylalanine to cysteine) and a G
+to C transversion at codon 248 (arginine to proline). These data support the role of both hereditary and acquired p53 mutations in the pathogenesis and/or progression of some cases of childhood acute lymphoblastic leukemia. (J. Clin. Invest. 1992. 89:640-647.) Key words: B-cell precursor * germline* Li-Frau-
+meni syndrome * T cell * tumor suppressor gene
+Introduction
+After the discovery of the 8; 14 translocation and the consequent activation of the c-myc gene in Burkitt's lymphoma (1), studies ofthe molecular basis ofchildhood acute lymphoblastic leukemia (ALL)' have concentrated upon searching for potential dominant oncogenes at breakpoint regions of chromosomal translocations (2). In solid tumors of both children and adults, retinoblastoma being the paradigm, an additional focus has been the identification of genes of a different class, which function in their wild-type form as recessive oncogenes or tu-
+Address reprint requests to Dr. Felix at her current address: Division of Oncology, Department of Pediatrics, Wood Building, 4th Floor, Children's Hospital of Philadelphia, 34th Street and Civic Center Boulevard, Philadelphia, PA 19104.
+Receivedfor publication 2 July 1991 and in revisedform 27 September 1991.
+1. Abbreviations used in this paper: ALL, acute lymphoblastic leukemia; BM, bone marrow; CML, chronic myelogenous leukemia; ORF, open reading frame; PB, peripheral blood; PCR, polymerase chain reaction; SSCP, single strand conformation polymorphism.
+The Journal of Clinical Investigation, Inc. Volume 89, February 1992, 640-647
+
+mor suppressor genes (3). One such recessive oncogene is p53 (4-12), located on chromosome 17 at band p13.1 (13, 14). Inactivation of the human p53 gene, whether by gross structural change, homozygous deletion, or point mutation, has since been implicated in the pathogenesis oflung, breast, colon, brain, and liver cancers, chronic myelogenous leukemia (CML) and childhood osteogenic and rhabdomyosarcomas (15-26). Moreover, recent studies have demonstrated the presence of germline p53 mutations in Li-Fraumeni pedigrees affected with breast cancers, sarcomas, and brain tumors (27, 28). The observation of Li-Fraumeni syndrome-type cancers, including lymphomas, in transgenic mice overexpressing a mutant p53 has suggested a potential role ofp53 inactivation in the pathogenesis ofhuman lymphoid malignancies as well (29). Since acute leukemias are considered component tumors ofthe Li-Fraumeni syndrome, we undertook to study the p53 gene in childhood ALL.
+Methods
+Sample collection. Materials were collected per protocol or as part of standard care. Lymphoblasts from 80 children with B cell precursor ALL, 21 with T cell ALL, and three infants, aged 0-21 yr at diagnosis, were obtained and characterized as previously described (30, 31). Sampling times were at diagnosis, at bone marrow (BM) relapse, or at failure of induction chemotherapy. BM collected during remission was also available in one case. Cytogenetic analysis was by standard methods (32).
+DNA and RNA preparation and Southern analysis. High molecular weight DNA and total cellular RNA were isolated as described (30, 31). For standard Southern analysis 10 ,g of genomic DNAs digested by BamHI (Bethesda Research Laboratories, Bethesda, MD), EcoRI (Bethesda Research Laboratories), or HindIII (Boehringer Mannheim Biochemicals, Indianapolis, IN) was hybridized with a 1.8-kb human p53 cDNA-containing XbaI fragment derived from clone php53cI (12, 15). Three chromosome 17p polymorphic regions were assessed by using pBHP53 (33), pMCT35. 1 (34), and pYNZ22 (35) fragments as probes and BamHI or MspI (Bethesda Research Laboratories) cleaved DNA. Both the pBHP53 and MCT35.1 probes were preassociated with an
+5,000-fold excess of sonicated, alkali-denatured human placental DNA (Sigma Chemical Company, St. Louis, MO) for 2 h before hybridization, and nitrocellulose filters were prehybridized overnight in a so-
+lution containing 100 gsg/ml of the same reagent.
+Screeningfor mutations. RNase protection assays were performed as previously described using three riboprobes (p53XP, p53PA, p53M) spanning the p53 open reading frame (ORF; reference 15). The polymerase chain reaction/single strand conformation polymorphism (PCR/SSCP) method (36-38), as modified to screen for point mutations of the p53 gene in genomic DNA, also has been described (39),
+and [a'2P]dCTP- (Amersham Corp., Arlington Heights, IL) labeled
+PCR fragments spanning exons 5 and 6 or exons 7 and 8 were studied (see Fig. 1).
+
+640 Felix et al.
+
+Characterization of abnormalities suggested by screening. RNase protection abnormalities were verified by cDNA sequencing. Firststrand cDNA was synthesized using 5 ,ug of total cellular RNA and a p53-specific primer, followed by PCR amplification of the entire p53 ORF (15). PCR products were cleaved with EcoRI, agarose gel-purified by the Geneclean method (Bio 101, La Jolla, CA), and ligated into the EcoRI site ofpGEM-7Zf+ (Promega Corp., Madison, WI) for transformation of DH5a cells (Bethesda Research Laboratories). The entire p53 ORF of individual cDNA subclones was sequenced using Sequenase Version 2.0 (U.S. Biochemical Corp., Cleveland, OH), SP6 and T7 sequencing primers, and four sense oligonucleotides which have been described (15). Mutations were confirmed by sequencing the appropriate portion of the ORF in the opposite direction.
+Mutations were also confirmed by restriction enzyme digestion of cDNA subclones if a restriction site was altered and by restriction enzyme digestion or direct sequencing ofgenomic DNA/PCR products. 1
+;ig of genomic DNA was PCR-amplified and 1/20 to 1/250 of these
+products was used as template in a second heminested PCR reaction
+for sequencing. 30 cycles at 95°C for 1 min, 58°C for 1 min, and 72°C
+for 3 min were utilized. PCR products were agarose gel isolated, Geneclean-purified (Bio 101), and 500 ng was directly sequenced using nested oligonucleotides.
+Family studies. Family and medical histories were obtained by
+chart review or interview. Peripheral white blood cells were used in the studies of parents, siblings, and normal individuals and were collected after explanation ofstudies to be perfoimed. Restriction enzyme digestion or direct sequencing of genomic DNA/PCR products, and SSCP analyses were performed as appropriate to individual cases.
+Results
+Identification ofpS3 mutations by RNase protection and SSCP
+analysis. While the sensitivity ofthe RNase protection assay is - 50%, it is specific and avoids PCR artifact (40) and was thus employed as a method of detecting small mutations. 25 patients including 12 children and two infants diagnosed with B cell precursor ALL and 11 children with T cell ALL were studied. Their leukemic cells were obtained at diagnosis (15 of 25), at BM relapse (8 of 25), or both (1 of 25), and in one case at failure of induction chemotherapy. 2 of 25 children were identified with RNase protection patterns suggestive of mutations. SSCP analysis was performed in 23 of 25 cases and, consistent with the 50% sensitivity ofRNase protection, verified those two mutations and also identified two others (Table I). Unlike the RNase protection assay, under the experimental conditions described above 90% (36 of 39) of known point mutations of the p53 gene are detectable by SSCP (39).
+Absence of obvious rearrangement or deletion of the p53 gene in childhood ALL. Cytogenetic studies of the p53 gene were performed in the leukemic cells of 33 patients, including 7
+
+of the 25 screened by RNase protection, and revealed an ab-
+sence of obvious structural abnormalities of chromosome 1 7p
+and, in one case, a triploid karyotype. Southern analysis of the
+p53 gene was performed in 101 cases including 22 of the 25
+screened by RNase protection and showed only normal pat-
+terns and no evidence of rearrangement or deletion (not shown). Lymphoblast DNA ofa single child with B cell precur-
+sor ALL at diagnosis manifested a fragment of altered size in EcoRI, but not in either BamHI or HindIII digests. Although exons 5-8 appeared normal by SSCP analysis, either a small mutation or polymorphism in another region ofthe p5 3 gene is possible in this case.
+Characterization ofa p53 mutation in a case ofchildhood T cellALL. RNase protection assay ofperipheral blood (PB) lymphoblast mRNA of a child with relapsed T cell ALL (T-ALL Pt. 16) revealed relatively abundant p53 message and suggested the presence of both a normal allele and a point mutation on the other allele which localized to the PA fragment in a region 3' of the M probe (not shown). SSCP analysis also suggested a mutation which localized to exon 8 (Fig. 1). cDNA sequencing of the p53 ORF revealed a point mutation (TTT to TGT, phenylalanine to cysteine) at codon 270, thus confirming the findings of both RNase protection and SSCP (Fig. 2). This mutation creates a novel PvuII restriction site, and PvuII digestion of a PCR-amplified fragment of lymphoblast genomic DNA and of additional cDNA subclones verified the presence of both mutant and wild-type alleles (not shown).
+Characterization of two p53 abnormalities in a case of childhood B-cell precursor ALL. RNase protection assay of PB lymphoblast mRNA of a child with relapsed B cell precursor ALL (Pre-B ALL Pt.4) showed a relatively low level of p53 mRNA. The absence of mRNAs fully protected by either the PA or M probes suggested the absence of a normal allele. Protection of four fragments by the 3' PA probe whose sum length exceeded the size of complete protection suggested the presence of more than one mRNA (not shown). One abnormality was present in the region of the M probe overlapping PA and was more specifically localized to exon 6 by SSCP (Fig. 1). The presence of two mRNA species, both with a 2-bp deletion at p53 codons 214/215 which would cause a frame shift and use of a premature TGA termination codon in exon 6 was confirmed by cDNA sequencing (Fig. 2). Direct sequencing ofthis area in PCR-amplified lymphoblast genomic DNA revealed that only the mutant allele was present.
+One cDNA subclone contained not only the codon 214/
+215 deletion, but also a 133-bp insertion at the precise junction of the unaltered 3' and 5' ends of exons 9 and 10, respectively (Fig. 2). This cDNA insertion sequence matched that of se-
+
+Table I. Summary ofMutations in the p53 Gene in Childhood ALL
+
+Patient
+
+Exon Codon
+
+Type
+
+Mutation
+
+Amino acid change
+
+T-ALL 16 8 270
+
+tv TTT to TGT phe to cys
+
+Pre-B 4
+
+6 214/215 del/fs na
+
+na
+
+Infant 3
+
+7 248
+
+tv CGG to CCG arg to pro
+
+Pre-B 80 8 272
+
+tv GTG to TTG val to leu
+
+Zygosity
+hetero homo hetero hetero
+
+Origin
+non-hered non-hered non-hered germline
+
+Time
+relapse relapse relapse (not at dx) dx (remission)
+
+RNase protection
++ + -
+
+SSCP
++ + + +
+
+Abbreviations: tv, transversion; del, deletion; fs, frameshift; na, not applicable; hetero, heterozygous; homo, homozygous; non-hered, nonhereditary; SSCP, single strand conformation poymorphism analysis; (+), detectable; (-), not detectable; and dx, diagnosis.
+
+p53 Gene Mutations in Childhood Acute Lymphoblastic Leukemia 641
+
+T-ALL Pt. 16
+0 CLL >
+
+Pre-B ALL Pt. 4
+
+Z4
+
+... 't
+
+0
+
+5
+
+Infant ALL Pt. 3
+x=
+4.C 0
+
+Pre-B ALL Pt. 80
+.E
+XI -GI) c&
+
+7
+
+L
+
+.. ..
+
+!6AL.
+
+kwok
+6
+
+wresti.
+E4..
+8
+L *IP
+
+126 187 187 22
+l0 Aat I1
+271 bp 167 bp
+
+!25 261
+425 bp
+
+261 30'7
+Dra I 4
+I
+245 bp
+
+Figure 1. Identification and localization of mutations to specific exons of the p53 gene by the PCR/SSCP method (39). Patients were studied at diagnosis, relapse, or remission as indicated, and DNAs of family members or individuals without p53 mutations served as controls. Sites of restriction enzyme cleavage in genomic DNA and resultant normal sizes of genomic DNA/PCR fragments containing individual exons are shown by schematic.
+
+quence beginning at nucleotide (nt) 196 of the 2.5-kb intron 9 in normal genomic DNA. The intron 9 genomic DNA sequence of this patient's lymphoblasts was identical to that of eight normal individuals and did not contain a mutation which
+
+would favor alternative splicing (41) in regions including: (a) the 133 alternatively spliced nucleotides (nt 196-328 of intron 9) (see Fig. 2); (b) target sequences 30 bp upstream of this region (taactaac) and upstream of exon 10 (tacttac); and (c) splice
+
+642 Felix et al.
+
+21. 2- Jo: :~ ~ ~ ~ .T-ALLPt.16
+
+270
+
+:::.:A-
+
+............................
+
+...... ...........
+
+..... ........... .-.--:::-:::-.--...:---::.
+
+ATG TTT1-1TGT
+
+TGA
+
+Pre-B ALL Pt. 4
+
+TA deletion
+
+214/215
+
+.:3112.:.:...0:...1,.,,, 4 ~~~~~~~~........_.. .
+
+ATG TGA
+
+TGA
+
+2I
+ATG
+
+TA deletion
+
+.........8 ........................
+
+............
+
+214/215
+
+[312 1~~~~~~~~:4: ..2
+
+7
+
+8 9 | 10 |1
+
+..........................................
+
+TGA /~~~~~~~~~~~~~~~~ TGA
+
+gaccagaccagctttcaaaaagaaaa ttgttaaagagagcatgaaaatggtt
+ctatgactttgcctgatacagatgcta
+ct (g) cttacgatggtgttacttcctg
+| ataaactcgtcgtaagttgaaaatatt
+
+Infant ALL Pt. 3
+
+.. .....
+..::::2 :::: 3
+
+............
+..........X..........
+
+............
+
+..................
+
+.
+
+............
+5 ................
+.................
+..................
+
+...
+
+ATG
+
+248
+
+............... .......
+CGG -*CCG
+
+........... .-.-.-.-.-.--.-.--
+
+Pre-B ALL Pt. 80
+
+...3- -. - -. .- -. - -. .- -. .- . . . - -. - -. .- -. .- . .- -. .- . .; ,; ;. .; . .;. . . -;-- ; ;-
+
+.....
+
+.. .. ..
+
+ATG
+
+....-.;.-;;--
+
+272
+
+GTG -*TTG
+
+K
+
+Figure 2. Schematic of abnormalities in the p53 ORF identified in lymphoblasts by cDNA (T-ALL Pt. 16, Pre-B ALL Pt.4) and/or direct (Pre-B ALL Pt.4, Infant ALL Pt.3, Pre-B ALL Pt.80) methods of sequencing. The shaded regions represent ORF sequences. Data were consistent with the presence of both normal and mutant alleles in lymphoblast DNA in all cases shown except Pre-B ALL Pt.4 where only the mutant allele is present. The lymphoblast genomic
+sequence surrounding the intron 9 insertion in Pre-B ALL Pt. 4 is as follows: 5'-ccaact-
+tataccataatatatattttaaagGACCAG... .AATATTgtaatgttgaaaatggatttaatacaccta-3'.
+
+consensus sequences at the exon 9/intron 9 boundary (donor: TCAGgtacta) and the intron 9/exon 10 boundary (acceptor: ctgcagATCC) and sequences flanking the 133-bp intron 9 insertion. (For genomic sequences surrounding this insertion, see legend to Fig. 2.) These data corroborate all RNase protection fragments identified and are consistent with p53 allele loss and low-level transcription oftwo related, but different mRNA species by alternative splicing from a single mutant allele.
+Characterization of a p53 mutation in a case of ALL of infancy. Although RNase protection assay of lymphoblast mRNA ofan infant with B cell precursor ALL at relapse (Infant ALL Pt.3) showed full-length protection with all three riboprobes (not shown), SSCP analysis of genomic DNA from the same sampling suggested both a normal allele and an abnormal allele with a mutation in exon 7 (Fig. 1), which by direct sequencing was found to be a G to C transversion at p53 codon 248 (CGG to CCG, arginine to proline) (Fig. 2). In contrast, repeated SSCP analyses of lymphoblast genomic DNA sampled at diagnosis revealed exon 7-containing PCR fragments of only the normal size, suggesting that the mutation had been acquired at some time during the course of therapy.
+A germlinep53 mutation in childhood B cellprecursorALL. The leukemic cells of an adolescent male (Pre-B ALL Pt.80)
+
+showed a triploid karyotype. No p53 mutation was detected by the RNase protection assay (not shown), but SSCP analysis of BM lymphoblast genomic DNA suggested that a mutation in
+exon 8 was present at diagnosis (Fig. 1). At least one normal sequence and a G to T transversion at p53 codon 272 (GTG to TTG, valine to leucine) were found by direct sequencing (Fig.
+2). Thus, heterozygosity appeared to be retained, although some contribution to the normal sequence by nonleukemic cells is possible. Both SSCP analysis and direct sequencing showed that mutant and normal alleles were also present in a remission BM sample where morphological examination
+showed no evidence ofdisease (Fig. 1). These data indicate that the mutation at p53 codon 272 was germline and likely hereditary (c.f. subsection Family studies below).
+Southern analysis ofpolymorphic regions. Southern analy-
+sis of the pBHP53, pMCT35. 1, and pYNZ22 polymorphic loci was performed on lymphoblast genomic DNAs in all 25 cases studied by RNase protection and in the case showing a novel EcoRI site. Homozygous patterns were found in two ofthe four
+cases with definitive mutations and in the case with a novel EcoRI site. In contrast, heterozygous patterns were observed at one or more of these loci in the other 23 cases including two where mutations were present. These findings support chro-
+
+p53 Gene Mutations in Childhood Acute Lymphoblastic Leukemia 643
+
+mosome 17p allele loss in one case with evidence of mutation
+of the p53 gene where only the mutant p53 allele was identified (Pre-B ALL Pt. 4) and verify heterozygosity at chromosome 17p in two cases where both normal and mutant p53 alleles were found (Infant ALL Pt. 3 and Pre-B ALL Pt. 80). In the case of T-ALL Pt. 16, the leukemic cells showed one normal p53 sequence and an abnormal sequence with a mutation at p53 codon 270, yet homozygous patterns at all three polymorphic loci. Based upon the expected frequencies of heterozygosity at these loci (49%, 38%, and 86%, respectively), the chance that all would be homozygous in the same individual is 4% (33-35). Despite the small chance of this combination, and since both normal and mutant alleles were present, these findings are consistent with retention of both alleles which were by chance homozygous at each of the three 17p polymorphic loci.
+Family studies. Medical and family histories were available on 18 of the 25 patients studied by RNase protection and on the child whose lymphoblast DNA showed a novel EcoRI site. The younger brother ofthe patient with a germline mutation at p53 codon 272 was recently diagnosed with osteogenic sarcoma, and the mother of the patient and five maternal grandparents or their siblings were affected at ages as young as 30 years with lung and other cancers. This kindred may thus represent a Li-Fraumeni family (Fig. 3, top). However, in the three other cases ofchildhood ALL analysis ofp53 sequence in parental genomic DNA indicated that the p53 mutations were nonhereditary (not shown). Despite the acquired nature ofthese mutations, the patient whose lymphoblasts contained a p53 codon 214/215 deletion had a brother and distant cousin with childhood acute leukemia and a family history of leukemia and breast, gastrointestinal, and prostate cancers over four generations of adults (Fig. 3, bottom). The families of the other two children whose lymphoblasts contained p53 mutations were affected by cancer only during adulthood, and thus were not suggestive of the Li-Fraumeni syndrome. The families of 14 patients whose lymphoblast p53 genes were normal and of the patient-with a novel EcoRI restriction site were either unaffected by cancer (10 of 15), or affected only during adulthood (5 of 15). In addition, one child with normal lymphoblast p53 genes had a past history of Ewing's sarcoma, and another a history remote by 14 years of previous ALL.
+Discussion
+The impetus for this investigation of p53 mutations in childhood ALL, whether hereditary or acquired, was the reported finding that mice transgenic for a mutant p53 gene developed lymphoid tumors as well as other Li-Fraumeni syndrome cancers (29). This syndrome of multiple primary cancers, which occur at an early age in either individuals or in families, was first described in 1969 (42). Soft tissue sarcomas, bone, brain, and breast cancers, adrenal cortical carcinomas, and leukemias are considered component tumors of this syndrome in the human. In pedigrees with breast cancers, sarcomas, and brain tumors, the presence of germline p53 mutations in a region containing codons 245, 248, 252, and 258 has suggested that p53 may be the cancer susceptibility gene (27, 28). The present study demonstrates that in childhood ALL, another component tumor, the p53 gene sometimes may be altered by small mutations which are either hereditary or acquired and which would lead to changes in predicted p53 peptides (Table I).
+644 Felix et al.
+
+The lymphoblasts ofone child with relapsed T cell ALL and an acquired p53 mutation showed a T to G transversion at codon 270 that would result in amino acid substitution (phenylalanine to cysteine) and a change in charge in a highly con-
+served region involved in SV40 large T antigen binding (5, 12). In another child with B cell precursor ALL, whose p53 mutation was hereditary, a codon in this same region, codon 272, was abnormal (GTG to TTG, valine to leucine). Although
+these specific mutations have not been observed in other
+cancers, many mutations cluster in regions of the gene con-
+served in evolution and it has been speculated that they disrupt the regulatory interaction of p53 with a putative cellular coun-
+terpart of large T (15, 17, 18, 19, 22).
+The lymphoblasts ofanother child with relapsed B-cell pre-
+cursor ALL showed a nonhereditary homo- or hemizygous 2bp deletion at p53 codons 214/215. The resultant frame shift and premature termination in exon 6 shortens the length ofthe p53 protein product by 44% and eliminates two of the evolutionarily conserved domains, one ofthe two SV40 large T antigen binding sites, and the nuclear localization signal (5, 12, 43). This mutation in exon 6 may also have changed the conforma-
+tion of the DNA and thus the accessibility of target sequences
+and/or splice junctions downstream, as a unique mRNA was identified which contained both the codon 214/215 deletion and a 133-bp insertion alternatively spliced between exons 9
+and 10. This alternatively spliced p53 mRNA is distinct from any previously described (16, 17) because it arose by splicing a region which was already flanked at its 5' end in wild-type form
+by the 5'-ag-3' sequence ofa splice acceptor and thus began 196
+bp internal to the start of the 2.5-kb intron 9. No mutation in intron 9 favoring alternative splicing was found. The intron 9 sequence at the 3' insertion/intron boundary (5'-gtaagt-3') may be a better splice donor consensus than that normally found at
+the exon 9/intron 9 boundary (5'-gtacta-3') (41). This 5'-gtaagt3' may contain a common polymorphism which results in al-
+ternative splicing in that it was also found in genomic DNA from several normal individuals. In the leukemic cells with a more 5' termination codon in exon 6 the insertion in the p53
+ORF is inconsequential (Fig. 2). However, the same insertion contains an inframe TGA 82 bp downstream that would elimi-
+nate exons 10 and 11 from the reading frame and 62 amino
+acids from the p53 protein if present alone. The alternatively spliced mRNA may also reflect incomplete processing or an undetermined abnormality in transcriptional regulation.
+Despite the early age ofan infant with B cell precursor ALL, the p53 codon 248 mutation observed at relapse was also nonhereditary and, moreover, presumably acquired at some time during the course of or perhaps as a result of therapy. This mutation would cause an amino acid substitution (arginine to proline) at a residue of the protein known to be abnormal in some individuals with the Li-Fraumeni syndrome. This residue again falls in a conserved region of p53 involved in murine SV40 large T antigen binding (5, 12). The refractory nature of the disease ofthis infant at relapse may attest to the importance of a putative regulatory function (15, 17-19, 22).
+Findings of loss of heterozygosity are often suggestive of mutations in tumor suppressor genes. In the heritable form of retinoblastoma, for example, a small mutation in one allele is usually germline and precedes the loss of the second allele in tumor cells (3, 44). Consistent with a recessive model, in the B cell precursor lymphoblasts showing a p53 codon 214/215 deletion and in most other cancers with p53 mutations (15, 18,
+
+-II(1
+40y
+
+0
+Lung -O5y
+
+-W
+
+) )L
+
+uu
+
+u
+
+IL
+
+Lung -50y
+
+u
+
+X
+n=5 n=4 LProstate
+4 - 50y
+U
+~140y
+
+0
+Bone 33y
+37y Uterus Dx 35y
+
+0
+
+20y ALL 17y
+
+Dx 17y
+
+Osteogenic
+
+Death 19y
+
+Sarcoma
+
+p53 Codon 272
+
+GTG-.TTG
+
+26y
+
+24y Acute
+
+ALL
+
+Leukemia
+
+Dx 5y
+
+Dx 5y
+
+Death By
+
+Death Sy
+
+p53
+
+Codon 2141215 del.
+
+Figure 3. Pedigrees of cancer prone families of children with ALL and germline (top) or nonhereditary (bottom) p53 mutations. (o, o) living male or female; (i, *) deceased; (\) affected with cancer; (U) cancer, type unknown.
+
+19, 45-49), there is also clear evidence of loss of the normal allele. In contrast, childhood ALL sometimes may differ from other cancers where p53 behaves as a classic tumor suppressor
+
+gene since the lymphoblasts of three other children retained heterozygosity. Such cases instead suggest the postulated "trans-dominant negative" mechanism, where both alleles
+
+p53 Gene Mutations in Childhood Acute Lymphoblastic Leukemia 645
+
+produce proteins, but mutation of a single allele contributes to transformation because there is sequestration and inactivation of wild-type protein by the mutant form (50, 5 1).
+By two independent screening tests, this study indicates that the frequency of p53 mutations in childhood ALL is relatively low (4 of 25). This low frequency is in contrast to mutations reported in 5 of 10 T cell ALL cell lines where in vitro selection has been suggested (52). However, this low frequency of detectable mutations does not preclude involvement of p53 by other mechanisms including transcriptional inactivation or posttranslational modification.
+We also searched for the presence of germline p53 mutations and examined medical and family histories for cancers characteristic ofthe Li-Fraumeni syndrome (42). The Li-Fraumeni family which we identified differs from others reported to have hereditary p53 mutations in both the range of tumors which occurred (childhood ALL, osteogenic sarcoma, and lung cancer) and the codon 272 location ofthe germline p53 mutation. This point mutation is also in contrast to major structural rearrangements of the p53 gene which have been described in osteogenic sarcoma (21). These findings predict that additional heterogeneity in tumor types and specific mutations will be found as additional Li-Fraumeni families are investigated.
+The pedigree of another child with B cell precursor ALL also seems consistent with a cancer-prone family, having two other cases of childhood leukemia and leukemia and other cancers over four generations of adults. The p53 codon 214/ 215 deletion which was found, nonetheless, was nonhereditary and occurred in a region ofthe gene distinct from that involved in previously reported Li-Fraumeni families. Moreover, in two other patients where ALL represented a second cancer, no p53 mutation was identified at all. These data suggest that a p53 mutation may not always be inherited or even present in certain cancer-prone individuals and that a mutant gene other than p53 may be inherited in families with multiple members affected by leukemia. Thus, in childhood ALL variant cancer susceptibility syndromes and a more multifactorial pathogenetic process are possible.
+Acknowledaments
+We wish to thank A. Chauvenet and Y. Ravindranath for patient referrals;J. Fedorko and W. Goldschmidtsforpreparation ofoligonucleotides; P. Chumakov for providing the entire sequence of the human p53 gene; and F. Li, D. D'Amico, L. Goldstein, D. Jones, and K. Bhatia for helpful discussions.
+Carolyn A. Felix is recipient of the American Society of Pediatric Hematology-Oncology Young Investigator Award (1990).
+References
+1. Battey, J., C. Moulding, R. Taub, W. Murphy, T. Stewart, H. Potter, G. Lenoir, and P. Leder. 1983. The human c-myc oncogene: structural consequences of translocation into the IgH locus in Burkitt lymphoma. Cell. 34:779787.
+2. Testa, J. 1990. Chromosome translocations in human cancer. Cell Growth Differ. 1:97-101.
+3. Ponder, B. 1988. Gene losses in human tumours. Nature (Lond.). 335:400402.
+4. Lane, D., and S. Benchimol. 1990. p53: oncogene or anti-oncogene? Genes Dev. 4:1-8.
+5. Soussi, T., C. Caron de Fromentel, and P. May. 1990. Structural aspects of the p53 protein in relation to gene evolution. Oncogene. 5:945-952.
+6. Lamb, P., and L. Crawford. 1986. Characterization ofthe human p53 gene. Mol. Cell. Biol. 6:1379-1385.
+646 Felix et al.
+
+7. Buchman, V., P. Chumakov, N. Ninkina, 0. Samarina, and G. Georgiev. 1988. A variation in the structure ofthe protein-coding region ofthe human p53
+gene. Gene. 70:245-252.
+8. Finlay, C., P. Hinds, and A. J. Levine. 1989. The p53 protooncogene can
+act as a suppressor oftransformation. Cell. 57:1083-1093.
+9. Eliyahu, D., D. Michalovitz, S. Eliyahu, 0. Pinhasi-Kimhi, and M. Oren. 1989. Plasmids encoding wild type p53 can inhibit oncogene-mediated transformation. Proc. Natl. Acad. Sci. USA. 86:8763-8767.
+10. Parada, L., H. Land, R. Weinberg, D. Wolf, and V. Rotter. 1984. Cooperation between gene encoding p53 tumour antigen and ras in cellular transformation. Nature (Lond.). 312:649-651.
+1 1. Chen, P.-L., Y. Chen, R. Bookstein, and W.-H. Lee. 1990. Genetic mechanisms of tumor suppression by the human p53 gene. Science (Wash. DC).
+250:1576-1580.
+12. Zakut-Houri, R., B. Bienz-Tadmaor, D. Givol, and M. Oren. 1985. Human p53 cellular tumor antigen: cDNA sequence and expression in COS cells. EMBO (Eur. Mol. Biol. Organ.) J. 4:1251-1255.
+13. McBride, O., D. Merry, and D. Givol. 1986. The gene for human p53 cellular tumor antigen is located on chromosome 17 short arm (17pI3). Proc. Natd. Acad. Sci. USA. 83:130-134.
+14. Isobe, M., B. S. Emanuel, D. Givol, M. Oren, and C. M. Croce. 1986. Localization of gene for human p53 tumour antigen to band 17pl3. Nature (Lond.). 320:84-85.
+15. Takahashi, T., M. Nau, I. Chiba, M. Birrer, R. Rosenberg, M. Vinocour, M. Levitt, H. Pass, A. Gazdar, and J. Minna. 1989. p53: a frequent target for genetic abnormalities in lung cancer. Science (Wash. DC). 246:491-494.
+16. Takahashi, T., D. D'Amico, I. Chiba, D. Buchhagen, and J. Minna. 1990. Identification of intronic point mutations as an alternative mechanism for p53 inactivation in lung cancer. J. Clin. Invest. 86:363-369.
+17. Chiba, I., T. Takahashi, M. M. Nau, D. D'Amico, D. T. Curiel, T. Mitsudomi, D. L. Buchhagen, D. Carbone, S. Piantadosi, H. Koga, et al. (For the Lung Cancer Study Group). 1990. Mutations in the p53 gene are frequent in primary, resected non-small cell lung cancer. Oncogene. 5:1603-1610.
+18. Nigro, J., S. Baker, A. Preisinger, J. Jessup, R. Hostetter, K. Cleary, S. Bigner, N. Davidson, S. Baylin, P. Devilee, et al. 1989. Mutations in the p53 gene occur in diverse human tumour types. Nature (Lond.). 342:705-708.
+19. Baker, S., E. Fearon, J. Nigro, S. Hamilton, A. Preisinger, J. Jessup, P. vanTuinen, D. Ledbetter, D. Barker, Y. Nakamura, et al. 1989. Chromosome 17 deletions and p53 gene mutations in colorectal carcinomas. Science (Wash. DC).
+244:217-221.
+20. Baker, S., S. Markowitz, E. Fearon, J. Willson, and B. Vogelstein. 1990. Suppression ofhuman colorectal carcinoma cell growth by wild-type p53. Science (Wash. DC). 249:912-915.
+21. Masuda, H., C. Miller, H. Koeffler, H. Battifora, and M. Cline. 1987. Rearrangement ofthe p53 gene in human osteogenic sarcomas. Proc. Nati. Acad. Sci. USA. 84:7716-7719.
+22. Mulligan, L., G. Matlashewski, H. Scrable, andW. Cavanee. 1990. Mechanisms ofp53 loss in human sarcomas. Proc. Nati. Acad. Sci. USA. 87:5863-5867.
+23. Ahujia, H., M. Bar-Eli, S. Advani, S. Benchimol, and M. Cline. 1989. Alterations in the p53 gene and the clonal evolution ofthe blast crisis ofchronic myelocytic leukemia. Proc. Nati. Acad. Sci. USA. 86:6783-6787.
+24. Mashal, R., M. Shtalrid, M. Talpaz, H. Kantarjian, L. Smith, J. Beran, A. Cork, J. Trujilo, J. Gutterman, and A. Deisseroth. 1990. Rearrangement and expression ofp53 in chronic phase and blast crisis ofchronic myelogenous leukemia. Blood. 75:180-189.
+25. Hsu, I., R. Metcalf, T. Sun, J. Welsh, N. Wang, and C. Harris. 1991. Mutational hotspot in the p53 gene in human hepatocellular carcinomas. Nature (Lond.). 350:427-428.
+26. Bressac, B., M. Kew, J. Wands, and M. Ozturk. 1991. Selective G to T mutations ofp53 gene in hepatocellular carcinoma from southern Africa. Nature (Lond.). 350:429-431.
+27. Malkin, D., F. P. Li, L. C. Strong, J. J. Fraumeni, C. E. Nelson, D. H. Kim, J. Kassel, M. A. Gryka, F. Z. Bischoff, M. A. Tainsky, et al. 1990. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science (Wash. DC). 250:1233-1238.
+28. Srivastava, S., A. Zou, K. Pirollo, S. Blattner, and E. Chang. 1990. Germline transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome. Nature (Lond.). 348:747-749.
+29. Lavigueur, A., V. Maltby, D. Mock, J. Rossant, T. Pawson, and A. Bernstein. 1989. High incidence of lung, bone, and lymphoid tumors in transgenic mice overexpressing mutant alleles ofthe p53 oncogene. Mol. Cell. Biol. 9:39823991.
+30. Felix, C. A., J. J. Wright, D. G. Poplack, G. H. Reaman, D. Cole, P. Goldman, and S. J. Korsmeyer. 1987. T cell receptor a-, b-, and g-genes in T cell and pre-B cell acute lymphoblastic leukemia. J. Clin. Invest. 80:545-556.
+31. Felix, C. A., D. G. Poplack, G. H. Reaman, S. M. Steinberg, D. E. Cole, B. J. Taylor, C. G. Begley, and I. R. Kirsch. 1990. Characterization of immunoglobulin and T-cell receptorgene patterns in B-cell precursor acute lymphoblastic leukemia of childhood. J. Clin. Oncol. 8:431-442.
+32. Tjio, J., and J. Whang. 1962. Chromosome preparations ofbone marrow
+
+cells without prior in vitro culture or in vivo colchicine administration. Stain
+Tech. 37:17-20.
+33. Hoyheim, B., Y. Nakamura, and R. White. 1989. A BamHI-polymorphism is detected by a genomic p53-clone (pBHP53). NucleicAcids Res. 21:8898.
+34. Carlson, M., Y. Nakamura, R. Payson, P. O'Connell, M. Leppert, G. Lathrop, J. Lalouel, and R. White. 1988. Isolation and mapping ofa polymorphic DNA sequence pMCT35.1 on chromosome 17p [D17S3 1]. Nucleic Acids Res. 16:783.
+35. Nakamura, Y., L. Ballard, M. Leppert, P. O'Connell, G. Lathrop, J.-M. Lalouel, and R. White. 1988. Isolation and mapping of a polymorphic DNA sequence (pYNZ22) on chromosome 17p [D17S30]. NucleicAcids Res. 16:5707.
+36. Orita, M., H. Iwahana, H. Kanazawa, K. Hayashi, and T. Sekiya. 1989. Detection of polymorphisms of human DNA gel electrophoresis as single strand conformation polymorphisms. Proc. Natl. Acad. Sci. USA. 86:2766-2770.
+37. Orita, S., Y. Suzuki, T. Sekiya, and K. Hayashi. 1989. Rapid and sensitive
+detection of point mutations and DNA polymorphisms using the polymerase chain reaction. Genomics. 5:874-879.
+38. Suzuki, Y., M. Orita, M. Shiraishi, K. Hayashi, and T. Sekiya. 1990. Detection of ras gene mutations in human lung cancers by single strand conformation polymorphism analysis of polymerase chain reaction products. Onco-
+gene. 5:1037-1043. 39. Mitsudomi, T., S. M. Steinberg, M. M. Nau, D. Carbone, D. D'Amico, S.
+Bodner, H. K. Oie, I. Linnoila, J. S. Mulshine, J. D. Minna, et al. 1991. p53 gene mutations in non-small cell lung cancer cell lines and their correlation with the
+presence of ras mutations and clinical features. Oncogene. In press. 40. Winter, E., F. Yamamoto, C. Almoguera, and M. Perucho. 1985. A
+method to detect and characterize point mutations in transcribed genes: amplification and overexpression of the mutant c-Ki-ras allele in human tumor cells. Proc. Natl. Acad. Sci. USA. 82:7575-7579.
+41. Mount, S. 1982. A catalogue of splice junction sequences. Nucleic Acids
+Res. 10. 42. Li, F., and J. Fraumeni. 1969. Rhabdomyosarcoma in children. J. Natl.
+Cancer Inst. 43:1365-1373.
+
+43. Addison, C., J. Jenkins, and H.-W. Sturzbecher. 1990. The p53 nuclear localisation signal is structurally linked to a p34cdc2 kinase motif. Oncogene. 5:423-426.
+44. Cavenee, W., T. Dryja, R. Phillips, W. Benedict, R. Godbout, B. Gallie, A. Murphree, L. Strong, and R. White. 1983. Expression of recessive alleles by chromosomal mechanisms in retinoblastoma. Nature (Lond.). 305:779-784.
+45. Cattoretti, G., F. Rilke, S. Andreola, L. D'Amato, and D. Delia. 1988. p53 expression in breast cancer. Int. J. Cancer. 41:178-83.
+46. Weston, A., J. Willey, R. Modali, H. Sugimura, E. McDowell, J. Resau, B. Light, A. Haugen, D. Mann, B. Trump, et al. 1989. Differential DNA sequence deletions from chromosome 3, 11, 13 and 17 in squamous-cell, large-cell carcinoma, and adenocarcinoma of the human lung. Proc. NatL. Acad. Sci. USA. 86:5099-5103.
+47. D'Amico, D., D. Carbone, T. Mitsudomi, M. Nau, J. Fedorko, E. Russell, B. Johnson, D. Buchhagen, S. Bodner, A. Phelps, et al. 1991. High frequency of somatically acquired p53 mutations in small cell lung cancer cell lines and tumors. Oncogene. In press.
+48. Varley, J. M., W. J. Brammer, D. P. Lane, J. E. Swallow, C. Dolan, and R. A. Walker. 1991. Loss of chromosome 17p13 sequences and mutation of p53 in human breast carcinomas. Oncogene. 6:413-421.
+49. Yokota, J., M. Wada, Y. Shimosato, M. Terada, and T. Sugimura. 1987. Loss of heterozygosity on chromosomes 3, 13, 17 in small cell carcinoma and on chromosome 3 in adenocarcinoma of the lung. Proc. NatL. Acad. Sci. USA. 84:9252-9256.
+50. Eliyahu, D., N. Goldfinger, 0. Pinhasi-Kimhi, Y. Skurnik, N. Arai, V. Rotter, and M. Oren. 1988. Meth A fibrosarcoma cells express two transforming mutant p53 species. Oncogene. 3:313-321.
+51. Hinds, P., C. Finlay, and A. Levine. 1989. Mutation is required to activate the p53 gene for cooperation with the ras oncogene and transformation. J. Virol. 63:739-746.
+52. Cheng, J., and M. Haas. 1990. Frequent mutations in the p53 tumor suppressor gene in human leukemia T-cell lines. Mol. Cell. Bio. 10:5502-5509.
+
+p53 Gene Mutations in Childhood Acute Lymphoblastic Leukemia 647
+
+

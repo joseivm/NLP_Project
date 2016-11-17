@@ -1,0 +1,255 @@
+Cancer Prevention
+
+Frequency and Spectrum of Cancers in the Peutz-Jeghers Syndrome
+Nicholas Hearle,1 Vale¤ rie Schumacher,2 Fred H. Menko,3 Sylviane Olschwang,5 Lisa A. Boardman,6 Johan J.P. Gille,3 Josbert J. Keller,4 Anne Marie Westerman,7 Rodney J. Scott,8 Wendy Lim,1 Jill D. Trimbath,9 Francis M. Giardiello,9 Stephen B. Gruber,10 G. Johan A. Offerhaus,4 Felix W.M. de Rooij,7 J.H. Paul Wilson,7 Anika Hansmann,2 Gabriela Mo« slein,11Brigitte Royer-Pokora,2 TilmanVogel,12 Robin K.S. Phillips,13 Allan D. Spigelman,14 and Richard S. Houlston1
+
+Abstract
+
+Background: Although an increased cancer risk in Peutz-Jeghers syndrome is established, data on the spectrum of tumors associated with the disease and the influence of germ-line STK11/ LKB1 (serine/threonine kinase) mutation status are limited. Experimental Design: We analyzed the incidence of cancer in 419 individuals with PeutzJeghers syndrome, and 297 had documented STK11/LKB1 mutations. Results: Ninety-six cancers were found among individuals with Peutz-Jeghers syndrome. The risk for developing cancer at ages 20, 30, 40, 50, 60, and 70 years was 2%, 5%, 17%, 31%, 60%, and 85%, respectively. The most common cancers represented in this analysis were gastrointestinal in origin, gastroesophageal, small bowel, colorectal, and pancreatic, and the risk for these cancers at ages 30, 40, 50, and 60 years was 1%, 9%, 15%, and 33%, respectively. In women with Peutz-Jeghers syndrome, the risk of breast cancer was substantially increased, being 8% and 31% at ages 40 and 60 years, respectively. Kaplan-Meier analysis showed that cancer risks were similar in Peutz-Jeghers syndrome patients with identified STK11/LKB1 mutations and those with no detectable mutation (log-rank test of difference m2 = 0.62; 1 df ; P = 0.43). Furthermore, the type or site of STK11/LKB1 mutation did not significantly influence cancer risk. Conclusions: The results from our study provide quantitative information on the spectrum of cancers and risks of specific cancer types associated with Peutz-Jeghers syndrome.
+
+Peutz-Jeghers syndrome (MIM:175200; ref. 1) is an autosomal
+dominantly inherited syndrome characterized by mucocutaneous pigmentation and gastrointestinal polyposis (2). In addition to an elevated risk of gastrointestinal cancers, an increased risk of cancers at other sites, such as breast, ovary, uterus, cervix, lung, and testis, has been described (3 ­ 7). Rare tumors have also been attributed to Peutz-Jeghers syndrome, including testicular sex cord and Sertoli cell tumors, leading to sexual precocity and gynecomastia (8 ­ 10), ovarian sex cord tumors with annular tubules, and adenoma malignum of the cervix (1, 2, 11, 12).
+
+Germ-line mutations in the serine/threonine kinase gene (STK11/LKB1) on chromosome 19p13.3 cause Peutz-Jeghers syndrome (13, 14). Loss of the wild-type allele in hamartomas and adenocarcinomas from Peutz-Jeghers syndrome patients suggests that STK11/LKB1 is a tumor suppressor gene (15).
+Depending on the patient population studied and the analytic technique employed, a causative germ-line mutation in STK11/LKB1 is identified in 30% to 80% of Peutz-Jeghers syndrome patients (15 ­ 25). Most mutations are small deletions/insertions or single-base substitutions resulting in an abnormal truncated protein with consequent loss of kinase
+
+Authors' Affiliations: 1Section of Cancer Genetics, Institute of Cancer Research, Sutton, United Kingdom; 2Institute of Human Genetics, Heinrich-Heine University, Du« sseldorf, Germany; 3Department of Clinical Genetics and Human Genetics, VU University Medical Centre; 4Department of Pathology, Academic Medical Centre, Amsterdam, the Netherlands, 5Institut Paoli-Calmettes, Institut National de la Sante et de la Recherche Medicale UMR 599, Marseilles, France; 6Division of
+Gastroenterology, Department of Internal Medicine, Mayo Clinic, Mayo Foundation, Rochester, Minnesota; 7Department of Internal Medicine, Erasmus MC University Medical Centre, Rotterdam, the Netherlands; 8Discipline of Medical Genetics,
+Faculty of Health, Newcastle and Hunter Medical Research Institute, Newcastle, New South Wales, Australia; 9Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland; 10Division of Molecular Medicine and Genetics, University of Michigan, Ann Arbor, Michigan; 11Department of General
+and Visceral Surgery, St. Josefs-Hospital Bochum-Linden, Bochum, Germany; 12Department of General, Visceral and Thoracic Surgery, Klinken Maria Hilf, Mo« nchengladbach, Germany; 13Polyposis Registry, St. Mark's Hospital, Harrow, United Kingdom; and 14Professorial Surgical Unit, Faculty of Medicine, St.Vincent's
+
+Hospital Clinical School, University of New South Wales; Hunter Family Cancer Service and New South Wales and Australian Capital Territory Hereditary Cancer Registries, Sydney, New South Wales, Australia Received 1/13/06; revised 2/14/06; accepted 3/3/06. Grant support: Cancer Research UK, The Clayton Fund, John G. Rangos, Sr. Charitable Fund at John Hopkins Hospital, ARC and DHOS/INCa (France), and Hunter Medical Research Institute at the John Hunter Hospital; Epsom Hospital NHS Trust Gastroenterology Research and Development Fund (W. Lim). The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact. Requests for reprints: Richard S. Houlston, Section of Cancer Genetics, Brookes Lawley Building, Institute of Cancer Research, Sutton, Surrey, SM2 5NG, United Kingdom. Phone: 44-20-8722-4175; Fax: 44-20-8722-4359; E-mail: Richard. Houlston@ icr.ac.uk.
+F 2006 American Association for Cancer Research. doi:10.1158/1078-0432.CCR-06-0083
+
+www.aacrjournals.org
+
+3209
+
+Clin Cancer Res 2006;12(10) May 15, 2006
+
+Cancer Prevention
+
+activity. Failure to identify a STK11/LKB1 mutation in all PeutzJeghers syndrome patients and report of a possible second disease locus may suggest the existence of an additional yet unidentified Peutz-Jeghers syndrome gene (26).
+Estimates of cancer risk associated with Peutz-Jeghers syndrome are clinically important in the implementation of cancer screening programs and development of chemopreventative strategies. Studies based on limited numbers of patients have suggested that mutation status and the site and type of STK11/LKB1 mutation affects cancer risk (25). These observations have not, however, been robustly validated in larger data sets.
+We estimated previously the incidence of cancer in 240 individuals with Peutz-Jeghers syndrome (4). To further define the cancer risks associated with Peutz-Jeghers syndrome, we have extended our previous collaborative study of cancer risk associated with Peutz-Jeghers syndrome to now include a total of 419 Peutz-Jeghers syndrome patients, 297 with an identified germ-line mutation in STK11/LKB1. This series represents the largest set of Peutz-Jeghers syndrome patients reported to date and has allowed us to compare cancer risks by mutation status, type, and mutation site.
+Materials and Methods
+Patients. A series of Peutz-Jeghers syndrome patients were ascertained through specialist centers within Europe, Australia, and the United States: Institute of Cancer Research (Sutton, United Kingdom); St. Mark's Polyposis Registry, Institut National de la Sante et de la Recherche Medicale U343 (Marseilles, France); Erasmus MC University Medical Centre (Rotterdam, the Netherlands); VU University Medical Center (Amsterdam, the Netherlands); Institute of Human Genetics and Anthropology, University of Du¨ sseldorf (Du¨ sseldorf, Germany); Hunter Family Cancer Service and New South Wales and Australian Capital Territory Hereditary Cancer Registries (New South Wales, Australia); Mayo Clinic (Rochester, MN), and Johns Hopkins University School of Medicine (Baltimore, MD). The study was carried out with ethical review board approval from the relevant authority in each country in accordance with the tenets of the Declaration of Helsinki.
+All patients included in this study fulfilled the established criteria for a diagnosis of Peutz-Jeghers syndrome (2). Specifically, histopathologically verified hamartomatous polyps with at least two of the following: small bowel polyposis, mucocutaneous melanotic pigmentation, and family history of the disease. Ascertainment of probands was solely systematic, with no selection for a personal or family history of cancer. For each patient, the following data were obtained: sex, date of birth, diagnosis of Peutz-Jeghers syndrome, family history of Peutz-Jeghers syndrome, neoplasms with date of diagnosis, and date of death. Cancers that were eligible for inclusion in the analysis were all primary tumors (excluding nonmelanotic skin cancer).
+Detection of STK11 mutations. Several different techniques were used by each of the centers to identify germ-line STK11/LKB1 mutations: conformational sensitive gel electrophoresis, single-strand conformational polymorphism, denaturing high-performance liquid chromatography, denaturing gradient gel electrophoresis, and direct sequencing of exons. Two centers (Institute of Cancer Research and Mayo Clinic) additionally made use of long-range PCR, and two (Institute of Cancer Research and VU University Medical Centre) used Multiplex Ligation-Dependent Probe Amplification to screen for largescale gene deletions. Patients were classified as carriers if they or a family member with Peutz-Jeghers syndrome had a fully characterized germ-line STK11 mutation. In addition, patients in whom no mutation could be shown but were from a family in which cosegregation of
+
+chromosome 19p13.4 markers with disease could be shown were considered carriers of a germ-line mutation in STK11/LKB1.
+Nucleotide changes identified in STK11 were coded according to the published sequence of the gene [Genbank accession nos. AF032984 (exon 1), AF032985 (exons 2-8), and AF032986 (exon 9)] and mutations in the gene according to the Human Genome Variation Society (27). The STK11/LKB1 protein sequences of Homo sapiens (Genbank accession no. NP 000446), Mus musculus (NP 035622), and Xenopus (Q91604) were obtained from the National Center for Biotechnology Information protein database (28). Alignments of protein sequences between species were made using the CLUSTAL W (1.82) multiple sequence alignment program (29).
+Statistical analyses. Cancer incidence in patients was truncated at age 70 years. A classification scheme for grouping cancers by diagnosis was devised based on topography to subdivide carcinomas by primary site. Cancers were coded using the International Classification of Diseases, Ninth Revision (ICD). We tested for differences in cancer risk according to patient's sex, proband status, and mutation status using the KaplanMeier product-limit method. Further testing for risk differences was done using Cox's proportional hazards regression model to adjust for potential confounding factors. Because most patients were isolated cases or from small families, adjustment for familial correlation in the proportional hazards model was not undertaken. The time intervals in the models were the time between birth and first cancer diagnosis for those with cancer and the time between birth and last contact or death for those without cancer. The association between categorical variables was made using either Fisher's exact test or the m2 test. All statistical analyses were done using the statistical software program Stata version 8 (Stata Corp., College Station, TX). P < 0.05 was considered statistically significant.
+Comparisons of the cancer risk associated with Peutz-Jeghers syndrome with that of the general population were based on rates abstracted from the United Kingdom Office of National Statistics for the year 1991(30) using the formula: 1 - exponential [Àcumulative incidence] (31). Although risks vary between countries, all the centers contributing data to this pooled analysis are in ``Western Countries,'' where rates of most common cancers rates are relatively uniform (32), thereby limiting bias.
+Results
+A total of 419 Peutz-Jeghers syndrome patients (193 males and 226 females) ascertained through 225 probands were available for analysis. One hundred ninety-four of the patients were from 93 families (family size range, 2-11) and 132 represented sporadic cases. A germ-line mutation in STK11 was established in 297 of the 419 (70%) patients. The rate of mutation detection varied between different centers (21-100%), with higher rates in the centers employing multiple analytic methods.
+Spectrum of STK11 mutations. Eighty-five (83%) of the germ-line STK11/LKB1 mutations identified represent unique sequence changes. A diagrammatic representation of the coding sequence of STK11/LKB1 and the corresponding functional domains of the expressed protein is shown in Fig. 1A. Mutations were scattered throughout the gene, but no mutation in exon 9 was identified in any patient. Over 85% of both truncating and missense mutations localize to regions of STK11/LKB1 encoding the kinase domain of the expressed protein (Fig. 1B). Sixty-one of the mutations resulted in the truncation of the protein by the creation of premature transcription termination signals, 16 occurred within highly conserved splice sites (4 were in-frame deletions predicted to lead to loss of kinase activity), and 15 were missense mutations.
+
+Clin Cancer Res 2006;12(10) May 15, 2006
+
+3210
+
+www.aacrjournals.org
+
+Cancer Risk in Peutz-Jeghers Syndrome
+Fig. 1. A, schematic representation of the coding sequence of the STK11/LKB1 gene and the functional domains I-XI of the expressed protein. Dark gray box, kinase domains I-XI between amino acid residues 49 and 309; white box, NH2-terminal region outside the kinase domain; white box, COOH-terminal region outside the kinase domain containing a phosphorylation and prenylation motive. B, mutational data from the combined cohort of Peutz-Jeghers syndrome patients. Black region, amino acids changed by the frameshift and ends at the predicted stop codon.
+
+www.aacrjournals.org
+
+3211
+
+Clin Cancer Res 2006;12(10) May 15, 2006
+
+Cancer Prevention
+
+Fig. 2. Tumor spectrum in Peutz-Jeghers syndrome cases with a detectable STK11/LKB1 mutations versus a nondetectable mutation.The total number of tumors is 96 (85 primary and 11second primary cancers). Dark gray bars, primary cancers, light gray bars, second primary cancers.
+All of the missense mutations led to nonconservative amino acid changes that altered amino acids highly conserved in evolution among human, mouse, and Xenopus homologues of STK11/LKB1 and resided within the kinase domain of the protein encoded by exons 1 to 8. Other mutations included one large-scale genomic deletion and four exonic deletions. Seven families had uncharacterized mutations.
+Cumulative cancer risks and STK11/LKB1 mutation status. A total of 96 malignant tumors were confirmed in the patients studied, 65 in STK11 mutation carriers and 31 in patients with no mutation identified. Eleven patients were diagnosed with malignancy at two sites (6 in mutation carriers and 5 in patients with undetected mutations), but no one had more than two malignancies. Only one malignancy, a sigmoid colorectal cancer, was diagnosed as part of a cancer surveillance program for Peutz-Jeghers syndrome patients. Figure 2 details the frequency and spectrum of tumors in carriers and noncarriers
+
+of STK11/LKB1 mutations. Tumors of the gastrointestinal tract and breast were the most commonly reported malignancies (40 and 17, respectively).
+To examine the possibility that centers preferentially ascertained probands with the most severe phenotype, we compared risks in the index cases with their relatives. Cancer risks were similar between the two groups indicating that proband selection was not strongly related to the probability of a cancer diagnosis (log-rank test of difference m2 = 0.02; 1 df; P = 0.89). Similarly, significant differences were not found in risk according to whether the proband was familial or sporadic (log-rank test of difference m2 = 0.38; 1 df; P = 0.54).
+The cumulative site-specific cancer risks were calculated as shown in Table 1. The risks among Peutz-Jeghers syndrome patients for developing any first cancer by ages 20, 30, 40, 50, 60, and 70 years were 2%, 5%, 17%, 31%, 60%, and 85%, respectively. The risk of all cancers in the general population by age 70 years is f18%; hence, the risk in Peutz-Jeghers syndrome patients is increased f4-fold.
+Figure 3 shows the age-related risk for developing all forms of cancer in individuals with and without germ-line mutations detected. There was no statistically significant difference between the two groups (log-rank test of difference m2 = 0.62; 1 df; P = 0.43). Similarly, there were no significant differences in risk for gastrointestinal or female breast cancer in the two groups (log-rank test of difference m2 = 0.52; 1 df; P = 0.47 and m2 = 0.09; 1 df; P = 0.77, respectively).
+Figure 4 shows the risk for gastrointestinal (gastroesophageal, small bowel, pancreatic, and colorectal) cancers by age. The risks of being diagnosed with a gastrointestinal cancer were 1%, 9%, 15%, 33%, and 57% at ages 30, 40, 50, 60, and 70 years, respectively. Corresponding risks at ages 40 and 60 years in the general population are 0.1% and 1%, respectively (Table 1). Risks were similar in males and females (log-rank test of difference m2 = 2.90; 1 df; P = 0.09). Within the gastrointestinal tract, the colorectum was the most common site of malignancy (12 males and 5 females affected). The risk of colorectal cancer was 3%, 5%, 15%, and 39% at ages 40, 50, 60, and 70 years, respectively. Risks were higher in males, although the difference did not attain formal statistical significance (log-rank test of difference m2 = 2.35; 1 df; P = 0.13).
+
+Table 1. Cumulative cancer risk by site and age in Peutz-Jeghers syndrome patients
+
+Type of cancer
+
+Cancer risk by age (95% confidence intervals)
+
+20 y
+
+30 y
+
+40 y
+
+50 y
+
+60 y
+
+70 y
+
+All cancers (ICD 140-208)
+
+2 (0.8-4) [0.3]
+
+Gastrointestinal (ICD 150-159)
+
+ö [<0.1]
+
+Breast (female; ICD 174)
+
+ö [<0.1]
+
+Gynecologic (ICD179-184)
+
+ö [<0.1]
+
+Pancreas (ICD157)
+
+ö [<0.1]
+
+Lung (ICD C34)
+
+ö [<0.1]
+
+[<0.1]
+
+5 (3-8) [0.6]
+1 (0.4-3) [<0.1] ö [<0.1]
+1 (0.4-6) [0.1]
+ö [<0.1] ö [<0.1]
+[<0.1]
+
+17 (13-23) [1.4]
+9 (5-14) [0.1]
+8 (4-17) [0.5]
+3 (0.9-9) [0.4]
+3 (1-7) [<0.1] 1 (0.1-6) [<0.1] 1 (0.1-6) [<0.1]
+
+31 (24-39) [3.4] 60 (50-71) [8.2] 85 (68-96) [17.7]
+
+15 (10-22) [0.3] 33 (23-45) [1.3] 57 (39-76) [3.9]
+
+13 (7-24) [1.8] 31 (18-50) [4.3] 45 (27-68) [7.0]
+
+8 (4-19) [0.7] 18 (9-34) [1.3] 18 (9-34) [2.1]
+5 (2-10) [<0.1] 7 (3-16) [0.2] 11 (5-24) [0.5]
+
+4 (1-11) [0.2] 13 (6-28) [1.3] 17 (8-36) [4.7]
+
+ö [0.1]
+
+ö [0.6]
+
+ö [2.0]
+
+NOTE: Population risk shown in square brackets are risks for males and females provided separately; similarly, lung cancer risks in male and female Peutz-Jeghers syndrome patients are provided separately.
+
+Clin Cancer Res 2006;12(10) May 15, 2006
+
+3212
+
+www.aacrjournals.org
+
+Cancer Risk in Peutz-Jeghers Syndrome
+
+Fig. 3. Risk for all cancers in Peutz-Jeghers syndrome patients with and without identified STK11/LKB1 mutations. Ages shown are the time between birth and first cancer diagnosis for those with cancer and the time between birth and either last contact or death for those without cancer.
+Sixteen women and 1 man developed breast cancer. The age at diagnosis ranged from 35 to 61 years. The risk for developing breast cancer in females with Peutz-Jeghers syndrome was 8%, 13%, 31%, and 45% at ages 40, 50, 60, and 70 years, respectively (Fig. 5). The risk of breast cancer in the general population by age 70 years is f7%, suggesting an f6-fold increased risk for cancer in Peutz-Jeghers syndrome.
+Eleven patients (6 males and 5 females) were diagnosed with pancreatic cancer. The risk of developing pancreatic cancer was 3%, 5%, 7%, and 11% at ages 40, 50, 60, and 70 years, respectively. There was no evidence that risks were different between the sexes (log-rank test of difference m2 = 0.0; 1 df; P = 0.98).
+Nine gynecologic cancers (two uterine, two ovarian, and five cervical) were diagnosed in patients. The risk for these cancers was 1% at age 30 years increasing to 18% by age 60 years. Eight cases of lung cancer were diagnosed in patients (seven males, one female); these equated to a risk of 13% and 1% in males and females, respectively, by age 60 years.
+STK11/LKB1 mutation type and cancer risk. The cancer risk between Peutz-Jeghers syndrome patients possessing truncating and nontruncating mutations was compared. Forty-five of the patients diagnosed with malignancy possessed mutations that result in truncation of the expressed protein (nonsense mutations, frameshift and exonic deletions, and splice-site mutations); 9 patients were diagnosed with missense changes and 5 harbored uncharacterized mutations. There was evidence that the cumulative risk of all cancers was higher in cases with truncating mutations compared with nontruncating albeit with borderline significance (log-rank test of difference m2 = 2.41; 1 df; P = 0.12) and more specifically for gastrointestinal cancer (log-rank test of difference m2 = 2.85; 1 df; P = 0.09), breast cancer in women (log-rank test of difference m2 = 0.48; 1 df; P = 0.49), and gynecologic cancer (log-rank test of difference m2 = 0.88; 1 df; P = 0.35).
+STK11/LKB1 mutation site and cancer risk. To examine whether the site of germ-line mutation influences the risk of cancer, truncating and nontruncating mutations were analyzed separately. Mutations were grouped according to their site within the functional domains of the expressed protein (Fig. 1),
+
+specifically the NH2-terminal domain (amino acids 1-48), the kinase domains I-IVA responsible for ATP binding and the site of catalysis (amino acids 49-171), the kinase domains VIB-VIII responsible for substrate recognition (amino acids 172-225), the kinase domains IX-XI (amino acids 226-309), and the COOH-terminal domain (amino acids 310-433). Loss of these domains was used to define strata for analysis of cancer risks associated with truncating mutations.
+Stratifying truncating and nontruncating mutations by site within the functional domains of the expressed protein did not affect risk of all cancers (log-rank test of difference m2 = 4.81; 4 df; P = 0.31 and m2 = 2.56; 4 df; P = 0.63, respectively), gastrointestinal (log-rank test of difference m2 = 2.4; 4 df; P = 0.66; m2 = 1.27; 4 df; P = 0.87, respectively) and breast (log-rank test of difference m2 = 2.76; 4 df; P = 0.60 and m2 = 1.37; 4 df; P = 0.85, respectively). Numbers of cancers at other sites were too small to be realistically analyzed. Combining data on type and site of mutation into a joint analysis also provided no evidence that the risk of cancer associated with Peutz-Jeghers syndrome is significantly affected by STK11/LKB1 status (m2 = 2.76; 2 df; P = 0.27).
+Discussion
+In this study, we have analyzed 419 patients with a diagnosis of Peutz-Jeghers syndrome, representing the largest study set reported to date. Cumulative cancer risks were highest for cancers of the gastrointestinal tract (esophagus, stomach, small bowel, colorectum, and pancreas). These cancer types are the principal malignancies identified as standard components of Peutz-Jeghers syndrome. The major risk of extraintestinal malignancy in female patients was for breast cancer, with the upper confidence limit of the estimated risk (50% at age 60 years) being comparable with those associated with mutations in either BRCA1 or BRCA2 (33).
+Ascertainment bias is a concern in the analysis of rare disorders, potentially leading to over inflated estimates of risk, as individuals with mild phenotypes may be underrepresented in the data set. However, the Peutz-Jeghers syndrome patients
+Fig. 4. Risk for gastrointestinal cancer (gastroesophageal, small bowel, colorectal, and pancreatic) in Peutz-Jeghers syndrome patients. Ages shown are the time between birth and first cancer diagnosis for those with cancer and the time between birth and either last contact or death for those without cancer.
+
+www.aacrjournals.org
+
+3213
+
+Clin Cancer Res 2006;12(10) May 15, 2006
+
+Cancer Prevention
+
+Fig. 5. Risk of breast cancer in Peutz-Jeghers syndrome patients. Ages shown are the time between birth and first cancer diagnosis for those with cancer and the time between birth and either last contact or death for those without cancer.
+evaluated were typical of the syndrome and not selected for a diagnosis of cancer both in terms of morphology and primary site, thereby limiting bias. In addition, the process of ascertainment we employed avoids biases inherent in pooling data from published case reports, as risks generated are in a large part generated from the cancers observed in the relatives of probands. Furthermore, the cancers were not obtained from a few families, which would have been suggestive of strong familial effects on cancer risk independent of Peutz-Jeghers syndrome status.
+Some studies have suggested that cancer risks are different in Peutz-Jeghers syndrome patients with and without undetectable mutations (23). Such differences could be a consequence of locus or allelic heterogeneity. In our study, we, however, found no difference in the cancer risks between the two groups of Peutz-Jeghers syndrome patients.
+The notion of genetic heterogeneity in Peutz-Jeghers syndrome is founded on the observation that mutations in STK11/ LKB1 cannot always be identified in Peutz-Jeghers syndrome patients and evidence of genetic linkage of a Peutz-Jeghers syndrome phenotype to 19q14 as well as 19p13.3 in a single family (26). Detection of mutations in Peutz-Jeghers syndrome has been primarily through conventional PCR-based systems, some of which have sensitivities of f70% (34). If the number of patients having PCR-detectable mutations is adjusted accordingly for incomplete sensitivity of technique and the relatively high prevalence of exonic STK11/LKB1 deletions (35 ­ 37) is taken into account, almost all cases of Peutz-Jeghers syndrome can be reconciled by STK11/LKB1 mutations, thereby strongly questioning the existence of locus heterogeneity. Even if locus heterogeneity does exist, based on the frequency of patients with no PCR-detectable mutation or exonic deletion, the contribution of another locus to PeutzJeghers syndrome must be far smaller than previously envisaged.
+One of the aims of the present study was to survey for minor cancer types associated with germ-line STK11/LKB1 mutations. STK11/LKB1 plays a role in several pathways involved in controlling cell growth and apoptosis (38). Therefore, it is
+
+probable that the tumorigenic potential of mutations is mediated through different mechanisms in different tissues. Somatic mutations in STK11/LKB1 are common in lung cancer (39). A significant increase risk of lung cancer was documented; however, risks were substantially greater in males than females, arguing against an elevated risk as a consequence of Peutz-Jeghers syndrome per se. Information on smoking to address confounding from this covariate was not available; unfortunately, we do not have detailed information on the pathology of the lung cancer cases to draw inferences about specific risks of histologic subtypes less associated with tobacco exposure.
+Correlations between phenotype and genotype have been documented in several cancer predisposition syndromes. For example, a higher cancer risk and an earlier age at cancer diagnosis in patients with truncating rather than missense mutations has been reported in the Li-Fraumeni syndrome (40). Missense mutations in the various domains of STK11/ LKB1 have been reported in some small studies as being associated with differences in cancer risks for patients with Peutz-Jeghers syndrome (25). Our results suggest no significant differences in cancer risk with the different types of STK11/ LKB1 mutation or with the domains of STK11/LKB1 affected by mutations. Our collaborative cohort of patients may, however, be too small for detection of subtle differences in cancer risk between different mutations in STK11/LKB1. In the absence of very strong differences in cancer risks between mutation types, data sets far larger than ours are required to avoid false-positive associations being generated post hoc. Assembling such sample sets may, however, be impossible given the rarity of PeutzJeghers syndrome.
+The substantial cancer risk associated with Peutz-Jeghers syndrome supports the need for surveillance in patients with the disease for the early detection of tumors. Several clinical centers have proposed guidelines for screening individuals with Peutz-Jeghers syndrome. Most currently advocate upper and lower endoscopy and breast examination and some advocate surveillance for pancreatic (transabdominal and endoscopic ultrasound, abdominal computed tomography, and CA19-9) and gynecologic (ultrasound, cervical cytology, and CA125) malignancies. The optimal surveillance strategy for cancer detection is, however, unclear and current schemes differ considerably (41 ­ 43). The data generated from our study should provide additional guidance in formulating screening management policies. Although the cancer risk estimates we have computed may be marginally inflated through ascertainment bias, the results of our study show that cases of PeutzJeghers syndrome have a high risk of cancers but primarily of the gastrointestinal tract and the breast. Because no clinically significant difference in risk occurred according to mutation status, surveillance strategies should be applied in all PeutzJeghers syndrome patients irrespective of the causative mutation identified. Although the relative risks of some other cancers may be elevated, the absolute risks of these tumors will be small. Subjecting patients to regular surveillance for these other malignancies is probably not justified based on current data.
+Acknowledgments
+We thank the patients and their clinicians for participation in this study.
+
+Clin Cancer Res 2006;12(10) May 15, 2006
+
+3214
+
+www.aacrjournals.org
+
+Cancer Risk in Peutz-Jeghers Syndrome
+
+References
+1. Hamosh A, Scott AF, Amberger JS, Bocchini CA, McKusick VA. Online Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders. Nucleic Acids Res 2005;33:D514 ^ 7.
+2. Tomlinson IP, Houlston RS. Peutz-Jeghers syndrome. J Med Genet 1997;34:1007 ^ 11.
+3. Gruber SB, Entius MM, Petersen GM, et al. Pathogenesis of adenocarcinoma in Peutz-Jeghers syndrome. Cancer Res 1998;58:5267 ^ 70.
+4. Lim W, Olschwang S, Keller JJ, et al. Relative frequency and morphology of cancers in STK11 mutation carriers. Gastroenterology 2004;126:1788 ^ 94.
+5. Giardiello FM,Welsh SB, Hamilton SR, et al. Increased risk of cancer in the Peutz-Jeghers syndrome. N EnglJ Med 1987;316:1511 ^ 4.
+6. Spigelman AD, MurdayV, Phillips RK. Cancer and the Peutz-Jeghers syndrome. Gut 1989;30:1588 ^ 90.
+7. Giardiello FM, Brensinger JD,Tersmette AC, et al.Very high risk of cancer in familial Peutz-Jeghers syndrome. Gastroenterology 2000;119:1447 ^ 53.
+8. Coen P, Kulin H, Ballantine T, et al. An aromataseproducing sex-cord tumor resulting in prepubertal gynecomastia. N Engl J Med 1991;324:317 ^ 22.
+9.Wilson DM, PittsWC, Hintz RL, Rosenfeld RG. Testicular tumors with Peutz-Jeghers syndrome. Cancer 1986;57:2238 ^ 40.
+10. Young S, Gooneratne S, Straus FH II, Zeller WP, Bulun SE, Rosenthal IM. Feminizing Sertoli cell tumors in boys with Peutz-Jeghers syndrome. Am J Surg Pathol 1995;19:50 ^ 8.
+11.Westerman AM,WilsonJH. Peutz-Jeghers syndrome: risks of a hereditary condition. Scand J Gastroenterol Suppl1999;230:64 ^ 70.
+12. Podczaski E, Kaminski PF, Pees RC, Singapuri K, Sorosky JI. Peutz-Jeghers syndrome with ovarian sex cord tumor with annular tubules and cervical adenoma malignum. Gynecol Oncol 1991;42:74 ^ 8.
+13. Hemminki A, Markie D, Tomlinson I, et al. A serine/ threonine kinase gene defective in Peutz-Jeghers syndrome. Nature 1998;391:184 ^ 7.
+14. Jenne DE, Reimann H, Nezu J, et al. Peutz-Jeghers syndrome is caused by mutations in a novel serine threonine kinase. Nat Genet 1998;18:38 ^ 43.
+15. Wang ZJ, Ellis I, Zauber P, et al. Allelic imbalance at the LKB1 (STK11) locus in tumours from patients with Peutz-Jeghers' syndrome provides evidence for a hamar toma-(adenoma)-carcinoma sequence. J Pathol 1999;188:9 ^ 13.
+16. Mehenni H, Gehrig C, Nezu J, et al. Loss of LKB1
+
+kinase activity in Peutz-Jeghers syndrome, and evidence for allelic and locus heterogeneity. Am J Hum Genet 1998;63:1641 ^ 50.
+17. Nakagawa H, Koyama K, Miyoshi Y, et al. Nine novel germline mutations of STK11in ten families with PeutzJeghers syndrome. Hum Genet 1998;103:168 ^ 72.
+18. Jiang CY, Esufali S, BerkT, et al. STK11/LKB1 germline mutations are not identified in most Peutz-Jeghers syndrome patients. Clin Genet 1999;56:136 ^ 41.
+19. Westerman AM, Entius MM, Boor PP, et al. Novel mutations in the LKB1/STK11 gene in Dutch PeutzJeghers families. Hum Mutat 1999;13:476 ^ 81.
+20. Ylikorkala A, Avizienyte E, Tomlinson IP, et al. Mutations and impaired function of LKB1 in familial and non-familial Peutz-Jeghers syndrome and a sporadic testicular cancer. Hum Mol Genet 1999;8: 45 ^ 51.
+21. Yoon KA, Ku JL, Choi HS, et al. Germline mutations of the STK11gene in Korean Peutz-Jeghers syndrome patients. Br J Cancer 2000;82:1403 ^ 6.
+22. Boardman LA, Couch FJ, Burgart LJ, et al. Genetic heterogeneity in Peutz-Jeghers syndrome. Hum Mutat 2000;16:23 ^ 30.
+23. Olschwang S, Boisson C,Thomas G. Peutz-Jeghers families unlinked to STK11/LKB1 gene mutations are highly predisposed to primitive biliary adenocarcinoma. J Med Genet 2001;38:356 ^ 60.
+24. Scott RJ, Crooks R, Meldrum CJ, et al. Mutation analysis of the STK11/LKB1 gene and clinical characteristics of an Australian series of Peutz-Jeghers syndrome patients. Clin Genet 2002;62:282 ^ 7.
+25. Schumacher V,Vogel T, Leube B, et al. STK11 genotyping and cancer risk in Peutz-Jeghers syndrome. J Med Genet 2005;42:428 ^ 35.
+26. Mehenni H, Blouin JL, Radhakrishna U, et al. PeutzJeghers syndrome: confirmation of linkage to chromosome 19p13.3 and identification of a potential second locus, on 19q13.4. Am J Hum Genet 1997;61: 1327 ^ 34.
+27. Cotton RGH, Horaitis O. Human Genome Variation Society. Nature encyclopedia of the human genome 2003 [cited 2005 Nov];3. National Center forBiotechnology Information. Available from: http://www. ncbi.nlm.nih.gov/entrez/query.fcgi?db=Protein.
+28. Maglott D, Ostell J, Pruitt VD, et al. Entrez Gene: gene-centered information at NCBI Database Resources of the National Center for Biotechnology Information. Nucleic Acids Res 2005;33:D54 ^ 8.
+29. Thompson JD, Higgins DG, GibsonTJ. CLUSTAL W:
+
+improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice. Nucleic Acids Res 1994;22:4673 ^ 80.
+30. Office of National Statistics; 1991 [cited 2005 Nov]. Available from: CLUSTAL W: http://www.ebi. ac.uk/clustalw/.
+31. Clayton D, Hills M. Statistical models in epidemiology. Oxford: Oxford University Press; 1993.
+32. Parkin D, Whelan S, Ferlay J, Teppo L, Thomas D. Cancer incidence in five continents. Lyon: IARC Scientific Publications; 2002.
+33. Thompson D, Easton D. The BRCA1 and BRCA2 genes. 2nd ed. London: Arnold; 2005.
+34. Rozycka M, Collins N, Stratton MR, Wooster R. Rapid detection of DNA sequence variants by conformation-sensitive capillary electrophoresis. Genomics 2000;70:34 ^ 40.
+35. Hearle N, Rudd M, Lim W, et al. Exonic STK11 deletions are not a rare cause of Peutz-Jeghers syndrome. J Med Genet 2006;43:e15.
+36. Menko FH, Heimdal K, Schouten J, Gille J. Genomic deletions of STK11 in Peutz-Jeghers syndrome. Fam Cancer 2005;4:110.
+37. Aretz S, Stienen D, Uhlhaas S, et al. High proportion of large genomic STK11 deletions in Peutz-Jeghers syndrome. Hum Mutat 2005;26:513 ^ 9.
+38. Boudeau J, Sapkota G, Alessi DR. LKB1, a protein kinase regulating cell proliferation and polarity. FEBS Lett 2003;546:159 ^ 65.
+39. Sanchez-Cespedes M, Parrella P, Esteller M, et al. Inactivation of LKB1/STK11 is a common event in adenocarcinomas of the lung. Cancer Res 2002;62: 3659 ^ 62.
+40. Olivier M, Goldgar DE, Sodha N, et al. Li-Fraumeni and related syndromes: correlation between tumor type, family structure, and TP53 genotype. Cancer Res 2003;63:6643 ^ 50.
+41. Spigelman AD, Arese P, Phillips RK. Polyposis: the Peutz-Jeghers syndrome. Br J Surg 1995;82:1311 ^ 4.
+42. Wirtzfeld DA, Petrelli NJ, Rodriguez-Bigas MA. Hamartomatous polyposis syndromes: molecular genetics, neoplastic risk, and surveillance recommendations. Ann Surg Oncol 2001;8:319 ^ 27.
+43. Dunlop MG. Guidance on gastrointestinal surveillance for hereditary non-polyposis colorectal cancer, familial adenomatous polypolis, juvenile polyposis, and Peutz-Jeghers syndrome. Gut 2002;51 Suppl 5: V21 ^ 7.
+
+www.aacrjournals.org
+
+3215
+
+Clin Cancer Res 2006;12(10) May 15, 2006
+
+

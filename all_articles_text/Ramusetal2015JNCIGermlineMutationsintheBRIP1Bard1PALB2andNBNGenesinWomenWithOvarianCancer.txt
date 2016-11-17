@@ -1,0 +1,422 @@
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016
+
+JNCI J Natl Cancer Inst (2015) 107(11): djv214
+doi:10.1093/jnci/djv214 First published online August 27, 2015 Article
+article
+Germline Mutations in the BRIP1, BARD1, PALB2, and NBN Genes in Women With Ovarian Cancer
+Susan J. Ramus*, Honglin Song*, Ed Dicks*, Jonathan P. Tyrer, Adam N. Rosenthal, Maria P. Intermaggio, Lindsay Fraser, Aleksandra Gentry-Maharaj, Jane Hayward, Susan Philpott, Christopher Anderson, Christopher K. Edlund, David Conti, Patricia Harrington, Daniel Barrowdale, David D. Bowtell, Kathryn Alsop, Gillian Mitchell, AOCS Study Group, Mine S. Cicek, Julie M. Cunningham, Brooke L. Fridley, Jennifer Alsop, Mercedes Jimenez-Linan, Samantha Poblete, Shashi Lele, Lara Sucheston-Campbell, Kirsten B. Moysich, Weiva Sieh, Valerie McGuire, Jenny Lester, Natalia Bogdanova, Matthias Dürst, Peter Hillemanns, Ovarian Cancer Association Consortium, Kunle Odunsi, Alice S. Whittemore, Beth Y Karlan,Thilo Dörk, Ellen L. Goode, Usha Menon, Ian J. Jacobs, Antonis C. Antoniou, Paul D. P. Pharoah, Simon A. Gayther
+Affiliations of authors: Department of Preventive Medicine, Keck School of Medicine, USC/Norris Comprehensive Cancer Center, University of Southern California, Los Angeles, CA (SJR, MPI, CKE, DC, SAG); CR-UK Department of Oncology, University of Cambridge, Strangeways Research Laboratory, Cambridge, UK (HS, ED, JPT, PH, JA, PDPP); Department of Women's Cancer, UCL EGA Institute for Women's Health, University College London, London, UK (ANR, LF, AGM, JH, SP, CA, UM, IJJ); Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK (DB, ACA); Peter MacCallum Cancer Centre, East Melbourne, Victoria, Australia (DDB, KA, GM, AOCSSG); Department of Biochemistry and Molecular Biology, University of Melbourne, Melbourne, Victoria, Australia (DDB); Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne, Victoria, Australia (DDB, GM); Ovarian Cancer Action Research Centre, Department of Surgery and Cancer, Imperial College London, London, UK (DDB); Westmead Millennium Institute, Westmead Hospital, Sydney, Australia (AOCSSG); The QIMR Berghofer Medical Research Institute, Brisbane, Australia (AOCSSG); Department of Health Sciences Research, Mayo Clinic, Rochester, MN (MSC, JMC, ELG); Department of Biostatistics, University of Kansas Medical Center, Andover, KS (BLF); Department of Histopathology, Addenbrooke's Hospital, Cambridge, UK (MJL); Department of Gynecological Oncology, Roswell Park Cancer Institute, Buffalo, NY (SP, SL, KO); Department of Cancer Prevention and Control, Roswell Park Cancer Institute, Buffalo, NY (LSC, KBM); Department of Health Research and Policy - Epidemiology, Stanford University School of Medicine, Stanford, CA (WS, VM, ASW); Women's Cancer Program at the Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center (JL, BYK); Gynaecology Research Unit, Hannover Medical School, Hannover, Germany (NB, TD); Radiation Oncology Research Unit, Hannover Medical School, Hannover, Germany (NB); Mother and Child Hospital, Minsk, Belarus (NB); Department of Obstetrics and Gynaecology, Friedrich-Schiller University, Jena, Germany (MD); Clinics of Obstetrics and Gynaecology, Hannover Medical School, Hannover, Germany (PH); Faculty of Medical and Human Sciences, University of Manchester and Manchester Academic Health Science Centre, Manchester, UK (IJJ).
+* Authors contributed equally to this work.
+ Authors codirected this study.
+Correspondence to: Paul D. P. Pharoah, BA, BM, BCh, DPH, PhD, 2 Worts' Causeway, Cambridge CB1 8RN, UK (e-mail: pp10001@medschl.cam.ac.uk).
+Abstract
+Background: Epithelial ovarian cancer (EOC) is the most lethal gynecological malignancy, responsible for 13 000 deaths per year in the United States. Risk prediction based on identifying germline mutations in ovarian cancer susceptibility genes could have a clinically significant impact on reducing disease mortality.
+Received: February 10, 2015; Revised: April 19, 2015; Accepted: July 10, 2015 © The Author 2015. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.
+1 of 8
+
+article
+
+2 of 8 | JNCI J Natl Cancer Inst, 2015, Vol. 107, No. 11
+Methods: Next generation sequencing was used to identify germline mutations in the coding regions of four candidate susceptibility genes--BRIP1, BARD1, PALB2 and NBN--in 3236 invasive EOC case patients and 3431 control patients of European origin, and in 2000 unaffected high-risk women from a clinical screening trial of ovarian cancer (UKFOCSS). For each gene, we estimated the prevalence and EOC risks and evaluated associations between germline variant status and clinical and epidemiological risk factor information. All statistical tests were two-sided.
+Results: We found an increased frequency of deleterious mutations in BRIP1 in case patients (0.9%) and in the UKFOCSS participants (0.6%) compared with control patients (0.09%) (P = 1 x 10­4 and 8 x 10­4, respectively), but no differences for BARD1 (P = .39), NBN1 (P = .61), or PALB2 (P = .08). There was also a difference in the frequency of rare missense variants in BRIP1 between case patients and control patients (P = 5.5 x 10­4). The relative risks associated with BRIP1 mutations were 11.22 for invasive EOC (95% confidence interval [CI] = 3.22 to 34.10, P = 1 x 10­4) and 14.09 for high-grade serous disease (95% CI = 4.04 to 45.02, P = 2 x 10­5). Segregation analysis in families estimated the average relative risks in BRIP1 mutation carriers compared with the general population to be 3.41 (95% CI = 2.12 to 5.54, P = 7×10­7).
+Conclusions: Deleterious germline mutations in BRIP1 are associated with a moderate increase in EOC risk. These data have clinical implications for risk prediction and prevention approaches for ovarian cancer and emphasize the critical need for risk estimates based on very large sample sizes before genes of moderate penetrance have clinical utility in cancer prevention.
+
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016 article
+
+Several susceptibility genes for epithelial ovarian cancer (EOC) with varying frequencies and penetrance in the population have been identified. The strongest known genetic risk factors are deleterious alleles in the BRCA1 and BRCA2 genes, which cause hereditary breast and ovarian cancer (1,2). Other susceptibility genes associated with increased ovarian risk have also been identified, including the mismatch repair genes MSH6, MSH2, and MLH1, which are associated with familial hereditary nonpolyposis colorectal cancer (HNPCC) (21). More recently, rare deleterious alleles conferring moderate increases in EOC risk (lifetime risk 5%-15%) have been reported for RAD51C (3) and RAD51D (4). A  protein-truncating variant in BRIP1 with a frequency of 0.4% in the Icelandic population (from an analysis of 318 Icelandic EOC cases) is also associated with ovarian cancer risk (5), but BRIP1 has not been demonstrated to be an important cause of ovarian cancer in other populations. Finally, multiple common low-penetrance susceptibility alleles conferring relative risks of less than 1.5-fold have been found using genomewide association studies (GWAS) (6­12).
+It is estimated that the known genetic risk factors account for less than half the excess familial risk of ovarian cancer (13), suggesting that other genetic risk factors await discovery. The unexplained familial risk is unlikely to be due to other high penetrance genes because BRCA1 and BRCA2 cause most multicase ovarian cancer families. The remainder is probably due to a combination of as yet undiscovered common genetic variants conferring weak effects and/or uncommon alleles conferring weak to moderate relative risks (less than 10-fold).
+Some studies have already identified plausible susceptibility genes using high throughput sequencing of case series. For example, Walsh and colleagues sequenced 21 "tumor suppressor genes" in 360 ovarian cancer case patients and identified truncating mutations in several genes, including known susceptibility genes (eg, BRCA1, BRCA2, and RAD51C) and other candidate genes (including BARD1, BRIP1, NBN, and PALB2) (14). The main weaknesses of this study were the modest sample size and the absence of appropriate control patients. Thus, the population prevalence and ovarian cancer risk (if any) associated with rare mutations in these genes are unknown. Nevertheless, these genes are currently included on commercially available gene testing panels for ovarian cancer, including the OvaNEXT panel marketed by Ambry Genetics and the Breast/Ovarian Cancer Panel marketed by GeneDX.
+BARD1, BRIP1, NBN, and PALB2 have been reported as putative ovarian cancer susceptibility genes partly because their
+
+translated proteins are involved in the BRCA1/BRCA2 DNA repair pathways. BRCA1-associated RING domain protein 1 (BARD1) interacts with BRCA1 in vivo and in vitro and is essential for BRCA1 stability. BRIP1 is a Fanconi anemia group protein (FANCJ), which is important in normal DSB repair function in breast cancer. NBN is a member of the MRN DSB repair complex, which recognizes DNA damage and rapidly relocates to DSB sites and forms nuclear foci. Finally, PALB2 (partner and localizer of BRCA2) is another Fanconi anemia group protein (FANCN), which binds to and colocalizes with BRCA2 in nuclear foci permitting the stable intranuclear localization and accumulation of BRCA2. Germline mutations in PALB2 are associated with an increased risk of developing breast cancer (15), and PALB2-deficient cells are sensitive to PARP inhibitors (16). The aim of this study was to establish whether or not rare proteintruncating variants in BARD1, BRIP1, NBN, and PALB2 are associated with an increased risk of ovarian cancer in populations of European origin.
+Methods
+Study Subjects
+We included 3374 case patients and 3487 control patients from eight ovarian cancer case-control studies, one familial ovarian cancer registry from the United States, and one case series in this study (Table  1). These studies have been described previously (eg, [10]). Also studied were 2167 unaffected women that are part of the UK Familial Ovarian Cancer Screening Study (UKFOCSS) recruited between June 2002 and September 2010 from 42 UK regional centers (17). The eligibility criteria for UKFOCSS recruitment is women older than 35 years with an estimated minimum lifetime risk of ovarian cancer of at least 10% based on a family history of ovarian and/or breast cancer and/or the presence of known predisposing germline gene mutation (BRCA1, BRCA2, and mismatch repair genes) in the family. All studies had ethics committee approval, and all participants provided informed consent.
+Sequencing
+Target sequence enrichment was performed using 48.48 Fluidigm access arrays, as previously described (21). Primer sequences are list in Supplementary Table  1 (available online).
+
+S. J. Ramus et al. | 3 of 8
+
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016
+
+Table 1. Characteristics of ovarian cancer case-control populations analyzed in this study*
+
+Control patients
+
+Case patients
+
+Study
+
+Country
+
+Mean age,
+
+Mean age,
+
+High-grade serous
+
+Stage 3/4
+
+No. y (range) No. y (range)
+
+No. (%)
+
+No. (%)
+
+AOC GRR HJO/HMO LAX MAY RMH SEA STA UKO Total
+
+Australia USA
+Germany/Belarus USA USA UK UK USA UK
+
+648 0
+526 210 660
+0 843 171 373 3,431
+
+57 (20­80) NA
+36 (18­68) 61 (34­90) 63 (26­93)
+NA 53 (28­66) 48 (20­66) 65 (52­78) 55 (18­93)
+
+630 126 335 199 650
+64 712 163 357 3,236
+
+61 (23­80) 48 (21­80) 58 (18­88) 62 (32­88) 64 (23­91) 53 (27­73) 57 (24­74) 53 (23­64) 61 (25­90) 58 (18­91)
+
+573 (90.9) 70 (55.6)
+173 (51.6) 199 (100) 642 (98.8)
+64 (100) 356 (50.0) 129 (79.1) 329 (92.2) 2535 (78.3)
+
+545 (86.5) NA
+156 (46.6) 183 (92.0) 581 (89.4)
+NA 393 (55.2) 121 (74.2) 244 (66.4) 2223 (68.7)
+
+* All studies are case-control studies except for: GRR, familial ovarian cancer registry study, and RMH, case-only hospital study; high-grade serous ovarian cancers includes 304 cases that were serous subtype but of unknown grade. AOC = Australian Ovarian Cancer Study; GRR = Gilda Radner Familial Ovarian Cancer Registry; HJO = Hannover-Jena Ovarian Cancer Study; HMO = Hannover-Minsk Ovarian Cancer Study; LAX = Women's Cancer Program at the Samuel Oschin Comprehensive Cancer Institute; MAY = Mayo Clinic Ovarian Cancer Case-Control Study; RMH = Royal Marsden Hospital Ovarian Cancer Study; SEA = Study of Epidemiology and Risk Factors in Cancer Heredity; STA = Family Registry for Ovarian Cancer and Genetic Epidemiology of Ovarian Cancer; UKO = United Kingdom Ovarian Cancer Population Study.
+
+Target specific regions were sequenced using 100bp paired-end sequencing on the Illumina HiSeq2000 (21).
+Sequencing reads were demultiplexed using standard Illumina software, then aligned against the human genome reference sequence (hg19) using the Burrows-Wheeler Aligner (18). The Genome Analysis Toolkit (GATK) (19) was used for base quality score recalibration, local indel realignment and variant calling, and finally ANNOVAR (20) was used for variant annotation. Further, a variant was if sequence coverage and alternate allele frequency were respectively: 1) greater or equal to 500 and less than or equal to 10; 2) between 250 and 500 and greater than or equal to 15; 3) between 30 and 250 and greater than or equal to 20; 4) between 15 and 30 and greater than or equal to 30 (21).
+We excluded 138 case patients, 56 control patients, and 167 UKFOCSS participants because less than 80% of the target bases from these samples had read depth of 15 or more. The average percent of coding region at 15X coverage was: 92.2, BARD1; 96.1 BRIP1; 96.9 NBN; and 99.2, PALB2.
+Deleterious variants were defined as those predicted to result in protein truncation (frameshift indel, stop-gain indel, splice site, and nonsense mutations). We used the program MaxEntScan to identify splice site variants most likely to affect gene splicing (22). Splice site variants with a MaxEntScan score that decreased compared with the consensus sequence score by more than 40% were assumed to affect splicing. Sequencing alignments were visually inspected using the Integrative Genomic viewer (IGV) (23) to confirm the presence of deleterious variants. We performed Sanger sequencing using standard methods for validation in independent polymerase chain reaction (PCR) products of all potentially deleterious truncating variants.
+Statistical Methods
+Risk Estimation and Genotype-Phenotype Analyses We tested for association between deleterious mutations and ovarian cancer risk using unconditional logistic regression adjusted for geographical region of origin (Australia, continental Europe, the United Kingdom, and the United States), calculated the odds ratios, and performed segregation analysis to estimate risks associated with BRIP1 as previously described (4,21).
+
+Further details are provided in the Supplementary Methods (available online).
+Missense Variant Analyses We identified multiple missense variants that have an unknown functional effect on the protein. We excluded all missense variants with a minor allele frequency of greater than 1% from further analyses, as large-scale, genome-wide association studies have shown that the relative risks conferred by common susceptibility allele are small (<1.3) and thus not detectable by the smaller sample size of this targeted sequencing study. We used the rare admixture likelihood (RAML) burden test (28) to test for association on a gene-bygene basis (Supplementary Methods, available online).
+All statistical tests were two-sided, and a P value of less than .05 was considered statistically significant.
+Results
+BARD1, BRIP1, NBN, and PALB2 Deleterious Mutations in Ovarian Cancer Case Patients and Control Patients
+Sequencing results for BARD1, BRIP1, NBN, and PALB2 were available for 3236 EOC case patients and 3431 control patients after quality control analysis. The characteristics of these individuals by study are summarized in Table 1. We identified predicted, deleterious mutations in 52 EOC case patients (1.6%) and 16 control patients (0.5%) in the four genes combined. There was a statistically significant higher frequency of mutations in case patients compared with control patients for BRIP1 (30/3227 case patients, 0.92%, 3/3444 control patients, 0.09%, P  =  1 x 10­4). There were no statistically significant differences in mutation frequency in case patients compared with control patients for mutations in BARD1 (4 case patients, 0.12%; 2 control patients, 0.06%, P = .39), NBN (9 case patients, 0.28%; 8 control patients, 0.23%, P = .61) or PALB2 (9 case patients, 0.28%; 3 control patients, 0.09%, P = .08) (Table 2 and Figure 1; Supplementary Table 2, available online).
+We also evaluated the prevalence of mutations in these genes in individuals from the UK Familial Ovarian Cancer Screening Study (UKFOCSS). Sequence data were available for
+
+article
+
+4 of 8 | JNCI J Natl Cancer Inst, 2015, Vol. 107, No. 11
+
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016 article
+
+Table 2. Truncating mutations in BRIP1, BARD1, NBN, and PALB2 identified in ovarian cancer case patients and control patients and in the UKFOCSS subjects
+
+BARD1
+
+BRIP1
+
+NBN
+
+PALB2
+
+Subjects
+
+Carrier status
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+Case patients
+Control patients
+P* UKFOCSS
+P *
+
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+
+4 (0.12) 3257 (99.9)
+2 (0.06) 3447 (99.9)
+.39 3 (0.15) 1997 (99.9) .15
+
+30 (0.92) 3227 (99.1)
+3 (0.09) 3444 (99.9)
+1 x 10­4 12 (0.6) 1988 (99.4) 8 x 10­4
+
+9 (0.28) 3248 (99.7)
+8 (0.23) 3439 (99.8)
+.61 3 (0.15) 1997 (99.9) .76
+
+9 (0.28) 3248 (99.7)
+3 (0.09) 3444 (99.7)
+.08 7 (0.35) 1993 (99.7) .045
+
+* Two-sided t test.  Based on a comparison of the frequency of deleterious mutations identified in UKFOCSS subjects compared with mutation frequency in control patients from the other studies. UKFOCSS = United Kingdom Familial Ovarian Cancer Screening Study.
+
+2000 subjects who had screened negative for BRCA1 and BRCA2 mutations. We identified 25 predicted deleterious mutations in these four genes (1.25%) (Table 2; Supplementary Table 3, available online). Mutations were statistically significantly more prevalent in UKFOCSS subjects than in the control patients for BRIP1 (12 mutations, 0.60%, P = 8 x 10­4) and PALB2 (7 mutations, 0.35%, P = .045), but not for BARD1 (3 mutations, 0.15%, P = .15) or NBN (3 mutations, 0.15%, P = .76) (Table 2).
+Genotype-Phenotype Associations in BRIP1
+There was a nonrandom distribution of mutations in the BRIP1 gene (P = 8.5 x 10­3), indicating an association between mutation location and occurrence of ovarian cancer (Figure 1A). Of the 30 predicted truncating BRIP1 mutations identified in EOC cases, 29 are located in the first two-thirds of the gene (between nucleotides 68 and 2508)  and are predicted to truncate the protein before the BRCA1 binding domain. The only mutation in a case that is outside this region that is predicted to retain the BRCA1 binding domain occurs at nucleotide 3607. The three truncating BRIP1 mutations in control patients were all located 3' of (distal to) nucleotide 2508 (Figure 1A; Supplementary Table 2, available online).
+Missense Variants in BARD1, BRIP1, NBN, and PALB2
+We identified 357 nonsynonymous coding variants in these four genes (Supplementary Table 4, available online), of which 10 had a minor allele frequency greater than 1%. We used the in silico software programs SIFT, Polyphen-2, and Provean to predict if any of these nonsynonymous coding variants are likely to have a deleterious impact on the predicted protein of each gene. One hundred and twenty-one missense variants were classified as potentially deleterious using at least two out of three of these tools; 28 variants in BARD1, 35 variants in BRIP1, 32 variants in NBN, and 26 variants in PALB2 (Supplementary Table 4, available online). Based on these variants, we compared the relative burden in case patients and control patients for each gene using the RAML test and a simple burden test (Table 3) (28). We found evidence for association with increased risk for missense variants in BRIP1 (P = 3.6 x 10­3) and a more statistically significant association between these variants and high-grade serous EOC (P = 7.5 x 10­4). The association was also more statistically significant when restricted to very rare variants (MAF < 0.1%, P = 5.5 x 10­4). There was little difference in the strength of the association for
+
+variants predicted to be damaging vs not damaging (P = .01 and P = .02, respectively). There was no association with risk for missense variants in BARD1 or NBN. Nondamaging missense variants in PALB2 were also associated with high-grade serous EOC (P = 8.3 x 10­3) (Table 3).
+Clinical-Pathological Characteristics Associated With BRIP1 Carrier Status
+We evaluated associations between BRIP1 mutation carrier status and age at diagnosis, histological subtype, and family history of ovarian and or breast cancer (Table 4). The average age at diagnosis in BRIP1-mutation carriers was 63.8 years in carriers, which tended to be older than noncarriers (58 years, P = .07). All 30 BRIP1 mutation carriers were in cases of the serous subtype, of which 25 were high-grade serous; the difference in BRIP1 carrier frequency between high-grade serous and other subtypes was nominally statistically significant (P = .049). BRIP1 mutation carriers were also more likely to be diagnosed with late-stage disease--92.0% of carriers were stage 3 or 4 compared with 81.0% in noncarriers (P  =  .09). Fifty percent (6/12) of the BRIP1 carriers from UKFOCSS had at least two family members with ovarian cancer, compared with 28.0% (553/1919) of the noncarriers (P = .11). There were no notable differences in clinical-pathological characteristics between BARD1, NBN, or PALB2 carriers compared with noncarriers (Table 5).
+Ovarian Cancer Risks Associated With BRIP1 Mutations
+We estimated EOC relative risks associated with deleterious mutations in the BRIP1 gene as odds ratios, using data from the non­family based case-control studies. The relative risk (RR) for all EOCs was 11.22 (95% confidence interval [CI] = 3.22 to 34.10, P = 1 x 10­4); for high-grade EOC, the relative risk was 14.09 (95% CI = 4.04 to 45.02, P = 2 x 10­5). We found no evidence that this relative risk varies with age (P  =  .55). Using modified segregation analysis that included family data from case-control studies and the UKFOCSS family data, we estimated the average EOC relative risk compared with the UK general population to be 3.41 (95% CI = 2.12 to 5.54, P = 7×10­7). The estimated BRIP1truncating variant frequency was 0.001 (95% CI = 0.0007 to 0.002), corresponding to a mutation carrier frequency of 1 in 416. Based on this model, the estimated cumulative risk by age 80  years was 5.8% (95% CI = 3.6% to 9.1%). Models that allowed for breast
+
+S. J. Ramus et al. | 5 of 8
+
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016
+
+article
+
+Figure 1. Distribution of predicted "deleterious" mutations in the BRIP1 (A), BARD1 (B), NBN (C), and PALB2 (D) genes identified in ovarian cancer case patients and control patients. The location of each mutation is shown with respect to domains of functional significance in the translated protein and the exon structure of the coding sequence. Mutations in case patients are illustrated in black; mutations in control patients are in green. Also shown is where a mutation was identified in more than individual (eg, x2, x3, etc)
+
+cancer risk to be associated with BRIP1 variants yielded similar results for the ovarian cancer risk (RR = 3.94, 95% CI = 2.44 to 6.22, P  =  1×10­8), but there was no statistically significant evidence of association with breast cancer risk (breast cancer RR = 1.52, 95% CI = 0.86 to 2.63, P = .15). Excluding the three splice site variants (predicted to cause in-frame deletions of 58, 74, and 97 amino acids, respectively, in case patients) (Supplementary Table  2, available online) slightly attenuated the case-control association (odds ratio = 9.51, 95% CI = 2.93 to 31.28, P = 2×10­4).
+Discussion
+This study has catalogued the coding sequence variation in the BARD1, BRIP1, NBN, and PALB2 genes in ovarian cancer case patients and control patients and provides estimates of the
+
+prevalence of germline variants in these genes in individuals of European ancestry. We found strong evidence that proteintruncating mutations in BRIP1 are associated with an increased risk of epithelial ovarian cancer (P = 1.0x10-4 for case-control analysis; P = 7x10-7 for the segregation analysis). BRIP1 mutation carriers may be restricted to the high-grade serous epithelial subtype consistent with its functional interaction with BRCA1/ BRCA2 in homologous recombination and double-strand DNA break repair (21,29).
+Mutation location has been shown to influence disease risks for several genes, including BRCA1 (30,31) and BRCA2 (32,33), although the functional mechanisms underlying these associations have not been determined. All but one of the mutations in BRIP1 in cases are predicted to truncate the protein prior to the BRCA1-binding domain, suggesting a functional rationale
+
+6 of 8 | JNCI J Natl Cancer Inst, 2015, Vol. 107, No. 11
+
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016 article
+
+Table  3. Tests of association for uncommon (MAF < 1%) and rare (MAF < 0.1%) missense variants identified in BRIP1, BARD1, NBN, and PALB2 in ovarian cancer case patients using a simple burden test and the rare admixture maximum likelihood test
+
+P*
+
+Type of missense
+
+MAF frequency, %
+
+No. of variants
+
+RAML
+
+Simple burden
+
+BARD1 Damaging Nondamaging Combined Damaging Nondamaging Combined BRIP1 Damaging Nondamaging Combined Damaging Nondamaging Combined NBN Damaging Nondamaging Combined Damaging Nondamaging Combined PALB2 Damaging Nondamaging Combined Damaging Nondamaging Combined
+
+<1.0 <1.0 <1.0 <0.1 <0.1 <0.1
+<1.0 <1.0 <1.0 <0.1 <0.1 <0.1
+<1.0 <1.0 <1.0 <0.1 <0.1 <0.1
+<1.0 <1.0 <1.0 <0.1 <0.1 <0.1
+
+28 .50 .63 41 .68 .28 69 .69 .88 27 .39 .25 39 .86 .90 66 .74 .68
+35 .01 .05 54 .02 .20 89 7.4 x 10­4 .02 34 <.01 .05 52 .02 .03 86 5.5 x 10­4 1.5 x 10­4
+51 .28 .73 32 .98 .66 83 .37 .99 29 .71 .69 51 .28 .73 80 .24 .49
+26 .36 .33 64 <.01 .04 90 .13 .20 25 .39 .26 62 .01 .03 87 .14 .20
+
+* All P values presented are two-sided. MAF = minor allele frequency; RAML = rare admixture likelihood test.
+
+underlying this mutation distribution. One possible explanation is that truncating and/or splice site variants undergo nonsense-mediated decay (NMD) and that different variants lead to differential NMD. Alternatively, different transcripts may be translated into different length, truncated proteins that are stable but have differential functions. BRIP1 normally interacts with BRCA1 through the BRCT repeats at the c-terminal end of BRCA1. The BRCT domain, which appears to act as a phosphoprotein­binding domain (34), is found predominantly in proteins involved in cell cycle checkpoint functions responsive to DNA damage (35). Our data imply that loss of this interaction is critical in mediating ovarian cancer development, perhaps by impairing response to DNA damage in ovarian/fallopian tube epithelial cells, but truncating mutations to not appear to confer similarly high risks of breast cancer (36) and so loss of the BRIP1-BRCA1 interaction may only be critical in ovarian cancer precursor cells. Truncated forms of BRIP1 that either retain the BRCA1-binding region or occur after amino acid 836 might retain the ability to bind to BRCA1 and maintain DNA damage response. By this rationale, the one deleterious BRIP1 mutation in an ovarian cancer case occurring 3' of the BRCA1 binding domain (G3607X) may be functionally null or of much lower penetrance, similar to the K3326X variant at the 3' end of BRCA2 (37).
+BARD1, NBN, and PALB2 have all been suggested as susceptibility genes for ovarian cancer from their analysis in studies of small numbers of EOC case patients (n < 1000 case patients) without unaffected control patients (14). We found the prevalence of protein-truncating mutations in BARD1, NBN, and PALB2 to be very low, suggesting that these genes are unlikely to contribute substantially to EOC risk. However, we cannot rule out that they confer modest risks; if the observed difference in carrier frequencies for BARD1 (equivalent to an odds ratio of 2) were real, over 40 000 case patients and 40 000 control patients would be needed to detect this difference with 80% power. For PALB2, 9000 case patients and 9000 control patients would be needed. Our data emphasize the need for caution in interpreting the findings from case-only studies, particularly considering that
+
+Table 4. Clinical-pathological characteristics associated with gene carrier status*
+
+BARD1
+
+BRIP1
+
+NBN
+
+PALB2
+
+Characteristic
+
+Carrier status
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+Age at diagnosis, y <40
+40­59
+50­59
+60
+Tumor subtype High-grade serous
+Other
+Family history OvCa family history
+BrCa family history
+Ov/BrCa family history
+
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+
+1 (25.0) 148 (4.5)
+0 (0) 460 (14.1)
+3 (75.0) 977 (30.0)
+0 (0) 1662 (51.0)
+3 (75.0) 2279 (70.0)
+1 (25.0) 974 (30.0)
+0 (0) 275 (8.4)
+0 (0) 427 (13.1)
+0 (0) 612 (18.8)
+
+0 (0) 149 (4.6)
+2 (6.7) 458 (14.2)
+9 (30.0) 971 (30.1)
+19 (63.3) 1643 (50.1)
+25 (83.3) 2257 (70.0)
+5 (16.7) 970 (30.0)
+2 (6.7) 273 (8.4)
+3 (10.0) 424 (13.1)
+4 (13.3) 608 (18.8)
+
+0 (0) 149 (4.6)
+2 (22.2) 458 (14.2)
+3 (33.3) 977 (30.1)
+4 (44.4) 1658 (51.0)
+6 (66.7) 2276 (70.0)
+3 (33.3) 972 (30.0)
+0 (0) 275 (8.5)
+1 (11.1) 426 (13.1)
+1 (11.1) 611 (18.8)
+
+1 (11.1) 149 (0.4)
+3 (33.3) 457 (14.1)
+1 (11.1) 979 (30.1)
+4 (44.4) 1658 (51.0)
+6 (66.7) 2276 (70.0)
+3 (33.3) 972 (30.0)
+2 (22.2) 273 (8.4)
+1 (11.1) 426 (13.1)
+2 (22.2) 610 (18.8)
+
+* Other epithelial invasive ovarian cancer subtypes specified: clear cell, endometriosis, mucinous, and mixed. BrCa = breast cancer; OvCa = ovarian cancer.
+
+S. J. Ramus et al. | 7 of 8
+
+Table 5. Mutation frequency by family history in UCKFOCSS subjects*
+
+BARD1
+
+BRIP1
+
+NBN
+
+PALB2
+
+Family history
+
+Carrier status
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+1 ovarian cancer, 2 breast cancer case (age <60 y) 2 ovarian cancer Other related cancers in extended family
+
+Carrier Noncarrier
+Carrier Noncarrier
+Carrier Noncarrier
+
+1 (33.3) 1087 (56.4)
+1 (33.3) 558 (28.9)
+1 (33.3) 283 (14.7)
+
+5 (41.7) 1083 (56.4)
+6 (50.0) 553 (28.7)
+1 (8.3) 283 (14.7)
+
+2 (66.7) 1086 (54.3)
+0 (0) 559 (29.0)
+1 (33.3) 283 (14.7)
+
+4 (57.1) 1084 (56.3)
+1 (14.3) 559 (29.0)
+2 (28.6) 282 (14.6)
+
+* Thirty individuals with one ovarian cancer and three colorectal cancers (1 age <50 y) in primary relatives and 39 individuals with three or more breast cancers had no carriers detected for any gene. UKFOCSS = United Kingdom Familial Ovarian Cancer Screening Study.
+
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016
+
+article
+
+Figure 2. The estimated lifetime risks of ovarian cancer in BRIP1 mutation carriers and the effects of these risk estimates if modified by the presence of other genetic and lifestyle risk factors (blue lines) compared with population risk (black line). A) Average cumulative risk and 80% confidence limits based on segregation analysis. B) Cumulative risk at 80th centile polygenic risk distribution (assuming variance of this distribution of 0.092[12]). C) Cumulative risks at 80th centile of combined polygenic and risk factor distribution (variance of 0.316).
+
+these genes are included on gene sequencing panels that are currently used in clinical practice.
+Our study is not without limitations. It is likely that we have underestimated the true prevalence of deleterious variants in these genes. Our sequencing method did not provide complete sequence coverage of each gene in all samples (mean coverage = 92.4% to 99.1% in case patients and control patients), and so some mutations may have been missed. Also, we were unable to detect large genomic deletions and rearrangement mutations using our PCR enrichment strategy. Finally, we did not include missense variants in our prevalence or risk estimates because we cannot be certain of their pathogenicity in the absence of definitive functional assays, although the results of burden testing and RAML analysis suggest at least a proportion of BRIP1 missense variants are likely to be disease associated.
+In an era of cost-effective panel testing of multiple genes using next-generation sequencing, BRIP1 mutation analysis could be rapidly implemented as part of a program of clinical genetic testing followed by prophylactic surgery (salpingooophorectomy), although the clinical utility in testing unaffected women for BRIP1 mutations is unclear from the risk estimates. The "best" estimate (the point estimate) from the segregation analysis indicates that the lifetime risk of EOC in BRIP1 carriers would be 5.8%, although the true risk may be lower than this based on the lower limit of the 95% confidence interval. It has been suggested that 80% confidence limits (4.3% for BRIP1 carriers) are more appropriate for clinical decision-making. These risk estimates are also likely to be modified by the presence of other lifestyle and genetic risk factors. The log-additive model on a relative risk scale for interaction between risk factors has been shown to fit well for interactions between risk alleles and lifestyle risk factors. Eighteen common risk alleles for ovarian cancer have now been identified (6­12). Women with BRIP1 mutations at the 80th centile of the polygenic risk distribution based on these alleles would have an expected lifetime risk of
+
+7.21% (80% CI = 5.33% to 9.71%), assuming the log-additive model also applies to BRIP1 carriers. Incorporating other EOC risk factors, specifically oral contraceptive pill use, tubal ligation, parity, a history of endometriosis, and family history, increases the lifetime risk at the 80th centile of the risk distribution to 8.20% (80% CI = 6.02% to 11.34%) (Figure 2). BRIP1 mutation testing in women with high-grade serous ovarian cancer might also have clinical utility through targeted treatment with Poly (ADP-ribose) polymerase (PARP) inhibitors, which are currently being evaluated in women with BRCA1- and BRCA2-associated ovarian cancer. Thus, PARP inhibitors might prove effective in ovarian cancer cases with BRIP1 mutations.
+In summary, we have found strong evidence that deleterious germline mutations in BRIP1 are associated with a moderate increase in the risk of epithelial ovarian cancer. Because of the very low frequency of mutations in BARD1 and PALB2, we cannot rule out that these genes also confer susceptibility to ovarian cancer, but NBN mutations do not appear to predispose to ovarian cancer. These data may have clinical implications for risk prediction and prevention approaches for ovarian cancer in the future if confirmed by other studies, but this study highlights the critical need for accurate risk estimation of candidate susceptibility genes based on very large sample sizes before genes of moderate penetrance have clinical utility in cancer prevention.
+Funding
+This work was funded by the Cancer Councils of New South Wales, Victoria, Queensland, South Australia, and Tasmania, the Cancer Foundation of Western Australia, Cancer Research UK (C1005/A7749, C315/A2621, C490/A10119, C490/A10124, C490/A16561, C1005/A12677, C1005/A6383), the Eve Appeal (The Oak Foundation), the Fred C. and Katherine B. Andersen Foundation, the National Institutes for Health (P30 CA016056, P30-CA15083, P50CA136393, P50CA159981, R01CA122443,
+
+8 of 8 | JNCI J Natl Cancer Inst, 2015, Vol. 107, No. 11
+
+Downloaded from http://jnci.oxfordjournals.org/ at Harvard Library on August 16, 2016 article
+
+R01CA178535, R01CA61107, R01CA152990, and R01CA086381), the National Health & Medical Research Council of Australia (NHMRC; ID400413, ID400281), Cancer Australia (509303), Roswell Park Cancer Institute Alliance Foundation, the UK Department of Health, the UK National Institute for Health Research Biomedical Research Centres at the University of Cambridge and University College London Hospitals Biomedical Research Centre, and the US Army Medical Research and Materiel Command (DAMD17-01-1-0729; W81XWH-08-1-0684 and W81XWH-08-1-0685). The project described was also supported in part by award number P30CA014089 from the National Cancer Institute.
+Notes
+The study funders had no role in the design of the study; the collection, analysis, or interpretation of the data; the writing of the manuscript; nor the decision to submit the manuscript for publication. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute or the National Institutes of Health.
+We thank all the study participants who contributed to this study and all the researchers, clinicians, and technical and administrative staff who have made possible this work. In particular, we thank: the clinical and scientific collaborators listed at http://www.aocstudy.org/ (AOCS) the UKFOCSS investigators and collaborators and the SEARCH team and Eastern Cancer Registration and Information Centre (SEARCH).
+The authors have no conflicts of interest to disclose.
+References
+1. Gayther SA, Russell P, Harrington P, et al. The contribution of germline BRCA1 and BRCA2 mutations to familial ovarian cancer: No evidence for other ovarian cancer-susceptibility genes. Am J Hum Genet. 1999;65:1021­1029.
+2. Antoniou A, Pharoah PD, Narod S, et al. Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case Series unselected for family history: a combined analysis of 22 studies. Am J Hum Genet. 2003;72(5):1117­1130.
+3. Loveday C, Turnbull C, Ruark E, et  al. Germline RAD51C mutations confer susceptibility to ovarian cancer. Nat Genet. 2012;44(5):475­476; author reply 476.
+4. Loveday C, Turnbull C, Ramsay E, et al. Germline mutations in RAD51D confer susceptibility to ovarian cancer. Nat Genet. 2011;43(9):879­882.
+5. Rafnar T, Gudbjartsson DF, Sulem P, et al. Mutations in BRIP1 confer high risk of ovarian cancer. Nat Genet. 2011;43(11):1104­1107.
+6. Song H, Ramus SJ, Tyrer J, et al. A genome-wide association study identifies a new ovarian cancer susceptibility locus on 9p22.2. Nat Genet. 2009;41(9):996­ 1000.
+7. Bolton KL, Tyrer J, Song H, et al. Common variants at 19p13 are associated with susceptibility to ovarian cancer. Nat Genet. 2010;42(10):880­884.
+8. Goode EL, Chenevix-Trench G, Song H, et  al. A genome-wide association study identifies susceptibility loci for ovarian cancer at 2q31 and 8q24. Nat Genet. 2010;42(10):874­879.
+9. Permuth-Wey J, Lawrenson K, Shen HC, et al. Identification and molecular characterization of a new ovarian cancer susceptibility locus at 17q21.31.Nat Commun. 2013;4:1627.
+10. Pharoah PD, Tsai YY, Ramus SJ, et  al. GWAS meta-analysis and replication identifies three new susceptibility loci for ovarian cancer. Nat Genet. 2013;45(4):362­370.
+
+11. Shen H, Fridley BL, Song H, et al. Epigenetic analysis leads to identification of HNF1B as a subtype-specific susceptibility gene for ovarian cancer. Nat Commun. 2013;4:1628.
+1 2. Kuchenbaecker KB, Ramus SJ, Tyrer J, et al. Identification of six new susceptibility loci for invasive epithelial ovarian cancer. Nat Genet. 2015;47(2):164­ 171.
+1 3. Jervis S, Song H, Lee A, et al. Ovarian cancer familial relative risks by tumour subtypes and by known ovarian cancer genetic susceptibility variants. J Med Genet. 2014;51(2):108­113.
+1 4. Walsh T, Casadei S, Lee MK, et al. Mutations in 12 genes for inherited ovarian, fallopian tube, and peritoneal carcinoma identified by massively parallel sequencing. Proc Natl Acad Sci U S A. 2011;108(44):18032­18037.
+1 5. Antoniou AC, Casadei S, Heikkinen T, et  al. Breast-cancer risk in families with mutations in PALB2. N Engl J Med. 2014;371(6):497­506.
+16. Buisson R, Dion-Cote AM, Coulombe Y, et  al. Cooperation of breast cancer proteins PALB2 and piccolo BRCA2 in stimulating homologous recombination. Nat Struct Mol Biol. 2010;17(10):1247­1254.
+17. Rosenthal AN, Fraser L, Manchanda R, et  al. Results of annual screening in phase I  of the United Kingdom familial ovarian cancer screening study highlight the need for strict adherence to screening schedule. J Clin Oncol. 2013;31(1):49­57.
+18.Li H, Durbin R. Fast and accurate short read alignment with BurrowsWheeler transform. Bioinformatics. 2009;25(14):1754­1760.
+19. McKenna A, Hanna M, Banks E, et al. The Genome Analysis Toolkit: a MapReduce framework for analyzing next-generation DNA sequencing data. Genome Res. 2010;20(9):1297­1303.
+20.Wang K, Li M, Hakonarson H. ANNOVAR: functional annotation of genetic variants from high-throughput sequencing data. Nucleic Acids Res. 2010;38(16):e164.
+21. Song H, Cicek MS, Dicks E, et  al. The contribution of deleterious germline mutations in BRCA1, BRCA2 and the mismatch repair genes to ovarian cancer in the population. Hum Mol Genet. 2014;23(17):4703­4809.
+2 2. Yeo G, Burge CB. Maximum entropy modeling of short sequence motifs with applications to RNA splicing signals. J Comput Biol. 2004;11(2­3):377­394.
+23.Robinson JT, Thorvaldsdottir H, Winckler W, et  al. Integrative genomics viewer. Nat Biotechnol. 2011;29(1):24­26.
+2 4. Antoniou AC, Cunningham AP, Peto J, et al. The BOADICEA model of genetic susceptibility to breast and ovarian cancers: updates and extensions. Br J Cancer 2008;98(8):1457­1466.
+25. Lange K, Weeks D, Boehnke M. Programs for Pedigree Analysis: MENDEL, FISHER, and dGENE. Genet Epidemiol. 1988;5(6):471­472.
+2 6. Barnes DR, Barrowdale D, Beesley J, et al. Estimating single nucleotide polymorphism associations using pedigree data: applications to breast cancer. Br J Cancer. 2013;108(12):2610­2622.
+2 7. Shute NC, Ewens WJ. A resolution of the ascertainment sampling problem. III. Pedigrees. Am J Hum Genet. 1988;43(4):387­395.
+2 8. Tyrer JP, Guo Q, Easton DF, Pharoah PD. The admixture maximum likelihood test to test for association between rare variants and disease phenotypes. BMC Bioinformatics. 2013;14(1):177.
+2 9. Lakhani SR, Manek S, Penault-Llorca F, et al. Pathology of ovarian cancers in BRCA1 and BRCA2 carriers. Clin Cancer Res. 2004;10(7):2473­2481.
+3 0. Gayther SA, Warren W, Mazoyer S, et al. Germline mutations of the BRCA1 gene in breast and ovarian cancer families provide evidence for a genotypephenotype correlation. Nat Genet. 1995;11(4):428­433.
+3 1. Thompson D, Easton D. Variation in cancer risks, by mutation position, in BRCA2 mutation carriers. Am J Hum Genet. 2001;68(2):410­419.
+32. Gayther SA, Mangion J, Russell P, et al. Variation of risks of breast and ovarian cancer associated with different germline mutations of the BRCA2 gene. Nat Genet. 1997;15(1):103­105.
+33. Thompson D, Easton D. Variation in BRCA1 cancer risks by mutation position. Cancer Epidemiol Biomarkers Prev. 2002;11(4):329­336.
+34. Yu X, Chini CC, He M, Mer G, Chen J. The BRCT domain is a phospho-protein binding domain. Science. 2003;302(5645):639­642.
+35. Bork P, Hofmann K, Bucher P, et  al. A superfamily of conserved domains in DNA damage-responsive cell cycle checkpoint proteins. FASEB J. 1997;11(1):68­76.
+36. Seal S, Thompson D, Renwick A, et al. Truncating mutations in the Fanconi anemia J gene BRIP1 are low-penetrance breast cancer susceptibility alleles. Nat Genet. 2006;38(11):1239­1241.
+37. Mazoyer S, Dunning AM, Serova O, et al. A polymorphic stop codon in BRCA2. Nat Genet. 1996;14(3):253­254.
+
+

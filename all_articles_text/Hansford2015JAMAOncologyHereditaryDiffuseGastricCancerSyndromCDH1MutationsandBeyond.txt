@@ -1,0 +1,780 @@
+Research
+
+Original Investigation
+Hereditary Diffuse Gastric Cancer Syndrome CDH1 Mutations and Beyond
+Samantha Hansford, MSc; Pardeep Kaurah, MSc; Hector Li-Chang, MD; Michelle Woo, PhD; Janine Senz, BSc; Hugo Pinheiro, PhD; Kasmintan A. Schrader, MBBS, PhD; David F. Schaeffer, MD; Karey Shumansky, MSc; George Zogopoulos, MD; Teresa Almeida Santos, MD, PhD; Isabel Claro, MD; Joana Carvalho, PhD; Cydney Nielsen, PhD; Sarah Padilla, BSc; Amy Lum, BSc; Aline Talhouk, PhD; Katie Baker-Lange, MSc; Sue Richardson, RGN; Ivy Lewis, BN, RN; Noralane M. Lindor, MD; Erin Pennell, RN; Andree MacMillan, MSc; Bridget Fernandez, MD; Gisella Keller, PhD; Henry Lynch, MD; Sohrab P. Shah, PhD; Parry Guilford, MSc, PhD; Steven Gallinger, MD; Giovanni Corso, MD, PhD; Franco Roviello, MD; Carlos Caldas, MD; Carla Oliveira, PhD; Paul D. P. Pharoah, PhD; David G. Huntsman, MD
+IMPORTANCE E-cadherin (CDH1) is a cancer predisposition gene mutated in families meeting clinically defined hereditary diffuse gastric cancer (HDGC). Reliable estimates of cancer risk and spectrum in germline mutation carriers are essential for management. For families without CDH1 mutations, genetic-based risk stratification has not been possible, resulting in limited clinical options.
+OBJECTIVES To derive accurate estimates of gastric and breast cancer risks in CDH1 mutation carriers and determine if germline mutations in other genes are associated with HDGC.
+DESIGN, SETTING, AND PARTICIPANTS Testing for CDH1 germline mutations was performed on 183 index cases meeting clinical criteria for HDGC. Penetrance was derived from 75 mutation-positive families from within this and other cohorts, comprising 3858 probands (353 with gastric cancer and 89 with breast cancer). Germline DNA from 144 HDGC probands lacking CDH1 mutations was screened using multiplexed targeted sequencing for 55 cancer-associated genes.
+MAIN OUTCOMES AND MEASURES Accurate estimates of gastric and breast cancer risks in CDH1 mutation carriers and the relative contribution of other cancer predisposition genes in familial gastric cancers.
+RESULTS Thirty-one distinct pathogenic CDH1 mutations (14 novel) were identified in 34 of 183 index cases (19%). By the age of 80 years, the cumulative incidence of gastric cancer was 70% (95% CI, 59%-80%) for males and 56% (95% CI, 44%-69%) for females, and the risk of breast cancer for females was 42% (95% CI, 23%-68%). In CDH1 mutation­negative index cases, candidate mutations were identified in 16 of 144 probands (11%), including mutations within genes of high and moderate penetrance: CTNNA1, BRCA2, STK11, SDHB, PRSS1, ATM, MSR1, and PALB2.
+CONCLUSIONS AND RELEVANCE This is the largest reported series of CDH1 mutation carriers, providing more precise estimates of age-associated risks of gastric and breast cancer that will improve counseling of unaffected carriers. In HDGC families lacking CDH1 mutations, testing of CTNNA1 and other tumor suppressor genes should be considered. Clinically defined HDGC families can harbor mutations in genes (ie, BRCA2) with different clinical ramifications from CDH1. Therefore, we propose that HDGC syndrome may be best defined by mutations in CDH1 and closely related genes, rather than through clinical criteria that capture families with heterogeneous susceptibility profiles.
+JAMA Oncol. 2015;1(1):23-32. doi:10.1001/jamaoncol.2014.168 Published online February 12, 2015. Corrected on February 19, 2015.
+Copyright 2015 American Medical Association. All rights reserved.
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+Editorial page 16 Author Audio Interview at jamaoncology.com Supplemental content at jamaoncology.com CME Quiz at jamanetworkcme.com and CME Questions page 114
+Author Affiliations: Author affiliations are listed at the end of this article. Corresponding Author: David G. Huntsman, MD, Centre for Translational and Applied Genomics, Department of Pathology and Laboratory Medicine, British Columbia Cancer Agency and University of British Columbia, Vancouver, BC V5Z 4E6, Canada (dhuntsma@bccancer.bc.ca).
+(Reprinted) 23
+
+Research Original Investigation
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+G astric cancer (GC) is the third most common cause of cancer-related mortality worldwide.1 The 2 major subtypes, diffuse GC (DGC) and intestinal-type GC, are distinguished by molecular, epidemiologic, and morphologic features.2 Although GC is usually sporadic, familial aggregation occurs in approximately 10% of cases.3,4 Clinically defined hereditary DGC (HDGC) (OMIM #137215) is characterized by early-onset, multigenerational DGC and lobular breast cancer. Clinical criteria for this entity was established by the International Gastric Cancer Linkage Consortium (IGCLC) (Table 1).5,6 Approximately 40% of HDGC families have germline mutations in CDH1 (E-cadherin) (Ensembl ENSG00000039068; OMIM *192090), and over 100 different pathogenic germline mutations are reported across multiple ethnicities (eTable 1 in the Supplement).
+Current cumulative lifetime GC risk in CDH1 mutation carriers are derived from a small number of families, 11 in one study and 4 families sharing a founder mutation in another, with predicted risks ranging from 40% to 67% and 63% to 83% in male and female carriers, respectively.7,8 Female carriers also have risk of breast cancer (BC) between 39% and 52%,7,8 with lobular BC being most characteristic. The first objective of this study is to derive reliable estimates of cancer risk for CDH1 mutation carriers based on a collated analysis of cohorts, including previously published families,7-12 mutationpositive families from this study, and previously unpublished families. The findings from this study will provide a reliable assessment of risk and represents the largest series of CDH1 mutation carriers studied to date.
+Our second objective was to catalogue a comprehensive list of all reported germline mutations in the literature to date. Lastly, we aimed to determine whether other cancer susceptibility genes contribute to HDGC in families meeting IGCLC criteria but lacking CDH1 mutations. We used a multiplexed, nextgeneration sequencing approach to simultaneously interrogate a selected panel of genes implicated in upper gastrointestinal tract cancer or susceptibility syndromes across 144 CDH1-negative HDGC families (eFigure 1 in the Supplement).
+Methods
+Study Population Institutional review board (IRB) approval was obtained for CDH1 analysis at all study sites. All patients or next of kin from deceased individuals provided written informed consent. Pedigrees and available medical records were collected by genetic specialists at the referring centers and centrally reviewed (P.K. and D.G.H.). The samples from Portugal and Italy were collected under local IRB guidelines and sent to us without identifiers.
+The present analysis is part of an ongoing study on risk assessment in HDGC families. A total of 183 new index cases meeting IGCLC 2010 clinical criteria for HDGC5 were recruited between February 2006 and June 2013 to undergo CDH1 testing. Also, 144 CDH1 mutation­negative HDGC families, collected from different centers (British Columbia Cancer Agency, Vancouver, British Columbia, Canada; IPATIMUP­Institute of Molecular Pathology and Immunology of the University of
+
+At a Glance
+· The cumulative risk for gastric cancer in CDH1 mutation carriers is 70% by 80 years for men and 56% for women.
+· Cumulative risk for breast cancer by 80 years is 42% for women with CDH1 mutations.
+· Families meeting clinical criteria for HDGC, but lacking CDH1 mutations, may harbor mutations in genes associated with other cancer predisposition syndromes.
+· Two families harbored pathogenic, truncating mutations in the CTNNA1 (-catenin) gene inferring a genocopy of CDH1.
+· HDGC syndrome may be defined not only by mutations in CDH1 but also by mutations in closely related genes.
+Porto, Porto, Portugal; and University of Siena, Siena, Italy) underwent multigene panel screening.
+CDH1 Genetic Testing Sequencing of the CDH1 exons was performed on genomic DNA extracted from peripheral blood, saliva, or paraffinembedded sections as previously described (eMethods 1 in the Supplement).8,12 Samples with no significant mutations (point or small insertions or deletions) were tested for copy number variations using multiplex ligation-dependent probe amplification.
+Catalogue of All Known CDH1 Germline Mutations To obtain a comprehensive list of reported germline truncating or missense CDH1 mutations, a MEDLINE search for articles from 1998 to 2013 was conducted using the following search terms: CDH1, E-cadherin, germline mutation, gastric cancer, hereditary, familial and diffuse gastric cancer. The mutations were catalogued according to exon, location, and type (missense-pathogenic, missense-unclassified, nonsense, insertion, deletion, or splicing). Somatic mutations were excluded, as were mutations reported as silent.
+Penetrance Analysis Pedigree information was used to estimate the penetrance of CDH1 mutations using the MENDEL program.13 Families with CDH1 missense mutations with unknown pathogenicity and families where no carrier test information was available were excluded from the analysis (eTable 1 in the Supplement). Penetrance analysis was thus performed on 17 of 34 eligible families identified with pathogenic mutations in this study, as well as on 58 additional families, of which some were previously reported7-14 (eTable 2 in the Supplement). The model was parameterized in terms of log relative risk for GC and BC in mutation carriers compared with population risk, irrespective of ethnic origin (eMethods 2 in the Supplement). The number of families from different countries was too small to enable country-specific penetrance estimates.
+Noncarriers of the deleterious mutation in each family were assumed to have probability of developing this disease as reported in the United Kingdom, thus assuming that the cancer incidence is the same for all families regardless of ethnicity. The relative risk of GC was estimated separately for male and female participants and allowed to vary with age using 6 age
+
+24 JAMA Oncology April 2015 Volume 1, Number 1 (Reprinted) Copyright 2015 American Medical Association. All rights reserved.
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+jamaoncology.com
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+Original Investigation Research
+
+Table 1. Summary of CDH1 Germline Mutation Type Identified in Index Cases From the Study Population
+
+Criteriaa 1 2 3 4 Total
+
+Definitiona
+Family with 2 or more cases of GC, with at least 1 DGC diagnosed before the age of 50 y
+Three confirmed DGC cases in first- or second-degree relatives independent of age
+Isolated individual diagnosed with DGC at age <40 y from a low incidence population
+Personal or family history of both DGC and LBC, with 1 affected person aged <50 y at time of diagnosis
+
+No. of Index Cases in Study Population
+84
+1
+38
+60
+183
+
+Mutations, No. (% of Total)
+
+Truncating 12 (14)
+
+Splice Site 9 (11)
+
+00
+
+0 2 (5)
+
+6 (10)
+
+4 (7)
+
+18 (10)
+
+15 (8)
+
+Abbreviations: CDH1, E-cadherin; DGC, diffuse gastric cancer; GC, gastric cancer; LBC, lobular breast cancer. a Criteria and definition based on the 2010 International Gastric Cancer Linkage Consortium guidelines (Fitzgerald et al5). b Unclassified variants have been removed from this table.
+
+Pathogenic Missenseb 1 (1)
+0
+0
+0
+1 (1)
+
+Total No. of Pathogenic Mutations (% of Total for Each Criteria) 22 (26)
+0
+2 (5)
+10 (17)
+34 (19)
+
+groups between 10 and 79 years. The relative risk of BC for female participants was modeled to be constant with age. The CDH1 mutant allele was assumed to be rare in the general population with a frequency of 0.001.
+Gene Panel Testing Multiplexed panel sequencing across 55 selected genes was performed on germline DNA from 144 HDGC probands without CDH1 mutations. Genes were selected based on implication in upper gastrointestinal tract cancers or syndromes identified through literature review and unpublished data from concurrent projects (eTable 3 in the Supplement). When necessary, samples from additional family members and/or tissue sections were requested for downstream analysis. Multiplexed sequencing analysis (eMethods 3 in the Supplement) was performed using Illumina's TruSeq Custom Amplicon assay on the MiSeq platform (Illumina). Eight germline DNA samples with known CDH1 mutations were included as controls to confirm reliability of the assay and analysis software. Individual sample data were sorted for candidate mutations (novel frameshift, nonsense or splice-site mutations, and rare (<1% population) missense variants with previously reported functional relevance), and validated by Sanger sequencing (eMethods 4 in the Supplement). Secondary analysis by a bioinformatician was also performed on 25 samples to predict reliability of on-instrument data analysis (eMethods 5 in the Supplement). Such mutations were considered pathogenic if occurring in a highly penetrant gene directly implicated in GC or a GC predisposition syndrome. Truncating variants in genes with previously known low to moderate penetrance in GC-related syndromes were called "likely pathogenic." Novel missense mutations predicted to be damaging from at least 2 in silico methods (SIFT, PROVEAN, and PolyPhen) were called "variants of unknown significance" (VUS), since pathogenicity of such mutations is not well supported (eTable 4 in the Supplement).
+Results
+Germline CDH1 Mutations Overall, 34 of 183 index cases (19%) who met current IGCLC criteria5 were found to have germline pathogenic CDH1-
+
+mutations, and 4 of 183 index cases displayed CDH1 VUS (Table 1). Thirty-one distinct mutations (14 novel and 17 previously reported) were found (Table 1 and eTable 5 in the Supplement). A higher frequency was observed in 22 of 84 index cases (26%) with 2 or more cases of GC with at least 1 DGC diagnosed before the age of 50 years. Previously reported mutations were seen in 10 of 34 index cases (29%) and included positions c.1137G, c.1792C, c.1565, and a large deletion encompassing exons 1 and 2. All mutations were heterozygous.
+Catalogue of CDH1 Germline Mutations to Date The majority of studies reviewed were original reports. Two articles with tabulated reported mutations were used as cross-references.14,15 A total of 155 CDH1 mutations, of which 126 are pathogenic and 29 are unclassified variants, have been described to date (eTable 1 in the Supplement). Plots of the mutations according to exon location (Figure 1A) and known break points for deletions (Figure 1B) demonstrate that germline mutations in HDGC families are spread across the gene. Bona fide germline CDH1 mutations have recently been reported in highincidence GC populations (Chinese and Japanese ethnicities), whereas this phenomenon had been rare previously (eTable 1 in the Supplement). This could reflect more prevalent CDH1 testing in these populations.
+Penetrance Analysis Cumulative risks of GC and BC are shown in Figure 2 and given in eTable 6 in the Supplement. The cumulative incidence of GC by 80 years was 70% (95% CI, 59%-80%) for male participants and 56% (95% CI, 44%-69%) for female participants. The risk of BC for female participants was 42% (95% CI, 23%-68%) by 80 years.
+Panel-Based Screening Of the 144 probands, we identified potentially pathogenic variants in 16 cases (11.1%) (Table 2 and eFigure 2 in the Supplement). Novel truncating mutations in CTNNA1 (-catenin) (N71fs and R129X) were found in 2 unrelated HDGC families. The germline CTNNA1 mutation in family P25 was validated in the affected mother (Figure 3A). Immunohistochemical staining of tumors from both CTNNA1 mutation-positive families
+
+jamaoncology.com
+
+(Reprinted) JAMA Oncology April 2015 Volume 1, Number 1 Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+25
+
+Research Original Investigation
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+Figure 1. Mapping of Germline CDH1 Mutations and Genomic Break Points
+
+A Mapping of germline CDH1 mutations described to date by mutation type and location on CDH1 transcript
+
+CDH1 protein
+
+S Precursor
+
+Extracellular domain
+
+TM Cyto domain
+
+Nonsense
+Missense Splicing Insertion Deletion Insertion-deletion
+i ii iii Large deletion
+
+Exons 1 2
+
+3
+
+456 78 9
+
+10 11 12
+
+iv v 13 14 15 16
+
+B Genomic break points of CDH1 large deletions iii
+
+CDH3
+
+Scale
+
+100 kb
+
+i ii
+CDH1
+
+iv v
+
+The panels provide a mapping between the large deletions in the transcript/protein view (A) and in the genome view (B). Lower case roman numerals i to v signify the large deletions with known genomic coordinates; and stars inside circles and bars, the mutations that our laboratory found in the present study. Cyto indicates cytoplasmic; S, signal peptide; and TM, transmembrane domain.
+
+showed loss of -catenin expression, suggesting the occurrence of a second hit event at the CTNNA1 locus (eMethods 6 and eFigure 3 [panels E and F] in the Supplement), while Ecadherin expression was preserved (eFigure 3 [panels C and D] in the Supplement). In addition, a novel BRCA2 truncating variant was identified in 1 proband (N1287fs) (Figure 3B and eFigure 4 in the Supplement), and a truncating mutation in an upper gastrointestinal tract­related gene PRSS1 was found in another case (Q86X) (eFigure 4 in the Supplement). Heterozygous protein-truncating variants within genes of predicted low to moderate penetrance in upper gastrointestinal tract cancers were identified in ATM (E1267fs, Y2791fs, and R521fs) and PALB2 (V398fs) (Table 2 and eFigure 4 in the Supplement). We also identified rare, pathogenic missense variants in SDHB (S163P) (n = 1) (Figure 3C), STK11 (F354L) (n = 3) (Figure 3D), and MSR1 (R293X) (n = 4), previously associated with PeutzJeghers syndrome, Cowden-like syndrome, and esophageal cancer, respectively (Table 2, Figure 3, and eFigure 4 in the Supplement).16-19 The MSR1 variant R293X is also associated with prostate cancer risk.20 Limitations of sample availability prevented extensive germline screening of candidate variants across relatives and somatic mutation analysis of tumor DNA.
+
+Discussion
+Heterozygous germline CDH1 mutations have been described in up to 40% of HDGC families.8,11,21 We found only 34 mutations in 183 HDGC index cases (19%): 26% of mutation-positive index cases fulfilled IGCLC criteria 1 (2 cases of GC and at least 1 DGC occurring in an individual younger than 50 years), followed by index cases with both DGC and lobular BC (criteria 4) (Table 1). Compared with several previously published reports,8,10,11,14,22 our results reveal less than half the expected numbers of HDGC families investigated have a germline CDH1 germline mutation. This number could be a reflection of the varied ethnicities within our consecutive series; it is well known that the frequency is highly variable between countries with different incidences of GC, and prior ascertainment of kindred with the strongest family histories may have skewed past reports. This reduced number may be useful in managing patient expectations during the counseling process.
+The 31 pathogenic, germline CDH1 mutations and 4 VUS described herein and other previously reported mutations are distributed throughout the CDH1 gene including splice-site se-
+
+26 JAMA Oncology April 2015 Volume 1, Number 1 (Reprinted) Copyright 2015 American Medical Association. All rights reserved.
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+jamaoncology.com
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+Original Investigation Research
+
+Figure 2. Cumulative Risk of Gastric and Breast Cancer for CDH1 Mutation Carriers by Sex
+
+Gastric cancer in men 100
+Risk estimate 80 50% CI
+95% CI
+
+Gastric cancer in women 100
+Risk estimate 80 50% CI
+95% CI
+
+60 60
+
+Cumulative Risk, %
+
+Cumulative Risk, %
+
+40 40
+
+20 0 0
+100 80 60
+
+20
+
+10 20 30 40 50 60 70 80 Age, y
+
+0 0
+
+Breast cancer in women
+Risk estimate 50% CI 95% CI
+
+100 80 60
+
+10 20 30 40 50 60 70 80 Age, y
+Combined risks of breast and gastric cancer in women
+Combined Gastric Breast
+
+Cumulative Risk, %
+
+Cumulative Risk, %
+
+40 40
+
+20
+0 0
+
+10 20 30 40 50 60 70 80 Age, y
+
+20
+0 0
+
+10 20 30 40 50 60 70 80 Age, y
+
+quences (Figure 1). Approximately 27% (41 of 155) of total reported CDH1 pathogenic mutations have been reported in multiple families (eTable 1 in the Supplement), suggesting that germline mutations can either arise from a common ancestor8,12 or be the result of novel events at mutational hot spots.
+The clinical utility of CDH1 mutation identification in HDGC families lies in determining whether unaffected relatives are at risk for DGC and BC. At present, the only recommended GC risk reduction strategies are gastroscopy, with multiple random biopsies, or prophylactic total gastrectomy.5 This represents a difficult choice between the 2 procedures because gastroscopy screening has repeatedly been shown to miss early DGC9,11,23,24 and gastrectomy carries certain morbidity.25-28 With no validated biomarkers available to assist in the timing of prophylactic total gastrectomy, accurate risk assessment is essential. A previous study of 11 families calculated that GC risks were 67% in men and 83% in women, with an additional risk of BC in women mutation carriers of 39% at the age of 80 years.7 We have also previously demonstrated a GC risk of 40% for males and 63% for females, and BC risk of 52% in 4 families with the 2398delC mutation.8 Owing to small sample sizes in these 2 studies, risk figures had to be interpreted with caution, highlighting the need for a more comprehensive analysis.
+Our new penetrance estimates are more precise because of the larger cohort used. The families used to compile these data are from multicultural backgrounds, primarily from regions
+
+where GC is present at low incidences. Gastric cancer penetrance among CDH1 mutation carriers is incomplete, and it is likely that modifiers of risk exist, such as environmental or other inherited genetic factors. These unknown modifiers are likely to cluster in multicase families. While clinically appropriate, the penetrance estimates presented herein may be higher than the average penetrance in truly unselected carriers.
+Multiplexed panel-based sequencing enables in-depth sequencing of targeted regions of interest simultaneously across multiple samples. Applying this assay to unexplained HDGC, we identified novel and previously known potentially pathogenic germline mutations in genes associated with GC or GC risk syndromes.
+Among the germline abnormalities uncovered in this cohort, CTNNA1 mutations are most likely to mirror the genetic and functional significance of CDH1 mutations. Like CDH1, CTNNA1 is involved in intercellular adhesion and is a suspected tumor suppressor and susceptibility gene for DGC.29 We identified 2 CDH1-negative HDGC families with novel CTNNA1 germline truncating mutations (Figure 3 and Table 2). Loss of -catenin expression with preservation of E-cadherin in tumor material from 2 probands was observed (eFigure 3 in the Supplement). This variant was also confirmed in an affected parent (family P25). Our data support that germline CTNNA1 alterations cause HDGC on occasion and should be considered in screening of prospective families.29 This also suggests that the
+
+jamaoncology.com
+
+(Reprinted) JAMA Oncology April 2015 Volume 1, Number 1 Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+27
+
+Research Original Investigation
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+Table 2. Candidate Germline Variants From Multiplexed, Panel Sequencing of HDGC Families
+
+ID (Race/ Ethnicity)
+
+Age at Diagnosis (Years)
+
+IGCLC
+
+Relatives With
+
+Criteria5 Proband GC or BC
+
+Family Hx of Other Cancers
+
+Additional Gene (Chr)/ Family Hx Position
+
+Mutation
+AA Type/ Changeb Depthf Pathogenicity
+
+P16 (White)
+
+2
+
+DGC (58)
+
+GC (72), GC MDA (51), GC (52), DGC (NA)
+
+Uterine (NA), cervical (61), lung (71), bladder (69), EA (NA), thyroid (51), prostate (NA), PC (62), bone (9), CRC (61)
+
+NR
+
+ATM (11) c.3800AG>A
+
+E1267fs
+
+244x Frameshift/ possibly pathogenic
+
+P42 4 (Unknown)
+
+BC (59)
+
+IGC (71), GC (82), GC (53), GC (38), GC (42), GC (59), GC (NA), GC (73)
+
+Ovarian (49), ovarian (74), head and neck (78), CRC (42), CRC (39), leukemia (NA), leukemia (55), CRC with GC metastases (57), PC (70)
+
+NR
+
+ATM (11)
+
+Y2791fs 258x Frameshift/
+
+c.8369GATAC>G
+
+possibly
+
+pathogenic
+
+P58 (English)
+
+4
+
+LBC (56)
+
+GC (40s), GC (NA), BC and brain (70), bilateral BC (40s), BC (55), BC (69), LBC (49), BC (NA), BC (NA)
+
+CRC (50s)
+
+Blood clots, ATM (11)
+
+stroke
+
+c.1560CAG>C
+
+R521fs 2866x Frameshift/ possibly pathogenic
+
+P2 1 (East Indian)
+
+DGC (64) DGC (21), BC (50)
+
+NR
+
+NR
+
+BRCA2 (13)
+
+N1287fs 205x Frameshift/
+
+c.3862TAATA>T
+
+pathogenic
+
+P25 (White)
+
+3
+
+DGC (22) GC (59), BC (70)
+
+Brain (70), GEJ (82)
+
+NR
+
+CTNNA1 (5)
+
+N71fs 245x Frameshift/
+
+c.211A>AT
+
+pathogenic
+
+P80 (Italian)
+
+a
+
+DGC (72) DGC (52)
+
+NR
+
+NR
+
+CTNNA1 (5)
+
+R129X 442x Nonsense/
+
+c.385C>T
+
+pathogenic
+
+P90 3 (Portuguese)
+
+DGC (22) NR
+
+NR
+
+NR
+
+MSR1 (8)
+
+R293Xc 93x Nonsense/
+
+c.877C>T
+
+possibly
+
+pathogenic
+
+P107 (White)
+
+4
+
+DGC (36) GC (69), GC (68), and GC (64), BC (42), uterine BC (54) (25)
+
+Uterine (51), lung (NA) ×2, pancreatic (85), bladder/ prostate (86), bladder (82), prostate (80), bladder (69), cervical (22), CRC
+
+Gilbert syndrome
+
+MSR1 (8) c.877C>T
+
+R293Xc
+
+488x Nonsense/ possibly pathogenic
+
+P110
+
+4
+
+(Unknown)
+
+DGC (51) BC (NA), GC (NA)
+
+CRC (45), myeloma (NA)
+
+NR
+
+MSR1 (8) c.877C>T
+
+R293Xc
+
+432x Nonsense/ possibly pathogenic
+
+P61 1 (Unknown)
+
+NA
+
+GC (50s), GC and
+
+Prostate (74), skin (NA),
+
+NR
+
+BC (78), GC (50),
+
+prostate (82)
+
+GC and liver (77),
+
+GC (87), GC (62),
+
+GC (47), BC (42)
+
+MSR1 (8) c.877C>T
+
+R293Xc
+
+94x Nonsense/ possibly pathogenic
+
+P124
+
+4
+
+(Portuguese)
+
+DGC (45) GC (38), BC (42), BC (45)
+
+CRC (59), prostate (75)
+
+NR
+
+PALB2 (16) c.1193AC>A
+
+V398fs 1786x Frameshift/ likely pathogenic
+
+P123 (English)
+
+1
+
+DGC (42) GC (45), GC (NA)
+
+Lung (52)
+
+Cirrhosis, PRSS1 (7) emphysema c.256C>T
+
+Q86X
+
+49x Nonsense/ possibly pathogenic
+
+P13 (Italian)
+
+4
+
+LBC (39)
+
+GC (53), GC (44), BC and uterine (34), BC (NA)
+
+Brain (NA)
+
+DD
+
+SDHB (1)
+
+S163Pd 248x Missense/
+
+c.487T>C
+
+likely
+
+pathogenic
+
+P117
+
+1
+
+(Unknown)
+
+DGC (45) GC (45)
+
+NR
+
+NR
+
+STK11 (19)
+
+F354Le 616x Missense/
+
+c.1062C>G
+
+likely
+
+pathogenic
+
+P44 (White)
+
+3
+
+DGC (37) GC (70), LBC (45), BC (33), BC (56)
+
+GEJ (NA), CRC (70), prostate (NA)
+
+NR
+
+STK11 (19)
+
+F354Le 681x Missense/
+
+c.1062C>G
+
+likely
+
+pathogenic
+
+P46 3 (Unknown)
+
+DGC (22) NR
+
+Lung (NA)
+
+NR
+
+STK11 (19)
+
+F354Le 281x Missense/
+
+c.1062C>G
+
+likely
+
+pathogenic
+
+Abbreviations: AA, amino acid; AOD, age of diagnosis; BC, breast cancer; Chr, chromosome; CRC, colorectal carcinoma; DD, developmental delay; DGC, diffuse gastric cancer; EA, endometrium adenocarcinoma; fs, frameshift; GC, gastric cancer; GEJ, gastroesophageal junction cancer; HDGC, hereditary diffuse gastric cancer; Hx, history; IGC, intestinal gastric cancer; IGCLC, International Gastric Cancer Linkage Consortium; MDA, moderately differentiated adenocarcinoma; NA, not available; NR, not reported; PC, pancreatic cancer.
+
+a Family meets original criteria for HDGC from Caldas et al, 1999,6 and IGCLC criteria.5
+b Variants found at less than 1% frequency of the North American population: crs41341748, drs33927012, ers59912467.
+f Depth of sequencing coverage, across the nucleotide of interest; x indicates number of times covered.
+
+pathogenicity underpinning GC susceptibility in CDH1 mutation carriers is transmitted through a CDH1/CTNNA-1 signaling axis. Identifying additional CTNNA1 mutation­positive HDGC families will be required for penetrance analyses.
+
+We also identified additional pathogenic germline involving genes associated with other cancer predisposition syndromes. Germline BRCA2 mutations predispose carriers to hereditary breast and ovarian cancer,30,31 with mutations
+
+28 JAMA Oncology April 2015 Volume 1, Number 1 (Reprinted) Copyright 2015 American Medical Association. All rights reserved.
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+jamaoncology.com
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+Original Investigation Research
+
+Figure 3. Familial Pedigrees of HDGC Families With Germline Pathogenic or Likely Pathogenic Mutations Identified Through Panel Sequencing
+
+A CTNNA1 mutations
+3 70 y BC
+59 y DGC N71*
+
+4
+82 y 70 y UGI Brain
+
+52 y DGC
+72 y DGC R129X
+
+Male, female, sex unknown or unspecified Deceased n n, no. of individuals Gastric cancer Breast cancer Uterine cancer Other cancer
+Proband
+
+22 y DGC N71*
+
+4
+
+4
+
+72 y DGC R129X
+
+Age at diagnosis
+Cancer type Mutation
+
+B BRCA2 mutation
+
+C SDHB mutation
+
+64 y DGC N1287*
+
+3
+50 y BC
+
+2
+21 y GC
+
+D STK11 mutations
+
+3
+
+Brain DD BC
+
+44 y 53 y 64 y GC GC GC
+DD
+
+64 y BC, uterine
+
+39 y LBC S163P
+
+Lung
+2 22 y DGC F354L
+
+Lung BC Lung 70 y 70 y CRC GC 69 y
+prostate
+45 y LBC
+
+11
+
+37 y GC F354L
+
+33 y Duodenal 56 y CRC BC BC
+
+Extensive family pedigrees for familial intestinal gastric cancer families with pathogenic mutations were not available. Age in years is age at diagnosis. The asterisks indicate a translation termination or stop codon; BC, breast cancer; CRC, colorectal carcinoma; DD, developmental delay; DGC, diffuse gastric cancer; GC, gastric cancer; HDGC, hereditary diffuse gastric cancer; LBC, lobular breast cancer; and UGI, upper gastrointestinal tract cancer unspecified.
+
+in exon 11 being associated with an elevated risk for other cancers, including GC.32,33 In some BRCA2-positive families, there is an overrepresentation of GC.33-36 The novel BRCA2truncating variant (N1287fs) identified in a HDGC family (Table 2) in this study represents, to our knowledge, the first identification of a truncating BRCA2 mutation in HDGC, further suggesting GC as a phenotypic-manifestation of BRCA2 mutations. Gastric cancer families found to carry BRCA2 mutations would likely benefit from preventive and therapeutic measures used for BRCA2-associated malignant conditions. Further work is necessary to uncover the GC risk associated with BRCA2 variants.
+
+Within several genes associated with gastrointestinal cancer predisposition syndromes, we identified rare missense mutations that have been previously reported as pathogenic. Three HDGC cases had a pathogenic missense variant (F354L) in the highly penetrant Peutz-Jeghers syndrome susceptibility gene, STK11 (LKB1).16,17 In vitro analyses of F354L have shown impaired activation of 5 adenosine monophosphate­activated protein kinase (AMPK) pathways and disruption of cellular polarity.16 Family P44 had this variant and presented with 2 cases of GC (DGC confirmed in one), as well as breast, colorectal, and duodenal cancers, suggestive of a broader cancer syndrome such as Peutz-Jeghers syndrome (Figure 3 and Table 2).
+
+jamaoncology.com
+
+(Reprinted) JAMA Oncology April 2015 Volume 1, Number 1 Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+29
+
+Research Original Investigation
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+The proband of family P46 presented with DGC at age 22 years. It is unknown if members of either family had other features of Peutz-Jeghers syndrome such as hamartomatous gastrointestinal tract polyps or mucosal pigmentation. Similarly, a rare SDHB mutation (S163P), previously associated with the cancer risk disorder Cowden-like syndrome,18 was identified in a HDGC family (family P13). Conflicting data exist in the literature to support pathogenicity of this variant; however, broader analysis revealed disease patterns suggestive of Cowden-like syndrome on both sides of the pedigree P13, with GC, BC, and developmental delay on the paternal side (Figure 3 and Table 2). The S163P mutation has been shown by in vitro analysis to increase activity of both AKT and MAPK (mitogen-activated protein kinase) pathways.18 We also found 4 HDGC families with a rare truncating MSR1 variant (R293X), a previously identified risk allele for esophageal and prostate cancers.19,20 More evidence will be required before this mutation can be used for clinical risk stratification.19,20,37,38 Frequencies of the 3 mutations described vary but are uncommon in North America.39
+Truncating mutations in the low- to moderate-penetrance genes ATM and PALB2 (Table 2 and eFigure 4 in the Supplement) were also identified through our gene panel. Conflicting risk estimates of ATM and PALB2 variants have been reported in hereditary breast, ovarian, and pancreatic cancers.40-44 However, a recent publication on the penetrance of PALB2 mutation carriers shows that loss of function mutations are an important cause of hereditary BC, with a 33% to 58% increased risk for disease in mutation carriers by 70 years.45 A heterozygous truncating variant (Q86X) was also identified in gene PRSS1. Such mutations are associated with high, incomplete penetrance for hereditary pancreatitis.46,47 A recent report of all documented germline PRSS1 variants highlights that truncating variants are rare but pathogenic.48 This family presented with extensive family history of GC as well as a single case of liver cancer (Table 2). Frequency of somatic PRSS1 mutations is infrequent in sporadic GC (2%) but relatively high in liver cancers (9%).49 Further analyses are required to define the extent of cancer susceptibility conferred by these genes and justify interventions.
+Apart from 2 CTNNA1 mutations, HDGC families were found to carry mutations in genes associated with other cancerpredisposition syndromes, some with established management strategies, or genes of uncertain clinical significance. The data from our genetic screening of CDH1 mutation­negative HDGC families suggest that HDGC may be better defined by genetics rather than clinical criteria. In such a system, mutations in CDH1 and CDH1-like genes (eg, CTNNA1) define HDGC. Despite meeting phenotypic criteria for HDGC or familial intestinal gastric cancer (FIGC), families with mutations in other genes would most likely benefit from carrier risk reduction strategies based on the mutated gene (ie, BRCA2) rather than the can-
+
+cer types that lead to the referral. The penetrance data from this study will enable genetics professionals to provide more accurate relative risk estimates to CDH1 mutation­positive carriers, which will help in making more informed clinical management decisions. In addition, in HDGC families, clinicians can provide genetic testing through a broader panel of cancer predisposition genes, which may help to identify the causative underlying mutation in a greater number of these families.
+Regarding the limitations of our study, our assay cannot detect copy number alterations within targeted amplicons. It is also likely that environmental factors are genetic modifiers in multicase families. We acknowledge that lifestyle and environment factors that affect risk in the general population can also modify risk in CDH1 carriers; then the penetrance would be expected to be higher in countries with a high incidence. However, we had insufficient data to evaluate this possibility.
+Also, cryptic abnormalities within the CDH1 locus may account for many cases of HDGC, as suggested by allele-specific expression50; lack of available RNA precluded the exclusion of this cause. Limited availability of additional materials from family members prevented complete validation of novel variants. Further work is needed to accurately assess risk associated with mutations in identified genes. Finally, any inaccuracies in a retrospective review of pathology reports would have confounded associations between genetic abnormalities and the distinct clinical entities (ie, diffuse vs intestinal GC). It is often difficult to collect tissue blocks for all cases for histopathologic review owing to the high mortality rate of the disease, but this would be advisable.
+Conclusions
+To our knowledge, this study represents the most robust and thorough description of HDGC-novel CDH1 mutations and the penetrance in CDH1 mutation carriers to date. These data should assist in the genetic counseling and management of at-risk individuals from CDH1-positive HDGC families. Using multiplexed panel sequencing, we identified mutations associated with a clinically heterogeneous set of cancer predisposition syndromes. Applying broader screening for families with phenotypic history of GC will increase the number of families who can benefit from targeted risk reduction procedures. The genetic basis of unexplained cases of familial GC is likely some combination of mutations in genes yet to be determined, phenocopies among families or, in the case of HDGC families, other abnormalities at the CDH1 locus or pathway. Targeted panel sequencing is an efficient way to triage candidate families for broader whole-genome sequencing analysis.
+
+ARTICLE INFORMATION
+Accepted for Publication: December 1, 2014.
+Published Online: February 12, 2015. doi:10.1001/jamaoncol.2014.168.
+Author Affiliations: Centre for Translational and Applied Genomics, British Columbia Cancer Agency, Vancouver, British Columbia, Canada (Hansford,
+
+Li-Chang, Woo, Senz, Padilla, Lum, Talhouk, Huntsman); Department of Pathology and Laboratory Medicine, University of British Columbia, Vancouver, British Columbia, Canada (Hansford, Li-Chang, Woo, Senz, Nielsen, Talhouk, Huntsman); Department of Medical Genetics, University of British Columbia, Vancouver, British Columbia, Canada (Kaurah); Expression Regulation
+
+in Cancer Group, IPATIMUP­Institute of Molecular Pathology and Immunology of the University of Porto, Porto, Portugal (Pinheiro, Carvalho, Oliveira); Hereditary Cancer Program, BC Cancer Agency, Vancouver, British Columbia, Canada (Kaurah, Schrader); Division of Anatomical Pathology, Vancouver General Hospital, University of British Columbia, Vancouver, British Columbia, Canada
+
+30 JAMA Oncology April 2015 Volume 1, Number 1 (Reprinted) Copyright 2015 American Medical Association. All rights reserved.
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+jamaoncology.com
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+Original Investigation Research
+
+(Schaeffer); Department of Molecular Oncology, BC Cancer Agency, Vancouver, British Columbia, Canada (Shumansky, Nielsen, Shah, Huntsman); The Research Institute of the McGill University Health Centre, Montreal, Quebec, Canada (Zogopoulos); Rosalind and Morris Goodman Cancer Research Centre, Montreal, Quebec, Canada (Zogopoulos); Human Reproduction Service, University Hospitals of Coimbra, Coimbra, Portugal (Santos); Faculty of Medicine, University of Coimbra, Coimbra, Portugal (Santos); Instituto Português de Oncologia de Lisboa Francisco Gentil E.P.E., Lisbon Portugal (Claro); Frauenshuh Cancer Center, Park Nicollet Clinic, St Louis Park, Minnesota (Baker-Lange); Cancer Research UK Cambridge Institute, Cambridge, England (Richardson, Caldas); Provincial Medical Genetics Program, St John's, Newfoundland, Canada (Lewis, MacMillan, Fernandez); Department of Health Science Research, Mayo Clinic, Scottsdale, Arizona (Lindor); Cancer Care Program, Dr. H. Bliss Murphy Cancer Centre Eastern Health, St John's, Newfoundland, Canada (Pennell); Institute of Pathology, Technische Universität München, München, Germany (Keller); Creighton's Hereditary Cancer Center, Omaha, Nebraska (Lynch); Cancer Genetics Laboratory, Department of Biochemistry, University of Otago, Dunedin, New Zealand (Guilford); Division of General Surgery, Department of Surgery, University of Toronto, Toronto, Ontario, Canada (Gallinger); Samuel Lunenfeld Research Institute, Mount Sinai Hospital Toronto, Ontario, Canada (Gallinger); Department of Experimental Oncology, European Institute of Oncology, Milano, Italy (Corso); Department of Medical Surgical Sciences and Neurosciences, Section of General Surgery and Surgical Oncology, University of Siena, Siena, Italy (Corso, Roviello); Istituto Toscano Tumori (ITT), University Hospital of Siena, Siena, Italy (Roviello); Faculty of Medicine, University of Porto, Porto, Portugal (Oliveira); Department of Oncology, University of Cambridge, Strangeway's Research Laboratory, Wort's Causeway, Cambridge, England (Pharoah); Department of Public Health and Primary Care, University of Cambridge, Strangeway's Research Laboratory, Wort's Causeway, Cambridge, England (Pharoah); Department of Obstetrics and Gynecology (Huntsman), University of British Columbia, Vancouver, British Columbia, Canada (Huntsman).
+Author Contributions: Ms Hansford and Ms Kaurah had full access to all the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Ms Hansford, Ms Kaurah, and Dr Li-Chang contributed equally to this work. Study concept and design: Hansford, Kaurah, Woo, Schrader, Zogopoulos, Oliveira, Pharoah, Huntsman. Acquisition, analysis, or interpretation of data: Hansford, Kaurah, Li-Chang, Woo, Senz, Pinheiro, Schaeffer, Shumansky, Zogopoulos, Almeida Santos, Claro, Carvalho, Nielsen, Padilla, Lum, Talhouk, Baker-Lange, Richardson, Lewis, Lindor, Pennell, MacMillan, Fernandez, Keller, Lynch, Shah, Guilford, Gallinger, Corso, Roviello, Caldas, Oliveira, Pharoah, Huntsman. Drafting of the manuscript: Hansford, Kaurah, Li-Chang, Woo, Shumansky, Nielsen, Padilla, Pennell, Oliveira, Pharoah, Huntsman. Critical revision of the manuscript for important intellectual content: Hansford, Kaurah, Li-Chang, Woo, Senz, Pinheiro, Schrader, Schaeffer,
+
+Zogopoulos, Almeida Santos, Claro, Carvalho, Lum, Talhouk, Baker-Lange, Richardson, Lewis, Lindor, MacMillan, Fernandez, Keller, Lynch, Shah, Guilford, Gallinger, Corso, Roviello, Caldas, Oliveira, Huntsman. Statistical analysis: Shumansky, Talhouk, Shah, Pharoah. Obtained funding: Kaurah, Woo, Schrader, Zogopoulos, Fernandez, Gallinger, Caldas, Oliveira, Huntsman. Administrative, technical, or material support: Hansford, Kaurah, Li-Chang, Woo, Senz, Pinheiro, Schaeffer, Zogopoulos, Almeida Santos, Carvalho, Padilla, Lum, Richardson, Lewis, MacMillan, Keller, Lynch, Guilford, Gallinger, Corso, Roviello, Caldas, Oliveira. Study supervision: Zogopoulos, Fernandez, Shah, Roviello, Oliveira, Huntsman.
+Conflict of Interest Disclosures: Dr Li-Chang receives fellowship funding from the Terry Fox Foundation Strategic Health Research Training Program in Cancer Research at the Canadian Institutes of Health Research. The Portuguese Foundation for Science and Technology provides Postdoctoral grants to Dr Pinheiro (SFRH/BPD/ 79499/2011) and to Dr Carvalho (SFRH/BPD/ 86543/2012). No other disclosures are reported.
+Funding/Support: This research is funded by grants 013831 and 701562 from the Canadian Cancer Society; grant MOP-123517 from the Canadian Institutes of Health Research; the British Columbia Cancer Foundation through the Wickerson/Tattersdill Family Fund; Projects FCOMP-01-0124-FEDER-015779 and PTDC/SAUGMG/110785/2009 from the Portuguese Foundation for Science and Technology associated with European Regional Development Fund (FEDER) (Program COMPETE); and grant ITT-2007 from Istituto Toscano Tumori (Italy).
+Role of the Funder/Sponsor: The funding organizations had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, or approval of the manuscript; and decision to submit the manuscript for publication.
+Additional Contributions: We thank all the families, patients, and their caregivers for their willing participation in this research project and who provided consent regarding the use of the information obtained from the study. We also thank the No Stomach for Cancer for their continued support and the International Gastric Linkage Consortium for providing a forum for knowledge transfer and collaboration for the community of hereditary gastric cancer researchers. We thank Sónia Sousa, BSc, and José Carlos Machado, PhD, from the IPATIMUP Diagnostics Unit, Porto Portugal, who provided access to DNA data from the Portuguese series of gastric cancer families. We wish to acknowledge the following contributing principle investigators and centers: Jean-Marc Limacher, MD (Service d'Oncologie Hopitaux Universitaires, Strasbourg, France); Georgia Wiesner, MD, MS (Department of Genetics University Hospitals of Cleveland/Case Western Reserve University, Cleveland, Ohio); Cindy Hunter, MS (Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana); and Frances Richards, MD, PhD, and Eamonn Maher, MD, PhD (Section of Medical and Molecular Genetics, University of Birmingham, Birmingham, England).
+
+Correction: This article was corrected on February 19, 2015, to fix the spelling of an author's name in the byline, Author Affiliations, and Author Contributions.
+REFERENCES
+1. International Agency for Research on Cancer. Globocan 2012. http://globocan.iarc.fr/Pages/fact _sheets_cancer.aspx. Accessed October 13, 2013.
+2. Lauren P. The two histological main types of gastric carcinoma: diffuse and so-called intestinal-type carcinoma. an attempt at a histo-clinical classification. Acta Pathol Microbiol Scand. 1965;64:31-49.
+3. Zanghieri G, Di Gregorio C, Sacchetti C, et al. Familial occurrence of gastric cancer in the 2-year experience of a population-based registry. Cancer. 1990;66(9):2047-2051.
+4. La Vecchia C, Negri E, Franceschi S, Gentile A. Family history and the risk of stomach and colorectal cancer. Cancer. 1992;70(1):50-55.
+5. Fitzgerald RC, Hardwick R, Huntsman D, et al; International Gastric Cancer Linkage Consortium. Hereditary diffuse gastric cancer: updated consensus guidelines for clinical management and directions for future research [correction published in J Med Genet. 2011;48(3):216]. J Med Genet. 2010; 47(7):436-444.
+6. Caldas C, Carneiro F, Lynch HT, et al. Familial gastric cancer: overview and guidelines for management. J Med Genet. 1999;36(12):873-880.
+7. Pharoah PD, Guilford P, Caldas C; International Gastric Cancer Linkage Consortium. Incidence of gastric cancer and breast cancer in CDH1 (E-cadherin) mutation carriers from hereditary diffuse gastric cancer families. Gastroenterology. 2001;121(6):1348-1353.
+8. Kaurah P, MacMillan A, Boyd N, et al. Founder and recurrent CDH1 mutations in families with hereditary diffuse gastric cancer. JAMA. 2007;297 (21):2360-2372.
+9. Huntsman DG, Carneiro F, Lewis FR, et al. Early gastric cancer in young, asymptomatic carriers of germ-line E-cadherin mutations. N Engl J Med. 2001;344(25):1904-1909.
+10. Brooks-Wilson AR, Kaurah P, Suriano G, et al. Germline E-cadherin mutations in hereditary diffuse gastric cancer: assessment of 42 new families and review of genetic screening criteria. J Med Genet. 2004;41(7):508-517.
+11. Suriano G, Yew S, Ferreira P, et al. Characterization of a recurrent germ line mutation of the E-cadherin gene: implications for genetic testing and clinical management. Clin Cancer Res. 2005;11(15):5401-5409.
+12. Oliveira C, Senz J, Kaurah P, et al. Germline CDH1 deletions in hereditary diffuse gastric cancer families. Hum Mol Genet. 2009;18(9):1545-1555.
+13. Lange K, Weeks D, Boehnke M. Programs for pedigree analysis: MENDEL, FISHER, and dGENE. Genet Epidemiol. 1988;5(6):471-472.
+14. Guilford P, Humar B, Blair V. Hereditary diffuse gastric cancer: translation of CDH1 germline mutations into clinical practice. Gastric Cancer. 2010;13(1):1-10.
+15. Corso G, Marrelli D, Pascale V, Vindigni C, Roviello F. Frequency of CDH1 germline mutations in gastric carcinoma coming from high- and low-risk
+
+jamaoncology.com
+
+(Reprinted) JAMA Oncology April 2015 Volume 1, Number 1 Copyright 2015 American Medical Association. All rights reserved.
+
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+31
+
+Research Original Investigation
+
+Hereditary Diffuse Gastric Cancer Syndrome
+
+areas: metanalysis and systematic review of the literature. BMC Cancer. 2012;12:8.
+16. Forcet C, Etienne-Manneville S, Gaude H, et al. Functional analysis of Peutz-Jeghers mutations reveals that the LKB1 C-terminal region exerts a crucial role in regulating both the AMPK pathway and the cell polarity. Hum Mol Genet. 2005;14(10): 1283-1292.
+17. Yoon KA, Ku JL, Choi HS, et al. Germline mutations of the STK11 gene in Korean Peutz-Jeghers syndrome patients. Br J Cancer. 2000;82(8):1403-1406.
+18. Ni Y, Zbuk KM, Sadler T, et al. Germline mutations and variants in the succinate dehydrogenase genes in Cowden and Cowden-like syndromes. Am J Hum Genet. 2008;83(2):261-268.
+19. Orloff M, Peterson C, He X, et al. Germline mutations in MSR1, ASCC1, and CTHRC1 in patients with Barrett esophagus and esophageal adenocarcinoma. JAMA. 2011;306(4):410-419.
+20. Xu J, Zheng SL, Komiya A, et al. Germline mutations and sequence variants of the macrophage scavenger receptor 1 gene are associated with prostate cancer risk. Nat Genet. 2002;32(2):321-325.
+21. Oliveira C, Seruca R, Carneiro F. Genetics, pathology, and clinics of familial gastric cancer. Int J Surg Pathol. 2006;14(1):21-33.
+22. Oliveira C, Pinheiro H, Figueiredo J, Seruca R, Carneiro F. E-cadherin alterations in hereditary disorders with emphasis on hereditary diffuse gastric cancer. Prog Mol Biol Transl Sci. 2013;116: 337-359.
+23. Oliveira C, Bordin MC, Grehan N, et al. Screening E-cadherin in gastric cancer families reveals germline mutations only in hereditary diffuse gastric cancer kindred. Hum Mutat. 2002;19 (5):510-517.
+24. Fujita H, Lennerz JK, Chung DC, et al. Endoscopic surveillance of patients with hereditary diffuse gastric cancer: biopsy recommendations after topographic distribution of cancer foci in a series of 10 CDH1-mutated gastrectomies. Am J Surg Pathol. 2012;36(11):1709-1717.
+25. Norton JA, Ham CM, Van Dam J, et al. CDH1 truncating mutations in the E-cadherin gene: an indication for total gastrectomy to treat hereditary diffuse gastric cancer. Ann Surg. 2007;245(6): 873-879.
+
+26. Lewis FR, Mellinger JD, Hayashi A, et al. Prophylactic total gastrectomy for familial gastric cancer. Surgery. 2001;130(4):612-617.
+27. Hebbard PC, Macmillan A, Huntsman D, et al. Prophylactic total gastrectomy (PTG) for hereditary diffuse gastric cancer (HDGC): the Newfoundland experience with 23 patients. Ann Surg Oncol. 2009; 16(7):1890-1895.
+28. Pandalai PK, Lauwers GY, Chung DC, Patel D, Yoon SS. Prophylactic total gastrectomy for individuals with germline CDH1 mutation. Surgery. 2011;149(3):347-355.
+29. Majewski IJ, Kluijt I, Cats A, et al. An -E-catenin (CTNNA1) mutation in hereditary diffuse gastric cancer. J Pathol. 2013;229(4):621-629.
+30. Ferla R, Calò V, Cascio S, et al. Founder mutations in BRCA1 and BRCA2 genes. Ann Oncol. 2007;18(suppl 6):vi93-vi98.
+31. Janavicius R. Founder BRCA1/2 mutations in the Europe: implications for hereditary breast-ovarian cancer prevention and control. EPMA J. 2010;1 (3):397-412.
+32. Lubinski J, Phelan CM, Ghadirian P, et al. Cancer variation associated with the position of the mutation in the BRCA2 gene. Fam Cancer. 2004;3 (1):1-10.
+33. Risch HA, McLaughlin JR, Cole DE, et al. Prevalence and penetrance of germline BRCA1 and BRCA2 mutations in a population series of 649 women with ovarian cancer. Am J Hum Genet. 2001;68(3):700-710.
+34. Jakubowska A, Nej K, Huzarski T, Scott RJ, Lubiski J. BRCA2 gene mutations in families with aggregations of breast and stomach cancers. Br J Cancer. 2002;87(8):888-891.
+35. Moran A, O'Hara C, Khan S, et al. Risk of cancer other than breast or ovarian in individuals with BRCA1 and BRCA2 mutations. Fam Cancer. 2012;11 (2):235-242.
+36. Johannsson O, Loman N, Möller T, Kristoffersson U, Borg A, Olsson H. Incidence of malignant tumours in relatives of BRCA1 and BRCA2 germline mutation carriers. Eur J Cancer. 1999;35 (8):1248-1257.
+37. Maier C, Vesovic Z, Bachmann N, et al. Germline mutations of the MSR1 gene in prostate cancer families from Germany. Hum Mutat. 2006;27(1):98102.
+38. Wang L, McDonnell SK, Cunningham JM, et al. No association of germline alteration of MSR1 with prostate cancer risk. Nat Genet. 2003;35(2):128-129.
+
+39. The 1000 Genomes Project Consortium. An integrated map of genetic variation from 1,092 human genomes. Nature. 2012;491(7422):56-65.
+40. Goldgar DE, Healey S, Dowty JG, et al; BCFR; kConFab. Rare variants in the ATM gene and risk of breast cancer. Breast Cancer Res. 2011;13(4):R73.
+41. Stredrick DL, Garcia-Closas M, Pineda MA, et al. The ATM missense mutation p.Ser49Cys (c.146C>G) and the risk of breast cancer. Hum Mutat. 2006;27 (6):538-544.
+42. Rahman N, Seal S, Thompson D, et al; Breast Cancer Susceptibility Collaboration (UK). PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat Genet. 2007; 39(2):165-167.
+43. Erkko H, Xia B, Nikkilä J, et al. A recurrent mutation in PALB2 in Finnish cancer families. Nature. 2007;446(7133):316-319.
+44. Jones S, Hruban RH, Kamiyama M, et al. Exomic sequencing identifies PALB2 as a pancreatic cancer susceptibility gene. Science. 2009;324 (5924):217.
+45. Antoniou AC, Casadei S, Heikkinen T, et al. Breast-cancer risk in families with mutations in PALB2. N Engl J Med. 2014;371(6):497-506.
+46. Le Maréchal C, Masson E, Chen JM, et al. Hereditary pancreatitis caused by triplication of the trypsinogen locus. Nat Genet. 2006;38(12):1372-1374.
+47. Felderbauer P, Schnekenburger J, Lebert R, et al. A novel A121T mutation in human cationic trypsinogen associated with hereditary pancreatitis: functional data indicating a loss-of-function mutation influencing the R122 trypsin cleavage site. J Med Genet. 2008;45(8): 507-512.
+48. Németh BC, Sahin-Tóth M. Human cationic trypsinogen (PRSS1) variants and chronic pancreatitis. Am J Physiol Gastrointest Liver Physiol. 2014;306(6):G466-G473.
+49. Gao J, Aksoy BA, Dogrusoz U, et al. Integrative analysis of complex cancer genomics and clinical profiles using the cBioPortal. Sci Signal. 2013;6 (269):pl1.
+50. Oliveira C, Sousa S, Pinheiro H, et al. Quantification of epigenetic and genetic 2nd hits in CDH1 during hereditary diffuse gastric cancer syndrome progression. Gastroenterology. 2009; 136(7):2137-2148.
+
+32 JAMA Oncology April 2015 Volume 1, Number 1 (Reprinted) Copyright 2015 American Medical Association. All rights reserved.
+Downloaded From: http://oncology.jamanetwork.com/ by a Harvard University User on 07/18/2016
+
+jamaoncology.com
+
+

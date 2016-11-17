@@ -1,0 +1,320 @@
+GASTROENTEROLOGY 2001;121:1348 ­1353
+
+Incidence of Gastric Cancer and Breast Cancer in CDH1 (E-Cadherin) Mutation Carriers From Hereditary Diffuse Gastric Cancer Families
+
+PAUL D. P. PHAROAH,* PARRY GUILFORD, CARLOS CALDAS,* and THE INTERNATIONAL GASTRIC CANCER LINKAGE CONSORTIUM
+*Department of Oncology, University of Cambridge, Cambridge, England; and Cancer Genetics Laboratory, University of Otago, Dunedin, Aotearoa, New Zealand
+
+Background & Aims: Germline mutations in CDH1 are known to cause hereditary diffuse gastric cancer (HDGC). Breast and colorectal cancer have also been reported in CDH1-associated HDGC. The purpose of this study was to estimate the cumulative risk of gastric and breast cancer in CDH1 mutation carriers. Methods: Family data were collected by member groups of the International Gastric Cancer Linkage Consortium. Eligible families had at least 3 cases of diffuse gastric cancer, and at least 1 affected member had tested positive for a mutation in CDH1. Eleven families met these criteria. We used the pedigree information to estimate penetrance using the MENDEL program. The conditional likelihood of the pedigree was maximized given the phenotype of the pedigree and genotype of the index case at ascertainment. We parameterized the model in terms of log relative risks for mutation carriers compared with risks in the general population of the United Kingdom. Noncarriers of the gene were assumed to develop the disease at population incidence rates. Results: The estimated cumulative risk of gastric cancer by age 80 years was 67% for men (95% confidence interval [95% CI], 39 ­99) and 83% for women (95% CI, 58 ­99). For women, the cumulative risk of breast cancer was 39% (95% CI, 12­ 84). The combined risk of gastric cancer and breast cancer in women was 90% by age 80 years. Conclusions: These penetrance estimates should be useful for genetic counseling in multiple-case families. However, they may not apply to individuals with a minimal family history, in whom the risks may be lower.
+The first description of a clear molecular basis for familial gastric cancer was the report of germline-
+inactivating (truncating) CDH1 mutations in 3 Maori
+kindred with early-onset diffuse gastric cancer.1 Shortly
+thereafter, it was shown that CDH1-inactivating germ-
+line mutations also account for a proportion of families of
+European ancestry with familial diffuse gastric cancer.2
+Subsequently, another 6 inactivating germline mutations
+
+in families of European origin have been reported.3­5 Germline-inactivating mutations of E-cadherin have also been found in 1 family of African American origin,4 another Maori family,4 and one family of Pakistani origin (C. Caldas, unpublished data, August, 2000). All of these families have diffuse-type gastric cancer. CDH1 mutations have not been described in families with multiple cases of intestinal gastric cancer.2 This specificity of tumor type has led to familial gastric cancer that is associated with germline E-cadherin mutations being designated hereditary diffuse gastric cancer (HDGC).1,6
+The CDH1 coding sequence gives rise to a 27­amino acid signal peptide, a 154 ­amino acid precursor peptide, and a 728 ­amino acid mature protein.7 The mature protein consists of 3 major domains, a large extracellular domain and smaller transmembrane and cytoplasmic domains.7 As with other autosomal dominant cancer-predisposing genes, most genetic changes lead to truncation of the protein. The 14 truncation-producing mutations described so far are distributed throughout the gene, with no apparent hot spots.4
+Somatic CDH1 mutations have been identified in approximately 50% of sporadic diffuse gastric tumors and lobular breast cancers but rarely occur in other tumors.7­9 In sporadic gastric cancers, truncating mutations are uncommon, and sequence changes usually result in either missense mutations (most commonly in exons 8 and 9) or exon skipping, especially of exons 6 ­9. In contrast, the somatic CDH1 mutations observed in sporadic lobular breast cancers are predominantly truncating. The reason for this difference in mutation type is unknown but is presumably related to the residual bio-
+Abbreviations used in this paper: 95% CI, 95% confidence interval; HDGC, hereditary diffuse gastric cancer; IGCLC, International Gastric Cancer Linkage Consortium; LBC, lobular breast cancer.
+© 2001 by the American Gastroenterological Association 0016-5085/01/$35.00
+doi:10.1053/gast.2001.29611
+
+December 2001
+
+CANCER RISKS IN CDH1 MUTATION CARRIERS 1349
+
+logic activity of E-cadherin molecules carrying amino acid substitutions or in-frame deletions.10,11
+Immunohistochemical staining of HDGC tumors has shown that the second CDH1 allele is inactivated somatically,12 although in some tumors residual E-cadherin staining is observed. Loss of heterozygosity does not appear to be frequent in HDGC.3,4,12 Instead, hypermethylation of the CDH1 promoter is likely to be a common cause of down-regulation or inactivation of the second CDH1 allele in HDGC tumors.12 CDH-1 promoter hypermethylation has also been identified in approximately 80% of sporadic diffuse gastric cancers and one third of other sporadic gastric cancer types.13
+Other cancers have also been reported in HDGC families, and both breast and colorectal cancer have been reported in several families. Where tumor histology is available, CDH1 germline mutation seems to be specifically associated with lobular breast cancer (LBC). Further support for a specific association between E-cadherin and LBC comes from observations that somatic CDH1 mutations and loss of heterozygosity at the CDH1 locus are commonly found in LBC but are rare in ductal breast cancer.14­16
+To facilitate multinational efforts to study hereditary forms of gastric cancer, a group of clinical geneticists, gastroenterologists, surgeons, oncologists, pathologists, and molecular biologists created the International Gastric Cancer Linkage Consortium (IGCLC).6,17 More recently, the results of prophylactic gastrectomy in mutation carriers from 2 families with HDGC caused by mutations in CDH1 have been reported,18 and the value of predictive genetic testing in HDGC families has been emphasized.19 Several factors influence individual decisions about whether to undergo prophylactic gastrectomy and about the most appropriate age for such surgery. The age-specific gastric cancer risk is a critical piece of information that will aid in making this decision. If individuals from CDH1 families are to be appropriately and effectively counseled, good estimates of the cancer risks associated with CDH1 mutations are needed. The purpose of this IGCLC study was to provide estimates of the cumulative risk of gastric and breast cancer by age in CDH1 mutation carriers. These estimates should be valuable for counseling of unaffected mutation carriers in these families. The number of colorectal cancers in the families was too small to enable calculation of stable penetrance estimates.
+Patients and Methods
+Patients and Families
+Family samples were collected by research groups that are members of the IGCLC. Families were eligible for the
+
+study if they included at least 3 cases of diffuse-type gastric cancer and at least 1 affected member had tested positive for a disease-associated mutation in CDH1. Gastric cancer families in which a missense mutation in CDH1 had been identified were excluded from the analysis because the pathogenic significance of these genetic variants is not known. Twelve families meeting these criteria were identified. There were sufficient data from 11 of these families to include in the analysis. The data provided include age of occurrence of all primary cancers and age at last observation (age at death or last follow-up).
+Statistical Methods
+We used the pedigree information to estimate the penetrance of CDH1 using the MENDEL program.20 Ascertainment of the families was on the basis of multiple affected members with an index case that tested positive for a truncating mutation in CDH1. Thus the conditional likelihood of the pedigree was maximized given the phenotype of the family and genotype of the index case at ascertainment, where the phenotype of the pedigree is the phenotype of all individuals in the family (vital status, current age/age at death, cancer, age at diagnosis) and their relationships:
+L(Pedigree) L(PedigreeAscertained Pedigree)  L(Ascertained pedigree) .
+For some of the larger families, the process of pedigree construction and verification in the family cancer clinic meant it was not possible to determine details of the pedigree at ascertainment. For these families, a pedigree constructed from all first- and second-degree relatives of the index case was used as the ascertained pedigree. Three branches of one large multigenerational family (family A; Table 1) were regarded as separate families in the analysis because the precise relationship between the branches was uncertain.
+We parameterized the model in terms of log relative risk for gastric cancer and breast cancer in mutation carriers compared with population risks for the United Kingdom. This assumes that cancer incidences in mutation carriers is the same for all families, whatever their ethnic origin. Noncarriers of the gene in each family were assumed to develop the disease according to the incidence rates for the population from which the family originated. The gastric cancer relative risks (RR) were estimated separately for men and women and allowed to vary with age using 4 age groups: 10 ­29, 30 ­ 44, 45­59, and 60 ­79 years. The RR of breast cancer was estimated for women only and assumed to be constant. Other models with either 3 or 5 age groups for gastric cancer risk and 2 or 3 age groups for breast cancer risk were also tested. The model selected was the most parsimonious model that fits the data well. The CDH1 mutant allele was assumed to be rare in the general population, with a frequency of 0.001.
+Cumulative risk or penetrance was calculated from the cumulative incidence (t):
+
+1350 PHAROAH ET AL.
+
+GASTROENTEROLOGY Vol. 121, No. 6
+
+Table 1. Details of Families Used for Penetrance Estimates
+
+Familya
+
+Country
+
+Ethnic group
+
+Family members
+
+Gastric cancers (confirmed)
+
+Mean age onset
+
+A(1)
+
+New Zealand
+
+Maori
+
+A(2)
+
+New Zealand
+
+Maori
+
+A(3)
+
+New Zealand
+
+Maori
+
+B UK
+
+Caucasian
+
+C UK
+
+Caucasian
+
+D USA
+
+Caucasian
+
+17 41 50 12 43 47
+
+5 (3) 10 (4) 13 (2)
+3 (3) 6 (4) 3 (2)
+
+42 28 35 38 49 62
+
+E USA F Canada G USA
+
+Caucasian Caucasian Caucasian
+
+48 15 119
+
+8 (7) 6 (3) 4 (3)
+
+42 31 42
+
+H Germany Caucasian 28
+
+I France
+
+Caucasian
+
+12
+
+J USA
+
+Caucasian
+
+13
+
+K
+
+UK/Pakistan
+
+Pakistani
+
+49
+
+4 (2) 4 (4) 3 (3) 11 (6)
+
+37 45 50 39
+
+Age range
+32-74 14-42 17-66 27-50 34-69 33-85
+27-67 24-43 38-46
+15-58 31-55 40-63 21-70
+
+Cancers at other sitesA
+Co
+Co, Lu, Sk 3xCo, 2xEn, PR,
+Br, Pa
+3xBr, Leu, Lym, Kap
+Br
+Br Br
+
+CDH1 mutation
+G1008T G1008T G1008T G59A A(49-2)G C187T
+1711insG C1792T G70T
+372delC G586T 1588insC G832A
+
+Mutation type
+Splice-site Splice-site Splice-site Non-sense Splice-site Non-sense
+Frameshift Non-sense Non-sense
+Frameshift Non-sense Frameshift Splice-site
+
+Reference
+1 1 1 3 3 2
+2 2 4
+5 4 4 Unpublished
+
+Br, breast; Co, colorectal; En, endometrial; Kap, Kaposi's sarcoma; Leu, leukemia; Lu, lung; Lym, lymphoma; Pa, pancreas; Pr, prostate; Sk, nonmelanoma skin. aFamilies A(1), A(2), and A(3) are 3 branches of the same original family.
+
+n
+t  iktk expk,
+k1
+where ik is the incidence in the kth age band of length tk (U.K. population data) and k  ln(RR) in the kth age band.
+The cumulative risk F(t) is then given by the equation F(t)  1  exp[(t)].
+Ninety-five percent confidence intervals (95% CIs) for the penetrance estimates were generated by Monte Carlo simulation using the AtRisk program (Palisade Corporation). The simulation was carried out over 10,000 iterations using the model parameters with associated standard errors and the correlation matrix of the parameters estimated by MENDEL.
+Results
+A summary of the 11 families used in this analysis is shown in Table 1. The families included data on 476 individuals (241 male, 235 female). Of these there were 80 cases of gastric cancer (38 male, 42 female) with an average age of diagnosis of 40 (range, 14 ­ 85) years. Age of diagnosis tended to be slightly earlier in women (mean, 39 years) than in men (mean, 42 years). Confirmation of gastric cancers from pathology records was available for 46 patients. Of these, 44 were diffuse-type gastric cancers, and the other 2 were unspecified carcinomas. Seven cases of breast cancer were diagnosed among the women, with a mean age of diagnosis of 53 (range, 39 ­ 64) years. Histopathology data were available for 4 of the breast cancers: 2 were lobular adenocarcinomas, and the other 2 were unspecified adenocarcinoma. Five individuals were reported with diagnoses of colorectal cancer, and 9 other cancers were reported in these families.
+
+Penetrance model parameter estimates are shown in Table 2. The estimated cumulative risk of gastric cancer by age 80 years was 67% for men (95% CI, 39 ­99) and 83% for women (95% CI, 58 ­99; Table 3). For women, the cumulative risk of breast cancer was 39% (95% CI, 12­ 84; Table 3). The combined risk of gastric cancer or breast cancer in women was 90% by age 80 years. The associated penetrance curves with 95% and 50% CIs are shown in Figure 1.
+Discussion
+This study confirms that carriers of a germline mutation in CDH1 have a high lifetime risk of developing gastric cancer but that the risk is less than 100%. Huntsman et al.18 reported superficial infiltrates of malignant signet-ring cells identified in all surgical samples from 5 CDH1 mutation carriers who underwent prophylactic gastrectomy. These early diffuse gastric cancers were multifocal in 3 of 5 cases, and in 1 case infiltrates of malignant signet-ring cells were present in 65 of 140
+
+Table 2. Penetrance Model Parameter Estimates
+
+Male
+
+Female
+
+Age group (yr)
+Gastric cancer 10­29 30­44 45­59 60­79
+Breast cancer 20­79
+
+Loge(RR)
+7.37 6.14 4.88 3.14
+
+SE
+0.99 0.71 0.73 0.95
+
+RR
+1580 460 130 23
+
+Loge(RR)
+8.00 8.10 6.16 4.46
+1.89
+
+SE
+1.00 0.43 0.59 1.05
+0.67
+
+RR
+2990 3280
+470 86
+6.6
+
+RR, relative risk in carriers compared with UK population incidence; SE, standard error of relative risk.
+
+December 2001
+
+CANCER RISKS IN CDH1 MUTATION CARRIERS 1351
+
+Table 3. Cumulative Risk (% and 95% CI) of Stomach and Breast Cancer in CDH1 Mutation Carriers
+
+Age (yr)
+
+Male stomach cancer
+
+Female stomach cancer
+
+Female breast cancer
+
+30 4 (1­26)
+
+4 (1­28)
+
+0 (0­1)
+
+40
+
+9 (3­34)
+
+21 (11­46)
+
+3 (1­9)
+
+50
+
+21 (10­54)
+
+46 (28­75)
+
+10 (3­31)
+
+60
+
+43 (22­85)
+
+64 (42­90)
+
+19 (5­53)
+
+70
+
+52 (30­91)
+
+71 (50­96)
+
+29 (9­71)
+
+80
+
+67 (39­99)
+
+83 (58­100)
+
+39 (12­84)
+
+tissue blocks. It is not known whether such lesions are present in all individuals with CDH1 mutations, but if they are, our data suggest that not all pathologic changes develop into clinically significant cancer.
+A potential problem in interpretation of the penetrance estimates based on multiple case families is that of ascertainment bias. We have attempted to correct for ascertainment bias in the analysis, but experience with other cancer susceptibility genes, such as the breast ovarian cancer susceptibility genes BRCA1 and BRCA2, suggests that penetrance estimates derived from multiple-case families21 tend to be higher than those derived from population-based studies,22­25 even when ascertain-
+
+ment has been accounted for in the analysis. These differences are not necessarily attributable to ascertainment bias but may be the result of modifier genes segregating in the multiple-case families or may be caused by gene­ environment interaction. Either way, the estimates presented here should be valid in the context of multiple-case families and thus will be applicable for genetic counseling in family members.
+The results of the penetrance model depend on the population frequency of CDH1 mutations. This is not known, but mutations are likely to be rare in the population, and we assumed the population frequency to be 0.1%. To determine the sensitivity of the penetrance model to this assumption, we re-estimated the penetrance for population carrier frequencies of 1% and 0.01%, and the cumulative risk estimates at age 80 years varied by no more than 1%.
+The families used in this study are from several countries, with different population incidence rates for gastric and breast cancer. For example, the age-standardized gastric cancer incidence in the United States is approximately half of that in New Zealand.26 For this analysis, we assume that the penetrance for CDH1 is the same for
+
+Figure 1. (A) Cumulative risk of gastric cancer in women. (B) Cumulative risk of gastric cancer in men. (C) Cumulative risk of breast cancer in women. (D) Combined risks of gastric and breast cancer in women. Broken line, 50% CI; solid line, 95% CI.
+
+1352 PHAROAH ET AL.
+
+GASTROENTEROLOGY Vol. 121, No. 6
+
+all families regardless of the background incidence, although the incidence in noncarriers was allowed to vary. This assumption may not be correct, particularly if there are interactions between genotype and the other risk factors that are responsible for the geographical variation in stomach cancer incidence. As the number of families from individual countries was small, we had insufficient power to detect small differences in penetrance between families. Nevertheless, analysis of the 3 largest families from different countries (A, G, and K) showed no large differences in carrier risks. A further consideration is the possibility that the stomach cancer risk may vary from family to family as a result of genetic heterogeneity between different CDH1 mutations or as a result of gene­ gene interactions. Insufficient data were available to explore these possibilities.
+Our results confirm that women with CDH1 mutations have a significant lifetime risk of breast cancer as well as diffuse gastric cancer. This risk should be free from the potential ascertainment bias associated with the gastric cancer risk estimates because the families were ascertained on the basis of gastric cancer alone. Nevertheless, the result should be interpreted cautiously, particularly in a clinical context. The penetrance estimate of 39% by age 80 years is a cumulative risk in the absence of other causes of cancer/mortality. The cumulative risk represents the risk of developing LBC by a given age if the individual survives to that age. However, the gastric cancer penetrance is much higher, and a mutation carrier is more likely to develop gastric cancer before breast cancer. When the 2 cancer risks are combined, the risk of gastric cancer by age 80 years is 72% and that of breast cancer is 16% (Figure 1D). In other words, a female mutation carrier is almost 5 times more likely to develop gastric cancer than breast cancer. Indeed, in women in the families studied, there were 42 gastric cancers and 7 breast cancers. As with stomach cancer, the possibility of interfamily differences in breast cancer risk should be considered.
+There is increasing evidence of the value of prophylactic surgery in the prevention of gastric cancer.18,19 For individuals who choose surgery, a critical factor in determining the timing of surgery is the cumulative risk of cancer. Our data show that the cumulative risk of gastric cancer in CDH1 mutation carriers increases steadily from early adulthood. This information should be useful for genetic counseling in multiple-case families, but the limitations of the data should be considered when they are used to aid in clinical decision making. However, they may not apply to individuals with a minimal family history, in whom the risks are likely to be lower, either
+
+because of risk variation between mutations or because modifying genes or other familial risk factors strongly influence penetrance.
+References
+1. Guilford P, Hopkins J, Harraway J, McLeod M, McLeod N, Harawira P, Taite H, Scoular R, Miller A, Reeve AE. E-cadherin germline mutations in familial gastric cancer. Nature 1998;392: 402­ 405.
+2. Gayther SA, Gorringe KL, Ramus SJ, Huntsman D, Roviello F, Grehan N, Machado JC, Pinto E, Seruca R, Halling K, MacLeod P, Powell SM, Jackson CE, Ponder BA, Caldas C. Identification of germ-line E-cadherin mutations in gastric cancer families of European origin. Cancer Res 1998;58:4086 ­ 4089.
+3. Richards FM, McKee SA, Rajpar MH, Cole TR, Evans DG, Jankowski JA, McKeown C, Sanders DS, Maher ER. Germline E-cadherin gene (CDH1) mutations predispose to familial gastric cancer and colorectal cancer. Hum Mol Genet 1999;8):607­ 610.
+4. Guilford PJ, Hopkins JB, Grady WM, Markowitz SD, Willis J, Lynch H, Rajput A, Wiesner GL, Lindor NM, Burgart LJ, Toro TT, Lee D, Limacher JM, Shaw DW, Findlay MP, Reeve AE. E-cadherin germline mutations define an inherited cancer syndrome dominated by diffuse gastric cancer. Hum Mutat 1999;14:249 ­255.
+5. Keller G, Vogelsang H, Becker I, Hutter J, Ott K, Candidus S, Grundei T, Becker KF, Mueller J, Siewert JR, Hofler H. Diffuse type gastric and lobular breast carcinoma in a familial gastric cancer patient with an E-cadherin germline mutation. Am J Pathol 1999; 155:337­342.
+6. Caldas C, Carneiro F, Lynch HT, Yokota J, Wiesner GL, Powell SP, Lewis FR, Huntsman DG, Pharoah PDP, Jankowski JA, MacLeod P, Vogelsgang H, Keller G, Park KGM, Richards FM, Maher ER, Gayther SA, Oliveira C, Grehan N, Wight D, Seruca R, Roviello F, Ponder BAJ, Jackson CE. Familial gastric cancer: overview and guidelines for management. J Med Genet 1999;36:873­ 880.
+7. Berx G, Becker KF, Hofler H, van Roy F. Mutations of the human E-cadherin (CDH1) gene. Hum Mutat 1998;12:226 ­237.
+8. Becker KF, Atkinson MJ, Reich U, Becker I, Nekarda H, Siewert JR, Hofler H. E-cadherin gene mutations provide clues to diffuse type gastric carcinomas. Cancer Res 1994;54:3845­3852.
+9. Berx G, Cleton-Jansen AM, Strumane K, de Leeuw WJ, Nollet F, van Roy F, Cornelisse C. E-cadherin is inactivated in a majority of invasive human lobular breast cancers by truncation mutations throughout its extracellular domain. Oncogene 1996;13:1919 ­ 1925.
+10. Handschuh G, Candidus S, Luber B, Reich U, Schott C, Oswald S, Becke H, Hutzler P, Birchmeier W, Hofler H, Becker KF. Tumourassociated E-cadherin mutations alter cellular morphology, decrease cellular adhesion and increase cellular motility. Oncogene 1999;18:4301­ 4312.
+11. Luber B, Candidus S, Handschuh G, Mentele E, Hutzler P, Feller S, Voss J, Hofler H, Becker KF. Tumor-derived mutated E-cadherin influences beta-catenin localization and increases susceptibility to actin cytoskeletal changes induced by pervanadate. Cell Adhes Commun 2000;7:391­ 408.
+12. Grady WM, Willis J, Guilford PJ, Dunbier AK, Toro TT, Lynch H, Wiesner G, Ferguson K, Eng C, Park JG, Kim SJ, Markowitz S. Methylation of the CDH1 promoter as the second genetic hit in hereditary diffuse gastric cancer. Nat Genet 2000;26:16 ­17.
+13. Tamura G, Yin J, Wang S, Fleisher AS, Zou T, Abraham JM, Kong D, Smolinski KN, Wilson KT, James SP, Silverberg SG, Nishizuka S, Terashima M, Motoyama T, Meltzer SJ. E-Cadherin gene promoter hypermethylation in primary human gastric carcinomas. J Natl Cancer Inst 2000;92:569 ­573.
+14. Berx G, Cleton Jansen AM, Nollet F, de Leeuw WJ, van de Vijver M, Cornelisse C, van Roy F. E-cadherin is a tumour/invasion
+
+December 2001
+
+CANCER RISKS IN CDH1 MUTATION CARRIERS 1353
+
+suppressor gene mutated in human lobular breast cancers. EMBO J 1995;14:6107­ 6115. 15. Huiping C, Sigurgeirsdottir JR, Jonasson JG, Eiriksdottir G, Johannsdottir JT, Egilsson V, Ingvarsson S. Chromosome alterations and E-cadherin gene mutations in human lobular breast cancer. Br J Cancer 1999;81:1103­1110. 16. Asgeirsson KS, Jonasson JG, Tryggvadottir L, Olafsdottir K, Sigurgeirsdottir JR, Ingvarsson S, Ogmundsdottir HM. Altered expression of E-cadherin in breast cancer: patterns, mechanisms and clinical significance. Eur J Cancer 2000;36:1098 ­1106. 17. Park JG, Yang HK, Kim WH, Caldas C, Yokota J, Guilford PJ. Report on the first meeting of the International Collaborative Group on Hereditary Gastric Cancer. J Natl Cancer Inst 2000;92: 1781­1782. 18. Huntsman DG, Carneiro F, Lewis FR, MacLeod PM, Hayashi A, Monaghan KG, Maung R, Seruca R, Jackson CE, Caldas C. Early gastric cancer in young, asymptomatic carriers of germ-line Ecadherin mutations. N Engl J Med 2001;344:1904 ­1909. 19. Weitzel JN, McCahill LE. The power of genetics to target surgical prevention. N Engl J Med 2001;344:1942­1944. 20. Lange K, Weeks D, Boehnke M. Programs for pedigree analysis: MENDEL, FISHER, and dGENE. Genet Epidemiol 1988;5:471­ 472. 21. Ford D, Easton DF, Stratton M, Narod S, Goldgar D, Devilee P, Bishop DT, Weber B, Lenoir G, Chang-Claude J, Sobol H, Teare MD, Struewing J, Arason A, Scherneck S, Peto J, Rebbeck TR, Tonin P, Neuhausen S, Barkadottir R, Eyfjord J, Lynch H, Ponder BAJ, Gayhter SA, Birch JM, Lindblom A, Stoppa-Lyonnet D, Bignon Y, Borg A, Hamann U, Haites N, Scott RJ, Maugard CM, Vasen H, Seitz S, Cannon-Albright LA, Schofield A, Hedman MZ, Breast Cancer Linkage Consortium. Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. Am J Hum Genet 1998;62:676 ­ 689. 22. Struewing JP, Hartge P, Wacholder S, Baker SM, Berlin M, McAdams M, Timmerman MM, Brody LC, Tucker MA. The risk of cancer associated with specific mutations of BRCA1 and BRCA2 among Ashkenazi Jews. N Engl J Med 1997;336:1401­1408. 23. Thorlacius S, Struewing JP, Hartge P, Olafsdottir GH, Sigvaldason H, Tryggvadottir L, Wacholder S, Tulinius H, Eyfjord JE. Population-based study of risk of breast cancer in carriers of BRCA2 mutation. Lancet 1998;352:1337­1339. 24. Hopper JL, Southey MC, Dite GS, Jolley DJ, Giles GG, McCredie MR, Easton DF, Venter DJ, Australian Breast Cancer Family Study. Population-based estimate of the average age-specific cumulative risk of breast cancer for a defined set of proteintruncating mutations in BRCA1 and BRCA2. Cancer Epidemiol Biomarkers Prev 1999;8:741­747.
+
+25. Anglian Breast Cancer Study Group. Prevalence and penetrance
+of BRCA1 and BRCA2 in a population based series of breast
+cancer cases. Br J Cancer 2000;83:1301­1308.
+26. Parkin DM, Pisani P, Ferlay J. Estimates of the worldwide inci-
+dence of twenty-five major cancers in 1990. Int J Cancer 1999;
+80:827­ 841.
+Received May 22, 2001. Accepted August 17, 2001. Address requests for reprints to: Paul D. P. Pharoah, M.D., Ph.D., University of Cambridge, Strangeways Research Laboratories, Worts Causeway, Cambridge, CB18RN England. e-mail: paul.pharoah@srl. cam.ac.uk; fax: (44) 1223-411609. P.D.P.P. is a Cancer Research Campaign (CRC) Senior Clinical Research Fellow. P.H., M.M., and P.G. are funded by the Health Research Council of New Zealand. F.R. and E.M. are funded by the Birmingham Hospitals Endowment Research Fund and the British Digestive Foundation. Meetings of the IGCLC have been supported by grants from the Kathleen DuRoss Ford Foundation and the Bank of Siena. Contributing centers and principal investigators in the International Gastric Cancer Linkage Consortium (the number of families contributed by each center is shown in parentheses): Carlos Caldas and Paul Pharoah, Strangeways Research Laboratories and Department of Oncology, University of Cambridge, Cambridge, England (coordinating center); Tumi Toro and Parry Guilford, Cancer Genetics Laboratory, University of Otago, Dunedin, Aetearoa, New Zealand, and Maybelle McLeod and Pauline Harawira, Kimihauora Health and Research Clinic, Mt. Maunganui, New Zealand (1); Gisela Keller and Heinz Hofler, Institute of Pathology, and H. Vogelsang, Department of Surgery, Technische Universita¨t Mu¨nchen, Munich, Germany (1); Frances Richards and Eamonn Maher, Section of Medical and Molecular Genetics, University of Birmingham, Birmingham, England (2); Nicola Grehan and Carlos Caldas, Department of Oncology, University of Cambridge, Cambridge, England (1); Jean-Marc Limacher, Service d'Oncologie, Hopitaux Universitaires, Strasbourg, France (1); David Huntsman, British Columbia Cancer Agency, and Patrick MacLeod, Medical Genetics, Victoria General Hospital, Victoria, British Columbia, Canada (1); Charles E. Jackson, Henry Ford Hospital, Detroit, Michigan, (1); Georgia Wiesner, Department of Genetics, University Hospitals of Cleveland/ Case Western Reserve University, Cleveland, Ohio, (1); Cindy Hunter and Gail Vance, Department of Medical and Molecular Genetics, Indiana University, Indianapolis, Indiana (1); Anne E. Harty and Henry Lynch, Department of Medicine, Creighton University Medical School, Omaha, Nebraska (1); Noralane M. Lindor and Larry J. Burgart, Mayo Clinic, Rochester, Minnesota (1). The authors thank all families, clinicians, and pathologists who contributed to this study.
+
+

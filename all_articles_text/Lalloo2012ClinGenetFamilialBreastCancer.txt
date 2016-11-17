@@ -1,0 +1,347 @@
+Clin Genet 2012: 82: 105­114 Printed in Singapore. All rights reserved
+Review
+Familial breast cancer
+
+© 2012 John Wiley & Sons A/S
+CLINICAL GENETICS doi: 10.1111/j.1399-0004.2012.01859.x
+
+Lalloo F, Evans DG. Familial breast cancer. Clin Genet 2012: 82: 105­114. © John Wiley & Sons A/S, 2012 Since the localization and discovery of the first high-risk breast cancer (BC) genes in 1990, there has been a substantial progress in unravelling its familial component. Increasing numbers of women at risk of BC are coming forward requesting advice on their risk and what they can do about it. Three groups of genetic predisposition alleles have so far been identified with high-risk genes conferring 40­85% lifetime risk including BRCA1, BRCA2 and TP53. Moderate risk genes (20­40% risk) including PALB1, BRIP, ATM and CHEK2, and a host of low-risk common alleles identified largely through genome-wide association studies. Currently, only BRCA1, BRCA2 and TP53 are used in clinical practice on a wide scale, although testing of up to 50­100 gene loci may be possible in the future utilizing next-generation technology.
+Clinical Genetics Podcast
+A podcast of this article is available at: http://onlinelibrary.wiley.com/ journal/10.1111/(ISSN)1399-0004/homepage/clinical_genetics_podcasts. htm
+Conflict of interest
+The authors declare that there are no conflicts of interest.
+
+F Lalloo and DG Evans
+Genetic Medicine, The University of Manchester, Manchester Academic Health Science Centre, St Mary's Hospital, Central Manchester Hospitals Foundation Trust, Manchester M13 9WL, UK
+Key words: BRCA1 ­ BRCA2 ­ breast cancer ­ familial ­ TP53
+Corresponding author: Prof. Gareth Evans, Manchester Academic Health Science Centre, Genetic Medicine, St Mary's Hospital, Central Manchester Hospitals Foundation Trust, Manchester M13 9WL, UK. Tel.: +44 161 276 6206; fax: +44 161 276 6145; e-mail: gareth.evans@cmft.nhs.uk
+Received 19 December 2011, revised and accepted for publication 17 February 2012
+
+Breast cancer (BC) is the most common form of cancer affecting women. One in 9­12 women will develop BC in their lifetime in the developed world. There are a number of recognized risk factors for BC development including hormonal, both endogenous and exogenous, reproductive and obesity. However, the strongest factor is family history (FH). Individual risk increases with increasing number of relatives affected with BC and the decreasing age at which it was diagnosed.
+Whilst twin studies estimate that around 27% of BC is because of hereditary factors (1), only 5­10% of BC has a strong inherited component with only 4­5% being due to high penetrance genes transmitted in an autosomal dominant fashion (2­5). Rates of mutation in the best known high penetrance genes BRCA1 and BRCA2 vary across populations because of founder effects (6). A further proportion is caused by a number of moderate penetrance genes (7­10). At present, around 20 low penetrance genes have been identified (11) cumulatively; when all have been discovered, these may contribute a higher proportion of familial BC. These genes appear to interact, although this has yet to be completely elucidated (12).
+Individuals with an FH in the UK (and most of the developed world) are referred to FH clinics for an assessment of their BC risk. The FH clinics aim to
+
+provide a network of services from primary, through secondary and into tertiary care. The referral pathways depend upon the level of assessed risk according to the NICE guidelines for familial BC (13). The subsequent management options available to an individual woman including screening or prevention are then dependent on this level of assessed risk.
+Genetics of BC High penetrance genes
+In the last 17 years, advances in the genetics of BC have resulted in the cloning of BRCA1 and BRCA2 (2, 3). Whilst pathogenic mutations in these genes have high penetrance, they occur relatively rarely, with a combined frequency of about 0.4% (6, 14). Pathogenic mutations in BRCA1/BRCA2 are known to increase the risk of BC by 10- to 20-fold. Mutations in TP53 also give a high risk of BC, although the frequency of germline mutations is even lower.
+BRCA1
+In 1990, following international collaborative studies, BRCA1 was linked to chromosome 17q and was subsequently cloned in 1994 (2). About 1 in 500­1000
+105
+
+Lalloo and Evans
+
+61%
+
+8% 10%
+
+1%
+
+5%
+
+15%
+
+BRCA1 BRCA2 TP53 CHEK2/ATM GWAS BRIP/PALB other
+
+0%
+Fig. 1. Proportion of the familial component of breast cancer caused by known genes/low-risk alleles.
+individuals carry a pathogenic mutation in BRCA1 (15) (outside founder populations), which accounts for about 7­10% of familial BC (Fig. 1) (16).
+Pathogenic mutations in BRCA1 confer a lifetime risk of BC between 60% and 85%, with increased relative risks (RR) at younger ages (17­20). For example, the RR of BC between 30 and 39 years is 33, but decreases to 14 between 60 and 69 years (19).
+Pathogenic mutations also confer an increased lifetime risk of ovarian cancer of 40­60% (17­20). Ovarian risk is not as age-dependant. Women may also have increased risk of pancreatic malignancy (21). Men with BRCA1 mutations have an RR of cancer of 0.95% (21). The age at which BRCA1 mutation carriers are affected with both breast and ovarian cancer is substantially younger than the general population, approximately 3% risk of BC by 30 years (17).
+BRCA1 is a large gene with 24 exons: the largest exon 11. Mutations are found throughout the coding sequence of the gene, with the majority being frameshift mutations resulting in truncated proteins. Missense mutations account for approximately 2% of pathogenic mutations in BRCA1, but may be difficult to interpret or distinguish from polymorphisms. Between 15% and 27% of mutations may be due to large rearrangements, including large deletions (whole exon) and insertion/duplications (22). There does not appear to be any useful genotype­phenotype correlation clinically, although mutations in the 5 portion of the gene have been associated with a higher risk of ovarian cancer (21).
+Although hundreds of unique pathogenic BRCA1 mutations have been described, within certain populations particular mutations are more common (founder mutations). For example, within the Ashkenazi Jewish population, two mutations, c.68_69delAG and c.5266dupC (previously 185delAG/5382insC) occur in about 1.2% of the population. The c.5266dupC mutation is also found in other eastern European populations particularly in Poland (23). The identification of these founder mutations facilitates mutation population screening.
+The major role of BRCA1 appears to be DNA repair including homologous recombination and nucleotide excision repair (24). However, it also has a function in the regulation of cell-cycle progression in particular checkpoint control (24).
+106
+
+Clinical features of BRCA1
+BCs in women with BRCA1 mutations often exhibit different pathology to those of BRCA2 mutation carriers and non-familial BCs. These cancers have been noted to have an increased frequency of pushing margins, high degree of nuclear pleomorphism and mitotic frequency, suggestive of medullary carcinoma (25). Indeed atypical medullary BCs have been observed more frequently with BRCA1 mutations approximately 13% vs 3% in sporadic BCs. Breast malignancies in BRCA1 mutation carriers are also more likely to be steroid receptor and Her2-negative than sporadic cancers. Ductal carcinoma in situ (DCIS) is noted less frequently in BRCA1 mutation carriers. It has recently been noted (25) that BRCA1 cancers have a similar immunohistological profile to sporadic basal carcinomas (carcinomas expressing molecules normally seen in the basal/myoepithelial cells of the normal breast) and include positivity for CK5/6+/CK14+.
+The prognosis of BRCA1 associated BCs has been reported as both better and worse than sporadic tumours, although the association with ER tumours and basal carcinomas would support the hypothesis of worse prognosis.
+In addition to a high risk of a primary BC, women with BRCA1 mutations also have an increased contralateral risk with cumulative risk of 64% by 70 years (20).
+Ovarian tumours associated with BRCA1 mutations are usually high-grade serous epithelial carcinomas. Endometrioid and less frequently clear cell carcinomas have been reported, but mucinous and borderline tumours are not seen (26). Two granulosa cell tumours in BRCA1 mutation carriers have occurred (26). Primary peritoneal malignancies are also frequent.
+BRCA2
+BRCA2 mutations account for about 10% of families with breast and ovarian cancer with between 1 in 600 and 1 in 800 women having a pathogenic mutation in outbred populations (15, 27). Mutations in this gene confer a BC lifetime risk of around 40­85% (15­20). The range of risk is much higher in BRCA2 and the method of ascertainment from high-risk families or population studies clearly has an effect. This is demonstrated by the common Ashkenazi Jewish population mutation (6174delT) c.5946delT, which has much lower penetrance with some studies suggesting a lifetime risk of BC of approximately 30­40%. However, the literature is biased by ascertainment, and as such risks appropriate to individual families should be quoted (17). This should be based on closeness of BC FH, other known risk factors and possibly even assessment of common genetic variants (28). The BOADICEA model takes into account FH in assessing BC risk in BRCA2 carriers within a wide range (14).
+The ovarian risk associated with pathogenic mutations is up to 30% (17). There is more variability of risks associated with mutations in BRCA2, which suggests that this is a more modifiable gene. The RR
+
+of cholangiocarcinoma, melanoma, pancreatic (RR 4.1, 95% CI 1.9­7.8) and gastric cancers (RR 2.7, 95% CI 1.3­4.8) are also increased (29, 30).
+Male carriers of BRCA2 mutations have an increased risk of prostate cancer with lifetime risks of 14­20% along with an increased risk of male BC. The RR of male BC associated with a BRCA2 mutation is 80- to 100-fold with about 10% of male BCs being due to mutations in this gene (31) and 8­10% developing BC in their lifetime (32).
+As with BRCA1, BRCA2 is a large gene with 27 exons encoding a 3418 amino acid protein, with exon 11 being the largest. Mutations occur throughout the gene, again the majority being frameshifts. There are a large number of missense mutations found within BRCA2, but the pathogenicity of these may be difficult to establish. Large gene rearrangements also occur in BRCA2, but are less frequent than BRCA1, only 19/336 (6%) families in our service. An area within exon 11 called the ovarian cluster regions (OCR) flanked by nucleotides 3035­6629. Within the OCR, there is higher reported risk if ovarian cancer (33), although potentially a sampling anomaly as other investigators have not found an effect (17).
+BRCA2 is known to be involved in DNA repair. It facilitates homologous recombination and is involved with double-strand break repair (24). It interacts directly with RAD51 forming a complex and holding it in an inactive state. Cells that lack BRCA1 /BRCA2 are hypersensitive to DNA-damaging agents with resulting double-stranded breaks. These are then repaired by error-prone mechanisms such as non-homologous end joining, resulting in chromosomal rearrangements and instability. This chromosomal instability is a crucial feature of carcinogenesis.
+Biallelic mutations in BRCA2 have been shown to cause Fanconi anaemia (FANCD1), a condition causing developmental anomalies including short stature, microcephaly and radial ray abnormalities as well as predisposing to childhood solid tumours and haematological malignancies (34).
+Clinical features of BRCA2
+Specific BC pathology is not as characteristic with BRCA2 mutations as it is with BRCA1. The tumours appear to have less tubule differentiation and both increased and decreased mitotic rates compared with sporadic tumours have been reported. Lobular carcinoma has been reported more commonly with BRCA2 associated tumours than with BRCA1 associated tumours. DCIS is also more common in BRCA2.
+These tumours are more frequently ER+ than controls, although higher grade. Overall, BRCA2 tumours tend to have similar features to sporadic BCs unlike BRCA1 (35). Prognosis of BRCA2 related BC is similar to population BCs.
+Ovarian carcinomas associated with BRCA2 have similar features to those associated with BRCA1 mutations (36). Borderline and mucinous tumours are not part of the clinical picture. The prognosis of BRCA2
+
+Familial breast cancer associated ovarian cancers is better than the general population, probably due to a better response to platinum-based therapies (37).
+TP53
+TP53 was first identified in 1979 and now is known be the most frequently altered gene in human tumours. Somatic mutations in the TP53 gene are common in solid tumours. Inherited germline mutations are rare, but are known to result in Li-Fraumeni syndrome (LFS). LFS causes childhood tumours (typically soft tissue and osteosarcomas, gliomas and adrenocortical carcinoma) and very early onset BC (30% of female gene carriers have developed BC by 30 years of age). Over 70% of classical LFS families have inherited TP53 mutations. There is good in vitro evidence to suggest that patients with LFS have an abnormal response to low dose radiation with defective apoptosis. Recognition of this syndrome is important as these women should avoid radiotherapy if possible due to an increased risk of second primary malignancies.
+LFS only accounts for <0.1% of BC, but mutations in TP53 confer an 18- to 60-fold increased risk of BC <45 years compared to the general population.
+TP53 consists of 11 exons, with the core DNA binding domain being encoded by exons 4­8. TP53 is essential in cell-cycle control, resulting in either a delay in cell-cycle progression or apoptosis.
+Other potential high-risk genes
+A number of other rare syndromes have been associated with quoted high risk of 40­60% for BC. Mutations in PTEN that cause Cowden syndrome, STK11 that causes Peutz Jeghers syndrome and E-Cadherin (CDH1) that causes hereditary diffuse gastric cancer have all been associated with high risk of BC. There are, however, no comprehensive studies allowing for ascertainment bias that provide reliable risk estimates for BC in these conditions.
+Moderate penetrance genes
+There are four genes in which mutations have recently been identified associated with an RR of BC of twoto fourfold. These are rare genes with a population frequency of <0.6%. The phenotypes associated with these mutations have not been clearly delineated and therefore, the clinical utility of these genotypes has yet to be established.
+ATM
+Ataxia telangiectasia is an autosomal recessive condition due to homozygous mutations in ATM. Clinically this condition results in progressive cerebellar ataxia and oculomotor apraxia, conjunctival telangiectasia, immunodeficiency and increased risk of malignancy including BC.
+It had been suggested for several years that ATM heterozygotes have increased BC risk (38), although this
+107
+
+Lalloo and Evans has been controversial. However, recent studies (39) have confirmed an increased RR of BC of 2.23 (95% CI 1.16­4.28) in ATM heterozygotes. This RR increases <50 years. Mutations described in ATM include truncating mutations, splice site and missense mutations. ATM is a protein kinase involved in the response to double-stranded DNA breaks in a pathway that includes TP53, BRCA1 and CHEK2.
+It is difficult to assess the clinical utility of genetic testing for ATM at present. The penetrance of the gene is approximately 15% and estimating which mutation carriers will develop BC is not possible. However, these women may merit different approaches to treatment of BC due to the increased radiosensitivity associated with ATM mutations.
+CHEK2
+The checkpoint kinase gene CHEK2 encodes a protein that is a signalling component in the cellular response to DNA damage. It is involved in the same pathway as TP53 and BRCA1. CHEK2 is a tumour suppressor gene and somatic mutations have been identified in a number of malignancies. A particular germline mutation 1100delC has been shown to give an RR of BC of 2.34 (95% CI 1.72­3.2) (40). It is present in 0.2­1% of European populations and 4.2% of BC families, although the mutation frequency varies between populations. A number of other CHEK2 mutations have been reported in BC families, but the clinical significance of these is unclear.
+Carriers of 1100delC mutation have an increased risk of bilateral BC. Originally it was suggested that it may also contribute to male BC, but this has not been verified. There does not appear to be an increased risk of other malignancies with heterozygous CHEK2 mutations.
+A recent publication (41) has described families with homozygous CHEK2* 1100delC mutations. Women homozygous for the mutation have a much higher risk of BC ­ estimated to be sixfold. There also appears to be an increased risk of other malignancies within these families including colorectal cancer, although clearly further work needs to be undertaken.
+BRIP1
+BRIP1 encodes for a protein that was identified as a binding partner of BRCA1 and was therefore investigated as a BC predisposing gene. In 2006, truncating mutations were identified in BC families (8). Segregation analysis assessed an RR of BC of 2.0 (95% CI 1.2­3.2), although there are reports of higher risks in some families. There have been some suggestions that mutations in BRIP1 may also confer an increased ovarian cancer risk (42). Biallelic mutations of BRIP1 cause Fanconi anaemia complementation group J (FANC-J). The phenotype in FANC-J is different to that of biallelic mutations in BRCA2 and results in a much lower rate of childhood solid tumours. 108
+
+PALB2
+PALB2 (partner and localizer of BRCA2 ) encodes for a protein that interacts with BRCA2 during homologous recombination and double-strand break repair. Mutations in this gene were identified in BC families negative for mutations in BRCA1 /2. The RR of BC associated with PALB2 mutations is approximately 2.3 (95% CI 1.4­3.9) (9). A Finnish Founder mutation PALB2 is thought to result in a slightly higher RR of BC.
+Biallelic PALB2 mutations have been shown to cause FANC-N. This is similar to that caused by biallelic BRCA2 mutations. As with BRCA2, heterozygotes PALB2 mutations have been associated with an increased risk of pancreatic cancer (43).
+A summary of the high and moderate risk genes can be found in Table 1.
+Low penetrance BC genes
+A number of common alleles have now been identified to be associated with a slightly increased or decreased risk of BC and that these may work in a polygenic multiplicative model to account for the remainder of familial BC. Some of the single nucleotide polymorphisms (SNPs) identified are genes that have also been investigated as modifiers of BRCA1 and BRCA2. At the time of writing, 19 validated SNPs have been identified (Table 2 in Ref. 11). Antoniou and others (29, 44­46) have determined nine of the common BC SNPs (TOX3, FGFR2, MAP3K, LSP1, 2q35, SLC4A7, 1p11.2, 5p12 and 6q25.1) that confer increased risks for BC in BRCA2 mutation carriers (44, 46). Conversely, only TOX3, 2q35 and 6q25.1 polymorphisms showed increased risk for BRCA1 mutation carriers out of the genetic variants examined. This may reflect that most SNPs discovered thus far only increase the risk of estrogen receptor (ER) + BC. One recent study suggested that the use of just five SNPs in BRCA2 mutation carriers varied the lifetime risk of BC from 45% to 95% (28). A summary of low-risk alleles can be found in Table 2.
+Recently, mutations in two genes in the RAD51 group: RAD51C and RAD51D have been identified in breast/ovarian cancer kindreds, but not BC only families (47, 48). The initial report on RAD51C suggested that this was a high-risk gene for both breast and ovarian cancer, but more detailed analysis on both genes (48, 49) suggest that these are predominantly ovarian cancer susceptibility genes and the risk of BC is not clearly elevated. The risk associated with neurofibromatosis1 may also be moderately increased (50). The next phase of an estimated 20 extra SNPs has started with three more, published in 2012 (51).
+Diagnosis Referral criteria
+In 2004, NICE (National institute for clinical excellence) published guidelines for referral and management
+
+Familial breast cancer
+
+Table 1. High and moderate risk hereditary conditions predisposing to breast cancer
+
+Gene (inheritance)
+
+Other tumour % of susceptibility
+
+Population frequency
+(%)
+
+Proportion of breast Proportion of
+cancer (%) HPHBC (%)
+
+Proportion of familial
+breast cancer risk (%)
+
+Lifetime risk in women, % (RR)
+
+BRCA1 (AD) BRCA2 (AD)
+TP53 [LFS (AD)] PTEN [Cowden's
+syndrome (AD)] CHEK2 ATM (AD & AR)
+STK11 [Peutz-Jeghers (AD)]
+BRIP1 (AD & AR) PALB2 (AD & AR) E-Cadherin [CDH1
+(AD)] NF1 (AD)
+
+Ovary Ovary/prostate, pancreas
+[HoZ-Fanconi (AR)] Sarcoma, glioma, adrenal Thyroid, colorectal
+Colorectal, prostate Lymphoma, leukaemia
+[HoZ (AR)] Colorectal
+HoZ-Fanconi (AR) HoZ-Fanconi (AR) Hereditary diffuse gastric
+cancer Neurofibroma, glioma,
+MPNST
+
+0.1 0.1
+0.0025 0.0005
+0.5 0.5
+0.001
+0.1 0.1 0.005
+0.04
+
+1.5 1.5
+0.02 0.004
+0.5 0.5
+0.001
+0.1 0.1 0.01
+0.01
+
+40 40
+2 0.3
+0 0
+0.6
+0 0 0.2 ­ 1
+0
+
+5 ­ 10 5 ­ 10
+0.1 0.02
+2 2
+0.04
+0.4 0.4 0.1
+0.1
+
+60 ­ 85 40 ­ 85
+80 ­ 90 25 ­ 50
+18­20 (2.0) 20 (2.3)
+50
+20 (2.0) 20 (2.0) 40 ­ 60
+18
+
+AD, Autosomal dominant; AR, autosomal recessive; HeZ, heterozygous; HoZ, homozygous; HPHBC, highly penetrant hereditary breast cancer (e.g. >3 affected relatives); LFS, Li-Fraumeni syndrome; RR, relative risks.
+
+Table 2. Validated common low-risk susceptibility alleles identified through genome-wide association studies
+
+Gene
+
+References
+
+Locus
+
+SNP
+
+Relative risk
+
+FGFR2 TOX3/TNRC9 MRPS30 MAP3K1 CASP8 FAM84B LSP1 NEK10 COX11 TNP1/IGFBP5/IGFBP2/TNS1 NOTCH2 RAD51L1 MRPS30 ESR1 CDKN2a
+
+Easton et al. (52) Easton et al. (52) Stacey et al. (53) Easton et al. (52) Cox et al. (54) Easton et al. (52) Easton et al. (52) Ahmed et al. (55) Ahmed et al. (55) Milne et al. (56) Thomas et al. (57) Thomas et al. (57) Stacey et al. (58) Zheng et al. (59) Turnbull et al. (11) Turnbull et al. (11) Turnbull et al. (11) Turnbull et al. (11) Turnbull et al. (11)
+
+SNP, single-nucleotide polymorphism.
+
+10q26 16q12 2q35 5q11 2q33 8q24 11p15 3p24 17q23.2 2q35 1p11.2 14q24.1 5p12
+9q 10q 10q 10q 11q
+
+rs2981582 rs3803662 rs10941679 rs889312 rs1045485 rs1328165 rs3817198 rs4973768 rs6504950 rs13387042 rs11249433 rs999737 rs10941679 rs3757318 rs1011970 rs704010 rs10995190 rs2380205 rs614367
+
+1.26 (1.23­1.30) 1.11 (1.08­1.14) 1.11 (1.03­1.20) 1.13 (1.10­1.16) 0.89 (0.85­0.94) 1.08 (1.05­1.11) 1.07 (1.04­1.11) 1.11 (1.08­1.13) 0.95 (0.92­0.97) 1.12 (1.09­1.15) 1.16 (1.09­1.24) 0.94 (0.88­0.99)
+1.19 1.15 (1.08­1.22) 1.09 (1.04­1.14) 1.07 (1.03­1.11) 0.86 (0.82­0.91) 0.94 (0.91­0.98) 1.15 (1.10­1.20)
+
+of familial BC, which were subsequently updated in 2006 (13). These guidelines manage the referral pathway for women from primary to secondary through to tertiary care. The aim of the guidelines is for women to be stratified according to average, moderate and high risk of BC, with only those at high risk with a high probability of mutations in BRCA1 /2 being referred to the regional genetic services. Women at moderate risk should be assessed and managed in secondary care, ideally in association with breast units. Similar criteria exist in other European and North American countries.
+
+Risk assessment
+Broadly speaking a woman's risk of BC increases with increasing number of relatives with associated cancers and decreasing age at which those relatives were diagnosed.
+Important factors within the FH include
+(1) Young age at onset of the disease. (2) Bilateral disease. (3) Multiple cases on one side of the family.
+
+109
+
+Lalloo and Evans (4) Association of BC with other malignancies such as
+ovarian cancer or early onset prostate cancer in a male relative or early onset sarcoma. (5) Number and age of unaffected females. The most important tool for risk assessment is an accurate three generation pedigree. A paternal history is as important as a maternal history, especially considering that men are more likely to be nonpenetrant gene carriers. In a minority of families, the disease is clearly inherited in an autosomal dominant fashion. Risk assessment then becomes straight forward as it depends on the prior probability of inheriting the mutation and the penetrance of the gene. However, in the absence of a dominant FH, risk estimation is based on large epidemiological studies. These demonstrate a 1.5- to -3-fold increased risk with an FH of a single affected relative. There are different ways of utilizing these models, either using them manually to estimate risk or using computer programs that utilize epidemiological data. Some of the computer programmes also include the likelihood of detecting a BRCA1 /2 mutation within a given pedigree (60). The models in wide use for risk estimation include the Claus model (3), Gail model (61), BRCAPRO (62) and the Tyrer-Cuzick model (63). The Claus model is used mainly in the UK for manual risk estimation, whereas the other three are computerized. Currently, the only comparison of these models was carried out by Amir et al. (64). They assessed the accuracy of the different risk estimation models using data from 1933 women with an FH of BC in a screening programme. Fifty-two of these women developed a malignancy, which was detected during the screening programme. All models were applied to this group of women and the Tyrer-Cuzick model was the most consistently accurate in predicting BC risk. The other models significantly underestimated the risks. However, the Claus model can be modified by altering the risks according to hormonal factors (using the manual model of risk estimation). A further model is now in use called BOADICEA, although this has yet to be validated in the familial clinic setting (14).
+Genetic testing
+High-risk families should be referred to a regional genetics service to discuss the likelihood of developing a genetic test within a family. Predictive genetic testing (testing of unaffected at risk individuals) is only possible if a mutation has been identified within that family, usually using a sample of DNA from a person with a malignancy. In some countries, testing of unaffected relatives without first ascertaining a mutation in an affected family member is commonplace, but only has clinical utility in families with a very high a priori probability of a BRCA1/2 mutation (usually meaning multiple cases of breast and ovarian cancer). As such in most situations, a negative test should be 110
+
+considered `uninformative'. The exception to this is if the family is from a population with a high frequency of specific founder mutation(s) such as the Ashkenazi Jewish population. In this situation, a negative mutation screen is more useful than usual.
+The NICE guidelines state that mutation screening should be offered in families if there is 20% probability of detecting a BRCA1 /2 mutation, whereas in most other Western countries a 10% threshold is usual. There are several methods of determining the likelihood of detecting a BRCA1 /2 mutation within a given family. These include computer models including BOADICEA and BRCAPRO. The computer models require inputting of data into the computer and may take around 5­10 minutes per family. Myriad provide prevalence tables using family histories and data obtained from their clinical testing service. The Manchester scoring system is a tabulated scoring system that can be used easily in 1­2 min (65). Several studies have assessed the best predicting model in various populations (50), with conflicting results. Both the BOADICEA and Manchester Score incorporate information about pancreatic and prostate cancers into their systems unlike the other models. All these models could be improved by incorporating tumour pathology information (66). The new wave of next generation sequencing, which will cut both cost and time of testing, is likely to loosen the testing criteria.
+Once a mutation is known within a family, predictive genetic testing becomes available. This then allows the identification of mutation carriers with the potential for targeted screening and intervention. Patients undergoing predictive testing are seen in the regional genetics service at least twice so that they are fully informed about the cancer risk associated with mutations and the implications to themselves and the wider family. Some individuals feel that psychologically they are unable to cope with the information that they are at high risk of a malignancy and choose to remain at 50% risk availing themselves of screening and surgical options.
+Predictive genetic testing for BRCA1 /2 mutations is only offered to individuals over the age of consent.
+Management
+The NICE guidelines clearly delineate the management of women at increased risk into: (1) moderate risk ­ lifetime risk of 1 in 6 to 1 in 4 or
+10 year risk between 40 and 49 years of 3­7.99% (2) high risk ­ lifetime risk of 30% or 10 year risk
+of 8%. Moderate risk women should be managed in secondary care and high risk in tertiary care.
+Surveillance Mammography
+Currently, the most Western countries offer 2- to 3-yearly mammography for women in the general
+
+population between the ages of 50 and 73 years. Recently, both the US and Canada withdrew screening aged 40­49 years in the general population. Women with an increased risk of double the population risk or higher are eligible for screening on an annual basis in many countries from the age of 40 years.
+Mammography screening has come under great scrutiny in the last 2­3 years because falling BC mortality rates have been more attributed to improvements in treatment than mammography. Furthermore, overdiagnosis with cancers that may never present clinically may outweigh much of the benefit of screening. However, this is less of a problem when targeted at a higher risk population and mammography screening from 40 to 49 years has been shown in a large multicentre study to be effective in the familial setting (67) and may be effective at younger ages (68).
+Magnetic resonance imaging
+There have been a number of trials assessing the utility of magnetic resonance imaging (MRI) screening for women at increased risk of BC. In women with BRCA1 /2 mutations, mammography only detects about 40­50% of lesions due to a variety of factors including increased density of breast tissue in young women. MRI has greater sensitivity and, overall, the studies demonstrated that a combination of MRI and mammography detects 70­100% of malignancies in high-risk women (69­71). However, MRI does have limited sensitivity detecting DCIS, which may be an issue with BRCA2 mutation carriers. Availability of MRI varies across countries, but is generally available to BRCA1/2 mutation carriers and women at very high risk of BC from 30 to 50 years of age with some starting earlier at 25 years and finishing after 50 years.
+Whilst women who carry a BRCA1/2 mutation also have an increased risk of ovarian cancer, screening for ovarian cancer is not effective (72). All patients are therefore advised to undergo bilateral salpingooophorectomy (BSO) at the appropriate age.
+Prevention Risk-reducing mastectomy
+One of the options for women at high risk of BC is to consider risk reducing mastectomy as a prevention of BC. There is good evidence to suggest that this will give a risk reduction of 90% (73, 74), although prospective very long term follow-up of women with mutations undergoing surgery is not yet possible.
+None of the different surgical procedures will completely remove all breast tissue, and there will therefore always be a small residual risk of breast malignancy. The prime aim of surgery is to remove breast tissue with cosmesis as a secondary aim. Both of these issues need to be discussed with individual women prior to surgery, along with issues surrounding general surgical and anaesthetic risks.
+
+Familial breast cancer Whilst there have been few long-term studies on the psychological effects of surgery, most studies suggest significant benefit to women who choose this option compared to those that don't in terms of anxiety and cancer related worry (75). It is important that protocols including psychological support are in place for any women considering surgery. The Manchester protocol (76) includes two sessions with a geneticist to discuss issues around genetic testing and risk, a session with a psychiatrist/psychologist to discuss body image and then sessions with the surgeons to discuss the different surgical options. The aim of the protocol is to ensure that patients are fully informed and as prepared as possible for surgery. Uptake rates for Risk reducing mastectomy vary enormously and are dependant on country of origin (77) as well as being age, risk and time dependant (78).
+Risk-reducing oophorectomy
+The management of choice for ovarian risk in women with BRCA1 /2 mutations is risk reducing oophorectomy, once they have completed their family. The tissues at risk include the ovaries and the fallopian tubes and therefore patients should be offered BSO. This reduces the risk of ovarian cancer by 80­90% (79, 80) as well as decreasing the risk of BC by 50% if performed in <40­45 years old (81) women.
+Undergoing BSO at a young age will put women into the menopause at an early age. The early data regarding BSO in BRCA1 mutation carriers suggest that the protection against BC afforded by early surgery is irrespective of hormone replacement therapy (HRT) usage or the type used (79, 80). However, general population data suggest the risk of BC is lowest with oestrogen only HRT which can only be used following hysterectomy. Therefore, any discussion of risk reducing oophorectomy should include the risks and benefits of surgery, HRT and whether to include a hysterectomy. Women should be advised that at present the benefits of HRT prior to 50 years of age outweigh the risks in terms of reduction in endocrine symptoms, and osteoporosis (82) and the risk of heart disease.
+Other modifiable risk factors
+A number of other risk factors for BC are being further validated. Obesity diet and exercise are probably interlinked (83, 84). The evidence for specific diets is lacking.
+Chemoprevention
+Identification of a group of women at high risk provides the possibility of obtaining sufficient events (development of BC) to make prevention trials worthwhile. Four major trials of prevention with tamoxifen have now been published (85­87). Tamoxifen had already been shown to reduce the risk of contralateral BC in affected women and the large American NSABP trial was the first to show a reduction in risk of BC in asymptomatic
+111
+
+Lalloo and Evans women (at increased risk) by 40­50% (85). Tamoxifen is by and large well tolerated, although hot flushes and other menopausal symptoms are common and there are increased risks of thromboembolic events and endometrial cancer (85­87). The IBIS1 study showed a 30­40% reduction in BC risk, but a rise in all cause mortality (86). As a result, tamoxifen is not currently licensed for prevention in the UK and Europe, but does have a license in North America. Nevertheless, longer term follow saw a sustained reduction in BC risk to the 10-year point, but a drop in the adverse effects to normal after stopping 5 years treatment (87). A study comparing tamoxifen with raloxifene in America, the STAR trial showed no overall difference in prevention between the two drugs in early follow-up (88), but extended follow-up revealed an advantage for tamoxifen with a higher risk of BC with raloxifene RR 1.26. This was balanced by a higher rate of endometrial cancer and thromboembolic disease with tamoxifen (89). Finally, a recent trial has shown a 60% reduction of BC risk with the aromatase inhibitor exemestane in post-menopausal women (90). Thus, tamoxifen has now sufficient evidence to offer to pre-menopausal women at moderate or higher BC risk whilst women can be offered a choice of three drugs post-menopausally with advice on which may suit them best balancing the risks and benefits and tailoring to their personal BC risk and situation. Nevertheless, uptake of tamoxifen even when offered remains low with only 10­15% in Manchester starting treatment.
+Therapies
+Recently, the utility of genetic testing for BC predisposition to the oncologist treating the cancer in the index case has come sharply into focus with the advent of therapies such as the poly (ADP-ribose) polymerase (PARP) inhibitors (91). A number of phase II clinical trials are underway to investigate the therapeutic effects of PARP inhibitors in the treatment of cancer in BRCA1 and BRCA2 mutation carriers. PARP-1 is an enzyme that repairs single-strand DNA breaks by base-excision repair. Inhibition of PARP-1 leads to the formation of double-strand breaks as a consequence of the lack of ability to repair the single-strand break effectively. In BRCA1 and BRCA2 null cells, such double-strand breaks cannot be repaired and thus PARP inhibition leads to apoptosis of such cells (91). This led to the hypothesis that their use may be of benefit in women with BRCA1 /BRCA2 mutations who have tumours without BRCA1 or BRCA2 functional protein. Early results suggest efficacy in advanced breast and ovarian cancer in BRCA1/2 carriers (92), and potential in triple negative BC (93). However, reports of the possible failure of a large phase 3 study of inaparib may extend the time to potential licensing of these drugs.
+Acknowledgements The department of Genetic Medicine in Manchester is supported by the NIHR Manchester Biomedical Research Centre.
+112
+
+References
+1. Peto J, Mack TM. High constant incidence in twins and other relatives of women with breast cancer. Nat Genet 2000: 26 (4): 411­414.
+2. Claus EB, Risch N, Thompson WD. Genetic analysis of breast cancer in the cancer and steroid hormone study. Am J Hum Genet 1991: 48 (2): 232­242.
+3. Newman B, Austin MA, Lee M, King M. Inheritance of human breast cancer: evidence for autosomal dominant transmission in high-risk families. Proc Natl Acad Sci U S A 1988: 85: 3044­3048.
+4. Hall JM, Lee MK, Newman B et al. Linkage of early-onset familial breast cancer to chromosome 17q21. Science 1990: 250 (4988): 1684 ­ 1689.
+5. Miki Y, Swensen J, Shattuck-Eidens D et al. A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science 1994: 266 (5182): 66­71.
+6. Kurian AW. BRCA1 and BRCA2 mutations across race and ethnicity: distribution and clinical implications. Curr Opin Obstet Gynecol 2010: 22 (1): 72­78.
+7. Renwick A, Thompson D, Seal S et al. ATM mutations that cause ataxia-telangiectasia are breast cancer susceptibility alleles. Nat Genet 2006: 38 (8): 873­875.
+8. Seal S, Thompson D, Renwick A et al. Truncating mutations in the Fanconi anemia J gene BRIP1 are low-penetrance breast cancer susceptibility alleles. Nat Genet 2006: 38 (11): 1239­1241.
+9. Rahman N, Seal S, Thompson D et al. PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat Genet 2007: 39 (2): 165­167.
+10. Stratton MR, Rahman N. The emerging landscape of breast cancer susceptibility. Nat Genet 2008: 40 (1): 17­22.
+11. Turnbull C, Ahmed S, Morrison J et al. Genome-wide association study identifies five new breast cancer susceptibility loci. Nat Genet 2010: 42 (6): 504­507.
+12. Mealiffe ME, Stokowski RP, Rhees BK, Prentice RL, Pettinger M, Hinds DA. Assessment of clinical validity of a breast cancer risk model combining genetic and clinical information. J Natl Cancer Inst 2010: 102 (21): 1618­1627.
+13. McIntosh A, Shaw C, Evans G et al. 2004 Clinical guidelines and evidence review for the classification and care of women at risk of familial breast cancer. London: National Collaborating Centre for Primary Care/University of Sheffield (www.nice.org.uk/CG041, updated 2006).
+14. Antoniou AC, Cunningham AP, Peto J et al. The BOADICEA model of genetic susceptibility to breast and ovarian cancers: updates and extensions. Br J Cancer 2008: 45 (7): 425­431.
+15. Lalloo F, Varley J, Ellis D et al. Family history is predictive of pathogenic mutations in BRCA1, BRCA2 and TP53 with high penetrance in a population based study of very early onset breast cancer. Lancet 2003: 361: 1101­1102.
+16. Peto J, Collins N, Barfoot R et al. Prevalence of BRCA1 and BRCA2 gene mutations in patients with early-onset breast cancer. J Natl Cancer Inst 1999: 91 (11): 943­949.
+17. Evans DG, Shenton A, Woodward E, Lalloo F, Howell A, Maher ER. Penetrance estimates for BRCA1 and BRCA2 based on genetic testing in a Clinical Cancer Genetics service setting. BMC Cancer 2008: 8 (1): 155.
+18. Ford D, Easton DF, Stratton M et al. Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. The Breast Cancer Linkage Consortium. Am J Hum Genet 1998: 62 (3): 676­689.
+19. Chen S, Iversen ES, Friebel T et al. Characterization of BRCA1 and BRCA2 mutations in a large United States sample. J Clin Oncol 2006: 24 (6): 863­871.
+20. Antoniou A, Pharoah PDP, Narod S et al. Average risks of breast and ovarian cancer associated with mutations in BRCA1 or BRCA2 detected in case series unselected for family history: a combined analysis of 22 studies. Am J Hum Genet 2003: 72 (5): 1117­1130.
+21. Thompson D, Easton DF. Breast Cancer Linkage Consortium. Cancer Incidence in BRCA1 mutation carriers. J Natl Cancer Inst 2002: 94 (18): 1358­1365.
+22. Hogervorst FB, Nederlof PM, Gille JJ et al. Large genomic deletions and duplications in the BRCA1 gene identified by a novel quantitative method. Cancer Res 2003: 63 (7): 1449­1453.
+
+23. Hamel N, Feng BJ, Foretova L et al. On the origin and diffusion of BRCA1 c.5266dupC (5382insC) in European populations. Eur J Hum Genet 2011: 19 (3): 300­306.
+24. Roy R, Chun J, Powell SN. BRCA1 and BRCA2: different roles in a common pathway of genome protection. Nat Rev Cancer 2011: 12 (1): 68 ­ 78.
+25. Lakhani SR, Reis-Filho JS, Fulford L et al. Prediction of BRCA1 status in patients with breast cancer using estrogen receptor and basal phenotype. Clin Cancer Res 2005: 11 (14): 5175­5180.
+26. Evans DGR, Young K, Bulman M, Shenton A, Lalloo F. Mutation testing for BRCA1/2 in ovarian cancer families: use of histology to predict status. Clin Genet 2008: 73 (4): 338­345.
+27. Anglian Breast Cancer Study Group. Prevalence and penetrance of BRCA1 and BRCA2 mutations in a population-based series of breast cancer cases. Br J Cancer 2000: 83 (10): 1301­1308.
+28. Antoniou AC, Beesley J, McGuffog L et al. Common breast cancer susceptibility alleles and the risk of breast cancer for BRCA1 and BRCA2 mutation carriers: implications for risk prediction. Cancer Res 2010: 70 (23): 9742­9754.
+29. Moran A, O'Hara C, Khan S et al. Risk of cancer other than breast or ovarian cancer in individuals BRCA1 and BRCA2 mutations. Fam Cancer 2011. Epub.
+30. van Asperen CJ, Brohet RM, Meijers-Heijboer EJ et al. Cancer risks in BRCA2 families: estimates for sites other than breast and ovary. J Med Genet 2005: 42 (9): 711­719.
+31. Basham VM, Lipscombe JM, Ward JM et al. BRCA1 and BRCA2 mutations in a population-based study of male breast cancer. Breast Cancer Res 2002: 4 (1): R2.
+32. Evans DG, Susnerwala I, Dawson J, Woodward E, Maher ER, Lalloo F. Risk of breast cancer in male BRCA2 carriers. J Med Genet 2010: 47 (10): 710­711.
+33. Gayther SA, Mangion J, Russell P et al. Variation of risks of breast and ovarian cancer associated with different germline mutations of the BRCA2 gene. Nat Genet 1997: 15 (1): 103­105.
+34. Reid S, Renwick A, Seal S et al. Biallelic BRCA2 mutations are associated with multiple malignancies in childhood including familial Wilms tumour. J Med Genet 2005: 42 (2): 147­514.
+35. Lakhani SR, Jacquemier J, Sloane JP et al. Multifactorial analysis of differences between sporadic breast cancers and cancers involving BRCA1 and BRCA2 mutations. J Natl Cancer Inst 1998: 90 (15): 1138 ­ 1145.
+36. Lakhani SR, Manek S, Penault-Llorca F et al. Pathology of ovarian cancers in BRCA1 and BRCA2 carriers. Clin Cancer Res 2004: 10 (7): 2473­2481.
+37. Yang D, Khan S, Sun Y et al. Association of BRCA1 and BRCA2 mutations with survival, chemotherapy sensitivity, and gene mutator phenotype in patients with ovarian cancer. JAMA 2011: 306 (14): 1557 ­ 65.
+38. Swift ML, Reitnauer PJ, Morrell D, Chase CL. Breast and other cancers in families with ataxia telangectasia. N Engl J Med 1987: 316: 1289 ­ 1294.
+39. Thompson D, Duedal S, Kirner J et al. Cancer risks and mortality in heterozygous ATM mutation carriers. J Natl Cancer Inst 2005: 97 (11): 813 ­ 822.
+40. Meijers-Heijboer H, van den Ouweland A, Klijn J et al. Low penetrance breast cancer susceptibility due to CHK2 1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat Genet 2002: 31 (1): 55 ­ 59.
+41. Adank MA, Jonker MA, Kluijt I et al. CHEK2*1100delC homozygosity is associated with a high breast cancer risk in women. J Med Genet 2011: 48 (12): 860­863.
+42. Rafnar T, Gudbjartsson DF, Sulem P et al. Mutations in BRIP1 confer high risk of ovarian cancer. Nat Genet 2011: 43 (11): 1104­1107.
+43. Jones S, Hruban RH, Kamiyama M et al. Exomic sequencing identifies PALB2 as a pancreatic cancer susceptibility gene. Science 2009: 324 (5924): 217.
+44. Antoniou AC, Spurdle AB, Sinilnikova OM et al. Common breast cancer-predisposition alleles are associated with breast cancer risk in BRCA1 and BRCA2 mutation carriers. Am J Hum Genet 2008: 82 (4): 937 ­ 948.
+45. Chenevix-Trench G, Milne RL, Antoniou AC, Couch FJ, Easton DF, Goldgar DE. An international initiative to identify genetic modifiers of cancer risk in BRCA1 and BRCA2 mutation carriers: the Consortium of Investigators of Modifiers of BRCA1 and BRCA2 (CIMBA). Breast Cancer Res 2007: 9: 104.
+
+Familial breast cancer
+46. Antoniou AC, Kartsonaki C, Sinilnikova OM et al. Common alleles at 6q25.1 and 1p11.2 are associated with breast cancer risk for BRCA1 and BRCA2 mutation carriers. Hum Mol Genet 2011: 20 (16): 3304­3321.
+47. Meindl A, Hellebrand H, Wiek C et al. Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 2010: 42 (5): 410­414.
+48. Loveday C, Turnbull C, Ramsay E et al. Germline mutations in RAD51D confer susceptibility to ovarian cancer. Nat Genet 2011: 43 (9): 879­882.
+49. Pelttari LM, Heikkinen T, Thompson D et al. RAD51C is a susceptibility gene for ovarian cancer. Hum Mol Genet 2011: 20 (16): 3278­3288.
+50. Sharif S, Moran A, Huson SM et al. Women with Neurofibromatosis 1 (NF1) are at a moderately increased risk of developing breast cancer and should be considered for early screening. J Med Genet 2007: 44 (8): 481­484.
+51. Ghoussaini M, Fletcher O, Michailidou K et al. Genome-wide association analysis identifies three new breast cancer susceptibility loci. Nat Genet 2012.
+52. Easton DF, Pooley KA, Dunning AM et al. Genome-wide association study identifies novel breast cancer susceptibility loci. Nature 2007: 447 (7148): 1087­1093.
+53. Stacey SN, Manolescu A, Sulem P et al. Common variants on chromosomes 2q35 and 16q12 confer susceptibility to estrogen receptorpositive breast cancer. Nat Genet 2007: 39 (7): 865­869.
+54. Cox A, Dunning AM, Garcia-Closas M et al. A common coding variant in CASP8 is associated with breast cancer risk. Nat Genet 2007: 39 (3): 352­358.
+55. Ahmed S, Thomas G, Ghoussaini M et al. Newly discovered breast cancer susceptibility loci on 3p24 and 17q23.2. Nat Genet 2009: 41 (5): 585­590.
+56. Milne RL, Benítez J, Nevanlinna H et al. Risk of estrogen receptorpositive and ­ negative breast cancer and single-nucleotide polymorphism 2q35-rs13387042. J Natl Cancer Inst 2009: 101 (14): 1012 ­ 1018.
+57. Thomas G, Jacobs KB, Kraft P et al. A multistage genome-wide association study in breast cancer identifies two new risk alleles at 1p11.2 and 14q24.1 (RAD51L1). Nat Genet 2009: 41 (5): 579­584.
+58. Stacey SN, Manolescu A, Sulem P et al. Common variants on chromosome 5p12 confer susceptibility to estrogen receptor-positive breast cancer. Nat Genet 2008: 40 (6): 703­706.
+59. Zheng W, Long J, Gao YT et al. Genome-wide association study identifies a new breast cancer susceptibility locus at 6q25.1. Nat Genet 2009: 41 (3): 324­328.
+60. Amir E, Freedman OC, Seruga B, Evans DG. Assessing women at high risk of breast cancer: a review of risk assessment models. J Natl Cancer Inst 2010: 102 (10): 680­691.
+61. Gail MH, Brinton LA, Byar DP et al. Projecting individulized probabilities of developing breast cancer for white females who are being examined annually. J Natl Cancer Inst 1989: 81: 1879­1886.
+62. Parmigiani G, Berry DA, Aquilar O. Determining carrier probabilities for breast cancer susceptibility genes BRCA1 and BRCA2. Am J Hum Genet 1998: 62: 145­148.
+63. Tyrer J, Duffy SW, Cuzick J. A breast cancer prediction model incorporating familial and personal risk factors. Stat Med 2004: 23 (7): 1111­1130.
+64. Amir E, Evans DG, Shenton A et al. Evaluation of breast cancer risk assessment packages in the family history evaluation and screening programme. J Med Genet 2003: 40 (11): 807­814.
+65. Evans DGR, Eccles DM, Rahman N et al. A new scoring system for the chances of identifying a BRCA1/2 mutation, outperforms existing models including BRCAPRO. J Med Genet 2004: 41 (6): 474­480.
+66. Evans DG, Lalloo F, Cramer A et al. Addition of pathology and biomarker information significantly improves the performance of the Manchester scoring system for BRCA1 and BRCA2 testing. J Med Genet 2009: 46 (12): 811­817.
+67. FH01 Collaborative Teams. Mammographic surveillance in women younger than 50 years who have a family history of breast cancer: tumour characteristics and projected effect on mortality in the prospective, single-arm, FH01 study. Lancet Oncol 2010: 11: 1127­1134.
+68. Maurice A, Evans DG, Affen J, Greenhalgh R, Duffy SW, Howell A. Surveillance of women at increased risk of breast cancer using mammography and clinical breast examination: further evidence of benefit. Int J Cancer 2011: DOI: 10.1002/ijc.26394.
+69. Leach MO, Boggis CR, Dixon AK et al. Screening with magnetic resonance imaging and mammography of a UK population at high
+113
+
+Lalloo and Evans
+familial risk of breast cancer: a prospective multicentre cohort study (MARIBS). Lancet 2005: 365 (9473): 1769­1778. 70. Warner E, Plewes DB, Hill KA et al. Surveillance of BRCA1 and BRCA2 mutation carriers with magnetic resonance imaging, ultrasound, mammography, and clinical breast examination. JAMA 2004: 292: 1317 ­ 1325. 71. Kriege M, Brekelmans CT, Boetes C et al. Efficacy of MRI and mammography for breast-cancer screening in women with a familial or genetic predisposition. N Engl J Med 2004: 351 (5): 427­443. 72. Evans DG, Gaarenstroom KN, Stirling D et al. Screening for familial ovarian cancer: poor survival of BRCA1/2 related cancers. J Med Genet 2009: 46 (9): 593­597. 73. Hartmann LC, Schaid DJ, Woods JE et al. Efficacy of bilateral prophylactic mastectomy in women with a family history of breast cancer. New Engl J Med 1999: 340: 77­84. 74. Evans DGR, Baildam AD, Anderson E et al. Risk reducing mastectomy: outcomes in 10 European centres. J Med Genet 2009: 46 (4): 254 ­ 258. 75. Hatcher MB, Falowfield L, A'Hern B. The psychosocial impact of bilateral prophylactic mastectomy: prospective study using questionnaires and semistructured interviews. Brit Med J 2001: 322: 1­7. 76. Lalloo F, Baildam A, Brain A, Hopwood P, Howell A, Evans DGR. Preventative mastectomy for women at high risk of breast cancer. Eur J Surg Oncol 2000: 26: 711­713. 77. Metcalfe KA, Birenbaum-Carmeli D, Lubinski J et al. International variation in rates of uptake of preventive options in BRCA1 and BRCA2 mutation carriers. Int J Cancer 2008: 122 (9): 2017­2022. 78. Evans DG, Lalloo F, Ashcroft L et al. Uptake of risk reducing surgery in unaffected women at high risk of breast and ovarian cancer is risk, age and time dependent. Cancer Epidemiol Biomarkers Prev 2009: 18 (8): 2318­2324. 79. Rebbeck TR, Lynch HT, Neuhausen SL et al. Reduction in cancer risk after bilateral prophylactic oophorectomy in BRCA1 and BRCA2 mutation carriers. N Engl J Med 2002: 346: 1616­1622. 80. Rebbeck TR, Kauff ND, Domchek SM. Meta-analysis of risk reduction estimates associated with risk-reducing salpingo-oophorectomy in BRCA1 or BRCA2 mutation carriers. J Natl Cancer Inst 2009: 101 (2): 80­87. 81. Domchek SM, Friebel TM, Singer CF et al. Association of riskreducing surgery in BRCA1 or BRCA2 mutation carriers with cancer risk and mortality. JAMA 2010: 304 (9): 967­975.
+
+82. Challberg J, Ashcroft L, Lalloo F et al. Menopausal symptoms and bone health in women undertaking risk reducing bilateral salpingooophorectomy: significant bone health issues in those not taking HRT. Br J Cancer 2011: DOI: 10.1038/bjc.2011.202.
+83. Huang Z, Hankinson SE, Colditz GA et al. Dual effects of weight gain on breast cancer risk. JAMA 2000: 278: 1407­1411.
+84. Harvie M, Hooper, Howell A. Central obesity and breast cancer risk: a systematic review. Obes Rev 2003: 4 (3): 157­173.
+85. Fisher B, Constantino JP, Wickerham DL et al. Tamoxifen for prevention of breast cancer; report of the National Surgical Adjuvant Breast and Bowel Project PI study. J Natl Cancer Inst 1998: 90: 1371­1388.
+86. IBIS Working Party and Principal Investigators. First results from the International Breast Cancer Intervention Study (IBIS-1): a randomized prevention trial. Lancet 2002: 360: 817­824.
+87. Cuzick J, Forbes JF, Sestak I et al. Long-term results of tamoxifen prophylaxis for breast cancer­96-month follow-up of the randomized IBIS-I trial. J Natl Cancer Inst 2007: 99: 272­282.
+88. Vogel VG, Constantinoi JP, Wicherham DL et al. Effects of tamoxifen vs raloxifene on the risk of developing invasive breast cancer and other disease outcomes: the NSABP Study of Tamoxifen and Raloxifene (STAR) P-2 trial. JAMA 2006: 295 (23): 2727­2741.
+89. Vogel VG, Costantino JP, Wickerham DL et al. Update of the National Surgical Adjuvant Breast and Bowel Project Study of Tamoxifen and Raloxifene (STAR) P-2 Trial: preventing breast cancer. Cancer Prev Res (Phila). 2010: 3 (6): 696­706.
+90. Goss PE, Ingle JN, Ale´s-Martínez JE et al. Exemestane for breastcancer prevention in postmenopausal women. N Engl J Med 2011: 364 (25): 2381­2391.
+91. Farmer H, McCabe N, Lord CJ et al. Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy. Nature 2005: 434 (7035): 917­921.
+92. Gelmon KA, Tischkowitz M, Mackay H et al. Olaparib in patients with recurrent high-grade serous or poorly differentiated ovarian carcinoma or triple-negative breast cancer: a phase 2, multicentre, open-label, nonrandomised study. Lancet Oncol 2011: 12 (9): 852­861.
+93. O'Shaughnessy J, Osborne C, Pippen JE et al. Iniparib plus chemotherapy in metastatic triple-negative breast cancer. N Engl J Med 2011: 364 (3): 205­214.
+
+114
+
+

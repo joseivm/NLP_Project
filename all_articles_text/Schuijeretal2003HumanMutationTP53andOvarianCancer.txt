@@ -1,0 +1,302 @@
+HUMAN MUTATION 21:285^291 (2003)
+
+p53 REVIEW ARTICLE
+
+TP53 and Ovarian Cancer
+Monique Schuijer and Els M.J.J. Bernsn
+Erasmus MC, Department of Medical Oncology, Rotterdam, The Netherlands
+For the p53 Special Issue Ovarian cancer represents the fourth most frequent type of cancer among females and is the leading cause of death from gynecological cancer in the western world. This review describes gene alterations in ovarian cancer. Specific emphasis is placed on genetic alterations and the prevalence of TP53 (p53) gene alterations in the distinct biological ovarian tumors (benign, borderline, and malignant) and histological subtypes (serous, mucinous, endometrioid, clear cell), as well as in BRCA1-associated hereditary ovarian cancer. Although multi-modality treatment regimens, including cytoreductive surgery and cisplatincontaining combination chemotherapy, have usefully prolonged survival, the overall cure rate of the disease has not changed dramatically. Ovarian cancer is difficult to eradicate completely by surgery and many patients have only a partial response to postoperative chemotherapy and/or many will develop chemotherapy resistance. All these important factors contribute to the poor prognosis of ovarian cancer patients. In this review, the putative prognostic or predictive value of TP53 in ovarian cancer is addressed. Hum Mutat 21:285­291, 2003. r 2003 Wiley-Liss, Inc.
+KEY WORDS: cancer; ovarian cancer; TP53; histology; prognosis; BRCA1; DPH2L1; OVCA1; OVCA2; tumor suppressor
+DATABASES:
+TP53 ­ OMIM: 191170; GenBank: NM_000546 (mRNA) http://p53.curie.fr/ (p53 Web Site at Institut Curie) ww.iarc.fr/p53 (IARC p53 Mutation Database)
+
+INTRODUCTION: OVARIAN CANCER
+Ovarian cancer represents the fourth most frequent type of cancer among females and is the leading cause of death from gynecological cancer in the western world. The risk of developing ovarian cancer in a woman's lifetime is estimated to be 1 in 70. The incidence increases with age, reaching its peak in the eighth decade. Ovarian cancer has a high frequency of metastasis, yet generally remains localized within the peritoneal cavity. Because of the absence of early symptoms, approximately two-thirds of the patients will have disease that has already spread beyond the ovaries at the time of diagnosis. Extensive intraabdominal disease is difficult to eradicate completely by surgery. Moreover, many patients have only a partial response to postoperative chemotherapy and/or many will develop chemotherapy resistance. All these important factors contribute to the poor prognosis of ovarian cancer patients.
+The cause of ovarian cancer is unknown. One of the strongest risk factors found in epidemiologic studies is a positive family history of breast cancer [Amos and Struewing, 1993]. Environmental factors may play an important role in ovarian carcinogenesis,
+
+although clear associations with industrial exposure to carcinogens or to diagnostic and therapeutic radiation have not been established. Endocrine factors are thought to play an important role in the development of ovarian cancer [Rao and Slotman, 1991]. For example, the risk of ovarian cancer has been related to high levels of gonadotropins in women in early postmenopause [Rao and Slotman, 1991; Risch, 1998], to factors associated with excess androgenic stimulation of ovarian epithelial cells [Risch, 1998] and, although inconsistent, to exposure to fertility drugs or hormone replacement therapy [Venn et al., 1995; Risch, 1996; Weber, 1997; Garg et al., 1998; Burmeister and Healy, 1998; Venn et al., 1999; Rossing and Daling, 1999; Coughlin et al., 2000]. On the other hand, epidemiological studies have demonstrated that reproductive factors, i.e., (multi)parity and oral contraceptive use, are associated with
+nCorrespondence to: Els M.J.J. Berns Ph.D., Erasmus MC, Josephine Nefkens Institute, Room Be 424, P.O. Box 1738, 3000 DR Rotterdam,The Netherlands. E-mail:Berns@bidh.azr.nl
+DOI 10.1002/humu.10181 Published online in Wiley InterScience (www.interscience.wiley. com).
+
+r2003 WILEY-LISS, INC.
+
+286 SCHUIJER AND BERNS
+
+a decreased risk of ovarian cancer [Negri et al., 1991; Franceschi et al., 1991a, b]. These observations have led to the incessant ovulation hypothesis, where each ovulation causes a minor trauma to the ovarian surface epithelium by the formation of inclusion cysts [Fathalla, 1971, 1972]. Aberrations in the repair mechanism, in which wild-type TP53 (MIM# 191170) as the ``guardian of the genome'' [Lane, 1992] contributes directly and indirectly, might lead to unrestrained proliferation and neoplasia.
+Cancer of the ovary is a collection of diverse pathologic entities that can be broadly characterized as epithelial, germ cell, or stromal in origin. The common malignant epithelial tumors account for more than 90% of all ovarian cancers and are thought to arise from the surface epithelium of the ovary and its inclusion cysts [Woodruff, 1976; Scully, 1977]. These epithelial neoplasms can be divided into three biological subtypes: benign, low malignant potential (borderline), and malignant tumors and in becoming malignant, the ovarian surface epithelium can exhibit a variety of mullerian-type differentiations, i.e., (in order of decreasing frequency): serous, mucinous, endometrioid, and clear-cell tumors [Ozols et al., 1992].
+GENETIC ALTERATIONS IN OVARIAN CANCER
+It is widely accepted that the pathway leading to formation of a tumor is a multistep process involving the accumulation of genetic alterations and many
+
+oncogenes and tumor suppressor genes (TSG) have been discovered. Only few of these have been studied in (some) detail in ovarian cancer, but most studies have been small and inconclusive and often no mutations have been found in candidate TSGs. A summary of some of the most intensively studied or the most promising oncogenes and TSGs that may be involved in ovarian cancer is listed in Table 1. In general, TSG-studies have received far more attention than oncogene studies in ovarian cancer and much of the work has focused on identifying possible locations where TSG may reside in the genome rather than the actual study of known TSGs.
+As shown in Table 1, loss of heterozygosity (LOH) studies have indicated that chromosome 17 plays the most significant role in ovarian tumor development. On the short arm, LOH at 17p13.1 [Saretzki et al., 1997; Eccles et al., 1992; Foulkes et al., 1993; Godwin et al., 1994] as well as LOH at a more distal locus, 17p13.3 [Godwin et al., 1994; Phillips et al., 1993, 1996], has been observed in a high percentages of these tumors. Mutation of the p53 gene TP53, which maps to 17p13.1, is the most common genetic alteration thus far in ovarian cancer, with mutations being present in approximately 50% of advanced stage ovarian carcinomas (see next paragraph). With respect to chromosome 17p13.3, two candidate tumor suppressor genes have been reported: OVCA1 (MIM# and OVCA2 (see DPH2L1); MIM# 603527) [Schultz et al., 1996]. Expression of OVCA1
+
+TABLE 1. Putative Oncogenes andTumor Suppressor Genes Investigated in Ovarian Cancer
+
+Gene
+
+Chromosome location
+
+Function
+
+% altered
+
+Spectrum of mutations
+
+Oncogenes
+
+c-FMS
+
+5q33.3^q34
+
+CMYC
+
+8q24
+
+K-RAS
+
+12p12
+
+HER-2/neu
+
+17q21^q22
+
+AKT2
+
+19q13.1^q13.2
+
+Tumor suppressor genes
+
+FHIT
+
+3p14.2
+
+APC
+
+5q21
+
+CDKN2/MTS1 9p21
+
+PTEN WT1 ATM p27KIP1
+
+10q23.3 11p13 11q22^q23 12p13
+
+TEL RB1
+TP53
+OVCA1&2 NF1
+NM23
+BRCA1
+
+12p13 13q14
+17p13.1
+17p13.3 17q11.2
+17q21.3
+17q21
+
+Receptor-like tyrosine kinase Transcription factor Signal transduction Receptor-like tyrosine kinase Serine-threonine protein kinase
+
+57^100% 30% 4^30% 8^40% 10^15%
+
+Unknown Binds a- and b-catenin: involved in adhesion Cyclin-dependent kinase inhibitor Phosphatase Transcription factor Protein kinase Cyclin-dependent kinase inhibitor
+Transcription factor Cell cycle regulator
+
+4^8% Rare
+Rare
+Rare None None 30^50%
+None None Rare
+
+Cell cycle regulator; DNA repair and apoptosis Unknown Downregulates the active form of RAS Nucleoside diphosphate kinase
+Transcription factor
+
+50%
+? None
+Rare 70% Rare
+
+Overexpression Ampli¢cation, overexpression Simple (codon 12,13 and codon 61) Ampli¢cation, overexpression Ampli¢cation, overexpression
+Altered transcripts Multiple mutations
+Multiple mutations
+Multiple mutations Mutations Mutations Loss of expression
+Mutations Mutations Multiple mutations and loss of expression Multiple mutations and overexpression Loss of expression Mutation
+Mutation Enhanced expression Multiple mutations
+
+was shown to be reduced in ovarian tumor cell lines and in ovarian tumor tissues compared to normal ovarian tissues [Bruening et al., 1999]. Moreover, overexpression of OVCA1 in the ovarian cancer cell line A2780 was shown to suppress clonal outgrowth in a colony formation assay [Bruening et al., 1999]. Interestingly, hypermethylation at chromosome 17p13.3 has also been reported in approximately one-third of ovarian tumors and it was suggested that
+
+288 SCHUIJER AND BERNS
+
+TABLE 2.TP53 Mutations and/or Protein Accumulation in BRCA1-Associated OvarianTumors
+
+Referencea
+
+TP53 mutation
+
+TP53
+
+TP53
+
+and accumulation
+
+mutationb % accumulationc %
+
+combined
+
+%
+
+Remarks
+
+Crook et al. [1997]
+
+1/1
+
+Schlichtholz et al. [1998] 0/3
+
+Rhei et al. [1998]
+
+24/29
+
+83
+
+N.D.
+1/2 21/29
+
+72
+
+Ramus [2000] Schuijer [2000]
+Ravid et al. [2000]
+Buller [2001]
+
+18/30 7/7
+N.D.
+16/20
+
+60 100
+80
+
+21/30 N.D.
+17/27
+N.D
+
+70 63
+
+N.A. 1/2 28/29
+N.A. N.A. N.A. N.A
+
+Type of BRCA1 mutations not described TP53 exons 4^9 analyzed 97 TP53 exons 2^11 analyzed; 93% Ashkenazi Jewish BRCA1 founder mutations: 185delAG (76%), 5382insC (17%)d ^ TP53 exons 4^10 analyzed; Dutch BRCA1 founder mutations Only BRCA1 founder mutation 185delAG tested TP53 has di¡erent mutation spectrum
+
+aOnly those papers are listed that clearly de¢ne BRCA1 mutations. bA direct but rather tedious approach to examineTP53 dysfunction is mutation analysis of the gene.The majority ofTP53 mutations localize to
+the sequence-speci¢c DNA-binding region comprising exons 5^8, which often leads investigators to study only this part of the gene. A detailed
+database ofTP53 mutations in all human cancers including sporadic breast and ovarian cancers can be found on the website http://perso.cur-
+ie.fr/Thierry.soussi [Beroud and Soussi, 2003]. cA rapid and simple approach to study theTP53 gene is to examineTP53 protein expression. In its wild-type form,TP53 has a very short half-life.
+The majority ofTP53 mutations (approximately 80%) result in stabilization of the protein, which allows for immunological detection. dAlso referred to as 187delAG and 5385insC. A database of BRCA1 mutations can be found on www.nhgri.nih.gov/Intramural___research/
+Lab___transfer/bic/index.html; N.D., not determined; N.A., not applicable.
+
+cancer, TP53 gene alteration is infrequent in borderline ovarian tumors.
+Malignant tumors are characterized by infiltrative destructive growth. They often present as solid masses with areas of necrosis. These tumors are uncommon in younger women under age 35. Symptoms often present late, when the tumor has already spread beyond the ovary and seeded the peritoneum. The most important determinant of clinical outcome is the surgicopathologic stage at the initial time of diagnosis. The staging system defined by the International Federation of Gynecologic Oncologists [FIGO, 1971; Cannistra, 1993]. For patients with stage I disease survival rates have been reported over 90% [Young et al., 1990]. Patients with stage III disease, in which the disease has spread outside the pelvis into the abdominal cavities, have a 5-year survival rate of approximately 20% whereas patients with stage IV disease have a survival rate of o5% [Ozols et al., 1992; Makar et al., 1995]. The prevalence of TP53 gene alterations appears to raise with increasing stage. TP53 gene mutations occur more often in stage III and IV ovarian cancers when compared to stage I and II, i.e., in 58% versus 37% in stage III/IV and in stage I/II, respectively [as reviewed by Shelling et al., 1995; on 900 cases]. Moreover, as reviewed by Skilling et al. [1996] on 850 primary ovarian tumors, TP53 gene mutations or overexpression are more prevalent in serous primary ovarian cancers, i.e., in 58% and 59% of the cases, respectively. The percentage of TP53 gene mutations was reported to be lower for endometrioid, mucinous, and clear-cell ovarian tumors, i.e., 28%, 16%, and 10%, respectively, but slightly higher when using immunohistochemical
+
+techniques, i.e., 37% in the endometrioid and 31% in mucinous tumor types (the number for clear-cell tumors is too low).
+Hereditary ovarian cancer, which comprises approximately 10% of epithelial ovarian cancers, has been described in association with three autosomal dominant syndromes: hereditary breast and ovarian cancer (HBOC), hereditary site-specific ovarian cancer (HOC), and hereditary nonpolyposis colon cancer syndrome (HNPCC, MIM# 114500). In 80% of families with inherited breast and ovarian cancer and in nearly half of familial breast cancers, linkage to the BRCA1 gene exists. Data have shown that BRCA1 and TP53 physically associate and that BRCA1 enhances TP53-dependent gene expression by acting as a co-activator, whereas mutant forms of BRCA1 lacking the second BRCA1 C-terminal (BRCT) domain show reduced TP53-mediated transcriptional activation [Ouchi et al., 1998; Zhang et al., 1998]. The cooperative action of BRCA1 and TP53 is further strengthened by the observation that early embryonic lethality of brca1-deficient mice could be partially rescued by tp53 or p21 null mutations [Hakem et al., 1996]. Although there are few data available on TP53 in hereditary ovarian cancers, TP53 alterations indisputably occur more often in BRCA1associated ovarian tumors than in sporadic ovarian tumors, as summarized in Table 2.
+Several studies have shown that TP53 is also more frequently inactivated in BRCA1-associated breast tumors than in sporadic breast cancers [reviewed in Schuijer et al., 1999; and Gasco et al., this issue]. This implies that loss of TP53 function is a critical event in the molecular pathogenesis of BRCA1-associated
+
+TP53 AND OVARIAN CANCER
+
+289
+
+breast and ovarian tumors. Although the incidence of TP53 abnormalities in BRCA1-associated tumors is high (70­80%, Table 2), not all BRCA1-associated ovarian tumors seem to harbor a TP53 aberration. TP53 function may be eliminated through other mechanisms, such as hypermethylation or mutation of the TP53 promoter region or large chromosomal deletions involving the TP53 locus. Besides, we speculate that other genes, most likely involving the TP53 checkpoint mechanism, might be involved. Based on the hypothesis by Kinzler and Vogelstein [1997], we would like to propose a role for BRCA1 as a caretaker whereas TP53 appears to fit the gatekeeper class more explicitly in BRCA1-associated ovarian cancer.
+TP53 ALTERATIONS IN OVARIAN CANCER IN
+RELATION TO PROGNOSIS
+Although multimodality treatment regimens, including cytoreductive surgery and cisplatin-containing combination chemotherapy have usefully prolonged survival, the overall cure rate of the disease has not changed dramatically. The 5-year survival for patients with localized disease is approximately 80%, whereas only 20% of the patients diagnosed with disease that has spread outside the pelvis are alive after 5 years [Cannistra, 1993; Friedlander, 1998; Makar et al., 1995]. Interval debulking surgery has resulted in a slight improvement in survival rates for patients with advanced ovarian cancer [van der Burg et al., 1995] but survival rates are still poor. Current routinely used prognostic factors are mainly based on clinicopathological criteria, which are subject of inter- and intra-observer differences. Therefore, more quantitative approaches to identify new biologic factors associated with clinical prognostic significance may decrease the subjectivity frequently associated with prognostic factors. Numerous molecular genetic lesions have been identified, which may be useful for prognostic characterization of ovarian cancer patients. Although several genes involved in ovarian cancer have been identified, many more genes remain to be discovered and the clinical significance of the cancer genes already known is still in its infancy.
+TP53 is one of the most studied genes in relation to prognosis and prediction of response to (adjuvant) chemotherapy of ovarian cancer, with about 150 papers so far written (PubMed update 2002, keywords: TP53/p53; prognosis; ovarian cancer). These reports, on the relation between TP53 status and disease progression or survival, have appeared in the last 10 years, however, conflicting conclusions were reached on the prognostic value of TP53 in ovarian cancer. Although there seems to be a trend that TP53 status, as determined by immunohistochemical analysis and mainly in univariate analyses, might be of prognostic value, these data have to be interpreted with caution.
+
+The lack of unanimity between authors may be explained by: 1) differences in the techniques used for the analysis of TP53 status (for example, immunohistochemical analysis with different antibodies on frozen or paraffin-embedded tissues using different cutoff levels, ELISA, PCR-single-strand conformational polymorphism/constant denaturing gel electrophoresis analysis of primarily exons 5­8, or cDNA sequencing of the entire gene); 2) patient sample size; 3) biological and/or histological ovarian tumor subset analyses; 4) retrospective nature of the studies; 5) different treatments of the patient population; 6) different (modern) prognostic covariates used in the multivariate analyses; 7) the subjectivity inherent to some approaches; and 8) publication bias. Despite these uncertainties, a phase I trial of intraperitoneal delivery of ONYX-015, which allows selective replication in and lysis of p53-deficient tumor cells, in patients with recurrent epithelial ovarian cancer is ongoing [Vasey et al., 2002].
+REFERENCES
+Amos CI, Struewing JP. 1993. Genetic epidemiology of epithelial ovarian cancer. Cancer 71:566­572.
+Baekelandt M, Holm R, Trope CG. 1999. The significance of metastasis-related factors cathepsin-D and nm23 in advanced ovarian cancer. Ann Oncol 10:1335­1341.
+Berchuck A, Kohler MF, Hopkins MP, Humphrey PA, Rodrigues CJ, Sopper JP, Clarke DL, Bast RC. 1994. Overexpression of p53 is not a feature of benign and earlystage borderline epithelial ovarian tumors. Gynecol Oncol 52:232­236.
+Berchuck A, Heron KA, Carney ME. 1998. Frequency of germline and somatic BRCA1 mutations in ovarian cancer. Clin Cancer Res 4:2433­2437.
+Beroud C, Soussi T. 2003. The UMD-p53 database: new mutations and analysis tools. Hum Mutat 21:176­181.
+Bruening W, Prowse AH, Schultz DC. 1999. Expression of OVCA1, a candidate tumor suppressor, is reduced in tumors and inhibits growth of ovarian cancer cells. Cancer Res 59:4973­4983.
+Buller RE, Shahin MS, Geisler JP, Zogg M, De Young BR, Davis CS. 2002. Failure of BRCA1 dysfunction to alter ovarian cancer survival. Clin Cancer Res 8:1196­1202.
+Burmeister L, Healy DL. 1998. Ovarian cancer in infertility patients. Ann Med 30:525­528.
+Caduff RF, Svoboda-Newman SM, Ferguson AW. 1999. Comparison of mutations of Ki-RAS and p53 immunoreactivity in borderline and malignant epithelial ovarian tumors. Am J Surg Pathol 23:323­328.
+Cannistra SA. 1993. Cancer of the ovary. N Engl J Med 329:1550­1559.
+Cornelis RS, Neuhausen SL, Johansson O. 1995. High allele loss rates at 17q12-q21 in breast and ovarian tumors from BRCAl-linked families. The breast cancer linkage consortium. Genes Chromosomes Cancer 13:203­210.
+Coughlin SS, Giustozzi A, Smith SJ. 2000. A meta-analysis of estrogen replacement therapy and risk of epithelial ovarian cancer. J Clin Epidemiol 53:367­375.
+
+290 SCHUIJER AND BERNS
+
+Crook T, Crossland S, Crompton MR, Osin P, Gusterson BA. 1997. p53 mutations in BRCA1-associated familial breast cancer. Lancet 350:638­639.
+Easton DF, Ford D, Bishop DT. 1995. Breast and ovarian cancer incidence in BRCA1-mutation carriers. Breast cancer linkage consortium. Am J Hum Genet 56:265­271.
+Eccles DM, Brett L, Lessells A. 1992. Overexpression of the p53 protein and allele loss at 17p13 in ovarian carcinoma. Br J Cancer 65:40­44.
+Eltabbakh GH, Belinson JL, Kennedy AW. 1997. p53 and HER2/neu overexpression in ovarian borderline tumors. Gynecol Oncol 65:218­224.
+Enomoto T, Weghorst CM, Inoue M. 1991. K-ras activation occurs frequently in mucinous adenocarcinomas and rarely in other common epithelial tumors of the human ovary. Am J Pathol 139:777­785.
+Fathalla MF. 1971. Incessant ovulation: a factor in ovarian neoplasia? Lancet 2:163.
+Fathalla MF. 1972. Factors in the causation and incidence of ovarian cancer. Obstet Gynecol Surv 27:751­768.
+Ferguson AW, Flatow U, MacDonald NJ. 1996. Increased sensitivity to cisplatin by nm23-transfected tumor cell lines. Cancer Res 56:2931­2935.
+FIGO (International Federation of Gynecology and Obstetrics). 1971. Classification and staging of malignant tumors in the female pelvis. Acta Obstet Gynecol Scand 50:1­7.
+Foulkes WD, Black DM, Stamp GW. 1993. Very frequent loss of heterozygosity throughout chromosome 17 in sporadic ovarian carcinoma. Int J Cancer 54:220­225.
+Franceschi S, La Vecchia C, Booth M. 1991a. Pooled analysis of 3 European case-control studies of ovarian cancer: II. Age at menarche and at menopause. Int J Cancer 49:57­60.
+Franceschi S, Parazzini F, Negri E. 1991b. Pooled analysis of 3 European case-control studies of epithelial ovarian cancer: III. Oral contraceptive use. Int J Cancer 49:61­65.
+Friedlander ML. 1998. Prognostic factors in ovarian cancer. Semin Oncol 25:305­314.
+Garg PP, Kerlikowske K, Subak L. 1998. Hormone replacement therapy and the risk of epithelial ovarian carcinoma: a metaanalysis. Obstet Gynecol 92:472­479.
+Godwin AK, Vanderveer L, Schultz DC. 1994. A common region of deletion on chromosome 17q in both sporadic and familial epithelial ovarian tumors distal to BRCA1. Am J Hum Genet 55:666­677.
+Hakem R, de la Pompa JL, Sirard C. 1996. The tumor suppressor gene Brca1 is required for embryonic cellular proliferation in the mouse. Cell 85:1009­1023.
+Ichikawa Y, Nishida M, Suzuki H. 1994. Mutation of K-ras protooncogene is associated with histological subtypes in human mucinous ovarian tumors. Cancer Res 54: 33­35.
+Jacobs IJ, Smith SA, Wiseman RW. 1993. A deletion unit on chromosome 17q in epithelial ovarian tumors distal to the familial breast/ovarian cancer locus. Cancer Res 53:1218­ 1221.
+Kinzler KW, Vogelstein B. 1997. Cancer-susceptibility genes. Gatekeepers and caretakers. Nature 386:761, 763.
+Kupryjanczyk J, Bell DA, Yandell DW. 1994. p53 expression in ovarian borderline tumors and stage I carcinomas. Am J Clin Pathol 102:671­676.
+
+Kupryjanczyk J, Bell DA, Dimeo D. 1995. p53 gene analysis of ovarian borderline tumors and stage I carcinomas. Hum Pathol 26:387­392.
+Lane DP. 1992. Cancer. p53, guardian of the genome. Nature 358:15­16.
+Lee JH, Kang YS, Park SY. 1995. p53 mutation in epithelial ovarian carcinoma and borderline ovarian tumor. Cancer Genet Cytogenet 85:43­50.
+Makar AP, Baekelandt M, Trope CG. 1995. The prognostic significance of residual disease, FIGO substage, tumor histology, and grade in patients with FIGO stage III ovarian cancer. Gynecol Oncol 56:175­180.
+Merajver SD, Pham TM, Caduff RF. 1995. Somatic mutations in the BRCA1 gene in sporadic ovarian tumours. Nat Genet 9:439­443.
+Miki Y, Swensen J, Shattuck-Eidens D. 1994. A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science 266:66­71.
+Mok SC, Bell DA, Knapp RC. 1993. Mutation of K-ras protooncogene in human ovarian epithelial tumors of borderline malignancy. Cancer Res 53:1489­1492.
+Negri E, Franceschi S, Tzonou A. 1991. Pooled analysis of 3 European case-control studies: I. Reproductive factors and risk of epithelial ovarian cancer. Int J Cancer 49:50­56.
+Ouchi T, Monteiro AN, August A. 1998. BRCA1 regulates p53-dependent gene expression. Proc Natl Acad Sci USA 95:2302­2306.
+Ozols RF, Rubin SC, Dembo AJ. 1992. Epithelial ovarian cancer. In: Hoskins WJ, Perez CA, Young RC, editors. Principles and practice of gynecologic oncology. Philadelphia: J.B. Lippincott. p 731­781.
+Papp J, Csokay B, Bosze P. 1996. Allele loss from large regions of chromosome 17 is common only in certain histological subtypes of ovarian carcinomas. Br J Cancer 74:1592­1597.
+Phillips N, Ziegler M, Saha B. 1993. Allelic loss on chromosome 17 in human ovarian cancer. Int J Cancer 54:85­91.
+Phillips NJ, Ziegler MR, Radford DM. 1996. Allelic deletion on chromosome 17p13.3 in early ovarian cancer. Cancer Res 56:606­611.
+Pieretti M, Powell DE, Gallion HH. 1995a. Genetic alterations on chromosome 17 distinguish different types of epithelial ovarian tumors. Hum Pathol 26:393­397.
+Pieretti M, Powell DE, Gallion HH. 1995b. Hypermethylation at a chromosome 17 "hot spot" is a common event in ovarian cancer. Hum Pathol 26:398­401.
+Quezado MM, Moskaluk CA, Bryant B. 1999. Incidence of loss of heterozygosity at p53 and BRCA1 loci in serous surface carcinoma. Hum Pathol 30:203­207.
+Rao BR, Slotman BJ. 1991. Endocrine factors in common epithelial ovarian cancer. Endocr Rev 12:14­26.
+Ramus SJ, Bobrow LG, Pharoah PD, Finnijan DS, Fishman A, Allaran M, Harrington PA, Sayther SA, Ponder BA, Friedman LS. 1999. Increased frequency pf TP53 mutations in BRCA1 and BRCA2 ovarian tumors. Genes Chromosomes Cancer 25:91­96
+Ravid A, Barshach I, Hirsch-Yedezhel S, Suldbej, Bar-Sack AB, Chetrit A, Reden I, Ben-Baruch J, Sutlich W, Barschach I, Noplanic J. 2002. Immunochemical analyses of sporadic and familial ovarian cancer in Israel. Eur J Cancer 36:1120­ 1124.
+
+TP53 AND OVARIAN CANCER
+
+291
+
+Rhei E, Bogomolniy F, Federici MG, Maresco DL, Offit K, Robson ME, Saigo PE, Boyd J. 1998. Molecular genetic characterization of BRCA1- and BRCA2-linked hereditary ovarian cancers. Cancer Res 58:3193­3196.
+Risch HA. 1996. Estrogen replacement therapy and risk of epithelial ovarian cancer. Gynecol Oncol 63:254­257.
+Risch HA. 1998. Hormonal etiology of epithelial ovarian cancer, with a hypothesis concerning the role of androgens and progesterone. J Natl Cancer Inst 90:1774­1786.
+Rossing MA, Daling JR. 1999. Complexity of surveillance for cancer risk associated with in-vitro fertilisation. Lancet 354:1573­1574.
+Saretzki G, Hoffmann U, Rohlke P. 1997 Identification of allelic losses in benign, borderline, and invasive epithelial ovarian tumors and correlation with clinical outcome. Cancer 80:1241­1249.
+Schlichtholz B, Bouchind'homme B, Emmanuel Martin S, Magdelenat H, Sastre-Garau X, Stoppa-Lyonnet D, Soussi T. 1998. p53 mutations in BRCA1-associated familial breast cancer. Lancet 352, 622
+Schuijer M, Berns EMJJ. 1999. Is TP53 dysfunction required for BRCA1-associated carcinogenesis? Mol Cell Endocrinol 155:143­152.
+Schultz DC, Vanderveer L, Berman DB. 1996. Identification of two candidate tumor suppressor genes on chromosome 17p13.3. Cancer Res 56:1997­2002.
+Schuyer M, Henzen-Logmans SC, van der Burg ME, Fieret JH, Derksen C, Look MP, Meijer-van Gelder ME, Klijn JG, Foekens JA, Berns EM. 1999. Genetic alterations in ovarian borderline tumours and ovarian carcinomas. Eur J Obstet Gynecol Reprod Biol 82:147­150.
+Schuyer M, van der Burg ME, Henzen-Logmans SC. 2001. Reduced expression of BAX is associated with poor prognosis in patients with epithelial ovarian cancer. A multifactorial analysis of TP53, p21, BAX and BCL-2. Br J Cancer 85:1359­1367.
+Scully RE. 1977. Ovarian tumours: a review. Am J Pathol 87:686­720.
+Serov SF, Scully RE, Sobin LH. 1973. International histological classification and staging of tumors, histologic typing of ovarian tumors. Geneva: World Health Organization.
+Shelling AN, Cooke IE, Ganesan TS. 1995. The genetic analysis of ovarian cancer. Br J Cancer 72:521­527.
+Skilling JS, Sood A, Niemann T. 1996. An abundance of p53 null mutations in ovarian carcinoma. Oncogene 13: 117­123.
+Skomedal H, Kristensen GB, Abeler VM. 1997. TP53 protein accumulation and gene mutation in relation to overexpression of MDM2 protein in ovarian borderline tumours and stage I carcinomas. J Pathol 181:158­165.
+
+Takahashi H, Behbakht K, McGovern PE. 1995. Mutation analysis of the BRCA1 gene in ovarian cancers. Cancer Res 55:2998­3002.
+Tangir J, Muto MG, Berkowitz RS. 1996. A 400 kb novel deletion unit centromeric to the BRCA1 gene in sporadic epithelial ovarian cancer. Oncogene 12:735­740.
+Tavassoli M, Ruhrberg C, Beaumont V. 1993. Whole chromosome 17 loss in ovarian cancer. Genes Chromosomes Cancer 8:195­198.
+Teneriello MG, Ebina M, Linnoila RI. 1993. p53 and Ki-ras gene mutations in epithelial ovarian neoplasms. Cancer Res 53:3103­3108.
+Tong D, Stimpfl M, Reinthaller A. 1999. BRCA1 gene mutations in sporadic ovarian carcinomas: detection by PCR and reverse allele-specific oligonucleotide hybridization. Clin Chem 45:976­981.
+van der Burg ME, van Lent M, Buyse M. 1995. The effect of debulking surgery after induction chemotherapy on the prognosis in advanced epithelial ovarian cancer. Gynecological cancer cooperative group of the european organization for research and treatment of cancer. N Engl J Med 332: 629­634.
+Vasey PA, Shulman LN, Campos S, Davis J, Gore M, Johnston S, Kirn H, O'Neill V, Siddiqui N, Seiden MV, Kaye SB. 2002. Phase I trial of intraperitoneal injection of the 1B-55-kd-genedeleted adenovirus ONYX-015 (dl1520) given on days 1 through 5 every 3 weeks in patients with recurrent/refractory epithelial ovarian cancer. J Clin Oncol 20:1562­1569.
+Venn A, Watson L, Lumley J. 1995. Breast and ovarian cancer incidence after infertility and in vitro fertilisation. Lancet 346:995­1000.
+Venn A, Watson L, Bruinsma F. 1999. Risk of cancer after use of fertility drugs with in-vitro fertilisation. Lancet 354:1586­1590.
+Weber AM. 1997. Hormone replacement therapy as a risk factor for epithelial ovarian cancer: results of a case-control study. Obstet Gynecol 90:641­642.
+Wertheim I, Muto MG, Welch WR. 1994. p53 gene mutation in human borderline epithelial ovarian tumors. J Natl Cancer Inst 86:1549­1551.
+Wertheim I, Tangir J, Muto MG. 1996. Loss of heterozygosity of chromosome 17 in human borderline and invasive epithelial ovarian tumors. Oncogene 12:2147­2153.
+Woodruff JD. 1976. History of ovarian neplasia: facts and fancy. Obstet Gynecol Annual 5:331­344.
+Young RC, Walton LA, Ellenberg SS. 1990. Adjuvant therapy in stage I and stage II epithelial ovarian cancer. Results of two prospective randomized trials. N Engl J Med 322:1021­1027.
+Zhang H, Somasundaram K, Peng Y. 1998. BRCA1 physically associates with p53 and stimulates its transcriptional activity. Oncogene 16:1713­1721.
+
+

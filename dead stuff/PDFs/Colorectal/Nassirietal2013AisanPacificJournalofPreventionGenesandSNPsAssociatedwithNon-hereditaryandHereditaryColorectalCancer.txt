@@ -1,0 +1,351 @@
+MINI-REVIEW
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.10.5609 Genes and SNPs Associated with Non-hereditary and Hereditary Colorectal Cancer
+
+Genes and SNPsAssociated with Non-hereditary and Hereditary Colorectal Cancer
+
+Mohammadreza Nassiri1,2*, Mohammad Mahdi Kooshyar3, Zahra Roudbar1, Morteza Mahdavi1, Mohammad Doosti1
+Abstract
+ Background: Colorectal cancer is the third most common cancer in both men and women in the world and the second leading cause of cancer-related deaths. The incidence of colorectal cancer has increased in Iran in the past three decades and is now considered as a serious problem for our society. This cancer has two types hereditary and non-hereditary, 80% of cases being the latter. Considering that the relationship between SNPs with diseases is a concern, many researchers believed that they offer valuable markers for identifying genes responsible for susceptibility to common diseases. In some cases, they are direct causes of human disease. One SNP can increase risk of cancer, but when considering the rate of overlap and frequency of DNA repair pathways, it might be expected that SNP alone cannot affect the final result of cancer, although several SNPs together can exert a significant influence. Therefore identification of these SNPs is very important. The most important loci which include mutations are: MLH1, MSH2, PMS2, APC, MUTYH, SMAD7, STK11, XRCC3, DNMT1, MTHFR, Exo1, XRCC1 and VDR. Presence of SNPs in these genes decreases or increases risk of colorectal cancer. Materials and Methods: In this article we reviewed the Genes and SNPs associated with non-hereditary and hereditary of colorectal cancer that recently were reported from candidate gene y, meta-analysis and GWAS studies. Results: As with other cancers, colorectal cancer is associated with SNPs in gene loci. Generally, by exploring SNPs, it is feasible to predict the risk of developing colorectal cancer and thus establishing proper preventive measures. Conclusions: SNPs of genes associated with colorectal cancer can be used as a marker SNP panel as a potential tool for improving cancer diagnosis and treatment planning.
+Keywords: Colorectal cancer - hereditary genes - non-hereditary genes - SNPs
+
+Asian Pac J Cancer Prev, 14 (10), 5609-5614
+
+Introduction
+ Colorectal cancer is the third most common cancer in both men and women and the second most common cause of cancer-related deaths in the world (Brenner and Rosenberg, 2010). There are nearly one million new cases of diagnosed CRC and half a million deaths worldwide each year and its incidence has shown a growing process in the last century (Azadeh et al., 2008). CRC develops sporadically most frequently at an increasing rate in young patients (<50 years), although the highest prevalence still occurs in those aged 60-70 years (Berg and Soreide, 2011). Data which is available from CRC incidence showed a remarkable increase in past three decades in Iran. Thus, the importance of CRC as a public health problem is increasing in Iran (Moghimi-Dehkordi et al., 2008).   This cancer has two types,hereditary (familial) and non-hereditary (sporadic) forms, in which 80% of cases are as non-hereditary, while the remaining 20% have an inheritance pattern(Alvarado et al., 2006; Gopalan et al., 2010). Single nucleotide variations in genomic sequences
+
+are called SNPs The SNP is just a single base change in a DNA sequence, with a usual alternative of two possible nucleotides at a given position. Approximately, there are 10 million SNPs in the human genome and current estimates suggest that there is an average one common SNP in every 300 base pairs throughout the human genome. At least 5 million SNPs have been reported in SNP databases.  SNPs may fall within coding regions, non-coding regions or in intergenic regions (Vali et al., 2008). SNPs in gene coding regions can lead to changes in the biological properties of the encoded protein. In contrast, SNPs in noncoding gene regulatory regions may affect gene expression levels in an allele-specific manner and these functional SNPs represent an important but relatively unexplored class of genetic variation (Wang et al., 2004). Researchers believe that SNP map will help in finding effective genes in complex diseases such as cancer. Identification of SNPs' sequences which regulate gene expression is a key to understanding human genetic differences and diseases (Lam et al., 2001; Salajegheh et al., 2011). Recently, a
+
+1Department of Animal Science, 2Institute of Biotechnology, Ferdowsi University of Mashhad, 2Department of Hematology-Oncology, Mashhad University of Medical Sciences, Mashhad, Iran *For correspondence: nassiryr@um.ac.ir
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 5609
+
+Mohammadreza Nassiri et al
+
+lot of research on the gene expression and polymorphism causing various cancers has been done that indicates the importance of identifying SNPs in cancer (Smith et al., 2011). Given that no review article has been published about genes and SNPs associated with non-hereditary and hereditary of CRC, our studies on some genes associated with CRC and works that have been done by other researchers prompted us to here in review genes and SNPs associated with non-hereditary and hereditary of CRC.
+Genes Associated with Non-Hereditary Colorectal Cancer
+XRCC3 gene  X-ray repir cross-complementing protein 3 (XRCC3) gene is located on chromosome 14q32.3 and encodes a member of the RecA/Rad51 related protein family that is involved in the repair of DNA double strand breaks in the process of homologous recombination in order to maintain chromosome stability (http://www.ncbi.nlm.nih. gov/gene). Chromosomal instability and impaired cell viability have been correlated with mutations in XRCC3. The correlation with chromosomal instability indicates that this may be a good candidate for a tumor suppressor gene. The C18067T substitution in XRCC3 in exon 7 is a non-conservative change, but does not reside in the functional ATP-binding domains (Ladiges et al., 2003).  Jin et al. (2005) studied the relationship between XRCC3 polymorphism in position C18067T with the risk of CRC in a Chinese population and reported that the C18067T polymorphism in the homologous recombination repair gene XRCC3 may alter DNA repair capacity and subsequent susceptibility to carcinogens. The C18067T nucleotide substitution in exon 7 is the most frequent polymorphism in XRCC3, which may affect the coding enzyme's function and/or its interaction with other proteins involved in DNA repair. In their study, they used PCR-RFLP method for genotyping and reported that the genotypes are in Hardy-Weinberg equilibrium and are associated with the risk of CRC (Jin et al., 2005). A study was conducted to investigate the effect of genetic polymorphisms of DNA repair genes XRCC1 and XRCC3 and risk of CRC in Chinese population. This study was conducted with 485 cases and 970 controls and genotyping was performed using PCR-CTPP (Polymerase chain reaction with the confronting two pair primer) method and showed that allele C of XRCC3 gene is moderately associated with CRC risk and heavy cancer risk was found in rectum cancer (Zhao et al.,2012).
+DNMT1 gene  DNA Methyl-1 enzyme is called DNA Methyle Transfrase 1 gene (DNMT1 gene) in human. This gene is located on 19p13.2 chromosome with 61734 bp length and encodes a protein with 1616 amino acids. DNMT1 has a role in the establishment and regulation of tissue specific patterns of methylated cytosine residues. Aberrant methylation patterns are associated with certain human tumors and developmental abnormalities. Two transcript variants encoding different isoforms have been found for this gene (http://ghr.nlm.nih.gov/gene/DNMT1).
+
+ Kanai et al. (2003) investigated the mutation of DNMT1 1 gene in human CRC by PCR-SSCP analysis using 46 oligonucleotide primer sets for all 40 coding exons and the 50-flanking region (450 bp) of the DNMT1 gene in 29 CRC patients and showed that mutations in coding exons of the DNMT1 gene were detected in two (7%) of the 29 CRC cases. This mutation consisted of a one base deletion at position 2389 in exon 23 resulting in a premature stop codon at positions 2564-2566 and a point mutation (A to G) at position 4441 in exon 35 (Kanai et al., 2003). They suggested that mutational inactivation of the DNMT1 gene that potentially causes a genome-wide alteration of DNA methylation status may be a rare event during human carcinogenesis (Kanai et al., 2003). A study was performed to determine the relationship between SNPs (rs61750053' rs62621087' rs16999358' rs61750052' rs16666593 and rs2228613) in DNMT1 gene and CRC in patients who were referred to Taleghani hospital in Tehran. They observed that all investigated SNPs showed significant relationships with CRC, indicating that in all cases the chance of getting CRC in people with dominant genotypes was much higher than those with other genotypes. By identifying SNP sequence, it is feasible to predict the risk of catching CRC and thus establishing proper preventive measures (Alipour-Heidari et al., 2011).
+MTHFR gene  Methylenetetrahydrofolate reductase (MTHFR) is located on 1p36.3 and coding 5,10 methylenetetrahydrofolate reductase enzyme. This gene has important role in the relationship between construction cycle and DNA methylation. MTHFR is the key enzyme in the metabolism of folate, carrying out the irreversible conversion of 5,10methylenetetrahydrofolate to 5methyltetrahydrofolate that is the first substance required as a substrate for DNA synthesis while the second substance is involved in DNA methylation. MTHFR gene is a polymorphic gene; there are some variants of SNPs in this gene. A common SNP in MTHFR (C677T) is associated with decreased enzyme function in vitro and has been implicated in the risk of developing CRC (http://ghr.nlm.nih.gov/gene/MTHFR).  Haghighi et al. (2008) conducted a study to investigate the association between the G1793A MTHFR polymorphism and sporadic CRC in Iran. In this study, SNPs were identified using Pyrosequencing method and showed that the G1793A genotype of MTHFR gene is inversely associated with the risk of sporadic CRC in different populations. This means that people with GA genotype have a protective ability against sporadic CRC (Haghighi et al., 2008). Also, a case-control study was performed to evaluate the potential role of the methylenetetrahydrofolate reductase (MTHFR) C677T gene polymorphism in CRC and reported that the MTHFR 677TT genotype was significantly correlated with increased risk of CRC. This study suggests that the MTHFR C677T polymorphism indicates susceptibility to CRC and is correlated with CRC pathogenesis, suggesting that the homozygous variant MTHFR C677T polymorphism is a candidate risk factor for CRC (Yin et al., 2012).
+
+5610 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.10.5609 Genes and SNPs Associated with Non-hereditary and Hereditary Colorectal Cancer
+
+Exo1 gene  Exonuclease 1 (Exo1) gene is a candidate gene for colorectal tumor susceptibility. Exo1 gene is an important nuclease involved in the MMR system that contributes to the maintenance of genomic stability, modulation of DNA recombination and mediation of cell cycle arrest. Potential polymorphisms in Exo1 may alter cancer risks by influencing the repair activity of Exo1. The Exo1 gene is a member of the MMR system and also belongs to the RAD2 nuclease family. It is located at chromosome 1q42-q43 and contains one untranslated exon followed by 13 coding exons and encodes an 846-amino acid protein (Yamamoto et al., 2005). On the other hand, Exo1 is the only enzyme known to exist in the MMR system that helps to maintain genomic stability in human and which has both endonuclease and exonuclease activities (Tsai et al., 2009).  Haghighi et al. (2011) investigated the association between C>T polymorphism in Exo1 gene and risk of sporadic CRC in an Iranian population. This polymorphism is located on exon 13 and genotype analysis results showed that people with T/T genotype had less risk of CRC and gained a protective resistance against sporadic CRC, while C/T genotype did not reveal a significant association with CRC at the same status (Haghighi et al., 2011). In addition, despite other investigations, they could define a significant association between T allele and colorectal cancer (Haghighi et al., 2011).
+XRCC1 gene  Base excision repair (BER) is the predominant DNA damage repair pathway for the processing of small base lesions derived from oxidation and alteration damage. X-ray repair cross complementing group 1 (XRCC1) is one of the most important proteins in BER and is closely associated with BER pathway coordination by interacting with most components of the BER short patch pathway. The gene is mapped to chromosome 19q13.2-13.3 and consists of 17 exons. It encodes a 2.2 kb transcript which corresponds to a putative protein of 633 amino acids. The XRCC1 gene exhibits more than 300 SNPs, among which approximately 35 variants are located in the exons or the promoter regions of the gene. A growing number of reports on XRCC1 SNPs has been shown to be associated with measurable reduced DNA repair capacity and increased the risk of several types of cancers including colon cancer (Jelonek et al., 2010).  Rowyda et al. (2011) investigated the possible association of three single nucleotide polymorphisms C194T, G399A, and G280A, in XRCC1 gene with the risk of developing CRC in Saudi patients. To determine the polymorphic alleles, XRCC1 C194T, G280A and G399A PCR products were digested with MspI, RsaI and MspI enzymes respectively. The authors reported that the G280A polymorphism of XRCC1 DNA repair gene may contribute to genetic susceptibility to CRC and G399A may have a protective role in decreasing CRC risk and suggested that genetic polymorphisms in the XRCC1 gene (G280A and G399A) may play an important role in the development of CRC in the Saudi population (Rowyda et al., 2011).
+
+VDR gene  Vitamin D is a steroid hormone that its biological function is through the metabolite 1, 25 dihydroxy vitamin D3 active. VDR belongs to the nuclear hormone receptor superfamily and acts as a ligand inducible transcription factor. The vitamin D receptor (VDR gene) is a crucial mediator of the cellular effects of vitamin D and additionally interacts with other cell signaling pathways that influence cancer development (Kato, 2000). The gene encoding VDR is located on chromosome 12q13, contains 11 exons, spans approximately 75 kilobases of genomic DNA, and has an extensive promotor region capable of generating multiple tissue specific transcripts (http://www.ncbi.nlm.nih.gov/gene). Several single nucleotide polymorphisms have been identified that may influence cancer risk. The most frequently studied single nucleotide polymorphisms are the restriction fragment length polymorphisms ApaI, BsmI, FokI and BsmI, as defined by the endonucleases. The FokI restriction fragment length polymorphism is located in the coding region of the vitamin D receptor (VDR gene). The TaqI polymorphism is a T/C nucleotide substitution (ATT to ATC) leading to a synonymous change at codon 352 in exon IX. BsmI and ApaI restriction site polymorphisms occur in the intron separating exons VIII and IX. VDR gene has also been suggested as one of the candidate genes for genetic control of CRC and vitamin D receptor (VDR) gene variants have been variably associated with the risk of CRC in epidemiological studies (Uitterlinden et al., 2004; Ochs-Balcom et al., 2008).  Dilmec et al. (2009) studied the genotype and allele frequencies and association of the VDR gene BsmI G>A (rs1544410) polymorphism with CRC in Sanliurfa population. They are tested on 56 patients with CRC from anliurfa province, and controls were randomly selected from 169 healthy individuals from the same area. Their DNA was isolated from whole blood and scanned using PCR-RFLP to determine the frequencies of BsmI G>A polymorphism of VDR gene. Results showed that VDR gene BsmI G>A allele increased the risk for CRC. After studying the association of allele 61968C>T (rs731236) polymorphism in VDR gene and CRC (Dilmec et al 2009).
+Genes Associated with Hereditary Colorectal Cancer
+MLH1 gene  MutL homolog 1 (MLH1) is the key component of the MMR system which participates in the recognition of nucleotide mismatches occurring during DNA replication and in the recruitment of additional mismatch repair proteins to the site to correct the replication error. This gene has a length of 57375 kb with 19 exons that encodes a protein with 756 amino acids and is located on the short (p) arm of chromosome 3 at position 21.3 (Hampel et al., 2005). Three single nucleotide polymorphisms in this gene are of particular interest because of their prevalence and potential to affect mismatch repair functions. These SNPs are located in the MLH1 gene (intronic IVS14-19A>G SNP, -93G>A promoter SNP and I219V coding SNP) the intronic IVS14-19A>G SNP located 19 nucleotides
+
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 5611
+
+Mohammadreza Nassiri et al
+
+upstream from the exon 15 splice acceptor site. The MLH1 ­93G>A polymorphism is located in the core promoter region, 93 nucleotides upstream of the transcription start site in potential transcription factor binding sites (Lee et al., 2005). MLH1 -93G>A has been associated with several cancers, including hereditary colorectal cancer, lung and breast cancers. The MLH1 I219V polymorphism is located in exon 8 at nucleotide position 655 (with A and G alleles, A>G) (Yu et al., 2006).  Muniz-Mendoza et al. (2012) analyzed a possible association of MLH1 -93G>Aand 655A>G polymorphisms with CRC in Mexican patients. Genomic DNA samples were obtained from peripheral blood of 108 individuals with CRC (study group) at diagnosis and 120 blood donors (control group) from western Mexico. The polymorphisms were detected by PCR-RFLP and showed that MLH1 655A>G polymorphism in the 655G allele was associated with increased risk for CRC, while the MLH1 -93G>A polymorphism allele was associated with a protective effect. Thus, they found that MLH1 -93G>A and 655A>G polymorphisms are associated with CRC in Mexican patients (Muniz-Mendoza et al., 2012). Also researchers showed that MLH1-93G>A is a risk factor for MSI colorectal cancer. In order to evaluate the significance of rs1800734 on CRC risk, researchers genotyped 10409 CRC cases and 6965 controls and reported that the MLH1-93G>A polymorphism is a determinant of CRC risk. Moreover, its effect on CRC risk is confined to microsatellite instability-high (MSI-H) tumors, thus acting as a marker for a somatic event which defines this specific CRC subtype (Whiffin et al., 2011).  Mrkonjic et al. (2010) examined specific variants in the MLH1 gene region which may drive DNA methylation, loss of protein expression, and CRC. SNP (rs1800734) was detected using Taq man assay method and reported that there is an association between a mismatch repair gene, MLH1, promoter SNP (rs1800734) and CRC that MLH1 promoter methylation status resulting in loss of MLH1 protein and microsatellite instability. However, the important finding of this study was the identification of a genetic basis for DNA methylation susceptibility which indicated that genetic variants may play an indirect role in increasing the risk of MSI-H colorectal cancer (Mrkonjic et al., 2010).
+MSH2 gene  MutS homolog 2 (MSH2) is a gene commonly associated with hereditary CRC. This gene is located on chromosome 2p21. Components of the post replicative DNA MMR system forms two different heterodimers: MutS alpha (MSH2-MSH6 heterodimer) and MutS beta (MSH2-MSH3 heterodimer) which bind to DNA mismatches, thereby initiating DNA repair. MSH2 was identified as a locus frequently mutated in hereditary colorectal cancer. The MSH2 -118T>C polymorphism is located in the core promoter region, 118 nucleotides upstream of the transcription start site in a potential transcription factor binding site (Shin et al., 2002).  Mrkonjic et al. (2007) investigated whether promoter polymorphisms in DNA MMR genes MSH2 and MSH6 are associated with the risk of CRC. SNP (118T>C)
+
+was detected using the fluorogenic 5' nuclease assay. They observed strong associations between MSH2 118T>C polymorphism and family history of CRC. This association was especially evident among female CRC patients. It is possible that this SNP plays a role in the MSH2 response to sex hormones (Mrkonjic et al., 2007).
+PMS2 gene  This gene is one of the PMS2 gene family members which are found in clusters on chromosome 7. Postmeiotic segregation increased 2 (PMS2 gene) is located from 6,012,869 to 6,048,736 base pair on chromosome 7 that encodes a protein with 862 amino acids. The product of this gene is involved in DNA mismatch repair and forms a heterodimer with MLH1. This complex interacts with MSH2 bound to mismatched bases. Defects in this gene are associated with hereditary nonpolyposis colorectal cancer (http://www.ncbi.nlm.nih.gov/gene/5395). Hazra et al. (2008) performed a large scale evaluation of genetic variants in candidate genes for CRC risk in the nurses. They reported that PMS2 is a key gene in the MMR pathway. The PMS2-24G>C SNP (rs6463524) on exon7 was associated with an increased risk of CRC (Hazra et al., 2008).
+APC gene  This gene is a major gene that is involved in causing hereditary colorectal cancer. APC is classified as a tumor suppressor gene. Tumor suppressor genes prevent the uncontrolled growth of cells that may result in cancerous tumors. The protein made by the adenomatous polyposis coli (APC gene) plays a critical role in several cellular processes that determine whether a cell may develop into a tumor. The APC protein helps to control how often a cell divides, how it attaches to other cells within a tissue, or whether a cell moves within or away from a tissue. This protein also helps to ensure that the chromosome number of cells produced through cell division is correct (Narayan et al., 2007). The human APC gene is located on the long (q) arm of chromosome 5 between positions 21 and 22, from 112,118,468 to 112,209,532 base pair, contains 15 exons, and has a corresponding mRNA of approximately 10 kb (Ionescu et al., 2005). Chen et al. (2006) conducted a study to evaluate association between SNPs of the APC gene and CRC risk in a Taiwanese population. To compare the genotype distribution of variant sites, the fulllength APC genes of 74 healthy individuals and 80 CRC patients were sequenced with ABI3100 Genetic analyzer and 12 SNPs were identified. Of these variants, 8 SNPs were located within exon 15, 2 SNPs within exon11, 1 SNP within exon 9, and 1 SNP within exon 13. reported that only three of these SNPs (T139637C, G 152553A, T153342G) were associated with the increased risk of CRC (Chen et al., 2006).
+MUTYH gene  The mutY homolog (MUTYH gene) is located on the short (p) arm of chromosome 1 between positions 34.3 and 32.1, from 45,464,007 to 45,475,152 base pairs. This gene encodes a DNA glycosylase involved in oxidative DNA damage repair. The oxidized 8-hydroxyguanosine
+
+5612 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.10.5609 Genes and SNPs Associated with Non-hereditary and Hereditary Colorectal Cancer
+
+(8-oxo-G) has the ability to mispair with adenine, and STK11 consists of nine exons. STK11, a tumor suppressor
+
+results in G:C to T:A and A:T to C:G transversions gene which means it, helps to keep cells from growing and
+
+after replication. MUTYH enzyme is a member of the dividing too fast or in an uncontrolled way. In addition
+
+mammalian BER glycosylases that excise adenines to its role in regulating cell division, this enzyme helps
+
+misincorporated opposite to 8-oxo-G. The protein is certain types of cells to orient themselves correctly within
+
+localized to the nucleus and mitochondria. Mutations in tissues and assists in determining the amount of energy
+
+this gene result in a heritable predisposition to colon and use of a cell (Grahame, 2003).
+
+stomach cancers (Tsuzuki et al., 2007). Tao et al. (2008)  Martha et al. (2010) investigated genetic variations in
+
+studied the association between genetic polymorphisms of nine important genes which belong to metabolic signaling
+
+MUTYH gene and increased CRC risk. They investigated pathways and CRC risk including: mTOR, PTEN, STK11,
+
+four MUTYH SNPs, IVS1+11C>T, IVS6+35G>A, RPKAA1, PRKAG2, TSC1, TSC2, PI3K and Akt1. They
+
+IVS10-2A>G, and 972G>C, for association with increased reported that the rs741765 polymorphism in STK11 gene
+
+CRC risk in a population based series of 685 CRC patients is obtained by the replacement of G/A, and is associated
+
+and 778 control subjects from Kyushu, Japan. They with CRC (Martha et al., 2010).
+
+observed a statistically significant association between
+
+IVS1+11T and increased CRC risk. This polymorphism Conclusion
+occurs in the region between exon 1 and intron 1 of
+
+MUTYH gene. Also, to investigate the association of  SNPs in the MLH1, MSH2, PMS2, APC, MUTYH,
+
+MUTYH G 13638 C and APEX1 T6865G with CRC SMAD7, STK11, XRCC3, DNMT1, MTHFR, Exo1,
+
+and smoking in a Japanese population (Tao et al., 2008), XRCC1 and VDR genes have been associated with
+
+Kasahara et al. (2008) conducted a study. In this study the decreased or increased risk of CRC. Thus identification
+
+genetic polymorphisms of DNA repair enzymes MUTYH of SNPs is of major importance and of course SNPs of
+
+G 13638 C and APEX1 T6865G were determined using gene associated with hereditary CRC are suitable for
+
+PCR-RFLP and results showed that the MUTYH G 13638 screening CRC in progeny, and SNPs of gene associated
+
+C is strongly associated with CRC susceptibility. For this with nonhereditary CRC are used as an SNP marker
+
+reason, if this polymorphism is in people, there is the risk which is a potential tool for improving cancer diagnosis
+
+of CRC (Kasahara et al., 2008).
+
+and treatment planning. Recently, the cost and the time
+
+required for sequencing are reduced, and this provides
+
+SMAD7 gene
+
+a good opportunity for screening all genes associated
+
+ SMAD7 is a protein in human that is encoded by the with CRC risk, and because of the cost reduction in next
+
+SMAD7 gene. It belongs to the SMAD family of proteins, generation whole genome sequencing procedures may
+
+which belongs to the TGF superfamily of ligands. allow discovery of SNPs associated with CRC. Generally,
+
+SMAD7 is an inhibitory SMAD and a negative regulator by exploring people's SNPs, it is feasible to predict the risk
+
+of the TGF-b signaling pathway that promotes the anti of catching CRC and thus establishing proper preventive
+
+inflammatory effects of TGF-b signaling via binding to measures.
+
+TAB2 and TAB3 and inhibiting TAK1 (Hong et al., 2007).
+
+The mothers against decapentaplegic homolog 7 (SMAD7 References
+
+gene) is located on the long (q) arm of chromosome 18 at
+
+position 21.1, from 46,446,222 to 46,477,080 base pair. Although SMAD7 has been shown to induce hepatic metastasis in CRC, its role in cancer development, particularly CRC is not fully described. Variations in this gene are the causes of susceptibility to CRC. Two recent genome-wide association studies (GWAS) identified three common variants in SMAD7 (rs4464148, rs4939827 and
+
+Alipour-Heidari M, Alavimajd H, Hajizadeh E, Azam K, Zali MR (2011). Relationship between DNMT1 gene's SNPs and colorectal cancer at Taleghani Hospital in Tehran. JQUMS, 15, 7-12.
+Alvarado MD, Jensen EH, Yeatman TJ (2006). The potential role of gene expression in the management of primary and metastatic colorectal cancer. Cancer Control, 13, 27-31.
+Azadeh S, Moghimi-Dehkordi B, Fatem SR, et al (2008).
+
+rs12953717) that confer modest susceptibility to CRC
+
+Colorectal cancer in Iran: an epidemiological study. Asian
+
+(Tenesa et al., 2008).
+
+Pac J Cancer Prev, 9, 123-6.
+
+ Martha et al. (2010) evaluated SNPs in the SMAD7 gene, including rs4939827, rs12953717, and rs4464148, previously identified from GWAS in a large populationbased case-control study of the CRC. They observed that rs12953717 was associated with a statistically significant increased risk of CRC whereas the rs4939827 SNP was inversely associated with CRC (Martha et al., 2010).
+
+Berg M, Soreide K (2011). Genetic and Epigenetic Traits as Biomarkers in Colorectal Cancer. Int J Mol Sci, 12, 9426-39.
+Brenner BM, Rosenberg D (2010). High-throughput SNP/ CGH approaches for the analysis of genomic instability in colorectal cancer. Mutat Res, 693, 46-52.
+Chen SP, Tsai ST, Jao SW, et al (2006). Single nucleotide polymorphisms of the APC gene and colorectal cancer risk: a case-control study in Taiwan. BMC Cancer, 6, 83.
+
+STK11 gene
+
+Dilmec F, Akkafa F, Ozgonul A, Uzunkoy A (2009). VDR gene BsmIG>Apolymorphism and risk of colorectal cancer in
+
+ Serine/threonine protein kinase 11 (STK11) also known
+
+anliurfa province, Turkey. Turkiye Klinikleri J Med Sci,
+
+as liver kinase B1 (LKB1) or renal carcinoma antigen NY-
+
+29, 1386-91.
+
+REN-19 is a protein kinase that is encoded by STK11 gene and located on the short (p) arm of chromosome 19 at position 13.3, from 1,205,797 to 1,228,433 base pair.
+
+Gopalan V, Smith RA, Nassiri MR, et al (2010). GAEC1 and colorectal cancer: a study of the relationships between a novel oncogene and clinicopathologic features. Human Pathology, 41, 1009-15.
+
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 5613
+
+Mohammadreza Nassiri et al
+
+Grahame Hardie D (2003). The AMP-activated protein kinase cascade: the key sensor of cellular energy status. Endocrinology, 144, 5179-83.
+Haghighi MM, Mohebbi SR, Najjar Sadeghi R, et al (2008). Association between the 1793G>A MTHFR polymorphism and sporadic colorectal cancer in Iran. Asian Pac J Cancer Prev, 9, 659-62.
+Haghighi MM, Yaghoub TM, Irani SA, et al (2011). Association of C>T p757l polymorphism in EXO1 gene and risk of sporadic colorectal cancer in an Iranian population. Sci J Hamadan Univ Med Sci, 18, 45-9.
+Hampel H, Frankel WL, Martin E, et al (2005). Screening for the Lynch syndrome (hereditary nonpolyposis colorectal cancer. N Enql J Med, 352, 1851-60.
+Hazra A, Chanock S, Giovannucci E, et al (2008). Largescale evaluation of genetic variants in candidate genes for colorectal cancer risk in the nurses health study and the health professionals' follow-up study. Cancer Epidemiol Biomarkers Prev, 17, 311-9.
+Hong S, Lim S, Li Allen, et al (2007). Smad7 binds to the adaptors TAB2 and TAB3 to block recruitment of the kinase TAK1 to the adaptor TRAF2. Nature Immunology, 8, 504-13.
+Ionescu DN, Papachristou G, Schoen RE, et al (2005). Attenuated familial adenomatous polyposis: a case report with mixed features and review of genotype-phenotype correlation. Arch Pathol Lab Med, 129, 1401-4.
+Jelonek K, Gdowicz-Klosok A, Pietrowska M, et al (2010) Association between single- nucleotide polymorphisms of selected genes involved in the response to DNA damage and risk of colon, head and neck, and breast cancers in a Polish population. J Appl Genet, 51, 343-52.
+Jin MJ, Chen K, Song L, et al (2005). The association of the DNA repair gene XRCC3 Thr241Met polymorphism with susceptibility to colorectal cancer in a Chinese population. Cancer Genetics and Cytogenetics, 163, 38-43.
+Kanai Y, Ushijima S, Nakanishi Y, Sakamoto M, Hirohashi S (2003). Mutation of the DNA methyltransferase (DNMT) 1 gene in human colorectal cancers. Cancer Letters, 192, 75-82.
+Kasahra M, Osawa K, Yoshida K, et al (2008). Association of MUTYH Gln324His and APEX1 Asp148Glu with colorectal cancer and smoking in a Japanese population. J Exp Clin Cancer Res, 27, 49.
+Kato S (2000). The function of vitamin D receptor in vitamin D action. J Biochem, 127, 717-22.
+Ladiges W, Wiley J, MacAuley A (2003). Polymorphisms in the DNA repair gene XRCC1 and age-related disease. Mech Ageing Dev, 124, 27-32.
+Lam AK, Gopalana V, Nassiri MR (2001). Altered JS-2 expression in colorectal cancers and its clinical pathological relevance, Mol Oncol, 5, 475-81.
+Lee KM, Choi JY, Kang C, et al (2005). Genetic polymorphisms of selected DNA repair genes, estrogen and progesterone receptor status, and breast cancer risk. Clin Cancer Res, 11, 4620-6.
+Martha S, Herrick J, Curtin K, et al (2010). Increased risk of colon cancer associated with a genetic polymorphism of SMAD7. Cancer Res, 70, 1479-85.
+Martha S, Herrick J, Lundgreen AF, et al (2010). Genetic variation in a metabolic signaling pathway and colon and rectal cancer risk:mTOR, PTEN, STK11, RPKAA1, PRKAG2, TSC1, TSC2, PI3K and Akt1. Carcinogenesis, 31, 1604-11.
+Moghimi-Dehkordi B, Safaee A, Zali MR (2008). Prognostic factors in 1,138 Iranian colorectal cancer patients. Int J Colorectal Dis, 23, 683-8.
+Mrkonjic M, Raptis S, Green RC, et al (2007). MSH2­118T>C and MSH6-159C>T promoter polymorphisms and the risk of colorectal cancer. Carcinogenesis, 28, 2575-80.
+Mrkonjic M, Roslin NM, Greenwood CM, et al (2010). Specific variants in the MLH1 gene region may drive DNA methylation, loss of protein expression, and MSI-H colorectal cancer. PLoS ONE, 5, 13314.
+
+Muniz-Mendoza R, Ayala-Madrigal ML, Partida-Perez M, et
+
+al (2012). MLH1 and XRCC1 polymorphisms in Mexican
+
+patients with colorectal cancer. Genet Mol Res, 11, 2315-20.
+
+Narayan S, Roy D (2003). Role of APC and DNA mismatch repair
+
+genes in the development of colorectal cancers. Molecular
+
+Cancer, 2, 41.
+
+Ochs-Balcom HM, Cicek MS, Thompson CL, et al (2008).
+
+Association of vitamin D receptor gene variants, adiposity
+
+and colon cancer. Carcinogenesis, 29, 1788-93.
+
+Rowyda N, Wedam M (2011). Polymorphisms of the
+
+deoxyribonucleic acid (DNA) repair gene XRCC1 and risk of
+
+colon cancer in Saudi patients. Int J Med and Salajegheh A, Smith A, Kasem RA, et al (2011).
+
+MSiendglSecni,u3c,l2e8o2ti-d18e.00.0
+
+polymorphisms and mRNA expression of VEGF-A in
+
+papillary thyroid carcinoma: Potential markers for aggressive
+
+phenotypes. Eur J Surg Shin KH, Shin JH, Kim JH,
+
+Oncol, 37, 93-9. Park JG (2002).
+
+Mutational
+
+analysis75.0
+
+of promoters of mismatch repair genes hMSH2 and hMLH1
+
+in hereditary nonpolyposis colorectal cancer and early onset
+
+colorectal cancer line mutations in
+
+patients: identification of three promoter of the hMSH2 gene.
+
+Cnoavneclegr eRrmes-,50.0
+
+62, 2445.
+
+Smith RA, Salajegheh A, Weinstein S, Nassiri M, Lam AK
+
+(2011). Correlation between clinicopathological parameters in
+
+BpaRpAillFarymthuytarotiiodncaarcnidnotmhae25.0
+
+with particular reference to follicular variant. Hum Patho,
+
+l42, 500-6.
+
+Tao H, Shinmura K, Suzuki M, et al (2008). Association between genetic polymorphisms of the base excision repair gene
+
+0
+
+MUTYH and increased colorectal cancer risk in a Japanese
+
+population. Cancer Sci, 99, 355-60.
+
+Tenesa A, Farrington SM, Prendergast JD, et al (2008).
+
+Genome-wide association scan identifies a colorectal cancer
+
+susceptibility locus on 11q23 and replicates risk loci at 8q24
+
+and 18q21. Nat Genet, 40, 631-7.
+
+Tsai MH, Tseng HC, Liu CS (2009). Interaction of Exo1 genotypes
+
+and smoking habit in oral cancer in Taiwan. Oral Oncol, 45,
+
+90-4.
+
+Tsuzuki T, Nakatsu, Y, Nakabeppu Y (2007). Significance of
+
+error-avoiding mechanisms for oxidative DNA damage in
+
+carcinogenesis. Cancer Sci, 98, 465-70.
+
+Uitterlinden AG, Fang Y, van Meurs JB, van Leeuwen H, Pols HA
+
+(2004). Vitamin D receptor gene polymorphisms in relation
+
+to vitamin D related disease states. J Steroid Biochem Mol
+
+Biol, 891, 87-93.
+
+Vali U, Brandstrom M, Malin JM, Ellegren H (2008). Insertion-
+
+deletion polymorphisms (indels) as genetic markers in natural
+
+populations. BMC Genetics, 9, 8.
+
+Wang X, Tomso DJ, Liu X, (2004). Single nucleotide polymorphism
+
+in transcriptional regulatory regions and expression of
+
+environmentally responsive genes. Toxicol Appl Pharm, 207,
+
+84-90.
+
+Whiffin N, Broderick P, Lubbe Steven JL, et al (2011).
+
+MLH1-93G>A is a risk factor for MSI colorectal cancer.
+
+Carcinogenesis, 32, 1157-61.
+
+Yamamoto H, Hanafusa H, Ouchida M, et al (2005). Single
+
+nucleotide polymorphisms in the EXO1 gene and risk of
+
+colorectal cancer in a Japanese population. Carcinogenesis,
+
+26, 411-6.
+
+Yin G, Ming H, Zheng X, et al (2012). Methylenetetrahydrofolate
+
+reductase C677T gene polymorphism and colorectal cancer
+
+risk: a case-control study. Oncol Lett, 4, 365-9.
+
+Yu JH, Bigler J, Whitton J, Potter JD, Ulrich CM (2006). Mismatch
+
+repair polymorphisms and colorectal polyps: hMLH1-
+
+93G>A variant modifies risk associated with smoking. Am J
+
+Gastroenterol, 101, 1313-4.
+
+Zhao Y, Deng X, Wang Z, Wang Q, Liu Y (2012). Genetic
+
+polymorphisms of DNA repair genes XRCC1 and XRCC3 and
+
+risk of colorectal cancer in Chinese population. Asian Pac J
+
+Cancer Prev, 13, 665-9.
+
+5614 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+Newly diagnosed without treatment
+
+6.3 56.3 31.3
+
+

@@ -1,0 +1,471 @@
+Hindawi Publishing Corporation BioMed Research International Volume 2015, Article ID 341723, 11 pages http://dx.doi.org/10.1155/2015/341723
+
+Review Article Hereditary Ovarian Cancer: Not Only BRCA 1 and 2 Genes
+
+Angela Toss,1 Chiara Tomasello,1 Elisabetta Razzaboni,1 Giannina Contu,2 Giovanni Grandi,2 Angelo Cagnacci,2 Russell J. Schilder,3 and Laura Cortesi1
+1Department of Oncology, Haematology and Respiratory Diseases, University Hospital of Modena, 41124 Modena, Italy 2Department of Obstetrics Gynecology and Pediatrics, Obstetrics and Gynecology Unit, University Hospital of Modena, 41124 Modena, Italy 3Department of Medical Oncology, Kimmel Cancer Center, Thomas Jefferson University Hospital, Philadelphia, PA 19107, USA
+Correspondence should be addressed to Angela Toss; angela.toss@unimore.it
+Received 2 January 2015; Revised 27 April 2015; Accepted 29 April 2015
+Academic Editor: Stefan Rimbach
+Copyright © 2015 Angela Toss et al. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+More than one-fifth of ovarian tumors have hereditary susceptibility and, in about 65­85% of these cases, the genetic abnormality is a germline mutation in BRCA genes. Nevertheless, several other suppressor genes and oncogenes have been associated with hereditary ovarian cancers, including the mismatch repair (MMR) genes in Lynch syndrome, the tumor suppressor gene, TP53, in the Li-Fraumeni syndrome, and several other genes involved in the double-strand breaks repair system, such as CHEK2, RAD51, BRIP1, and PALB2. The study of genetic discriminators and deregulated pathways involved in hereditary ovarian syndromes is relevant for the future development of molecular diagnostic strategies and targeted therapeutic approaches. The recent development and implementation of next-generation sequencing technologies have provided the opportunity to simultaneously analyze multiple cancer susceptibility genes, reduce the delay and costs, and optimize the molecular diagnosis of hereditary tumors. Particularly, the identification of mutations in ovarian cancer susceptibility genes in healthy women may result in a more personalized cancer risk management with tailored clinical and radiological surveillance, chemopreventive approaches, and/or prophylactic surgeries. On the other hand, for ovarian cancer patients, the identification of mutations may provide potential targets for biologic agents and guide treatment decision-making.
+
+1. Introduction
+Ovarian cancer represents the leading cause of cancer deaths among gynecological malignancies, accounting worldwide for about 225.000 new cancer cases (3.7% of all female cancers) and about 140,000 deaths (4.2% of all deaths in women) every year [1]. In the United States, 21,980 estimated new cases and 14,270 estimated deaths were expected in 2014 [2]. The lack of effective early detection strategies and an unfavorable anatomy are associated with the advanced stage at diagnosis and poor prognosis often found in ovarian cancer patients. Therefore, overall survival (OS) is the worst among all of the gynecologic malignancies, with a five-year relative survival rate of 44% for all stages in all races [2].
+More than one-fifth (about 23%) of ovarian carcinomas have been related to hereditary conditions [3]. Particularly, in about 65­85% of hereditary ovarian tumors, the genetic
+
+abnormality is a germline mutation in BRCA genes that causes DNA repair defects. BRCA1 and BRCA2 mutation carriers have an increased lifetime risk of developing breast and ovarian cancer (up to 85% for breast cancer and up to 54% for ovarian cancer), as well as pancreatic and prostate cancer [4­8]. Nevertheless, several other suppressor genes and oncogenes have been associated with hereditary ovarian cancer (i.e., TP53, BARD1, CHEK2, RAD51, and PALB2 [3, 9­ 11]). To date, at least 16 genes are known to be involved in the mechanism of hereditary ovarian tumorigenesis and several other mutations remain unknown and cannot be detected by specific tests [12] (Figure 1).
+The identification of a mutation in ovarian cancer susceptibility genes represents a fundamental step in the diagnosis and treatment of these tumors. First of all, the detection of a specific mutated gene in healthy women may justify more intensive and personalized surveillance programs,
+
+2 BioMed Research International
+
+? 3% 10­15%
+10­15%
+
+45­55%
+
+20­30%
+
+BRCA 1 BRCA 2 Genes involved in DSB repair MMR genes (Lynch SDR) TP53 (Li-Fraumeni SDR) Other genes
+Figure 1: Susceptibility genes and their prevalence in hereditary ovarian syndromes.
+chemopreventive approaches, and/or prophylactic surgery that would not otherwise be justified by family history alone. Moreover, the identification of a mutation in already affected patients may provide fundamental knowledge of the pathogenesis of their tumors. Therefore, this genetic evaluation at diagnosis may help to identify potential targets for specific drugs, that is, PARP inhibitors and alkylating agents, and to guide decision-making on treatment strategies. In this context, next-generation sequencing (NGS) technologies have recently provided an unprecedented opportunity to simultaneously analyze multiple cancer susceptibility genes, reduce delays and costs, and optimize the molecular diagnosis of hereditary ovarian cancer.
+We reviewed the available published data regarding the molecular pathways involved in the pathogenesis of nonBRCA hereditary ovarian cancer and the possible applications of NGS technologies in these hereditary cancer syndromes.
+2. Clinical, Histopathological, and Molecular Features of Ovarian Cancer
+Ovarian cancer is a heterogeneous disease that includes different biological behaviors at the clinical and molecular level. More than 90% of ovarian cancers are epithelial, while about 10% of ovarian cancers develop from germ cells or granulosa-theca cells. Epithelial tumors may arise from the ovarian surface epithelium but also may arise from fallopian tube, foci of endometriosis, or the peritoneum [13]. Four main histotypes characterize epithelial ovarian cancer: serous, endometrioid, mucinous, and clear cell. Interestingly, each histotype shows patterns of gene expression that correlate
+
+Table 1: Different types of ovarian cancer with their clinicopathologic features and behavior.
+
+Prevalence Histotype Grade Mutations
+Clinical behavior
+
+Type 1
+
+Type 2
+
+About 30%
+
+About 70%
+
+Serous, mixed
+
+Serous, endometrioid, mucinous, and clear-cell tumors
+
+malignant mesodermal tumors
+carcinosarcomas, and undifferentiated
+
+tumors
+
+Low and borderline
+
+High
+
+PTEN, KRAS, BRAF, PIK3CA, ERBB2, CTNNB1, ARID1A, PPP2R1A, and microsatellite instability
+
+TP53 BRCA 1/2
+
+Typically large cystic mass confined to the
+ovary, relatively indolent course
+
+Diagnosed at advanced stages and aggressive behavior
+
+with their morphological counterparts in normal tissues. Particularly, alterations in serous tumors correlated with those in normal fallopian tube, mucinous cancers correlated with those in normal colonic mucosa, and both endometrioid and clear cell histotypes correlated with changes in normal endometrium [14].
+Two novel hypotheses for the pathogenesis of serous ovarian cancer have been recently proposed. According to the first mechanism, precursors of ovarian cancer develop in the fimbria from occult serous tubal intraepithelial carcinoma (STIC), and only subsequently do they involve the ovary. The second theory supports the implantation of normal epithelium from the fimbria onto the ovarian surface during ovulation, which results in a cortical inclusion cyst (CICs) where malignant transformation can arise [15, 16].
+At the molecular level, sporadic ovarian cancer is characterized by wide genetic instability linked to the modulation of several genes. According to clinical behavior and the molecular genetic abnormalities, ovarian cancer can be classified into two different types (Table 1). Type I tumors include low-grade serous carcinomas, borderline serous tumors, lowgrade endometrioid, and mucinous and clear-cell carcinomas [15, 17]. These kinds of tumors are relatively genetically stable, and the most frequent mutations involve KRAS, BRAF, ERBB2, PTEN, PIK3CA, b-catenin gene (CTNNB1), ARID1A, and PPP2R1A. On the other hand, type II ovarian cancers include high-grade serous carcinomas, carcinosarcomas, and undifferentiated cancers. Type II tumors, which comprise almost 70% of all epithelial tumors, are aggressive and present in advanced stages. At the time of presentation, they exhibit high genomic instability and, in up to 95% of patients, the gene mutated is TP53. Moreover, this type of tumor is characteristic of BRCA1 and BRCA2 mutation carriers and mostly arises from STICs [15, 17].
+
+BioMed Research International
+Single-strand breaks (SSBs) deletions and insertions
+
+Double-strand breaks (DSBs)
+
+3
+
+Base excision repair (BER)
+
+Nucleotide excision repair (NER)
+
+Mismatch repair (MMR)
+
+Homologous recombination
+(HR)
+
+Nonhomologous end joining (NHEJ)
+
+PARP
+
+XP, polymerases
+
+MLH1, MSH2, MSH6, MLH3, and PMS2
+
+ATM/ATR, BRCA1/2, CHEK2, RAD51, BRIP1, and PALB2
+
+DNA-PXcs, Mre11,
+RAD50, and NBS1
+
+Figure 2: Type of DNA damage, repair pathways, and repair enzymes involved in each pathway.
+
+3. Mismatch Repair Genes and Lynch Syndrome
+In the mid1960s, Lynch and colleagues described an autosomal-dominant hereditary syndrome that predisposes young people (mean age 45 years) not affected by adenomatous colonic polyps, to develop colorectal cancer with predilection proximal to the splenic flexure [18, 19]. Subsequent publications on the syndrome reported that members of these families were also prone to excesses of extracolonic cancers, including carcinomas of the endometrium, ovary, stomach, small bowel, hepatobiliary tract, pancreas, renal pelvis, ureter, breast, prostate, and brain (particularly glioblastomas) [20­22].
+Lynch syndrome (LS), also known as hereditary nonpolyposis colon cancer (HNPCC), accounts for 10­15% of all hereditary ovarian cancers [23]. The cumulative lifetime risk of ovarian cancer is estimated to be 6­10% in proven or probable MSH2 and MLH1 mutation carriers, with an average age of onset of 51 years in families associated with MLH1 mutations and 45 years in families associated with MSH2 mutations [24­26]. From the clinical point of view, ovarian cancers in LS are mostly endometrioid or clear cell [27­31], and the tumors are less advanced at the time of diagnosis, showing strikingly high stage-specific survival rates [24, 32, 33]. In particular, Vierkoetter and coinvestigators found that patients under the age of 53 with clear cell or endometrioid ovarian carcinomas are at a clinically significant risk for loss of mismatch repair (MMR) expression and LS, suggesting that routine screening with immunohistochemical staining in these patients should be considered [34].
+LS is determined by germline mutations in MMR genes (MLH1, MSH2, MSH6, MLH3, and PMS2), which lead to the loss of expression of one of the MMR proteins. In LS, one mutated allele of an MMR gene is inherited, and the loss of the second allele occurs somatically, due
+
+to mutation, methylation, or a combination of both. The rare case where both inherited alleles are mutated is called "the constitutional MMR deficiency syndrome" and leads to cancer during childhood [35]. The mismatch repair (MMR) system, together with the base excision repair (BER) and the nucleic acid excision repair (NER) system, is the DNA repair mechanism employed to remove single-strand breaks. On the other hand, double-strand breaks are corrected by the homologous recombination (HR) and nonhomologous end joining (NHEJ) (Figure 2) [8]. Failure of the MMR system, which occurs in families with LS, results in the accumulation of repeated nucleotide sequences phenotypically expressed as microsatellite instability (MSI). Microsatellites are short tandem (1­6 base pairs) repeated DNA sequences with high susceptibility for replication errors. Several oncogenes and tumor suppressor genes contain microsatellites, including TGFR2, IGFIIR, BAX, and DNA double-strand break (DSB) repair genes, such as Mre11 and RAD50. Consequently, impairment of MMR could cause mutations in many genes implicated in tumorigenesis [36­40].
+Nevertheless, carcinogenesis in ovarian cancers associated with LS has not been completely explained beyond the description of MMR defects. Recently, Niskakoski and colleagues [41] investigated 107 ovarian tumors (20 from LS and 87 sporadic), in order to gain insights into ovarian tumorigenesis and to analyze molecular alterations that differ between LS and sporadic ovarian cancer. As previously described, LS-associated ovarian cancers were more likely at diagnosis to be of low-grade, early stage, early onset and generally had an overall better prognosis. All 20 LS-associated ovarian carcinomas did not show mutations on TP53, KRAS (exon 2), or BRAF (V600E), while, in sporadic ovarian carcinomas, TP53 was often abnormal (overexpressed or completely missing) and KRAS (exon 2) mutations occurred with a frequency of 8%. In fact, overexpression of TP53 in ovarian cancer has been linked with poor prognosis, high
+
+4 BioMed Research International
+
+grade histology, and advanced stages at diagnosis [42]. Interestingly, the frequencies of PIK3CA mutations were similar in endometrioid and clear cell carcinomas from LS patients (32%) compared to their sporadic counterparts (36%). The frequency of PIK3CA mutations in LS-associated ovarian carcinomas is in accordance with the reported high survival, since recent evidence suggests that PIK3CA mutations and the PI3K/AKT pathway activation are associated with a favorable prognosis in ovarian cancer [43]. These data showed that ovarian cancers seem to resemble colorectal cancers from LS carriers, which are associated with higher stage-specific survival [44] and fewer TP53 and BRAF abnormalities compared to sporadic tumors [45] and PIK3CA mutations in about 20% of cases [46]. Furthermore, Niskakoski and colleagues [41] found differences in the analysis of cyclindependent kinase inhibitor 2B (CDKN2B) and long interspersed nucleotide element 1 (LINE1). Hypomethylation of CDKN2B and LINE1 was significantly increased in sporadic ovarian cancers compared with LS cases. Since LINE1 plays an important role in advanced stages of ovarian cancer, this result is consistent with better prognosis showed by LSassociated ovarian cancer [47].
+More recently, Jo¨nsson and colleagues [48] performed a global gene expression analysis on 24 LS-associated and 24 sporadic ovarian tumors, with the aim of identifying gene expression profiles and genetic discriminators associated with LS. The most frequently upregulated genes in LS included PTPRH, BIRC3, SHH, and TNFRSF6B. The genes involved were predominantly related to cell growth, proliferation, and cell-to-cell signaling and interaction. On the other hand, immunohistochemical staining showed positivity for p-mTOR in 60% of LS tumors, EGFR in 30% of LS tumors, and loss of PTEN in 74% of LS tumors. Moreover, mutations in KRAS and BRAF, which may activate the mTOR/PI3K/AKT pathway, are common in low-grade ovarian cancers (60%) [49, 50].
+The study of genetic discriminators and deregulated pathways involved in LS-associated ovarian tumorigenesis may be relevant for the future development of molecular diagnostics and targeted therapeutics. Unfortunately, given the relative rarity of LS-associated hereditary ovarian cancer, the sample sizes in these studies were small and confirmation in a larger series is necessary. Moreover, other common limitations of these studies may be related to the techniques used for the analyses, including immunohistochemistry and genetic testing on paraffin-embedded tumor tissues.
+4. TP53 and Li-Fraumeni Syndrome
+The Li-Fraumeni syndrome (LFS) is an autosomal dominant cancer syndrome determined by heterozygous germline mutations in the tumor suppressor gene TP53 (chromosome 17p13). TP53 codes for a transcription factor activated in response to various stress signals and implicated in cell proliferation, apoptosis, and genomic stability. It represents the most frequently mutated gene in human cancer, with the highest prevalence of acquired mutations in epithelial ovarian (47%), colorectal (43%), head/neck (42%), and esophageal (41%) cancers [51, 52]. Because of its comprehensive role as a
+
+cancer suppressor gene, TP53 is also defined as the "guardian of the genome" [53]. The most common mutation observed in germline and sporadic cases is the missense mutation (about 75%), resulting in a defective transcriptional activity. Tumors developed from acquired TP53 mutations are characterized by worse survival rates, increased resistance to chemotherapy and radiation, and elevated relapse rates [54­56].
+Li and Fraumeni Jr. proposed for the first time in 1969 the theory of a hereditary cancer syndrome characterized by the early development of multiple tumors [57]. Particularly, about 50% of patients with LFS develop the first tumor by age of 30 [58, 59], and almost one-third (15­35%) of them will develop multiple primary cancers over their lifetimes [60, 61]. Breast cancer, sarcoma and brain, and adrenocortical carcinoma represent about 77­80% of LFS-associated tumors. Less frequent malignancies associated with LS include leukemia and lung, colorectal, skin, gastric, and ovarian cancer and these account for 15% of the tumors [62]. Nevertheless, these less frequent tumors are present in the general population; thus, their presence in LFS families could be because of chance. On the other hand, in the context of a germline TP53 mutation, these tumors occur at earlier than expected median age at diagnosis. Particularly, for ovarian cancer the median age is 39.5, compared with 64.3 years for sporadic cases [63]. The lack of comprehensive studies regarding the genetic pathways involved in LFS-associated ovarian tumorigenesis is principally due to the extreme rarity of this syndrome in the general population.
+5. Genes Involved in Double-Strand Breaks Repair
+As previously described, double-strand breaks (DSBs) are repaired by homologous recombination (HR) and nonhomologous end joining (NHEJ) (Figure 2). HR provides accurate recombination using a sister chromatid as a template which maintains genomic stability. Several proteins are widely involved in the HR system, including BRCA1/2, ATM, CHEK2, RAD51, and Fanconi anemia proteins (BRIP1 [64] and PALB2 [65]) (Figure 3) [66]. Particularly, DSBs activate the kinases ATM, ATR, and CHEK2, which in turn phosphorylate BRCA1, modulating its function. The role of BRCA1 in DNA repair and in cell cycle regulation is to cause G1-S, S, or G2-M phase arrest depending on the residues phosphorylated. BRCA1 forms a complex with BARD1, a protein with structural similarity, which is important for BRCA1 stability. More recently, the BRCA1-BARD1 complex has been found to play a role in ubiquitination and degradation of RNA polymerase II, inhibiting transcription and RNA processing, in order to eliminate prematurely terminated transcripts and clear the damaged DNA region for the intervention of DNA repair enzymes. In parallel, BRCA2 participates in the repair of DSBs modulating the recombinase function of RAD51. BRCA2 is necessary for the transport of RAD51 into the nucleus and to the site of DNA damage, where RAD51 is released to form the nucleoprotein filament required for recombination [67­69].
+On the other hand, although less accurate, NHEJ plays a crucial role in minimizing DNA damage in both G0 and G1
+
+BioMed Research International
+
+5
+
+Fanconi anemia complex
+
+G
+
+A F
+D2
+
+C E
+
+Double-strand breaks (DSBs)
+ATM/ATM
+CHEK2 Ub D2
+
+BRCA1
+
+BARD1
+
+RAD51
+
+BRCA2
+
+Dss1
+
+Figure 3: Proteins involved in the homologous recombination (HR) system.
+
+phases of the cell cycle, when HR cannot be supplied. However, when a defect occurs in one of the enzymes involved in HR, the DSBs are repaired by error prone mechanisms, mostly NHEJ, resulting in an increased risk of new chromosomal defects, and, therefore, the development of cancer [70]. In the first step of NHEJ, the heterodimer Ku70/Ku80 breaks the DNA ends and improves the stability of the NHEJ related enzymes at the DNA termini. Two Ku70/Ku80 heterodimers recruit DNA-dependent protein kinases (DNA-PKcs) to the DNA ends. The resulting complex of DNA-PKcs and its substrate, Artemis, have shown an endonuclease activity; therefore, it processes the DNA termini in order to prepare them for the intervention of XRCC4-Ligase IV. The nuclease functions of Artemis seem to be accomplished by the complex of RAD50, Mre11, and NBS1, where in vitro models have
+
+shown to interact also with Ligase IV and Ku homologues (Figure 4) [71].
+As mentioned above, several proteins interact and cooperate with BRCA1 and BRCA2 proteins in the DNA repair process, and, therefore, in the maintenance of genomic stability. It has been hypothesized that genes coding for these proteins would be alternative candidates for ovarian cancer susceptibility. Particularly, tumors with a defect in the HR system other than BRCA express the BRCAness profile. These tumors present a specific phenotype with features and behavior similar to BRCA-related ovarian cancers [8], including sensitivity to DNA-damaging agents (i.e., platinum), improved disease-free intervals and survival rates, and highgrade serous histology [72, 73]. Interestingly, these BRCAness patients are at increased risk for both ovarian and breast
+
+6 BioMed Research International
+
+Artemis
+
+DNA-PKcs
+
+Ku80
+
+Ku70
+
+Ligase IV
+
+XRCC4
+
+Ku70 Ku80
+
+Mre11
+
+RAD50 NBS1
+
+Artemis DNA-PKcs
+
+Figure 4: Proteins involved in the nonhomologous end joining (NHEJ).
+
+cancers, similar to BRCA carriers. The main genes involved in the BRCAness syndrome in ovarian cancer are listed below.
+5.1. RAD51. Loveday and colleagues [74] identified truncating RAD51D mutations in 8 of 911 familial breast-ovarian cancer pedigrees, demonstrating that RAD51D mutations confer a sixfold increased risk of ovarian cancer but cause only a small increase in breast cancer. Similarly, Meindl and associates [75] analyzed 1,100 German families with gynecological malignancies and identified 6 monoallelic pathogenic mutations in RAD51C that confer an increased risk for both breast and ovarian cancers. Finally, Blanco and colleagues [76] recently screened a large series of 516 BRCA1/BRCA2negative patients from breast and/or ovarian cancer families for RAD51C mutations and identified 3 germline pathogenic mutations. These results confirmed that RAD51C contributes to ovarian cancer susceptibility in families with breast and ovarian cancer cases.
+5.2. PALB2. PALB2 mutations have been detected in 1­4% of families negative for BRCA mutations [77]. Inherited mutations in the BRCA2-interacting protein, PALB2, are known to be associated with increased risks of breast, pancreatic, and, likely, ovarian cancer. Recently, Casadei and colleagues sequenced the coding sequences and flanking regulatory regions of PALB2 from constitutional genomic DNA of 1,144 familial breast cancer BRCA1/BRCA2-negative patients. PALB2 heterozygotes were four times more likely to have a male relative with breast cancer ( = 0.0003), six times more likely to have a relative with pancreatic cancer ( = 0.002), and 1.3-fold more likely to have a relative with ovarian cancer ( = 0.18) [10]. Overall, significantly less ovarian cancer is seen in PALB2 families when compared with BRCA1 and BRCA2 families; therefore, it remains to be seen whether ovarian cancer risk is truly increased in individuals who are PALB2 mutation carriers or not [77].
+5.3. CHEK2. Furthermore, several groups have previously analyzed the role of CHEK2 mutations in ovarian cancer cancerogenesis. Particularly, the missense variant of CHEK2 I157T was significantly associated with ovarian cystadenomas, borderline ovarian tumors, and low-grade invasive cancers but not high-grade ovarian cancer [78]. In another study, Baysal and colleagues [79] identified del1100C and
+
+A252G variants of CHEK2, but since the differences in variant frequency were not statistically significant compared to controls, it was concluded that variations in CHEK2 were not associated with ovarian cancer pathogenesis. A few years later, Krylova and colleagues [80] also failed to demonstrate an association between CHEK2 1100delC and ovarian cancer pathogenesis. Nevertheless, these analyses were mainly focused on some specific variants of CHEK2 (del1100C, A252G, and I157T); therefore, mutations of other regions of CHEK2 and their association with ovarian cancer pathogenesis still need to be investigated in detail [81].
+5.4. Mre11 Complex. The Mre11 complex is composed of the proteins Mre11, NBS1, and RAD50 and represents a crucial component in the DNA repair process. Heikkinen and colleagues [82] screened 151 families with signs of hereditary breast and/or ovarian cancer for germline mutations in the Mre11 complex genes. In this study, three potentially diseaserelated mutations were reported: Mre11 913C>T (Arg305Trp), NBS1 448C>T (Leu150Phe), and RAD50 687delT (stop codon at 234). These three mutations in the Mre11 complex genes could also potentially be related to hereditary susceptibility to breast and ovarian cancer.
+5.5. BARD1. Ratajska and colleagues [83] screened 109 BRCA1/2 negative high-risk breast and/or ovarian cancer patients from North-Eastern Poland for BARD1 germline mutations and identified three different BARD1 variants suspected to be pathogenic (c.1690C>T, p.Gln564X; c.13152A>G; c.1977A>G). This study suggested that deleterious mutations in BARD1 might be responsible for a certain proportion of familial breast and/or ovarian cancer.
+6. Next-Generation Sequencing with Multigene Panels
+Approximately 23% of ovarian carcinomas have been related to hereditary conditions and more than 15% of hereditary ovarian cancers are derived from a genetic condition unrelated to BRCA genes [3]. Particularly, several genes involved in the mechanism of hereditary ovarian tumorigenesis have been identified, but several mutations still remain unknown and cannot be detected by specific tests.
+
+BioMed Research International
+BRCA1/2 testing
+
+Multigene testing
+
+7
+
+Non pathogenic Pathogenic VUS
+
+Non pathogenic Pathogenic VUS
+
+Figure 5: Proportion of nonpathogenic variants, pathogenic variants, and VUS in testing only BRCA 1/2 genes or testing multiple genes simultaneously. The rate of VUS is expected to increase with the introduction of multigene panels.
+
+The identification of mutations in ovarian cancer susceptibility genes has a fundamental role both in the preventive setting, and after the diagnosis of ovarian cancer, in the selection of treatments. In healthy mutation carriers, the presence of one of these mutations may justify more intensive surveillance, chemopreventive approaches [84, 85], and/or prophylactic surgeries [86] that would not otherwise be justified by family history alone. In this particular setting, the candidates for genetic testing should be identified according to their personal and family history of ovarian cancer.
+On the other hand, in already affected patients, the identification of a mutation in susceptibility genes may guide treatment decision-making by providing potential targets for biologic agents (i.e., PARP inhibitors) or by helping to select treatment strategies, that is, avoiding radiotherapy in patients with LFS [87]. Notably, a subgroup analysis of phase 2 trial data showed that olaparib maintenance therapy significantly prolongs PFS in patients with BRCA-mutated ovarian cancer (median, 11.2 versus 4.3 months; HR 0.18; 95% CI [0.10­ 0.31];  < 0.0001) [88]. These results led to the accelerated approval of the PARP inhibitor, olaparib, by the European Medicines Agency (EMA) for the maintenance treatment of patients with platinum-sensitive, relapsed BRCA-mutated, high-grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer. More recently, the United States Food and Drug Administration (FDA) approved olaparib for the treatment of patients with ovarian cancer who have received three or more prior regimens and carry BRCA mutations. These approvals have crucial implications in the management of patients with high-grade serous tumors, which represent 75% of all epithelial ovarian cancers. In the near future, early and rapid genetic testing should be offered to every patient with these characteristics in order to provide the best therapeutic strategies.
+Next-generation sequencing (NGS) technologies in recent years have facilitated an unprecedented capability to gain a better understanding of the genetic complexity of epithelial ovarian cancer. NGS technologies, based on massively parallel sequencing, offer several advantages over the previous techniques:
+(1) To analyze simultaneously multiple cancer susceptibility genes in one reaction.
+
+(2) To reduce the time required to complete the genetic analyses.
+(3) To screen additional loci at low additional costs.
+(4) Great sensitivity, specificity, and accuracy.
+Today, several multigene panels that include known ovarian cancer-associated loci have been introduced for the screening of germline mutations [89­91]. Nevertheless, there are significant challenges in interpreting and managing panel results. The main disadvantages of NGS techniques are listed below:
+(1) Although the overall cost continues to decrease, there are relevant initial costs associated with the technology such as sophisticated computer systems, bioinformatics tools, training of personnel, and, additionally, a significant time contribution.
+(2) Testing multiple genes simultaneously may identify an increasing number of variants of uncertain clinical significance (VUS), namely, mutations whose clinical significance has not yet been determined. Even for known high-risk genes, such as BRCA1/2, approximately 13% of families tested carry a "hard to interpret" variant [92], and this rate is expected to increase with the introduction of multigene panels (Figure 5) [93].
+(3) For several mutated genes, clinical management is complex and unclear. For example, LFS is characterized by a wide tumor spectrum and tumor risk in children; therefore, TP53 testing should be carefully considered and all of the clinical implications of a positive test should be clearly explained before testing.
+(4) The simultaneous evaluation of multiple genes requires novel approaches to genetic counseling. Given the always increasing complexity of testing and results interpretation, a more articulate post-test counseling and longer-term clinical management are necessary.
+Due to these challenges in interpreting and managing multigene panel results, much of this information is contained within the field of research and only in specialized
+
+8 BioMed Research International
+
+centers should become standard of care. Mutational screening and genetic counseling by NGS should be centralized and carried on in specialized family cancer clinics, where patients and their families are appropriately informed of the limitations of these approaches, and then can be followed and managed by a multidisciplinary team over an extended period of time [94].
+7. Conclusions
+Ovarian cancer represents 3.7% of all female cancers. It is usually diagnosed in advanced stages with a poor prognosis and OS being the worst of all gynecologic malignancies [1, 2]. More than one-fifth of ovarian tumors have hereditary susceptibility [3], and in about 65­85% of cases the genetic abnormality is a germline mutation in BRCA genes. Nevertheless, several other suppressor genes and oncogenes have been associated with hereditary ovarian cancers, including mismatch repair (MMR) genes, TP53, and several genes involved in double-strand breaks repair. To date, at least 16 genes are known to be involved in the mechanism of hereditary ovarian tumorigenesis, but several mutations still remain unknown and cannot be detected by specific tests [12].
+Defects in genes involved in the repair of double stranded breaks, other than BRCA 1 and 2, represent alternative mechanisms of hereditary ovarian carcinogenesis. BRCA negative tumors with a defect in the homologous recombination system express the BRCAness profile, a specific phenotype with features and behavior similar to BRCA-related cancers [8]. It is likely that these patients also might benefit from platinum-based therapies and/or PARP inhibition like BRCA mutation carriers do, but, to date, we still need to introduce validated tests into daily practice in order to identify patients with "BRCAness" profiles who carry mutations in genes such as ATM, CHEK2, RAD51, BRIP1, and PALB2.
+In recent years, the development and implementation of NGS technologies have provided the opportunity to simultaneously analyze multiple cancer susceptibility genes, significantly increase the throughput, reduce the delay and costs, and optimize the molecular diagnosis of hereditary ovarian cancer. The identification of mutations in ovarian cancer susceptibility genes through multigene panels may result in more personalized cancer risk management with tailored clinical and radiological surveillance, chemopreventive approaches, and/or prophylactic surgeries [84­86]. On the other hand, for ovarian cancer patients, the identification of mutations may provide potential targets for biologic agents and help to guide treatment decision-making. Nevertheless, since there still are significant challenges in interpreting and managing panel results, much of this information still remains within the field of research and only in specialized centers should become standard of care. More intensive efforts to organize qualified family cancer clinics where the mutational screening and genetic counseling by NGS should be centralized and performed need to occur. Patients and families with mutations should be informed of the limitations of these approaches and then should be followed up and managed by a multidisciplinary team over an extended time period [94]. The centralization of genetic testing enables
+
+the improvement of access and quality of testing and allows for the creation of a more comprehensive database for research, guiding evidence-based management recommendations [89­91].
+Conflict of Interests
+The authors declare that there is no conflict of interests regarding the publication of this paper.
+References
+[1] J. Ferlay, H.-R. Shin, F. Bray, D. Forman, C. Mathers, and D. M. Parkin, "Estimates of worldwide burden of cancer in 2008: GLOBOCAN 2008," International Journal of Cancer, vol. 127, no. 12, pp. 2893­2917, 2010.
+[2] R. Siegel, J. Ma, Z. Zou, and A. Jemal, "Cancer statistics, 2014," CA--Cancer Journal for Clinicians, vol. 64, no. 1, pp. 9­29, 2014.
+[3] T. Walsh, S. Casadei, M. K. Lee et al., "Mutations in 12 genes for inherited ovarian, fallopian tube, and peritoneal carcinoma identified by massively parallel sequencing," Proceedings of the National Academy of Sciences of the United States of America, vol. 108, no. 44, pp. 18032­18037, 2011.
+[4] R. Wooster and B. L. Weber, "Breast and ovarian cancer," The New England Journal of Medicine, vol. 348, no. 23, pp. 2339­ 2347, 2003.
+[5] M. S. Brose, T. R. Rebbeck, K. A. Calzone, J. E. Stopfer, K. L. Nathanson, and B. L. Weber, "Cancer risk estimates for BCRA1 mutation carriers identified in a risk evaluation program," Journal of the National Cancer Institute, vol. 94, no. 18, pp. 1365­ 1372, 2002.
+[6] D. Ford, D. F. Easton, D. T. Bishop, S. A. Narod, and D. E. Goldgar, "Risks of cancer in BRCA1-mutation carriers," The Lancet, vol. 343, no. 8899, pp. 692­695, 1994.
+[7] D. Easton, "Cancer risks in BRCA2 mutation carriers: the breast cancer linkage consortium," Journal of the National Cancer Institute, vol. 91, no. 15, pp. 1310­1316, 1999.
+[8] A. Toss and C. Laura, "Molecular mechanisms of PARP inhibitors In BRCA-related ovarian cancer," Journal of Cancer Science and Therapy, vol. 5, no. 11, pp. 409­416, 2013.
+[9] T. Walsh, S. Casadei, K. H. Coats et al., "Spectrum of mutations in BRCA1, BRCA2, CHEK2, and TP53 in families at high risk of breast cancer," Journal of the American Medical Association, vol. 295, no. 12, pp. 1379­1388, 2006.
+[10] S. Casadei, B. M. Norquist, T. Walsh et al., "Contribution of inherited mutations in the BRCA2-interacting protein PALB2 to familial breast cancer," Cancer Research, vol. 71, no. 6, pp. 2222­2229, 2011.
+[11] N. J. Engel, P. Gordon, D. L. Thull et al., "A multidisciplinary clinic for individualizing management of patients at increased risk for breast and gynecologic cancer," Familial Cancer, vol. 11, no. 3, pp. 419­427, 2012.
+[12] L. Liliac, C. Amalinei, R. Balan, A. Grigora¸s, and I.-D. Caruntu, "Ovarian cancer: Insights into genetics and pathogeny," Histology and Histopathology, vol. 27, no. 6, pp. 707­719, 2012.
+[13] R. C. Bast Jr., B. Hennessy, and G. B. Mills, "The biology of ovarian cancer: new opportunities for translation," Nature Reviews Cancer, vol. 9, no. 6, pp. 415­428, 2009.
+[14] R. T. Marquez, K. A. Baggerly, A. P. Patterson et al., "Patterns of gene expression in different histotypes of epithelial ovarian cancer correlate with those in normal fallopian tube, endometrium,
+
+BioMed Research International
+
+9
+
+and colon," Clinical Cancer Research, vol. 11, no. 17, pp. 6116­ 6126, 2005.
+[15] R. J. Kurman, "Origin and molecular pathogenesis of ovarian high-grade serous carcinoma," Annals of Oncology, vol. 24, supplement 10, pp. x16­x21, 2013.
+[16] A. R. Sama and R. J. Schilder, "Refractory fallopian tube carcinoma--current perspectives in pathogenesis and management," International Journal of Women's Health, vol. 6, no. 1, pp. 149­157, 2014.
+[17] R. J. Kurman and I.-M. Shih, "Pathogenesis of ovarian cancer: lessons from morphology and molecular biology and their clinical implications," International Journal of Gynecological Pathology, vol. 27, no. 2, pp. 151­160, 2008.
+[18] H. T. Lynch, M. W. Shaw, C. W. Magnuson, A. L. Larsen, and A. J. Krush, "Hereditary factors in cancer. Study of two large midwestern kindreds," Archives of Internal Medicine, vol. 117, no. 2, pp. 206­212, 1966.
+[19] H. T. Lynch and A. J. Krush, "Heredity and adenocarcinoma of the colon," Gastroenterology, vol. 53, no. 4, pp. 517­527, 1967.
+[20] H. T. Lynch, C. R. Boland, G. Gong et al., "Phenotypic and genotypic heterogeneity in the Lynch syndrome: diagnostic, surveillance and management implications," European Journal of Human Genetics, vol. 14, no. 4, pp. 390­402, 2006.
+[21] H. T. Lynch, J. F. Lynch, P. M. Lynch, and T. Attard, "Hereditary colorectal cancer syndromes: molecular genetics, genetic counseling, diagnosis and management," Familial Cancer, vol. 7, no. 1, pp. 27­39, 2008.
+[22] H. T. Lynch and P. M. Lynch, "The cancer-family syndrome: a pragmatic basis for syndrome identification," Diseases of the Colon & Rectum, vol. 22, no. 2, pp. 106­110, 1979.
+[23] H. T. Lynch, M. J. Casey, C. L. Snyder et al., "Hereditary ovarian carcinoma: heterogeneity, molecular genetics, pathology, and management," Molecular Oncology, vol. 3, no. 2, pp. 97­137, 2009.
+[24] P. Watson, R. Bu¨tzow, H. T. Lynch et al., "The clinical features of ovarian cancer in hereditary nonpolyposis colorectal cancer," Gynecologic Oncology, vol. 82, no. 2, pp. 223­228, 2001.
+[25] H. F. A. Vasen, A. Stormorken, F. H. Menko et al., "MSH2 mutation carriers are at higher risk of cancer than MLH1 mutation carriers: a study of hereditary nonpolyposis colorectal cancer families," Journal of Clinical Oncology, vol. 19, no. 20, pp. 4074­4080, 2001.
+[26] P. Watson, H. F. A. Vasen, J.-P. Mecklin et al., "The risk of extracolonic, extra-endometrial cancer in the Lynch syndrome," International Journal of Cancer, vol. 123, no. 2, pp. 444­449, 2008.
+[27] M. H. Chui, C. B. Gilks, K. Cooper, and B. A. Clarke, "Identifying lynch syndrome in patients with ovarian carcinoma: the significance of tumor subtype," Advances in Anatomic Pathology, vol. 20, no. 6, pp. 378­386, 2013.
+[28] K. Q. Cai, C. Albarracin, D. Rosen et al., "Microsatellite instability and alteration of the expression of hMLH1 and hMSH2 in ovarian clear cell carcinoma," Human Pathology, vol. 35, no. 5, pp. 552­559, 2004.
+[29] J. Liu, C. T. Albarracin, K.-H. Chang et al., "Microsatellite instability and expression of hMLH1 and hMSH2 proteins in ovarian endometrioid cancer," Modern Pathology, vol. 17, no. 1, pp. 75­80, 2004.
+[30] T. Pal, J. Permuth-Wey, A. Kumar, and T. A. Sellers, "Systematic review and meta-analysis of ovarian cancers: estimation of microsatellite-high frequency and characterization of mismatch
+
+repair deficient tumor histology," Clinical Cancer Research, vol. 14, no. 21, pp. 6847­6854, 2008.
+[31] M. H. Chui, P. Ryan, J. Radigan et al., "The histomorphology of Lynch syndrome-associated ovarian carcinomas: toward a subtype-specific screening strategy," The American Journal of Surgical Pathology, vol. 38, no. 9, pp. 1173­1181, 2014.
+[32] E. M. Grindedal, L. Renkonen-Sinisalo, H. Vasen et al., "Survival in women with MMR mutations and ovarian cancer: a multicentre study in Lynch syndrome kindreds," Journal of Medical Genetics, vol. 47, no. 2, pp. 99­102, 2010.
+[33] L. A. Baldwin, B. Huang, R. W. Miller et al., "Ten-year relative survival for epithelial ovarian cancer," Obstetrics & Gynecology, vol. 120, no. 3, pp. 612­618, 2012.
+[34] K. R. Vierkoetter, A. R. Ayabe, M. VanDrunen, H. J. Ahn, D. M. Shimizu, and K. Y. Terada, "Lynch Syndrome in patients with clear cell and endometrioid cancers of the ovary," Gynecologic Oncology, vol. 135, no. 1, pp. 81­84, 2014.
+[35] Q. Wang, C. Lasset, F. Desseigne et al., "Neurofibromatosis and early onset of cancers in hMLH1-deficient children," Cancer Research, vol. 59, no. 2, pp. 294­297, 1999.
+[36] D. Guillotin and S. A. Martin, "Exploiting DNA mismatch repair deficiency as a therapeutic strategy," Experimental Cell Research, vol. 329, no. 1, pp. 110­115, 2014.
+[37] R. F. Souza, R. Appel, J. Yin et al., "Microsatellite instability in the insulin-like growth factor II receptor gene in gastrointestinal tumours," Nature Genetics, vol. 14, no. 3, pp. 255­257, 1996.
+[38] N. Rampino, H. Yamamoto, Y. Ionov et al., "Somatic frameshift mutations in the BAX gene in colon cancers of the microsatellite mutator phenotype," Science, vol. 275, no. 5302, pp. 967­969, 1997.
+[39] Z. Ketabi, K. Bartuma, I. Bernstein et al., "Ovarian cancer linked to lynch syndrome typically presents as early-onset, non-serous epithelial tumors," Gynecologic Oncology, vol. 121, no. 3, pp. 462­ 465, 2011.
+[40] A. M. Ferreira, H. Westers, S. Sousa et al., "Mononucleotide precedes dinucleotide repeat instability during colorectal tumour development in Lynch syndrome patients," Journal of Pathology, vol. 219, no. 1, pp. 96­102, 2009.
+[41] A. Niskakoski, S. Kaur, L. Renkonen-Sinisalo et al., "Distinct molecular profiles in Lynch syndrome-associated and sporadic ovarian carcinomas," International Journal of Cancer, vol. 133, no. 11, pp. 2596­2608, 2013.
+[42] K. D. Steffensen, M. Waldstrøm, A. Grove, B. Lund, N. Pallisga°rd, and A. Jakobsen, "Improved classification of epithelial ovarian cancer: results of 3 Danish cohorts," International Journal of Gynecological Cancer, vol. 21, no. 9, pp. 1592­1600, 2011.
+[43] A. Abe, T. Minaguchi, H. Ochi et al., "PIK3CA overexpression is a possible prognostic factor for favorable survival in ovarian clear cell carcinoma," Human Pathology, vol. 44, no. 2, pp. 199­ 207, 2013.
+[44] R. Sankila, L. A. Aaltonen, H. J. Jarvinen, and J.-P. Mecklin, "Better survival rates in patients with MLH1-associated hereditary colorectal cancer," Gastroenterology, vol. 110, no. 3, pp. 682­687, 1996.
+[45] W. M. Abdel-Rahman, M. Ollikainen, R. Kariola et al., "Comprehensive characterization of HNPCC-related colorectal cancers reveals striking molecular features in families with no germline mismatch repair gene mutations," Oncogene, vol. 24, no. 9, pp. 1542­1551, 2005.
+
+10 BioMed Research International
+
+[46] M. Ollikainen, A. Gylling, M. Puputti et al., "Patterns of PIK3CA alterations in familial colorectal and endometrial carcinoma," International Journal of Cancer, vol. 121, no. 4, pp. 915­920, 2007.
+[47] K. Nakamura, K. Banno, M. Yanokura et al., "Features of ovarian cancer in Lynch syndrome (review)," Molecular and Clinical Oncology, vol. 2, no. 6, pp. 909­916, 2014.
+[48] J.-M. Jo¨nsson, K. Bartuma, M. Dominguez-Valentin et al., "Distinct gene expression profiles in ovarian cancer linked to Lynch syndrome," Familial Cancer, vol. 13, no. 4, pp. 537­545, 2014.
+[49] Cancer Genome Atlas Research Network, "Integrated genomic analyses of ovarian carcinoma," Nature, vol. 474, no. 7353, pp. 609­615, 2011.
+[50] G. Singer, R. Oldt III, Y. Cohen et al., "Mutations in BRAF and KRAS characterize the development of low-grade ovarian serous carcinoma," Journal of the National Cancer Institute, vol. 95, no. 6, pp. 484­486, 2003.
+[51] A. J. Levine, J. Momand, and C. A. Finlay, "The p53 tumour suppressor gene," Nature, vol. 351, no. 6326, pp. 453­456, 1991.
+[52] A. Petitjean, E. Mathe, S. Kato et al., "Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: lessons from recent developments in the IARC TP53 database," Human Mutation, vol. 28, no. 6, pp. 622­629, 2007.
+[53] D. P. Lane, "Cancer. p53, guardian of the genome," Nature, vol. 358, no. 6381, pp. 15­16, 1992.
+[54] U. Tabori, B. Baskin, M. Shago et al., "Universal poor survival in children with medulloblastoma harboring somatic TP53 mutations," Journal of Clinical Oncology, vol. 28, no. 8, pp. 1345­ 1350, 2010.
+[55] M. Olivier, A. Langerød, P. Carrieri et al., "The clinical value of somatic TP53 gene mutations in 1,794 patients with breast cancer," Clinical Cancer Research, vol. 12, no. 4, pp. 1157­1167, 2006.
+[56] L. Ferna´ndez-Cuesta, C. Oakman, P. Falagan-Lotsch et al., "Prognostic and predictive value of TP53 mutations in nodepositive breast cancer patients treated with anthracycline- or anthracycline/taxane-based adjuvant therapy: results from the BIG 02-98 phase III trial," Breast Cancer Research, vol. 14, no. 3, article R70, 2012.
+[57] F. P. Li and J. F. Fraumeni Jr., "Rhabdomyosarcoma in children: epidemiologic study and identification of a familial cancer syndrome," Journal of the National Cancer Institute, vol. 43, no. 6, pp. 1365­1373, 1969.
+[58] K. D. Gonzalez, K. A. Noltner, C. H. Buzin et al., "Beyond li fraumeni syndrome: clinical characteristics of families with p53 germline mutations," Journal of Clinical Oncology, vol. 27, no. 8, pp. 1250­1256, 2009.
+[59] J. M. Varley, D. G. R. Evans, and J. M. Birch, "Li-Fraumeni syndrome--a molecular and clinical review," British Journal of Cancer, vol. 76, no. 1, pp. 1­14, 1997.
+[60] M. Hisada, J. E. Garber, C. Y. Fung, J. F. Fraumeni Jr., and F. P. Li, "Multiple primary cancers in families with Li-Fraumeni syndrome," Journal of the National Cancer Institute, vol. 90, no. 8, pp. 606­611, 1998.
+[61] N. Izawa, S. Matsumoto, J. Manabe et al., "A Japanese patient with Li-Fraumeni syndrome who had nine primary malignancies associated with a germline mutation of the p53 tumorsuppressor gene," International Journal of Clinical Oncology, vol. 13, no. 1, pp. 78­82, 2008.
+
+[62] A. D. Sorrell, C. R. Espenschied, J. O. Culver, and J. N. Weitzel, "Tumor protein p53 (TP53) testing and li-fraumeni syndrome: current status of clinical applications and future directions," Molecular Diagnosis and Therapy, vol. 17, no. 1, pp. 31­47, 2013.
+[63] M. Olivier, D. E. Goldgar, N. Sodha et al., "Li-fraumeni and related syndromes: correlation between tumor type, family structure, and TP53 genotype," Cancer Research, vol. 63, no. 20, pp. 6643­6650, 2003.
+[64] S. Seal, D. Thompson, A. Renwick et al., "Truncating mutations in the Fanconi anemia J gene BRIP1 are low-penetrance breast cancer susceptibility alleles," Nature Genetics, vol. 38, no. 11, pp. 1239­1241, 2006.
+[65] N. Rahman, S. Seal, D. Thompson et al., "PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene," Nature Genetics, vol. 39, no. 2, pp. 165­167, 2007.
+[66] A. R. Venkitaraman, "A growing network of cancersusceptibility genes," The New England Journal of Medicine, vol. 348, no. 19, pp. 1917­1919, 2003.
+[67] K. Gudmundsdottir and A. Ashworth, "The roles of BRCA1 and BRCA2 and associated proteins in the maintenance of genomic stability," Oncogene, vol. 25, no. 43, pp. 5864­5874, 2006.
+[68] B. J. Orelli and D. K. Bishop, "BRCA2 and homologous recombination," Breast Cancer Research, vol. 3, no. 5, pp. 294­298, 2001.
+[69] J. Zhang, "The role of BRCA1 in homologous recombination repair in response to replication stress: significance in tumorigenesis and cancer therapy," Cell & Bioscience, vol. 3, no. 1, article 11, 2013.
+[70] M. R. Lieber, J. Gu, H. Lu, N. Shimazaki, and A. G. Tsai, "Nonhomologous DNA end joining (NHEJ) and chromosomal translocations in humans," Sub-Cellular Biochemistry, vol. 50, pp. 279­296, 2010.
+[71] A. Ashworth, "A synthetic lethal therapeutic approach: poly(ADP) ribose polymerase inhibitors for the treatment of cancers deficient in DNA double-strand break repair," Journal of Clinical Oncology, vol. 26, no. 22, pp. 3785­3790, 2008.
+[72] G. Rigakos and E. Razis, "BRCAness: finding the achilles heel in ovarian cancer," The Oncologist, vol. 17, no. 7, pp. 956­962, 2012.
+[73] D. S. P. Tan, C. Rothermundt, K. Thomas et al., "`BRCAness' syndrome in ovarian cancer: a case-control study describing the clinical features and outcome of patients with epithelial ovarian cancer associated with BRCA1 and BRCA2 mutations," Journal of Clinical Oncology, vol. 26, no. 34, pp. 5530­5536, 2008.
+[74] C. Loveday, C. Turnbull, E. Ramsay et al., "Germline mutations in RAD51D confer susceptibility to ovarian cancer," Nature Genetics, vol. 43, no. 9, pp. 879­882, 2011.
+[75] A. Meindl, H. Hellebrand, C. Wiek et al., "Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene," Nature Genetics, vol. 42, no. 5, pp. 410­414, 2010.
+[76] A. Blanco, S. Gutie´rrez-Enr´iquez, M. Santamarin~a et al., "RAD51C germline mutations found in Spanish site-specific breast cancer and breast-ovarian cancer families," Breast Cancer Research and Treatment, vol. 147, no. 1, pp. 133­143, 2014.
+[77] N. Poumpouridou and C. Kroupis, "Hereditary breast cancer: beyond BRCA genetic analysis; PALB2 emerges," Clinical Chemistry and Laboratory Medicine, vol. 50, no. 3, pp. 423­434, 2012.
+[78] J. Szymanska-Pasternak, A. Szymanska, K. Medrek et al., "CHEK2 variants predispose to benign, borderline and lowgrade invasive ovarian tumors," Gynecologic Oncology, vol. 102, no. 3, pp. 429­431, 2006.
+
+BioMed Research International
+
+11
+
+[79] B. E. Baysal, J. A. DeLoia, J. E. Willett-Brozick et al., "Analysis of CHEK2 gene for ovarian cancer susceptibility," Gynecologic Oncology, vol. 95, no. 1, pp. 62­69, 2004.
+[80] N. Y. Krylova, D. N. Ponomariova, N. Y. Sherina et al., "CHEK2 1100 delC mutation in Russian ovarian cancer patients," Hereditary Cancer in Clinical Practice, vol. 5, no. 3, pp. 153­156, 2007.
+[81] G. S. Ow, A. V. Ivshina, G. Fuentes, and V. A. Kuznetsov, "Identification of two poorly prognosed ovarian carcinoma subtypes associated with CHEK2 germline mutation and nonCHEK2 somatic mutation gene signatures," Cell Cycle, vol. 13, no. 14, pp. 2262­2280, 2014.
+[82] K. Heikkinen, S.-M. Karppinen, Y. Soini, M. Ma¨kinen, and R. Winqvist, "Mutation screening of Mre11 complex genes: indication of RAD50 involvement in breast and ovarian cancer susceptibility," Journal of Medical Genetics, vol. 40, no. 12, article e131, 2003.
+[83] M. Ratajska, E. Antoszewska, A. Piskorz et al., "Cancer predisposing BARD1 mutations in breast-ovarian cancer families," Breast Cancer Research and Treatment, vol. 131, no. 1, pp. 89­97, 2012.
+[84] A. Toss, F. Sebastiani, E. Razzaboni et al., "Chemoprevention strategies for high risk women," Current Bioactive Compounds, vol. 8, no. 1, pp. 86­93, 2012.
+[85] E. Razzaboni, A. Toss, L. Cortesi et al., "Acceptability and adherence in a chemoprevention trial among women at increased risk for breast cancer attending the modena familial breast and ovarian cancer center (Italy)," The Breast Journal, vol. 19, no. 1, pp. 10­21, 2013.
+[86] L. Cortesi, E. Razzaboni, A. Toss et al., "A rapid genetic counselling and testing in newly diagnosed breast cancer is associated with high rate of risk-reducing mastectomy in BRCA1/2-positive Italian women," Annals of Oncology, vol. 25, no. 1, pp. 57­63, 2013.
+[87] S. Heymann, S. Delaloge, A. Rahal et al., "Radio-induced malignancies after breast cancer postoperative radiotherapy in patients with Li-Fraumeni syndrome," Radiation Oncology, vol. 5, no. 1, article 104, 2010.
+[88] J. Ledermann, P. Harter, C. Gourley et al., "Olaparib maintenance therapy in patients with platinum-sensitive relapsed serous ovarian cancer: a preplanned retrospective analysis of outcomes by BRCA status in a randomised phase 2 trial," The Lancet Oncology, vol. 15, no. 8, pp. 852­861, 2014.
+[89] L. Caste´ra, S. Krieger, A. Rousselin et al., "Next-generation sequencing for the diagnosis of hereditary breast and ovarian cancer using genomic capture targeting multiple candidate genes," European Journal of Human Genetics, vol. 22, no. 11, pp. 1305­1313, 2014.
+[90] N. Tung, C. Battelli, B. Allen et al., "Frequency of mutations in individuals with breast cancer referred for BRCA1 and BRCA2 testing using next-generation sequencing with a 25-gene panel," Cancer, vol. 121, no. 1, pp. 25­33, 2015.
+[91] A. Ruiz, G. Llort, C. Yagu¨e et al., "Genetic testing in hereditary breast and ovarian cancer using massive parallel sequencing," BioMed Research International, vol. 2014, Article ID 542541, 8 pages, 2014.
+[92] T. S. Frank, A. M. Deffenbaugh, J. E. Reid et al., "Clinical characteristics of individuals with germline mutations in BRCA1 and BRCA2: analysis of 10,000 individuals," Journal of Clinical Oncology, vol. 20, no. 6, pp. 1480­1490, 2002.
+[93] F. S. Hilbers, M. P. Vreeswijk, C. J. van Asperen, and P. Devilee, "The impact of next generation sequencing on the analysis of
+
+breast cancer susceptibility: a role for extremely rare genetic variation?" Clinical Genetics, vol. 84, no. 5, pp. 407­414, 2013.
+[94] I. R. Rainville and H. Q. Rana, "Next-generation sequencing for inherited breast cancer risk: counseling through the complexity topical collection on breast cancer," Current Oncology Reports, vol. 16, no. 3, article 371, 2014.
+
+MEDIATORS
+INFLAMMof ATION
+
+The Scientific World Journal
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Gastroenterology Research and Practice
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Journal of
+Diabetes Research
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Disease Markers
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Journal of
+Immunology Research
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+PPAR Research
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Submit your manuscripts at http://www.hindawi.com
+Journal of
+Obesity
+
+International Journal of
+Endocrinology
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+BioMed Research International
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Journal of
+Ophthalmology
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Stem Cells International
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Evidence-Based Complementary and Alternative Medicine
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Parkinson's Disease
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Journal of
+Oncology
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Computational and Mathematical Methods in Medicine
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Behavioural Neurology
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+AIDS
+Research and Treatment
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+Oxidative Medicine and Cellular Longevity
+
+Hindawi Publishing Corporation http://www.hindawi.com
+
+Volume 2014
+
+

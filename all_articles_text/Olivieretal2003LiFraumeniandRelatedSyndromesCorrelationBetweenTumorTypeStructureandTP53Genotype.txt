@@ -1,0 +1,575 @@
+[CANCER RESEARCH 63, 6643­ 6650, October 15, 2003]
+Li-Fraumeni and Related Syndromes: Correlation between Tumor Type, Family Structure, and TP53 Genotype1
+Magali Olivier, David E. Goldgar, Nayanta Sodha, Hiroko Ohgaki, Paul Kleihues, Pierre Hainaut,2 and Rosalind A. Eeles2
+IARC, Lyon, Cedex 8, France [M. O., D. E. G., H. O., P. K., P. H.]; Cancer Genetics Unit, Royal Marsden NHS Trust, Surrey SM2 5PT, United Kingdom [N. S., R. A. E.]; and Cancer Genetics Team, Institute of Cancer Research, Surrey SM2 5NG, United Kingdom [R. A. E.]
+
+ABSTRACT
+
+stress; reviewed in Ref. 10). Loss of p53 function is thought to
+
+A database has been created to collect information on families carrying a germ-line mutation in the TP53 gene and on families affected with Li-Fraumeni syndromes [Li-Fraumeni syndrome (LFS) and Li-Fraumenilike syndrome (LFL)]. Data from the published literature have been included. The database is available online at http://www.iarc.fr/p53, as part of the IARC TP53 Database. The analysis of the 265 families/ individuals that have been included thus far has revealed several new findings. In classical LFS families with a germ-line TP53 mutation (83 families), the mean age of onset of breast cancer was significantly lower than in LFS families (16 families) without a TP53 mutation (34.6 versus 42.5 years; P  0.0035). In individuals with a TP53 mutation, a correlation between the genotype and phenotype was found. Brain tumors were associated with missense TP53 mutations located in the DNA-binding loop that contact the minor groove of DNA (P  0.01), whereas adrenal gland carcinomas were associated with missense mutations located in the loops opposing the protein-DNA contact surface (P  0.003). Finally, mutations likely to result in a null phenotype (absence of the protein or loss of function) were associated with earlier onset brain tumors (P  0.004). These observations have clinical implications for genetic testing and tumor surveillance in LFS/LFL families.
+
+suppress a mechanism of protection against accumulation of genetic alterations. Somatic TP53 genetic alterations are frequent in a variety of human sporadic cancers, with frequencies varying from 10 to 60%, depending on the tumor type or population group (11). These alterations are compiled in the IARC TP53 Database and can be searched online (12).4 Mutations observed in the germ line and in sporadic cases are very similar (13), with a majority of missense mutations (75%) usually resulting in a defective transcriptional activity. Mutations are scattered throughout the coding sequence of the gene, all codons in the DNA binding domain being mutated at least once (11). However, 30% of mutations cluster at 8 "hotspot" codons (codons 175, 176, 220, 245, 248, 249, 273, and 282). Thus, TP53 differs from other tumor suppressors such as RB1, APC, or BRCA1/2, which are inactivated frequently by deletions or nonsense mutations.
+Despite a wide research interest in TP53 and LFSs, not all of the underlying genetic defects responsible for LFS have been found. In several families fulfilling the definition of classical LFS, no defect in TP53 has been found. On the other hand, some families having a germ-line mutation in TP53 display some, but not all features of LFS.
+
+These families are referred to as LFL (7, 9, 14). To aid the study of
+
+INTRODUCTION
+
+these syndromes, we have created a relational database that compiles
+
+LFS3 is a rare autosomal disorder characterized by a familial clustering of tumors, with a predominance of sarcomas, breast cancers, brain tumors, and adrenocortical carcinomas, diagnosed before the age of 45 years (1). Other cancers, such as leukemia, lung cancer, skin melanoma, gastric cancer, pancreatic cancer, and prostate cancer are also present in excess in some families and, in some cases, germ cell tumors, choroid plexus papilloma, and Wilms' tumor have been reported as part of the spectrum (2­5). In 1990, Malkin et al. (6) found that a few LFS families had a germ-line mutation in the tumor
+
+data from the literature and our own laboratory data (Institute of Cancer Research), to assess all of the patients and families with a TP53 germ-line mutation, as well as LFS and LFL families, which may be caused by other genes. This database is a redesigned and extended version of the IARC database of germ-line mutations described in Kleihues et al. (13). In this report, we describe the new database structure and content, and we use the database to investigate the influence of TP53 mutation on the type of tumor arising in these families.
+
+suppressor gene TP53. Since then, analyses of several series of LFS families have shown that 70% of such families are attributable to MATERIALS AND METHODS
+
+germ-line mutations in TP53 (2, 7­9). The TP53 tumor suppressor gene (chromosome 17p13; OMIM
+#191170) encodes a protein involved in many overlapping cellular pathways that control cell proliferation and homeostasis, such as cell cycle, apoptosis, and DNA repair. The p53 protein is a transcription factor constitutively expressed in most cell types and activated in response to various stress signals (including in particular genotoxic
+Received 3/25/03; revised 7/4/03; accepted 7/24/03. The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact. 1 The development of the IARC TP53 database is partially supported by a BIOMED program of the European Community (QLG-1999-00273). The present work has been partly supported by Institute of Cancer Research Discretionary Research Funds (to R. A. E.). 2 To whom requests for reprints should be addressed, at Cancer Genetics Team, Institute of Cancer Research, Cotswold Road, Sutton, Surrey SM2 5NG, United Kingdom. Phone: 44-208-661-3642; Fax: 44-208-770-1489; E-mail: ros@icr.ac.uk (to R. A. E. for clinical issues). IARC, 150 Court Albert-Thomas, Lyon, Cedex 8, France. Phone: 33472-738-532; Fax: 33-472-738-322; E-mail: hainaut@iarc.fr. (to P. H. for TP53 mutation and database issues). 3 The abbreviations used are: LFS, Li-Fraumeni syndrome; LFL, Li-Fraumeni-like syndrome; wt, wild-type; mut, mutation; FH, family history of cancer.
+
+Database Design. A relational database was created to enter information on families with LFS/LFL syndromes and those with a germ-line mutation in the TP53 gene. The database was designed using Microsoft Access software. Data on members with cancer and obligate TP53 mutation carriers in each family were entered, as well as family structure, tumor samples, details of the germ-line mutation, mutation detection method, and the publication in which the family is described. The central element of the database is the family information unit to which are connected the individual information unit, the germ-line mutation information units (TP53 and CHEK2, with mutation detection methods), and the reference information unit. The tumor information unit is connected to the individual information unit (see Fig. 1). Indexes were used to annotate data in a standardized way. The current structure of the database allows the addition of new table(s) to enter any novel germ-line mutation data if required. Indeed, an alternative susceptibility gene may be involved in some of the LFS and LFL families for which no germ-line mutation has been found. Details of annotations can be found on the internet.4
+Family Classification. Family history was defined as follows. LFS (classical LFS) refers to proband with sarcoma at 45 years, and a first-degree relative with tumor at 45 and another close relative with tumor at 45 or
+4 Internet address: http://www.iarc.fr/p53.
+
+6643
+
+GERM-LINE TP53 MUTATIONS AND LI-FRAUMENI SYNDROME
+
+sarcoma at any age (1). LFL refers to LFL in which we grouped Birch definition (LFL-B; Ref. 7), and Eeles (two definitions; LFL-E1 and LFL-E2). LFL-E1 (first definition of LFL by Eeles; Ref. 14) refers to two different tumors that are part of extended LFS in first- or second-degree relatives at any age (sarcoma, breast cancer, brain tumor, leukemia, adrenocortical tumor, melanoma, prostate cancer, and pancreatic cancer). LFL-E2 refers to sarcoma at any age in the proband with two of the following (two of the tumors may be in the same individual): breast cancer at 50 years and/or brain tumor, leukemia, adrenocortical tumor, melanoma, prostate cancer, pancreatic cancer at 60 years, or sarcoma at any age (15). LFL-B refers to proband with any childhood cancer or sarcoma, brain tumor or adrenocortical carcinoma at 45 years, with one first- or second-degree relative with typical LFS cancer (sarcoma, breast cancer, brain tumor, leukemia, or adrenocortical carcinoma) at any age, plus one first- or second-degree relative in the same lineage with any cancer diagnosed under age 60. FH refers to family history of cancer that does not fulfill LFS or any of the LFL definitions (Birch, Eeles E1, or E2,) and No FH refers to no family history of cancer.
+Tumor Classification. In the database, tumors are identified by their site (topography) and their histology (morphology) according to the International Classification of Diseases for Oncology classification (16). Because precise information on tumor histology is rarely given in the original publication, the majority of the tumors are classified as "tumor" or "cancer" in the database. For data analyses, tumors were recoded according to their topography/histology: tumors with the International Classification of Diseases for Oncology codes C18 to C20 were grouped as colorectal cancer, leukemia and lymphoma were grouped together, and sarcomas were divided into soft tissue sarcomas and bone sarcomas. Benign lesions and tumors of unknown origin were excluded. Multiple primary tumors in patients were counted individually.
+Dataset Description and Statistical Analysis. For the comparison of tumor spectra in LFS families with and without a mutation, the strict clinical definition of LFS was used. All of the tumors described in those families have been included, whether or not the individuals have been tested for the presence of a TP53 mutation. Tumors in proband/index cases were included (35% were in probands for LFS-wt and 25% for LFS-mut). Analyses have been repeated excluding tumors in proband cases, and the results are qualitatively unchanged.
+For the analysis of genotype/phenotype association, tumors in individuals proven to carry a TP53 mutation and from families with a history of cancer (LFS, LFL, and FH) have been selected, including proband/index cases (55% of the tumors were in probands). To correct for nonindependence of tumors from members of the same family, robust variance estimators were used. TP53 mutations were classified into type groups and structural groups as shown in
+
+Table 1 TP53 mutation groups
+
+Type groups
+
+Group A
+
+Transitions (G to A or C to T base change) outside CpG
+
+sites
+
+Group B
+
+Transitions (G to A or C to T base change) at CpG sites
+
+Group C
+
+Transversions (A to C or T to G, A to G or T to C, A to
+
+T or T to A, G to C or C to G, G to T or C to A base
+
+change)
+
+Group D
+
+Other mutations (deletions, insertions, tandem mutations,
+
+complex changes)
+
+Structure/function groupsa
+
+Group 1
+
+Missense mutations in the L2 and L3 loops (codons 164 to
+
+194 and 237 to 250 respectively) that bind the minor
+
+groove of DNA
+
+Group 2
+
+Missense mutations in the L1 loop (codons 115 to 135)
+
+and S2-S2-H2 motifs (codons 273 to 286) that binds
+
+the major groove of DNA
+
+Group 3
+
+Missense mutations in the non-DNA binding loops (codons
+
+136­140, 147­155, 199­203, 208­213, 220­229, 259­
+
+263), in the -sheet skeleton (codons 110­112, 141­146,
+
+156­163, 195­198, 204­207, 214­219, 230­236, 251­
+
+258, 264­272) or in the oligomerisation domain (codons
+
+325­355)
+
+Group 4
+
+Nonsense, frameshift and splice mutations which are likely
+
+to result in the absence of the TP53 protein or in a non
+
+functional protein
+
+a Predicted structural/functional properties of mutant proteins based on structural data from Ref. 40.
+
+Table 1. Analysis of the incidence of tumor types by mutation groups was done using multinomial logistic regression with adjustment of the variance for family membership. Analysis of the number/proportion of each tumor type in each family by mutation type and structure was done using Poisson regression. Age at diagnosis for each tumor was compared through the use of generalized linear models, adjusted for family. Before analysis, age at diagnosis was log-transformed to reduce skewness and heteroscedasticity. ANOVA was used to test for effects of mutation structure type (and their interaction) on mean and total severity score. When a significant overall effect of mutation structure or type was found the following three independent comparisons were made: (a) mutations in DNA binding domain: L2/L3 versus L1 loops (group 1 versus group 2); (b) missense mutations: DNA-binding versus non-DNA-binding (groups 1  2 versus 3); and (c) all mutations: missense versus truncating (groups 1  2  3 versus 4). All of the statistical analyses were done using STATA v7.0 (Stata Corporation, College Station, Texas).
+
+RESULTS
+
+Database Scope and Availability. A new relational database has
+
+been created to compile published information on families fulfilling
+
+the definition of Li-Fraumeni and related syndromes, and on individ-
+
+uals carrying a germ-line mutation in the TP53 gene. Data were
+
+extracted from peer-reviewed articles published between 1990 and June 2002. Unpublished data on 9 families were also included.5
+
+Criteria for inclusion were the following: (a) individuals carrying a
+
+sequenced TP53 germ-line mutation, affected or not by a cancer; and
+
+(b) individuals affected by a cancer and belonging to a family defined
+
+as LFS or LFL (using LFL-E1, -E2, and -B as defined in "Materials
+
+and Methods"), with or without a TP53 germ-line mutation. Because
+
+we mainly concentrated on individuals carrying a TP53 germ-line
+
+mutation, the database did not include LFS or LFL families described
+
+in the literature for which TP53 mutational status has not been
+
+Fig. 1. Structure of the IARC TP53 germ-line database. The data are organized into a relational database built using Microsoft Access software. The database includes information on families with LFS, LFL, and those with a TP53 germ-line mutation. Information related to: (a) the publication in which the family has been described; (b) the family structure; (c) the germ-line mutation and its detection method; (d) the affected members of the family (or unaffected individuals who are obligate gene mutation carriers); and (e) the tumors, is stored in five different tables or "units." The central element of the database is the family information units to which are connected the individual information unit, the TP53 and other germ-line mutation information unit (with the mutation detection method), and the reference information unit. The tumor information unit is connected to the individual information unit. The current structure of the database allows the addition of new table(s) to enter any novel germ-line mutation data if required.
+
+investigated. The database is maintained in Microsoft Access and consists of a
+set of tables organized in a relational scheme (see "Materials and Methods;" Fig. 1). It is maintained as part of the IARC TP53 Mutation Database, and a precise description of the information entered in each table can be found on the IARC web site (12).4 Updates of the database are released every year in a spreadsheet format that can be
+5 R. Eeles and N. Sodha, personal communication.
+
+6644
+
+GERM-LINE TP53 MUTATIONS AND LI-FRAUMENI SYNDROME
+
+Family history
+
+Table 2 Content of the IARC TP53 germ-line database
+
+Germ-line mutation
+
+Number of families
+
+Number of individuals
+
+Number of tumors
+
+adrenal tumors), with 4.7% brain tumors in LFS-wt versus 17.2% in LFS-mut (P  0.029), and if we exclude proband/index cases from the analysis.
+
+LFS
+LFL
+FHa No FH Unknown Total
+
+TP53 CHEK2 None TP53 CHEK2 CDKN2A None TP53 TP53 TP53
+--
+
+a FH, family history of cancer.
+
+83 2 14 67 3 1 22 37 28 8 265
+
+431 520 The comparison of the age at onset of tumors in LFS-wt and
+
+8 59
+
+11 67
+
+LFS-mut families showed a statistically significant lower average age
+
+330 373 at onset for breast cancer in LFS-mut families (34.6 versus 42.5 years;
+
+3 6 P  0.0035). No difference in age at diagnosis between LFS-mut and
+
+5 78
+
+7 90
+
+LFS-wt was observed for the other tumor types.
+
+114 126 Tumor Spectrum, Age at Onset, and Gender Distribution in
+
+32 47 TP53 Germ-Line Mutation Carriers. A total of 494 tumors were
+
+8 1068
+
+15 1262
+
+identified in individuals who were confirmed or obligate TP53 mu-
+
+tation carriers and who had a family history of cancer (LFS, LFL, or
+
+FH). The prevalence, age at onset, and gender distribution of these
+
+tumors is shown in Table 3. The most frequent cancer is breast cancer
+
+downloaded.6 It should be noted that only data associated with TP53 mutations are released. The full content of the database is available upon request.7 Authors are invited to submit their unpublished germline mutation data and clinical information directly.7 This material is reviewed before inclusion in the database.
+Users of the database should be aware of the limitations and possible biases that may affect the analysis of the database. Because data are extracted from published reports from various laboratories, the major sources of bias reside in trends in reporting and publishing
+
+(30.6%), followed by soft tissue sarcoma (17.8%), brain tumor (14%), bone sarcoma (13.4%), and adrenocortical carcinoma (6.5%). Less frequent tumor sites include lung, hematopoetic system, stomach, colorectum, skin, and ovary. The gender distribution for these tumors shows an excess of males for brain tumor, hematopoetic cancers, and stomach cancer, whereas an excess of females was observed for adrenocortical carcinoma and skin cancer. All of the breast cancers were in females. Males and females were equally affected by soft tissue and bone sarcoma, lung cancer, and colorectal cancer. This
+
+mutations, and in the method of mutation detection. These biases are described in Olivier et al. (12) and in the online help file.8
+
+TP53 Status and Tumor Spectrum in LFS Individuals. The
+
+dataset included in the database comprises 265 families (Table 2).
+
+Two hundred and twenty-six germ-line TP53 mutations were present
+
+in 223 families (1 family had 2 TP53 germ-line mutations and 1 had
+
+3 TP53 mutations). Five families had a CHEK2 (OMIM #604373)
+
+mutation, and 1 family had a CDKN2A (OMIM #600160) mutation.
+
+Thirty-six families did not have any identified mutation. There are a
+
+total of 1262 tumors recorded in the database, of which 564 are in
+
+individuals with confirmed TP53 germ-line mutations or obligate
+
+carriers of such mutations. Sixty-seven unaffected individuals who
+
+were confirmed or obligate TP53 carriers were recorded.
+
+Among the 99 families fulfilling the classical definition of LFS (see
+
+"Materials and Methods") and screened for TP53 mutation, 83 have a
+
+TP53 mutation (LFS-mut), and 16 have no mutation in TP53 (LFS-
+
+wt). The absence of TP53 mutation in those families has been confirmed by screening the entire coding region of TP53 as well as flanking regions, and by using different techniques in 15 of the families. One family has been screened from exon 5 to 9. Thus, it is possible to compare with good confidence the tumor spectrum in LFS
+
+Fig. 2. Tumor spectrum in LFS families with a TP53 mutated versus wt background. Tumors from all individuals belonging to families clinically defined as classical LFS are included. The total tumor number is 73 for LFS families without TP53 mutation and 491 for LFS families with a TP53 mutation. The percentage is indicated for each tumor site. Leuk/lymphoma, leukemia and lymphoma.
+
+families with and without a TP53 mutation. Fig. 2 shows the tumor
+
+site distribution of the cancers observed in individuals from LFS-mut Table 3 Tumor type, age at onset, and gender distribution in TP53 germ-line mutation
+
+and LFS-wt (expressed as the percentage of all of the tumors in
+
+carriers from LFS/LFL/FH families
+
+LFS-mut or LFS-wt, i.e. 491 and 73, respectively). The two distributions show a higher prevalence of brain tumors (13.2% versus 2.7%; P  0.006) in LFS-mut versus LFS-wt and the absence of adrenocortical carcinomas in LFS-wt individuals. Tumors from "other" types
+
+Tumor type
+
+Number (%)
+
+Median age at diagnosis
+TP53 carriers Sporadica
+
+% Male (ratio)
+
+TP53 carriers
+
+Sporadica
+
+were found to be twice as prevalent in LFS-wt versus LFS-mut patients. However, this latter observation may result from an inclusion bias. In the absence of an identified TP53 mutation, it is not possible to precisely delineate the limits of the pedigree, and we have included all of the tumors reported in the family tree. Therefore, it is likely that some of these tumors are phenocopies. Nonetheless, the difference observed for brain tumors is still valid if we restrict the analysis to the five main LFS tumor types (breast, brain, bone, soft tissue, and
+
+Breast cancer Soft tissue sarcoma Brain tumour Bone sarcoma Adrenocortical ca.b Lung cancer Leukemia/lymphoma Stomach cancer Colorectal cancer Ovarian ca. Skin melanoma Other
+
+151 (30.6) 88 (17.8) 69 (14) 66 (13.4) 32 (6.5) 17 (3.4) 15 (3) 12 (2.4) 8 (1.6) 7 (1.4) 6 (1.2) 23 (4.7)
+
+33 14 16 15
+3 40 27 35 34 39.5 43.5 --
+
+63.1 0 (0/151) 61.3 54 (43/80) 57.4 66 (42/64) 43.3 58 (35/60) 41.9 22 (7/32) 68.7 47 (8/17) 65.1 67 (8/12) 72.6 73 (8/11) 71.6 57 (4/7) 64.3 0 (0/7) -- 0 (0/6) ----
+
+0.7 53 56 56 51 66 55 62 50 0 -- --
+
+6 Internet address: http://www.iarc.fr/P53/Germline.html. 7 E-mail address: p53database@iarc.fr. 8 Internet address: http://www.iarc.fr/P53/Help.html.
+
+a Data based on cancer registries from United States, France, and United Kingdom
+compiled in Cancer Incidence in Five Continents v. 7, 1997 (41). b ca., carcinoma.
+
+6645
+
+GERM-LINE TP53 MUTATIONS AND LI-FRAUMENI SYNDROME
+
+gender distribution is similar to the one of sporadic cancers observed
+
+in the general population with the exception of adrenocortical carcinoma, which occur significantly (P  0.001) more frequently in
+
+females than in males in TP53 mutation carriers compared with
+
+sporadic cases in the general population (Table 3). However, most
+
+adrenocortical carcinoma cases are from United Kingdom (17 of 32
+
+cases with 2 of 17 in females), where an excess of females has been
+
+reported in childhood adrenocortical carcinoma. Thus, it is not clear
+
+whether the observed excess of females is related to the presence of a
+
+TP53 mutation or to other genetic or environmental factors (17).
+
+The age at onset of tumors in TP53 mutation carriers varies with
+
+tumor site; however, all of the inherited tumors show an earlier age at
+
+onset compared with their sporadic cancer counterparts (Table 3).
+
+When looking at the age distribution of the major cancer sites, brain
+
+tumor and soft tissue sarcoma show nonsymetric distributions, with a
+
+high prevalence of cases before the age of 10 (Fig. 3). The prevalence
+
+decreases in the 10 ­20 years range and increases again after 20 years
+
+for brain tumors, whereas soft tissue sarcomas show a constant prev-
+
+alence after 10 years. Thus, despite similar median age at diagnosis
+
+for soft tissue sarcoma and bone sarcoma (Table 3), soft tissue
+
+sarcomas occur more frequently in childhood (0 ­10 years), whereas
+
+bone sarcomas are more prevalent in teenagers (11­20 years; Fig. 3).
+
+The age distribution for breast cancer and adrenocortical carcinoma
+
+reflects the median age at onset for these tumors (34 and 3 years,
+
+respectively). There was a trend for later onset brain tumors and soft
+
+tissue sarcomas in females compared with males (median age: 28
+
+versus 11 years for brain tumors and 19 versus 11 years soft tissue
+
+sarcomas), although neither was statistically significant.
+
+Genotype/Phenotype Correlations in TP53 Mutation Carriers.
+
+Many in vitro experiments have shown that not all of the TP53
+
+mutations are functionally equivalent, some exhibiting gain of func-
+
+tion and/or dominant-negative properties (reviewed in Ref. 18). Thus,
+
+it is expected that TP53 germ-line mutants may have distinct biolog-
+
+ical properties that could promote tumorigenesis in distinct organ
+
+sites. To investigate this possibility, we searched for associations
+
+between tumor type and mutation type on the dataset of individuals
+
+who were confirmed or obligate TP53 mutation carriers and who had
+
+a family history of cancer (LFS, LFL, or FH).
+
+The type and location of TP53 germ-line mutations observed in
+
+those individuals is shown in Table 4 (only one mutation by family is
+
+included). The majority of these mutations are missense mutations
+
+(72%) and deletions (10%). Most of the deletions are small (1­ 4 bp)
+
+and induce a frameshift (data not shown). Overall, 46% of the mis-
+
+sense mutations were located at codons 175, 213, 245, 248, 273, and
+
+282. These codons are classic mutation hotspots in most forms of
+
+sporadic cancers and correspond mostly to transition mutations at
+
+cytosines within pyrimidine repeats (CpG sites; Ref. 11). Codons 133,
+
+152, and 337 were the next more frequently mutated codons. Muta-
+
+tions at codons 152 and 337 are transitions at CpG sites, whereas mutations at codon 133 were ATCG and ATGC. These codons are rarely mutated in sporadic tumors (0.8% of all somatic mutations;
+
+IARC TP53 Database; R7). Transitions at CpG sites and small deletions are thought to result from endogenous mutagenic processes, i.e. spontaneous deamination of methylated cytosine for transitions at CpG and polymerase slippage during replication for small deletions (19, 20). Thus, 60% of the germ-line mutations described for these
+
+Fig. 3. Age distribution of the major tumor sites in TP53 mutation carriers. Only tumors from individuals who were confirmed or obligate TP53 mutation carriers and who had a family history of cancer (LFS, LFL, or FH) are included. The total tumor number is 148 for breast, 62 for brain, 59 for bone, 81 for soft tissue, and 30 for adrenal gland.
+
+families may result from endogenous processes. It is of note that the binding. Group 1 corresponds to missense mutations affecting resi-
+
+mutation type did not differ significantly among LFL, LFS, and FH dues belonging to loops 2 and 3 of the p53 protein, which, together,
+
+families.
+
+constitute a folded domain stabilized by the binding of zinc and
+
+Mutations were classified based on the predicted structural/func- supporting the residues that bind to the minor groove of target DNA.
+
+tional properties of mutant proteins (see "Materials and Methods" and Group 2 includes missense mutations affecting residues located in the
+
+Table 1). The structural categories were selected on the basis of: (a) loop-sheet-helix motif that binds to the major groove of target DNA.
+
+specific tertiary structure motifs; and (b) role of these motifs in DNA These two categories reflect the fact that the DNA-binding surface of
+
+6646
+
+GERM-LINE TP53 MUTATIONS AND LI-FRAUMENI SYNDROME
+
+Table 4 TP53 germ-line mutations in the LFS/LFL/FH families
+
+Mutation type
+All Missense Deletion Nonsense Insertion Other
+Point GC:AT at CpG AT:GC GC:AT not CpG GC:CG AT:TA GC:TA AT:CG
+Hotspot codons 248 273 175 245 282 213 133 152 337
+
+LFS/LFL/FH families
+(n  190) 136 (71.6%) 19 (10%)
+14 (7.4%) 5 (2.6%) 16 (8.4%) (n  164) 92 (56%) 18 (11%) 16 (9.7%) 13 (7.9%) 11 (6.7%) 10 (6%) 4 (2.4%) (n  150) 18 (12%) 16 (10.7%) 12 (8%) 9 (6%) 7 (4.7%) 7 (4.7%) 5 (3.3%) 5 (3.3%) 4 (2.7%)
+
+p53 contains two distinct parts. Group 3 includes all of the missense mutations outside groups 1 and 2 (located in the non-DNA-binding loops, in the -sheet scaffold of the p53 protein, or in the oligomerization domain). Group 4 includes mutations expected to confer a "p53-null" phenotype (insertions or deletions with frameshift and nonsense mutations). The prevalence of the most frequent cancers (breast cancer, brain tumor, adrenocortical carcinoma, soft tissue sarcoma, and bone sarcoma) was calculated for each group of mutation as shown in Table 5. There was a statistically significant association between tumor type and mutation group, attributable mainly to brain tumors and adrenocortical carcinomas. Brain tumors were more likely to be associated with group 1 mutations compared with all of the other groups (odds ratio, 2.1; 95% confidence interval, 1.2­3.7; P  0.01) and adrenal tumors with group 3 mutations compared with all of the other groups (odds ratio, 2.9; 95% confidence interval, 1.3­ 6.4; P  0.008). For brain tumors, most of the effect was in differences between L2/L3 loops versus L1 loop (P  0.03). For adrenal cancers, the difference was confined to missense mutations in the non-DNA-binding domain versus missense mutations in the DNAbinding domain (P  0.003). No other tumor type exhibited significant variation across structural group, and there was no association between family classification (LFS versus LFL versus FH) and structural group of mutation. No correlation was found between mutation type (defined by the nature of the base change) and tumor type.
+Breast and brain tumors showed significant differences in age at diagnosis. The major difference for breast cancer was between missense mutations in the DNA-binding domain versus missense mutations not in the DNA-binding domain (32 years for groups 1  2 versus 42 for group 3; P  0.006). For brain tumor, the major effect
+
+could be seen in the comparison between null and non-null mutations (9 years for group 4 versus 25.5 years for groups 1  23; P  0.004). No association was found between age at onset and mutation type when defined by the nature of the base change.
+For brain tumors, 80% of group 1 mutations were at codons 248, 245, and 175. Codon 248 contacts directly with DNA in the minor groove, whereas codons 245 and 175 support and stabilize the L3 loop (Fig. 4). These codons are classical hotspot mutations and correspond to mutant proteins exhibiting loss of transactivation function and dominant-negative effects (on the wt p53 protein) in some cell-types (21). In individuals with adrenocortical carcinomas, 60% of group 3 mutations were at codons 151, 152, 219, and 220 that form a cluster of residues, which oppose with the DNA-binding surface of the protein (Fig. 4). These residues are not classical hotspots in sporadic cancers, but they are conserved among vertebrate, and in vitro functional assays have shown that they have impaired transcriptional activities (22, 23).
+DISCUSSION
+Since the discovery of the involvement of TP53 in LFS, the classical clinical definition of LFS has been revisited by several groups, because certain families carrying a TP53 mutation do not fulfill this definition (7, 15, 24). In LFS families without a TP53 mutation, several candidate genes have been screened. Of these, only the CHEK2 gene was found to be mutant in a limited number of families (25­28). However, from subsequent studies, it has become clear that the presence of a CHEK2 mutation probably does not predispose to LFS per se, but only to the breast cancers that have occurred within the context of families that match the LFS/LFL phenotype (29). Thus, TP53 mutation remains the only molecular explanation for this syndrome, and a better knowledge of the tumor spectrum associated with TP53 mutation would help clinicians to identify individuals who should be tested for germ-line TP53 mutation. Because LFS is a rare syndrome, this question would be more efficiently addressed in collaborative studies. In an attempt to set the ground for such a collaborative effort, we have created an international database based on the published literature of LFS/LFL families and of individuals with TP53 germ-line mutations. This database has been designed to enter detailed information on family structure, individual characteristics, tumor pathology, mutation description, and detection method. It is available on-line4 at the site that also provides access to the IARC TP53 database of somatic mutations.
+To investigate how TP53 mutation influences the tumor spectrum observed in LFS/LFL individuals, we have performed an analysis of the dataset assembled in the 2002 update of the database. The comparison of tumor spectra in LFS families (including only those fulfilling the classical definition) with or without a TP53 mutation showed that LFS-mut individuals have more brain tumors, have exclusively adrenocortical carcinoma, and have earlier onset breast cancer. No difference was observed for sarcomas between the two
+
+Table 5 Tumor distribution by structural groups of TP53 mutation in LFS/LFL/FH families Structural groups of mutations are defined in Table 1.
+
+Group 1
+
+Group 2
+
+Group 3
+
+Tumor site P % (n  142)
+
+Breast Brain Soft tissue Bone Adrenal Other
+
+0.176 0.028 0.539 0.575 0.004 0.044
+
+27.4 21.1 17.6 15.5 4.2 14
+
+a Age, the median age at diagnosis is indicated. b Only one tumor in this category.
+
+Agea
+32 29 5 15 1 34
+
+% (n  102)
+24.5 9.8 23.5 13.7 1 27.5
+
+Age
+31 25 11 13
+b
+38.5
+
+6647
+
+% (n  108)
+29.6 14.8 15.7 13.9 13 13
+
+Age
+42 24.5 6.5 13 3.5 34
+
+Group 4
+% (n  127)
+39.4 8.7 17.3 9.5 7.1 19
+
+Age
+33 9
+20 15 4 32
+
+GERM-LINE TP53 MUTATIONS AND LI-FRAUMENI SYNDROME
+
+Fig. 4. Hotspot codon positions associated with adrenal gland carcinoma (ADR) and brain tumors (BT). Three-dimensional view of the central DNA-binding domain of the p53
+protein in complex with DNA. Structural groups of residues are in different colors: group 1 residues, which correspond to L2 and L3 loops (binding in the minor groove of DNA helix) are in red; group 2 residues, which correspond to L1 loop and S2-S2-H2 motifs (binding in the major groove of DNA helix) are in yellow; group 3 residues, which correspond to the non-DNA-binding loops, the -sheet skeleton, or the oligomerization domain, are in cyan. The codon position of the mutations associated with adrenal gland carcinoma (ADR) and brain tumors (BT) are indicated in pink and blue, respectively.
+
+groups. The latter observation was expected, because the definition of mutations could predispose to a wider spectrum of cancers than LFS is based mainly on the presence of sarcomas. Also expected was described previously. the absence of adrenocortical carcinomas in LFS-wt, because they The age distribution of the most common tumor types in families
+
+have been shown to occur exclusively in TP53 germ-line mutation with TP53 mutations indicates that the risk of developing a specific
+
+carriers (30). The difference observed for brain tumors suggest that cancer varies with age. Before 10 years of age, adrenal gland tumors, their presence in a family with sarcoma(s) may be a good predictor for soft tissue sarcomas, and brain tumors are the most prevalent cancers.
+
+the presence of a TP53 mutation. Moreover, these observations sup- In teenagers, the prevalence of these three cancers decreases, whereas
+
+port the idea of an active role of TP53 mutation in the development of the most common cancer is bone sarcoma. After the age of 20, the
+
+brain and adrenal gland tumors.
+
+main cancers are breast cancers and, again, brain tumors, which show
+
+The analysis of the tumor spectrum in LFS, LFL, and FH individ- a biphasic age distribution. The comparison with the general popula-
+
+uals proven to have a germ-line TP53 mutation or obligate TP53 tion indicates that, in the cases of breast cancer, soft tissue sarcomas,
+
+mutation carriers showed that the classical LFS tumors (sarcoma, and adrenal gland carcinomas, the peak of incidence is at younger breast, brain, and adrenal) represented 80% of all of the tumors in ages in TP53 mutation carriers. For bone sarcomas, the trend in TP53 these individuals. A group of "less-prevalent" tumors including lung mutation carriers reflects the age-distribution in the general popula-
+
+carcinoma, hematopoetic cancers, stomach cancer, colorectal cancer, tion. For brain tumors, the biphasic effect may correspond to tumors
+
+ovary carcinoma, and skin melanoma, accounted for 15% of the of different histological types, thus also reflecting their age distributumors. How TP53 mutations contribute to these "less-prevalent" tion in the general population (33).
+
+tumors is not clear. These tumors are frequent in the general popula- In the series of TP53 mutation carriers analyzed here (confirmed or
+
+tion, and their presence in a LFS family may be because of chance. On obligatory mutation carriers with LFS, LFL, or FH), we found a the other hand, we showed that in the context of a germ-line TP53 significant association between the tumor type and the structural (and
+
+mutation, these tumors occur at earlier age at onset. In a recent study, potentially functional) class of the mutation. Although the restriction
+
+Birch et al. (31) reported the association of Li-Fraumeni cancers with of the analysis to known and obligate carriers reduces the power of the TP53 mutation by age groups. Their analysis included 28 families series, this is the most stringent type of analysis, because phenocopies ascertained by standard criteria (classical LFS and LFL B). They used are known to occur in LFS families (34). Missense mutations in the L2
+
+data from United Kingdom national cancer statistics for comparison and L3 loops that bind to the minor groove of DNA were associated with prevalence in the general population. They found leukemia and, with brain tumors (P  0.029), whereas those outside the DNAto a lesser extent, stomach cancer to be associated with TP53 muta- binding surface (in the non-DNA-binding loops, -sheets, and oli-
+
+tion. Thus, as reported recently by Nichols et al. (32), germ-line TP53 gomerization domain) were associated with adrenocortical carcinoma
+
+6648
+
+GERM-LINE TP53 MUTATIONS AND LI-FRAUMENI SYNDROME
+
+(P  0.004). Mutations expected to result in a p53-null phenotype correlation between mutation and the clinical and pathological param-
+
+were not associated with any specific type of tumor, but were asso- eters of the resulting cancers.
+
+ciated with earlier onset tumors, in particular for brain tumors. This
+
+suggests that these null mutations have a particularly severe effect or, alternatively, they could predispose to tumors of different histological types with a worse prognosis. However, current data on histologies are too sparse to reach any definite conclusion. In a series of 34 LFS and LFL families, Birch et al., (35) have reported an association of brain tumor and breast cancer with missense mutations in the DNAbinding domain (35). Our analysis of a larger series of families (which include the 34 families reported by Birch et al.) revealed a new association between adrenocortical carcinoma and group 3 mutations, and confirmed the association of brain tumor with genotype, refining it to the L2/L3 loops of the p53 protein, which bind to the minor groove of DNA. For breast cancer, although we did not find an association with a particular structure-group of mutations, we found that mutations in the DNA-binding domain were associated with tumors of earlier onset.
+It is possible that tissue-specific factors influence the expression of p53 mutant properties. A striking example of this has been described recently for the inherited TP53 mutation, R337H, which predisposes exclusively to childhood adrenocortical carcinoma (36). A functional assessment of this mutant has shown that its activity is pH-sensitive, i.e. inactive (mutant-like) at pH 7.7 and active (wt like) at pH 7.7 (37). Thus, the protein may adopt a mutant phenotype only under particular physiological conditions. Although this does not explain the tissue specificity of the R337H mutant, this example illustrates the dependence of p53 protein function on the cellular context in which it is expressed. In our analysis, adrenocortical carcinoma was associated with codons located in the opposite side of the DNA-binding surface of the protein. These residues are three conserved prolines not frequently mutated in sporadic human cancers (codons 151, 152, and 219) and a conserved tyrosine (codon 220) frequently mutated in head and neck cancers (IARC TP53 Database4). Functional assays have shown that these mutants have defective transcriptional activities (22, 23, 38). The particular clustering of residues may suggest that mutation in this region of the protein lead to specific loss or gain of function, which would promote preferentially (but not exclusively) adrenocortical carcinoma. However, additional studies on a larger number of cases would be necessary to verify this finding. The excess of brain tumor in individuals with group 1 mutations is interesting, because the main hotspot codon for sporadic brain tumors is at codon 273, corresponding to a group 2 mutation. Group 1 and 2 mutations correspond to the two functional segments of the DNA-binding domain of the p53 protein (see Fig. 4). Overall, these results indicate that alteration of direct protein-DNA contacts is important in the pathogenesis of brain tumors and that the consequence of this alteration may differ, depending which functional segment is affected.
+The analysis performed here has clinical implications for the management of families with germ-line TP53 mutations. The finding that breast cancers occur 8 years earlier in LFS families with TP53 mutations than in those families without mutations argues in favor of an earlier clinical surveillance program for such families, starting in the early twenties. The precise screening schedule is controversial, but many centers would advocate annual clinical examination. Magnetic imaging of the breast is being investigated for this purpose in clinical trials (39). For adrenocortical tumors, some centers advocate annual abdominal ultrasonography in children. Our findings suggest that such a surveillance program would be particularly important in families with structural group 3 TP53 mutations. Additional exploitation of molecular TP53 data for clinical purposes awaits a global approach to integrate structural biology, functional assessment of mutants, and the
+
+REFERENCES
+1. Li, F. P., Fraumeni, J. F., Jr., Mulvihill, J. J., Blattner, W. A., Dreyfus, M. G., Tucker, M. A., and Miller, R. W. A cancer family syndrome in twenty-four kindreds. Cancer Res., 48: 5358 ­5362, 1988.
+2. Frebourg, T., Barbier, N., Yan, Y. X., Garber, J. E., Dreyfus, M., Fraumeni, J., Jr., Li, F. P., and Friend, S. H. Germ-line p53 mutations in 15 families with Li-Fraumeni syndrome. Am. J. Hum. Genet., 56: 608 ­ 615, 1995.
+3. Garber, J. E., Burke, E. M., Lavally, B. L., Billett, A. L., Sallan, S. E., Scott, R. M., Kupsky, W., and Li, F. P. Choroid plexus tumors in the breast cancer-sarcoma syndrome. Cancer (Phila.), 66: 2658 ­2660, 1990.
+4. Hartley, A. L., Birch, J. M., Tricker, K., Wallace, S. A., Kelsey, A. M., Harris, M., and Jones, P. H. Wilms' tumor in the Li-Fraumeni cancer family syndrome. Cancer Genet. Cytogenet., 67: 133­135, 1993.
+5. Strong, L. C., Stine, M., and Norsted, T. L. Cancer in survivors of childhood soft tissue sarcoma and their relatives. J. Natl. Cancer Inst., 79: 1213­1220, 1987.
+6. Malkin, D., Li, F. P., Strong, L. C., Fraumeni, J. F., Jr., Nelson, C. E., Kim, D. H., Kassel, J., Gryka, M. A., Bischoff, F. Z., Tainsky, M. A., and. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science (Wash. DC), 250: 1233­1238, 1990.
+7. Birch, J. M., Hartley, A. L., Tricker, K. J., Prosser, J., Condie, A., Kelsey, A. M., Harris, M., Jones, P. H., Binchy, A., and Crowther, D. Prevalence and diversity of constitutional mutations in the p53 gene among 21 Li-Fraumeni families. Cancer Res., 54: 1298 ­1304, 1994.
+8. Varley, J. M., McGown, G., Thorncroft, M., Santibanez-Koref, M. F., Kelsey, A. M., Tricker, K. J., Evans, D. G., and Birch, J. M. Germ-line mutations of TP53 in Li-Fraumeni families: an extended study of 39 families. Cancer Res., 57: 3245­3252, 1997.
+9. Evans, D. G., Birch, J. M., Thorneycroft, M., McGown, G., Lalloo, F., and Varley, J. M. Low rate of TP53 germline mutations in breast cancer/sarcoma families not fulfilling classical criteria for Li-Fraumeni syndrome. J. Med. Genet., 39: 941­944, 2002.
+10. Pluquet, O., and Hainaut, P. Genotoxic and non-genotoxic pathways of p53 induction. Cancer Lett., 174: 1­15, 2001.
+11. Hainaut, P., and Hollstein, M. p53 and human cancer: the first ten thousand mutations. Adv. Cancer Res., 77: 81­137, 2000.
+12. Olivier, M., Eeles, R., Hollstein, M., Khan, M. A., Harris, C. C., and Hainaut, P. The IARC TP53 database: new online mutation analysis and recommendations to users. Hum. Mutat., 19: 607­ 614, 2002.
+13. Kleihues, P., Schauble, B., zur, H. A., Esteve, J., and Ohgaki, H. Tumors associated with p53 germline mutations: a synopsis of 91 families. Am. J. Pathol., 150: 1­13, 1997.
+14. Eeles, R. A., Bartkova, J., Lane, D. P., and Bartek, J. The role of TP53 in breast cancer development. Cancer Surv., 18: 57­75, 1993.
+15. Eeles, R. A. Germline Mutations in the TP53 Gene in Breast and Other Cancers. University of London, 2000.
+16. Fritz, A., Percy, C., Jack, A., Shanmugaratnam, K., Sobin, L., Parkin, D. M., and Whelan, S. International Classification of Diseases for Oncology (ICD-O), 3 Ed. World Health Organization, 2000.
+17. Parkin, D. M., Kramarova, E., Draper, G. J., Masuyer, E., Michaelis, J., Neglia, J., Qureshi, S., Stiller, C. A. International Incidence of Childhood Cancer, Vol. II. No144, Lyon, France: IARC Press, 1998.
+18. Cadwell, C., and Zambetti, G. P. The effects of wild-type p53 tumor suppressor activity and mutant p53 gain-of-function on cell growth. Gene, 277: 15­30, 2001.
+19. Yang, A. S., Gonzalgo, M. L., Zingg, J. M., Millar, R. P., Buckley, J. D., and Jones, P. A. The rate of CpG mutation in Alu repetitive elements within the p53 tumor suppressor gene in the primate germline. J. Mol. Biol., 258: 240 ­250, 1996.
+20. Greenblatt, M. S., Grollman, A. P., and Harris, C. C. Deletions and insertions in the p53 tumor suppressor gene in human cancers: confirmation of the DNA polymerase slippage/misalignment model. Cancer Res., 56: 2130 ­2136, 1996.
+21. Forrester, K., Lupold, S. E., Ott, V. L., Chay, C. H., Band, V., Wang, X. W., and Harris, C. C. Effects of p53 mutants on wild-type p53-mediated transactivation are cell type dependent. Oncogene, 10: 2103­2111, 1995.
+22. Boyle, J. M., Greaves, M. J., Camplejohn, R. S., Birch, J. M., Roberts, S. A., and Varley, J. M. Radiation-induced G1 arrest is not defective in fibroblasts from Li-Fraumeni families without TP53 mutations. Br. J. Cancer, 79: 1657­1664, 1999.
+23. Smith, P. D., Crossland, S., Parker, G., Osin, P., Brooks, L., Waller, J., Philp, E., Crompton, M. R., Gusterson, B. A., Allday, M. J., and Crook, T. Novel p53 mutants selected in BRCA-associated tumours which dissociate transformation suppression from other wild-type p53 functions. Oncogene, 18: 2451­2459, 1999.
+24. Brugieres, L., Gardes, M., Moutou, C., Chompret, A., Meresse, V., Martin, A., Poisson, N., Flamant, F., Bonaiti-Pellie, C., Lemerle, J., and. Screening for germ line p53 mutations in children with malignant tumors and a family history of cancer. Cancer Res., 53: 452­ 455, 1993.
+25. Bell, D. W., Varley, J. M., Szydlo, T. E., Kang, D. H., Wahrer, D. C., Shannon, K. E., Lubratovich, M., Verselis, S. J., Isselbacher, K. J., Fraumeni, J. F., Birch, J. M., Li, F. P., Garber, J. E., and Haber, D. A. Heterozygous germ line hCHK2 mutations in Li-Fraumeni syndrome. Science (Wash. DC), 286: 2528 ­2531, 1999.
+26. Vahteristo, P., Tamminen, A., Karvinen, P., Eerola, H., Eklund, C., Aaltonen, L. A., Blomqvist, C., Aittomaki, K., and Nevanlinna, H. p53, CHK2, and CHK1 genes in
+
+6649
+
+GERM-LINE TP53 MUTATIONS AND LI-FRAUMENI SYNDROME
+
+Finnish families with Li-Fraumeni syndrome: further evidence of CHK2 in inherited cancer predisposition. Cancer Res., 61: 5718 ­5722, 2001. 27. Bougeard, G., Limacher, J. M., Martin, C., Charbonnier, F., Killian, A., Delattre, O., Longy, M., Jonveaux, P., Fricker, J. P., Stoppa-Lyonnet, D., Flaman, J. M., and Frebourg, T. Detection of 11 germline inactivating TP53 mutations and absence of TP63 and HCHK2 mutations in 17 French families with Li-Fraumeni or Li-Fraumenilike syndrome. J. Med. Genet., 38: 253­257, 2001. 28. Stone, J. G., Eeles, R. A., Sodha, N., Murday, V., Sheriden, E., and Houlston, R. S. Analysis of Li-Fraumeni syndrome and Li-Fraumeni-like families for germline mutations in Bcl10. Cancer Lett., 147: 181­185, 1999. 29. Sodha, N., Houlston, R. S., Williams, R., Yuille, M. A., Mangion, J., and Eeles, R. A. A robust method for detecting CHK2/RAD53 mutations in genomic DNA. Hum. Mutat., 19: 173­177, 2002. 30. Varley, J. M., McGown, G., Thorncroft, M., James, L. A., Margison, G. P., Forster, G., Evans, D. G., Harris, M., Kelsey, A. M., and Birch, J. M. Are there lowpenetrance TP53 alleles? Evidence from childhood adrenocortical tumors. Am. J. Hum. Genet., 65: 995­1006, 1999. 31. Birch, J. M., Alston, R. D., McNally, R. J., Evans, D. G., Kelsey, A. M., Harris, M., Eden, O. B., and Varley, J. M. Relative frequency and morphology of cancers in carriers of germline TP53 mutations. Oncogene, 20: 4621­ 4628, 2001. 32. Nichols, K. E., Malkin, D., Garber, J. E., Fraumeni, J. F., Jr., and Li, F. P. Germ-line p53 mutations predispose to a wide spectrum of early-onset cancers. Cancer Epidemiol. Biomark. Prev., 10: 83­ 87, 2001. 33. Ohgaki, H., Vital, A., Kleihues, P., and Hainaut, P. Li-Fraumeni syndrome and TP53 germline mutations. In: P. Kleihues and W. K. Cavenee (eds.), Pathology and Genetics of Tumours of the Nervous System, pp. 231­234. Lyon, France: IARC Press, 2000. 34. Varley, J. M., McGown, G., Thorncroft, M., White, G. R., Tricker, K. J., Kelsey, A. M., Birch, J. M., and Evans, D. G. A novel TP53 splicing mutation in a
+
+Li-Fraumeni syndrome family: a patient with Wilms' tumour is not a mutation carrier. Br. J. Cancer, 78: 1081­1083, 1998. 35. Birch, J. M., Blair, V., Kelsey, A. M., Evans, D. G., Harris, M., Tricker, K. J., and Varley, J. M. Cancer phenotype correlates with constitutional TP53 genotype in families with the Li-Fraumeni syndrome. Oncogene, 17: 1061­1068, 1998. 36. Ribeiro, R. C., Sandrini, F., Figueiredo, B., Zambetti, G. P., Michalkiewicz, E., Lafferty, A. R., DeLacerda, L., Rabin, M., Cadwell, C., Sampaio, G., Cat, I., Stratakis, C. A., and Sandrini, R. An inherited p53 mutation that contributes in a tissue-specific manner to pediatric adrenal cortical carcinoma. Proc. Natl. Acad. Sci. USA, 98: 9330 ­9335, 2001. 37. DiGiammarino, E. L., Lee, A. S., Cadwell, C., Zhang, W., Bothner, B., Ribeiro, R. C., Zambetti, G., and Kriwacki, R. W. A novel mechanism of tumorigenesis involving pH-dependent destabilization of a mutant p53 tetramer. Nat. Struct. Biol., 9: 12­16, 2002. 38. Shi, X. B., Nesslinger, N. J., Deitch, A. D., Gumerlock, P. H., and DeVere White, R. W. Complex functions of mutant p53 alleles from human prostate cancer. Prostate, 51: 59 ­72, 2002. 39. Brown, J., Buckley, D., Coulthard, A., Dixon, A. K., Dixon, J. M., Easton, D. F., Eeles, R. A., Evans, D. G., Gilbert, F. G., Graves, M., Hayes, C., Jenkins, J. P., Jones, A. P., Keevil, S. F., Leach, M. O., Liney, G. P., Moss, S. M., Padhani, A. R., Parker, G. J., Pointon, L. J., Ponder, B. A., Redpath, T. W., Sloane, J. P., Turnbull, L. W., Walker, L. G., and Warren, R. M. Magnetic resonance imaging screening in women at genetic risk of breast cancer: imaging and analysis protocol for the UK multicentre study. UK MRI Breast Screening Study Advisory Group. Magn. Reson. Imaging, 18: 765­776, 2000. 40. Cho, Y., Gorina, S., Jeffrey, P. D., and Pavletich, N. P. Crystal structure of a p53 tumor suppressor-DNA complex: understanding tumorigenic mutations. 41. Ferlay, J., Bray, F., Pisani, P., and Parkin, D. M. GLOBOCAN 2000: Cancer Incidence, Mortality and Prevalence Worldwide, Version 1.0. Lyon, France: IARC Press, 2001.
+
+6650
+
+

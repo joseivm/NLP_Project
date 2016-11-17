@@ -1,0 +1,77 @@
+Breast Cancer Res Treat (2011) 129:1019­1020 DOI 10.1007/s10549-011-1574-3
+LETTER TO THE EDITOR
+RAD51C germline mutations in Chinese women with familial breast cancer
+Zhiyuan Pang · Lu Yao · Juan Zhang · Tao Ouyang · Jinfeng Li · Tianfeng Wang · Zhaoqing Fan · Tie Fan · Benyao Lin · Yuntao Xie
+
+Received: 3 May 2011 / Accepted: 5 May 2011 / Published online: 20 May 2011 Ó Springer Science+Business Media, LLC. 2011
+
+To the Editor,
+Germline mutations in high penetrance breast cancer susceptibility genes, BRCA1 and BRCA2, account for only approximately 10% of Chinese familial breast cancers [1], indicating other susceptibility genes related to Chinese familial breast cancer may exist. RAD51C gene (Rasrelated associated with diabetes) is located on chromosome 17q23, a region that was found to be frequently amplified in breast tumors [2, 3]. RAD51C gene is a member of the RAD51 family and plays an essential role in homologous recombination, DNA damage sensitivity, genomic integrity, embryonic development, activation of cell cycle checkpoint kinase 2 (CHK2), and cell cycle arrest in response to DNA damage [4­8].
+Recently, a biallelic missense mutation in the RAD51C gene was found in a family from Pakistan with Fanconi anemia-like disorder [9]. In an accompanying article, six monoallelic deleterious mutations in the RAD51C gene were found in 480 BRCA1/2-negative breast/ovarian cancer families from Germany [10]. This study provides the first evidence to show that the RAD51C is a breast cancer susceptibility gene. Thus, the RAD51C gene may deserve to be comprehensively screened as a breast cancer susceptibility gene in other populations.
+Zhiyuan Pang and Lu Yao contributed equally to this study.
+Z. Pang Á L. Yao Á J. Zhang Á T. Ouyang Á J. Li Á T. Wang Á Z. Fan Á T. Fan Á B. Lin Á Y. Xie (&) Key Laboratory of Carcinogenesis and Translational Research (Ministry of Education), Breast Center, Beijing Cancer Hospital & Institute, Peking University Cancer Hospital, Beijing 100142, People's Republic of China e-mail: zlxyt2@bjmu.edu.cn
+
+In this study, we screened the entire coding regions and exon­intron boundaries of the RAD51C gene in 273 Chinese women with familial breast cancer who do not carry mutations in BRCA1 and BRCA2 genes by polymerase chain reaction (PCR)-sequencing. Familial breast cancer cases were from the Breast Center, Peking University Cancer Hospital from July 2006 to May 2010. The criteria of familial breast cancer are (1) patients have at least one or more first- or second-degree relatives affected with breast cancer and/or ovarian cancer regardless of age and (2) bilateral breast cancer regardless of age. Four hundreds seventy-five healthy Chinese women serve as controls. Both of the cases and controls are Han Chinese women and reside in the north of China. The whole coding sequences of RAD51C were amplified using nine sets of primers described elsewhere with a minor modification [10]. All fragments were sequenced using BigDye Terminator Cycle Sequencing Kit and ABI 3730 automated sequencer (Applied Biosystems, Foster City, CA). Each mutation was confirmed by duplicate.
+In total, we detected eight germline sequence variants in the RAD51C gene in the 273 BRCA1/2-negative familial breast cancer cases. Among them, three were non-coding variants and five were coding variants (Table 1). None of them were previously reported. Of the coding variants, one was synomenous and four were non-synomenous. Among the four amino-acid substitution variants, 4C[G (R2G) was located in exon 1, 635G[A (R212H) and 644A[G (D215G) in exon 4, and 882G[C (Q294H) in exon 6. The missense variants R2G, D215G, and Q294H were detected in one index case, whereas R212H was detected in two unrelated cases. We then screened the four missense variants in 475 healthy controls. The variant R212H was found in two healthy individuals, indicating this variant was unlikely to be pathogenic. In contrast, none of the
+
+123
+
+1020
+
+Breast Cancer Res Treat (2011) 129:1019­1020
+
+Table 1 Sequence variants of the RAD51C gene in 273 BRCA1/2-negative familial breast cancer cases and 475 healthy controls
+
+Site Nucleotide change
+
+Protein change
+
+Cases
+
+Controls
+
+Predictive algorithms
+
+SIFT
+
+PolyPhen
+
+PMut
+
+Ex1 Ex4 Ex4 Ex6 Ex2 IVS3 IVS5 IVS6
+
+4C[G 635G[A 644A[G 882G[C 348C[G IVS3, 571 ? 5G[A IVS4, 706 - 18T[C IVS6, 904 ? 34T[C
+
+R2G R212H D215G Q294H P116P Non-coding Non-coding Non-coding
+
+1/273 2/273 1/273 1/273 1/273 1/273 3/273 2/273
+
+0/475 2/475 0/475 0/475 ­ ­ ­ ­
+
+Yes Ps No Pb Yes Ps No No
+
+No Yes Yes No
+
+Ex exon, IVS intervening sequence
+SIFT: Yes affects function, No tolerated. PolyPhen: Ps possibly damaging, Pb probably damaging, No benign. PMut: Yes pathological, No tolerated
+
+remaining three variants R2G, D215G, and Q294H was found in the 475 healthy controls. Furthermore, alignment of the RAD51C ortholog and paralog sequences using data extracted from the National Center for Biotechnology Information (NCBI) database revealed that D215G is under strong functional constraint.
+For further functional analysis of these missense variants, SIFT (http://sift.jcvi.org/), PolyPhen (http://genetics. bwh.harvard.edu/pph/), and PMut (http://mmb2.pcb.ub.es: 8080/PMut/) were used for functional prediction. R2G and D215G are predicted to be pathogenic, whereas the Q294H is considered to be tolerated or benign (Table 1).
+Taken together, in this study, we identified eight novel variants in the RAD51C gene in our cohort. Two missense variants R2G and D215G of the RAD51C gene are likely to be pathogenic in Chinese women. Therefore, RAD51C gene might be associated with breast cancer risk in Chinese women.
+Acknowledgments This study was supported by the grant from the National Natural Science Foundation of China (No. 81071629), and the Program for Breast Cancer Tissue Bank of Beijing.
+References
+1. Li WF, Hu Z, Rao NY, Song CG, Zhang B, Cao MZ, Su FX, Wang YS, He PQ, Di GH, Shen KW, Wu J, Lu JS, Luo JM, Liu XY, Zhou J, Wang L, Zhao L, Liu YB, Yuan WT, Yang L, Shen ZZ, Huang W, Shao ZM (2008) The prevalence of BRCA1 and BRCA2 germline mutations in high-risk breast cancer patients of Chinese Han nationality: two recurrent mutations were identified. Breast Cancer Res Treat 110(1):99­109
+
+2. Wu GJ, Sinclair CS, Paape J, Ingle JN, Roche PC, James CD, Couch FJ (2000) 17q23 amplifications in breast cancer involve the PAT1, RAD51C, PS6K, and SIGma1B genes. Cancer Res 60(19): 5371­5375
+3. Dosanjh MK, Collins DW, Fan W, Lennon GG, Albala JS, Shen Z, Schild D (1998) Isolation and characterization of RAD51C, a new human member of the RAD51 family of related genes. Nucleic Acids Res 26(5):1179­1184
+4. French CA, Masson JY, Griffin CS, O'Regan P, West SC, Thacker J (2002) Role of mammalian RAD51L2 (RAD51C) in recombination and genetic stability. J Biol Chem 277(22):19322­19330
+5. Liu Y, Masson JY, Shah R, O'Regan P, West SC (2004) RAD51C is required for Holliday junction processing in mammalian cells. Science 303(5655):243­246
+6. Sharan SK, Kuznetsov SG (2007) Resolving RAD51C function in late stages of homologous recombination. Cell Div 2:15
+7. Smeenk G, de Groot AJ, Romeijn RJ, van Buul PP, Zdzienicka MZ, Mullenders LH, Pastink A, Godthelp BC (2010) Rad51C is essential for embryonic development and haploinsufficiency causes increased DNA damage sensitivity and genomic instability. Mutat Res 689(1­2):50­58
+8. Badie S, Liao C, Thanasoula M, Barber P, Hill MA, Tarsounas M (2009) RAD51C facilitates checkpoint signaling by promoting CHK2 phosphorylation. J Cell Biol 185(4):587­600
+9. Vaz F, Hanenberg H, Schuster B, Barker K, Wiek C, Erven V, Neveling K, Endt D, Kesterton I, Autore F, Fraternali F, Freund M, Hartmann L, Grimwade D, Roberts RG, Schaal H, Mohammed S, Rahman N, Schindler D, Mathew CG (2010) Mutation of the RAD51C gene in a Fanconi anemia-like disorder. Nat Genet 42(5):406­409
+10. Meindl A, Hellebrand H, Wiek C, Erven V, Wappenschmidt B, Niederacher D, Freund M, Lichtner P, Hartmann L, Schaal H, Ramser J, Honisch E, Kubisch C, Wichmann HE, Kast K, Deissler H, Engel C, Muller-Myhsok B, Neveling K, Kiechle M, Mathew CG, Schindler D, Schmutzler RK, Hanenberg H (2010) Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 42(5):410­414
+
+123
+
+

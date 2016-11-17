@@ -1,0 +1,86 @@
+Schnurbein et al. Breast Cancer Research 2013, 15:R120 http://breast-cancer-research.com/content/15/6/R120
+
+LETTER
+RAD51C deletion screening identifies a recurrent gross deletion in breast cancer and ovarian cancer families
+Gioia Schnurbein1,2, Jan Hauke1,2, Barbara Wappenschmidt1,2, Nana Weber-Lassalle1,2, Stefanie Engert3, Heide Hellebrand3, Lutz Garbes4, Alexandra Becker1,2, Guido Neidhardt1,2, Kerstin Rhiem1,2, Alfons Meindl3, Rita K Schmutzler1,2* and Eric Hahnen1,2
+
+RAD51C is an integral part of the DNA double-strand repair through homologous recombination, and monoallelic mutations were found in ~1.3% of BRCA1/2-negative breast cancer (BC) and/or ovarian cancer (OC) families [1]. Several studies confirmed the occurrence of RAD51C mutations predominantly in BC and/or OC families, although with varying frequencies, clearly establishing RAD51C as a cancer-predisposing gene [2-4]. There is ongoing debate whether pathogenic RAD51C alterations increase the relative risk for BC in addition to that for OC, which was estimated to be 5.88 (95% confidence interval = 2.91 to 11.88; P = 7.65 × 10­7) [2].
+Elucidating the role of RAD51C in BC pathogenesis is hampered by the low frequency of clearly truncating RAD51C mutations. Deleterious alterations, as deduced by mutation type, are virtually absent in BC-only families, and very few BC cases with a BC/OC family history have been experimentally proven to carry a truncating RAD51C mutation [1-4]. In this study, we screened for gross genomic alterations within the RAD51C gene in BRCA1/2-negative familial BC index cases, 500 of which showing a BC-only family history and 325 a BC/OC family history. Written informed consent was obtained from all patients and ethical approval was given by the Ethics Committee of the University of Cologne (07­185).
+We identified a large heterozygous RAD51C deletion encompassing exons 5 to 9 in two independent families (Figure 1A,B,C). In the first (family #1), remarkably a
+
+BC-only family (Figure 1A), the mutation carrier was affected by early-onset and bilateral BC (age 33 years, age 39 years). The deletion was inherited from the mother who was affected by colon cancer (age 44 years). In the second (family #2), a BC/OC family (Figure 1B), the mutation was identified in dizygotic twins, one of which was affected by early-onset BC (age 42 years) and one by early-onset OC (age 43 years). The 36,637 base pair deletion (Figure 1D,E,F) appears to be rare because we identified no further case in another large cohort by junction fragment polymerase chain reaction (BC only: 1,011; BC/OC: 203). Strikingly, all three RAD51C-positive breast tumors were classified as intermediate to high grade (individual #1-IV-2: G3, G3; individual #2-III-6: G2 to G3), invasive ductal, and triple negative.
+The early onset of BC in both families, the occurrence of bilateral BC and the triple-negative tumor phenotype resemble features closely associated with hereditary BC [5], and thus the presence of a clearly truncating mutation is supportive for a pathogenic role of RAD51C. Due to the low RAD51C mutation frequency, however, large collaborative studies are required to quantify the relative risk of RAD51C alterations for BC and potentially other cancer entities and, most importantly, to unravel genotype­phenotype correlations as well as genetic modifying factors that determine phenotypic variability with respect to cancer site and tumor subtype.
+
+* Correspondence: Rita.Schmutzler@uk-koeln.de Equal contributors 1Center of Familial Breast and Ovarian Cancer, University Hospital of Cologne, Kerpener Straße 34, 50931, Cologne, Germany 2Center for Integrated Oncology, University Hospital of Cologne, Kerpener Straße 62, 50937, Cologne, Germany Full list of author information is available at the end of the article
+© 2013 BioMed Central Ltd.
+
+Schnurbein et al. Breast Cancer Research 2013, 15:R120 http://breast-cancer-research.com/content/15/6/R120
+
+A #1
+I-2 I-1
+
+B #2
+II-4 II-5
+
+D
+
+II-1 II-2 II-3 BC BCL RCC
+
+III-3 III-4 III-6
+
+III-7 III-8
+
+(55) (78) (65)
+
+NHL
+
+BC OC
+
+(19) (42) (43)
+
+exon 5-9 exon 5-9
+
+III-1 III-2 III-3 III-4 III-5 III-6
+
+C
+III-7
+
+CC neg.
+
+(44)
+
+F
+
+Ratio
+
+IV-3 IV-2 IV-1 BC neg.
+(33&39) exon 5-9
+
+V-1 V-2
+E
+
+#1-IV-2
+
+RAD51C, intron 4, (AluSc8 repeat, chr17:56,782,691-56,782,992, hg19)
+
+Page 2 of 3 *** ***
+
+Figure 1 Identification and characterization of the RAD51C deletion. Identification of the RAD51C deletion: (A), (B) probands were recruited at the hereditary breast cancer (BC) and ovarian cancer (OC) centers in Cologne and Munich, Germany. Screening for genomic rearrangements was performed by employing a multiplex ligation-dependent probe amplification (MLPA) assay covering all nine coding exons of RAD51C as well as PALB2 and partially RAD50 (P260 MLPA probemix; MRC Holland, Amsterdam, the Netherlands). Deletions of exons 5 to 9 of the RAD51C gene were identified in two families (#1-IV-2; #2-III-6, #2-III-7) using blood-derived genomic DNA (gDNA). In both families, non-BC/OC entities were reported. BCL, B-cell lymphoma; RCC, renal cell carcinoma; CC, colon cancer; NHL, non-Hodgkin lymphoma. (C) MLPA data analysis was carried out using Coffalyser.Net software (MRC Holland). Characterization of the RAD51C deletion: (D) a deletion-specific junction fragment polymerase chain reaction (PCR) was performed using the primers 5-TCTCTGTGTCCTCATATGATAGG-3 and 5-CTAGGATCACACTATTGCACTC-3. A 681 base pair (bp) fragment was observed using gDNA derived from individuals #1-IV-2, #2-III-6 and #2-III-7, but was absent in individual #1-IV-1, indicating maternal inheritance in family #1. NTC, no template control. (E) Sequencing of the junction fragment in all cases revealed a recurrent 36,637 bp deletion, which is flanked by Alu repeats. The genomic breakpoint within intron 4 is located in a 7 bp region identical between both flanking Alu sequences (indicated). Hence, the deletion probably originates from an Alu repeat-mediated nonhomologous recombination event. (F) Blood-derived RAD51C transcripts from individual #1-IV-2 and a control were analyzed by real-time PCR as described previously [6]. Primer sequences are available on request. Amplicons spanning exons 2/3 and 3/4 were detected at similar levels, while those spanning exons 7/8/9 and 8/9 were less abundant in patient #1-IV-2 compared with the respective control (***P <0.001, t test). Detection levels in the control sample were set to 100%. Results given as mean ± standard deviation.
+
+Abbreviations BC: Breast cancer; OC: Ovarian cancer.
+Competing interests The authors declare that they have no competing interests.
+Authors' contributions BW, SE and KR participated in the study design and helped to draft the manuscript. AM, RKS and EH wrote the manuscript. GS, JH, NW-L, HH, LG, AB and GN performed the molecular genetic studies. All authors read and approved the final manuscript.
+
+Acknowledgements The authors apologize for omitted references. They are very thankful to all family members who participated in this study and to Sandra Kröber for excellent technical assistance. This study was kindly supported by the German Cancer Aid (grant number 109076). The funders had no role in study design, data collection and analysis, the decision to publish, or preparation of the manuscript.
+Author details 1Center of Familial Breast and Ovarian Cancer, University Hospital of Cologne, Kerpener Straße 34, 50931, Cologne, Germany. 2Center for Integrated Oncology, University Hospital of Cologne, Kerpener Straße 62, 50937, Cologne, Germany. 3Department of Gynaecology and Obstetrics, Klinikum
+
+Schnurbein et al. Breast Cancer Research 2013, 15:R120 http://breast-cancer-research.com/content/15/6/R120
+rechts der Isar at the Technical University, Ismaninger Straße 22, 81675, Munich, Germany. 4Institute of Human Genetics, University of Cologne, Kerpener Straße 34, 50931, Cologne, Germany.
+Published: 20 Dec 2013
+References 1. Meindl A, Hellebrand H, Wiek C, Erven V, Wappenschmidt B, Niederacher D,
+Freund M, Lichtner P, Hartmann L, Schaal H, Ramser J, Honisch E, Kubisch C, Wichmann HE, Kast K, Deissler H, Engel C, Müller-Myhsok B, Neveling K, Kiechle M, Mathew CG, Schindler D, Schmutzler RK, Hanenberg H: Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 2010, 42:410­414. 2. Loveday C, Turnbull C, Ruark E, Xicola RM, Ramsay E, Hughes D, WarrenPerry M, Snape K, Breast Cancer Susceptibility Collaoration (UK), Evans DG ED, Gore M, Renwick A, Seal S, Antoniou AC, Rahman N: Germline RAD51C mutations confer susceptibility to ovarian cancer. Nat Genet 2012, 44:475­476. author reply 476. 3. Pelttari LM, Heikkinen T, Thompson D, Kallioniemi A, Schleutker J, Holli K, Blomqvist C, Aittomaki K, Butzow R, Nevanlinna H: RAD51C is a susceptibility gene for ovarian cancer. Hum Mol Genet 2011, 20:3278­3288. 4. Thompson ER, Boyle SE, Johnson J, Ryland GL, Sawyer S, Choong DY, ConFab K, Chenevix-Trench G, Trainer AH, Lindeman GJ, Mitchell G, James PA, Campbell IG: Analysis of RAD51C germline mutations in high-risk breast and ovarian cancer families and ovarian cancer patients. Hum Mutat 2012, 33:95­99. 5. Stevens KN, Vachon CM, Couch FJ: Genetic susceptibility to triple-negative breast cancer. Cancer Res 2013, 73:2025­2030. 6. Wappenschmidt B, Becker AA, Hauke J, Weber U, Engert S, Köhler J, Kast K, Arnold N, Rhiem K, Hahnen E, Meindl A, Schmutzler RK: Analysis of 30 putative BRCA1 splicing mutations in hereditary breast and ovarian cancer families identifies exonic splice site mutations that escape in silico prediction. PLoS One 2012, 7:e50800.
+10.1186/bcr3589 Cite this article as: Schnurbein et al.: RAD51C deletion screening identifies a recurrent gross deletion in breast cancer and ovarian cancer families. Breast Cancer Research 2013, 15:R120
+
+Page 3 of 3
+
+

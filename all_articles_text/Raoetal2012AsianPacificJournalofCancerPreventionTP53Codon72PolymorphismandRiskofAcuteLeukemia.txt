@@ -1,0 +1,313 @@
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.1.347 TP53 Codon 72 Polymorphism and Risk of Acute Leukemia
+RESEARCH COMMUNICATION
+
+TP53 Codon 72 Polymorphism and Risk of Acute Leukemia
+
+Nageswara Rao Dunna, Sugunakar Vure2, K Sailaja2, D Surekha2, D Raghunadharao3, Senthil Rajappa3, S Vishnupriya2*
+
+Abstract
+ TP53 is the mostly commonly mutated gene in many cancers and the P53 tumor suppressor protein is involved in multiple cellular processes, including transcription, DNA repair, genomic stability, senescence, cell cycle control and apoptosis. A common single nucleotide polymorphism located within the proline rich region of TP53 gene at codon 72 in exon 4 encodes either proline or arginine. TP53 Arg 72 is more active than TP53 Pro 72 in inducing apoptosis. The aim of this study was to understand the association of the 72 codon polymorphism with acute leukemia development and prognosis. A total of 288 acute leukemia cases comprising 147 acute lymphocytic leukemia (ALL) and 141 acute myeloid leukemia (AML), as well as 245 controls were recruited for analysis of the TP53 72 polymorphism using PCR-RFLP method. Significant association of homozygous arginine genotype with AML was observed (2- 133.53; df-2, p < 0.001. When data were analyzed with respect to clinical variables, elevation in mean WBC, blast %, LDH levels and slight reduction in DFS in ALL cases with the arginine genotype was observed. In contrast, AML patients with Pro/Pro had elevated WBC, Blast%, LDH levels with slightly reduced DFS. Our study indicates that Arg/Arg genotype might confer increased risk to development of acute myeloid leukemia.
+Keywords: Acute leukemia - SNP analysis - TP53 polymorphism - RFLP
+Asian Pacific J Cancer Prev, 13, 347-350
+
+Introduction
+ The human TP53 gene is located on short arm of chromosome 17p13, encompassing 20 kilo bases (Kb) of DNA comprising of 11 exons. It encodes for 1.53KDa nuclear phosphoprotein composed of 393 amino acids, highly conserved in diverse organisms. It is a tumor suppressor gene and frequently mutated in most of the cancers (Hollstein et al., 1996). The TP53 protein is a transcription factor that regulates the expression of a wide variety of genes involved in cell cycle arrest and apoptosis in response to genotoxic or cellular stress (Donehower et al., 1993; Ko and Prives 1996). Growth arrest or cell death prevents damaged DNA from being replicated suggesting important role played by TP53 in maintaining the integrity of the genome (Lane et al., 1992). This activity is central to its role as a tumor suppressor and also of major importance in the response of many cancers to conventional therapies which trigger apoptosis by damaging DNA. Inactivation of TP53 through deletion, mutation or interaction with cellular or viral proteins is a key step in the development of over half of all human cancers (Nigro et al., 1987; Hollstein et al., 1996).  There is growing evidence that TP53 also exerts its influence on multiple aspects of tumor development including suppression of metastasis and inhibition of angiogenesis. The TP53 protein had been shown to limit
+
+angiogenesis by at least three mechanisms: Interfering with central regulators of hypoxia that mediate angiogenesis, inhibiting production of proangiogenic factors and directly increasing the production of endogenous angiogenesis inhibitors. The combination of these effects allows TP53 to efficiently shut down the angiogenic potential of cancer cells. Inactivation of TP53 which occur in approximately 50% of malignant tumors reverses these effects, as a consequence of which, tumors carrying TP53 mutation appear more visualized, more aggressive and exhibit poor prognosis. Thus, the loss of functional TP53 during tumorogenesis likely to represent an essential step in the switch to an angiogenic phenotype that was displayed by aggressive tumors (Teodoro et al., 2007).  Several polymorphisms have been identified within TP53 gene, both in non-coding and coding regions (Olivier et al., 2002). The Codon 72 of the TP53 gene harbor a well known polymorphic site either with Arg or Pro in the hydrophobic midsection of the TP53 protein. The two polymorphic forms (Pro72 and Arg72) of TP53 gene have different primary structures and electrophoretic migration properties (Sreeja et al., 2008) with different biochemical and biological potentials including binding to transcriptional machinery and activation of transcription, but they do not differ in their property to bind DNA (Thomas et al., 1999; Dumont et al., 2003). This polymorphism had been shown to exhibit
+
+1School of Chemical & Biotechnology, SASTRA University, Thanjavur, 2Department of Genetics, Osmania University, 3Department of Medical Oncology, Nizams Institute of Medical Sciences, Hyderabad, India *For correspondence: sattivishnupriya@gmail.com
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 347
+
+Nageswara Rao Dunna et al
+
+ethnic and geographical distribution (Weston et al., 1994; Table 1. Genotype Distribution of TP53 Codon 72
+
+Beckman et al., 1994). It had been reported that the P53 Polymorphism in Acute Leukemia and Controls
+
+Arg homozygous genotype could be a potential genetic risk factor for cancer. Initial studies had reported an association of codon 72 Arg/Arg and 7 fold increased risk of HPV associated cervical cancer. Invitro studies had indicated that HPVE6 oncoprotein targets readily the arginine form opposed to proline form of TP53 for degradation (Crook et al., 1996).  The arginine (Arg 72) allele increases the ability of p53 to locate to mitochondria and induce cellular death, whereas proline allele (Pro 72) exhibits a lower apoptotic potential and an increased cellular arrest in G1 of the cell cycle (Bergamaschi et al., 2006).
+Materials and Methods
+
+ GenotypeControl (n=245) ALL(147)1AML (141)2
+
+Frequency Genotype (n, %) 
+
+ PP 43 (17.6)
+
+21 (14.3)
+
+33 (23.4) 
+
+ PA 123 (50.2)
+
+67 (45.6)
+
+44 (31.2)
+
+ AA 79 (32.2)
+
+59 (40.1)
+
+64 (45.4)
+
+Allele
+
+P
+
+0.43
+
+0.37
+
+0.39
+
+A 0.57
+
+0.63
+
+0.61
+
+Odds Ratios ORs (95%CI)
+
+ORs (95%CI)
+
+100.0
+
+ PP vs. PA 0.89 (0.49 to 1.62) 2.19 (1.226 to 3.924)*
+
+ PA vs. AA 0.73 (0.46 to 1.14) 0.45 (0.279 to .7115)*
+
+ PP vs. AA 0.66 (0.36 to 1.21) 0.95 (0.541 to 1.65) 75.0
+`2 value significant; *Odds ratios significant, 1PA 2 =2.63,
+
+p-value=0.27, 2PA 2 =13.19, p-value 0.001*
+
+ The present study includes 288 acute leukemia cases comprising of 147 acute lymphocytic leukemia (ALL), 141 acute myeloid leukemia (AML) and 245 control samples. Blood samples were collected from acute leukemia patients being treated at NIMS (Nizams Institute of Medical Sciences), Hyderabad. The age and sex matched control samples were randomly selected from local population. Patient's clinical data like WBC count, blast%, platelet count, Hb, LDH, complete remission (CR) response to therapy and disease free survival (DFS) was
+
+at 940C for extension at
+
+1 minute, 720C for
+
+a3nnmeianluintegsaat n6d00fiCnafloer x2temnsiniounteast,50.0
+
+720C for 5 minutes. After amplification, PCR products
+
+were subjected to restriction digestion by 3U of Bsh1236I
+
+enzyme (Fermentas, India). The digested products were25.0
+
+run on 3% agarose gel and bands were identified under
+
+UV transilluminator. The proline genotype produced a
+
+single 131bp fragment and arginine genotype produced two fragments of 81 and 30 bp and heterozygote produced
+
+0
+
+all these three bands.
+
+noted from the tumor registry file with the help of medical oncologist. Genomic DNA was isolated by using saltingout method (Nuremberg and Lahari, 1991) and used for genotyping of TP53 Codon 72 polymorphism through PCR-RFLP analysis.
+
+Statistical Analysis
+ All the statistical analyses were performed using Statistical Package for the Social Science (SPSS) 15.0. Chi square test was calculated to test the significance of genotype association with the occurrence of CML and its
+
+Genotyping of TP53 Codon 72 polymorphism  TP53 codon 72 polymorphism was analyzed through
+
+prognosis. All the P values were two sided and the level of significance was taken as P <0.05.
+
+PCR-RFLP (restriction fragment polymorphism length polymorphism) analysis technique. 131bp fragment
+
+Results and Discussion
+
+was amplified using gene specific primer sequences: Forward: 5'-GAA GAC CCA GGT CCA GAT GAA-3', Reverse: 5'-GAA GGG ACA GAA GAT AGA CAG G-3'. The 25µl PCR reaction mixture consisted of approximately 100-150ng of genomic DNA, 15 pmol/l of each primer, 200µmol/l of dNTPs, 20 mmol/l of Tris HCl, 50 mM of KCl, 2.5 mmol/l of MgCl2, 0.5 U of Taq DNA polymerase and deionized water (varied). The PCR Cycling Conditions include initial denaturation at 940 C fGoerl  p5homtogirnauphte  osf  TfPo53ll  Coowdoend  72b  pyoly3m0orpchyiscmle   s of denaturation
+
+A common polymorphism in TP53 gene, unique to humans is located within the proline rich region of TP53 gene at codon 72 in exon 4 and encodes protein either with proline or arginine. The proline at residue 72 of TP53 is part of PXXP motif that is known to be critical in containing the tyrosine residue of SH3 domain-containing proteins. TP53 Arg 72 is more active than TP53 Pro 72 at inducing apoptosis due to varied tendency of protein localization in mitochondria. The mutation frequency in TP53 gene with Arg 72 allele is higher than the protein with
+
+  1                  2                  3                4                5                  6                  7            8                  9  
+Lane  1        :50  bp  ladder   Lane  2,3  :Pro/Pro  Genotype   Lane  4-6  :Arg/Arg  Genotype                       Lane  8,9  :Pro/Arg  Genotype  
+
+Pro72. On the other hand, Martin et al., (2000) reported that the proline variant was more effective in inducing G1 arrest than the arginine variant, probably due to altered binding affinity to P53. A recent study demonstrated the influence of TP53 codon72 polymorphism on DNA repair
+
+capacity indicating that TP53 72Pro variant activates
+
+131bp   several TP53 dependent target genes involved in DNA 81  bp   repair more efficiently than the 72Arg variant expressing 50  bp   cells (Siddique et al., 2006). It has been suggested that the
+
+TP53 codon 72 polymorphism may influence expression
+
+50  bp  ladder  
+
+of the TP53 gene since the substitution occurs within the
+
+Figure 1. Gel Photograph of TP53 Codon 72 Polymorphism.
+
+TP53 transactivation domain (Gottlieb et al., 1996; Wang et al., 1999). The codon 72 is located in the hydrophobic
+
+348 Asian Pacific Journal of Cancer Prevention, Vol 13, 2012
+
+Newly diagnosed without treatment
+
+6.3 56.3 31.3
+
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.1.347 TP53 Codon 72 Polymorphism and Risk of Acute Leukemia
+
+Table 2. Mean Values of Clinical Variables with Respect induce mutation in P53 gene might trigger development
+
+ Clinical variables
+
+P/P
+
+P/A
+
+ Mean ±SE n Mean ±SE n
+
+TP53 Codon 72 Polymorphism in ALL group:
+
+Mean Age
+
+7.29±2.78 21 16.64±1.29 67
+
+Mean WBC (Thousand)
+
+of AML and Proline variant with less efficient apoptosis inducing ability responsible for progression of AML. However, ALL did not show significant association with T53 codon72 polymorphism may be responsible for poor response to chemotherapy targeted to induce apoptosis
+
+
+
+50.77±12.72 21 43.03±5.27 67
+
+leading to progression of AML.
+
+Mean blast%
+
+45.71±6.98 21 47.96±3.98 67
+
+Mean platelet count(lakhs)  0.82±0.16 21 0.89±0.08 67
+
+Acknowledgements
+
+Mean HB
+
+8.71±0.64 21 8.91±0.29 67
+
+Mean LDH
+
+810.05±128.58 21 707.72±78.08 67
+
+Mean DFS
+
+31.67±4.72 21 26.50±2.69 58
+
+TP53 Codon 72 Polymorphism in AML group:
+
+100.0 This work was supported by UGC-MJRP New Delhi oanf dMDedepica6ar.lt3mSceinetnocfe1sM0,.1HedyidcearlaO2b0na.dc3o, lIongdyia,.Nizam's institute
+
+Mean Age
+
+31.38±2.76 32 33.09±2.54 43 75.0
+
+25.0
+
+Mean WBC (Thousand)
+
+ *79.98±17.11 32 54.18±13.0343
+
+Mean blast%
+
+69.75±4.12 32 61.14±4.06 43
+
+Refere5n6c.3es 46.8
+
+Mean platelet count (lakhs)  1.08±0.24 32 1.01±0.20 43
+
+50.0BecpkomlyanmoGrp, hBisirmgamnadienrtaZin,eSdjbayl5an4nad.2teurraAl s,eelet3c1atil.o3(n1?9H94u)m.
+
+Is p53 Hered,
+
+Mean HB
+
+8.60±0.45 32 7.97±0.42 43
+
+44, 266-70.
+
+Mean LDH Mean DFS
+
+614.69±85.34 32 448.33±45.5 43 10.27±2.51 15 11.69±1.54 26
+
+* `2 value significant; *F value significant (p<0.05).
+
+BenYehuda D, Krichevsky S, Caspi O, et al (1996). Microsatellite 25.0 instability and p53 mutation in therapy-related leukemia
+sugge3s1t .m3utator 3ph8o.0types, Blood, 88, 303212.-36. Bergamaschi D, Samuels Y, Su2ll3iv.7an A, et al (2006). iASPP
+
+region of the protein which determines its conformation, DNA-binding and transcriptional activity, essential for growth suppression (Greenblatt et al., 1994).
+In the present study, it was observed that codon 72 polymorphism was significantly associated with AML
+
+preferentially binds p53 proline-rich region and modulates 0 apoptotic function of codon 72-polymorphic p53. Nat Genet,
+38, 1133-41. Crook T, Ludwing RL, Marston N, et al (1996). Sensitivity of
+p53 lysine mutants to ubiqitin-directed degradation targeted by human papillomavirus. Virology, 217, 285-92.
+
+cases compared to controls. The frequency of homozygous Donehower LA, Bardley A (1993). The tumor suppressor p53.
+
+Arginine genotype was significantly elevated in the AML
+group compared to control group but no significant association was observed with ALL (2-13.198; df-2, p < 0.001*). This association might indicate that the hyper
+mutability reported for TP53 gene with at codon72 Arg
+allele might lead to unstable protein and lack of tumor
+suppressor activity leading to myeloid malignancies.
+
+Biochimica et Biophysica Act, 1155, 181-205. Dumont Patrick, J. I-Ju Leu , Anthony C, et al (2003). The codon
+72 polymorphic variants of p53 have markedly different apoptotic potential. Nature Genetics, 33, 357-65. Fenaux P, Preudhomme C, Quiquandon I, et al (1992). Mutation of the p53 gene in acute myeloid leukemia. Br J Haematol, 80, 178-83. Fenaux P, Preudhomme C, Quiquandon I, et al (1991). TP53 gene
+
+Previous studies found significantly increased risk for Arg
+
+mutation in acute myeloid leukemia with 17p monosomy.
+
+72 genotype to develop cancers such as cervical cancer
+
+Blood, 78, 1652-7.
+
+(Crook et al., 1996), breast cancer (Beckman et al., 1994; Weston et al., 1994; Nurbuyru et al., 2003), adult T cell leukemia (Takeuchi et al., 2005). Further the TP53 Arg variant is less efficient in activating DNA repair genes compared to TP53 proline variant.
+There was no association of sex of the patient with TP53 codon 72 polymorphism. Hence the elevated frequency Arg/Arg genotype was also observed in AML
+
+Gottlieb E, Moshe O (1998). P53 facilitates pRb cleavage in IL-3-deprived cells: novel pro-apoptotic activity of p53. EMBO J, 17, 3587-96.
+Greenblatt MS, Bennett Wp, Hollstein M, et al (1994). Mutation in the p53 tumor suppressor gene.clues to cancer etiology and molecular pathogenesis. Cancer Res, 54, 4855-78.
+Hollstein M, Shomer B, Greenblatt M, et al (1996) . Datebase of p53 gene somatic mutation in human tumors and cell lines. Nul. Acids Res, 24, 141-6.
+
+patients with early age at onset <20 years.
+
+Hu G, Zhang W, Deisseroth AB (1992). P53 gene mutations
+
+When genotype data was analyzed with respect to clinical variables, significant elevation in LDH level was observed in ALL patients with homozygous Proline genotype, other variables showing insignificant trend. Whereas AML patients with Pro/Pro has elevated mean WBC blast%, LDH levels with slightly reduced DFS. There was no association between codon 72 polymorphism
+
+myelogenous leukaemia. Br J Haematol, 81, 489­94. Ko LJ, Prives C (1996). p53: puzzle and paradigm. Genes Dev,
+10, 1054-72. Lahari D, Nuremberg J (1991). A rapid non-enzymatic method
+for the preparation of HMW DNA from blood RFLP studies. Nucleic Acid Research, 19, 5444-?. Lane DP, Benchimol S (1990). p53: oncogene or anti-oncogene? Genes & Development, 4, 1-8.
+
+with the rate of complete remission failure in both ALL Martin MC, Jost CA, Brooks LA, et al (2000). A common
+
+and AML.
+
+polymorphism acts as an intragenic modifier of mutant p53
+
+In conclusion, significant association of Arg genotype with development of AML and Proline genotype with poor clinical progression was observed in the present study indicating that the Arg genotype with ability to
+
+behavior. Nat Genet, 25, 47­54. Nigro JM, Baker SJ, Preisinger AC Jessup JM, et al (1989).
+Mutation in the p53 gene occur in diverse human tumour types. Nature, 342, 705-8. Nurbuyru, Hatice Tigli, Nejat Dalay (2003). p53 codon 72
+
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 349
+
+Newly diagnosed without treatment Newly diagnosed with treatment Persistence or recurrence Remission None
+
+30.0 30.0 30.0
+
+1 5 3
+
+Nageswara Rao Dunna et al polymorphism in breast cancer. Oncology Reports, 10, 711-4.
+Olivier M, Eeles R, Hollstein M, et al. (2002) Hum Mutat, 19, 607-14.
+Preudhomme C, Fenaux P (1997). the clinical significance of mutation of the p53 tumor suppressor gene in haematological malignances. Br J Haematol, 98, 502.
+Prives C (1998). Signaling to p53: Breaking the MDM2-p53 circuit. Cell, 95, 5-8.
+Siddique MM, Balram C, Fiszer-Maliszewska L, et al (2005). Evidence for selective expression of the p53 codon 72 polymorphs: implications in cancer development. Cancer Epidemiol Biomarkers Prev, 14, 2245-52.
+Slingerland JM, Minden MD. Benchimol S (1991). Mutation of the p53 gene in human acute myelogenous Leukemia. Blood, 77, 1500-7.
+Sugimoto K, Toyoshima H, et al (1992). Frequent mutation in the p53 gene in human myloid leukemia cell lines. Blood, 79, 2378-883.
+Teodoro J.G, Sara K, Evans, et al (2007). Inhibition of tumor angiogenesis by p53: a new role for the guardian of the genome: J Mol Med, 85, 1175-86.
+Thomas M, Kalita A, Labrecque S, et al (1999). Two polymorphic variants of wild-type p53 differ biochemically and biologically. Mol Cell Biol, 19, 1092-100.
+Wang YC, Lee HS, Chen Sk, et al (1999). Prognostic significance of p53 in growth control and neoplasia. Eur J Cancer, 35, 226-30.
+Weston A, Ling-Cawley HM, Caporaso NE, et al (1994). Determination of the allelic frequencies of an L-myc and a p53polymorphism in human lung cancer. Carcinogenesis, 15, 583-7.
+350 Asian Pacific Journal of Cancer Prevention, Vol 13, 2012
+
+

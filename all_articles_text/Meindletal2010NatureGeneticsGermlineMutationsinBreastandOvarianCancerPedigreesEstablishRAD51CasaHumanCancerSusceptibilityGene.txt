@@ -1,0 +1,597 @@
+letters
+
+© 2010 Nature America, Inc. All rights reserved.
+
+Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene
+
+Alfons Meindl1, Heide Hellebrand1,16, Constanze Wiek2,16, Verena Erven2, Barbara Wappenschmidt3, Dieter Niederacher4, Marcel Freund2, Peter Lichtner5, Linda Hartmann6, Heiner Schaal6, Juliane Ramser1, Ellen Honisch4, Christian Kubisch7, Hans E Wichmann8, Karin Kast9, Helmut Deißler10, Christoph Engel11, Bertram Müller-Myhsok12, Kornelia Neveling13, Marion Kiechle1, Christopher G Mathew14, Detlev Schindler13, Rita K Schmutzler3,17 & Helmut Hanenberg2,15,17
+
+Germline mutations in a number of genes involved in the recombinational repair of DNA double-strand breaks are associated with predisposition to breast and ovarian cancer. RAD51C is essential for homologous recombination repair, and a biallelic missense mutation can cause a Fanconi anemia­like phenotype. In index cases from 1,100 German families with gynecological malignancies, we identified six monoallelic pathogenic mutations in RAD51C that confer an increased risk for breast and ovarian cancer. These include two frameshift-causing insertions, two splice-site mutations and two nonfunctional missense mutations. The mutations were found exclusively within 480 pedigrees with the occurrence of both breast and ovarian tumors (BC/OC; 1.3%) and not in 620 pedigrees with breast cancer only or in 2,912 healthy German controls. These results provide the first unambiguous evidence of highly penetrant mutations associated with human cancer in a RAD51 paralog and support the `common disease, rare allele' hypothesis.
+The breast cancer susceptibility genes BRCA1, BRCA2, ATM, CHEK2,
+BRIP1 and PALB2 are essential in the genomic stability of cells and
+have been functionally linked to the homologous recombination pathway of DNA repair1,2. Biallelic mutations in BRCA2, PALB2 and
+BRIP1 are viable and cause a rare childhood chromosomal instability
+disorder, Fanconi anemia (FA), characterized by  developmental
+abnormalities, bone marrow failure and predisposition to leukemia and other cancers3,4. In an accompanying paper, we have identified
+a homozygous missense mutation (R258H) in RAD51C as the causal
+
+mutation in a family with three children severely affected by FAtypical birth defects5. Skin fibroblasts from the affected  person
+showed cellular hypersensitivity to DNA cross-linking agents and had impaired RAD51 foci formation after DNA damage5. These
+features are typical hallmarks of FA cells with defects in BRCA2 (FANCD1)6 and PALB2 (FANCN)7,8 and reflect the essential role of FA proteins in homologous recombination repair2,3,9. Here we
+have assessed whether monoallelic germline alterations in RAD51C
+confer susceptibility to breast or ovarian cancer, or both, by screening
+the RAD51C gene in 1,100 affected individuals from pedigrees with
+gynecological cancers that were negative for mutations in BRCA1
+and BRCA2.
+In total, we detected 14 germline sequence alterations in RAD51C
+in 1,100 unrelated affected women from pedigrees with hereditary
+breast cancer and BC/OC: two single­base pair insertions, two splice-
+site mutations and ten sequence alterations leading to single amino acid changes (Table 1). Three missense variants (A126T, G264S and
+T287A) were identified frequently in affected individuals from unrelated pedigrees and also in healthy German controls10; the remaining missense alterations were unique for the respective pedigree. Figure 1
+shows the extended family trees for eight sequence alterations, with
+the individuals depicted being at least 30 years of age. As only the
+two insertions--both leading to frame shift and premature protein termination (insertion 224_225insA causing Y75XfsX0, Fig. 1a, and 525_526insC leading to C176LfsX26, Fig. 1b)--were clearly patho
+genic, we characterized the other germline alterations by in vitro
+functional tests.
+
+1Department of Obstetrics and Gynecology, Division of Tumor Genetics, Klinikum rechts der Isar der Technischen Universitaet Muenchen, Munich, Germany. 2Department of Pediatric Hematology, Oncology and Clinical Immunology, Children's Hospital, Heinrich-Heine-University, Düsseldorf, Germany. 3Center for Familial Breast and Ovarian Cancer and Center for Integrated Oncology, University Hospital, Cologne, Germany. 4Department of Obstetrics and Gynecology, Heinrich-Heine-University, Düsseldorf, Germany. 5Institute of Human Genetics, Helmholtz Zentrum Muenchen, Neuherberg, Germany. 6Institute of Virology, Heinrich-Heine-University, Düsseldorf, Germany. 7Institute of Human Genetics, Center for Molecular Medicine Cologne and Cologne Excellence Cluster on Cellular Stress Response in Aging-Associated Diseases, University of Cologne, Cologne, Germany. 8Institute of Epidemiology, Helmholtz Zentrum Muenchen, Neuherberg, Germany. 9Department of Obstetrics and Gynecology, Carl Gustav Carus University, Dresden, Germany. 10Department of Obstetrics and Gynecology, Ulm University, Ulm, Germany. 11Institute for Medical Informatics, Statistics and Epidemiology, University of Leipzig, Leipzig, Germany. 12Max-Planck-Institute of Psychiatry, Munich, Germany. 13Department of Human Genetics, University of Würzburg, Würzburg, Germany. 14Department of Medical and Molecular Genetics, Kings College, Guy's Hospital, London, UK. 15Department of Pediatrics, Wells Center for Pediatric Research, Riley Hospital, Indiana University School of Medicine, Indianapolis, Indiana, USA. 16These authors contributed equally to the work. 17These authors contributed equally to the direction of the work. Correspondence should be addressed to A.M. (alfons.meindl@lrz.tu-muenchen.de) or H.H. (helmut.hanenberg@uni-duesseldorf.de).
+Received 5 November 2009; accepted 22 March 2010; published online 18 April 2010; doi:10.1038/ng.569
+
+410
+
+VOLUME 42 | NUMBER 5 | MAY 2010 Nature Genetics
+
+letters
+
+© 2010 Nature America, Inc. All rights reserved.
+
+Table 1 Mutations or variants in RAD51C identified through analyses of individuals with familial breast and/or ovarian cancer
+
+Predictive algorithms
+
+Complementation of
+
+Complementation of RAD51C-mutated
+
+Rad51c DT40 cells
+
+fibroblasts
+
+LOH in tumors
+
+Nucleotide
+
+Site
+
+change Protein change SIFTa PolyPhenb
+
+Survival of cells
+
+RAD51 foci
+
+Cases
+
+Breast cancer BC/OC n = 620 n = 480
+
+Ex 2 Ex 3 IVS 1 IVS 6 Ex 2 Ex 3 Ex 3 Ex 9
+
+224_225insA 525_526insC
+145+1G>T 904+5G>T
+G374T G414C G475A G1097A
+
+Y75XfsX0 C176LfsX26
+V15KfsX9 V280GfsX11
+G125V L138F D159N R366Q
+
+­ ­ ­ ­ Yes Yes Yes Yes
+
+­ ­ ­ ­ Pb Ps Ps Ps
+
+­ ­ ­ ­ No No Reduced Reduced
+
+­ 01
+
+­ 01
+
+­ 1/1 0 1
+
+­ 2/2 0 1
+
+No 4/4 0 1
+
+Reduced 3/3 0 1
+
+Normal
+
+10
+
+Normal
+
+0/1 0 1
+
+Controls n = 2912
+0 0 0 0 0 0 0 0
+
+Ex 5 Ex 6
+
+G790A A859G
+
+G264S T287A
+
+No No
+
+No Pb
+
+Reduced Reduced
+
+Normal Normal
+
+3 9c 16c 12 3 35
+
+Ex 1
+
+G7A
+
+G3R Yes Pb
+
+Normal
+
+Normal
+
+0/1 0 1 0d
+
+Ex 2
+
+G376A
+
+A126T
+
+No
+
+No
+
+Normal
+
+Normal
+
+13 3 8d
+
+Ex 3
+
+T506C
+
+V169A
+
+No
+
+No
+
+Normal
+
+Normal
+
+1 0 0d
+
+Ex 6
+
+G791T
+
+G264V
+
+No
+
+Pb
+
+Normal
+
+Normal
+
+1 0 0d
+
+Ex, Exon; IVS, intervening sequence. aSIFT: Yes, affects function; No, tolerated. bPolyPhen: Ps, possibly damaging; Pb, probably damaging; No, benign. cOdds ratio for BC/OC, 3.44; Confidence interval, 1.51­7.80; P = 5.32 × 10-3. dn = 620.
+
+The splice donor mutation (145+1G>T) presents in a family with three sisters affected by breast or ovarian cancers (Fig. 1c) and disrupts the canonical GT dinucleotide. Comparison of the RAD51C splicing pattern in peripheral blood leukocytes from two heterozygous mutation carriers (Fig. 2a,b) revealed reduced expression of the normal RAD51C001 and increased expression of the nonfunctional RAD51C-008 transcript, whereas levels of the nonfunctional RAD51C-009 transcript were unchanged compared to controls (transcripts and
+
+nomenclature according to the Ensembl genome browser). The latter
+two transcripts used alternative 5 splice sites with intrinsic strengths of 17.4 and 16.1, respectively, as predicted by the HBond algorithm for 5 splice sites11 and confirmed by sequencing of the splice junctions in the different RT-PCR products (Supplementary Fig. 1a). To prove
+that the normal RAD51C transcript was expressed solely from the
+wild-type allele in the heterozygous leukocytes, we introduced exon 1, intron 1 and exon 2 of the RAD51C gene into a splicing construct12
+
+ab +71y +88y
+
+83y
+LAT 40y 224_5insA
+
+84y WT
+
+55y
+OC 54y 224_5insA
+
+58y No consent
+
++20y
+
+33y 35y
+
+41y
+
+88y WT 58y 61y
+
++66y BC 45y
+
++87y
+BC 69y NHL 83y 525_6insC
+
+66y 64y
+
+38y 37y 36y 36y 34y
+
+c
++54y
+
++57y CC 57y
+
+70y
+OC 59y 145+1G>T
+57y OC 50y 525_6insC
+
+34y 32y 33y 30y
+
+d
+
++86y
+
++89y +61y LC 61y
+
++51y BC 48y
+
+65y
+BC 51y 145+1G>T LOH+ 35y 28y
+
+55y WT
+
++80y OC 50y
+
++82y
+OC 81y 904+5G>T
+LOH+ +40y
+
++80y
+BC 44y 904+5G>T
+
+BC 36y 904+5G>T
+LOH+
+
+ef
+
++91y
+
++56y
+
++72y
+
+KidC
+
+PanC
+
+47y
+BC 45y G125V LOH+
+
+71y
+BC 63y+OC 65y G125V
+LOH+ LOH+
+42y
+
++87y 82y 57y LAT 43y
+L138F 58y 59y
+
+BC 33y G125V LOH+
+
+bil. BC 50+52y L138F
+
+WT
+
+LOH+
+
+57y OC 53y L138F LOH+
+32y
+L138F
+
+56y 68y
+
+OC 53y L138F LOH+
+
+BC 57y WT
+
+32y
+
+WT
+
+g
+
+63y OC 55y
+48y BC 33y D159N
+
+70y 60y 55y BC 57y Not Not D159N tested tested
+
+45y 43y
+
+No consent
+
+WT
+
+h +77y BC 67y
+
++65y 84y BC 62y OP 50y 64y 64y
+
+85y R366Q
+
+43y 40y
+
+59y BC 51y 34y
+
+58y 33y
+
+56y 52y 51y
+
+BC 43y R366Q
+
+R366Q
+
+LOH­
+
+48y 63y BC 52y R366Q
+43y 39y
+WT
+
+Figure 1 RAD51C mutations in familial breast and ovarian cancer pedigrees. (a­h) Individuals with breast cancer (BC) are shown as filled circles, females with ovarian cancer (OC) as streaked circles; OP, surgery. Disease and age in years (y) at first diagnosis is given underneath the symbol, current age or age at death (+) above it. Other cancers diagnosed in the pedigrees are also shown (LC, lung cancer; KidC, kidney cancer; PanC, pancreatic cancer; CC, colon cancer; LAT, lower abdominal tumor; NHL, non-Hodgkin lymphoma; bil., bilateral). All affected individuals with breast or ovarian cancer not tested for germline mutations in RAD51C were deceased or refused testing. Carriers of RAD51C mutations are shown with their specific RAD51C mutation (as listed in Table 1), whereas individuals who tested negative for the mutation in the specific pedigree are depicted as wild-type (WT). In addition, LOH data (+ for loss of the WT allele, - for a retained WT allele) is shown for the individuals for whom formalin-fixed, paraffin-embedded (FFPE) tissue samples of the tumor(s) could be analyzed.
+
+Nature Genetics VOLUME 42 | NUMBER 5 | MAY 2010
+
+411
+
+letters
+
+© 2010 Nature America, Inc. All rights reserved. 145+1G>T 904+5G>T
+
+Figure 2 Functional analysis of the splice donor mutations 145+1G>T and 904+5G>T. (a) Structure of RAD51C transcript 001 (Ensembl ID
+
+a
+
+OTTHUMT00000280540) and the primers for RT-PCR. (b) Using primers
+
+located in exon 1 and exon 3, we performed RT-PCR analysis of RNA from
+
+1 23
+
+4
+
+5
+
+67
+
+89
+
+PB mononuclear cells of two affected individuals with breast or ovarian cancer (subj. 1, subj. 2) harboring the 145+1G>T splice donor mutation.
+
+b M Subj. 1 Subj. 2 Ctrl
+
+e M Ctrl Subj. 1 Subj. 2
+
+This revealed three alternative transcripts from exon 1: RAD51C-001 and the two nonfunctional alternatively spliced transcript isoforms RAD51C-008 (Ensembl ID OTTHUMT00000280547) and RAD51C-009 (Ensembl ID OTTHUMT00000280548), as predicted by the HBond splice donor algorithm
+
+c
+
+001 008 009
+f
+
+187 bp 120 bp
+
+and confirmed by sequencing of the PCR products (Supplementary Fig. 1a). (c) Schematic drawing of the splice donor sites (GT) in RAD51C exon 1 used
+
+009 008 001 1
+
+2
+
+225 bp 6 158 bp
+
+in transcripts RAD51C-001, RAD51C-008 and RAD51C-009, respectively. (d) RT-PCR analysis of HeLa cells transfected with RAD51C minigene splicing
+
+d
+
+g
+
+constructs carrying either the wild-type or the 145+1G>T mutant 5 splice site showed complete inactivation of this mutated 5 splice site and confirmed the differences in splicing pattern between heterozygous mutation carriers
+and normal controls shown in b. The cells were co-transfected with growth
+
+M WT
+
+001
+008 009
+
+M WT
+
+hormone-1 (GH1) as a control. (e) RT-PCR analysis of RNA extracted from
+
+tumor samples from two carriers of the 905+5G>T mutation. Sequencing of the PCR products showed that these splice donor mutations led to exon
+
+GH1
+
+GH1
+
+6 skipping (Supplementary Fig. 1b). (f) Schematic drawing of a three-exon
+
+splicing reporter containing RAD51C exon 6 with adjacent intronic sequences. (g) RT-PCR analysis of RNA from HeLa cells transfected with the minigene
+
+constructs revealed exclusion of exon 6 in the presence of the 905+5G>T mutation compared to the wild-type 5 splice site.
+
+(Fig. 2c). RT-PCR analysis after transfection of HeLa cells with the wild-type splicing reporter construct revealed usage of the exon 1 splice donor comparable to normal controls (Fig. 2d). In contrast, the RT-PCR analysis of the 145+1G>T splicing reporter showed complete inactivation of this mutant 5 splice site and increased transcript levels from the upstream proximal 5 splice site. Finally, the pathogenic nature of this 5 splice site mutation was demonstrated by the loss of the wild-type allele in the cancer tissue of the surviving subject with breast cancer in pedigree 1C (Supplementary Fig. 2a).
+The second splice site mutation (904+5G>T) also affected an evolutionarily conserved position and was predicted to greatly decrease the complementarity between the U1 small nuclear RNA and the 5 splice site: the HBond score11 decreased from 15.8 to 10.1, a predictor of aberrant splicing. As cells carrying the germline mutation were not available (Fig. 1d), mRNA was isolated from paraffin-embedded tumor samples from two carriers of this mutation. As shown in Figure 2e, we were able to specifically amplify an RT-PCR product that lacked exon 6 in these carriers (Supplementary Fig. 1b) but not in control samples. For further confirmation, we introduced the RAD51C exon 6 with flanking 225- and 158-bp intronic sequences into a splicing reporter construct12 (Fig. 2f). Functional analysis in this heterologous context also demonstrated that the 904+5G>T mutation resulted in exclusion of exon 6, suggesting that the RAD51C exon 6 is recognized by exon definition (Fig. 2g). Finally, sequencing of DNA extracted from paraffin-embedded samples revealed that loss of the wild-type allele had occurred independently in the breast and the ovarian cancer tissues in two affected individuals from pedigree D (Supplementary Fig. 2c).
+To initially screen whether the ten missense amino acid alterations change RAD51C protein function (Fig. 3), we used retroviral vectors13 to introduce the mutant human RAD51C proteins (Supplementary Fig. 3) into chicken DT40 cells in which the RAD51C ortholog had been disrupted14. Survival of cells expressing two missense alterations at highly conserved amino acids, G125V and L138F (Supplementary Fig. 4), was identical to the survival of control vector-transduced or untransduced Rad51c DT40 cells (Fig. 3a); the missense proteins therefore completely failed to complement the Rad51c mutant p henotype of these cells. In contrast, expression of the G3R, A126T, V169A and G264V missense RAD51C complementary DNAs corrected
+
+the mitomycin C (MMC) hypersensitivity of Rad51c mutant DT40 cells to levels achieved by expression of the wild-type RAD51C cDNA (Fig. 3a,c). Expression of the four missense alterations D159N, G264S, T287A and R366Q only partially restored the MMC sensitivity of Rad51c DT40 cells compared to the wild-type cDNA (Fig. 3b,c) indicating hypomorphic mutations with reduced protein activity.
+For further functional analysis of these missense mutations in human cells, we used the recently described RAD51C-mutated skin fibroblasts5. Assessing RAD51 foci15­17 in these cells after cross-linker exposure revealed that expression of the two mutations G125V and L138F did not restore normal RAD51 foci formation (Fig. 4), whereas RAD51C-mutated cells transduced with vectors expressing the remaining eight RAD51C missense variants were functionally indistinguishable from cells expressing the wild-type RAD51C cDNA.
+In total, six germline alterations in RAD51C were classified as pathogenic: the two insertions, the two splice site mutations and the two missense alterations G125V and L138F. The corresponding pedigrees are shown in Figure 1a­f. One amino acid change (D159N) that was associated with reduced survival in DT40 cells, albeit leading to normal RAD51 foci formation when the missense protein was expressed in human RAD51C-mutated cells, was considered as an unclassified variant, unique in this pedigree affected by breast cancer only (Fig. 1g). Finally, despite intermediate complementation in DT40 cells, predictions by algorithms and amino acid conservation in RAD51C homologs, the R366Q variant (Fig. 1h) appeared unlikely to be pathogenic, as segregation was incomplete and there was no loss of heterozygosity (LOH) in the tumor tested.
+We tested whether the two recurrent missense mutations G264S and T287A, showing reduced survival of DT40 cells and normal RAD51 foci formation, were associated with cancer. Both G264S and T287A had no association with cancer in 1,100 affected individuals compared to 2,912 healthy controls. However, the G264S variant showed some evidence of association with malignancies in the subgroup of BC/OC families (Table 1; odds ratio, 3.44; confidence interval, 1.51­7.80; P = 5.32 × 10­3). Further assessment in larger studies is required to confirm this association.
+The overall frequency of a pathogenic mutation in RAD51C among investigated families is 0.55% (6 of 1,100). However, when analyzing the six pedigrees with clearly pathogenic mutations (Fig. 1a­f), we
+
+412
+
+VOLUME 42 | NUMBER 5 | MAY 2010 Nature Genetics
+
+letters
+
+© 2010 Nature America, Inc. All rights reserved. LTVACRNDGGGGWW12111oo33221TT386256n662vRt8i76969r454rFTAoANSVVGulsvector NCoonvtirroulsvector
+
+Cells alive (%) Cells alive (%)
+
+a
+100
+80 60
+40
+
+No virus
+
+b
+
+Vector control 100 Wild type
+
+G3R G125V
+
+80
+
+A126T
+
+L138F V169A
+
+60
+
+G264V
+
+40
+
+No virus Vector control Wild type D159N
+G264S T287A R366Q
+
+20 20
+
+0 0 3.3 10 33.3 100 MMC concentration (nm)
+c
+
+0 0 3.3 10 33.3 100 MMC concentration (nm)
+
+Figure 3 Function of RAD51C missense mutations in Rad51c-deficient DT40 cells. (a) Examining the survival of Rad51c-deficient DT40 cells with the mutant RAD51C proteins allowed us to distinguish mutants with normal function (G3R, A126T, V169A and G264V) from nonfunctional true null mutants (G125V and L138F). Also depicted are the survival curves for nontransduced (no virus) cells as well as cells transduced with either the control virus (vector control) or the wild-type RAD51C cDNA (wild-type or WT). Data shown are means ± s.d. from four different experiments. (b) Survival of Rad51c-deficient DT40 cells with the human RAD51C proteins having intermediate activity (D159N, G264S, T287A and R366Q; n = 4). Controls are as in b. Data shown are means ± s.d. from four different experiments. (c) Protein blot on puromycin-resistant Rad51c-deficient DT40 cells expressing the wild-type and the missense proteins of the retroviral long terminal repeat promoter shows equal expression of the mutant proteins.
+
+RAD51C
+-actin
+observed that all pedigrees presented with both breast and ovarian cancers--over different generations, in siblings or even as metachronous tumors. Thus, the six clearly pathogenic RAD51C mutations were all found within the 480 BC/OC pedigrees (1.3%).
+In these six RAD51C-associated German BC/OC pedigrees, the mean age of onset at first diagnosis was 53 years (range 33­78) for breast cancer and 60 years (range 50­81) for ovarian cancer. This is higher than the mean ages of 40 and 46 years for German BRCA1- and BRCA2-associated breast cancer, respectively, although lower than the mean age of 63 years for sporadic breast cancer. For ovarian cancer, the mean age of onset in individuals carrying BRCA1 and BRCA2 mutations and the general population is 49, 58 and 68 years, respectively (R.K.S., A.M. and the German Consortium for Hereditary Breast and Ovarian Cancer (GC-HBOC), unpublished data). No occurrence of male breast cancer was noted in these families. In addition, the segregation pattern in these six families is striking: none of the tested healthy females over 70 years of age inherited the mutations (the unaffected obligate carriers of the L138F mutation in Fig. 1f and of the frameshift mutation 224_5insA in Fig. 1a had surgery with removal of ovaries and uterus owing to a lower abdominal tumor at 43 and 40 years of age, respectively), and all of the affected first-degree relatives who developed malignancies and could be subjected to mutation analysis turned out to be carriers. This pattern of apparently complete segregation in the RAD51C families differs from that of families carrying ATM, CHEK2, BRIP1 and PALB2 mutations1. The occurrence of both breast and ovarian cancers, and the high frequencies, markedly resembles the clinical presentations of people carrying BRCA1 and BRCA2 mutations1,18. It is well established that the breast cancer histology in people with BRCA1 mutations shows an excess of ductal tumors with high mitotic count and negativity for hormone receptors and HER2/neu, compared to individuals with BRCA2 mutations or with sporadic breast cancers19,20.
+
+Pathology reports were available from 11 cases of breast cancer associated with pedigrees shown in Figure 1a­f. Ten were classified as invasive and one as preinvasive ductal carcinomas. Only three of the ten invasive cancers presented with lymph node infiltration. Three cases were high-grade (G3) and eight cases were intermediate-grade (G2) tumors. Hormone receptor status was available for ten tumors: five were negative and five positive for the estrogen and progesterone receptors (ER and PR). Of these, seven showed a concordant status: three were negative for both ER and PR, and four were positive for both ER and PR. Three tumors harbored a discordant receptor status: two were ER negative and PR positive, and one was ER positive and PR negative. All six breast cancers with HER2/neu status had a negative score. Of those, five were either ER or PR positive and one was negative for both receptors. These results indicate that RAD51C-associated breast cancer is distinct from BRCA1-associated breast cancer and might be associated with more favorable histopathological features like those of BRCA2-associated breast cancer. Pathological reports were available for seven RAD51C-associated ovarian cancers, six of which presented as invasive serous and one as invasive endometrioidal adenocarciomas. Three ovarian cancers were classified as high-grade (G3) and four as intermediate-grade (G2) tumors. Despite the fact that five of the seven ovarian cancers presented as pT3 tumors, only two had lymph node involvement, again indicating distinct features compared to BRCA1associated ovarian cancers, the majority of which are poorly differentiated invasive serous adenocarcinomas21.
+Although RAD51C was identified in mammalian cells more than 10 years ago22, our findings on germline mutations in BC/OC families and the accompanying report on the identification of RAD51C as a new FA-like gene5 are, to our knowledge, the first clear links between mutations in RAD51C and human disease. According to the LOH in pedigrees shown in Figure 1a­f (Supplementary Fig. 2) and recent
+P < 0.05
+60 P < 0.01 P < 0.01
+45
+
+% cells with >10 RAD51 foci
+
+Figure 4 Function of RAD51C missense mutations in human RAD51C-mutated fibroblasts. We analyzed formation of RAD51 foci by immunofluorescent antibody staining in human RAD51C-mutated cells transduced with retroviral vectors that expressed each of the ten RAD51C missense alterations or the wild-type RAD51C cDNA. Shown are the percentages of cells (mean ± s.e.m.) with more than ten RAD51 foci after incubation for 24 h in 150 nM MMC, from three different experiments counted by two different people blinded for each condition. We assessed statistical significance by Student's t-test, applying SPSS software version 17.0; significance is indicated for G125V and L138F compared to the wild-type control.
+
+30 15
+0
+
+RAD51C variants
+
+Control typeWild
+G3R G125V A126T L138F D159N V169A G264S G264V T287A R366Q
+
+Nature Genetics VOLUME 42 | NUMBER 5 | MAY 2010
+
+413
+
+© 2010 Nature America, Inc. All rights reserved.
+
+letters
+
+experiments with conditional knockouts in mice23, RAD51C functions as TP53-dependent tumor suppressor gene. The well-known association of genetic risk factors for breast and ovarian cancers with FA suggests that sequencing studies of FA genes and their protein interaction partners might reveal the existence of additional cancer susceptibility genes in the FA/BRCA pathway of homologous recombination repair24. In addition, the high penetrance of mutations impairing RAD51C function, and the causative link with the occurrence of gynecological cancers, justifies testing of other malignancies25 for alterations in RAD51C and its paralog. Ultimately, the identification of RAD51C as cancer susceptibility gene supports the `common disease, rare allele' hypothesis26, suggesting that affected females with a strong history for breast and ovarian cancer, but negative for mutations in BRCA1, BRCA2 and also RAD51C, should be screened using exomic sequencing25.
+Methods Methods and any associated references are available in the online v ersion of the paper at http://www.nature.com/naturegenetics/.
+Note: Supplementary information is available on the Nature Genetics website.
+Acknowledgments We thank all the families for providing samples for this study. We are deeply indebted to German Cancer Aid for establishing the GC-HBOC and their longstanding patronage. This work was supported by grants from the German Cancer Aid (grant numbers 107054 and 107353), the Juergen-Manchot-Stiftung (L.H., H.S.), the Cancer Society Northrhine-Westphalia (D.N., E.H., H.S.), the Forschungskommission of the Heinrich-Heine-University, Düsseldorf (M.F., D.N., H.S., H. Hanenberg), the Bundesministerium für Bildung und Forschung network for Inherited Bone Marrow Failure Syndromes (H.S., H. Hanenberg) and the Deutsche Forschungsgemeinschaft SPP1230 (H. Hanenberg). We also thank N. Arnold, C. Bartram, U. Bick, W. Diestler, M. Loeffler, T. Grimm, R. Kreienberg, C. Nestle-Kraemling, B. Schlegelberger and P. Wieacker for their long-standing collaboration within the GC-HBOC. Finally, we acknowledge the excellent technical assistance of B. Kau, G. Krebsbach, J. Koehler, W. Kuss, R. Friedl and S. Engert.
+AUTHOR CONTRIBUTIONS The study was designed by A.M., R.K.S. and H. Hanenberg. The screening experiments were performed by H. Hellebrand, D.N., B.W., K.K., H.D. and E.H. under the direction of A.M. Cloning, virus production, transductions and functional complementation tests were set up by C.W., V.E., K.N. and M.F. under the direction of H. Hanenberg and D.S. L.H. and H.S. performed splicing experiments. MALDI-TOF experiments were performed by P.L. under the direction of H.E.W. The statistical analyses were done by B.M.-M., R.K.S. and C.E. C.E. also provided clinical and histopathological data. Control samples were collected by C.K. and H.E.W. The search for families was initiated by M.K. and R.K.S., and families were provided by the GC-HBOC. J.R. and C.G.M. participated in discussing and revising the manuscript. The manuscript was written by A.M., R.K.S., D.N. and H. Hanenberg.
+COMPETING FINANCIAL INTERESTS The authors declare no competing financial interests.
+
+Published online at http://www.nature.com/naturegenetics/.
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/.
+1. Turnbull, C. & Rahman, N. Genetic predisposition to breast cancer: past, present, and future. Annu. Rev. Genomics Hum. Genet. 9, 321­345 (2008).
+2. Ciccia, A., McDonald, N. & West, S.C. Structural and functional relationships of the XPF/MUS81 family of proteins. Annu. Rev. Biochem. 77, 259­287 (2008).
+3. Wang, W. Emergence of a DNA-damage response network consisting of Fanconi anaemia and BRCA proteins. Nat. Rev. Genet. 8, 735­748 (2007).
+4. Neveling, K., Endt, D., Hoehn, H. & Schindler, D. Genotype-phenotype correlations in Fanconi anemia. Mutat. Res. 668, 73­91 (2009).
+5. Vaz, F. et al. Mutation of the RAD51C gene in Fanconi anemia. Nat. Genet. advance online publication, doi:10.1038/ng.570 (18 April 2010).
+6. Howlett, N.G. et al. Biallelic inactivation of BRCA2 in Fanconi anemia. Science 297, 606­609 (2002).
+7. Reid, S. et al. Biallelic mutations in PALB2 cause Fanconi anemia subtype FA-N and predispose to childhood cancer. Nat. Genet. 39, 162­164 (2007).
+8. Xia, B. et al. Fanconi anemia is associated with a defect in the BRCA2 partner PALB2. Nat. Genet. 39, 159­161 (2007).
+9. Thacker, J. The RAD51 gene family, genetic instability and cancer. Cancer Lett. 219, 125­135 (2005).
+10.Arking, D.E. et al. A common genetic variant in the NOS1 regulator NOS1AP modulates cardiac repolarization. Nat. Genet. 38, 644­651 (2006).
+11.Freund, M. et al. A novel approach to describe a U1 snRNA binding site. Nucleic Acids Res. 31, 6963­6975 (2003).
+12.Betz, B. et al. Comparative in silico analyses and experimental validation of novel splice site and missense mutations in the genes MLH1 and MSH2. J. Cancer Res. Clin. Oncol. published online (8 August 2009).
+13.Hanenberg, H. et al. Colocalization of retrovirus and target cells on specific fibronectin fragments increases genetic transduction of mammalian cells. Nat. Med. 2, 876­882 (1996).
+14.Takata, M. et al. Chromosome instability and defective recombinational repair in knockout mutants of the five Rad51 paralogs. Mol. Cell. Biol. 21, 2858­2866 (2001).
+15.Badie, S. et al. RAD51C facilitates checkpoint signaling by promoting CHK2 phosphorylation. J. Cell Biol. 185, 587­600 (2009).
+16.Liu, Y., Masson, J.Y., Shah, R., ORegan, P. & West, S.C. RAD51C is required for Holliday junction processing in mammalian cells. Science 303, 243­246 (2004).
+17.Katsura, M. et al. The ATR-Chk1 pathway plays a role in the generation of centrosome aberrations induced by Rad51C dysfunction. Nucleic Acids Res. 37, 3959­3968 (2009).
+18.King, M.C., Marks, J.H. & Mandell, J.B. Breast and ovarian cancer risks due to inherited mutations in BRCA1 and BRCA2. Science 302, 643­646 (2003).
+19.Lakhani, S.R. et al. Multifactorial analysis of differences between sporadic breast cancers and cancers involving BRCA1 and BRCA2 mutations. J. Natl. Cancer Inst. 90, 1138­1145 (1998).
+20.Lakhani, S.R. et al. Pathology of ovarian cancers in BRCA1 and BRCA2 carriers. Clin. Cancer Res. 10, 2473­2481 (2004).
+21.Lakhani, S.R. et al. Prediction of BRCA1 status in patients with breast cancer using estrogen receptor and basal phenotype. Clin. Cancer Res. 11, 5175­5180 (2005).
+22.Dosanjh, M.K. et al. Isolation and characterization of RAD51C, a new human member of the RAD51 family of related genes. Nucleic Acids Res. 26, 1179­1184 (1998).
+23.Kuznetsov, S.G., Haines, D.C., Martin, B.K. & Sharan, S.K. Loss of Rad51c leads to embryonic lethality and modulation of Trp53-dependent tumorigenesis in mice. Cancer Res. 69, 863­872 (2009).
+24.Thomas, G. et al. A multistage genome-wide association study in breast cancer identifies two new risk alleles at 1p11.2 and 14q24.1 (RAD51L1). Nat. Genet. 41, 579­584 (2009).
+25.Jones, S. et al. Exomic sequencing identifies PALB2 as a pancreatic cancer susceptibility gene. Science 324, 217 (2009).
+26.Walsh, T. & King, M.C. Ten genes for inherited breast cancer. Cancer Cell 11, 103­105 (2007).
+
+414
+
+VOLUME 42 | NUMBER 5 | MAY 2010 Nature Genetics
+
+© 2010 Nature America, Inc. All rights reserved.
+
+ONLINE METHODS Subjects, families and pedigrees. We recruited affected individuals from 1,100 German pedigrees with hereditary gynecological malignancies through a clinicogenetic counseling program at five centers (Cologne, Dresden, Düsseldorf, Munich and Ulm) from the GC-HBOC27,28. Of these, 620 pedigrees fulfilled the criterion that at least three affected females with breast cancer but no ovarian cancers were present (breast cancer pedigrees). In 480 pedigrees, at least one case of breast and one ovarian cancer had occurred (BC/OC pedigrees)28. We checked that all affected individuals in this study did not carry pathogenic germline mutations in BRCA1 and BRCA2 using the PCR-based mutation-detection techniques dHPLC (or direct DNA sequencing, or both)27 and multiplex ligation-dependent probe amplification28. In total, 2,912 agematched control samples from healthy women were collected in NorthrhineWestphalia or provided by Kooperative Gesundheitsforschung in der Region Augsburg10,29,30. We completely sequenced 480 samples and screened 2,432 samples with matrix-assisted laser desorption/ionization­time of flight (MALDI-TOF; see below). Informed consent was obtained from all people participating in the study, and the experiments were approved by the ethics committee of the University of Cologne on behalf of the GC-HBOC.
+Direct sequencing and dHPLC. For the rapid and reliable identification of RAD51C mutations, we used two different approaches. We detected mutations by dHPLC (WAVE system, Transgenomic) or by direct DNA sequencing on ABI3100 sequencers (Applied Biosystems). Primer pairs used for the amplification of the nine exons of the RAD51C gene are shown in Supplementary Table 1. Appropriate dHPLC conditions for running temperatures and buffer gradients were established for each individual exon. ABI BigDye terminator chemistry (Applied Biosystems) was used for cycle sequencing. We confirmed all mutations detected by DHPLC by direct DNA sequencing.
+Sequencing of RAD51C transcripts. We amplified RAD51C transcripts from peripheral blood mononuclear cells by RT-PCR with primers for RAD51C exon 1 and exon 3 and separated them on 6% polyacrylamide gels. RT-PCR products were extracted with elution buffer (0.5 M ammonium acetate, 10 mM magnesium acetate, 1 mM EDTA, 0.1% SDS), reamplified with the RT-PCR primers using 2.5 U Pwo DNA polymerase (Roche Molecular Biochemicals), gel-extracted (gel extraction kit, Qiagen) and directly sequenced.
+MALDI-TOF and statistics. We used the homogeneous mass-extension process for producing primer extension products analyzed on a MALDI-TOF mass spectrometer (Sequenom MassArray system)31. Assays were designed with the SpectroDesigner software. Primer sequences are available upon request.
+We calculated P values from standard 2 tests on the basis of allele counts, and odds ratios using standard methods. All calculations were done using R 2.91.
+RNA extraction. We isolated total RNA from paraffin-embedded tumor samples using the RNeasy FFPE kit (Qiagen), obtaining intact RNA molecules about 150 nucleotides long. We used PAXgene Blood RNA tubes for collection and stabilization of blood samples from subjects and isolated total RNA from blood samples with the PAXgene Blood RNA kit according to the manufacturer's instructions (PreAnalytiX, Qiagen).
+Splicing analysis. We performed RT-PCR with total RNA extracted from blood samples derived from affected individuals. For analysis of the splicing pattern, before reverse transcription, 3 µg of total RNA was subjected to DNase I digestion with 10 U of DNase I (Roche Molecular Biochemicals). We reverse-transcribed 3 µl of the treated RNA samples with the SuperScript III RT-PCR System with Platinum Taq Polymerase (Invitrogen) using primer pairs specific for RAD51C exon 1 and exon 3, listed in Supplementary Table 1. To ensure a linear PCR amplification range allowing semiquantitative assessment of the spliced products, we performed PCR analysis with 28 cycles. PCR products were separated on 6% nondenaturing polyacrylamide gels, stained with ethidium bromide, visualized and quantified with the Lumi-Imager F1 (Roche Molecular Biochemicals) and directly sequenced after gel extraction.
+Splicing reporter assays. For testing the 145+1G>T mutation, we amplified the subgenomic region spanning RAD51C exon 1, intron 1 and exon 2 from
+
+control DNA by PCR with primers listed in Supplementary Table 1 using Expand High-Fidelity DNA Polymerase (Roche Molecular Biochemicals). We cloned the PCR product into the pSVT7 expression vector32 and confirmed it by sequencing. We introduced the 5 splice site mutation by PCR mutagene sis using the RAD51C intron 1 forward and reverse mutagenesis primers with the QuickChange XL Site-Directed Mutagenesis Kit (Stratagene). For functional analysis of the 904+5G>T mutation, we amplified the RAD51C exon 6, including the flanking intronic sequences, from genomic DNA by PCR with Expand High Fidelity DNA Polymerase and inserted it into the s plicing reporter construct as described previously12. We inserted the mutation by PCR mutagenesis using the RAD51C intron 6 forward and reverse mutagenesis primers. Cell culture and transfection experiments were performed as previously described32. We isolated total RNA 30 h after transfection using the GenElute Mammalian Total RNA Miniprep kit (Sigma) and reversetranscribed 200 ng of the DNase I (Roche Molecular Biochemicals)­treated RNA with the SuperScript III RT-PCR System with Platinum Taq Polymerase (Invitrogen) and vector-specific primers.
+Loss-of-heterozygosity analysis. We extracted DNA from sections of paraffin-embedded tumor tissues (QIAamp DNA FFPE tissue kit, Qiagen) after macrodissection to ensure the amount of tumor cells > 80% as visualized in a hematoxylin and eosin­stained control section. We specifically amplified RAD51C DNA fragments using appropriate primer pairs listed in Supplementary Table 1, directly sequenced them with ABI sequencer 3130XL and compared them to sequencing results of heterozygous germline DNA.
+Complementation of Rad51c-deficient DT40 cells. Rad51c-deficient DT40 cells14 were purchased from the Riken BRC Cell Bank (Tsukuba). The control vectors S11IP, expressing an IRES-pac cassette, and S11RCIP, additionally expressing the wild-type RAD51C cDNA from the same expression cassette (Supplementary Fig. 4), were constructed as described5. We introduced the subject-derived missense mutations in the RAD51C open reading frame using a Quick Mutagenesis kit (Stratagene) according to the manufacturer's instructions. Generation of stable oncoretroviral cell lines and transduction of the nonadherent Rad51c DT40 cells with retroviral supernatant were performed as previously described13,33,34. Transduced cells were selected in the presence of puromycin (Gibco/Invitrogen) for 4­5 d, exposed for 3 d to increasing concentrations of MMC and then assayed by flow cytometry for survival of cells; we used propidium iodide (Sigma-Aldrich) to discriminate live cells from dead cells as described34.
+Protein expression of Rad51c missense mutants in Rad51c DT40 cells. We performed immunoblots with samples containing 50 µg of total protein on 4­12% NuPage Bis-Tris polyacrylamide gels (Invitrogen). Membranes were probed with mouse monoclonal anti-human RAD51C (1:1,000; ab55728 Abcam) or mouse monoclonal anti­-actin (1:5,000; A2228 Sigma-Aldrich). We used a secondary horseradish peroxidase­linked sheep anti-mouse IgG (RPN4201 GE Healthcare) at a dilution of 1:10,000 and detected it by the chemiluminescence technique using the ECL system (Pierce, Thermo Fisher Scientific).
+RAD51 foci immunofluorescence. For indirect immunofluorescence staining of RAD51 foci, we seeded cells onto coverslips (Nalgene NUNC) and incubated them the next day with 150 nM MMC (Medac) as described previously35. After 24 h, cells were fixed with 3.7% paraformaldehyde (SigmaAldrich) for 15 min at 20­25 °C and permeabilized with 0.5% (vol/vol) Triton X-100 for 5 min. After 30 min in blocking buffer (10% (wt/vol) BSA (PAA), 0.1% (vol/vol) NP-40 (Sigma-Aldrich)), cells were incubated at 4 °C with rabbit anti-RAD51 (PC130, Calbiochem) at 1:200 dilution for 45 min. Cells were washed three times in TBS (Invitrogen) and then incubated with a 1:500-diluted Texas Red­conjugated polyclonal anti-rabbit (Jackson Immunoresearch). After 45 min, cells were washed three times with TBS and the slides were mounted in ProLong Gold antifade reagent (Invitrogen) with 4,6-diamidino-2-phenylindole (DAPI, Sigma-Aldrich). We viewed specimens with an inverted microscope (Axiovert 200M, Zeiss) and fluorescence imaging workstation and acquired images at 20­25 °C with a Plan-Apochromat ×63, 1.4 numerical aperture oil immersion lens using a digital camera (AxioCam MRm, Zeiss). RAD51 foci were counted independently in three different
+
+doi:10.1038/ng.569
+
+Nature Genetics
+
+experiments by two different people, blinded for each condition. Statistical analysis was performed using the SPSS software.
+URLs. Ensembl genome browser, http://www.ensembl.org/. R, http://cran. r-project.org/.
+27.Meindl, A. & German Consortium for Hereditary Breast and Ovarian Cancer Comprehensive analysis of 989 patients with breast or ovarian cancer provides BRCA1 and BRCA2 mutation profiles and frequencies for the German population. Int. J. Cancer 97, 472­480 (2002).
+28.Engert, S. et al. MLPA screening in the BRCA1 gene from 1,506 German hereditary breast cancer cases: novel deletions, frequent involvement of exon 17, and occurrence in single early-onset cases. Hum. Mutat. 29, 948­958 (2008).
+29.Holle, R., Happich, M., Lowel, H. & Wichmann, H.E. KORA­a research platform for population based health research. Gesundheitswesen 67 (Suppl. 1), S19­S25 (2005).
+
+30.Wichmann, H.E., Gieger, C. & Illig, T. KORA-gen­resource for population genetics, controls and a broad spectrum of disease phenotypes. Gesundheitswesen 67 (Suppl. 1), S26­S30 (2005).
+31.Tang, K. et al. Chip-based genotyping by mass spectrometry. Proc. Natl. Acad. Sci. USA 96, 10016­10020 (1999).
+32.Freund, M. et al. Extended base pair complementarity between U1 snRNA and the 5 splice site does not inhibit splicing in higher eukaryotes, but rather increases 5 splice site recognition. Nucleic Acids Res. 33, 5112­5119 (2005).
+33.Hanenberg, H. et al. Optimization of fibronectin-assisted retroviral gene transfer into human CD34+ hematopoietic cells. Hum. Gene Ther. 8, 2193­2206 (1997).
+34.Hanenberg, H. et al. Phenotypic correction of primary Fanconi anemia T cells from patients with retroviral vectors as a diagnostic tool. Exp. Hematol. 30, 410­420 (2002).
+35.Rio, P. & Hanenberg, H. Functional knock-down of human RAD51 for testing the Fanconi anemia-BRCA connection. in Fanconi Anemia: A Paradigmatic Disease for the Understanding of Cancer and Aging (eds. Schindler, D. & Hoehn, H.) 211­225 (Karger, Basel, Switzerland, 2007).
+
+© 2010 Nature America, Inc. All rights reserved.
+
+Nature Genetics
+
+doi:10.1038/ng.569
+
+

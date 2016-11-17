@@ -1,0 +1,111 @@
+Published Ahead of Print on June 22, 2015 as 10.1200/JCO.2015.61.5757 The latest version is at http://jco.ascopubs.org/cgi/doi/10.1200/JCO.2015.61.5757
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+EDITORIAL
+
+Genotype Versus Phenotype: The Yin and Yang of Germline TP53 Mutations in Li Fraumeni Syndrome
+Kim E. Nichols, St Jude Children's Research Hospital, Memphis, TN David Malkin, The Hospital for Sick Children, University of Toronto, Toronto, Ontario, Canada
+See accompanying article doi:10.1200/JCO.2014.59.5728
+
+Li Fraumeni syndrome (LFS) is one of the most well-recognized cancer predisposition syndromes and serves as a paradigm for the study of heritable susceptibility to cancer. LFS was first reported in 1969 by Li and Fraumeni on the basis of the identification of four families characterized by the autosomal dominant transmission of early-onset tumors.1,2 Individuals with LFS are predisposed to develop six core component tumors, including soft tissue and bone sarcomas, breast cancer, CNS tumors, adrenocortical carcinomas (ACCs), and acute leukemias,3 as well as a spectrum of other neoplasms that occur less commonly but at higher frequencies and at younger ages compared with the general population.4-7 Individuals with LFS are also prone to develop second malignant neoplasms (SMNs); the risk is greatest in those who survive cancer during childhood.8 In 1990, it was determined that LFS is caused by heterozygous germline mutations in TP53, which encodes the p53 tumor suppressor.9 Also known as the so-called guardian of the genome, p53 is a critical transcription factor that promotes cell-cycle arrest, apoptosis, and DNA repair in response to cellular stresses such as exposure to ionizing radiation.10 Mutations that interfere with the transcriptional activity of p53 reduce its growth suppressive functions. Accordingly, individuals with LFS, who harbor one mutated copy of TP53 in the germline, are at increased risk for tumor formation.
+The discovery of TP53 as the gene that is defective in LFS has paved the way for its analysis in cancer-prone individuals and families; more than 500 patients with LFS have been described in the literature,11 and many more have been identified but not yet reported. It is currently estimated that the TP53 mutation carrier rate is at least one in 5,000.12 LFS is more common in Southern Brazil because of the presence of an R337H founder mutation that has a high population prevalence of nearly 0.3%.13-15 The spectrum of LFS-associated TP53 mutations can be separated into two general categories on the basis of the mutations' effects on p53 function. The first category includes missense alterations within the DNA binding domain, which confer a dominant-negative effect on wild-type p53 function, as well as enable mutated p53 to acquire additional activities that promote cancer development (these are collectively referred to as gain of function mutations). The second category includes nonsense and frame shift mutations, as well as partial or whole gene deletions, which confer a loss of function.11
+Although initial genetic studies allowed for a better understanding of the incidence and spectrum of LFS-associated TP53 mutations,
+
+many questions have remained unanswered regarding the relationship between TP53 genotype and LFS phenotype. For example, what are the age-specific cancer risks for children and adults with LFS? How do these risks differ depending on the underlying TP53 mutation? How do tumor stage, pathology, and outcome differ in individuals with LFS versus those without the condition? Finally, what are the host and/or environmental factors that influence these parameters, and how can this information be used to guide management and optimize outcome?
+It has been almost 25 years since the discovery of TP53 as the defective gene in LFS. Nonetheless, the answers to these questions have been slow to emerge. This is in part a result of the rarity of LFS; most centers amass only a limited number of affected individuals. In the article that accompanies this editorial, Bougeard et al16 describe clinical and genetic findings from a large cohort of 214 families with LFS, including 415 TP53 mutation carriers who were followed over a 20year period spanning the years 1993 to 2013. For each TP53 mutation carrier, data were collected on the number, type, and location of tumors and on the date of death. Consistent with the known increase in tumor risk in LFS,11,17,18 322 mutation carriers (78%) developed one or more cancers. The tumor spectrum was similar to that previously described, and in women primarily included early-onset breast cancers; 127 (79%) were diagnosed at an average age of 35 years. Soft tissue sarcomas were the second most common tumor type in adults and were observed in 27%. There was also a high incidence of childhood tumors; 22% of mutation carriers developed a cancer by age 5 years, and 41% by age 18 years. Remarkably, 18 mutation carriers (4%) developed a cancer during the first year of life. In children, the tumor spectrum mainly included osteosarcomas (30%), ACC (27%), CNS tumors (26%), and soft tissue sarcomas (23%).
+In this investigation, individuals underwent comprehensive TP53 genetic analysis, which enabled a systematic evaluation of the relationship between TP53 genotype and clinical phenotype. Among the 214 families analyzed, 133 distinct TP53 mutations were identified, and the spectrum matched those previously reported.11,19,20 Comparison of the age at cancer onset between those with missense mutations (including dominant-negative mutations affecting the DNA binding domain) versus loss-of-function mutations revealed a statistically significant younger age of onset for patients with missense mutations (23.8 v 28.5 years). This difference was even greater when the analysis included only patients with
+
+Journal of Clinical Oncology, Vol 33, 2015
+
+© 2015 by American Society of Clinical Oncology
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 3, 2016 from
+
+Copyright © 2015 American So1c5ie5t.y52o.f2C0l8in.8ic3al Oncology. All rights reserved.
+
+Copyright 2015 by American Society of Clinical Oncology
+
+1
+
+Editorial
+
+dominant-negative TP53 DNA binding domain mutations versus those with loss-of-function mutations. As might be expected, there was enrichment for dominant-negative mutations in younger individuals; these mutations were seen in 40%, 62%, and 36% of children presenting with osteosarcoma, CNS tumors, or rhabdomyosarcoma, respectively. In contrast, and consistent with the literature,21 the majority of patients with childhood ACC (76%) harbored mutation types other than dominant-negative mutations.
+The authors are commended for completing this study, which is one of the largest and longest running of its kind. This work confirms once again the extremely high lifetime cancer risk in TP53 mutation carriers and the strong association with breast cancer development in women and sarcoma, CNS tumors, ACC, and leukemia development in children. Despite this important observation, this study leaves many questions unanswered. For example, the study does little to increase knowledge regarding the clinical and pathologic features of the cancers that occur in LFS. Other than corroborating previously reported pathologic characteristics of LFS-associated breast cancers22 and RMS,23 this report provides no data on stage, histology, or response to therapy for any of the other cancers observed in the LFS cohort. One of the more problematic issues in LFS relates to SMNs, which cause significant morbidity and mortality. Unfortunately, limited information is presented regarding the latency, spectrum, and genotypephenotype correlations that are associated with the onset of SMNs. Although it is proposed that SMNs might result from the genotoxic effects of the therapies that are administered for a primary cancer, again, minimal data on radiation exposure and no information about chemotherapy are provided. Therefore, it is not possible to establish whether or how previous therapy influences the risk and timing of development of SMNs. If these data are available, they will provide great opportunities to address and even answer the important questions posed by clinicians regarding the actual impact of therapy on the likelihood of induction of secondary tumors, or even the likelihood (or lack thereof) of treatment response.
+On the basis of associations between TP53 genotype and tumor phenotype, the authors propose to stratify clinical management depending on TP53 mutation status. For families harboring dominantnegative TP53 mutations in whom cancers occur early, the authors suggest that it is appropriate to test children and to institute cancer screening in those who test positive for a germline mutation. In contrast, in families with loss-of-function mutations who demonstrate later occurrence of cancers, it might be more effective to test and screen adults, particularly women, who can then be monitored for the development of breast cancer and offered preventive measures such as bilateral mastectomy. Finally, for families harboring mutations linked to ACC, perhaps TP53 testing should be offered to children and screening should be tailored specifically to the detection of ACC.
+In theory, stratifying management according to TP53 genotype could reduce the psychological stress and financial burdens that are associated with genetic testing and cancer surveillance. However, it must be recognized that there is a wide range in the age of onset of cancers in individuals with LFS, regardless of the underlying TP53 mutation. Indeed, as shown by the authors of this report, there is a great degree of overlap between the ages of cancer onset in individuals carrying dominant-negative versus other types of TP53 mutations. This property makes it challenging to determine when and in whom to begin or stop surveillance. Furthermore, there is no cancer type that is exclusively associated with any class of TP53 mutation or any specific
+
+TP53 variant. A good example is the R337H mutation, which previously had been thought to predispose primarily to ACC. Recent reports reveal that this mutation now also predisposes to choroid plexus carcinoma24 and to breast cancer, where its prevalence is as high as 12.1% in Brazilian women who present before the age of 45 years.25 To understand how penetrance and expressivity are influenced in LFS, investigators are searching for the factors that cooperate with or modify the effects of mutant p53. Toward this end, several factors have been identified, including the burden of copy number variations in the genome26; the presence of shortened telomeres27; and singlenucleotide polymorphisms within TP53,14,28 the p53 inhibitor MDM2,28 and the miR-605 microRNA (which is induced by p53 and targets MDM2).29 Many more such modifying factors are surely to be identified with the application of next-generation sequencing approaches during the analysis of tumor or germline tissues from individuals with LFS.
+Decisions regarding TP53 testing and tumor monitoring are crucial, given that most cancers in LFS are solid tumors for which the outcome is usually stage dependent. In children, this is true for ACC, for which advanced-stage disease predicts a poorer prognosis; 5-year overall survival is only approximately 20% for those with metastases.30 With advanced-stage disease, complete surgical resection is more difficult and treatment usually incorporates a greater number or higher doses of chemotherapy, as well as radiation. These factors negatively influence short- and long-term outcomes, with radiation also increasing the risk for SMNs. In light of these issues, and on the basis of reports that have described positive outcomes for patients with LFS undergoing surveillance,31,32 it seems premature to make decisions about tumor monitoring strictly on the TP53 genotype.
+Overall, the current study represents a comprehensive evaluation of an important patient cohort. Continued efforts to understand the factors that influence LFS phenotype, the interaction between these factors and TP53 genotype, and the risks and benefits of TP53 testing and tumor surveillance have the potential to inform the management of future patients with this or other cancer-predisposing conditions. Ultimately, it is hoped that this information will enhance the treatment of existing cancers, improve the efficacy of surveillance, and minimize or eliminate SMNs.
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST Disclosures provided by the authors are available with this article at www.jco.org.
+AUTHOR CONTRIBUTIONS Manuscript writing: All authors Final approval of manuscript: All authors
+REFERENCES
+1. Li FP, Fraumeni JF Jr: Rhabdomyosarcoma in children: Epidemiologic study and identification of a familial cancer syndrome. J Natl Cancer Inst 43:1365-1373, 1969
+2. Li FP, Fraumeni JF Jr: Soft-tissue sarcomas, breast cancer, and other neoplasms: A familial syndrome? Ann Intern Med 71:747-752, 1969
+3. Li FP, Fraumeni JF Jr, Mulvihill JJ, et al: A cancer family syndrome in twenty-four kindreds. Cancer Res 48:5358-5362, 1988
+4. Masciari S, Dewanwala A, Stoffel EM, et al: Gastric cancer in individuals with Li-Fraumeni syndrome. Genet Med 13:651-657, 2011
+5. Ruijs MW, Verhoef S, Rookus MA, et al: TP53 germline mutation testing in 180 families suspected of Li-Fraumeni syndrome: Mutation detection rate and relative frequency of cancers in different familial phenotypes. J Med Genet 47:421-428, 2010
+6. Wong P, Verselis SJ, Garber JE, et al: Prevalence of early onset colorectal cancer in 397 patients with classic Li-Fraumeni syndrome. Gastroenterology 130:73-79, 2006
+
+2 © 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 3, 2016 from
+
+Copyright © 2015 American So1c5ie5t.y52o.f2C0l8in.8ic3al Oncology. All rights reserved.
+
+Editorial
+
+7. Nichols KE, Malkin D, Garber JE, et al: Germ-line p53 mutations predispose to a wide spectrum of early-onset cancers. Cancer Epidemiol Biomarkers Prev 10:83-87, 2001
+8. Hisada M, Garber JE, Fung CY, et al: Multiple primary cancers in families with Li-Fraumeni syndrome. J Natl Cancer Inst 90:606-611, 1998
+9. Malkin D, Li FP, Strong LC, et al: Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 250:12331238, 1990
+10. Zilfou JT, Lowe SW: Tumor suppressive functions of p53. Cold Spring Harb Perspect Biol 1:a001883, 2009
+11. Malkin D: Li-fraumeni syndrome. Genes Cancer 2:475-484, 2011 12. Lalloo F, Varley J, Ellis D, et al: Prediction of pathogenic mutations in patients with early-onset breast cancer by family history. Lancet 361:1101-1102, 2003 13. Achatz MI, Hainaut P, Ashton-Prolla P: Highly prevalent TP53 mutation predisposing to many cancers in the Brazilian population: A case for newborn screening? Lancet Oncol 10:920-925, 2009 14. Garritano S, Gemignani F, Palmero EI, et al: Detailed haplotype analysis at the TP53 locus in p.R337H mutation carriers in the population of Southern Brazil: Evidence for a founder effect. Hum Mutat 31:143-150, 2010 15. Palmero EI, Schüler-Faccini L, Caleffi M, et al: Detection of R337H, a germline TP53 mutation predisposing to multiple cancers, in asymptomatic women participating in a breast cancer screening program in Southern Brazil. Cancer Lett 261:21-25, 2008 16. Bougeard G, Renaux-Petel M, Flaman J-M, et al: Revisiting Li-Fraumeni syndrome in TP53 mutation carriers. J Clin Oncol doi: 10.1200/JCO.2014.59.5728 17. Hwang SJ, Lozano G, Amos CI, et al: Germline p53 mutations in a cohort with childhood sarcoma: Sex differences in cancer risk. Am J Hum Genet 72:975-983, 2003 18. Wu CC, Shete S, Amos CI, et al: Joint effects of germ-line p53 mutation and sex on cancer risk in Li-Fraumeni syndrome. Cancer Res 66:8287-8292, 2006 19. Olivier M, Goldgar DE, Sodha N, et al: Li-Fraumeni and related syndromes: Correlation between tumor type, family structure, and TP53 genotype. Cancer Res 63:6643-6650, 2003 20. Olivier M, Hollstein M, Hainaut P: TP53 mutations in human cancers: Origins, consequences, and clinical use. Cold Spring Harb Perspect Biol 2:a001008, 2010
+
+21. Wasserman JD, Novokmet A, Eichler-Jonsson C, et al: Prevalence and functional consequence of TP53 mutations in pediatric adrenocortical carcinoma: A Children's Oncology Group study. J Clin Oncol 33:602-609, 2015
+22. Masciari S, Dillon DA, Rath M, et al: Breast cancer phenotype in women with TP53 germline mutations: A Li-Fraumeni syndrome consortium effort. Breast Cancer Res Treat 133:1125-1130, 2012
+23. Hettmer S, Archer NM, Somers GR, et al: Anaplastic rhabdomyosarcoma in TP53 germline mutation carriers. Cancer 120:1068-1075, 2014
+24. Giacomazzi J, Selistre SG, Rossi C, et al: Li-Fraumeni and Li-Fraumeni-like syndrome among children diagnosed with pediatric cancer in Southern Brazil. Cancer 119:4341-4349, 2013
+25. Giacomazzi J, Graudenz MS, Osorio CA, et al: Prevalence of the TP53 p.R337H mutation in breast cancer patients in Brazil. PLoS One 9:e99893, 2014
+26. Shlien A, Tabori U, Marshall CR, et al: Excessive genomic DNA copy number variation in the Li-Fraumeni cancer predisposition syndrome. Proc Natl Acad Sci U S A 105:11264-11269, 2008
+27. Tabori U, Nanda S, Druker H, et al: Younger age of cancer initiation is associated with shorter telomere length in Li-Fraumeni syndrome. Cancer Res 67:1415-1418, 2007
+28. Bougeard G, Baert-Desurmont S, Tournier I, et al: Impact of the MDM2 SNP309 and p53 Arg72Pro polymorphism on age of tumour onset in Li-Fraumeni syndrome. J Med Genet 43:531-533, 2006
+29. Id Said B, Malkin D: A functional variant in miR-605 modifies the age of onset in Li-Fraumeni syndrome. Cancer Genet 208:47-51, 2015
+30. Michalkiewicz E, Sandrini R, Figueiredo B, et al: Clinical and outcome characteristics of children with adrenocortical tumors: A report from the International Pediatric Adrenocortical Tumor Registry. J Clin Oncol 22:838845, 2004
+31. Masciari S, Van den Abbeele AD, Diller LR, et al: F18-fluorodeoxyglucosepositron emission tomography/computed tomography screening in Li-Fraumeni syndrome. JAMA 299:1315-1319, 2008
+32. Villani A, Tabori U, Schiffman J, et al: Biochemical and imaging surveillance in germline TP53 mutation carriers with Li-Fraumeni syndrome: A prospective observational study. Lancet Oncol 12:559-567, 2011
+DOI: 10.1200/JCO.2015.61.5757; published online ahead of print at www.jco.org on June 22, 2015
+
+
+
+www.jco.org
+
+© 2015 by American Society of Clinical Oncology 3
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 3, 2016 from
+
+Copyright © 2015 American So1c5ie5t.y52o.f2C0l8in.8ic3al Oncology. All rights reserved.
+
+Editorial
+
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Genotype Versus Phenotype: The Yin and Yang of Germline TP53 Mutations in Li Fraumeni Syndrome
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I  Immediate Family Member, Inst  My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc.
+
+Kim E. Nichols No relationship to disclose
+
+David Malkin No relationship to disclose
+
+© 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 3, 2016 from
+
+Copyright © 2015 American So1c5ie5t.y52o.f2C0l8in.8ic3al Oncology. All rights reserved.
+
+

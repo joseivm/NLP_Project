@@ -1,0 +1,464 @@
+Familial Cancer (2012) 11:235­242 DOI 10.1007/s10689-011-9506-2
+ORIGINAL ARTICLE
+Risk of cancer other than breast or ovarian in individuals with BRCA1 and BRCA2 mutations
+A. Moran · C. O'Hara · S. Khan · L. Shack · E. Woodward · E. R. Maher · F. Lalloo · D. G. R. Evans
+
+Published online: 21 December 2011 Ó Springer Science+Business Media B.V. 2011
+
+Abstract The risks of cancers other than breast and ovarian amongst BRCA1 and BRCA2 mutation carriers are based on relatively few family based studies with the risk of specific cancers tested in population based samples of cancers from founder populations. We assessed risks of ``other cancers'' in 268 BRCA1 families and 222 BRCA2 families using a person years at risk analysis from 1975 to 2005. Cancer confirmations were overall higher than in previous family based studies at 64%. There was no overall increase in risk for BRCA1 carriers although oesophagus had a significant increased RR of 2.9 (95% CI 1.1­6.0) and stomach at 2.4 (95% CI 1.2­4.3), these were based mainly
+Electronic supplementary material The online version of this article (doi:10.1007/s10689-011-9506-2) contains supplementary material, which is available to authorized users.
+A. Moran Á C. O'Hara Á S. Khan Á L. Shack North West Cancer Intelligence Service, The Christie NHS Foundation Trust, Manchester M20 3LJ, UK
+L. Shack Preventative Oncology and Community Health Sciences, University of Calgary, Calgary, Canada
+E. Woodward Á E. R. Maher Medical and Molecular Genetics, and Centre for Rare Diseases and Personalised Medicine, University of Birmingham School of Medicine, Birmingham B15 2TT, UK
+E. Woodward Á E. R. Maher West Midlands Regional Genetics Service, Clinical Genetics Unit, Birmingham Women's Hospital, Birmingham B15 2TG, UK
+F. Lalloo Á D. G. R. Evans (&) Genetic Medicine, Manchester Academic Health Science Centre, St. Mary's Hospital, Oxford Road, Manchester M13 9WL, UK e-mail: gareth.evans@cmft.nhs.uk
+
+on unconfirmed cases. For BRCA2 increased risks for cancers of the pancreas (RR 4.1, 95% CI 1.9­7.8) and prostate (RR 6.3, 95% CI 4.3­9.0) and uveal melanoma (RR 99.4, 95% CI 11.1­359.8) were confirmed. Possible new associations with oesophagus (RR 4.1, 95% CI 1.9­7.8) and stomach (RR 2.7, 95% CI 1.3­4.8) were detected but these findings should be treated with caution due to lower confirmation rates. In contrast to previous research a higher risk of prostate cancer was found in males with mutations in the BRCA2 OCCR region. The present study strengthens the known links between BRCA2 and pancreatic and prostate cancer, but throws further doubt onto any association with BRCA1. New associations with upper gastro-intestinal malignancy need to be treated with caution and confirmed by large prospective studies.
+Keywords BRCA1 Á BRCA2 Á Pancreatic cancer Á Prostate cancer Á Oesophageal cancer Á Uveal melanoma
+Introduction
+Since the identification of BRCA1 and BRCA2 in 1994 and 1995, respectively [1, 2], a large number of studies have evaluated the risk of breast and ovarian cancer associated with mutations in these genes [3­10]. However, relatively few studies have evaluated the risks of the cancer spectrum outside breast and ovarian cancer [11­15]. Whilst there is good evidence to support an increased risk of prostate and pancreatic cancer in BRCA2, the most recent large scale family study (as far back as 2002) has thrown doubt on whether there are any significantly elevated risks of cancer outside breast and ovarian cancer in BRCA1 [13]. Indeed the editorial to that article called for more studies to evaluate the risks in BRCA1 carriers [16]. We have
+
+123
+
+236 A. Moran et al.
+
+evaluated the cancer risks outside breast and ovarian cancer in a large cohort of 490 families with pathogenic BRCA1 or BRCA2 mutations.
+
+actively followed-up and details of every cancer reported were checked against the records at the North West Cancer Intelligence Service or the West Midlands Cancer Intelligence Unit.
+
+Methods
+Study subjects were identified from individuals who attended the Regional Genetics Clinics at Manchester and Birmingham. These clinics cover a population of about ten million in the overlapping regions of the North West and West Midlands of England. Breast and ovarian cancer families have been tested for BRCA1/2 mutations (using a whole gene analysis including a test for large deletions) since 1996. Women who attend the specialist genetic clinics in these regions with a family history of breast/ ovarian cancer have a detailed family tree elicited with all first, second and if possible third degree relatives recorded. If a BRCA1/2 mutation is identified, further extensive attempts are made to ensure that all individuals at risk of inheriting the family mutation are represented on the pedigree. All cases of cancers are confirmed by means of hospital/pathology records, from the Regional Cancer Registries (data available from 1960) or from death certification. Once a family specific pathogenic BRCA1/2 mutation is identified predictive testing is offered to all blood relatives. Where possible all affected women with breast/ovarian cancer are tested to establish the true extent of BRCA1/2 involvement in the family. In many large families it is possible to establish ``obligate'' gene carriers by testing for the same mutation in different branches of the family, thereby establishing that intervening relatives carry the same mutation. Families were ascertained from 1987 onwards. All families meeting a 20% threshold for BRCA1/2 testing were included. However, testing also included in research studies isolated breast cancers \35 years of age and families with two instances of breast cancer. In all over 3,000 families were tested to arrive at the family cohort presented. Some of these families are very small. Given the large number of families utilised no adjustments were made for dependency.
+All individuals diagnosed with a pathogenic mutation in BRCA1 or BRCA2 and who were the first in their family to be so diagnosed were eligible for this study and were termed index cases. Their first degree relatives (FDR) with mutations were also eligible. All known FDRs of mutation carriers were recorded on the mutation database. To make full use of the data collected in this study, it was decided to include in the analyses those FDRs who were not tested for mutations. All individuals were only counted once and FDRs testing negative were excluded.
+A detailed family history was taken from study subjects, including any diagnosis of cancer. Individuals were
+
+Analyses
+Follow-up for the study subjects commenced on 1 January 1975 or on an individual's 15th birthday, whichever was the later. Follow-up ceased on the earliest of 31 December 2005, date of death or date of diagnosis of a given type of tumour. Patients diagnosed with one type of tumour continued to be considered at risk of other types of cancer.
+Relative risks were calculated for all cancers combined (excluding breast, ovarian and non-melanoma skin cancers), for several common types of cancers and a few rarer cancers for which there is evidence of an increased risk. The risk of being diagnosed with a specific type of cancer in individuals with BRCA mutations compared with the general population of the same age and sex was estimated using the ratio of observed to expected number of cases. The expected number was calculated using population based incidence rates for the North West of England for the period 1 January 1975 to 31 December 2005. Age group-, sex-, and calendar period-specific person years at risk were multiplied by the corresponding age-specific incidence rates to estimate the number of expected cases.
+Relative risks were calculated for (1) those who tested positive, (2) those not tested who carried the family mutation and (3) combined. As we did not know which of the untested individuals carried their family mutation, the number of cancers that occurred in carriers was calculated from the number of observed cancers in all those not tested. The following assumptions were made:
+(a) 50% of those not tested carried the family BRCA mutation and 50% did not
+(b) The number of years of follow-up and the age distribution during follow-up were similar for those who were and were not mutation carriers
+(c) The risk of cancer in non-carriers was the same as for individuals in the general population of the same age and sex
+Based on these assumptions, the number of cancers that occurred in the assumed non-carriers was taken as the same as the expected number of cancers in this group, which was half the expected number in all those not tested. This number was then subtracted from the observed number of cancers in those not tested to provide the estimate of the number of cancers that occurred in the assumed carriers (i.e. the ``observed number''). In those instances where this calculation resulted in a negative value, the number of
+
+123
+
+Risk of cancer other than breast or ovarian
+
+237
+
+observed cancers was taken as 0. Calculating observed numbers in this way produced many values that were not whole numbers.
+A further analysis was undertaken on those sites for which significantly raised relative risks were obtained to overcome possible ascertainment bias. Relative risks were calculated including only follow-up up to the date on which the first member of the family was identified with a BRCA mutation.
+In addition to the above an analysis of prostate cancer risk was carried out on an updated cohort extended to 1 June 2010. This contained additional cases ascertained since 31 December 2005. Kaplan­Meier analysis was used to assess cumulative risk of prostate cancer in BRCA2 mutation carriers and their FDRs subdivided by mutation position.
+The confidence intervals were calculated using the Byar's approximation of the exact Poisson distribution [17].
+Results
+For the initial analysis of all cancer risk, 3,836 individuals were identified who had either tested positive for BRCA1 or BRCA2 or who had not been tested though a relative had tested positive. 495 were excluded for the following reasons: 417 had died before the start of the follow-up period, 68 were neither index cases nor FDR of mutation positive cases, and essential information was not available for ten patients. After exclusions 3,341 individuals were included in the study; 1,148 who had tested positive, of whom 490 were index cases and 658 FDR, plus 2,193 who had not been tested but a FDR had tested positive. 268 cancers other than breast and ovary were reported in these individuals of which 258 occurred within the follow-up period of the study. 165 (64%) of these were confirmed. Table 1 shows the characteristics of the study population by gender and BRCA mutation. 1,815 had BRCA1 mutations and 1,526 BRCA2 mutations. Total follow-up was 75,555 person-years at risk (average = 22.6 years): 7% of which was at age 15­19, 64% at 20­49 years old, 23% in the 50­69 age group and 5% in the 70?. The age distribution of years of follow-up was similar for those tested and not tested (percentages for tested first): 7 and 7% for 15­19, 66 and 62% for 20­49 year olds, 23 and 25% for 50­69 year olds and 4 and 6% for 70?.
+The relative risk for all cancers combined in those with BRCA1 mutations is below the risk in the general population (RR = 0.7 95% CI 0.5­0.9: Table 2). Those with BRCA2 mutations are at higher risk than the general population (RR = 1.5 95% CI 1.2­1.8). The increased risk is only seen in males (RR = 1.9 95% CI 1.5­2.4) with females having a RR of 1 (webappendix page 1).
+
+Statistically significantly increased risks were found for individuals with BRCA2 mutations for prostate (RR 6.3, 95% CI 4.3­9.0), oesophagus (RR 4.1, 95% CI 1.9­7.8), stomach (RR 2.7, 95% CI 1.3­4.8), pancreas (RR 4.1, 95% CI 1.9­7.8) and uveal melanoma (RR 99.4, 95% CI 11.1­ 359.8) (Table 2). However, for pancreas the increased risk was only in those not tested and was based on only two cases for uveal melanoma. Individuals with BRCA2 mutations also had high, though statistically non-significant, rates for gall bladder and bile duct (RR 4.3, 95% CI 0.4­16.7) and cutaneous melanoma (RR 2.6, 95% CI 1.0­5.7). Increased risks in those with BRCA1 mutations were calculated for oesophageal (RR 2.9, 95% CI 1.1­6.0) and stomach cancers (RR 2.4, 95% CI 1.2­4.3), though in both the increased risks were only in those not tested. When follow-up was censored at the date of the first positive mutation test in the family, the relative risks for those with BRCA2 mutations were 4.2 (95% CI 2.4­6.7) for prostate cancer, 7.6 (95% CI 3.5­14.3) for oesophageal cancer, 3.2 (95% CI 1.4­6.2) for stomach cancer and 6.3 (95% CI 2.7­12.2) for pancreatic cancer. The equivalent values for BRCA1 carriers were 3.2 (95% CI 0.9­7.8) for oesophagus and 2.6 (95% CI 1.1­5.4) for stomach.
+OCCR assessment
+The numbers of prostate cancers were too low to assess the effect of the Ovarian Cancer Cluster Region (OCCR) in the initial cohort. However, we have assessed this amongst an expanded set of 336 BRCA2 families containing 1,018 male mutation carriers and FDRs. There were 33 prostate cancers (8.6%) amongst 385 males from the OCCR (4/56 in 6174DelT mutation families), but only 32/633 (5.1%) amongst males from families with mutations outside the OCCR (Fishers exact Chi square P = 0.03). The cumulative risk of prostate cancer was 15.9% (95% CI 12.8­19.0%) in OCCR related men by aged 70 years compared to 5.9% (95% CI 4.4­7.5% Hazard ratio 2.92 95% CI 1.54­5.54, Fig. 1) in males from families with mutations outside the OCCR.
+Discussion
+The current study has confirmed that an increased risk of cancer as a whole outside breast and ovarian cancer was confined to men with BRCA2 mutations. The study has confirmed the increased risk of prostate cancer in BRCA2 mutation carriers. A new association of increased risk with BRCA2 mutations was found for oesophageal cancer (RR 4.1, 95% CI 1.9­7.8), and increased risks were also reported for gastric (RR 2.7, 95% CI 1.3­4.8) and pancreatic cancers (RR 4.1, 95% CI 1.9­7.8). Those with BRCA1 mutations had
+
+123
+
+238 A. Moran et al.
+
+Table 1 Study subjects by gender, BRCA mutations and number of cancers
+
+Females
+
+N study N (%) breast N (%) ovarian N (%) other
+
+subjects cancers
+
+cancers
+
+cancers
+
+Males
+N study subjects
+
+N (%) breast cancers
+
+N (%) other cancers
+
+All persons
+N study subjects
+
+BRCA 1 BRCA 2 Totals
+
+Index
+FDR positive
+FDR not tested
+Index
+FDR positive
+FDR not tested
+
+266 285
+549
+211 224
+496
+2,031
+
+186 (70) 113 (41)
+116 (21)
+173 (82) 84 (34)
+118 (24)
+790
+
+84 (32) 65 (24)
+69 (13)
+34 (16) 21 (8)
+38 (8)
+311
+
+12 (5) 10 (4)
+36 (7)
+12 (6) 9 (4)
+31 (6)
+110
+
+2 78
+635
+11 71
+513
+1,310
+
+2 (100) 0 (0)
+1 (0.2)
+8 (73) 2 (3)
+7 (1)
+20
+
+0 (0) 11 (14)
+54 (9)
+5 (50) 22 (31)
+76 (15)
+168
+
+268 363
+1,184
+222 295
+1,009
+3,341
+
+an increased risk of oesophageal cancer (RR 2.9, 95% CI 1.1­6.0) and stomach cancer (RR 2.4, 95% CI 1.2­4.3). The finding that the relative risks for these sites remained high after follow-up past the first positive BRCA test in the family was excluded makes ascertainment bias a less likely explanation for these results.
+Care needs to be taken in interpreting results for those sites where increased risks occurred only in those assumed to be positive. Nonetheless, the results identified in this study appear valid as they confirm unequivocal associations without creating multiple new associations. Ideally, such findings would be confirmed in larger prospective studies with sufficient numbers of positive individuals to provide relative risks with narrow confidence intervals.
+The risk for malignancies at other sites has so far been addressed using two types of study: (a) Family-based studies, which compare the observed and expected number of cases of a specific malignancy and (b) Studies which compare rates of BRCA1/BRCA2 mutations in unselected cases of a specific malignancy with mutation rates in controls or in the general population (these are usually only carried out in founder populations). In family-based studies, cancers other than breast or ovarian cancer were confirmed by pathology or clinical records in only about half of the cases [13, 15]. This compares to the 64% in the present study. Whilst, inability to confirm cancers was more difficult in the previous studies based on family members from multiple generations, absence of confirmation in previous studies is not a criticism, but failure to confirm especially in more distant relatives and in previous generations makes the diagnosis far less certain.
+Prostate cancer risk was previously assessed in 173 Breast cancer Linkage Consortium (BCLC) BRCA2 families [12] showing a RR of 4.65 (95% CI 3.48­6.22), corresponding to a cumulative 7.5% (95% CI 5.7­9.3%) risk by age 70 years. A Dutch study of BRCA2 carriers [15]
+
+showed a cumulative risk of 5.2% (95% CI 1.7­8.7%) by age 70 years, with an RR of 2.5 (95% CI 1.6­3.8) [15]. BCLC family-based studies found that prostate cancer risk in BRCA2 carriers depend on age and BRCA2 mutation location. Relative prostate cancer risk was higher in men younger than 65 years (RR 7.3, 95% CI 4.7­11.5) [12]. The lower risk in OCCR mutations 95% CI 0.24­1.00) may explain why prostate cancer risk has not been consistently elevated in studies of BRCA2 in the Jewish population where the 6174DelT mutation predominates [18]. However, a population based study of breast cancer in Australia found the prostate cancer RR in FDRs of BRCA2 carriers was 18.55 (95% CI 4.64­74.17) [19]. Our study has shown a 6.3 fold RR of prostate cancer although this did drop to 4.2 after excluding the follow up period after mutation testing to remove cancers diagnosed by screening tests precipitated by the finding of a family mutation. Unfortunately given the numbers of prostate cancers an assessment of the OCCR region was not possible in the initial cohort. However, an updated analysis throws considerable doubt on whether there is a lower risk with OCCR mutations with a significantly increased risk found for OCCR versus non OCCR mutations. From previous studies it is less clear whether BRCA1 mutations increase prostate cancer risk. In the BCLC BRCA1 families, there was some evidence of an increased risk of prostate cancer from both studies [13, 14]. The first study based on only 33 families with linkage to BRCA1 found a RR for prostate cancer of 3.33 (95% CI 1.78­6.20) [14]. The second, larger study only found an increased risk for men younger than 65 years (RR 1.82, 95% CI 1.01­3.29), but not for those aged 65 years or older (RR 0.84, 95% CI 0.53­1.33) [13]. Studies in Jewish populations have yielded conflicting results [18]. The present study shows no evidence for increased prostate cancer risk in BRCA1 carriers (RR 1.0) and this is supported by a population based study in Poland [20].
+
+123
+
+Risk of cancer other than breast or ovarian
+
+239
+
+Table 2 Relative risk of cancer in individuals with BRCA mutations
+* The observed number is often not a whole number due to the method used in allocating the observed number of cancers in all untested FDRs into those in individuals who would have tested (i) positive and (ii) negative, as only (i) are included
+
+Type of cancer
+
+Observed*
+
+Expected
+
+Relative risk
+
+All cancers (excluding breast, ovarian and non-melanoma skin cancers)
+
+BRCA1
+
+54.4 80.3
+
+0.7
+
+BRCA2
+
+105.7
+
+70.3
+
+1.5
+
+Oesophagus
+
+BRCA1
+
+6.8 2.4 2.9
+
+BRCA2
+
+8.9 2.2 4.1
+
+Stomach
+
+BRCA1
+
+10.4 4.4 2.4
+
+BRCA2
+
+10.7 4.0 2.7
+
+Gall bladder and bile duct
+
+BRCA1
+
+1.0 0.5 2.2
+
+BRCA2
+
+1.8 0.4 4.3
+
+Pancreas
+
+BRCA1
+
+1.8 2.4 0.8
+
+BRCA2
+
+8.9 2.2 4.1
+
+Cutaneous melanoma
+
+BRCA1
+
+2.4 2.6 0.9
+
+BRCA2
+
+6.0 2.3 2.6
+
+Uveal melanoma
+
+BRCA1
+
+0.0 0.0 0.0
+
+BRCA2
+
+2.0 0.02 99.4
+
+Prostate
+
+BRCA1
+
+6.1 5.8 1.0
+
+BRCA2
+
+31.7 5.0 6.3
+
+Haematological
+
+BRCA1
+
+6.5 6.5 1.0
+
+BRCA2
+
+1.0 5.9 0.2
+
+Colorectal
+
+BRCA1
+
+11.0 11.4
+
+1.0
+
+BRCA2
+
+10.4 10.3
+
+1.0
+
+Larynx
+
+BRCA1
+
+0.9 1.1 0.9
+
+BRCA2
+
+0.0 1.0 0.0
+
+Trachea, bronchus and lung
+
+BRCA1
+
+8.2 14.2
+
+0.6
+
+BRCA2
+
+10.9 13.2
+
+0.8
+
+Cervix
+
+BRCA1
+
+1.8 4.0 0.4
+
+BRCA2
+
+1.8 3.5 0.5
+
+Body of uterus
+
+BRCA1
+
+4.3 2.1 2.0
+
+BRCA2
+
+4.0 2.0 2.0
+
+Urinary bladder
+
+BRCA1
+
+4.0 4.5 0.9
+
+BRCA2
+
+2.0 4.1 0.5
+
+Brain
+
+BRCA1
+
+0.7 1.8 0.4
+
+BRCA2
+
+1.2 1.6 0.8
+
+Confidence intervals (95%)
+0.5­0.9 1.2­1.8
+1.1­6.0 1.9­7.8
+1.2­4.3 1.3­4.8
+0.0­12.3 0.4­16.7
+0.1­2.9 1.9­7.8
+0.1­3.1 1.0­5.7
+11.1­359.8
+0.4­2.3 4.3­9.0
+0.4­2.1 0.0­1.0
+0.5­1.7 0.5­1.8
+0.0­5.0
+0.3­1.1 0.4­1.5
+0.0­1.7 0.1­2.0
+0.6­5.0 0.6­5.2
+0.2­2.3 0.1­1.8
+0.0­2.8 0.0­3.7
+
+123
+
+240 A. Moran et al.
+
+Risk of prostate cancer - censored at 70
+20
+Group 18 Above & Below
+Yes 16
+
+14
+
+Probability (%)
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+0 10 20 30 40 50 60 70
+
+Age at diagnosis
+
+Number at risk
+
+Group: Above & Below
+
+630 626 625 588 494 374 254 129
+
+Group: Yes
+
+382 379
+
+371 347 301 230 151
+
+82
+
+Fig. 1 Cumulative incidence of prostate cancer on Kaplan­Meier analysis in males with mutations in the BRCA2 OCCR and their FDRs compared to males from families with mutations outside the OCCR
+
+Amongst 1,793 prostate cancers BRCA1 mutations were less frequent than in 4,570 controls RR 0.9, although risk did vary between the three common mutations.
+Pancreatic cancer is the only other malignancy for which there is unequivocal evidence for increased risk in BRCA1/2 carriers. In BRCA1 carriers pancreatic cancer risk from a family based study by age 70 years has been estimated to be 1.16% (95% CI 0.83­1.61%) in men, and 1.26% (95% CI 0.92­1.72%) in women, reflecting a twofold RR [13]. However, the evidence for this is not supported from population based cancer studies in either Polish or Jewish founder populations [21, 22]. No mutations were identified amongst 88 pancreatic cancers in Poland and only two amongst 144 (1.3%) in a Jewish study. These compare with founder expected frequencies of 0.5 and 1.1% in the background populations. The absence of any evidence for increased pancreatic cancer risk in the present study throws further doubt on any association. In BRCA2 carriers, the largest previous study was of 177 families, which included data on 566 malignancies other than breast or ovarian cancers. This BCLC study estimated pancreatic cancer risk in BRCA2 carriers with a RR of 3.51 (95% CI 1.87­6.58) and a cumulative risk of pancreatic cancer by age 70 years of 2.1% (95% CI 1.2­3.0%) in men, and 1.5% (95% CI 0.9­2.1%) in women [12]. The smaller Dutch study, based on 199 malignancies other than breast or ovarian cancer, estimated pancreatic cancer RR in BRCA2 carriers as 5.9
+
+(95% CI 3.2­10.0), and cumulative risk by age 70 years at 4.1% (95% CI 1.0­7.3%) in men and 1.4% (95% CI 0­3.4%) in women [15]. These risk estimates are also consistent with the 4­7% rate of BRCA1 and BRCA2 mutations among unselected pancreatic cases [18]. We also found an increased risk of gall bladder and bile duct cancer for BRCA2 based on two confirmed cases in FDRs. This supports the risks found in the large BCLC study (RR 4.97, 95% CI 1.50­16.52) [12].
+Colon and rectal cancer risk was originally thought to be increased in BRCA1, but not BRCA2 carriers [12, 14]. However, the second larger BCLC study, showed that colorectal cancer risk was not increased [13] and a large study of 225 unselected Jewish colon cancer cases did not find increased rates of either BRCA1 or BRCA2 mutations [23]. Malignant melanoma, both cutaneous and ocular, has been reported in BRCA2 families [11], and an excess risk has been reported in the BRCA2-BCLC families [12]. This has not been confirmed in a smaller Dutch study [15]. A study of 385 unselected uveal melanoma cases has not shown excess rates of BRCA2 mutations [24]. However, the current study shows a RR of 99.4 (95% CI 11.1­359.8) with two confirmed cases in carriers. The relative risk for cutaneous melanoma was 2.6 (95% CI 1.0­5.7) in this study, just falling short of statistical significance. Taken together, these results suggest that melanoma (including uveal) risk may be elevated in specific BRCA2 families, but not for all BRCA2 carriers. Non melanoma skin cancer is difficult to study, as it is not reliably reported on cancer registries. One study does suggest that this may be elevated for BRCA2 [25].
+Determining the risk of stomach cancer risk is problematic due to the use of `stomach' by lay people to refer to any abdominal cancer [26]. Even in FDRs, confirmation rates for abdominal cancers are not impressive [26]. The BCLC study found an increased stomach cancer risk (RR 2.59, 95% CI 1.46­4.61) [12] in BRCA2 carriers, but this was not supported by the Dutch study (non-significant RR 1.2) [15]. We found a significant RR of 2.7 (95% CI 1.3­4.8) for stomach cancer based on four confirmed cases in carriers and 9 confirmed cases in untested FDRs. Confirmation of cancers is an important issue when risk estimates are based on a small number of cases. Liver and bone cancers may represent distant metastases from other sites. In English parlance `throat' cancer might be interpreted as oesophageal, pharyngeal or laryngeal cancer. The Dutch study that achieved cancer verification in only 46% of cases found significant RR for both bone (14.4, 95% CI 2.9­42.1) and pharynx (7.3, 95% CI 2.0­18.6). We did not find an increased risk for pharynx, but did find one for oesophagus. This was nonetheless based on only one confirmed case of eight in FDRs although the three mutation carriers were confirmed. Nonetheless the possible association is supported by a study in Iran [27]. A nonsense variant, K3326X, was identified in 9
+
+123
+
+Risk of cancer other than breast or ovarian
+
+241
+
+of 197 cases (4.6%) versus 2 of 254 controls (0.8%) (OR 6.0, 95% CI 1.3­28; P = 0.01).
+The first study of BRCA1 carriers did suggest an increased risk of non ovarian gynaecological cancer [14] but this was not supported by the larger follow up BCLC study [12]. Our own study appeared to show increased risks amongst proven mutation carriers for both BRCA1 and BRCA2, but this was not seen in FDRs and overall RRs for endometrial cancer were not significantly increased. Any increased risk in carriers could be related to concomitant breast cancer and tamoxifen treatment which occurred in 2/4 BRCA1 and three of four BRCA2 carriers with the endometrial cancers occurring 6­15 years after primary breast cancer.
+This study represents the largest family based study of cancer risks based on 268 BRCA1 families and 222 BRCA2 families. Cancer confirmations were overall higher than in previous family based studies. The current study has confirmed increased risks for prostate and pancreatic cancers in BRCA2 carriers equivalent to a four-fold risk. Possible excess risks of oesophageal and stomach cancer are also reported, but BRCA1 carriers now look to have negligible excess risks with the possible exception of cancers of the upper gastrointestinal tract. Until large prospective studies of mutation carriers are available studies of this kind are useful in assessing other cancer risks in BRCA1/2 carriers.
+Acknowledgments This work was supported by the Genesis Breast Cancer Prevention Appeal. The department of Genetic Medicine in Manchester is supported by the NIHR Manchester Biomedical Research Centre.
+References
+1. Miki Y, Swensen J, Shattuck-Eidens D, Futreal PA, Harshman K, Tavtigian S et al (1994) A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science 266(5182): 66­71
+2. Wooster R, Bignell G, Lancaster J, Swift S, Seal S, Mangion J et al (1995) Identification of the breast cancer susceptibility gene BRCA2. Nature 378(6559):789­792
+3. Ford D, Easton DF, Stratton M, Narod S, Goldgar D, Devilee P et al (1998) Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. The breast cancer linkage consortium. Am J Hum Genet 62(3):676­689
+4. Struewing JP, Hartge P, Wacholder S, Baker SM, Berlin M, McAdams M et al (1997) The risk of cancer associated with specific mutations of BRCA1 and BRCA2 among Ashkenazi Jews. N Engl J Med 336(20):1401­1408
+5. Warner E, Foulkes W, Goodwin P, Meschino W, Blondal J, Paterson C et al (1999) Prevalence and penetrance of BRCA1 and BRCA2 gene mutations in unselected Ashkenazi Jewish women with breast cancer. J Natl Cancer Inst 91(14):1241­1247
+6. Hopper JL, Southey MC, Dite GS, Jolley DJ, Giles GG, McCredie MR et al (1999) Population-based estimate of the average age-specific cumulative risk of breast cancer for a defined set of protein-truncating mutations in BRCA1 and BRCA2. Australian breast cancer family study. Cancer Epidemiol Biomarkers Prev 8(9):741­747
+
+7. Antoniou A, Pharoah PDP, Narod S, Risch HA, Eyfjord JE, Hopper J, Loman N, Olsson H, Johannsson O, Borg A, Pasini B, Radice P, Manoukian S, Eccles D, Tang N, Olah E, Anton-Culver H, Warner E, Lubinski J, Gronwald J, Gorski B, Tulinius H, Thorlacius S, Eerola H, Nevanlinna H, Syrjakoski K, Kallionemi O-P, Thompson D, Evans C, Peto J, Lalloo F, Evans DG, Easton DF (2005) Breast and ovarian cancer risks to carriers of the BRCA1 5382insC and 185delAG and BRCA2 6174delT mutations: a combined analysis of 22 population based studies. J Med Genet 42(7):602­603
+8. Chen S, Iversen ES, Friebel T, Finkelstein D, Weber BL, Eisen A, Peterson LE, Schildkraut JM, Isaacs C, Peshkin BN, Corio C, Leondaridis L, Tomlinson G, Dutson D, Kerber R, Amos CI, Strong LC, Berry DA, Euhus DM, Parmigiani G (2006) Characterization of BRCA1 and BRCA2 mutations in a large United States sample. J Clin Oncol 24(6):863­871
+9. King MC, Marks JH, Mandell JB (2003) Breast and ovarian cancer risks due to inherited mutations in BRCA1 and BRCA2. Science 302(5645):643­646
+10. Evans DG, Shenton A, Woodward E, Lalloo F, Howell A, Maher ER (2008) Penetrance estimates for BRCA1 and BRCA2 based on genetic testing in a clinical cancer genetics service setting. BMC Cancer 8(1):155
+11. Easton DF, Steele L, Fields P, Ormiston W, Averill D, Daly PA et al (1997) Cancer risks in two large breast cancer families linked to BRCA2 on chromosome 13q12­13. Am J Hum Genet 61(1):120­128
+12. The breast cancer linkage consortium (1999) Cancer risks in BRCA2 mutation carriers. The breast cancer linkage consortium. J Natl Cancer Inst 91(15):1310­1316
+13. Thompson D, Easton DF (2002) Breast cancer linkage consortium. Cancer incidence in BRCA1 mutation carriers. J Natl Cancer Inst 94(18):1358­1365
+14. Ford D, Easton DF, Bishop DT, Narod SA, Goldgar DE (1994) Risks of cancer in BRCA1-mutation carriers. Breast cancer linkage consortium. Lancet 343(8899):692­695
+15. van Asperen CJ, Brohet RM, Meijers-Heijboer EJ, Hoogerbrugge N, Verhoef S, Vasen HF, Ausems MG, Menko FH, Gomez Garcia EB, Klijn JG, Hogervorst FB, van Houwelingen JC, van't Veer LJ, Rookus MA, van Leeuwen FE (2005) Netherlands collaborative group on hereditary breast cancer (HEBON). Cancer risks in BRCA2 families: estimates for sites other than breast and ovary. J Med Genet 42(9):711­719
+16. Gruber SB, Petersen GM (2002) Cancer risks in BRCA1 carriers: time for the next generation of studies. J Natl Cancer Inst 94(18):1344­1345
+17. Breslow NE, Day NE (1987) Statistical methods in cancer research vol II. the design and analysis of cohort studies (IARC Scientific Publication No 82). International Agency for Research on Cancer, Lyon
+18. Liede A, Karlan BY, Narod SA (2004) Cancer risks for male carriers of germline mutations in BRCA1 or BRCA2: a review of the literature. J Clin Oncol 22(4):735­742
+19. Dite GS, Whittemore AS, Knight JA, John EM, Milne RL, Andrulis IL, Southey MC, McCredie MR, Giles GG, Miron A, Phipps AI, West DW, Hopper JL (2010) Increased cancer risks for relatives of very early-onset breast cancer cases with and without BRCA1 and BRCA2 mutations. Br J Cancer 103(7): 1103­1108
+20. Cybulski C, Go´rski B, Gronwald J, Huzarski T, Byrski T, Debniak T, Jakubowska A, Wokolorczyk D, Gliniewicz B, Sikorski A, Stawicka M, Godlewski D, Kwias Z, Antczak A, Krajka K, Lauer W, Sosnowski M, Sikorska-Radek P, Bar K, Klijer R, Romuald Z, Malkiewicz B, Borkowski A, Borkowski T, Szwiec M, Posmyk M, Narod SA, Lubin´ski J (2008) BRCA1 mutations and prostate cancer in Poland. Eur J Cancer Prev 17(1):62­66
+
+123
+
+242 A. Moran et al.
+
+21. Lawniczak M, Gawin A, Bialek A, Lubin´ski J, Starzyn´ska T (2008) Is there any relationship between BRCA1 gene mutation and pancreatic cancer development? Pol Arch Med Wewn 118(11):645­649
+22. Ferrone CR, Levine DA, Tang LH, Allen PJ, Jarnagin W, Brennan MF, Offit K, Robson ME (2009) BRCA germline mutations in Jewish patients with pancreatic adenocarcinoma. J Clin Oncol 27(3):433­438
+23. Niell BL, Rennert G, Bonner JD, Almog R, Tomsho LP, Gruber SB (2004) BRCA1 and BRCA2 founder mutations and the risk of colorectal cancer. J Natl Cancer Inst 96(1):15­21
+24. Hearle N, Damato BE, Humphreys J, Wixey J, Green H, Stone J, Easton DF, Houlston RS (2003) Contribution of germline mutations in BRCA2, P16(INK4A), P14(ARF) and P15 to uveal melanoma. Invest Ophthalmol Vis Sci 44(2):458­462
+
+25. Ginsburg OM, Kim-Sing C, Foulkes WD, Ghadirian P, Lynch HT, Sun P, Narod SA (2010) Hereditary breast cancer clinical study group. BRCA1 and BRCA2 families and the risk of skin cancer. Fam Cancer [Epub ahead of print]
+26. Douglas FS, O'Dair LCO, Robinson M, Evans DGR, Lynch SA (1999) The accuracy of diagnosis as reported by the proband in families with cancer: a retrospective study. J Med Genet 36: 309­312
+27. Akbari MR, Malekzadeh R, Nasrollahzadeh D, Amanian D, Islami F, Li S, Zandvakili I, Shakeri R, Sotoudeh M, Aghcheli K, Salahi R, Pourshams A, Semnani S, Boffetta P, Dawsey SM, Ghadirian P, Narod SA (2008) Germline BRCA2 mutations and the risk of esophageal squamous cell carcinoma. Oncogene 27(9):1290­1296
+
+123
+
+

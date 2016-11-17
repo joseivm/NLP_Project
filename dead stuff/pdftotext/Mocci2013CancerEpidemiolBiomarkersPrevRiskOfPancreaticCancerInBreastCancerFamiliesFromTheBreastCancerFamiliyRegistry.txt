@@ -1,0 +1,452 @@
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Research Article
+
+Cancer Epidemiology,
+Biomarkers & Prevention
+
+Risk of Pancreatic Cancer in Breast Cancer Families from the Breast Cancer Family Registry
+Evelina Mocci1, Roger L. Milne1,2, Elena Yuste Mendez-Villamil1, John L. Hopper2, Esther M. John3, Irene L. Andrulis4, Wendy K. Chung5, Mary Daly6, Saundra S. Buys7, Nuria Malats1, and David E. Goldgar8
+
+Abstract
+Background: Increased risk of pancreatic cancer has been reported in breast cancer families carrying BRCA1and BRCA2 mutations; however, pancreatic cancer risk in mutation-negative (BRCAX) families has not been explored to date. The aim of this study was to estimate pancreatic cancer risk in high-risk breast cancer families according to the BRCA mutation status.
+Methods: A retrospective cohort analysis was applied to estimate standardized incidence ratios (SIR) for pancreatic cancer. A total of 5,799 families with 1 breast cancer case tested for mutations in BRCA1 and/or BRCA2 were eligible. Families were divided into four classes: BRCA1, BRCA2, BRCAX with 2 breast cancer diagnosed before age 50 (class 3), and the remaining BRCAX families (class 4).
+Results: BRCA1 mutation carriers were at increased risk of pancreatic cancer [SIR ¼ 4.11; 95% confidence interval (CI), 2.94­5.76] as were BRCA2 mutation carriers (SIR ¼ 5.79; 95% CI, 4.28­7.84). BRCAX family members were also at increased pancreatic cancer risk, which did not appear to vary by number of members with early-onset breast cancer (SIR ¼ 1.31; 95% CI, 1.06­1.63 for class 3 and SIR ¼ 1.30; 95% CI, 1.13­1.49 for class 4).
+Conclusions: Germline mutations in BRCA1 and BRCA2 are associated with an increased risk of pancreatic cancer. Members of BRCAX families are also at increased risk of pancreatic cancer, pointing to the existence of other genetic factors that increase the risk of both pancreatic cancer and breast cancer.
+Impact: This study clarifies the relationship between familial breast cancer and pancreatic cancer. Given its high mortality, pancreatic cancer should be included in risk assessment in familial breast cancer counseling. Cancer Epidemiol Biomarkers Prev; 22(5); 803­11. Ó2013 AACR.
+
+Introduction
+Pancreatic cancer is the fourth leading cause of cancer death in the United States and leads to an estimated
+Authors' Affiliations: 1Genetic and Molecular Epidemiology Group, Human Cancer Genetics Programme, Spanish National Cancer Research Centre (CNIO), Madrid, Spain; 2School of Population and Global Health, Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, University of Melbourne, Australia; 3Cancer Prevention Institute of California, Fremont; and Department of Health Research and Policy and Stanford Cancer Institute, Stanford University School of Medicine, Stanford, California; 4Department of Molecular Genetics, University of Toronto, Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada; 5Department of Pediatrics and Medicine, Columbia University New York;. 6Fox Chase Cancer Center, Philadelphia, Pennsylvania; and Departments of 7Internal Medicine and 8Dermatology, Huntsman Cancer Institute, University of Utah, Salt Lake City, Utah
+Note: Supplementary data for this article are available at Cancer Epidemiology, Biomarkers and Prevention Online (http://cebp.aacrjournals.org).
+E. Mocci and R.L. Milne contributed equally to this work.
+N. Malats and D.E. Goldgar are co-senior authors.
+Corresponding Author: David E. Goldgar, Department of Dermatology, University of Utah School of Medicine, Salt Lake City, UT 84132. Phone: 801-585-0337; Fax: 801-581-6484; E-mail: david.goldgar@hsc.utah.edu
+doi: 10.1158/1055-9965.EPI-12-0195
+Ó2013 American Association for Cancer Research.
+
+227,000 deaths per year worldwide (1). The majority of pancreatic cancers are sporadic with a median age at diagnosis of 72 years; the male:female ratio is 1.3:1, and cigarette smoking accounts for approximately 20% of tumors (2). It has been estimated that approximately 7% to 10% of patients with pancreatic cancer have one or more close relatives with pancreatic cancer (3) and are therefore classified as having familial pancreatic cancer (FPC). Relatives of FPC cases are at increased risk of developing pancreatic cancer compared with the general population, and the risk increases with an increasing number of affected relatives and younger age at diagnosis (4, 5).
+It is still unknown what genetic factors cause most familial clustering of pancreatic cancer. About 6% to 17% of FPC cases are found to carry germline mutations in BRCA2 (6­8), approximately 3% have PALB2 mutations (9­11) and 2% carry deleterious ATM mutations (12). Almost all FPC cases with germline PALB2 mutations have at least one close relative with breast cancer.
+BRCA1, BRCA2, and PALB2 form a trimeric complex, which is critical for the maintenance of genomic stability by repairing DNA damage (13). The same genes, in particular BRCA1 and BRCA2, are also found to be
+
+www.aacrjournals.org
+
+803
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Mocci et al.
+
+mutated in a high percentage of families with hereditary breast and ovarian cancer. Members of these families are at an increased risk of developing pancreatic cancer compared with the general population, that has been estimated to be 2- to 7-fold (14­17) for BRCA2 mutation carriers and 2-fold for BRCA1 mutation carriers (17, 18).
+On the basis of these previous reports, the goal of the present study was to estimate the relative risk of pancreatic cancer in a large series of families recruited by the Breast Cancer Family Registry (BCFR) according to their BRCA1 and BRCA2 mutation status. It also aimed to assess, for the first time, the risk of pancreatic cancer among relatives of individuals who test negative for mutations in these genes.
+Materials and Methods
+Selection and description of families The BCFR is an international consortium enrolling and
+studying high-risk breast cancer families from 6 centers in the United States (Northern California Breast Cancer Family Registry, New York site of the BCFR, Utah site of BCFR, Philadelphia site of the BCFR), Canada (Ontario Familial Breast Cancer Family Registry), and Australia (Australian Breast Cancer Family Registry). The BCFR collects cancer family history, epidemiologic data, and histopathologic data on individuals affected with breast cancer, ascertained through population-based cancer registries (population-based breast cancer families) or family cancer clinics and community outreach (clinic-based breast cancer families; ref. 19). For the present study, families were eligible if the proband (defined in this context as the first family member enrolled in the BCFR and affected with breast cancer) had been screened for pathogenic mutations in BRCA1 and/or BRCA2. According to the mutational status of the proband, families were classified as BRCA1, BRCA2, and BRCAX (proband tested negative for mutations in both genes). BRCAX families were subdivided in 2 classes: those with at least 2 early onset (50 years) breast cancer cases (class 3) and those remaining (class 4). Seven families segregating both BRCA1 and BRCA2 mutations were excluded.
+Mutation analysis testing Details on the definition of deleterious BRCA1 and
+BRCA2 mutations and the techniques used to detect them are provided in the Supplementary Methods.
+Data collection For all included individuals, information on diagnoses
+of breast, ovarian, and pancreatic cancers, ages at diagnosis of these cancers, date of birth and last contact or death was collected by personal or telephone interview or by mailed questionnaire. The proband in each family provided information on cancer family history through a family history questionnaire. Overall, documented verification through pathology reports (cancer registries and medical records) was available for 63% of breast cancers (20).
+
+Age at diagnosis of pancreatic cancer was imputed as age at death for 34 cases and as the difference between date of birth and date of last contact for 5 cases. Subjects for which no age was recorded at any event (interview, cancer diagnosis, death, or last follow-up) were excluded.
+Statistical analysis To test whether there was any difference in age at
+diagnosis of pancreatic cancer among the 4 classes of families we applied one-way ANOVA. To estimate the relative risk of pancreatic cancer for individuals from the 4 groups of families, we applied a survival analysis considering the time in years from birth to diagnosis of pancreatic cancer, death, or last contact.
+In total, there were 78,820 individuals included from 5,799 eligible families: 12,180 women and 157 men with breast cancer, 1,257 women with ovarian cancer, and 417 individuals with pancreatic cancer (219 men and 198 women). Of the 11,946 individuals in 538 BRCA1 families, 1,094 were genotyped mutation carriers (500 unaffected and 593 affected with breast or ovarian cancer, one affected with pancreatic cancer) and 717 we genotyped noncarriers (655 unaffected, 62 affected). There were 7,773 individuals in 383 BRCA2 families, of which 781 determined to be mutation carriers (360 unaffected and 420 affected with breast or ovarian cancer, one affected with pancreatic cancer) and 523 genotyped noncarriers (479 unaffected, 44 affected).
+We estimated the relative risk of pancreatic cancer as a standardized incidence ratio (SIR), defined as the number of pancreatic cancer cases observed divided by the number expected on the basis of incidence rates for the general population. The expected number of cases was calculated by multiplying person-years at risk with population incidence rates of pancreatic cancer. Person-time, SIRs, and their 95% confidence intervals (CI) were calculated using the stptime command in STATA version 10 (Stata Corporation). Population incidence rates specific to country, sex, and 5-year age group for specific 10-year calendar periods were taken from Cancer Incidence in Five Continents Reports (IARC-WHO; update November 2010).
+To assess the possible influence of cohort effects, we first based the analysis on decade-specific incidence rates. For this analysis, follow-up began in 1950 because no reliable estimates of pancreas rates are available before then. Once we verified that the SIR estimates were not influenced by such cohort-effects, our final analyses were based on population rates specific for each country, sex, and 5-year age group averaged from 1950 to 2009 which were applied to all follow-up, regardless of calendar year. Members of each class of family were first analyzed for overall pancreatic cancer risk. We then conducted separate analyses stratified by gender, age (50 vs. > 50 years), degree of relationship to the proband [first-degree relative (FDR)], method of family recruitment (clinic-based vs. population-based) and, for BRCA1 and BRCA2 families, the number of breast cancer cases in the family (2 vs. 3 breast cancer cases).
+
+804 Cancer Epidemiol Biomarkers Prev; 22(5) May 2013
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Pancreatic Cancer Risk in Breast Cancer Families
+
+Because relatively few family members were tested for mutations in BRCA1 or BRCA2, we conducted the analyses using 2 different approaches. First, we categorized all family members according to the mutational status of the proband. Under the second approach, we weighted individuals from BRCA1 and BRCA2 families according to their estimated probability of being a mutation carrier. These probabilities were estimated using the SLINK software (http://linkage.rockefeller.edu/soft/slink. html). SLINK's algorithm (21) simulates genotypes conditional on any combination of phenotypes and genetic marker data, even if only partially available. If N is the total number of members of a family, x (x1, x2, . . ., xN) is the vector of their phenotypes, and g ¼ (g1, g2, . . ., gN) the vector of genotypes to be imputed, then the conditional probability distribution of the genotypes given the phenotypes can be calculated by a series of successive calculations:
+PðgjxÞ ¼ Pðg1jxÞ Pðg2jg1; xÞPðg3jg1; g2; xÞ . . .
+BRCA1 and BRCA2 mutation status was imputed for all family members using personal history of breast, ovarian, and pancreas cancer as phenotypic data and mutation status, if tested, as genetic data. Age-specific breast, ovarian, and pancreas cancer penetrance and incidence estimates for BRCA1 and BRCA2 mutation carriers were also included as liability classes. The liability classes were constructed with 7 age brackets for each of the following groups of individuals: affected with breast cancer, affected with ovarian cancer, and unaffected with breast cancer or ovarian cancer. These classes reflected the penetrance and incidence estimates derived from a combined analysis of 22 data sets unselected for family history by Antoniou and colleagues (ref. 22; Supplementary Table S1). For pancreatic cancer, we included an additional
+
+liability class with an assumed incidence in noncarriers of 0.005 and a risk in carriers that was initially set to that for noncarriers and then iterated as 0.005 multiplied by the current estimate of the SIR. Genotype simulation conditional on the pedigree phenotypes, relationships, and observed genotypes was conducted 2,000 times for the entire BRCA1 and BRCA2 set of families.
+For each individual included in this analysis, the probability of being a mutation carrier was estimated as the proportion of simulations in which they were imputed to be mutation carriers. This probability was then used as a weight in the estimation of the SIR. This process was repeated until the SIR for pancreatic cancer for BRCA1 and BRCA2 mutation carriers converged, defined in this case to be a change from the previous iteration in the SIR of <0.5%.
+To compare SIRs obtained in stratified analyses, we estimated P values by applying a rate parameter test (23).
+Results
+Description of families Table 1 summarizes the characteristics of the families
+included in the study. There were 538 families for which the proband tested positive for a pathogenic mutation in BRCA1. Of these, 61 (11.3%) had at least one relative affected with pancreatic cancer and 4 (0.7%) had 2 or more affected relatives. There were 383 families found to carry BRCA2 mutations; 49 (12.8%) had at least one relative diagnosed with pancreatic cancer and 7 (1.8%) had 2 or more. Of the BRCAX families, 1,219 had at least 2 relatives with early onset ( 50 years) breast cancer (class 3); 71 (5.8%) reported at least one relative affected with pancreatic cancer and 10 (0.8%) had 2 or more. Among the 3,659 other BRCAX (class 4) families, 186 (5.1%) included at least one individual diagnosed with pancreatic cancer and 16 (0.4%) included 2 or more.
+
+Table 1. Classes of families and characteristic of pancreatic cancer­affected members of BCFR
+
+Class Selection criteria
+No. of families No of individuals
+(men/women) No. of PC cases
+Gender (PC cases only) Mean age at diagnosis
+of PC
+
+BRCA1 Proband carrier of a
+BRCA1 mutation
+538 11,946 (5,457/6,490)
+67 57 families: 1 PC 4 families: 2 PC 32 males 35 females 65.9 y (14.9)
+
+BRCA2 Proband carrier of a
+BRCA2 mutation
+383 7,773 (3,502/4,271)
+62 42 families: 1 PC 7 families: 2PC 35 males 27 females 63.1 y (11.0)
+
+3 (BRCAX)
+Proband tested negative for BRCA1 and BRCA2 mutations; 2 or more BC < ¼ 50 years
+1,219 17,037 (7,158/9,879)
+82 61 families: 1 PC 10 families: 2PC 40 males 42 females 66.9 y (12.7)
+
+4 (BRCAX) Proband tested negative for
+BRCA1 and BRCA2 mutations; at least 1 BC
+3,659 42,064 (18,461/23,603)
+206 170 families: 1 PC 16 families: 2PC 112 males 94 females 66.9 y (12.5)
+
+Abbreviations: BC, breast cancer; PC, pancreatic cancer.
+
+www.aacrjournals.org
+
+Cancer Epidemiol Biomarkers Prev; 22(5) May 2013 805
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Mocci et al.
+
+The percentage of men and women among pancreatic cancer cases was similar in all classes of families, with a slightly higher number of affected men, except in class 3 families which showed a higher number of women with pancreatic cancer. The observed mean age at diagnosis of pancreatic cancer was lower for BRCA2 families (63.1 years) than for the other 3 classes of families (>65.9), but this difference was not statistically significant (P ¼ 0.22; Table 1).
+Pancreatic cancer risk estimates by family class regardless of mutation carrier status
+The estimated SIRs for pancreatic cancer by familial class are summarized in Table 2. Overall, the SIR for members of BRCA1 mutation carrier families was 1.60 (95% CI, 1.26­2.04) and was similar for men (SIR ¼ 1.43; 95% CI, 1.01­2.03) and women (SIR ¼ 1.80; 95% CI, 1.29­ 2.51). The SIR was higher for family members aged 50 years than for older ones (4.68; 95% CI, 2.66­8.25 vs. 1.40; 95% CI, 1.08­1.83, P ¼ 0.00092). The SIR did not appear to differ by the number of relatives with breast cancer (2 vs. 3 breast cancer, P ¼ 0.16), nor by the family recruitment method (clinic-based vs. population-based, P ¼ 0.38).
+Overall, pancreatic cancer risk among members of BRCA2 families was 2.20-fold higher (95% CI, 1.71­ 2.82) than in the general population with no difference between men and women. The SIR was higher for younger than for older individuals (SIR ¼ 4.77; 95% CI, 2.39­9.55 vs. SIR ¼ 2.03; 95% CI, 1.56­2.66, P ¼ 0.043). The family recruitment method did not appear to influence the relative risk of pancreatic cancer for members of BRCA2 families (P ¼ 0.67). Having fewer relatives with breast cancer appeared to be associated with a greater risk (P ¼ 0.0013).
+Individuals from BRCAX class 3 families had an increased risk of developing pancreatic cancer compared with the general population (SIR ¼ 1.31; 95% CI, 1.06­1.63)
+
+and this relative increase was similar for men and women. The estimated SIR was higher for younger relatives (SIR ¼ 2.26; 95% CI, 1.17­4.34 vs. SIR ¼ 1.24; 95% CI, 0.99­1.57) and for families recruited by clinics (SIR ¼ 1.57; 95% CI, 1.20­2.06 vs. SIR ¼ 1.02; 95% CI, 0.71­1.46 for populationbased families), but these differences were not statistically significant (P ¼ 0.12 and 0.056, respectively).
+Overall, the SIR for members of class 4 families was 1.30 (95% CI; 1.13­1.49) and this did not differ by gender. The SIR was higher for younger family members than for older ones (SIR ¼ 2.32; 95% CI, 1.54­3.49 vs. SIR ¼ 1.23; 95% CI, 1.07­1.42, respectively, P ¼ 0.0085). The estimated SIR was also higher for members of clinic-based families than for population-based families, but the difference was not statistically significant (SIR ¼ 1.49; 95% CI, 1.21­1.82 vs. SIR ¼ 1.18; 95% CI, 0.98­1.42, P ¼ 0.098).
+Pancreatic cancer risk for BRCA1 and BRCA2 mutation carriers: results using imputed genotypes
+Estimated SIRs for BRCA1 and BRCA2 mutation carriers are summarized in Table 3. On the basis of a weighted analysis as a function of the imputed probability of being a mutation carrier, BRCA1 mutation carriers were estimated to be at increased risk of pancreatic cancer (SIR ¼ 4.11; 95% CI, 2.94­5.76), with little evidence of a difference by gender (P ¼ 0.090). In the analysis stratified by age group, the SIR estimate was greater for individuals aged <50 years (7.75; 95% CI, 3.38­17.7) than for those who were older (SIR ¼ 3.77; 95% CI, 2.61­5.44); however, the difference between the 2 groups was not statistically significant (P ¼ 0.15).
+BRCA2 mutation carriers were also found to be at increased risk of pancreatic cancer compared with the general population (SIR ¼ 5.79; 95% CI, 4.28­7.84). Results were similar for men and women. BRCA2 mutation carriers 50 years had a higher SIR (9.90; 95% CI, 4.28­22.9) for pancreatic cancer than for older ones (SIR ¼ 5.45; 95%
+
+Table 2. Estimated SIRs and CIs for pancreatic cancer by class of family from the BCFR
+
+BRCA1
+
+BRCA2
+
+3 (BRCAX)
+
+4 (BRCAX)
+
+Class
+
+Obs Exp SIR (95% CI) Obs Exp SIR (95% CI) Obs Exp SIR (95% CI) Obs Exp SIR (95% CI)
+
+Overall
+
+67
+
+Men 32
+
+Women
+
+35
+
+50 y
+
+12
+
+>50 y
+
+55
+
+FDRs
+
+13
+
+Population- 16
+
+based
+
+Clinic-based 51
+
+2 BC
+
+28
+
+3 BC
+
+39
+
+41.8 1.60 (1.26­2.04) 62 22.3 1.43 (1.01­2.03) 35 19.4 1.80 (1.29­2.51) 27 2.56 4.68 (2.66­8.24) 8 39.2 1.40 (1.08­1.83) 54 5.91 2.20 (1.28­3.79) 16 8.15 1.96 (1.20­3.20) 16
+33.6 1.52 (1.15­2.00) 46 14.0 2.00 (1.38­2.89) 34 27.7 1.41 (1.03­1.92) 28
+
+28.2 2.20 (1.71­2.82) 82 14.7 2.38 (1.71­3.31) 40 13.5 2.00 (1.37­2.91) 42 1.67 4.77 (2.39­9.54) 9 26.6 2.03 (1.56­2.66) 73 5.42 2.95 (1.81­4.81) 22 6.71 2.38 (1.46­3.89) 30
+21.5 2.14 (1.60­2.85) 52 9.84 3.45 (2.47­4.83) 18.4 1.52 (1.05­2.21)
+
+62.6 1.31 (1.06­1.63) 206 31.2 1.28 (0.94­1.75) 112 31.4 1.34 (0.99­1.81) 94 3.99 2.26 (1.17­4.34) 23 58.6 1.25 (0.99­1.57) 183 19.0 1.16 (0.76­1.76) 83 29.4 1.02 (0.71­1.46) 112
+
+158 1.30 (1.13­1.49) 77.6 1.44 (1.20­1.74) 80.8 1.16 (0.95­1.42) 9.92 2.32 (1.54­3.49) 148 1.23 (1.07­1.42) 67.0 1.24 (1.00­1.54) 95.1 1.18 (0.98­1.42)
+
+33.1 1.57 (1.20­2.06) 94 63.2 1.49 (1.21­1.82)
+
+Abbreviations: BC, breast cancer; Exp, expected number of cases; Obs, observed number of cases.
+
+806 Cancer Epidemiol Biomarkers Prev; 22(5) May 2013
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Pancreatic Cancer Risk in Breast Cancer Families
+
+Table 3. Estimated pancreatic cancer SIRs for BRCA1 and BRCA2 mutation carriers from the BCFR
+
+BRCA1 mutation carriers
+
+BRCA2 mutation carriers
+
+Obs Exp SIR (95% CI)
+
+Obs Exp SIR (95% CI)
+
+Overall
+
+34.0 8.26 4.11 (2.94--5.76) 41.8 7.23 5.79 (4.28­7.84)
+
+Men
+
+14.8 4.79 3.09 (1.86­5.15)
+
+22.5 3.88 5.81 (3.84­8.78)
+
+Women
+
+19.2 3.47 5.52 (3.53­8.64)
+
+19.3 3.35 5.77 (3.69­9.01)
+
+50 y
+
+5.59 0.72 7.75 (3.38­17.7)
+
+5.47 0.55 9.90 (4.28­22.9)
+
+>50 y
+
+28.4 7.54 3.77 (2.61­5.44)
+
+36.4 6.68 5.45 (3.94­7.54)
+
+FDRs
+
+11.2 2.51 4.47 (2.49­8.03)
+
+13.6 2.45 5.55 (3.27­9.45)
+
+Population-based 5.88 2.19 2.68 (1.20­6.02)
+
+11.5 2.25 5.12 (2.88­9.12)
+
+Clinic-based
+
+28.1 6.07 4.63 (3.20­6.70)
+
+30.3 4.98 6.09 (4.27­8.70)
+
+2 BCs
+
+13.8 3.31 4.18 (2.47­7.08)
+
+24.2 2.70 8.98 (6.03­13.4)
+
+3 BCs
+
+20.1 4.95 4.07 (2.63­6.30)
+
+17.6 4.52 3.90 (2.44­6.21)
+
+Abbreviations: BC, breast cancer; Exp, expected number of cases; Obs, observed number of cases.
+
+CI, 3.94­7.54), but the difference was not statistically significant (P ¼ 0.22). Having fewer relatives with breast cancer appeared to be associated with a greater relative risk of pancreas cancer (P ¼ 0.0073). Figure 1 compares the SIR estimates and 95% CIs for pancreatic cancer between BRCA1 and BRCA2 mutation carriers and BRCA1 and BRCA2 families.
+Discussion
+This study confirms previous reports that BRCA2 mutation carriers have an increased risk of developing pancreatic cancer compared with the general population. It also supports previous evidence that BRCA1 mutation carriers have increased pancreatic cancer risk, but with a higher relative risk than that estimated by other studies. Furthermore, the availability of a large number of high-risk pancreatic cancer families negative for BRCA1 and BRCA2 mutations (5,200) has provided a unique opportunity to estimate pancreatic cancer risk in non-mutation carriers from families with breast and ovarian cancer.
+The association between BRCA2 mutations and pancreatic cancer risk has been previously investigated; individuals from BRCA2 mutation carrier families have been reported to have a pancreatic cancer risk ranging from 2to 7-fold higher than general population (14,16,17,24). In our study, we observed a relative risk of 5.79 (95% CI, 4.28­7.84), slightly higher than most previous estimates. Unlike previous studies, which were mostly limited to FDRs of the index case, we also considered more distant relatives (up to third-degree); however, our result was consistent for FDRs (SIR ¼ 5.55; 95% CI, 3.27­9.45). Previous reports on BRCA2 mutation carriers aged <65 years showed from 5- to 37-fold increased risk of pancreatic cancer (14, 15). We applied a more extreme phenotype as early onset pancreatic cancer (50 years) and estimated a 9.90-fold higher risk than the general population (95% CI, 4.28­22.9). We also observed in BRCA2 mutation carrier families a mean age at pancreatic cancer diagnosis of 63.1
+
+years, approximately 9 years earlier than the mean age of pancreatic cancer in the general population (1).
+Data from previous studies on the role of germline BRCA1 mutations in pancreatic cancer carcinogenesis are more controversial than those for BRCA2 mutations; some studies reported 2-to 3-fold higher risk of pancreatic cancer in BRCA1 mutation carriers than in the general population (18, 24). A recently published study reported that Ashkenazi Jewish families with aggregation of breast cancer and pancreatic cancer had a similar percentage of BRCA1 and BRCA2 mutations (25). We also observed a similar percentage of families with BRCA1 and BRCA2 mutations and aggregation of breast cancer and pancreatic cancer (Table 1). Our study, the largest to date assessing pancreatic cancer risk in BRCA1 carriers, estimated a 4.11-fold higher risk of pancreatic cancer, which is higher than estimates from previous reports. The SIR was 4.47 for FDRs of the proband. A previous study estimated that BRCA1 mutation carriers have >3-fold risk of pancreatic cancer at ages less than 65 years (18); we estimated an SIR of 7.75 (95% CI, 3.38­17.7) for individuals aged less than 50 years. In addition, the mean age at diagnosis of pancreatic cancer in members of BRCA1 mutation carrier families was 65.9 years, which is 6 years earlier than the mean age at pancreatic cancer diagnosis in the general population (1). The above-reported relative risks of pancreatic cancer for BRCA1 and BRCA2 mutation carriers were estimated using imputed carrier probabilities for untested family members (Table 3). The same individuals were analyzed for pancreatic cancer risk, regardless of their mutation status (Table 2), with lower SIR estimated both for the overall and all stratified analyses (Fig. 1).
+A recent study prospectively followed more than 5,000 female carriers of mutations in BRCA1 and BRCA2 for a mean time of 1.95 years. On the basis of 6 incident pancreatic cancers in BRCA1 mutation carriers and 2 BRCA2 mutation carriers, they estimated SIRs of 2.55 (95% CI, 1.03­5.31) and 2.13 (95% CI, 0.36­7.03), respectively; furthermore, they estimated an increased risk of
+
+www.aacrjournals.org
+
+Cancer Epidemiol Biomarkers Prev; 22(5) May 2013 807
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Overall Men
+Women 50 years >50 years Population-baFsDeRd Clinic-based
+2BC 3BC
+
+Mocci et al.
+
+SIR
+
+A
+10 9 8 7 6 5 4 3 2 1 0
+
+BRCA1 family members vs. BRCA1 mutation carriers
+
+SIR
+
+B
+10 9 8 7 6 5 4 3 2 1 0
+
+BRCA2 family members vs. BRCA2 mutation carriers
+
+Figure 1. Comparison of SIRs and respective 95% CIs (vertical axis) for all family members (triangles) and weighted by imputed carrier probability (circles) in BRCA1 (A) and BRCA2 (B) families, by class of family (horizontal axis).
+
+Overall Men
+Women 50 years >50 years Population-baFsDedR Clinic-based
+2BC 3BC
+
+pancreatic cancer (OR ¼ 46.5; 95% CI, 9.4­230) for female BRCA1 or BRCA2 mutation carriers with an FDR affected with pancreatic cancer compared with those with no FDRs with pancreatic cancer. However, this study was limited by the small number of incidence cases and consequent low precision of the relative risk estimates, especially for the subgroup with a first-degree family history of pancreatic cancer. The authors concluded that the presence of a BRCA1 or BRCA2 mutation alone does not justify the adoption of screening for pancreatic cancer, but that this needs to be better investigated in mutation carriers with an FDR affected with pancreatic cancer (17).
+To assess whether other factors besides BRCA1 and BRCA2 mutations increase the risk of pancreatic cancer in breast cancer families, we analyzed a large number of mutation-negative (BRCAX) families after dividing them into 2 groups, with the first group (class 3) selected for having a larger predicted genetic component (at least 2 early-onset breast cancer cases). Our study estimated a
+
+30% increased overall pancreatic cancer risk and a more than 2-fold increased risk of early onset pancreatic cancer for BRCAX family members. This latter result is lower but consistent with that of an earlier study which estimated a 5.5-fold higher risk of breast cancer diagnosed at age 50 years in breast cancer families, not due to BRCA1 or BRCA2 mutations (26). Class 4 included the largest number of families and was most diverse in terms of number of breast cancer cases per family and age at diagnosis. Compared with the general population, members of these families were at increased risk both of pancreatic cancer overall and of early-onset pancreatic cancer. Results were similar to those for class 3 families, suggesting that the number of relatives with breast cancer did not affect pancreatic cancer risk.
+PALB2, a new BC suppressor gene (11, 27, 28), has recently been reported as a pancreatic cancer susceptibility gene (9); germline mutations have been found in approximately 3% of families with 1 pancreatic cancer
+
+808 Cancer Epidemiol Biomarkers Prev; 22(5) May 2013
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Pancreatic Cancer Risk in Breast Cancer Families
+
+(10). Of note, 4 of the 5 PALB2-related pancreatic cancer families identified to date had 1 relative with breast cancer and, in 2 of those families, mutations were seen in individuals with both breast cancer and pancreatic cancer (29). Recent studies reported a prevalence of about 2% of PALB2 mutations in BRCAX families selected for family history of pancreatic cancer (11, 30), suggesting that other, still unknown, genetic factors likely play a role. Thus, the increased risk of pancreatic cancer among BRCAX families is unlikely to be due to PALB2 mutations segregating in these families.
+To assess whether our estimates of pancreatic cancer risk could be affected by the standardized rates used, we carried out an analysis of the risk of another cancer as a control. After a thorough review of the literature, we selected esophageal cancer as suitable for our purpose for 2 main reasons: (i) there is little evidence in the literature supporting an association between this cancer and BRCA1 and BRCA2 mutations (31, 32) with only a single recent study reporting an increased risk (31) and (ii) esophageal cancer is a cancer with a strong environmental component, being frequently induced by chronic exposure to environmental risk factors like alcohol and smoking (33). Therefore, we would not expect an increased incidence in our study sample, compared with the general population. Applying an identical analysis to that for pancreatic cancer, no systematic bias away from 1.0 was observed in the SIR for BRCA1, BRCA2, and BRCAX families in the global, nor in the stratified analyses (see Supplementary Table S2).
+Our study has some inherent limitations that need to be considered to appropriately interpret our findings. Although the only inclusion criterion applied by sites in the BCFR with clinic-based recruitment was the presence of breast cancer and/or ovarian cancer, there could have been some bias in recruitment, toward families with other cancers (such as pancreatic cancer) previously found associated with genetic predisposition. This could potentially result overestimates of the SIR. However, this is not a major problem as in most of the clinic-based sites, all families that met the study criteria in terms of breast or ovarian cancer, were enrolled in the BCFR. Therefore, we believe it is unlikely that enrollment in the BCFR would be dependent on the presence of cancers other than breast and ovarian.
+Another important issue concerns the accuracy of reported pancreatic cancer diagnosis in relatives. A family history of cancer was reported by the proband or her FDRs and, in most cases, it was not verified by clinical reports (19). Validation studies on cancer family history show a low rate of false-positive and false-negative reports of different cancers by FDRs (34­36). Ziogas and colleagues showed that the accuracy of reported cancer family history varies by cancer site; for pancreatic cancer, the positive predictive value (PPV) was 77.4% (95% CI, 58.9­90.4) for FDRs compared with 53.3% (95% CI, 26.6­78.7) for second-degree relatives (36). Our analysis was robust to the stratification for relationship to the proband.
+
+It has been proposed that the method of ascertainment of the proband is a good predictor of accuracy of reported familial cancer data; probands from clinic-based ascertainment sources have been found to be more accurate in their reporting compared with population-based sources, possibly because they are more informed and more motivated about their risk (36). Our results were consistent when the analyses were limited to families recruited through clinic-based settings, suggesting that misdiagnosis of pancreatic cancer did not give rise to spurious results.
+The results of the study have potential implications for the screening of pancreatic cancer in high-risk breast cancer families. Currently, screening programs are directed at BRCA2 mutation carriers and members of breast cancer families with at least one relative affected with pancreatic cancer. Our findings indicate that BRCA1 mutation carriers also have an increased risk and should therefore also be followed up for pancreatic cancer.
+Screening provides the best opportunity to reduce mortality from pancreatic cancer by detecting early-stage cancers, or high-grade pre-neoplastic lesions, such as intraductal papillary mucinous neoplasm (IPMN) and pancreatic intraepithelial neoplasia (PanIN).
+Currently, several centers all over the world are conducting screening programs in high-risk individuals; so far, among 988 patients followed-up for pancreatic cancer, 18 pancreatic cancers (1.8%), and 23 PanIN3 or high-grade IPMNs (2.32%) have been diagnosed. However, 22 highrisk individuals (2.22%) were overtreated for low-grade dysplasia or benign tumors. These findings show that screening in high-risk individuals can detect precancerous changes in the pancreas. However, many questions remain, including the identification of the most appropriate screening populations and, most importantly, which criteria for the selection of patients for surgery maximizes benefit and minimizes risk. It is important to clarify that early detection screening for pancreas does not have a clinical value, but it is limited to well-developed research protocols and/or clinical trials.
+We also found that members of BRCAX families with at least one relative affected with breast cancer are at increased risk of pancreatic cancer, albeit to a lesser degree than BRCA1 and BRCA2 mutation carriers.
+In conclusion, carriers of mutations in BRCA1 or BRCA2 have an increased risk of developing pancreatic cancer compared with the general population. Members of breast cancer families who test negative for BRCA1 and BRCA2 mutations are also at increased risk of pancreatic cancer, although more moderate compared with members of mutation-carrying families. Our study suggests that the increased risk of pancreatic cancer in relatives of breast cancer cases is not fully explained by mutations in BRCA1 and BRCA2.
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+
+www.aacrjournals.org
+
+Cancer Epidemiol Biomarkers Prev; 22(5) May 2013 809
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Mocci et al.
+
+Disclaimer
+The content of this manuscript does not necessarily reflect the views or policies of the National Cancer Institute or any of the collaborating BCFR centers, nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government or the BCFR.
+Authors' Contributions
+Conception and design: E. Mocci, R.L. Milne, J.L. Hopper, N. Malats, D.E. Goldgar Development of methodology: E. Mocci, R.L. Milne, J.L. Hopper, N. Malats, D.E. Goldgar Acquisition of data (provided animals, acquired and managed patients, provided facilities, etc.): R.L. Milne, J.L. Hopper, E.M. John, I.L. Andrulis, W.K. Chung, M.B. Daly, S.S. Buys Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis): E. Mocci, R.L. Milne, E.Y. Mendez-Villamil, J.L. Hopper, N. Malats Writing, review, and/or revision of the manuscript: E. Mocci, R.L. Milne, J.L. Hopper, E.M. John, I.L. Andrulis, W.K. Chung, M.B. Daly, S.S. Buys, N. Malats, D.E. Goldgar
+
+Administrative, technical, or material support (i.e., reporting or organizing data, constructing databases): J.L. Hopper, M.B. Daly Study supervision: R.L. Milne, J.L. Hopper, N. Malats, D.E. Goldgar
+Grant Support
+This work was partially supported by the Fondo de Investigacion Sanitaria, Instituto de Salud Carlos III, MINECO, Spain (#PI09-02102). BCFR was supported by the National Cancer Institute, NIH under RFA # CA-06-503, and through cooperative agreements with members of the BCFR and Principal Investigators, including Cancer Care Ontario (U01 CA69467), Columbia University (U01 CA69398), Fox Chase Cancer Center (U01 CA69631), Huntsman Cancer Institute (U01 CA69446), Cancer Prevention Institute of California (U01 CA69417), University of Melbourne (U01 CA69638), and Research Triangle Institute Informatics Support Center (RFP No. N02PC45022-46).
+The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact.
+Received February 17, 2012; revised February 14, 2013; accepted February 17, 2013; published OnlineFirst March 1, 2013.
+
+References
+1. Raimondi S, Maisonneuve P, Lowenfels AB. Epidemiology of pancreatic cancer: an overview. Nat Rev Gastroenterol Hepatol 2009;6: 699­708.
+2. Blackford A, Parmigiani G, Kensler TW, Wolfgang C, Jones S, Zhang X, et al. Genetic mutations associated with cigarette smoking in pancreatic cancer. Cancer Res 2009;69:3681­8.
+3. Petersen GM, de Andrade M, Goggins M, Hruban RH, Bondy M, Korkzac JF, et al. Pancreatic cancer genetic epidemiology consortium. Cancer Epidemiol Biomarkers Prev 2006;15:704­10.
+4. Klein AP, Brune KA, Petersen GM, Goggins M, Tersmette AC, Offerhaus GJ, et al. Prospective risk of pancreatic cancer in familial pancreatic cancer kindreds. Cancer Res 2004;64:2634­8.
+5. Brune KA, Lau B, Palmisano E, Canto M, Goggins MG, Hruban RH, et al. Importance of age of onset in pancreatic cancer kindreds. J Natl Cancer Inst 2010;102:119­26.
+6. Murphy KM, Brune KA, Griffin C, Sollenberg JE, Petersen GM, Bansal R, et al. Evaluation of candidate genes MAP2K4, MADH4, ACVR1B, and BRCA2 in familial pancreatic cancer: deleterious BRCA2 mutations in 17%. Cancer Res 2002;62:3789­93.
+7. Hahn SA, Greenhalf B, Ellis I, Sina-Frey M, Rieder H, Korte B, et al. BRCA2 germline mutations in familial pancreatic carcinoma. J Natl Cancer Inst 2003;95:214­21.
+8. Couch FJ, Johnson MR, Rabe KG, Brune K, de Andrade M, Goggins M, et al. The prevalence of BRCA2 mutations in familial pancreatic cancer. Cancer Epidemiol Biomarkers Prev 2007;16:342­6.
+9. Jones S, Hruban RH, Kamiyama M, Borges M, Zhang X, Parsons DW, et al. Exomic sequencing identifies PALB2 as a pancreatic cancer susceptibility gene. Science 2009;324:217.
+10. Slater EP, Langer P, Niemczyk E, Strauch K, Butler J, Habbe N, et al. PALB2 mutations in European familial pancreatic cancer families. Clin Genet 2010;78:490­4.
+11. Tischkowitz M, Xia B, Sabbaghian N, Reis-Filho JS, Hamel N, Li G, et al. Analysis of PALB2/FANCN-associated breast cancer families. Proc Natl Acad Sci U S A 2007;104:6788­93.
+12. Roberts NJ, Jiao Y, Yu J, Kopelovich L, Petersen GM, Bondy ML, et al. ATM mutations in patients with hereditary pancreatic cancer. Cancer Discov 2012;2:41­6
+13. Sy SM, Huen MS, Chen J. PALB2 is an integral component of the BRCA complex required for homologous recombination repair. Proc Natl Acad Sci U S A 2009;106:7155­60.
+14. van Asperen CJ, Brohet RM, Meijers-Heijboer EJ, Hoogerbrugge N, Verhoef S, Vasen HF, et al. Cancer risks in BRCA2 families: estimates for sites other than breast and ovary. J Med Genet 2005;42: 711­9.
+15. Breast Cancer Linkage Consortium. Cancer risks in BRCA2 mutation carriers. J Natl Cancer Inst 1999;91:1310­6.
+
+16. Risch HA, McLaughlin JR, Cole DE, Rosen B, Bradley L, Fan I, et al. Population BRCA1 and BRCA2 mutation frequencies and cancer penetrances: a kin-cohort study in Ontario, Canada. J Natl Cancer Inst 2006;98:1694­706.
+17. Iqbal J, Ragone A, Lubinski J, Lynch HT, Moller P, Ghadirian P, et al. The incidence of pancreatic cancer in BRCA1 and BRCA2 mutation carriers. Br J Cancer 2012;107:2005­9.
+18. Thompson D, Easton DF. Cancer Incidence in BRCA1 mutation carriers. J Natl Cancer Inst 2002;94:1358­65.
+19. John EM, Hopper JL, Beck JC, Knight JA, Neuhausen SL, Senie RT, et al. The Breast Cancer Family Registry: an infrastructure for cooperative multinational, interdisciplinary and translational studies of the genetic epidemiology of breast cancer. Breast Cancer Res 2004;6:R375­89.
+20. Dite GS, Whittemore AS, Knight JA, John EM, Milne RL, Andrulius IL, et al. Increased cancer risks for relatives of very early-onset breast cancer cases with and without BRCA1 and BRCA2 mutations. Br J Cancer 2010;103:1103­8.
+21. Ott J. Computer-simulation methods in human linkage analysis. Proc Natl Acad Sci U S A 1989;86:4175­8.
+22. Antoniou AC, Easton DF. Polygenic inheritance of breast cancer: Implications for design of association studies. Genet Epidemiol 2003; 25:190­202.
+23. Hills M, Clayton D. Statistical models in epidemiology. Oxford, United Kingdom: Oxford University Press; 1993.
+24. Brose MS, Rebbeck TR, Calzone KA, Stopfer JE, Nathanson KL, Weber BL. Cancer risk estimates for BRCA1 mutation carriers identified in a risk evaluation program. J Natl Cancer Inst 2002;94:1365­72.
+25. Stadler ZK, Salo-Mullen E, Patil SM, Pietanza MC, Vijai J, Saloustros E, et al. Prevalence of BRCA1 and BRCA2 mutations in Ashkenazi Jewish families with breast and pancreatic cancer. Cancer 2012;118:493­9.
+26. Lorenzo Bermejo J, Hemminki K. Risk of cancer at sites other than the breast in Swedish families eligible for BRCA1 or BRCA2 mutation testing. Ann Oncol 2004;15:1834­41.
+27. Rahman N, Seal S, Thompson D, Kelly P, Renwick A, Elliott A, et al. PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat Genet 2007;39:165­7.
+28. Southey MC, Teo ZL, Dowty JG, Odefrey FA, Park DJ, Tischkowitz M, et al. A PALB2 mutation associated with high risk of breast cancer. Breast Cancer Res 2010;12:R109.
+29. Tischkowitz MD, Sabbaghian N, Hamel N, Borgida A, Rosner C, Taherian N, et al. Analysis of the gene coding for the BRCA2-interacting protein PALB2 in familial and sporadic pancreatic cancer. Gastroenterology 2009;137:1183­6.
+30. Hofstatter EW, Domchek SM, Miron A, Garber J, Wang M, Camponeschi K, et al. PALB2 mutations in familial breast and pancreatic cancer. Fam Cancer 2011;10:225­31.
+
+810 Cancer Epidemiol Biomarkers Prev; 22(5) May 2013
+
+Cancer Epidemiology, Biomarkers & Prevention
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Pancreatic Cancer Risk in Breast Cancer Families
+
+31. Friedenson B. BRCA1 and BRCA2 pathways and the risk of cancers other than breast or ovarian. MedGenMed 2005;7:60.
+32. Moran A, O'Hara C, Khan S, Shack L, Woodward E, Maher ER, et al. Risk of cancer other than breast or ovarian in individuals with BRCA1 and BRCA2 mutations. Fam Cancer 2012;11:235­42.
+33. Taziki MH BN, Tadrisee M, Mansourian AR. Esophageal cancer: 5-year survival rate at south-east of Caspian sea of northern Iran. J Cancer Res Ther 2011;7:135­7.
+
+34. Novakovic B, Goldstein AM, Tucker MA. Validation of family history of cancer in deceased family members. J Natl Cancer Inst 1996;88: 1492­3.
+35. Airewele G, Adatto P, Cunningham J, Mastromarino C, Spencer C, Sharp M, et al. Family history of cancer in patients with glioma: a validation study of accuracy. J Natl Cancer Inst 1998;90:543­4.
+36. Ziogas A, Anton-Culver H. Validation of family history data in cancer family registries. Am J Prev Med 2003;24:190­8.
+
+www.aacrjournals.org
+
+Cancer Epidemiol Biomarkers Prev; 22(5) May 2013 811
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+Published OnlineFirst March 1, 2013; DOI: 10.1158/1055-9965.EPI-12-0195
+
+Risk of Pancreatic Cancer in Breast Cancer Families from the Breast Cancer Family Registry
+Evelina Mocci, Roger L. Milne, Elena Yuste Méndez-Villamil, et al.
+Cancer Epidemiol Biomarkers Prev 2013;22:803-811. Published OnlineFirst March 1, 2013.
+
+Updated version
+Supplementary Material
+
+Access the most recent version of this article at: doi:10.1158/1055-9965.EPI-12-0195
+Access the most recent supplemental material at: http://cebp.aacrjournals.org/content/suppl/2013/03/15/1055-9965.EPI-12-0195.DC1.html
+
+Cited articles Citing articles
+
+This article cites 35 articles, 20 of which you can access for free at: http://cebp.aacrjournals.org/content/22/5/803.full.html#ref-list-1
+This article has been cited by 2 HighWire-hosted articles. Access the articles at: http://cebp.aacrjournals.org/content/22/5/803.full.html#related-urls
+
+E-mail alerts
+Reprints and Subscriptions
+Permissions
+
+Sign up to receive free email-alerts related to this article or journal.
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications Department at pubs@aacr.org.
+To request permission to re-use all or part of this article, contact the AACR Publications Department at permissions@aacr.org.
+
+Downloaded from cebp.aacrjournals.org on June 3, 2016. © 2013 American Association for Cancer Research.
+
+

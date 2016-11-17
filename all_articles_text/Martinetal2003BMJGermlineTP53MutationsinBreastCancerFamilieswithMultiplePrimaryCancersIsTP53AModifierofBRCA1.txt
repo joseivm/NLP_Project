@@ -1,0 +1,375 @@
+Downloaded from http://jmg.bmj.com/ on October 3, 2016 - Published by group.bmj.com
+
+1 of 6
+
+ELECTRONIC LETTER
+Germline TP53 mutations in breast cancer families with multiple primary cancers: is TP53 a modifier of BRCA1?
+A-M Martin, P A Kanetsky, B Amirimani, T A Colligon, G Athanasiadis, H A Shih, M R Gerrero, K Calzone, T R Rebbeck, B L Weber
+............................................................................................................................. J Med Genet 2003;40:e34(http://www.jmedgenet.com/cgi/content/full/40/4/e34)
+
+Somatic mutations in TP53 are the most frequent events in human cancer and lead to inactivation of the gene, loss of tumour suppressor function, and in some cases generation of a dominant negative form of p53.1­3 Eleven exons make up the primary transcript of TP53, of which exons 2-11 encode the protein. Five conserved domains exist in exons 1, 4, 5, 7, and 8,4 which are considered essential for normal p53 function. Approximately 90% of disease associated mutations occur in these domains, with mutations in five codons (175, 245, 248, 249, and 273) accounting for approximately 20% of all mutations reported to date.
+Germline mutations in TP53 cause Li-Fraumeni syndrome (LFS), a familial association of childhood leukaemia, brain cancer, soft tissue sarcoma, and adrenal cortical carcinoma,5 6 as well as other cancers such as breast cancer, melanoma, germ cell tumours, and carcinomas of the lung, pancreas, and prostate.7 8 Cancers characteristically develop at unusually early ages and multiple primary tumours are frequent. Susceptibility to cancer in these families follows an autosomal dominant pattern of inheritance7 and among families with a known germline TP53 mutation the probability of developing any invasive cancer (excluding carcinomas of the skin) approaches 50% by the age of 30, compared to an age adjusted population incidence of cancer of 1%. It is estimated that more than 90% of TP53 mutation carriers will develop cancer by the age of 70.9
+In addition to the numerous mutations, TP53 also contains several polymorphisms that may alter its activity. In particular, at nucleotide 215 (codon 72) there is a single base pair variant (g.215G>C) in the coding region, which results in a substitution of proline for arginine in the protein sequence.10 The frequency of this polymorphism varies from 26-35%11­13 and it
+appears to affect protein function. The R72 variant of TP53 is
+believed to be more sensitive to human papillomavirus (HPV)
+induced degradation by the E6 oncoprotein than the 72P vari-
+ant, and is thought to be of functional significance in HPV associated tumours14 such as cervical tumours.15­17 Furthermore, some, but not all studies document an over-
+representation of R72 variant in cervical cancer patients com-
+pared to a control population.18 19 However, other reports
+suggest the association of the 72P variant with incidence of
+squamous cell carcinoma of the head and neck20 and lung
+adenocarcinomas in smokers.21
+In families with multiple cases of breast cancer that do not
+fit the criteria for LFS, the frequency of TP53 germline muta-
+tions has been investigated in multiple studies,22­28 document-
+ing that TP53 mutations account for <1% of site specific breast
+cancer families.23 However, among LFS families, there is a very
+high incidence of early onset breast cancer. Taken together,
+these data suggest that germline TP53 mutations are strongly
+associated with hereditary breast cancer susceptibility but
+almost exclusively in the context of LFS.
+Because of the high penetrance of early onset breast cancer
+and the known increased incidence of multiple primary cancers in LFS families (50% by 30 years of age),9 we investi-
+
+Key points
+· Eighty eight women with breast cancer and a personal or family history of multiple primary cancers (MPC) (including ovarian cancer) and 84 women with a personal and family history of breast cancer only (BC) were studied. All women had been previously screened for germline BRCA1 and BRCA2 mutations; 38 (43%) of MPC women and 10 (12%) of BC women had a mutation in one of these two genes.
+· We determined the frequency of deleterious germline TP53 mutations, as well as the common R72P polymorphism in TP53 and investigated the association of this polymorphism with the development of cancers in the entire study set. We also evaluated the association between R72P and breast cancer penetrance in the subset of women with known BRCA1 or BRCA2 mutations.
+· One woman, from a family with breast cancer only, was found to have a deleterious TP53 mutation (exon 7, G245S); no deleterious TP53 mutations were detected in the families with cases of multiple primary cancers. The common R72P polymorphism was seen at a frequency of 41% in the entire sample. MPC women were more likely to be homozygous for R72 compared to BC women (p=0.05, OR 2.83, 95% CI 1.2 to 6.9), an association that was more striking in women with a BRCA1 or BRCA2 mutation (OR 6.1, 95% CI 1.4 to 26.4).
+· We also found that the presence of a 72P allele was associated with an earlier age of breast cancer diagnosis among BRCA1 mutation carriers (p=0.05), suggesting that the R72P polymorphism may be a modifier of BRCA1 penetrance.
+gated whether deleterious germline mutations in TP53 and/or the R72P polymorphism were associated with multiple primary cancers (in which one was breast cancer) in families with >2 breast cancers but no evidence of LFS. One previous study investigated the frequency of germline TP53 mutations with bilateral breast cancer29 and found no TP53 mutations; however, only 19 samples were tested. In the current study we determined the frequency of deleterious TP53 germline mutations in 172 breast cancer families, with and without multiple primary cancers. Germline BRCA1 or BRCA2 mutation status was known in all subjects30; 43% of women with multiple primary cancers and 12% of women with breast cancer only had
+.............................................................
+Abbreviations: MPC, multiple primary cancers; BC, breast cancer only; LFS, Li-Fraumeni syndrome; HPV, human papillomavirus
+
+www.jmedgenet.com
+
+2 of 6
+
+Downloaded from http://jmg.bmj.com/ on October 3, 2016 - Published by group.bmj.com
+
+Electronic letter
+
+Table 1 Non-breast primary cancers in families with multiple primary cancers
+
+Cancer
+
+No of families with cancer*
+
+Ovarian Colorectal Non-melanoma skin Thyroid Endometrial Cervix Leukaemia Lymphoma Others
+
+29 13 11 6 6 5 4 3 13
+
+*Five patients had two or more non-breast cancers, so the number of cancers does not equal the number of patients. Other primary cancers include melanoma, brain, head/neck, sarcoma, lung, kidney, and pharynx.
+
+either a BRCA1 or BRCA2 mutation. In addition, we established the frequency of the common exon 4 polymorphism (R72P) in this sample and evaluated whether this polymorphism may be a modifier of breast cancer penetrance in the presence of BRCA1 or BRCA2 mutations.
+
+MATERIALS AND METHODS Patient population All families were recruited from clinics at the University of Michigan (1993-1995) and the University of Pennsylvania (1995-1998). Patients were either self- or physician referred because of a perceived risk of inherited susceptibility to breast cancer. All women consented to genetic testing for clinical and/or research purposes. Personal and family histories of all cancers were recorded, including age of diagnosis of all cancers and the number of related women in each family at risk for breast cancer (age >20 years). Pathology reports were obtained on all probands and on other family members when possible. The testing protocol was approved by duly constituted institutional review boards at both the University of Michigan and the University of Pennsylvania.
+Eighty-eight women were from families with at least two
+cases of breast cancer and at least one woman affected with
+both a primary breast cancer and a primary non-breast cancer
+(denoted MPC). Eighty-four (95%) MPC women had two pri-
+mary cancers, and four MPC women (5%) had three or more
+primary cancers. All non-breast malignancies were consid-
+ered, including non-melanoma skin cancers. An additional 84
+women were from families with at least two cases of breast
+
+Table 2 Description of relatives providing sample for testing
+
+Sample
+
+Age of breast Average age of diagnosis
+
+Relationship of
+
+number tested cancer in
+
+of additional cancer(s) in Second primary cancer in subject providing
+
+(relative)
+
+relative
+
+multiply affected subject multiply affected subject DNA for testing
+
+229 522 743 673 513 641 813 852 834 1019 842 975 1965 910 1946 1901 1907 1208 1708 1785 1844 1773 1762 1797 1748 1722 1719 1718 1763 1794 1783 1853 320 1987 1909 1954 1851 1806 1863 1993 2074 2038 2067 2233 2241
+
+30 56 69 40 38 44 36 56 45 50 27 57 57 74 44 30 46 41 72 51 52 50 45 36 42 50 40 35 41 40 53 57 40 55 70 61 43 49 39 67 95 50 50 41 61
+
+58 63 74 43 30 30 44 53 40 63 47 50 25 55 84 65 86 51 69 49 67 51 74 50 72 83 23 36 56 40 53 57 40 55 70 61 74 49 39 67 95 52 50 42 52
+
+Ovarian Ovarian BCC, cervical NHL BCC Cervical Colon Ovarian BCC, endometrial Cervical Ovarian Ovarian BCC Thyroid Thyroid Leukaemia Lung Colon, rectal Ovarian Skin, cervical, endometrial Colon Colon Cervical Colon Ovarian Hodgkin's lymphoma Endometrial Ovarian Ovarian Colon Ovarian Throat Brain Pituitary Ovarian Leukaemia Thyroid, colon Leukaemia Melanoma Ovarian Colon Colon Ovarian BCC ALL Ovarian
+
+Daughter Niece Niece Daughter Daughter Cousin Niece Niece Sister Daughter Sister Sister Daughter Daughter Daughter Niece Daughter Sister Sister Granddaughter Daughter Niece Daughter Daughter Granddaughter Granddaughter Sister Granddaughter Daughter Cousin Double cousin Grandniece Niece Daughter Granddaughter Sister Cousin Daughter Daughter Cousin Niece Daughter Daughter Niece Cousin
+
+www.jmedgenet.com
+
+Electronic letter
+
+Downloaded from http://jmg.bmj.com/ on October 3, 2016 - Published by group.bmj.com
+
+Table 3 Primer sequences
+
+Exon 2/3 4 5/6 7 8/9 10 11
+
+Primer sequences
+Forward: 5-ggatccccacttttcctctt-3 Reverse: 5-agcatcaaatcatccattgc-3 Forward: 5-gacctggtcctctgactgct-3 Reverse: 5-atacggccaggcattgaagt-3 Forward: 5-tgccctgactttcaactctgt-3 Reverse: 5-ttaacccctcctcccagaga-3 Forward: 5-tgccacaggtctccccaagg-3 Reverse: 5-aggggtcagcggcaagcaga-3 Forward: 5-caagggtggttgggagtaga-3 Reverse: 5-acttgataagaggtcccaag-3 Forward: 5-atgttgcttttgatccgtca-3 Reverse: 5-ctttccaacctaggaaggca-3 Forward: 5-agccacctgaactcaaaaa-3 Reverse: 5-aatggcaggggagggagaga-3
+
+Annealing temp (°C) Reference 57 54 54 55 Evans et al 53 54 54 55 Evans et al 53
+
+3 of 6
+
+cancer but no cases of multiple primary cancers (denoted BC). DNA was available from at least one woman with multiple primary cancers in 43 families. In the remaining 45 multiple primary cancer families, the multiply affected woman was dead (n=33) or unavailable (n=12). In these families, TP53 screening was undertaken using DNA from the closest female relative diagnosed with breast cancer. Table 1 provides a description of the cancers reported in subjects with multiple primary cancers and table 2 is a detailed description of the female relatives of a multiply affected woman, who provided samples for testing. All samples were previously screened for germline mutations in BRCA1 and BRCA230; 38 MPC women and 10 BC women had a BRCA1 or BRCA2 germline mutation.30
+Mutation analysis DNA was extracted from peripheral blood mononuclear cells and stored in TE at 4°C. The entire 10 exon coding domain and flanking splice site regions of TP53 were amplified using seven PCR primer sets (table 3). PCR amplification was performed in a final volume of 20 µl containing 80 ng of DNA, 1.5 mmol/l MgCl2, 10 mmol/l Tris-HCl (pH 8.3), 50 mmol/l KCl, 0.2 mmol/l each of dCTP, dATP, dTTP, dGTP (Amersham Pharmacia Biotech), each primer at 1.0 µmol/l, and 1.0 unit of Taq polymerase (Boerhinger Manheim). Annealing temperatures were optimised for each primer set and ranged from 55-60°C. Variants were identified by conformation sensitive gel electrophoresis (CSGE) as previously described30 and characterised by direct sequencing using the ABI Prism 377 after reamplification from source DNA. All mutation nomenclature is reported using the recommendations of den Dunnen and Antonarakis.31
+Statistical analysis Differences in TP53 mutation frequency between the MPC and BC groups were assessed using 2 analysis. Odds ratios (OR)
+
+Table 4 TP53 exon 4 R72P genotypes in subjects with multiple primary cancers (MPC) compared to subjects with breast cancer only (BC)
+
+TP53 genotype
+
+MPC (n=43) No (%)
+
+BC (n=84) No (%)
+
+R/R
+
+35 (81)
+
+51 (61)
+
+R/P
+
+6 (14)
+
+28 (33)
+
+P/P
+
+2 (5)
+
+5 (6)
+
+P/*
+
+8 (19)
+
+33 (39) OR=2.83 (1.2, 6.9)
+
+P/* is the combined genotypes of R/P and P/P used for statistical analysis owing to the rarity of the P allele.
+
+and 95%t confidence intervals (95% CI) were reported. In those instances where expected cell counts fell below five, we used exact methods to determine the 95% CI.32 Furthermore, we used the Mann-Whitney U-Wilcoxon rank sum test to determine whether TP53 genotypes altered the median age of first breast cancer diagnosis within categories defined by BRCA1 or BRCA2 mutation status.
+RESULTS DNA from one woman from a BC family and no BRCA1 or BRCA2 mutation showed an abnormal CSGE profile in TP53 exon 7. Sequence analysis of this variant showed a G to A transition at the first nucleotide in codon 245 resulting in a glycine-serine change at this position (G245S). No presumed deleterious TP53 mutations were seen in the MPC group (MPC=0%, BC=1.2%, p=0.31).
+The proline allele of the R72P polymorphism was seen at a frequency of 41% in the entire sample. The distribution of R72P genotypes within groups is presented in table 4. Owing to the small number of homozygous 72P genotypes, all 72P alleles were combined into one group (P/*). When we performed subgroup analyses in women with BRCA1 or BRCA2 mutations, MPC women were six times more likely to have the homozygous R72 genotype than BC women (OR=6.1, 95% CI 1.4 to 26.4) (table 5). However, because of the small sample size, a statistically significant association between the homozygous R72 genotype and MPC could not be confirmed separately in an analysis of only BRCA1 mutation carriers or only BRCA2 mutation carriers.
+
+Table 5 TP53 R72P genotypes in MPC and BC families by BRCA1/2 mutation status
+
+MPC (n=43) BC (n=84)
+
+TP53 genotype No (%)
+
+No (%) OR 95% CI
+
+BRCA1 or BRCA2 mutation R/R 19 (83) P/* 4 (17)
+BRCA1 mutation R/R 16 (80) P/* 4 (20)
+BRCA2 mutation R/R 5 (83) P/* 1 (17)
+No detectable mutation R/R 16 (80) P/* 4 (20)
+
+7 (44) 9 (56)
+3 (43) 4 (57)
+4 (44) 5 (56)
+44 (65) 24 (35)
+
+6.1 (1.4, 26.4) 1.0
+5.3 (0.83, 34.1) 1.0
+6.3 (0.50, 77.5) 1.0
+2.2 (0.66, 7.3) 1.0
+
+P/* = R72P or P72P. Three women in the sample set had both a BRCA1 and a BRCA2 mutation.
+
+www.jmedgenet.com
+
+4 of 6
+
+Downloaded from http://jmg.bmj.com/ on October 3, 2016 - Published by group.bmj.com
+
+Electronic letter
+
+Table 6 TP53 R72P genotypes by age of diagnosis of breast cancer and BRCA1/2 mutation status
+
+TP53 genotype
+
+Median age
+
+(IQR)
+
+p value
+
+BRCA1 or BRCA2 mutation
+
+R/R (n=26)
+
+42
+
+P/* (n=13)
+
+32
+
+BRCA1 mutation
+
+R/R (n=19)
+
+46
+
+P/* (n=8)
+
+32
+
+BRCA2 mutation
+
+R/R (n=9)
+
+39
+
+P/* (n=6)
+
+35
+
+No detectable mutation
+
+R/R (n=60)
+
+49
+
+P/* (n=28)
+
+50
+
+(35-51) (30-38)
+(35-51) (30-41.5)
+(35-46) (30-43)
+(37-61.5) (42.5-57)
+
+0.01 0.05 0.39 0.98
+
+Three women in the sample set had both a BRCA1 and a BRCA2 mutation.
+
+In an evaluation of the R72P polymorphism as a modifier of breast cancer penetrance in women with germline BRCA1 or BRCA2 mutations, we found that in the combined BRCA1 and BRCA2 mutation carrier analysis, the presence of any 72P allele was associated with an earlier median age of breast cancer diagnosis (median age=32, interquartile range (IQR) 30-38) compared with the homozygous R72 genotype (median age=42, IQR 35-51, p<0.01) (table 6). This association was limited to BRCA1 mutation carriers (median age=32, IQR 30-41.5, p<0.05) and was not seen in BRCA2 mutation carriers (median age=35, IQR 30-43, p<0.39) (table 6).
+DISCUSSION In this study, we screened all 10 coding exons of TP53 in women with a personal history of breast cancer with or without a personal or family history of multiple primary cancers. These women previously had been characterised for BRCA1 and BRCA2 mutations.30 We identified one potential deleterious missense mutation (G245S) in a member of a family with a history of site specific breast cancer only. This patient did not carry a germline mutation in either BRCA1 or BRCA2. The G245S missense mutation has been reported previously in the germline of a woman with breast cancer23 and the germline of a man with sarcoma.33 Our proband was diagnosed with breast cancer at the age of 29. In addition, her sister was diagnosed with breast cancer at the age of 27 and went on to develop a second primary breast cancer at 31 years of age (fig 1). However, the G245S mutation was not detected in DNA from the sister's first breast tumour. In addition, there was no allelic loss of flanking TP53 in that tumour (data not shown). Thus it
+
+Figure 1 Pedigree of a patient with germline TP53 mutation. Numbers in parentheses indicate age of cancer diagnosis.
+
+is possible that either the proband's sister is a phenocopy or
+the TP53 mutation is not the relevant source of breast cancer
+susceptibility in this family, but this would need to be
+confirmed by testing the germline DNA, which was unavail-
+able. Thus, we conclude that germline TP53 mutations are not
+an important cause of multiple primary cancers outside the
+setting of LFS. In this sample set the 72P allele was found at a frequency of
+41%, somewhat higher than the previously reported 26-35%.11­13 Nonetheless, we observed a six-fold higher frequency of the homozygous R72 genotype among MPC women with BRCA1 or BRCA2 mutations compared to BC women with a BRCA1 or BRCA2 mutation. These data suggest that women who are homozygous for the R72 allele and have a mutation in BRCA1 or BRCA2 may be at increased risk for developing multiple primary cancers. Although contrary to the study by Brose et al,34 who showed that BRCA1 mutations do not confer an increased risk of most additional primary cancers, nonetheless this present study did not explore the combined association of both a BRCA1 mutation and the TP53 R72P polymorphism and its potential role as a modifier of BRCA1 associated breast cancer risk.
+Other studies associating the homozygous R72 allele and increased cancer risk have been reported. In the first such example, the association between TP53 polymorphisms and human papillomavirus (HPV) associated cervical cancer was examined, suggesting that women who were homozygous for the R72 allele were seven times more susceptible to HPV related cervical cancer than with at least one 72P allele.35 However, these data have been difficult to replicate and an equal number of studies have either confirmed36­38 or disputed39­43 the R72 association with cervical cancer.
+In the subset analysis of the R72P polymorphism as a candidate modifier of breast cancer penetrance in BRCA1/2 mutation carriers, we observed that the presence of a 72P allele was associated with an earlier age of breast cancer diagnosis among women with a BRCA1 mutation. One possible explanation for the association of 72P with earlier onset breast cancer in BRCA1 mutation carriers and R72 with MPC would be excess or earlier mortality among women with an earlier age of diagnosis of breast cancer (that is, those with the 72P). Thus if women homozygous for R72 may live longer, they may have a greater likelihood of developing a second cancer.
+BRCA1 physically interacts with p53 in vitro and both BRCA1 and BRCA2 physically interact with p53 in vivo resulting in enhanced p53 mediated transcription.44­46 There are two p53 binding sites in BRCA1; one is close to the nuclear localisation signal in the N-terminal region of exon 1145 and one is in the most C-terminal BRCT domain.47 Deletion of the N-terminal exon 11 p53 binding site prevents in vitro interaction of the two proteins and abrogates the coactivation effect of BRCA1 on p53 responsive promoters such as bax, p21, and GADD45.45 48 In addition, a truncation mutant of BRCA1 that retains the p53 interacting site but removes the C-terminal BRCA1 transactivation domain acts as a dominant inhibitor of p53 dependent transcription.45 Finally, TP53 mutations are more common in BRCA1 associated breast cancers than sporadic or BRCA2 associated tumours. Somatic TP53 mutations have been reported in as many as 80% of BRCA1 associated tumours,49 50 leading to the speculation that TP53 mutations, or another component of the relevant pathway, maybe required before BRCA1 related tumorigenesis can proceed.51 Recent data from murine models strongly support this hypothesis.52
+Our data provide additional support for a critical role of the p53/BRCA1 interaction in tumorigenesis, suggesting an association between TP53 variants and cancer risk in women with BRCA1 mutations. Thus, it is possible that the R72P polymorphism in TP53 subtly alters the p53/BRCA1 interaction and in turn alters BRCA1 associated tumorigenesis.
+In summary, we provide evidence that germline mutations in TP53 are rarely associated with the presence of multiple
+
+www.jmedgenet.com
+
+Electronic letter
+
+Downloaded from http://jmg.bmj.com/ on October 3, 2016 - Published by group.bmj.com
+
+5 of 6
+
+primary cancers in breast cancer families and support previous studies suggesting that TP53 mutations account for less than 1% of hereditary susceptibility to breast cancer. However, we found presence of the homozygous R72 allele was associated with a six-fold increased risk for the development of multiple primary cancers among subjects with a germline BRCA1 or BRCA2 mutation. Finally, we provide preliminary evidence that the arginine allele of R72P in exon 4 of TP53 may modify BRCA1 associated breast cancer risk, using age of diagnosis as a surrogate for penetrance.
+ACKNOWLEDGEMENTS
+This work was supported by grants from the Susan G Komen Breast Cancer Foundation (PDF99-003024 to A-MM) and a grant from the NCI (CA 76417) to BLW.
+.....................
+Authors' affiliations A-M Martin, Laboratory of Molecular Pathology, Department of Pathology, Pennsylvania Hospital, Philadelphia, USA A-M Martin, B Amirimani, T A Colligon, G Athanasiadis, H A Shih, M R Gerrero, B L Weber, Department of Medicine, University of Pennsylvania, Philadelphia, USA A-M Martin, T A Colligon, G Athanasiadis, M R Gerrero, K Calzone, B L Weber, Abramson Family Cancer Research Institute, University of Pennsylvania Cancer Center, Philadelphia, USA P A Kanetsky, T R Rebbeck, Department of Biostatistics and Epidemiology, University of Pennsylvania, Philadelphia, USA P A Kanetsky, T R Rebbeck Center for Clinical Epidemiology and Biostatistics, University of Pennsylvania, Philadelphia, USA
+Correspondence to: Dr B L Weber, Room 514, BRB II/III, 421 Curie Boulevard, Philadelphia, PA 19104, USA; weberb@mail.med.upenn.edu
+REFERENCES
+1 Kern SE, Pietenpol JA, Thiagalingam S, Seymour A, Kinzler KW, Vogelstein B. Oncogenic forms of p53 inhibit p53-regulated gene expression. Science 1992;256:827-30.
+2 Vogelstein B, Kinzler KW. p53 function and dysfunction. Cell 1992;70:523-6.
+3 Marutani M, Tonoki H, Tada M, Takahashi M, Kashiwazaki H, Hida Y, Hamada J, Asaka M, Moriuchi T. Dominant-negative mutations of the tumor suppressor p53 relating to early onset of glioblastoma multiforme. Cancer Res 1999;59:4765-9.
+4 Ko LJ, Prives C. p53: puzzle and paradigm. Genes Dev 1996;10:1054-72.
+5 Li FP, Fraumeni JF. Soft-tissue sarcomas, breast cancer, and other neoplasms: familial syndrome? Ann Intern Med 1969;71:747.
+6 Li FP, Fraumeni JF. Prospective study of a family cancer syndrome. JAMA 1982;247:2692-4.
+7 Strong LC, Stine M, Norsted TL. Cancer in survivors of childhood soft tissue sarcoma and their relatives. J Natl Cancer Inst 1987;79:1213-20.
+8 Li FP, Fraumeni JF, Mulvihill JJ. A cancer family syndrome in 24 kindreds. Cancer Res 1988;48:5358.
+9 Malkin D, Li FP, Strong LC, Fraumeni JF Jr, Nelson CE, Kim DH, Kassel J, Gryka MA, Bischoff FZ, Tainsky MA, et al. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 1990;250:1233-8.
+10 Harris N, Brill E, Shohat O, Prokocimer M, Wolf D, Arai N, Rotter V. Molecular basis for heterogeneity of the human p53 protein. Mol Cell Biol 1986;6:4650-6.
+11 Kawajiri K, Nakachi K, Imai K, Watanabe J, Hayashi S. Germ line polymorphisms of p53 and CYP1A1 genes involved in human lung cancer. Carcinogenesis 1993;14:1085-9.
+12 Sjalander A, Birgander R, Hallmans G, Cajander S, Lenner P, Athlin L, Beckman G, Beckman L. p53 polymorphisms and haplotypes in breast cancer. Carcinogenesis 1996;17:1313-16.
+13 Wang-Gohrke S, Rebbeck TR, Besenfelder W, Kreienberg R, Runnebaum IB. p53 germline polymorphisms are associated with an increased risk for breast cancer in German women. Anticancer Res 1998;18:2095-9.
+14 Soussi T, Beroud C. Assessing TP53 status in human tumours to evaluate clinical outcome. Nat Rev Cancer 2001;1:233-40.
+15 Kammer C, Tommasino M, Syrjanen S, Delius H, Hebling U, Warthorst U, Pfister H, Zehbe I. Variants of the long control region and the E6 oncogene in European human papillomavirus type 16 isolates: implications for cervical disease. Br J Cancer 2002;86:269-73.
+16 Zehbe I, Tachezy R, Mytilineos J, Voglino G, Mikyskova I, Delius H, Marongiu A, Gissmann L, Wilander E, Tommasino M. Human papillomavirus 16 E6 polymorphisms in cervical lesions from different European populations and their correlation with human leukocyte antigen class II haplotypes. Int J Cancer 2001;94:711-16.
+17 Zehbe I, Wilander E, Delius H, Tommasino M. Human papillomavirus 16 E6 variants are more prevalent in invasive cervical carcinoma than the prototype. Cancer Res 1998;58:829-33.
+
+18 Zehbe I, Voglino G, Wilander E, Genta F, Tommasino M. Codon 72 polymorphism of p53 and its association with cervical cancer. Lancet 1999;354:218-19.
+19 Zehbe I, Voglino G, Wilander E, Delius H, Marongiu A, Edler L, Klimek F, Andersson S, Tommasino M. p53 codon 72 polymorphism and various human papillomavirus 16 E6 genotypes are risk factors for cervical cancer development. Cancer Res 2001;61:608-11.
+20 Shen H, Zheng Y, Sturgis EM, Spitz MR, Wei Q. P53 codon 72 polymorphism and risk of squamous cell carcinoma of the head and neck: a case-control study. Cancer Lett 2002;183:123-30.
+21 Fan R, Wu MT, Miller D, Wain JC, Kelsey KT, Wiencke JK, Christiani DC. The p53 codon 72 polymorphism and lung cancer risk. Cancer Epidemiol Biomarkers Prev 2000;9:1037-42.
+22 Prosser J, Elder PA, Condie A, MacFadyen I, Steel CM, Evans HJ. Mutations in p53 do not account for heritable breast cancer: a study in five affected families. Br J Cancer 1991;63:181-4.
+23 Borresen AL, Andersen TI, Garber J, Barbier-Piraux N, Thorlacius S, Eyfjord J, Ottestad L, Smith-Sorensen B, Hovig E, Malkin D, et al. Screening for germ line TP53 mutations in breast cancer patients. Cancer Res 1992;52:3234-6.
+24 Jolly KW, Malkin D, Douglass EC, Brown TF, Sinclair AE, Look AT. Splice-site mutation of the p53 gene in a family with hereditary breast-ovarian cancer. Oncogene 1994;9:97-102.
+25 Sun XF, Johannsson O, Hakansson S, Sellberg G, Nordenskjold B, Olsson H, Borg A. A novel p53 germline alteration identified in a late onset breast cancer kindred. Oncogene 1996;13:407-11.
+26 Warren W, Eeles RA, Ponder BA, Easton DF, Averill D, Ponder MA, Anderson K, Evans AM, DeMars R, Love R, et al. No evidence for germline mutations in exons 5-9 of the p53 gene in 25 breast cancer families. Oncogene 1992;7:1043-6.
+27 Lehman TA, Haffty BG, Carbone CJ, Bishop LR, Gumbs AA, Krishnan S, Shields PG, Modali R, Turner BC. Elevated frequency and functional activity of a specific germ-line p53 intron mutation in familial breast cancer. Cancer Res 2000;60:1062-9.
+28 Rapakko K, Allinen M, Syrjakoski K, Vahteristo P, Huusko P, Vahakangas K, Eerola H, Kainu T, Kallioniemi OP, Nevanlinna H, Winqvist R. Germline TP53 alterations in Finnish breast cancer families are rare and occur at conserved mutation-prone sites. Br J Cancer 2001;84:116-19.
+29 Lidereau R, Soussi T. Absence of p53 germ-line mutations in bilateral breast cancer patients. Hum Genet 1992;89:250-2.
+30 Shih HA, Nathanson KL, Seal S, Collins N, Stratton MR, Rebbeck TR, Weber BL. BRCA1 and BRCA2 mutations in breast cancer families with multiple primary cancers. Clin Cancer Res 2000;6:4259-64.
+31 den Dunnen JT, Antonarakis SE. Mutation nomenclature extensions and suggestions to describe complex mutations: a discussion. Hum Mutat 2000;15:7-12.
+32 Mehta CR, Patel NR, Gray R. Computing an exact confidence interval for the common odds ratio in several 2×2 contingency tables. J Am Stat Assoc 1985;80:969-73.
+33 Toguchida J, Yamaguchi T, Dayton SH, Beauchamp RL, Herrera GE, Ishizaki K, Yamamuro T, Meyers PA, Little JB, Sasaki MS, et al. Prevalence and spectrum of germline mutations of the p53 gene among patients with sarcoma. N Engl J Med 1992;326:1301-8.
+34 Brose MS, Rebbeck TR, Calzone KA, Stopher JE, Nathanson KL, Weber BL. Cancer risk estimates for BRCA1 mutation carriers identified in a risk evaluation program. J Natl Cancer Inst 2002;94:1365-72.
+35 Storey A, Thomas M, Kalita A, Harwood C, Gardiol D, Mantovani F, Breuer J, Leigh IM, Matlashewski G, Banks L. Role of a p53 polymorphism in the development of human papillomavirus-associated cancer. Nature 1998;393:229-34.
+36 Makni H, Franco EL, Kaiano J, Villa LL, Labrecque S, Dudley R, Storey A, Matlashewski G. P53 polymorphism in codon 72 and risk of human papillomavirus-induced cervical cancer: effect of inter-laboratory variation. Int J Cancer 2000;87:528-33.
+37 Agorastos T, Lambropoulos AF, Constantinidis TC, Kotsis A, Bontis JN. p53 codon 72 polymorphism and risk of intra-epithelial and invasive cervical neoplasia in Greek women. Eur J Cancer Prev 2000;9:113-18.
+38 Dokianakis DN, Spandidos DA. P53 codon 72 polymorphism as a risk factor in the development of HPV-associated cervical cancer. Mol Cell Biol Res Commun 2000;3:111-14.
+39 Tenti P, Vesentini N, Rondo Spaudo M, Zappatore R, Migliora P, Carnevali L, Ranzani GN. p53 codon 72 polymorphism does not affect the risk of cervical cancer in patients from northern Italy. Cancer Epidemiol Biomarkers Prev 2000;9:435-8.
+40 Tachezy R, Mikyskova I, Salakova M, Van Ranst M. Correlation between human papillomavirus-associated cervical cancer and p53 codon 72 arginine/proline polymorphism. Hum Genet 1999;105:564-6.
+41 Yamashita T, Yaginuma Y, Saitoh Y, Kawai K, Kurakane T, Hayashi H, Ishikawa M. Codon 72 polymorphism of p53 as a risk factor for patients with human papillomavirus-associated squamous intraepithelial lesions and invasive cancer of the uterine cervix. Carcinogenesis 1999;20:1733-6.
+42 Klaes R, Ridder R, Schaefer U, Benner A, von Knebel Doeberitz M. No evidence of p53 allele-specific predisposition in human papillomavirus-associated cervical cancer. J Mol Med 1999;77:299-302.
+43 Rosenthal AN, Ryan A, Al-Jehani RM, Storey A, Harwood CA, Jacobs IJ. p53 codon 72 polymorphism and risk of cervical cancer in UK. Lancet 1998;352:871-2.
+44 Ouchi T, Monteiro AN, August A, Aaronson SA, Hanafusa H. BRCA1 regulates p53-dependent gene expression. Proc Natl Acad Sci USA 1998;95:2302-6.
+
+www.jmedgenet.com
+
+6 of 6
+
+Downloaded from http://jmg.bmj.com/ on October 3, 2016 - Published by group.bmj.com
+
+Electronic letter
+
+45 Zhang H, Somasundaram K, Peng Y, Tian H, Bi D, Weber BL, El-Deiry WS. BRCA1 physically associates with p53 and stimulates its transcriptional activity. Oncogene 1998;16:1713-21.
+46 Marmorstein LY, Kinev AV, Chan GK, Bochar DA, Beniya H, Epstein JA, Yen TJ, Shiekhattar R. A human BRCA2 complex containing a structural DNA binding component influences cell cycle progression. Cell 2001;104:247-57.
+47 Chai YL, Cui J, Shao N, Shyam E, Reddy P, Rao VN. The second BRCT domain of BRCA1 proteins interacts with p53 and stimulates transcription from the p21WAF1/CIP1 promoter. Oncogene 1999;18:263-8.
+48 Harkin DP, Bean JM, Miklos D, Song YH, Truong VB, Englert C, Christians FC, Ellisen LW, Maheswaran S, Oliner JD, Haber DA. Induction of GADD45 and JNK/SAPK-dependent apoptosis following inducible expression of BRCA1. Cell 1999;97:575-86.
+
+49 Crook T, Crossland S, Crompton MR, Osin P, Gusterson BA. p53 mutations in BRCA1-associated familial breast cancer. Lancet 1997;350:638-9.
+50 Schuyer M, Berns EM. Is TP53 dysfunction required for BRCA1-associated carcinogenesis? Mol Cell Endocrinol 1999;155:143-52.
+51 Bertwistle D, Ashworth A. Functions of the BRCA1 and BRCA2 genes. Curr Opin Genet Dev 1998;8:14-20.
+52 Xu X, Qiao W, Linke S, Cao L, Li W, Furth P, Harris C, Deng C. Genetic interactions between tumor suppressors Brca1 and p53 in apoptosis, cell cycle and tumorigenesis. Nat Genet 2001;28:266-71.
+53 Evans SC, Mims B, McMasters KM, Foster CJ, de Andrade M, Amos CI, Strong LC, Lozano G. Exclusion of a p53 germline mutation in a classic Li-Fraumeni syndrome family. Hum Genet 1998;102:681­6.
+
+www.jmedgenet.com
+
+Downloaded from http://jmg.bmj.com/ on October 3, 2016 - Published by group.bmj.com
+Germline TP53 mutations in breast cancer families with multiple primary cancers: is TP53 a modifier of BRCA1?
+A-M Martin, P A Kanetsky, B Amirimani, T A Colligon, G Athanasiadis, H A Shih, M R Gerrero, K Calzone, T R Rebbeck and B L Weber J Med Genet 2003 40: e34
+doi: 10.1136/jmg.40.4.e34
+Updated information and services can be found at: http://jmg.bmj.com/content/40/4/e34
+
+References Email alerting
+service
+
+These include: This article cites 51 articles, 18 of which you can access for free at: http://jmg.bmj.com/content/40/4/e34#BIBL Receive free email alerts when new articles cite this article. Sign up in the box at the top right corner of the online article.
+
+Topic Collections
+
+Articles on similar topics can be found in the following collections
+Breast cancer (237) Screening (oncology) (230) Cancer: dermatological (42) Dermatology (238) Paediatric oncology (124) CNS cancer (44) Neurooncology (77) Lung cancer (oncology) (14) Pancreas and biliary tract (108)
+
+Notes
+
+To request permissions go to: http://group.bmj.com/group/rights-licensing/permissions To order reprints go to: http://journals.bmj.com/cgi/reprintform To subscribe to BMJ go to: http://group.bmj.com/subscribe/
+
+

@@ -1,0 +1,197 @@
+Clin Genet 2013: 83: 332­336 Printed in Singapore. All rights reserved
+Original Article
+
+© 2012 John Wiley & Sons A/S. Published by Blackwell Publishing Ltd
+CLINICAL GENETICS doi: 10.1111/j.1399-0004.2012.01917.x
+
+Germline RAD51C mutations in ovarian cancer susceptibility
+
+Coulet F, Fajac A, Colas C, Eyries M, Dion-Minie`re A, Rouzier R, Uzan S, Lefranc J-P, Carbonnel M, Cornelis F, Cortez A, Soubrier F. Germline RAD51C mutations in ovarian cancer susceptibility. Clin Genet 2013: 83: 332­336. © John Wiley & Sons A/S. Published by Blackwell Publishing Ltd, 2012
+Several genes might explain BRCA1/2 negative breast and ovarian family cases. Deleterious mutations in few genes involved in the Fanconi complex are responsible for Fanconi anemia at the homozygous state and breast cancer (BC) susceptibility at the heterozygous state (BRCA2, PALB2, BRIP1 ). RAD51C plays an important role in the double-strand break repair pathway and a biallelic missense mutation in the RAD51C gene was found in a Fanconi anemia-like disorder. Subsequently, six monoallelic pathogenic mutations were identified after screening 480 BRCA1/2 negative breast and ovarian cancer (BC/OC) pedigrees. Several reports were unsuccessful to replicate these results. To investigate whether germline mutations in RAD51C are associated with an increased risk of developing BC/OC, we screened, by Sanger sequencing of the coding sequence, 117 index cases of breast and ovarian families from French or European origin, and negative for BRCA1/2 mutations. In our study, we found 3 pathogenic mutations among 117 families screened which corresponds to a 2.6% frequency. Our results confirm that RAD51C is a susceptibility gene for ovarian and BC and that this gene should be screened for mutations in families with multiple BC/OC.
+Conflict of interest
+Nothing to declare.
+
+F Couleta, A Fajacb, C Colasa, M Eyriesa, A Dion-Minie` rea, R Rouzierc, S Uzanc, J-P Lefrancd, M Carbonnele, F Cornelisf, A Cortezg and F Soubriera
+aGroupe hospitalier Pitie´ -Salpe^ trie` re, Assistance Publique-Hopitaux de Paris, Universite´ Pierre et Marie Curie, De´ partement de Ge´ ne´ tique, Paris F-75651, France, bHo^ pital Tenon, Assistance Publique-Hopitaux de Paris, Laboratoire d'Histologie Biologie Tumorale, Paris F-75651, France, cHo^ pital Tenon, Assistance Publique-Hopitaux de Paris, Service de Chirurgie Gynecologique, Paris F-75651, France, dGroupe hospitalier Pitie´ -Salpe^ trie` re, Assistance Publique-Hopitaux de Paris, Universite´ Pierre et Marie Curie, Service de Chirurgie Gynecologique, Paris F-75651, France, eHo^ pital Jean Verdier, Assistance Publique-Hopitaux de Paris, Service de Chirurgie Gynecologique, Bondy F-93143, France, fHo^ pital Jean Verdier, Assistance Publique-Hopitaux de Paris, Service d'Anatomo-pathologie, Bondy F-93143, France, and gHo^ pital Tenon, Assistance Publique-Hopitaux de Paris, Service d'Anatomo-pathologie, Paris F-75651, France
+
+This paper is dedicated to the memory of Nathalie Davids who actively participated in this work.
+
+Key words: breast cancer susceptibility ­ RAD51C ­ ovarian cancer susceptibility ­ germline mutation
+Corresponding author: Dr Florence Coulet, Laboratoire d'Oncoge´ ne´ tique et Angioge´ ne´ tique mole´ culaire, Ba^ t. 10 La Peyronie, Groupe Hospitalier Pitie´ -Salpe^ trie` re, 47-83 Bd de l'Ho^ pital, 75651 Paris cedex 13, France. Tel.: (33-1) 42 17 76 64; fax: (33-1) 42 17 76 18; e-mail: florence.coulet@psl.aphp.fr
+Received 4 April 2012, revised and accepted for publication 25 May 2012
+
+332
+
+Inherited breast and ovary cancers (BC/OC) as well as other forms of complex disease in which genetic factors play a major role, can be explained by highly penetrant mutations probably located on a large variety of genes, each accounting for a small proportion of cases (1). Therefore, beside major genes such as BRCA1 and 2 , which account for more than 80% of families with BC/OC, and probably around 25% of families with breast cancer (BC) alone, several other genes might explain the remaining family cases. The genes belonging to the Fanconi complex, to which BRCA2 belongs, and which are responsible for Fanconi disease at the homozygous state, are candidate genes for predisposition to BC/OC. Indeed, PALB2 , BRIP1 , RAD51C , RAD51D were shown to be mutated in BC/OC predisposition (2­4) but account for a very limited proportion of cases (less than 1%) (5).
+In a first article, Meindl et al. (6) have screened a large series of BC (n = 1100) and OC (n = 480) families for mutation in the RAD51C gene, which belongs to the Fanconi Anemia protein complex. They reported six pathogenic germline mutations of RAD51C , two insertions, two splice site mutations and two missense alterations. Interestingly, all six mutations were found in OC families. Several reports were unsuccessful to replicate these results. Indeed, a total of 616 families with BC/OC were reported negative for RAD51C mutations in different publications (5, 7, 8). A series of 188 families with BC and/or OC, but for which accurate clinical data are not available, were also found negative for RAD51C (9). A single RAD51C pathogenic mutation was reported after screening 492 families with BC/OC (10). More recently, Pelttari et al. (11) found two recurrent deleterious mutations of RAD51C in the Finnish population, which result from a founder effect. These recurrent mutations were associated with a high relative risk for familial OC, but their frequency was not statistically different in BC patients and controls. A recent article reported a frequency of 0.6% of RAD51C truncating mutations in families with OC (12).
+We report the screening of the RAD51C gene in 117 families including at least one case of OC associated or not with BC. We found three pathogenic mutations, a result which strengthens the role of RAD51C as a susceptibility gene for OC. Our results show that RAD51C is a susceptibility gene for OC, justifying its investigation in BRCA1/2 negative families with OC.
+Materials and methods
+Patients
+Families with at least one case of OC were included in the study (Table 1). Patient peripheral blood samples were collected in ethylene diamine tetraacetique (EDTA) tubes from patients who had previously signed an informed consent: 117 affected index cases were selected. All patients were found negative for BRCA mutation by high resolution melting (HRM) screening, Sanger sequencing and multiplex ligation-dependent
+
+Ovarian cancer and germline RAD51C mutations
+
+Table 1. Characteristics of the 117 index cases screened
+
+Age at first diagnosis (OC or BC) (years mean ± SD)
+Gender (female/male) Isolated OC OC and relatives with OC OC and relatives with BC BC and relatives with OC Family history of male BC Number of families with other malignancies
+OC, ovarian cancer; BC, breast cancer.
+
+49.6 ± 12.3
+117/0 27 8 34 48 3 61
+
+probe amplification (MLPA) for the search of large rearrangements (13).
+
+Nomenclature
+The DNA mutation numbering is based on the cDNA sequence for RAD51C (GenBank: NM_058216.1). The nomenclature system for the description of changes in DNA, RNA and protein follows the recommendations of the Human Genome Variation Society.
+
+RAD51C amplification and sequencing
+DNA was isolated using an automatized Extragene® extractor (Genomic Industry, Archamps, France) with a Wizard® Genomic DNA extraction kit (Promega France, Charbonnie`res-les-Bains, France) according to the manufacturer's standard protocol. Amplification of the entire sequence and intronic junctions of the RAD51C gene was performed on genomic DNA from 117 index cases. Primers and PCR conditions are available on request. Sequencing was performed with Big Dye Terminators v1.1 kit (Applied Biosystems, Courtaboeuf, France) using a DNA sequencer ABI 3730.
+
+Splicing predictions
+Potential splice variants identified were analyzed by five splice-site predictions programs: Splice Site Finder, MaxEntScan, Nnsplice and Human Splicing Finder, available through alamut v2.0 software (Biointeractive Software, Rouen, France).
+
+In vitro splicing assay using a splicing reporter minigene
+Splice variants were studied in minigene constructions with pSPL3 plasmid. The RAD51C exon 7 was PCRamplified together with about 150 bp of 5 and 3 flanking intronic sequences, by using forward and reverse primers carrying 5 tails that contained restriction sites for BamHI and EcoRI, respectively (primer sequences are available upon request). Using these restriction sites, we cloned the fragment in the splicing reporter minigene pSPL3. Minigenes carrying the wild-type (wt) and the mutant allele were then identified by sequencing and were transfected separately into HeLa cells during the
+333
+
+Coulet et al.
+
+Table 2. Summary of germline RAD51C variants
+
+Location
+
+Nucleotide change
+
+Effect on RNA
+
+5 UTR ex2 ex4 ex5 ex6 ex6 ex7 ex7
+
+c.1-26C>T c.376G>A c.577C>T c.790G>A c.859A>G c.904+34T>C c.905-2A>G c.965+5G>A
+
+­ ­ ­ ­ ­ ­ exon7 skipping exon7 skipping
+
+Effect on protein
+­ p.Ala126Thr p.Arg193X p.Gly264Ser p.Thr287Ala
+­ p.Glu303TrpfsX41 p.Glu303TrpfsX41
+
+dbSNP
+rs12946397 rs61758784 Not reported Not reported rs28363317 rs28363318 Not reported Not reported
+
+Variation type
+Polymorphism Polymorphism
+Nonsense Missense Polymorphism Polymorphism Splicing mutation Splicing mutation
+
+same experiment. The splicing patterns corresponding to the wt and to the mutant allele were then compared by reverse transcription polymerase chain reaction (RTPCR) analysis of the RNA from transfected cells, using primers positioned in the exons of the pSPL3 minigene and by sequencing all RT-PCR products. Total RNA was isolated from transfected cells or from whole blood samples with the PAXGene Blood RNA system (Qiagen, Courtaboeuf, France), 500 ng of RNA were used for RT-PCR according to manufacturer's recommendations (Superscript II, random primers, Invitrogen, Gif sur Yvette, France).
+
+the second case) (Fig. 2b). The three patients carrying RAD51C deleterious mutations had developed an OC at 73 (A), 42 (B) and 51 (C)years old: in two cases (A and B), the histological types were invasive serous OC, and was an invasive endometrioid adenocarcinoma in the third case (C). Families 1A and 1C are breast and ovarian families but we were not able to have access to other subjects of the family to study cosegregation (because of death or no response to our invitation of the relatives). In family 1C, the maternal uncle had a BC. No BC was observed in the family but one case of lower abdominal tumor was reported.
+
+Results
+We studied both families (n = 90) and isolated index cases with OC (n = 27). The probands studied in the families were either the OC-affected patients (n = 69) or a relative with BC (n = 48) (Table 1).
+All variants identified in this study were reported in Table 2. Four polymorphisms c.1-26C>T, c.376G>A p.Ala126Thr, c.859A>G p.Thr287Ala and c.904+34T>C were identified regularly and previously reported in the literature (5­7, 10). We detected the rare missense variant c.790G>A (p.Gly264Ser). The same variant had also been previously detected by Meindl et al. (6), by Pelttari (11) and by Thompson (12) in cases and population controls.
+Mutation screening revealed three mutations: one nonsense mutation c.577C>T (p.Arg193X), two novel splice mutations flanking exon 7, one donor mutation at position +5 (c.965+5A>G), and one acceptor at position -2 (c.905-2A>C) in three families affected by OC (pedigrees shown on Fig. 1a­c). In silico predictions were obtained for the two potential splice mutations: for c.965+5G>A the donor site score was diminished (57% MaxEntScan) and for c.905-2A>G, the acceptor site was abolished (MaxEntScan). Either the wt exon 7 and its flanking regions, or the two mutated sequences were introduced into the pSPL3 splicing reporter plasmid, and transfected into HeLa cells. The RT-PCR analysis of the transfected cells showed that both mutations induced loss of exon 7 in the mature transcript, and introduced a frameshift and a stop codon at position 363 (Fig. 2a). These results were confirmed by RT-PCR of the mRNA isolated from blood cells of one index case (no RNA was available for
+334
+
+Discussion
+By identifying inactivating mutations in three index cases from families with OC among 117 screened for RAD51C mutation, we confirm data from Meindl et al. (6). showing that RAD51C deleterious mutations are found in BC/OC families. In our series, all three mutations were found in OC cases, and no mutation was found in BC index cases even if OC were observed in these families.
+The rate of mutation is the most elevated among all published series (2.5%), but close to the rate found in Finnish families with OC cases, where a founder effect was described for the two RAD51C mutations identified (11).
+The histological type of OC in the patients with RAD51C mutation is similar to what is found in BRCA1/2 carriers, with two invasive serous ovarian adenocarcinomas and one endometrioid adenocarcinoma. Of note, a BC in a male patient was observed in a mutation-positive family, but the presence of the mutation could not be verified in this patient. No similar observation was reported, in particular in the study of Silvestri et al. (14) who analyzed 98 male BC patients without BRCA1/2 mutation.
+The penetrance of the RAD51C mutations cannot be assessed accurately through our study because of the ascertainment bias and because it was not possible to test relatives for the presence of the mutation. In the three families positive for RAD51C mutation, it seems likely that there are unaffected carriers although the mutation could not be tested in the putative obligatory carriers. This would confirm the results of Pelttari et al. (11) who found that RAD51C mutations were mostly
+
+(a) (b)
+
+60 y LAT
+73 y 75 y OC BC
+
+32y BC
+4
+2
+
+Ovarian cancer and germline RAD51C mutations
+
+53 y LAT
+42 y OC
+
+73 y Prostate
+
+3
+(c)
+
+68 ans
+
+62 ans
+
+65 y BC
+
+51 y 35 y OC BC
+Fig. 1. RAD51C mutations in familial breast and ovarian cancer (BC/OC) pedigrees. Individuals with BC or OC are shown as filled circles, and individuals with lower abdominal tumor (LAT) are shown as demi-filled circles. (a) Family with c.577C>T (p.Arg193X) mutation (b) Family with c.905-2A>G mutation (c) Family with c.965+5G>A mutation.
+
+(a)
+EcoRI
+
+Exon 7 + c.965+5 G>A mutation
+BamHI
+
+Exon 7 + c.905-2 A>G mutation
+EcoRI
+
+BamHI
+
+SV40
+
+Poly A
+
+pSPL3 vector 6031 pb
+
+SV40
+pSPL3 vector 6031 pb
+
+Poly A
+
+(b)
+
+exon 7 skipping 7
+
+Exon1 pSPL3 Exon2 pSPL3
+
+Ex7 Ex7 skipping
+
+Fig. 2. Splicing assays (a). In vitro assay using a splicing reporter minigene: Minigene constructions for the two mutations (c.965+5G>A; c.9052A>G) inducing exon 7 skipping. (b) Skipping of exon 7 (60 bp deleted) confirmed by RT-PCR on cDNA from blood sample of patient with c.905-2A>G mutation.
+
+associated with a high relative risk of OC either in a familial or in a sporadic context. In contrast, the relative risk of BC associated with RAD51C mutation seems lower since the 0.1% rate of inactivating mutation in a control Finnish population, was not statistically different from the rate observed in BC families. Since submission of this manuscript, Loveday et al. reported a nearly sixfold increased relative risk for OC and the absence of increased risk for BC (15).
+Our results are consistent with those of Meindl et al. (6), Romero et al. (10), Pelttari et al. (11), and Thompson et al. (12) since in these studies RAD51C mutations were found associated with OC families, but are in contrast to others in which no RAD51C mutation was found. These negative results might
+
+be explained by stochastic variation because the frequency of RAD51C is low. A lack of sensitivity is not probable, but differences in the ascertainment of collected families might explain these differences. In our study, we focused on families and cases with OC cases. We did not find recurrent mutations, as in the study of Pelttari (11) where two recurrent mutations were found in the control population, and within the same haplotype context, showing a founder effect in the Finnish population. In our study, the two splice mutations found are different and were not found in the 12,000 exome variants database (http://genome.sph.umich.edu/wiki/Exome_Chip_De sign and ftp://share.sph.umich.edu/exomeChip/Illumina Designs/codingContent/), but the stop-gain we found
+335
+
+Coulet et al.
+was observed twice in this non selected population. The 1:12,000 alleles variant frequency deduced remains compatible with a low frequency risk factor. Other nonsynonymous variants are found in this database and in the EVS database (http://evs.gs.washington.edu/EVS/) which is part of the Exome Chip project mentioned above. Among them, the missense variant c.790G>A (p.Gly264Ser) has a 0.28% frequency in Caucasian, close to the 0.24% frequency found in Afro-American subjects. The frequency of this missense variant was not significantly different for any of the patients subgroups compared with control populations in Pelttari's study (11). However, there was a tendency for a higher frequency among OC cases (1%, p < 0.066). The recent study of Thompson reported a significant association for this missense variant in OC cases and provides support for the designation of this variant as a moderately penetrant allele (12).
+Our experiments show that the two splice mutations are inactivating the gene either by introducing a stop codon or by leading to abnormal splicing, that we documented by the minigene method on the cloned allele.
+RAD51C belongs to the homologous recombination DNA repair system, with other genes such as BRIP1 , PALB2 , CHEK2 , RAD50 , ATM , and BRCA1 /2 . Mutations in these genes are associated with increased risk of BC and/or OC. Targeted capture and massively parallel sequencing represents a way to easily test these genes in inherited OC (16). After RAD51C was shown to be responsible for OC susceptibility, RAD51D mutations were found also in families with ovarian and BC, but no mutation was found in BC only families (3, 4). The increased relative risk for OC compared to BC associated with RAD51D mutation, as estimated in the Loveday's study (6.3 vs 1.3) (3) likely explains this result, and this is also probably the case for the RAD51C gene although this calculation was not possible in our study. The frequency of RAD51D deleterious mutations among OC families is close to our results on RAD51C , and histological types of OC are also similar. Interestingly, RAD51D mutated cells are sensitive in vitro to poly(ADP-ribose) polymerase inhibitors, which have been shown to be efficient in BRCA1/2 mutated cells (17). This characteristic might be shared with RAD51C cells as they both belong to the same functional class of proteins.
+In conclusion, our results confirm that mutations of the RAD51C gene are associated with an increased risk of OC, and that a systematic screening of this gene should be included in the search for mutation in ovarian families and cases, since it has consequences both on prevention and potentially on treatment. However, for efficacy purpose only ovarian cases should be tested for RAD51C mutation, giving the highest chance for finding a mutation since mutations were only found in this case. Indeed in our study, the RAD51c mutation frequency in the ovarian index cases would be higher (3/69). Thus, the list of susceptibility
+
+genes for OC includes currently BRCA1/2, RAD51C, RAD51D, hereditary non-polyposis cancer genes and other recently identified genes (16). It is likely that the list will further extend beyond those genes and that will increase the screening burden for routine diagnosis and spur the implementation of new generation sequencing for this purpose.
+Acknowledgements
+This work was benefited from a financial support from INCa (Institut National du Cancer).
+References
+1. McClellan J, King MC. Genetic heterogeneity in human disease. Cell 2010: 141: 210­217.
+2. Rafnar T, Gudbjartsson DF, Sulem P et al. Mutations in BRIP1 confer high risk of ovarian cancer. Nat Genet 2011: 43: 1104­1107.
+3. Loveday C, Turnbull C, Ramsay E et al. Germline mutations in RAD51D confer susceptibility to ovarian cancer. Nat Genet 2011: 43: 879 ­ 882.
+4. Osher DJ, De Leeneer K, Michils G et al. Mutation analysis of RAD51D in non-BRCA1/2 ovarian and breast cancer families. Br J Cancer 2012: 106: 1460­1463.
+5. Wong MW, Nordfors C, Mossman D et al. BRIP1, PALB2, and RAD51C mutation analysis reveals their relative importance as genetic susceptibility factors for breast cancer. Breast Cancer Res Treat 2011: 127: 853­859.
+6. Meindl A, Hellebrand H, Wiek C et al. Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 2010: 42: 410­414.
+7. Akbari MR, Tonin P, Foulkes WD, Ghadirian P, Tischkowitz M, Narod SA. RAD51C germline mutations in breast and ovarian cancer patients. Breast Cancer Res 2010: 12: 404.
+8. Zheng Y, Zhang J, Hope K, Niu Q, Huo D, Olopade OI. Screening RAD51C nucleotide alterations in patients with a family history of breast and ovarian cancer. Breast Cancer Res Treat 2010: 124: 857 ­ 861.
+9. Johnson J, Healey S, Khanna KK, Chenevix-Trench G. Mutation analysis of RAD51L1 (RAD51B/REC2) in multiple-case, non-BRCA1/2 breast cancer families. Breast Cancer Res Treat 2011: 129: 255­263.
+10. Romero A, Perez-Segura P, Tosar A et al. A HRM-based screening method detects RAD51C germ-line deleterious mutations in Spanish breast and ovarian cancer families. Breast Cancer Res Treat 2011: 129: 939 ­ 946.
+11. Pelttari LM, Heikkinen T, Thompson D et al. RAD51C is a susceptibility gene for ovarian cancer. Hum Mol Genet 2011: 20: 3278 ­ 3288.
+12. Thompson ER, Boyle SE, Johnson J et al. Analysis of RAD51C germline mutations in high-risk breast and ovarian cancer families and ovarian cancer patients. Hum Mutat 2012: 33: 95­99.
+13. Coulet F, Pires F, Rouleau E et al. A one-step prescreening for point mutations and large rearrangement in BRCA1 and BRCA2 genes using quantitative polymerase chain reaction and high-resolution melting curve analysis. Genet Test Mol Biomarkers 2010: 14: 677­690.
+14. Silvestri V, Rizzolo P, Falchetti M et al. Mutation screening of RAD51C in male breast cancer patients. Breast Cancer Res 2011: 13: 404.
+15. Loveday C, Turnbull C, Ruark E et al. Germline RAD51C mutations confer susceptibility to ovarian cancer. Nat Genet 2012: 44: 475­476.
+16. Walsh T, Casadei S, Lee MK et al. Mutations in 12 genes for inherited ovarian, fallopian tube, and peritoneal carcinoma identified by massively parallel sequencing. Proc Natl Acad Sci U S A 2011: 108: 18032­18037.
+17. Fong PC, Boss DS, Yap TA et al. Inhibition of poly(ADP-ribose) polymerase in tumors from BRCA mutation carriers. N Engl J Med 2009: 361: 123­134.
+
+336
+
+

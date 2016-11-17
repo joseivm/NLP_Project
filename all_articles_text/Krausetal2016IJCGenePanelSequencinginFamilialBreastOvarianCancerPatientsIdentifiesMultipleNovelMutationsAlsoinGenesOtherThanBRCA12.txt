@@ -1,0 +1,341 @@
+IJC
+International Journal of Cancer
+Gene panel sequencing in familial breast/ovarian cancer patients identifies multiple novel mutations also in genes others than BRCA1/2
+Cornelia Kraus1, Juliane Hoyer1, Georgia Vasileiou1, Marius Wunderle2, Michael P. Lux2, Peter A. Fasching2, Mandy Krumbiegel1, Steffen Uebe1, Miriam Reuter1, Matthias W. Beckmann2 and Andre Reis1
+1 Institute of Human Genetics, University Hospital Erlangen, Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany 2 Department of Gynecology and Obstetrics, University Hospital Erlangen, Comprehensive Cancer Center Erlangen-EMN,
+Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Erlangen, Germany
+
+Cancer Genetics and Epigenetics
+
+Breast and ovarian cancer (BC/OC) predisposition has been attributed to a number of high- and moderate to low-penetrance susceptibility genes. With the advent of next generation sequencing (NGS) simultaneous testing of these genes has become feasible. In this monocentric study, we report results of panel-based screening of 14 BC/OC susceptibility genes (BRCA1, BRCA2, RAD51C, RAD51D, CHEK2, PALB2, ATM, NBN, CDH1, TP53, MLH1, MSH2, MSH6 and PMS2) in a group of 581 consecutive individuals from a German population with BC and/or OC fulfilling diagnostic criteria for BRCA1 and BRCA2 testing including 179 with a triple-negative tumor. Altogether we identified 106 deleterious mutations in 105 (18%) patients in 10 different genes, including seven different exon deletions. Of these 106 mutations, 16 (15%) were novel and only six were found in BRCA1/2. To further characterize mutations located in or nearby splicing consensus sites we performed RT-PCR analysis which allowed confirmation of pathogenicity in 7 of 9 mutations analyzed. In PALB2, we identified a deleterious variant in six cases. All but one were associated with early onset BC and a positive family history indicating that penetrance for PALB2 mutations is comparable to BRCA2. Overall, extended testing beyond BRCA1/2 identified a deleterious mutation in further 6% of patients. As a downside, 89 variants of uncertain significance were identified highlighting the need for comprehensive variant databases. In conclusion, panel testing yields more accurate information on genetic cancer risk than assessing BRCA1/2 alone and wide-spread testing will help improve penetrance assessment of variants in these risk genes.
+
+With some 70,000 new cases currently being diagnosed annu-
+ally, breast cancer (BC) is by far the most common form of cancer among women in Germany.1 Increasingly genetic
+information is not only used for disease risk management in
+healthy individuals, but also for treatment decisions in patients with breast and ovarian cancer.2,3
+A family history of BC is considered a significant risk fac-
+tor to develop the disease and about 15% of women
+
+diagnosed with BC have at least one first degree relative with breast cancer.4 Germline mutations in BRCA1 and BRCA2
+can be found in approximately 24% of families with heredi-
+tary breast and/or ovarian cancer (BC/OC) with highest
+mutation frequencies in families with at least two OCs
+(41.9%) and families with at least one BC and one OC (41.6%).5 Therefore, a large portion of this patient population
+with BC/OC has another cause of hereditary cancer, likely
+
+Key words: breast cancer, ovarian cancer, next generation sequencing, gene panel, non-BRCA1/2 Abbreviations: BC: breast cancer; BIC: Breast Cancer Information Core; CNV: copy number variant; DNA: deoxyribonucleic acid; ER: estrogen receptor; ExAc: Exome Aggregation consortium; GATK: Genome Analysis Tool Kit; GC-HBOC: German Consortium of Hereditary Breast and Ovarian Cancer; HER2: human epidermal growth factor receptor 2; HSF: human splice finder; LOVD: Leiden Open Variant Database; MLPA: multiplex ligation-dependent probe amplification; NGS: next generation sequencing; NTNBC: non triple negative breast cancer; OC: ovarian cancer; PCR: polymerase chain reaction; PGR: progesterone receptor; PolyPhen-2: prediction of functional effects of human nsSNPs; RNA: ribonucleic acid; RT: reverse transcription; SIFT: Sorting Intolerant from Tolerant; SNP: single nucleotide polymorphism; TNBC: triple negative breast cancer; UMD: Universal Mutation database; VUS: variant of uncertain significance Additional Supporting Information may be found in the online version of this article. Peter Fasching has a potential financial conflict of interest as follows: Peter A. Fasching received honoraria from Novartis, Pfizer, Roche and Celgene. Peter A. Fasching's institution received research funding from Novartis. DOI: 10.1002/ijc.30428 History: Received 27 July 2016; Accepted 26 Aug 2016; Online 12 Sep 2016 Correspondence to: Cornelia Kraus, Institute of Human Genetics, Friedrich-Alexander-Universitat Erlangen-Nurnberg (FAU), Schwabachanlage 10, 91054 Erlangen, Germany, Tel.: 149 9131 8522318, Fax: 149 9131 8523232, E-mail: cornelia.kraus@uk-erlangen.de
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+2 Gene panel sequencing in familial breast/ovarian cancer patients [AQ]
+
+What's new? Breast and ovarian cancer predisposition has been attributed to a number of high- and moderate to low-penetrance susceptibility genes. With the advent of next generation sequencing, simultaneous testing of these genes has become feasible. In this monocentric study of cancer patients, gene panel testing of 12 non-BRCA1/2 genes increased mutation yield by 5.5% compared to BRCA1/2 alone, allowing identification of 10 novel mutations and more accurate assessment of genetic cancer risk. PALB2, which was the second most frequently mutated non-BRCA1/2 gene, seemed to have a penetrance comparable to BRCA2. Next generation sequencing data also allowed detection of single exon deletions.
+
+Cancer Genetics and Epigenetics
+
+due to a mutation in other high- to low-penetrance susceptibility genes.6,7 Although germline mutations in other recognized BC susceptibility genes have been identified, mutations in any one of these genes are rare; thus, testing 1 gene at a time is both inefficient and expensive. With the advent of next-generation sequencing (NGS), simultaneous testing of multiple BC/OC or other cancer susceptibility genes is available through multiplex panels providing a cost effective way of testing.8 However, parallel testing of multiple genes leads to the identification of genetic changes for which clinical management is less clear, but additional information will eventually allow modification of management and screening guidelines.9
+In our monocentric study, we used the TruSight Sequencing Cancer Panel on a MiSeq platform (Illumina) to analyze the 10 core genes (BRCA1/2, ATM, CHEK2, PALB2, RAD51C, RAD51D, NBN, CDH1, TP53) recommended by the German Consortium of Hereditary Breast and Ovarian Cancer (GCHBOC)4 and four additional genes (MLH1, MSH2, MSH6, PMS2) associated with an increased ovarian cancer risk to assess the frequency of individuals with mutations in other genes than BRCA1/2 and their individual cancer and family history.
+Patients and Methods
+Patients All 581 patients from a German population (about 90% of individuals of German origin) with BC and/or OC analyzed were referred for diagnostic purposes to our interdisciplinary outpatient clinic and fulfilled diagnostic criteria for BRCA1 and BRCA2 diagnostic testing established by the German Consortium for Breast and Ovarian Cancer.10 One hundred and seventy-nine patients had a triple negative breast cancer (TNBC), defined as neither showing expression of estrogen receptor (ER) and progesterone receptor (PGR) nor human epidermal growth factor receptor 2 (HER2). All patients gave their informed consent for diagnostic testing of all genes indicated. Clinical data including personal and family cancer histories, cancer histology and receptor status were collected.
+Next generation sequencing and CNV analysis Genomic DNA was extracted according to standard procedures with an automated chemagic MSM I system (Perkin Elmer, Baesweiler, Germany). For library preparation in NGS, we used a commercially available targeted resequencing
+
+kit, the TruSight Cancer Sequencing Panel, on a MiSeq platform (Illumina, San Diego, CA). All procedures were performed according to the manufacturers' instructions. In brief, library preparation was done using 50 ng of genomic DNA per sample with the TruSight Rapid Capture and the TruSight Cancer kit. The libraries containing double-strand DNA were then denatured into single-strand DNA. Biotin-labeled probes were hybridized to the targeted region for the first rapid capture. The pool of mixed samples was enriched for the target regions by adding streptavidin beads. Biotinylated DNA fragments that were combined with the streptavidin beads were pulled down magnetically from the solution. The enriched DNA fragments were then eluted from the beads and hybridized for the second rapid capture. The prepared library was applied to MiSeq Flowcell for sequencing. Paired sequences obtained from each sample were mapped to human genome reference GRCh37/hg19 using BWA-MEM version 0.7.7.11 Duplicates were marked with picard (https:// github.com/broadinstitute/picard) MarkDuplicates version 1.111, and local InDel realignment was performed with the Genome Analysis Tool Kit (GATK) version 3.1.1.12 The TruSight Cancer panel includes 94 genes associated with both common (e.g., breast, colorectal) and rare cancers. Out of these, we analyzed 14 genes (BRCA1/2, ATM, CHEK2, PALB2, RAD51C, RAD51D, NBN, CDH1, TP53, MLH1, MSH2, MSH6, PMS2) with the SeqNext module of the Sequence Pilot software (JSI medical systems GmbH, Kippenheim, Germany). A medium sequence depth of 400x was obtained with a minimum of 30x for the coding regions and the first 10 bp of flanking intronic regions. Only 7 fragments (CDH2 exon 2, RAD51D exon 1 and 5, MSH2 exon 1, MSH6 exon 1, part of TP53 exon 4 and part of PMS2 exon 11) did not fulfill these criteria and were reanalyzed by conventional Sanger Sequencing.
+For detection of copy number variants (CNVs), the SeqNext CNV analysis module from the Sequence Pilot software package was used to calculate copy number. All coding exons of the genes analyzed served both as control and targets with the analysis mode being "all versus all." CNVs identified were confirmed by multiplex ligation-dependent probe amplification (MLPA) analyses using the appropriate SALSA MLPA kits (BRCA1: P002; RAD51C: P260; CHEK2: P190) (MRC Holland, Amsterdam, The Netherlands) according to the manufacturer's instructions. Separation of fragments was
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+Kraus et al.
+
+3
+
+Cancer Genetics and Epigenetics
+
+performed on an ABI 3100 genetic analyzer (Life technologies, Carlsbad, CA) and allele dosage was assessed using the MLPA module of the Sequence Pilot software (JSI medical systems, Kippenheim, Germany).
+In silico analysis To predict the potential role of the identified nonsynonymous germline variants on protein function we used 5 webbased algorithms: UMD-Predictor,13 SIFT,14 Polyphen-2,15 Mutationtaster16 and additionally, ALIGN-GVGD.17,18 Splice site mutations were tested by three different web-based splicing effect prediction tools, BDGP: Splice Site Prediction by Neural Network19 and NetGene2 Server.20,21 Additionally, we employed the Human Splice Finder (HSF 3.0) algorithm22 to compare splicing probabilities for wild type and mutated sequences. Frequencies of variants were compared with European­American and African­American control samples from the Exome Variant Server online database23 and with 60,706 unrelated individuals sequenced as part of various diseasespecific and population genetic studies of the Exome Aggregation Consortium (ExAC)24 to exclude rare polymorphisms.
+RT-PCR analysis Total RNA was isolated from fresh peripheral blood extracted using the PAXgene Blood RNA System (PreAnalytiX) according to the manufacturer's recommendations. First-strand cDNA was synthesized from 1 to 2 lg of RNA using the SuperScript III First-Strand Synthesis System (Invitrogen). Of a total of 20 ll reaction volume, 1 ll was used as template to amplify transcripts using primer pairs spanning different exon-exon junctions. Amplicons were directly sequenced using the ABI BigDye Terminator v3.1 Sequencing Kit (Life Technologies) on an automated capillary sequencer (ABI 3730, Life Technologies).
+Results
+Germline DNA-variants We used a next generation sequencing based gene panel to simultaneously detect variants in 14 known high and moderate penetrance BC/OC susceptibility genes (BRCA1/2, ATM, CHEK2, PALB2, RAD51C, RAD51D, NBN, CDH1, TP53, MLH1, MSH2, MSH6, PMS2). We investigated 581 patients in a diagnostic setting, 179 of them with a triple-negative tumor (TNBC). Variants were classified as deleterious or probably deleterious if they were previously reported as pathogenic, resulted in a premature termination codon or affected the conserved splice site regions. Variants outside the consensus splice sites were further characterized by RT-PCR analyses.
+Overall, we identified 106 deleterious mutations in 105 patients in 10 genes (Supporting Information Tables 1 and 2) confirming the clinical diagnosis of familial breast/ovarian cancer in 18% of them. Seventy-two patients (12.4%) carried a mutation in BRCA1/2, while in 32 patients (5.5%) deleterious mutations in a different BC/OC susceptibility gene were
+
+detected. The most frequently mutated were CHEK2 (n 5 10; 1.7%), PALB2 (n 5 6; 1.0%), NBN (n 5 6; 1.0%) and RAD51C (n 5 5; 0.9%) followed by ATM (n 5 3; 0.5%), TP53 (n 5 2; 0.3%), RAD51D (n 5 1; 0,2%) and MSH6 (n 5 1; 0.2%). Only the patient with the TP53 mutation p.(Arg282Pro) fulfilled clinical criteria for Li­Fraumeni syndrome (Supporting Information Table 2). While in CHEK2 and NBN the most commonly found mutations were the moderate risk founder alleles c.1100delC (n 5 6) and c.657_661del5 (n 5 3), respectively, all 6 deleterious PALB2 mutations were found only once. Of the 179 patients with a triple-negative tumor, 33 (18.4%) carried a deleterious germline mutation. Interestingly, only half of them (16; 8.9%) harbored a deleterious BRCA1 mutation, whereas in 9 (5.0%) a deleterious BRCA2 mutation was found. In 8 (4.5%) patients a deleterious mutation in another gene tested, 2 mutations in RAD51C, 2 in PALB2, and one each in ATM, NBN, RAD51D and MSH6 was identified. The distribution of BRCA1/2 mutations across the different classes of patients based on family breast and ovarian cancer history is comparable to that recently reported by the German consortium.5 In the group of the non-BRCA1/2 mutation carriers the distribution was similar to the BRCA1/ 2 carriers with perhaps the exception of a higher prevalence in families with 3 females with BC older than 51 years (Supporting Information Table 3). The mean age of cancer diagnosis for BRCA1/2 mutation carriers was 46 years (23­78 years) compared to 50 years (30­77) for non-BRCA1/2 mutation carriers. In addition, 89 variants from 82 patients were classified as of uncertain significance (VUS), 10 in BRCA1, 19 in BRCA2 and 60 in the other 10 genes, while none was found in MSH2 and MSH6 (Supporting Information Table 4).
+Novel mutations Of the 106 deleterious mutations identified, 16 (15%) were novel including six (5.7%) in BRCA1/2 not yet reported in BIC or other BRCA1/2 associated databases (Table 1). Of these, five caused a frameshift and one was a genomic deletion mutation. Three were found in patients younger than 50 years at time of diagnosis, one in a patient with ovarian cancer at age 75 years and two in patients with a triple-negative tumor at age 60 and 78 years, respectively. All but one woman with a TNBC had a positive family history (Table 1).
+Most novel mutations (n 5 10; 9.4%) were identified in other BC/OC susceptibility genes, including 1 nonsense, 1 frameshift and 1 splice site mutation in PALB2. All three PALB2 mutation carriers were younger than 50 years at diagnosis. Two had a positive family history with at least two affected individuals mostly younger than 50 years and one presented with a triple-negative tumor. These data suggest that the penetrance for PALB2 mutations might be higher than previously reported.
+Similarly, patients with either a frameshift (n 5 2) or a splice site mutation in NBN as well as a splice-site mutation in CHEK2 were relative young at time of diagnosis (35­52 years) with a positive family history (Table 1). All tumors
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+4 Gene panel sequencing in familial breast/ovarian cancer patients [AQ]
+
+Cancer Genetics and Epigenetics
+
+Table 1. Novel deleterious mutations identified in this study
+
+Gene
+
+cDNA-change
+
+predicted AA-change
+
+BRCA1 c.1673_1674delAA
+
+p.(Lys558Argfs*2)
+
+Mutation type frameshift mutation
+
+Clinical features (age at diagnosis)
+NTNBC (35)
+
+BRCA1 BRCA1 BRCA2 BRCA2
+
+c.5113_5114delCT c. (81-?_51931?)del c.6211delA c.7984dupA
+
+p.(Leu1705Argfs*10)
+p.(Ser2071Valfs*10) p.(Thr2662Asnfs*4)
+
+frameshift mutation Exon 3 ­ 19 deletion* frameshift mutation frameshift mutation
+
+NTNBC (34) OC (75) TNBC (78) NTNBC (42)
+
+BRCA2 CHEK2
+NBN NBN
+
+c.8992_9025del34 c.592 1 3A>T
+c.2028delT c.1397 1 1delG
+
+p.(Ser2998Ilefs*19)
+I: p.(Glu149Phefs*7) II: p.(Glu149Trpfs*16) p.(Asn676Lysfs*7) p.(Ser415Argfs*18)
+
+frameshift mutation splice site mutation
+frameshift mutation splice site mutation
+
+NBN PALB2
+
+c.2097dupT c.1046delA
+
+p.(Pro700Serfs*42) p.(Asn349Ilefs*7)
+
+frameshift mutation frameshift mutation
+
+PALB2
+
+c.109-12T>A
+
+p.(Arg37Serfs*9)
+
+splice site mutation
+
+PALB2 RAD51C
+
+c.3165C>A c.(966-?_11311?)del
+
+p.(Tyr1055*)
+
+nonsense mutation Exon 8-9 deletion
+
+RAD51C RAD51D
+
+c.994C>T c.577-2A>G
+
+p.(Gln332*) p.(Val139Lysfs*6)
+
+nonsense mutation splice site mutation
+
+TNBC (60) NTNBC (46)
+NTNBC (43) NTNBC (35)
+NTNBC (52) NTNBC (35)
+BC (44)
+TNBC (47) OC (62)
+bilateral OC (63) TNBC (52)
+
+Breast/Ovarian cancer family history
+mother, BC (51); mat. aunt, BC (<50); father, bilateral BC (60)
+n.a.
+mat. aunt, BC (50)
+sister, BC (52)
+sister, BC (31); pat. grandmother, bilateral BC (?); pat. grandaunt, BC (?)
+None
+mat. grandmother, BC (74)
+mother, BC (52)
+mother, BC (45); mat. aunt, BC (>50)
+mat. aunt, BC 59)
+mother, BC (45); mat. aunt, BC (>50)
+pat. cousin, BC (46); pat. aunt, BC (50)
+None
+mother, OC (72);mat. grandmother, OC (78)
+sister, BC (46)
+None
+
+Reference sequence: BRCA1: NM_007294; BRCA2: NM_000059; CHEK2: NM_007194; NBN: NM_002485; PALB2: NM_024675; RAD51C: NM_058216; RAD51D: NM_002878. Abbreviations: BC: breast cancer; OC: ovarian cancer; TNBC: triple-negative breast cancer; NTNBC: non-triple-negative breast cancer; n.a.: not available; mat.: maternal; pat.: paternal; * exact breakpoints were not determined but flanking exons were detectable.
+
+were non-TNBC (NTNBC). One nonsense mutation and one genomic deletion in RAD51C were detected in patients with ovarian cancer and positive family history including BC. Finally, one splice site mutation in RAD51D was found in a woman with TNBC at age 52 (Table 1). This suggests that both RAD51C and RAD51D can be associated not only with ovarian cancer but also with BC as a first manifestation.
+RT-PCR analysis To further characterize variants located in or nearby the consensus splice sites, we performed RT-PCR on mRNA obtained from freshly drawn blood samples using PAXgene tubes. Of the nine putative splice site variants analyzed we could confirm aberrant splicing in seven of them suggesting that these are bona fide mutations (Table 2 and Fig. 1). For the novel PALB2 mutation c.109-12T > A we could verify the insertion of a novel splice acceptor site resulting in a 10 bp insertion 50 of exon 3 (Table 2, Fig. 1c). We also analyzed two putative splice site mutations in CHEK2 (c.320-5T > A and c.592 1 3A > T), not reported so far. For the A > T
+
+exchange at position 13 in intron 4 we could clearly show that the substitution results in two different shortened transcripts, one lacking exon 4 and another lacking exon 4 and 5 (Table 2, Fig. 1d). The variant c.320-5T > A in intron 3, although, remained unclear. In RT-PCR analysis was identified an in frame transcript variant lacking exon 3 and 4, which was expected to be stably expressed as no premature stop codon resulted (Table 2, Fig. 1e). Nevertheless, the amount of the shortened transcript compared to wild type was <20% (Fig. 1e) suggesting that this variant reduces but does not eliminate the usage of the constitutive splice acceptor and can therefore be regarded as a hypomorphic allele.
+For the novel RAD51D variant c.557-2A > G in intron 6 we could demonstrate the usage of a cryptic splice acceptor site 41 bp upstream resulting in a 41 bp insertion 50 of exon 7 (Table 2). For the NBN 1 bp deletion c.1397 1 1delG in intron 10 we could demonstrate the usage of an upstream cryptic splice donor site, resulting in a 154 bp deletion 30 of exon 10 (Table 2). The variant c.5406 1 4A > G in BRCA1, which is not listed in BIC or UMD-BRCA1 mutation
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+Kraus et al.
+
+5
+
+Cancer Genetics and Epigenetics
+
+Figure 1. Analysis of putative splice-site variants by RT-PCR analysis. Partial genomic structure of the indicated genes with sequence traces of both wildtype and mutant sequence after RT-PCR on mRNA obtained from fresh peripheral blood samples. Blue lines indicated exonskipping or intron insertion in the mutant alleles. All variants shown resulted in aberrant splicing confirm that they are bona-fide mutations except the CDH1 variant which resulted in a normal transcript suggesting that this is a benign variant.
+
+databases, so far, was already published as disease causing mutation.25 By RT-PCR analysis we could confirm that the A to G change at position 14 in intron 22 results in out-offrame skipping of exon 22 (Table 2). The BRCA2 variant c.8486A > G in exon 19 has been previously described at the
+
+genomic level,26 although the functional consequences on pre-mRNA splicing were unclear. This substitution A > G next to the last nucleotide of exon 19 causes an in-frame skipping of this exon (Table 2, Fig. 1b). Although this is predicted to result in a protein lacking 51 amino acids, we
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+6 Gene panel sequencing in familial breast/ovarian cancer patients [AQ]
+
+Cancer Genetics and Epigenetics
+
+Table 2. Results of RT-PCR analysis
+
+Gene BRCA1 BRCA2 CDH1 CHEK2
+
+Reference sequence NM_007294 NM_000059 NM_004360 NM_007194
+
+Intron/Exon intron 22 exon 19 intron 15 intron 3
+
+CHEK2
+
+NM_007194 intron 4
+
+NBN PALB2 RAD51C RAD51D
+
+NM_002485 NM_024675 NM_058216 NM_002878
+
+intron 10 intron 2 intron 8 intron 6
+
+cDNA-change c.5406 1 4A>G c.8486A>G c.[2440-6C>G; 2634C>T] c.320-5T>A
+c.592 1 3A>T
+c.1397 1 1delG c.109-12T>A c.1026 1 5_1026 1 7delGTA c.557-2A>G
+
+RNA-change r.5333_5406del r.8332_8487del156 r.2634C>T r.320_592delhypomorphic allele I: r.445_592del II: r.445_683del r.1244_1397del r.108_109ins10 r.966_1026del61 r.576_577ins41
+
+predicted consequence p.(Asp1778Glyfs*27) p.(Ile2278_Glu2829del) none p.(Glu107_Val197del)
+I: p.(Glu149Phefs*7) II: p.(Glu149Trpfs*16) p.(Ser415Argfs*18) p.(Arg37Serfs*9) p.(Arg322Thrfs*22) p.(Val139Lysfs*6)
+
+classified this variant as a mutation since another variant at the same position (c.8486A > T) results in the same exon skipping and is considered pathogenic.27 The CDH1 variant c.2440-6C > G in intron 15 is controversially discussed in literature. More et al. described this variant in a patient with diffuse gastric cancer.28 By gel electrophoresis of the RT-PCR products they identified a suspicious splicing pattern and therefore classified this variant as disease causing. In contrast, two other groups could not confirm this result.29,30 Furthermore, Grodecka et al. excluded the segregation of the mutation with gastric cancer in the family analyzed.30 By RT-PCR analysis and subsequent Sanger sequencing we could not identify an aberrant splicing product. Moreover, analysis of a heterozygous SNP at mRNA level demonstrated that both alleles are transcribed excluding haploinsufficiency, at least in blood (Table 2, Fig. 1a). Therefore, the variant c.2440-6C > G should be considered a rare polymorphism.
+CNV analysis One of the big advantages of ultra-deep sequencing is the possibility to use the data also for detection of copy number variants (CNVs), which are mostly missed when using conventional Sanger sequencing. We thus used the SeqNext module of the Sequence Pilot software to detect single exon deletions. Based on this analysis, we identified seven different heterozygous exon deletions in three different genes, five deletions in BRCA1, one in CHEK2 and one in RAD51C (Supporting Information Fig. 1). Overall, 6.6% (7/106) of all mutations and 12.8% (5/39) of BRCA1 mutations, respectively, were genomic deletions. All deletions were confirmed by MLPA analysis (data not shown).
+Discussion Mutation detection has relied mostly on Sanger sequencing which is cumbersome and expensive and has been focused mostly on high-risk genes such as BRCA1 and BRCA2. Thus, the investigation of other contributing genes has been limited to individual research studies or to specific subgroups of
+
+tumors, for example, RAD51C in ovarian cancer. We now present data from 581 consecutive breast and/or ovarian cancer (BC/OC) patients investigated in our diagnostic laboratory for 14 risk-genes with ultra-deep sequencing using a commercial gene panel. Overall, we identified a deleterious mutation in 18% of our patients. The mutation prevalence for BRCA1 and BRCA2 was 12.4%, indicating that gene panel sequencing increased the detection rate by 5.5%. We especially identified non-BRCA1/2 mutations in patients with a positive family history and/or a young age at diagnosis, suggesting that a larger gene panel identifies the mutation in more familial cases than BRCA1/2 alone. This has implications both for the treatment of the patients and for carrier testing of family members. However, established guidelines for further treatment for some genes included in panel tests have yet to be established, highlighting the necessity to further clinically investigate these patients. Given that the mutation frequency in these genes is much lower than for BRCA1/ 2, collaborative work and data sharing from many groups around the world will be required, in order to reach the necessary number of cases.
+Some variants identified affect possible splicing sites and are therefore often difficult to interpret just at the genomic DNA-level. We took advantage that these genes are ubiquitously expressed to investigate possible effects of these variants on mRNA splicing from easily accessible peripheral blood. As mRNA is notoriously unstable, we used PAXgene tubes for stabilizing RNA immediately after drawing the samples. The subsequent RT-PCR analysis allowed to unambiguously characterize 8 of 9 variants analyzed (Fig. 1). All but one could be classified as deleterious (IARC class 5), while one CDH1 variant could be classified as benign (IARC class 1). One CHEK2 variant could not be unequivocally classified as the RT-PCR analysis identified only 20% of the mutant transcript indicating continued usage of the constitutive splice acceptor site which led to the classification as a probably hypomorphic allele (Table 2). This analysis allowed the classification of variants that would otherwise be classified as
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+Kraus et al.
+
+7
+
+Cancer Genetics and Epigenetics
+
+Table 3. Molecular and clinical characteristics of patients with deleterious PALB2 mutations
+
+cDNA-change
+
+Predicted AA-change
+
+Clinical features (age at diagnosis)
+
+Breast/Ovarian cancer family history
+
+c.1046delA
+
+p.(Asn349Ilefs*7)
+
+NTNBC (35)
+
+mother, BC (45);mat. aunt, BC (>50)
+
+c.109-12T>A
+
+p.(Arg322Thrfs*22) BC (44)
+
+pat. cousin, BC (46);pat. aunt, BC (50)
+
+c.1227_1231delTGTTA p.(Tyr409*)
+
+TNBC (44)
+
+pat. aunt, BC (60)
+
+c.1712delA c.172_175delTTGT
+
+p.(Asp571Valfs*28) NTNBC (44)
+
+p.(Gln60Argfs*7)
+
+NTNBC (50)
+
+c.3165C>A
+
+p.(Tyr1055*)
+
+TNBC (47)
+
+mother, BC (77),pat. grandmother, BC (?)
+sister, BC (50); mother, BC (80); mat. aunt, BC (?);mat. grandmother, BC 62)
+none
+
+Other familial cancers mat. grandfather, Liver
+(<79) pat. aunt, leukemia (72);mat. grandmother, stomach (70) patient, melanoma (24);father, colon (65) father, stomach (70)
+none
+none
+
+Reference this study this study
+LOVD LOVD Jones et al.
+2009
+this study
+
+Reference sequence: NM_024675. Abbreviations: BC: breast cancer; TNBC: triple-negative breast cancer; NTNBC: non-triple-negative breast cancer; OC: ovarian cancer; mat.: maternal; pat.: paternal; LOVD3: Leiden Open Variation data base.
+
+VUS into a more definite category (either IARC class 5 or IARC class 1).
+Analysis of ultra-deep sequencing data provided by NGS technologies allows a more comprehensive mutation screening compared to conventional Sanger sequencing as the data generated is also suitable for detection of genomic aberrations (CNVs), such as single exon deletions or duplications that can otherwise only be identified through a dedicated MLPA analysis. This is especially relevant, as 6.7% of all mutations and up to 10% of the BRCA1 mutations identified were such genomic rearrangements (Supporting Information Table 1 and Fig. 1). The fact that we could validate all deletions identified with MLPA analysis indicates that panel testing with sufficient sequencing depth and using appropriate software is a reliable method for the identification of CNVs.
+After BRCA1/2, PALB2 was among the most frequently mutated genes (n 5 6; 5.7%). Previous studies of familial BC have estimated the risk associated with PALB2 loss-offunction mutations being 2­4 times higher than that of nonmutation carriers.31,32 In our study group, however, the average age at diagnosis was 45 years ranging from 35 to 50 and all but one had a positive family history with two or more affected relatives and/or at least one first degree relative being affected with BC before the age of 50 years (Table 3). All together our data indicate a higher penetrance for PALB2 mutations than previously reported. This is in accordance with Antoniou et al. who suggested that the BC risk for lossof-function PALB2 mutations carriers overlap with that for BRCA2 mutation carriers.34
+Finally, in our approach we also identified one nonsense mutation in MSH6 in a woman with TNBC and BC as well as unspecified female genital cancer in her mother but no case of ovarian or colon cancer in the family history. This gene was
+
+so far associated with ovarian cancer35 but not with BC and has thus not been comprehensively evaluated in individuals affected only with BC. Although we cannot exclude that this association is a spurious observation, this case might be an indication of a broader variability of the clinical presentation associated with mutations in mismatch repair genes. This may be underdiagnosed, as to date targeted sequencing is generally performed only in cases fulfilling Amsterdam II criteria. With the advent of panel sequencing, the parallel screening of these genes is easily possible and should be encouraged.
+Some variants described in the literature to be associated with BC should be reclassified based on our data and that of others. This includes the NBN p.(Ile171Val) variant which was found in 1.03% of our study group and is found in the ExAc database with a frequency of 0.14%.36 The CHEK2 variant p.(Ile157Thr) which was reported with an OR ranging from 1.5 to 1.85 in a GWAS meta analysis37 was found in 1.5% of individuals in our study group and 0.4% in European in the ExAc database. Even several individuals were reported as homozygous (Europeans 4x, Finnish 2x). Therefore, this variant should be considered a low risk factor and not a bona fide mutation.
+The major challenge of the parallel analysis of multiple genes is an increased detection of VUS which are difficult to clarify as familial segregation is of reduced value given the reduced penetrance of variants in these genes. Functional testing, where available, analysis of familial segregation and parallel analysis of tumor DNA as well as data sharing in large repositories will eventually help improve interpretation of these VUS. The identification of further affected mutation carriers will also allow better assessment of their penetrance and thus improve clinical management and genetic counseling of these patients.
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+Cancer Genetics and Epigenetics
+
+8 Gene panel sequencing in familial breast/ovarian cancer patients [AQ]
+
+Given the marked increase in mutation yield when using an NGS-based gene panel containing 12 non-BRCA1/2 genes our data suggest that genetic testing in women affected with BC/OC should be extended beyond the high-penetrance risk genes BRCA1 and BRCA2. CHEK2 and PALB2 were the most frequently mutated non-BRCA1/2 genes in our series. Based on the young age of first manifestation and the positive family history the penetrance of PALB2 seems comparable to BRCA2 therefore we recommend reassignment to the group
+
+of high-penetrance risk genes. Further studies assessing these and other risk genes will help improve the optimal composition of gene panels and also interpretation of sequence variants in order to reliably diagnose all genetic causes of familial breast and ovarian cancer.
+Acknowledgement
+We thank Leonora Klassen, Nicole Kretschmann, Andrea Eberwein and Judith Zieroff for expert technical assistance.
+
+References
+
+1. Cancer in Germany 2009/2010. 9th edition. Robert Koch Institute (ed.) and the Association of Population-based Cancer Registries in Germany (ed.). Berlin, 2014.
+2. Maass N, Schutz F, Fasching PA, et al. Breast Cancer Update 2014--focus on the patient and the tumour. Geburtshilfe Frauenheilkd 2015;75: 170­82.
+3. Fasching PA, Brucker SY, Fehm TN, et al. Biomarkers in Patients with Metastatic Breast Cancer and the PRAEGNANT Study Network. Geburtshilfe Frauenheilkd 2015;75: 41­50.
+4. Meindl A, Ramser J, Hauke J, et al. Genetik des familiaren Brust- und Eierstockkrebses: paneldiagnostik- Moglichkeiten und Grenzen. Medgen 2015;27:202­10. E,
+5. Kast K, Rhiem K, Wappenschmidt B, et al. Prevalence of BRCA1/2 germline mutations in 21 401 families with breast and ovarian cancer. J Med Genet 2016;53:465­71.
+6. Walsh T, Casadei S, Lee MK, et al. Mutations in 12 genes for inherited ovarian, fallopian tube, and peritoneal carcinoma identified by massively parallel sequencing. Proc Natl Acad Sci USA 2011;108:18032­7.
+7. Kean S. Breast cancer. The 'other' breast cancer genes. Science 2014;343:1457­9.
+8. Walsh T, Lee MK, Casadei S, et al. Detection of inherited mutations for breast and ovarian cancer using genomic capture and massively parallel sequencing. Proc Natl Acad Sci USA 2010;107: 12629­33.
+9. Couch FJ, Nathanson KL, Offit K. Two decades after BRCA: setting paradigms in personalized cancer care and prevention. Science 2014;343: 1466­70.
+10. Wockel A, Kreienberg R. First revision of the German S3 guideline 'diagnosis, therapy, and follow-up of breast cancer'. Breast Care 2008;3: 82­6.
+11. Li H. Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM. arXiv 2013;13033997 [q-bioGN]
+12. McKenna A, Hanna M, Banks E, et al. The genome analysis toolkit: a mapreduce framework for analyzing next-generation DNA sequencing data. Genome Res 2010;20: 1297­303.
+13. Salgado D, Desvignes JP, Rai G, et al. UMD-predictor: a high-throughput sequencing compliant
+
+system for pathogenicity prediction of any human cDNA substitution. Hum Mutat 2016;37:439­46. 14. Kumar P, Henikoff S, Ng PC. Predicting the effects of coding non-synonymous variants on protein function using the SIFT algorithm. Nat Protoc 2009;4:1073­81. 15. Adzhubei IA, Schmidt S, Peshkin L, et al. A method and server for predicting damaging missense mutations. Nat Methods 2010;7:248­9. 16. Schwarz JM, Cooper DN, Schuelke M, et al. MutationTaster2: mutation prediction for the deep-sequencing age. Nat Methods 2014;11:361­2. 17. Tavtigian SV, Deffenbaugh AM, Yin L, et al. Comprehensive statistical study of 452 BRCA1 missense substitutions with classification of eight recurrent substitutions as neutral. J Med Genet 2006;43:295­305. 18. Mathe E, Olivier M, Kato S, et al. Computational approaches for predicting the biological effect of p53 missense mutations: a comparison of three sequence analysis based methods. Nucleic Acids Res 2006;34:1317­25. 19. Reese MG, Eeckman FH, Kulp D, et al. Improved splice site detection in Genie. J Comput Biol 1997;4:311­23. 20. Brunak S, Engelbrecht J, Knudsen S. Prediction of human mRNA donor and acceptor sites from the DNA sequence. J Mol Biol 1991;220:49­65. 21. Hebsgaard SM, Korning PG, Tolstrup N, et al. Splice site prediction in Arabidopsis thaliana premRNA by combining local and global sequence information. Nucleic Acids Res 1996;24:3439­52. 22. Desmet FO, Hamroun D, Lalande M, et al. Human Splicing Finder: an online bioinformatics tool to predict splicing signals. Nucleic Acids Res 2009;37:e67. 23. Exome Variant Server, NHLBI GO Exome Sequencing Project (ESP), Seattle, WA. Available at: http://evs.gs.washington.edu/EVS/ (accessed on June 2016). 24. Exome Aggregation Consortium (ExAC), Cambridge, MA. Available at: http://exac. broadinstitute.org (accessed on June 2016). 25. Wappenschmidt B, Becker AA, Hauke J, et al. Analysis of 30 putative BRCA1 splicing mutations in hereditary breast and ovarian cancer families identifies exonic splice site mutations that escape in silico prediction. PloS One 2012;7:e50800. 26. Scott CL, Jenkins MA, Southey MC, et al. Average age-specific cumulative risk of breast cancer according to type and site of germline mutations
+
+in BRCA1 and BRCA2 estimated from multiplecase breast cancer families attending Australian family cancer clinics. Hum Genet 2003;112:542­ 51. 27. Acedo A, Hernandez-Moro C, Curiel-Garcia A, et al. Functional classification of BRCA2 DNA variants by splicing assays in a large minigene with 9 exons. Hum Mutat 2015;36: 210­21. 28. More H, Humar B, Weber W, et al. Identification of seven novel germline mutations in the human E-cadherin (CDH1) gene. Hum Mutat 2007;28: 203. 29. Molinaro V, Pensotti V, Marabelli M, et al. Complementary molecular approaches reveal heterogeneous CDH1 germline defects in Italian patients with hereditary diffuse gastric cancer (HDGC) syndrome. Genes Chromosomes Cancer 2014;53: 432­45. GN, 30. Grodecka L, Kramarek M, Lockerova P, et al. T, No major effect of the CDH1 c.2440-6C>G mutation on splicing detected in last exonspecific splicing minigene assay. Genes Chromosomes Cancer 2014;53:798­801. 31. Casadei S, Norquist BM, Walsh T, et al. Contribution of inherited mutations in the BRCA2interacting protein PALB2 to familial breast cancer. Cancer Res 2011;71:2222­9. 32. Rahman N, Seal S, Thompson D, et al. PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat Genet 2007; 39:165­7. 33. Jones S, Hruban RH, Kamiyama M, et al. Exomic sequencing identifies PALB2 as a pancreatic cancer susceptibility gene. Science 2009;324: 217. 34. Antoniou AC, Casadei S, Heikkinen T, et al. Breast-cancer risk in families with mutations in PALB2. N Engl J Med 2014;371:497­506. 35. Lu KH, Daniels M. Endometrial and ovarian cancer in women with Lynch syndrome: update in screening and prevention. Fam Cancer 2013;12: 273­7. 36. Gao P, Ma N, Li M, et al. Functional variants in NBS1 and cancer risk: evidence from a metaanalysis of 60 publications with 111 individual studies. Mutagenesis 2013;28:683­97. DW, 37. Han FF, Guo CL, Liu LH. The effect of CHEK2 variant I157T on cancer susceptibility: evidence from a meta-analysis. DNA Cell Biol 2013;32:329­ 35.
+
+Int. J. Cancer: 00, 00­00 (2016) VC 2016 UICC
+
+

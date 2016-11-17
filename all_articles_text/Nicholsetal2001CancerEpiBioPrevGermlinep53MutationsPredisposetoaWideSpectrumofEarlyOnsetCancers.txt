@@ -1,0 +1,326 @@
+Vol. 10, 83­ 87, February 2001
+
+Cancer Epidemiology, Biomarkers & Prevention 83
+
+Hypothesis
+Germ-line p53 Mutations Predispose to a Wide Spectrum of Early-onset Cancers1
+
+Kim E. Nichols, David Malkin, Judy E. Garber, Joseph F. Fraumeni, Jr., and Frederick P. Li2, 3
+Children's Hospital of Philadelphia, Philadelphia, Pennsylvania 19104 [K. E. N.]; Hospital for Sick Children, Toronto, Ontario, M5G 1X8 Canada [D. M.]; Dana Farber Cancer Institute, Boston, Massachusetts 02115 [J. E. G., F. P. L.]; and Division of Cancer Epidemiology and Genetics, National Cancer Institute, Bethesda, Maryland 20892 [J. F. F.]
+Abstract
+Germ-line p53 mutations are associated with dominantly inherited Li-Fraumeni syndrome (LFS), which features early-onset sarcomas of bone and soft tissues, carcinomas of the breast and adrenal cortex, brain tumors, and acute leukemias. However, carriers of germ-line p53 mutations may also be at increased risk of other cancers. To clarify the tumor spectrum associated with inherited p53 mutations, we examined cancer occurrences among our series of 45 families, plus 140 other affected cases and kindreds reported in the literature. The analyses included all cancers in patients with a germ-line p53 mutation and their first-degree relatives with nearly 50% likelihood of being a carrier. Data were abstracted on tumor types and ages at diagnosis in eligible family members, and duplicate reports were excluded. Among 738 evaluable cancers, 569 (77%) were the six tumor types (breast and adrenocortical carcinomas, sarcomas of the bone and soft tissues, brain tumors, and leukemias) associated with LFS. The remaining 169 (23%) cancers included diverse carcinomas of the lung and gastrointestinal tract, lymphomas, and other neoplasms that occurred at much earlier ages than expected in the general population. Unusually early ages at diagnosis are characteristic of hereditary cancers and suggest that carriers of germ-line p53 mutations are at increased risk of a wide range of neoplasms. Future studies addressing age-specific penetrance and site-specific cancer risks can increase the utility of LFS as a model for understanding the role of p53 alterations in carcinogenesis and for designing diagnostic and preventive interventions for the broad array of neoplasms in this syndrome.
+Received 5/3/00; revised 11/20/00; accepted 11/22/00. The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact. 1 Supported in part by the Liberty Mutual Group and The Starr Foundation (F. P. L.), and the National Cancer Institute of Canada with funds from the Terry Fox Foundation (D. M.). 2 F. P. L. is a Harry and Elsa Jiler American Cancer Society Clinical Research Professor. 3 To whom requests for reprints should be addressed, at Dana Farber Cancer Institute, Smith 201, 44 Binney Street, Boston, MA 02115. Phone: (617) 6322508; Fax: (617) 632-3161; E-mail: frederick_li@dfci.harvard.edu.
+
+Introduction
+Germ-line p53 mutations have been identified in the majority of families with dominantly inherited LFS,4 which predisposes individuals to diverse neoplasms at early ages (1­ 8). Patients with LFS are especially prone to carcinomas of the breast and adrenal cortex, sarcomas of the soft tissues and bone, acute leukemias, and brain tumors. In addition, fragmentary data suggest that carriers of germ-line p53 mutations might be susceptible to other forms of cancer (4 ­ 6, 9, 10). Fuller understanding of the neoplastic manifestations of germ-line p53 mutations would be useful for genetic counseling, cancer surveillance, and early interventions in carriers. Our analyses of 185 affected cases and kindreds support the hypothesis that carriers of germ-line p53 mutations are prone to a wider spectrum of tumors than recognized previously (1­ 83).
+Materials and Methods
+At DF/NCI, we have identified 45 families with LFS and germ-line p53 mutations (1­ 8). Surviving relatives provided detailed family histories of cancer, and medical and pathology records were reviewed to determine primary site, histology, and age at diagnosis of each neoplasm. In addition, review of the literature through 1999 identified cancer occurrences and ages at diagnosis in 140 other patients and multicase families with germ-line p53 mutations (9 ­ 83). Some families were reported more than once as additional cancers were diagnosed, and duplicate reports were eliminated from the analysis.
+We examined the distribution of tumor types and ages at cancer diagnosis in carriers of germ-line p53 mutations, as well as in their affected first-degree relatives who were not genotyped. These relatives have nearly a 50% likelihood of carrying the mutation because published reports show that 80 ­95% of germ-line p53 mutations were inherited from a carrier-parent (7, 13, 72). For cases with multiple primary cancers, each neoplasm was counted in the analysis. Medians and ranges of age at cancer diagnosis and tumor site distribution in study subjects were compared with corresponding cancer incidence data of the United States population-based SEER Program (84).
+Results
+A total of 738 evaluable cancers were identified in the 185 patients and families with germ-line p53 mutations. Members of these kindreds developed 224 cancers (30%) before age 20 years and 265 cancers (36%) in the third and fourth decades of life. None of the p53 carriers and only 10 of their first-degree relatives (1.3%) developed tumors after 65 years of age, when cancers are most common in the general population (84). Chompret et al. (85) recently estimated that the lifetime cancer
+4 The abbreviations used are: LFS, Li-Fraumeni syndrome; SEER, Surveillance, Epidemiology, and End Results; DF/NCI, Dana Farber Cancer Institute/National Cancer Institute.
+
+Downloaded from cebp.aacrjournals.org on September 23, 2016. © 2001 American Association for Cancer Research.
+
+84 Hypothesis: Tumor Spectrum in LFS
+
+Table 1 Tumor spectrum in p53 mutation carriers and their first-degree relatives within 45 affected DF/NCI kindreds and 140 families in the literature
+
+Tumor types
+
+DF/NCI cases
+
+p53 carriers
+Literature cases
+
+Both series
+
+No. of cancers
+
+First-degree relativesa
+
+DF/NCI cases
+
+Literature cases
+
+Both series
+
+Total
+
+Component tumors of LFS
+
+67
+
+315
+
+382
+
+84
+
+Breast carcinoma
+
+20 94 114
+
+30
+
+Soft tissue sarcoma
+
+18 78 96 15
+
+Brain tumors
+
+8 62 70 23
+
+Bone sarcoma
+
+14 49 63 10
+
+Adrenocortical carcinoma
+
+3
+
+24
+
+27
+
+2
+
+Leukemia
+
+4 8 12
+
+4
+
+Other tumors
+
+8 52 60 40
+
+Total
+
+75 367 442 124
+
+a Relatives with nearly 50% likelihood of a germ-line p53 mutation are parents, siblings, and offspring of carriers.
+
+103 45 13 22 16 3 4 69 172
+
+187 569 75 189 28 124 45 115 26 89 5 32 8 20 109 169 296 738
+
+Table 2 Numbers of cancer cases, by tumor type and ages at diagnosis, in p53 carriers and their first-degree relatives, after excluding the 6 LFS-associated neoplasmsa
+
+Primary site
+
+p53 mutation carriersb
+
+No. of cases
+
+Median age at diagnosis (range) (yrs)
+
+First-degree relativesb
+
+No. of cases
+
+Median age at diagnosis (range) (yrs)
+
+United States populationc
+Median age at diagnosis (yrs)
+
+Lung Stomach Ovary Colon/rectum Lymphomas Melanoma Endometrium Thyroid Pancreas Prostate Cervix Otherd All types
+
+11 8 8 7 4 3 2 2 1 1 1 12 60
+
+50 (18­63)
+
+18 43 (31­75)
+
+35 (20­60)
+
+15 37 (29­72)
+
+42 (21­56)
+
+8 31 (16­40)
+
+33 (9­64)
+
+12 45 (25­65)
+
+25 (16­37)
+
+11 32 (21­51)
+
+35 (16­35)
+
+3 45 (44­53)
+
+50 (48­51)
+
+1 35
+
+37 (31­44)
+
+3 44 (24­51)
+
+49 2 43 (36­49)
+
+58 6 50 (44­56)
+
+30 3 33 (33­62)
+
+27
+
+109
+
+68 71 63 72 62 54 65 44 71 73 50
+
+a LFS-associated cancers: breast and adrenocortical carcinomas, sarcomas of bone and soft tissues, brain tumors, and acute leukemias. b Combined data from 45 DF/NCI families and 140 additional kindreds in the literature. c SEER Cancer Incidence Public-Use Database, 1973­1995. d Other cancers include: carcinomas of the bladder (3), kidney (2), esophagus (3), and unknown primary site (2); hepatoblastoma (2); neuroblastoma (2); mesothelioma
+(2); and 23 other neoplasms, including rare carcinomas of the gall bladder, ampulla of Vater, ureter, and testis, and Wilms' tumor (1 each).
+
+risk is 73% among males and nearly 100% among females who are prone to breast cancer. The virtual absence of tumors in p53 mutation carriers after age 65 years might be due to their high cancer mortality in childhood and early adulthood or to their reluctance to be tested and found to have transmitted the germline mutation. There were 442 cancers in p53 mutation carriers and 296 cancers in their first-degree relatives with a nearly 50% likelihood of carrying the mutation (Table 1). The component tumors of LFS accounted for 569 cancers (77%), including 382 neoplasms in p53 mutation carriers and 187 neoplasms in their first-degree relatives. The component tumors of LFS included breast cancers (189), soft tissue sarcomas (124), brain tumors (115), bone sarcomas (89), adrenocortical carcinomas (32), and acute leukemias (20) at early ages.
+The remaining 169 tumors (23%) have not been frequently associated with LFS (Table 2). Sixty of these neoplasms occurred in p53 mutation carriers, and 109 of these neoplasms occurred in their first-degree relatives. Carriers of p53 mutations developed carcinomas of the lung (11 cases), stomach (8 cases), ovary (8 cases), colon and rectum (7 cases) and smaller numbers of other neoplasms. Their first-degree relatives with a nearly 50% likelihood of carrying a p53 mutation developed a
+
+similar spectrum of tumors, including carcinomas of the lung (18 cases), stomach (15 cases), colon and rectum (12 cases), ovary (8 cases), and other sites. The 23 gastric cancer cases included at least nine (39%) Japanese patients, an ethnic group prone to this neoplasm (14, 19, 60, 64). Based on the small numbers of cases, it is unclear whether these neoplasms are due to the germ-line p53 mutations or chance. Despite previous suggestions that melanoma may be a component of LFS (86, 87), melanomas comprised only 6 of the 738 primary cancers (0.8%) among our series of p53 mutation carriers and their first-degree relatives.
+Because LFS and other hereditary cancer syndromes feature early-onset neoplasms, the ages at diagnosis of these 169 cancers were compared with corresponding data on cancer incidence from the population-based SEER Program. The ages at site-specific cancer diagnosis were often two to three decades earlier on average among p53 mutation carriers and their relatives as compared with the general United States population. For example, median ages at lung cancer diagnosis in p53 mutation carriers (50 years) and their first-degree relatives (43 years) were 18 and 25 years earlier than that for the general population (68 years). Likewise, median ages at diagnosis of
+
+Downloaded from cebp.aacrjournals.org on September 23, 2016. © 2001 American Association for Cancer Research.
+
+Cancer Epidemiology, Biomarkers & Prevention 85
+
+stomach cancer were 36 years earlier in p53 mutation carriers and 34 years earlier in their first-degree relatives (median age at diagnosis in the general population, 71 years). The majority of these cancers in families with p53 mutations arose before age 50 years, when malignant neoplasms are relatively uncommon in the general population.
+Analyses of the positions and types of germ-line p53 mutations showed that the majority of alterations were within the p53 binding domain that is encompassed by exons 5­ 8. However, many reports included in our review, particularly earlier publications, were limited to the analyses of exons 5­ 8 (12, 14, 18, 22, 26 ­ 43, 45­53, 55, 57­ 61, 66, 67, 69, 78 ­ 80, 82, 83). Therefore, our data likely underestimate the mutation frequency outside this domain. The distribution of cancers by primary site and histology did not vary with nucleotide position or type of germ-line p53 mutation, i.e., missense mutations, protein-truncating mutations, and mutations that alter RNA splicing.
+Discussion
+Several published reviews have sought genotype-phenotype correlations in families with germ-line p53 mutations (9, 10, 21). These reports focused primarily on the LFS-associated breast and adrenocortical carcinomas, sarcomas, brain tumors, and acute leukemias. In this study, we examined the occurrence of other types of cancer in p53 mutation carriers and their first-degree relatives with nearly 50% likelihood of being a carrier. Many other forms of cancer were found to occur among both p53 mutation carriers and their first-degree relatives with nearly 50% risk of carrying a germ-line p53 mutation. Moreover, these cancers occurred at early ages, a characteristic of virtually all hereditary cancers (Table 2; Ref. 88). The findings suggest that carcinomas of the stomach, colon, rectum, pancreas, and ovary and lymphomas may represent uncommon manifestations of germ-line p53 mutations. Because somatic p53 mutations are found in virtually all forms of sporadic cancer in humans, it is reasonable that germ-line p53 mutations would also predispose to a wide spectrum of tumors (89, 90). Alternative explanations underlying our observations include: (a) selection of families with multiple early-onset cancers for p53 analysis; (b) more accurate diagnosis and recall of cancer deaths among younger relatives; and (c) a small effect of lead time bias due to increased medical surveillance among family members at high risk. In addition, our data on ages at cancer diagnosis were compared with SEER cancer incidence data for the United States population, whereas families with p53 mutations were from many different nations (11­ 83). However, these factors are unlikely to explain ages at diagnosis that were usually several decades earlier than those expected in the general population.
+The original and subsequent descriptions of LFS included acute leukemias as a component of the syndrome (1, 2, 4 ­ 8). However, acute leukemias accounted for only 20 of the 738 cancers (2.7%) in the 185 kindreds, and germ-line p53 mutations are uncommon in familial clusters of acute leukemia (33). The data suggest that childhood leukemia may be a less common manifestation of germ-line p53 mutations than reported previously. The inclusion of acute leukemias in earlier descriptions of LFS might be due to the identification of affected families through medical record reviews of children with cancer, one-third of whom had acute leukemias (88).
+Germ-line p53 mutations have been identified in more than one-half of the families who fulfill LFS criteria and in a smaller proportion of those with partial features of the syn-
+
+drome. In addition, germ-line hCHK2 mutations were recently identified in three of our families: (a) one with classic features of LFS; (b) another with some features of LFS; and (c) a third patient with three primary cancers (91). Studies of additional families will help clarify the fraction of LFS attributable to germ-line CHK2 mutations and any phenotypic differences between p53 carriers and hCHK2 carriers.
+Cancers in our study subjects were often treated with radiotherapy and chemotherapy, which have carcinogenic potential. We have previously reported that multiple primary cancers occurred with high frequency within LFS cancers and that radiation-associated sarcomas were common among the subsequent cancers (5). In the literature series, treatment data were too scanty for analyses of their carcinogenic influences.
+The results of this study suggest that the elevated cancer susceptibility among p53 mutation carriers extends to a wider variety of neoplasms than previously recognized, with 23% of cancers falling outside the realm of the six classic LFS component tumors. Carriers of diverse germ-line p53 mutations appear to be at increased risk for carcinomas of the lung, gastrointestinal tract, and female reproductive organs, as well as lymphomas. Future high throughput technologies for genetic analyses will permit larger studies of unselected patients with various cancers, including those with early and later onset, to clarify the site-specific cancer risks associated with constitutional p53 mutations. Although cancer screening is hampered by the diversity of cancers developing in p53 mutations carriers and the low sensitivity of most screening tests, the survival experiences of LFS family members should improve with advances in chemoprevention and other interventions. In additional collaborative studies of LFS, it will be important to clarify the age-specific penetrance and risks of various cancers in carriers of hCHK2 as well as p53 germ-line mutations. These studies will help identify the host and environmental modifiers of risk and increase the utility of LFS as a model for understanding the role of p53 alterations in carcinogenesis and for designing diagnostic and preventive interventions for the broad array of neoplasms in this hereditary syndrome.
+Acknowledgments
+We thank Lisa DiGianni for help in providing family history information for the Dana Farber kindreds, Sig Verselis for p53 mutation analysis, and Jennifer Morgan and Nina Cardoza for technical support.
+References
+1. Li, F. P., and Fraumeni, J. F. Soft-tissue sarcomas, breast cancer, and other neoplasms, a familial syndrome? Ann. Intern. Med., 71: 747­752, 1969.
+2. Li, F. P., Fraumeni, J. F., Mulvihill, J. J., Blattner, W. A., Dreyfus, M. G., Tucker, M. A., and Miller, R. W. A cancer family syndrome in twenty-four kindreds. Cancer Res., 48: 5358 ­5362, 1988.
+3. Garber, J. E., Burke, E. M., Lavally, B. L., Billett, A. L., Sallan, S. E., Scott, R. M., Kupsky, W., and Li, F. P. Choroid plexus tumors in the breast cancersarcoma syndrome. Cancer (Phila.), 66: 2658 ­2660, 1990.
+4. Garber, J. E., Goldstein, A. M., Kantor, A. F., Dreyfus, M. G., Fraumeni, J. F., and Li, F. P. Follow-up study of twenty-four families with Li-Fraumeni syndrome. Cancer Res., 51: 6094 ­ 6097, 1991.
+5. Hisada, M., Garber, J. E., Fung, C. Y., Fraumeni, J. F., and Li, F. P. Multiple primary cancers in families with Li-Fraumeni Syndrome. J. Natl. Cancer Inst. (Bethesda), 90: 606 ­ 611, 1998.
+6. Malkin, D., Li, F. P., Strong, L. C., Fraumeni, J. F., Nelson, C. E., Kim, D. H., Kassel, J., Gryka, M. A., Bischoff, F. Z., Tainsky, M. A., and Friend, S. H. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science (Washington DC), 250: 1233­1238, 1990.
+7. Frebourg, T., Barbier, N., Yan, Y-X., Garber, J. E., Dreyfus, M., Fraumeni, J., Li, F. P., and Friend, S. H. Germ-line p53 mutations in 15 families with Li-Fraumeni syndrome. Am. J. Hum. Genet., 56: 608 ­ 615, 1995.
+
+Downloaded from cebp.aacrjournals.org on September 23, 2016. © 2001 American Association for Cancer Research.
+
+86 Hypothesis: Tumor Spectrum in LFS
+
+8. Diller, L., Sexsmith, E., Gottleib, A., Li, F. P., and Malkin, D. Germline p53 mutations are frequently detected in young children with rhabdomyosarcoma. J. Clin. Investig., 95: 1606 ­1611, 1995.
+9. Kleihues, P., Schauble, B., Hausen, A. Z., Esteve, J., and Ohgaki, H. Tumors associated with p53 germline mutations: a synopsis of 91 families. Am. J. Pathol., 150: 1­13, 1997.
+10. Birch, J. M., Blair, V., Kelsey, A. M., Evans, D. G., Harris, M., Tricker, K. J., and Varley, J. M. Cancer phenotype correlates with constitutional TP53 genotype in families with Li-Fraumeni syndrome. Oncogene, 17: 1061­1068, 1998.
+11. Eeles, R. A., Warren, W., Knee, G., Bartek, J., Averill, D., Stratton, M. R., Blake, P. R., Tait, D. M., Lane, D. P., Easton, D. F., Yarnold, J. R., Cooper, C. S., and Sloane, J. P. Constitutional mutation in exon 8 of the p53 gene in a patient with multiple primary tumors: molecular and immunohistochemical findings. Oncogene, 8: 1269 ­1276, 1993.
+12. Dockhorn-Dworniczak, B., Wolff, J., Poremba, C., Schafer, K-L., Ritter, J., Gullotta, F., Jurgens, H., and Bocker, W. A new germline TP53 gene mutation in a family with Li-Fraumeni syndrome. Eur. J. Cancer, 32A: 1359 ­1365, 1996.
+13. Frebourg, T., and Friend, S. H. Cancer risks from germline p53 mutations. J. Clin. Investig., 90: 1637­1641, 1992.
+14. Horio, Y., Suzuki, H., Ueda, R., Koshikawa, T., Sugiura, T., Ariyoshi, Y., Shimokata, K., Takahashi, T., and Takahashi, T. Predominantly tumor-limited expression of a mutant allele in a Japanese family carrying a germline p53 mutation. Oncogene, 9: 1231­1235, 1994.
+15. Malkin, D., Jolly, K. W., Barbier, N., Look, A. T., Friend, S. H., Gebhardt, M. C., Andersen, T. I., Borresen, A-L., Li, F. P., Garber, J., and Strong, L. C. Germline mutations of the p53 tumor-suppressor gene in children and young adults with second malignant neoplasms. N. Engl. J. Med., 326: 1309 ­1315, 1992.
+16. Plummer, S. J., Santibanez-Koref, M., Kurosaki, T., Liao, S., Noble, B., Fain, P. R., Anton-Culver, H., and Casey, G. A germline 2.35 kb deletion of p53 genomic DNA creating a specific loss of the oligomerization domain inherited in a Li-Fraumeni Syndrome family. Oncogene, 9: 3273­3280, 1994.
+17. Scott, R. L., Krummenacher, F., Mary, J-L., Weber, W., Spycher, M., and Muller, H. Vererbbare p53-Mutation bei einem Patienten mit Mehrfachtumoren: Bedeutung fur die genetische Beratung. Schweiz. Med. Wochenschr., 123: 1287­ 1292, 1993.
+18. Sedlacek, Z., Kodet, R., Kriz, V., Seemanova, E., Vodvarka, P., Wilgenbus, P., Mares, J., Poustka, A., and Goetz, P. Two Li-Fraumeni syndrome families with novel germline p53 mutations: loss of the wild-type p53 allele in only 50% of tumors. Br J. Cancer, 77: 1034 ­1039, 1998.
+19. Toguchida, J., Yamaguchi, T., Dayton, S. H., Beauchamp, R. L., Herrera, G. E., Ishizaki, K., Yamamuro, T., Meyers, P. A., Little, J. B., Sasaki, M. S., Weichelbaum, R. R., and Yandell, D. W. Prevalence and spectrum of germline mutations of the p53 gene among patients with sarcoma. N. Engl. J. Med., 326: 1301­1308, 1992.
+20. Varley, J. M., McGown, G., Thorncroft, M., Tricker, K. J., Teare, M. D., Santibanez-Koref, M. F., Houlston, R. S., Martin, J., Birch, J. M., and Evans, D. G. R. An extended Li-Fraumeni kindred with gastric carcinoma and a codon 175 mutation in TP53. J. Med. Genet., 32: 942­945, 1995.
+21. Varley, J. M., and Birch, J. M. Li-Fraumeni syndrome: a molecular and clinical review. Br. J. Cancer, 76: 1­14, 1997.
+22. Bang, Y-J., Kang, S-H., Kim, T-Y., Jung, C-W., Oh, S-M., Choe, K. J., and Kim, N. K. The first documentation of Li-Fraumeni Syndrome in Korea. J. Korean Med. Sci., 10: 205­210, 1995.
+23. Bardessy, N., Falkoff, D., Petruzzi, M. J., Nowak, N., Zabel, B., Adam, M., Aguiar, M., Grundy, P., Shows, T., and Pelletier, J. Anaplastic Wilms' tumor, a subtype displaying poor prognosis, harbors p53 gene mutations. Nat. Genet., 7: 91­97, 1994.
+24. Barel, D., Avigad, S., Mor, C., Fogel, M., Cohen, I. J., and Zaizov, R. A novel germ-line mutation in the noncoding region of the p53 gene in a Li-Fraumeni family. Cancer Genet. Cytogenet., 103: 1­ 6, 1998.
+25. Birch, J. M., Hartley, A. L., Tricker, K. J., Prosser, J., Condie, A., Kelsey, A. M., Harris, M., Jones, P. H. M., Binchy, A., Crowther, D., Craft, A. W., Eden, O. B., Evans, D. G. R., Thompson, E., Mann, J. R., Martin, J., Mitchell, E. L. D., and Santibanez-Koref, M. F. Prevalence and diversity of constitutional mutations in the p53 gene among Li-Fraumeni families. Cancer Res., 54: 1298 ­1304, 1994.
+26. Borresen, A-L., Andersen, T. I., Garber, J., Barbier-Piraux, N., Thorlacius, S., Eyfjord, J., Ottestad, L., Smith-Sorensen, B., Hovig, E., Malkin, D., and Friend, S. H. Screening for germ line TP53 mutations in breast cancer patients. Cancer Res., 52: 3234 ­3236, 1992.
+27. Brugieres, L., Gardes, M., Moutou, C., Chompret, A., Meresse, V., Martin, A., Poisson, N., Flamant, F., Bonaiti-Pellie, C., Lemerle, J., and Feunteun, J. Screening for germ-line p53 mutations in children with malignant tumors and a family history of cancer. Cancer Res., 53: 452­ 455, 1993.
+
+28. Chen, P., Iavarone, A., Fick, J., Edwards, M., Prados, M., and Isreal, M. A. Constitutional p53 mutations associated with brain tumors in young adults. Cancer Genet. Cytogenet., 82: 106 ­115, 1995.
+29. Chung, R., Whaley, J., Kley, N., Anderson, K., Louis, D., Menon, A., Hettlich, C., Freiman, R., Hedley-Whyte, E. T., Martuza, R., Jenkins, R., Yandell, D., and Seizinger, B. R. TP53 gene mutations and 17p deletion in human astrocytomas. Genes Chromosomes Cancer, 3: 323­331, 1991.
+30. Coles, C., Condie, A., Chetty, U., Steel, C. M., Evans, H. J., and Prosser, J. p53 mutations in breast cancer. Cancer Res., 52: 5291­5298, 1992.
+31. Cornelis, R. S., van Vliet, M., van de Vijver, M. J., Vasen, H. F. A., Voute, P. A., Top, B., Khan, P. M., Devilee, P., and Cornelisse, C. J. Three germline mutations in the TP53 gene. Hum. Mutat., 9: 157­163, 1997.
+32. Davison, T. S., Yin, P., Nie, E., Kay, C., and Arrowsmith, C. H. Characterization of the oligomerization defects of two p53 mutants found in families with Li-Fraumeni and Li-Fraumeni-like syndrome. Oncogene, 17: 651­ 656, 1998.
+33. Felix, C. A., Nau, M. M., Takahashi, T., Mitsudomi, T., Chiba, I., Poplack, D. G., Reaman, G. H., Cole, D. E., Letterio, J. J., Whang-Peng, J., Knutsen, T., and Minna, J. D. Herditary and acquired p53 gene mutations in childhood acute lymphoblastic leukemia. J. Clin. Investig., 89: 640 ­ 647, 1992.
+34. Felix, C. A., Strauss, E. A., D'Amico, D., Tsokos, M., Winter, S., Mitsudomi, T., Nau, M. M., Brown, D. L., Leahey, A. M., Horowitz, M. E., Poplack, D. G., Costin, D., and Minna, J. D. A novel germline p53 splicing mutation in a pediatric patient with a second malignant neoplasm. Oncogene, 8: 1203­1210, 1993.
+35. Felix, C. A., Hosler, M. R., Provisor, D., Salhany, K., Sexsmith, E. A., Slater, D. J., Cheung, N-K. V., Winick, N. J., Strauss, E. A., Heyn, R., Lange, B. J., and Malkin, D. The p53 gene in pediatric therapy-related leukemia and myelodysplasia. Blood, 87: 4376 ­ 4381, 1996.
+36. Giunta, C., Youil, R., Venter, D., Chow, C. W., Somers, G., Lafferty, A., Kemper, B., and Cotton, R. G. H. Rapid diagnosis of germline p53 mutation using the enzyme mismatch cleavage method. Diagn. Mol. Pathol., 5: 265­270, 1996.
+37. Goi, K., Takagi, M., Iwata, S., Delia, D., Asada, M., Donghi, R., Tsunematsu, Y., Nakazawa, S., Yamamoto, H., Yokota, J., Tamura, K., Saeki, Y., Utsunomiya, J., Takahashi, T., Ueda, R., Ishioka, C., Eguchi, M., Kamata, N., and Mizutani, S. DNA damage-associated dysregulation of the cell cycle and apoptosis control in cells with germ-line p53 mutation. Cancer Res., 57: 1895­1902, 1997.
+38. Grayson, G. H., Moore, S., Schneider, B. G., Saldivar, V., and Hensel, C. H. Novel germline mutation of the p53 tumor suppressor gene in a child with incidentally discovered adrenal cortical carcinoma. Am. J. Pediatr. Hematol. Oncol., 16: 341­347, 1994.
+39. Gutierrez, M. I., Bhatia, K. G., Barreiro, C., Spangler, G., Schvartzmann, E., Sackmann, F., Magrath, M., and Magrath, I. T. A de novo p53 germline mutation affecting codon 151 in a six-year-old child with multiple tumors. Hum. Mol. Genet., 3: 2247­2248, 1994.
+40. Hamelin, R., Barichard, F., Henry, I., Junien, C., and Thomas, G. Single base pair germ-line deletion in the p53 gene in a cancer predisposed family. Hum. Genet., 94: 88 ­90, 1994.
+41. Iavarone, A., Matthay, K. K., Steinkirchner, T. M., and Isreal, M. A. Germline and somatic p53 gene mutations in multifocal osteogenic sarcoma. Proc. Natl. Acad. Sci. USA, 89: 4207­ 4209, 1992.
+42. Jolly, K. W., Malkin, D., Douglass, E. C., Brown, T. F., Sinclair, A. E., and Look, A. T. Splice-site mutation of the p53 gene in a family with hereditary breast-ovarian cancer. Oncogene, 9: 97­102, 1994.
+43. Kovar, H., Auinger, A., Jug, G., Muller, T., and Pillwein, K. p53 mosaicism with an exon 8 germline mutation in the founder of a cancer-prone pedigree. Oncogene, 7: 2169 ­2173, 1992.
+44. Kupryjanczyk, J., Thor, A. D., Beauchamp, R., Merritt, V., Edgerton, S. M., Bell, D. A., and Yandell, D. W. p53 gene mutations and protein accumulation in human ovarian cancer. Proc. Natl. Acad. Sci. USA, 90: 4961­ 4965, 1993.
+45. Kyritsis, A. P., Bondy, M. L., Xiao, M., Berman, E. L., Cunningham, J. E., Lee, P. S., Levin, V. A., and Saya, H. Germline p53 gene mutations in subsets of glioma patients. J. Natl. Cancer Inst., 86: 344 ­349, 1994.
+46. Law, J. C., Strong, L. C., Chidambaram, A., and Ferrell, R. E. A germ line mutation in exon 5 of the p53 gene in an extended cancer family. Cancer Res., 51: 6385­ 6387, 1991.
+47. Li, Y-J., Sanson, M., Hoang-Xuan, K., Delatre, J-Y., Poisson, M., Thomas, G., and Hamelin, R. Incidence of germ-line p53 mutations in patients with gliomas. Int. J. Cancer, 64: 383­387, 1995.
+48. Lomax, M. E., Barnes, D. M., Gilchrist, R., Picksley, S. M., Varley, J. M., and Camplejohn, R. S. Two functional assays employed to detect an unusual mutation in the oligomerisation domain of p53 in a Li-Fraumeni like family. Oncogene, 14: 1869 ­1874, 1997.
+49. Lubbe, J., von Ammon, K., Watanabe, K., Hegi, M. E., and Kleihues, P. Familial brain tumor syndrome associated with a p53 germline deletion of codon 236. Brain Pathol., 5: 15­23, 1995.
+
+Downloaded from cebp.aacrjournals.org on September 23, 2016. © 2001 American Association for Cancer Research.
+
+Cancer Epidemiology, Biomarkers & Prevention 87
+
+50. MacGeoch, C., Turner, G., Bobrow, L. G., Barnes, D. M., Bishop, D. T., and Spurr, N. K. Heterogeneity in Li-Fraumeni families: p53 mutation analysis and immunohistochemical staining. J. Med. Genet., 32: 186 ­190, 1995.
+51. Mazoyer, S., Lalle, P., Moyret-Lalle, C., Marcais, C., Schraub, S., Frappaz, D., Sobol, H., and Ozturk, M. Two germ-line mutations affecting the same nucleotide at codon 257 of the p53 gene, a rare site for mutations. Oncogene, 9: 1237­1239, 1994.
+52. McIntyre, J. F., Smith-Sorensen, B., Friend, S. H., Kassell, J., Borresen, A-L., Yan, Y. X., Russo, C., Sato, J., Barbier, N., Miser, J., Malkin, D., and Gebhardt, M. C. Germline mutations of the p53 tumor suppressor gene in children with osteosarcoma. J. Clin. Oncol., 12: 925­930, 1994.
+53. Metzger, A. K., Sheffield, V. C., Duyk, G., Daneshvar, L., Edwards, M. S. B., and Cogen, P. H. Identification of a germ-line mutation in the p53 gene in a patient with an intracranial ependymoma. Proc. Natl. Acad. Sci. USA, 88: 7825­7829, 1991.
+54. Moutou, C., Bihan, C. L., Chompret, A., Poisson, N., Brugieres, L., Bressaac, B., Feunteun, J., Lemerle, J., and Bonaiti-Pellie, C. Genetic transmission of susceptibility to cancer in families of children with soft tissue sarcomas. Cancer (Phila.), 78: 1483­1491, 1996.
+55. Pivnick, E. K., Furman, W. L., Velagaleti, G. V. N., Jenkins, J. J., Chase, N. A., and Ribiero, R. C. Simultaneous adrenocortical carcinoma and ganglioneuroblastoma in a child with Turner syndrome and germline p53 mutation. J. Med. Genet., 35: 328 ­332, 1998.
+56. Porter, D. E., Holden, S. T., Steel, C. M., Cohen, B. B., Wallace, M. R., and Reid, R. A significant proportion of patients with osteosarcoma may belong to Li-Fraumeni cancer families. J. Bone Joint Surg., 74B: 883­ 886, 1992.
+57. Prosser, J., Porter, D., Coles, C., Condie, A., Thompson, A. M., Chetty, U., Steel, C. M., and Evans, H. J. Constitutional p53 mutation in a non-Li-Fraumeni cancer family. Br. J. Cancer, 65: 527­528, 1992.
+58. Russo, C. L., McIntyre, J., Goorin, A. M., Link, M. P., Gebhardt, M. C., and Friend, S. H. Secondary breast cancer in patients presenting with osteosarcoma: possible involvement of germline p53 mutations. Med. Pediatr. Oncol., 23: 354 ­358, 1994.
+59. Saeki, Y., Tamura, K., Yamamoto, Y., Hatada, T., Furuyama, J-I., and Utsunomiya, J. Germline p53 mutation at codon 133 in a cancer-prone family. J. Mol. Med., 75: 50 ­56, 1997.
+60. Sameshima, Y., Tsunematsu, Y., Watanabe, S., Tsukamoto, T., Kawa-ha, K., Hirata, Y., Mizoguchi, H., Sugimura, T., Terada, M., and Yokota, J. Detection of novel germ-line p53 mutations in diverse-cancer-prone families identified by selecting patients with adrenocortical carcinoma. J. Natl. Cancer Inst. (Bethesda), 84: 703­707, 1992.
+61. Santibanez-Koref, M. F., Birch, J. M., Hartley, A. L., Jones, P. H. M., Craft, A. W., Eden, T., Crowther, D., Kelsey, A. M., and Harris, M. p53 germline mutations in Li-Fraumeni syndrome. Lancet, 338: 1490 ­1491, 1991.
+62. Nadav, Y., Pastorino, U., and Nicholson, A. G. Multiple synchronous lung cancers and atypical adenomatous hyperplasia in Li-Fraumeni syndrome. Histopathology, 33: 52­54, 1998.
+63. Shay, J. W., Tomlinson, G., Piatyszek, M. A., and Gollahon, L. S. Spontaneous in vitro immortalization of breast epithelial cells from a patient with Li-Fraumeni syndrome. Mol. Cell. Biol., 15: 425­ 432, 1995.
+64. Shiseki, M., Nishikawa, R., Yamamoto, H., Ochiai, A., Sugimura, H., Shitara, N., Sameshima, Y., Mizoguchi, H., Sugimura, T., and Yokota, J. Germ-line p53 mutation is uncommon in patients with triple primary cancers. Cancer Lett., 73: 51­57, 1993.
+65. Sidransky, D., Tokino, T., Helzlsouer, K., Zehnbauer, B., Rausch, G., Shelton, B., Prestigiacomo, L., Vogelstein, B., and Davidson, N. Inherited p53 gene mutations in breast cancer. Cancer Res., 52: 2984 ­2986, 1992.
+66. Speiser, P., Gharehbaghi-Schnell, E., Elder, S., Haid, A., Kovarik, J., Nenutil, R., Sauter, G., Schneeberger, C. H., Vojtesek, B., Wiltschke, C. H., and Zeillinger, R. A constitutional de novo mutation in exon 8 of the p53 gene in a patient with multiple primary malignancies. Br. J. Cancer, 74: 269 ­273, 1996.
+67. Srivastava, S., Zou, Z., Pirollo, K., Blattner, W., and Chang, E. H. Germ-line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome. Nature (Lond.), 348: 747­749, 1990.
+68. Stolzenberg, M-C., Brugieres, L., Gardes, M., Dessarps-Freichey, F., Chompret, A., Bressac, B., Lenoir, G., Bonaiti-Pellie, C., Lemerle, J., and Feunteun, J. Germ-line exclusion of a single p53 allele by premature termination of translation in a Li-Fraumeni syndrome family. Oncogene, 9: 2799 ­2804, 1994.
+69. Strauss, E. A., Hosler, M. R., Herzog, P., Salhany, K., Louie, R., and Felix, C. A. Complex replication error causes p53 mutation in a Li-Fraumeni family. Cancer Res., 55: 3237­3241, 1995.
+70. Varley, J. M., McGown, G., Thorncroft, M., Cochrane, S., Morrison, P., Woll, P., Kelsey, A. M., Mitchell, E. L. D., Boyle, J., Birch, J. M., and Evans, D. G. R. A previously undescribed mutation within the tetramerization domain of TP53 in a family with Li-Fraumeni syndrome. Oncogene, 12: 2437­2442, 1996.
+
+71. Varley, J. M., Thorncroft, M., McGown, G., Tricker, K., Birch, J. M., and Evans, D. G. R. A novel deletion within exon 6 of TP53 in a family with Li-Fraumeni-like syndrome, and LOH in a benign lesion from a mutation carrier. Cancer Genet. Cytogenet., 90: 14 ­16, 1996.
+72. Varley, J. M., McGown, G., Thorncroft, M., Santibanez-Koref, M. F., Kelsey, A. M., Tricker, K. J., Evans, D. G. R., and Birch, J. M. Germ-line mutations of TP53 in Li-Fraumeni families: an extended study of 39 families. Cancer Res., 57: 3245­3252, 1997.
+73. Varley, J. M., Chapman, P., McGown, G., Thorncroft, M., White, G. R., Greaves, M. J., Scott, D., Spreadborough, A., Tricker, K. J., Birch, J. M., Evans, D. G., Reddel, R., Camplejohn, R. S., Burn, J., and Boyle, J. M. Genetic and functional studies of a germline TP53 splicing mutation in a Li-Fraumeni-like family. Oncogene, 16: 3291­3298, 1998.
+74. Varley, J. M., McGown, G., Thorncroft, M., White, G. R. M., Tricker, K. J., Kelsey, A. M., Birch, J. M., and Evans, D. G. R. A novel TP53 splicing mutation in a Li-Fraumeni syndrome family: a patient with Wilms' tumor is not a mutation carrier. Br. J. Cancer, 78: 1081­1083, 1998.
+75. Wagner, J., Portwine, C., Rabin, K., Leclerc, J-M., Narod, S. A., and Malkin, D. High frequency of germline p53 mutations in childhood adrenocortical cancer. J. Natl. Cancer Inst. (Bethesda), 86: 1707­1710, 1994.
+76. Warneford, S. G., Witton, L. J., Townsend, M. L., Rowe, P. B., Reddel, R. R., Dalla-Pozza, L., and Symonds, G. Germ-line splicing mutation of the p53 gene in a cancer-prone family. Cell Growth Differ., 3: 839 ­ 846, 1992.
+77. Quesnel, S., Verselis, S., Portwine, C., Garber, J., White, M., Feunteun, J., Malkin, D., and Li, F. P. p53 compound heterozygosity in a severly affected child with Li-Fraumeni Syndrome. Oncogene, 18: 3970 ­3978, 1999.
+78. Reifenberger, J., Janssen, G., Weber, R. G., Bostrom, J., Engelbrecht, V., Lichter, P., Borchard, F., Gobel, U., Lenard, H-G., and Reifenberger, G. Primitive neuroectodermal tumors of the cerebral hemispheres in two siblings with TP53 germline mutation. J. Neuropathol. Exp. Neurol., 57: 179 ­187, 1998.
+79. Vital, A., Bringuier, P-P., Huang, H., Galli, F. S., Rivel, J., Ansoborlo, S., Cazauran, J-M., Taillandier, L., Kleihaus, P., and Ohgaki, H. Astrocytomas and choroid plexus tumors in two familes with identical p53 germline mutations. J. Neuropathol. Exp. Neurol., 57: 1061­1069, 1998.
+80. Hung, J., Mims, B., Lozano, G., Strong, L., Harvey, C., Chen, T. T., Stastny, V., and Tomlinson, G. TP53 mutation and haplotype analysis of two large African American families. Hum. Mutat., 14: 216 ­221, 1999.
+81. Luca, J. W., Strong, L. C., and Hansen, M. E. A germline missense mutation R337C in exon 10 of the human p53 gene. Hum. Mutat., 1 (Suppl.): S58 ­S61, 1998.
+82. Felix, C. A., Megonigal, M. D., Chervinsky, D. S., Leonard, D. G. B., Tsuchida, N., Kakati, S., Block, A. M. W., Fisher, J., Grossi, M., Salhany, K. I., Jani-Sait, S. N., and Aplan, P. D. Association of germline p53 mutation with MLL segmental jumping translocation in treatment-related leukemia. Blood, 91: 4451­ 4456, 1998.
+83. Zhou, X. P., Sanson, M., Hoang-Xuan, K., Robin, E., Taillandier, L., He, J., Moktari, K., Cornu, P., Delattre, J. Y., Thomas, G., and Hamelin, R. Germline mutations of the p53 but not p16/CDKN2 or PTEN/MMAC1 tumor suppressor genes predispose to gliomas. The ANCEF Group. Association des NeuroOncologues d'Expression Francaise. Ann. Neurol., 46: 913­916, 1999.
+84. United States Department of Health and Human Services. SEER Cancer Incidence Public Use Database, 1973­1995. Bethesda, MD: USPHS, 1998.
+85. Chompret, A., Brugieres, L., Ronsin, M., Gardes, M., Dessarps-Freichey, F., Abel, A., Hua, D., Ligot, L., Dondon, M. G., Bressac-de Paillerets, B., Frebourg, T., Lemerle, J., Bonaiti-Pellie, C., and Feunteun, J. P53 germline mutations in childhood cancers and cancer risk for carrier individuals. Br. J. Cancer, 82: 1932­1937, 2000.
+86. Hartley, A. L., Birch, J. M., Marsden, H. B., and Harris, M. Malignant melanoma in families of children with osteosarcoma, chondrosarcoma, and adrenal cortical carcinoma. J. Med. Genet., 24: 664 ­ 668, 1987.
+87. Jay, M., and McCartney, A. C. Familial malignant melanoma of the uvea and p53: a Victorian detective story. Surv. Ophthalmol., 37: 457­ 462, 1993.
+88. Li, F. P. Cancer control in susceptible groups. J. Clin. Oncol., 17: 719 ­725, 1999.
+89. Nigro, J. M., Baker, S. J., Preisinger, A. C., Jessup, J. M., Hostetter, R., Cleary, K., Bigner, S., Davidson, N., Baylin, S., Devilee, P., Glover, T., Collins, F. S., Weston, A., Modali, R., Harris, C. C., and Vogelstein, B. Mutations in the p53 gene occur in diverse tumor types. Nature (Lond.), 342: 705­708, 1989.
+90. Hollstein, M., Sidransky, D., Vogelstein, B., and Harris, C. C. p53 mutations in human cancers. Science (Washington DC), 253: 49 ­53, 1991.
+91. Bell, D. W., Varley, J. M., Szydlo, T. E., Kang, D. H., Wahrer, D. C., Shannon, K. E., Lubratovich, M., Verselis, S. J., Isselbacher, K. J., Fraumeni, J. F., Birch, J. M., Li, F. P., Garber, J. E., and Haber, D. A. Heterozygous germline hCHK2 mutations in Li-Fraumeni syndrome. Science (Washington DC), 286: 2528 ­2531, 1999.
+
+Downloaded from cebp.aacrjournals.org on September 23, 2016. © 2001 American Association for Cancer Research.
+
+Germ-line p53 Mutations Predispose to a Wide Spectrum of Early-onset Cancers
+Kim E. Nichols, David Malkin, Judy E. Garber, et al. Cancer Epidemiol Biomarkers Prev 2001;10:83-87.
+Updated version Access the most recent version of this article at: http://cebp.aacrjournals.org/content/10/2/83
+
+Cited articles Citing articles
+
+This article cites 84 articles, 34 of which you can access for free at: http://cebp.aacrjournals.org/content/10/2/83.full.html#ref-list-1
+This article has been cited by 28 HighWire-hosted articles. Access the articles at: /content/10/2/83.full.html#related-urls
+
+E-mail alerts
+Reprints and Subscriptions
+Permissions
+
+Sign up to receive free email-alerts related to this article or journal.
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications Department at pubs@aacr.org.
+To request permission to re-use all or part of this article, contact the AACR Publications Department at permissions@aacr.org.
+
+Downloaded from cebp.aacrjournals.org on September 23, 2016. © 2001 American Association for Cancer Research.
+
+

@@ -1,0 +1,336 @@
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.12.7149 Common Variants in the PALB2 Gene Confer Susceptibility to Breast Cancer: a Meta-analysis
+RESEARCH ARTICLE
+
+Common Variants in the PALB2 Gene Confer Susceptibility to Breast Cancer: a Meta-analysis
+
+Yi-Xia Zhang*, Xue-Mei Wang, Shu Kang, Xiang Li, Jing Geng
+
+Abstract
+
+Objective: Increasing scientific evidence suggests that common variants in the PALB2 gene may confer susceptibility to breast cancer, but many studies have yielded inconclusive results. This meta-analysis aimed to derive a more precise estimation of the relationship between PALB2 genetic variants and breast cancer risk. Methods: An extensive literary search for relevant studies was conducted in PubMed, Embase, Web of Science, Cochrane Library, CISCOM, CINAHL, Google Scholar, CNKI and CBM databases from their inception through September 1st, 2013. A meta-analysis was performed using the STATA 12.0 software and crude odds ratios (ORs) with 95% confidence intervals (CIs) were calculated. Results: Six case-control studies were included with a total of 4,499 breast cancer cases and 6,369 healthy controls. Our meta-analysis reveals that PALB2 genetic variants may increase the risk of breast cancer (allele model: OR>1.36, 95%CI: 1.20~1.52, P < 0.001; dominant model: OR>1.64, 95%CI: 1.42~1.91, P < 0.001; respectively). Subgroup analyses by ethnicity indicated PALB2 genetic variants were associated with an increased risk of breast cancer among both Caucasian and Asian populations (all P < 0.05). No publication bias was detected in this meta-analysis (all P > 0.05). Conclusion: The current meta-analysis indicates that PALB2 genetic variants may increase the risk of breast cancer. Thus, detection of PALB2 genetic variants may be a promising biomarker approach.
+
+Keywords: Breast cancer - PALB2 - genetic variants - meta-analysis Asian Pac J Cancer Prev, 14 (12), 7149-7154
+
+Introduction
+Breast cancer, as a substantial global public health concern, is one of the most common cancers in women worldwide (Benson and Jatoi, 2012). It is estimated that over one million women are diagnosed with breast cancer every year, and more than 410, 000 will die from the disease (Bray et al., 2012). However, the exact mechanisms of breast cancer are still poorly understood. Generally, breast cancer is a multifactorial disease resulting from the interaction between genetic and environmental factors (Pern et al., 2012). Previous studies showed that family history, reproductive status, endocrine disorders and body mass index may play important roles in the development of breast cancer (Colditz et al., 2012; Llanos et al., 2012). Furthermore, genetic factors are also involved in the initiation and maintenance of breast cancer (Stephens et al., 2012).
+The Partner and Localizer of BRCA2 (PALB2) protein, identified as a nuclear partner of BRCA2, promoting its localization and stability in key nuclear structures, which in turn facilitates BRCA2 functions in DNA repair and cell cycle regulation and thereby maintaining genome stability (Xia et al., 2006; Erkko et al., 2007). Human PALB2 gene is located on chromosome 16p12.2, spanning approximately 38kb, containing 13 exons and 12 introns, and encodes for a
+
+protein involved in BRCA2-related pathways (Chen et al., 2008). In general, PALB2 indirectly affect the expression of BRCA2, and the loss-of-function mutations in BRCA2 usually cause genetic instability, avoiding the defense system, resulting in non-controlling cell proliferation and thereby inevitably leading to tumorigenesis (Xia et al., 2006; Frankenberg-Schwager and Gregus, 2012). Therefore, it was hypothesized that PALB2 genetic variants might be significantly associated with the development and progression of breast carcinogenesis (Casadei et al., 2011). Previous studies have demonstrated that loss-offunction mutations in PALB2 are contributes to breast cancer initiation and progression (Erkko et al., 2007; Chen et al., 2008; Cao et al., 2010). Bogdanova et al showed that PALB2 germline mutations accounted for a small, but not negligible, proportion of bilateral breast carcinomas in German and Russian populations (Bogdanova et al., 2011). Furthermore, mutational and functional analysis of common single nucleotide polymorphism (SNP) in exons of PALB2, including rs249954, rs447529 and rsl6940342, that were highly associated with the susceptibility of breast cancer, but they did not provide evidence on whether other polymorphism correlate with breast cancer susceptibility (Chen et al., 2008; Cao et al., 2009). However, the geographical spread of PALB2 mutations has not been comprehensively analyzed yet, and several recent studies
+
+e art ent of ltrasono ra , t e irst Affiliate
+
+corres on ence c u1
+
+12 co
+
+os ital of C ina e ical niversit , iaonin , en an , C ina or
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 7149
+
+Yi-Xia Zhang et al
+
+have failed to identify any PALB2 mutations in breast cancer series from their population (Heikkinen et al., 2009; Guenard et al., 2010). Therefore, we attempt to perform a meta-analysis of all eligible case-control studies to evaluate the relationships between common variants in the PALB2 gene and the risk of breast cancer, and to understand the biological processes associated with breast cancer formation and progression, which subsequently may be further utilized as a diagnostic tool for accurate determination of endocrine therapeutic strategies in breast cancer.
+Materials and Methods
+iterature earc A comprehensive search for relevant studies published
+before August 1st, 2013 was conducted on PubMed, Embase, Web of Science, Cochrane Library, CISCOM, CINAHL, Google Scholar, China BioMedicine (CBM) and China National Knowledge Infrastructure (CNKI) databases. We used the following keywords and MeSH terms: ("genetic polymorphism" or "single nucleotide polymorphism" or "polymorphism" or "SNP" or "mutation" or "variation" or "variant") and ("breast neoplasms" OR "breast cancer" or "breast tumor" or "breast carcinoma") and ("PALB2 protein, human" or " PALB2" or " FANCN"). There were no language restrictions. The references used in eligible articles or textbooks were also reviewed to find other potential studies.
+election Criteria Studies included in our meta-analysis have to meet
+the following criteria: (1) case-control studies focused on the associations between PALB2 genetic variants and breast cancer risk; (2) all patients should meet the diagnostic criteria for breast cancer confirmed by histological examinations; (3) the minimum number of cases in included studies should be greater than 30; (4) published data about the allele and genotype frequencies of SNPs must be sufficient. Studies were excluded if they did not meet all of these inclusion criteria. If more than one study by the same author using the same case series was published, either the study with the largest sample size or the most recent publication was included.
+ata traction Data from the published studies were extracted
+independently by two authors into a standardized form. For each study, the following characteristics and numbers were collected: the first author, year of publication, country, language, ethnicity of subjects, study design, number of subjects, detecting sample, genotype method, allele and genotype frequencies, etc. In cases of conflicting evaluations, disagreements among inconsistent data from the eligible studies were resolved through discussions and careful reexaminations of the full text by the authors.
+ualit Assess ent The quality of the included studies was assessed
+independently by two authors based on the Newcastle-
+
+Ottawa Scale (NOS) (Stang, 2010). The NOS criteria use a "star" rating system to judge the methodological quality, which was based on three perspectives of the study: selection, comparability, and exposure. Scores ranged from 0 stars (worst) to 9 stars (best); a score equal to or greater than 7 indicates a generally good methodological quality. Disagreements on NOS scores of the included studies were resolved through a comprehensive reassessment by the authors
+tatistical Anal sis The crude odds ratio (OR) with 95% confidence
+interval (CI) were calculated under five genetic models: the allele model (mutant [M] allele vs. wild [W] allele), the dominant model (WM+MM vs. WW), the recessive model (MM vs. WW+WM), the homozygous model (MM vs. WW), and the heterozygous model (MM vs. WM). The statistical significance of the pooled OR was examined by Z test. Genotype frequencies of controls were tested for Hardy-Weinberg equilibrium (HWE) using the 2 test for each study included in the metaanalysis. The statistical significance of the pooled OR was examined using the Z test. Power calculations were done by PS Power and Sample Size Calculations (Dupont and Plummer, 1990). Between-study heterogeneity was estimated using Cochran's Q-statistic, whereas a P < 0.05 was set to identify heterogeneity in the associations (Jackson et al., 2012). We also quantified the effects of heterogeneity by using the I2 test (ranges from 0 to 100%), which represents the proportion of inter-study variability that can be contributed to heterogeneity rather than to chance (Zintzaras and Ioannidis, 2005). When a significant Q-test with P < 0.05 or I2 > 50% indicated existence of heterogeneity among studies existed, the random effects model (DerSimonian Laird method) was conducted for the meta-analysis; otherwise, the fixed effects model (Mantel-Haenszel method) was used. To explore potential sources of heterogeneity, subgroup analysis was performed by clinical subtype, ethnicity, and genotype method. Sensitivity analysis was performed by omitting each study in turn to assess the quality and consistency of the results. Begger's funnel plots and Egger's linear regression test were used to evaluate the publication bias (Peters et al., 2006). Two-sided P < 0.05 was considered to be statistically significant. All calculations were performed using the STATA version 12.0 software (STATA Corporation, College Station, Texas, USA).
+Results
+C aracteristics of nclu e tu ies A total of 127 articles relevant to the searched
+keywords were initially identified. Of these articles, 69 were excluded after a review of their titles and abstracts; then, full texts and data integrity were reviewed, and another 52 papers were excluded. Six case-control studies met our inclusion criteria for this meta-analysis (Erkko et al., 2007; Chen et al., 2008; Cao et al., 2009; Heikkinen et al., 2009; Cao et al., 2010; Guenard et al., 2010). The publication year of involved studies ranged from 2007 to 2010. The flow chart of the study selection process
+
+7150 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.12.7149 Common Variants in the PALB2 Gene Confer Susceptibility to Breast Cancer: a Meta-analysis
+
+Table 1. Main Characteristics and Methodological Quality of All Eligible Studies
+
+First author Year Country Ethnicity
+
+Number
+
+Source of controls Genotype method Gene
+
+SNP
+
+NOS
+
+Case Control Power size
+
+score
+
+Erkko et al 2007 Finland Caucasian 113 2501
+
+Chen et al
+
+2008 China Asian 1049 1073
+
+Cao et al
+
+2009 China Asian
+
+360 864
+
+Heikkinen et al 2009 Finland Caucasian 2221 1079
+
+Cao et al
+
+2010 China Asian
+
+660 756
+
+Guénard et al 2010 Canada Caucasian 96 96
+
+0.924 Population-based DNA Sequencing PALB2
+
+0.903 Population-based MicroArray
+
+PALB2
+
+Population-based DHPLC
+
+PALB2
+
+0.978 Population-based DNA Sequencing PALB2
+
+0.881 Hospital-based MicroArray
+
+PALB2
+
+0.725 Hospital-based DNA Sequencing PALB2
+
+rs45494092 (T/C) 1592delT (ins/del) rs152451 (A/G) rs45624036 (G/A) rs8053188 (T/G) G3433C (G/C) IVS1­46 (G/A) IVS4­70 (T/G) IVS4­58 (A/C) rs249954 (C/T) rs120963 (T/C) rs16940342 (A/G) rs249935 (A/G) rs8053188 (C/T) 1592delT (ins/del) rs8053188 (C/T) rs16940342 (A/G) rs249954 (C/T) rs447529 (C/G) rs249935 (A/G) rs8053188 (C/T) rs152451 (G/A) rs249954 (C/T) rs45551636 (A/G)
+
+7
+8 7 7 7
+6
+
+Ref, reference; SNP, single nucleotide polymorphism; NOS, the Newcastle-Ottawa Scale
+
+Table 2. Meta-analysis of the Association Between PALB2 Genetic Bariants and Breast Cancer Risk
+
+Subgroups
+
+M allele vs. W allele (allele model)
+
+WM + MM vs. WW (dominant model)
+
+MM vs. WW + WM (recessive model)
+
+MM vs. WW (homozygous model)
+
+MM vs. WM (heterozygous model)
+
+OR 95%CI P OR 95%CI
+
+P OR 95%CI
+
+P OR 95%CI P OR 95%CI P
+
+Overall
+
+1.36
+
+Ethnicity
+
+Caucasians
+
+1.45
+
+Asians
+
+1.28
+
+Country
+
+Finland
+
+3.79
+
+China
+
+1.28
+
+Cananda
+
+1.33
+
+Source of control
+
+Population-based 1.32
+
+Hospital-based 1.23
+
+Genotype method
+
+DNA sequencing 1.45
+
+MicroArray
+
+1.29
+
+DHPLC
+
+1.05
+
+1.20~1.52 <0.001 1.64
+1.03~2.03 0.032 1.92 1.23~1.34 <0.001 1.58
+1.85~6.94 0.018 2.34 1.23~1.34 <0.001 1.58 0.94~1.89 0.103 1.4
+1.25~1.39 <0.001 1.39 1.14~1.33 <0.001 1.37
+1.03~2.03 0.032 1.78 1.23~1.34 <0.001 1.37 0.49~2.26 0.895 1.05
+
+1.42~1.91 <0.001
+1.24~2.96 0.004 1.35~1.83 <0.001
+1.69~3.25 <0.001 1.35~1.83 <0.001 0.93~2.10 0.11
+1.32~1.46 <0.001 1.27~1.49 <0.001
+1.41~2.25 <0.001 1.31~1.43 <0.001 0.49~2.24 0.894
+
+0.92 0.82~1.04 0.179 1.08 1.06~1.21 0.028 1.67
+
+1.41 0.40~4.96 0.592 1.47 1.42~5.17 0.026 1.76 0.92 0.81~1.03 0.159 1.17 1.05~1.21 0.025 1.67
+
+1.25 0.96~2.10 0.92 0.81~1.03 1.41 0.40~4.96
+
+0.171 1.55 1.13~2.57 0.159 1.07 0.95~1.21 0.592 1.47 0.42~5.17
+
+0.002 1.63 0.251 0.67 0.546 1.06
+
+1.09 0.94~1.26 0.25 1.33 1.15~1.53 <0.001 0.8 1.67 1.54~2.83 <0.001 1.72 1.59~1.89 0.003 1.49
+
+1.41 0.40~4.96 0.92 0.81~1.03 0.88 0.39~1.27
+
+0.592 1.47 0.42~5.17 0.159 1.07 0.95~1.21 0.652 0.79 0.26~1.19
+
+0.546 1.06 0.251 0.67 0.747 0.59
+
+1.60~2.75 <0.001
+1.32~3.55 0.023 1.60~2.75 <0.001
+1.09~1.97 0.033 0.60~0.75 <0.001 0.32~3.55 0.923
+0.70~0.92 0.002 1.40~2.59 <0.001
+0.32~3.55 0.923 0.60~0.75 <0.001 0.27~1.52 0.283
+
+OR, odds ratios; 95%CI, 95% confidence interval; PCR-RFLP, polymerase chain reaction~restriction fragment length polymorphism
+
+is shown in Figure 1. A total of 10, 868 subjects were involved in this meta-analysis, including 4, 499 breast cancer cases and 6, 369 healthy controls. All the power for the sample size of included studies were higher than 0.70. Overall, three studies were conducted in Caucasian populations and the other three in Asian populations. The classical direct DNA sequencing method was performed in three studies, two studies used MicroArray method the other one used DHPLC method. The HWE test was conducted to evaluate the genotype distribution of the controls in all included studies. Each study did not deviate from the HWE (all P > 0.05). NOS scores of all included studies were higher than 6 (moderate-high quality). Characteristics and methodological quality of the included studies are summarized in Table 1.
+
+Figure 1. Flow Chart Shows Study Selection Procedure. Six case-control studies were included in this meta-analysis
+
+uantitative ata nt esis A summary of the meta-analysis findings on the
+associations between PALB2 genetic variants and susceptibility to breast cancer is provided in Table 2.
+
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 7151
+
+Yi-Xia Zhang et al
+Figure 2. Subgroup Analyses for the Associations between PALB2 Genetic Variants And Breast Cancer Risk Under The Dominant Models. (A) Subgroup analysis by ethnicity; (B) Subgroup analysis by country; (C) Subgroup analysis by source of controls; (D) Subgroup analysis by genotyping method
+
+Table 3. Univariate and Multivariate Meta-regression Analyses of Potential Source of Heterogeneity
+
+Heterogeneity Coefficient SE z P
+
+95%CI
+
+factors
+
+LL UL
+
+Publication year Univariate 0.929 Multivariate 0.077
+Ethnicity Univariate -0.189
+Multivariate -0.092 Country
+Univariate -0.282 Multivariate -0.147 Source of controls Univariate -0.175 Multivariate -0.176 Genotyping method Univariate -0.212 Multivariate -0.198
+
+0.317 0.034
+0.169 0.138
+0.142 0.142
+0.066 0.062
+0.15 0.127
+
+2.93 2.24
+-1.12 -0.67
+-1.09 -1.03
+2.64 2.65
+-1.41 -1.56
+
+0.093 0.052
+0.264 0.505
+0.31 0.302
+0.108 0.098
+0.159 0.118
+
+-0.155 -0.144
+-0.52 -0.363
+-0.156 -0.427
+-0.234 -0.306
+-0.506 -0.447
+
+1.031 1.009
+0.142 0.179
+1.044 0.132
+1.045 1.0461
+0.083 0.051
+
+SE, standard error; 95%CI, 95% confidence interval; LL, lower limit; UL, upper limit
+
+Figure 3. Sensitivity Analysis of the Associations Between PALB2 Genetic Variants and Breast Cancer Risk under the Allele and Dominant Models. Results were computed by omitting each study in turn. Meta-analysis random-effects estimates (exponential form) were used. The two ends of the dotted lines represent the 95% CI
+Subgroup analyses by ethnicity indicated PALB2 genetic variants were associated with an increased risk of breast cancer among both Caucasian and Asian populations (Figure 2A). In the stratified subgroup based on country, the results suggested that PALB2 genetic variants might increase the risk of breast cancer in the populations of Finland and China (Figure 2B). Further subgroup analysis by source of controls and genotyping method also showed significant associations between PALB2 genetic variants
+
+Figure 4. Begger's Funnel Plots of The Associations Between PALB2 Genetic Variants and Breast Cancer Risk under the Allele and Dominant Models. Each point represents a separate study for the indicated association. Log[OR], natural logarithm of OR. Horizontal line, mean magnitude of the effect
+and increased risk of breast cancer in both populationbased, hospital-based, DNA sequencing and MicroArray subgroups (Figure 2C-D). Although no association was found between PALB2 genetic variants and breast cancer risk in the population of Canada and the DHPLC subgroup (all P > 0.05), but these results lacked statistical reliability due to the small sample size.
+
+7152 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.12.7149 Common Variants in the PALB2 Gene Confer Susceptibility to Breast Cancer: a Meta-analysis
+
+eta e ression an ensitivit Anal ses Univariate and multivariate meta-regression analyses
+were conducted for the associations between PALB2 genetic variants and breast cancer risk. The results showed that none of factors may be the main sources of heterogeneity (Table 3). Sensitivity analysis was performed to assess the influence of each individual study on the pooled OR by omitting each individual studies. The analysis results suggested that no individual studies significantly affected the pooled OR (Figure 3), indicating a statistically robust result.
+Pu lication ias valuation The shapes of the funnel plots did not reveal any
+evidence of obvious asymmetry under the allele and dominant models (Figure 4). Egger's test also displayed no significant statistical evidence of publication bias (allele model: t = 0.11, P = 0.922; dominant model: t = 0.26, P = 0.811; respectively), suggesting that no publication bias exists.
+Discussion
+PALB2, a recently discovered protein that interacts with BRCA2, is implicated in its nuclear localization and stability and is required for some functions of BRCA2 in homologous recombination and double-strand break repair (Rahman et al., 2007; Hellebrand et al., 2011). Generally,
+CA1 and BRCA2 are tumor suppressor genes, both of which are involved in maintaining genome integrity at least in part by engaging in DNA repair, cell cycle checkpoint control and even the regulation of key mitotic or cell division steps (Cao et al., 2009). Like CA1 mutations, which almost exclusively result in female breast and ovarian cancers, BRCA2 families also show a marked increase in breast and ovarian cancer (O'Donovan and Livingston, 2010). Recent studies have demonstrated that mutations of PALB2 had a significant impact on susceptibility to breast cancer (Cao et al., 2010; Kuusisto et al., 2011). It is well established that tumorigenesis is a multi-step process of genetic alterations that transform a normal human cell into a malignant derivative (Bogdanova et al., 2011). Consequently, DNA repair genes, which have the ability of maintaining genomic stability through DNA repair mechanisms, are essential to prevent human cancer initiation and development (Guenard et al., 2010). The functional interaction between the DNA helicase PALB2 and BRCA2 genes makes common variants in PALB2 good candidates for low- to moderate-penetrance susceptibility to breast cancer (Casadei et al., 2011). Several studies have shown that mutations of PALB2 may play an extremely important role in the development and progression of breast cancer. However, there are also some contradictory conclusions in the documents with regard to the exact role of PALB2 mutations in breast cancer risk (Cao et al., 2009; Heikkinen et al., 2009; Guenard et al., 2010). The controversial findings are probably a result of several reasons, such as the differences in study designs, sample size, ethnicity, source of controls, genotype methods, etc.
+Given controversial results in those previous studies, we conducted a meta-analysis to explore the associations
+
+between PALB2 genetic variants and breast cancer risk. In this meta-analysis, 6 independent case-control studies were included with a total of 4,499 breast cancer cases and 6,369 healthy controls. When all the eligible studies were pooled into the meta-analysis, the results showed that PALB2 genetic variants were associated with an increased risk of breast cancer, suggesting that PALB2 genetic variants may be causative factors for breast cancer. Although the exact function of PALB2 in the development of breast cancer is not clear yet, a potential explanation might be that PALB2 gene mutations decreased its functions as an important cofactor of breast cancer susceptibility proteins BRCA2 in promoting DNA repair function and regulating cell cycle, and thereby maintaining genome stability (Teo et al., 2013). Consistent with our work, several other studies were also find evidence to support a significant contribution to breast cancer susceptibility by the PALB2 genetic variants. Cao et al suggested that PALB2 mutations were responsible for approximately 1% of Chinese women with early-onset breast cancer and affected relatives (Cao et al., 2009). Since obvious heterogeneity obviously existed, we performed stratified analyses based on ethnicity, country, source of controls and genotyping method. In the stratification analysis by ethnicity, the results indicated that PALB2 mutations were associated with the susceptibility of breast cancer among Caucasian and Asian populations, suggesting that there was no ethnicity difference for the influences of PALB2 mutations on susceptibility to breast cancer. Further subgroup analyses suggested that PALB2 genetic variants might increase the risk of breast cancer in the populations of Finland and China, as well as in the populationbased, hospital-based, DNA sequencing and MicroArray subgroups, but no similar association was found in the population of Canada and the DHPLC subgroup, which may be associated with the small sample size. These findings are consistent with the previous hypothesis that variability in the PALB2 genetic variants may alter the risk of developing breast cancer, suggesting that they may be useful as biomarkers in predicting an individual's genetic susceptibility to breast cancer.
+In interpreting our results of the current meta-analysis, some limitations need to be addressed. Firstly, the sample size is still relatively small and may not provide sufficient power to estimate the association between PALB2 genetic variants and breast cancer risk. Therefore, more researches with larger sample size are needed to accurately provide a more representative statistical analysis. Secondly, a metaanalysis may encounter recall or selection bias, possibly influencing the reliability of our study results (Eeles et al., 2013). Thirdly, our lack of access to the original data from the studies limited further evaluation of potential interactions between other factors and breast cancer risks (Siaud et al., 2011). Finally, although all cases and controls of each study were well defined with similar inclusion criteria, there may be other potential factors that were not taken into account that may have influenced our results.
+In conclusion, our meta-analysis suggests that PALB2 genetic variants may increase the risk of breast cancer. Thus, detection of PALB2 genetic variants may be a promising biomarker for the early detection of MI. Based
+
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 7153
+
+Yi-Xia Zhang et al
+on the limitations mentioned before, detailed studies are needed to confirm our findings.
+Acknowledgements
+This study was supported by the Science and Technology Research Project of the Higher Education Department of Liaoning Province (No. L2010695). We declared no competing interests.
+References
+Benson JR, Jatoi I (2012). The global breast cancer burden. uture ncol, 8, 697-702.
+Bogdanova N, Sokolenko AP, Iyevleva AG, et al (2011). PALB2 mutations in German and Russian patients with bilateral breast cancer. Breast Cancer Res Treat, 126, 545-50.
+Bray F, Jemal A, Grey N, et al (2012). Global cancer transitions according to the Human Development Index (2008-2030): a population-based study. Lancet ncol, 13, 790-801.
+Cao AY, Huang J, Hu Z, et al (2009). The prevalence of PALB2 germline mutations in BRCA1/BRCA2 negative Chinese women with early onset breast cancer or affected relatives. Breast Cancer Res Treat, 114, 457-62.
+Cao AY, Yu KD, Yin WJ, et al (2010). Five common single nucleotide polymorphisms in the PALB2 gene and susceptibility to breast cancer in eastern Chinese population. Breast Cancer Res Treat, 123, 133-8.
+Casadei S, Norquist BM, Walsh T, et al (2011). Contribution of inherited mutations in the BRCA2-interacting protein PALB2 to familial breast cancer. Cancer Res, 71, 2222-9.
+Chen P, Liang J, Wang Z, et al (2008). Association of common PALB2 polymorphisms with breast cancer risk: a case-control study. Clin Cancer Res, 14, 5931-7.
+Colditz GA, Kaphingst KA, Hankinson SE, et al (2012). Family history and risk of breast cancer: nurses' health study. Breast Cancer Res Treat, 133, 1097-104.
+Dupont WD and Plummer WD, Jr. (1990). Power and sample size calculations. A review and computer program. Control Clin Trials, 11, 116-28.
+Eeles RA, Olama AA, Benlloch S, et al (2013). Identification of 23 new prostate cancer susceptibility loci using the iCOGS custom genotyping array. Nat Genet, 45, 385-91, 91e1-2.
+Erkko H, Xia B, Nikkila J, et al (2007). A recurrent mutation in PALB2 in Finnish cancer families. ature, 446, 316-9.
+Frankenberg-Schwager M and Gregus A (2012). Chromosomal instability induced by mammography X-rays in primary human fibroblasts from BRCA1 and BRCA2 mutation carriers. nt J a iat iol, 88, 846-57.
+Guenard F, Pedneault CS, Ouellette G, et al (2010). Evaluation of the contribution of the three breast cancer susceptibility genes CHEK2, STK11, and PALB2 in non-BRCA1/2 French Canadian families with high risk of breast cancer. Genet Test ol Biomarkers, 14, 515-26.
+Heikkinen T, Karkkainen H, Aaltonen K, et al (2009). The breast cancer susceptibility mutation PALB2 1592delT is associated with an aggressive tumor phenotype. Clin Cancer Res, 15, 3214-22.
+Hellebrand H, Sutter C, Honisch E, et al (2011). Germline mutations in the PALB2 gene are population specific and occur with low frequencies in familial breast cancer. u utat, 32, E2176-88.
+Jackson D, White IR and Riley RD (2012). Quantifying the impact of between-study heterogeneity in multivariate metaanalyses. tat e , 31, 3805-20.
+Kuusisto KM, Bebel A, Vihinen M, et al (2011). Screening for
+
+BRCA1, BRCA2, CHEK2, PALB2, BRIP1, RAD50, and CDH1 mutations in high-risk Finnish BRCA1/2-founder mutation-negative breast and/or ovarian cancer individuals. Breast Cancer Res, 13, R20. Llanos AA, Dumitrescu RG, Marian C, et al (2012). Adipokines in plasma and breast tissues: associations with breast cancer risk factors. Cancer i e iol io ar ers Prev, 21, 1745-55. O'Donovan PJ and Livingston DM (2010). BRCA1 and BRCA2: breast/ovarian cancer susceptibility gene products and participants in DNA double-strand break repair. Carcinogenesis, 31, 961-7. Pern F, Bogdanova N, Schurmann P, et al (2012). Mutation analysis of BRCA1, BRCA2, PALB2 and BRD7 in a hospitalbased series of German patients with triple-negative breast cancer. P o ne, 7, e47993. Peters JL, Sutton AJ, Jones DR, et al (2006). Comparison of two methods to detect publication bias in meta-analysis. JA A, 295, 676-80. Rahman N, Seal S, Thompson D, et al (2007). PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat Genet, 39, 165-7. Siaud N, Barbera MA, Egashira A, et al (2011). Plasticity of BRCA2 function in homologous recombination: genetic interactions of the PALB2 and DNA binding domains. P o Genet, 7, e1002409. Stang A (2010). Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. ur J i e iol, 25, 603-5. Stephens PJ, Tarpey PS, Davies H, et al (2012). The landscape of cancer genes and mutational processes in breast cancer.
+ature, 486, 400-4. Teo ZL, Provenzano E, Dite GS, et al (2013). Tumour
+morphology predicts PALB2 germline mutation status. Br J Cancer, 109, 154-63. Xia B, Sheng Q, Nakanishi K, et al (2006). Control of BRCA2 cellular and clinical functions by a nuclear partner, PALB2.
+ol Cell, 22, 719-29. Zintzaras E, Ioannidis JP (2005). HEGESMA: genome search
+meta-analysis and heterogeneity testing. Bioinformatics, 21, 3672-3.
+
+7154 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+

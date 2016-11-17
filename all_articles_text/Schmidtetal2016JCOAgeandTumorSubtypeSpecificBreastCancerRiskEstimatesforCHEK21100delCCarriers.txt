@@ -1,0 +1,1919 @@
+VOLUME 34 · NUMBER 23 · AUGUST 10, 2016
+JOURNAL OF CLINICAL ONCOLOGY
+
+ORIGINAL REPORT
+
+Age- and Tumor Subtype­Specific Breast Cancer Risk
+Estimates for CHEK2*1100delC Carriers
+Marjanka K. Schmidt, Frans Hogervorst, Richard van Hien, Sten Cornelissen, Annegien Broeks, Muriel A. Adank, Hanne Meijers, Quinten Waisfisz, Antoinette Hollestelle, Mieke Schutte, Ans van den Ouweland, Maartje Hooning, Irene L. Andrulis, Hoda Anton-Culver, Natalia N. Antonenkova, Antonis C. Antoniou, Volker Arndt, Marina Bermisheva, Natalia V. Bogdanova, Manjeet K. Bolla, Hiltrud Brauch, Hermann Brenner, Thomas Bru¨ning, Barbara Burwinkel, Jenny Chang-Claude, Georgia Chenevix-Trench, Fergus J. Couch, Angela Cox, Simon S. Cross, Kamila Czene, Alison M. Dunning, Peter A. Fasching, Jonine Figueroa, Olivia Fletcher, Henrik Flyger, Eva Galle, Montserrat Garc´ia-Closas, Graham G. Giles, Lothar Haeberle, Per Hall, Peter Hillemanns, John L. Hopper, Anna Jakubowska, Esther M. John, Michael Jones, Elza Khusnutdinova, Julia A. Knight, Veli-Matti Kosma, Vessela Kristensen, Andrew Lee, Annika Lindblom, Jan Lubinski, Arto Mannermaa, Sara Margolin, Alfons Meindl, Roger L. Milne, Taru A. Muranen, Polly A. Newcomb, Kenneth Offit, Tjoung-Won Park-Simon, Julian Peto, Paul D.P. Pharoah, Mark Robson, Anja Rudolph, Elinor J. Sawyer, Rita K. Schmutzler, Caroline Seynaeve, Julie Soens, Melissa C. Southey, Amanda B. Spurdle, Harald Surowy, Anthony Swerdlow, Rob A.E.M. Tollenaar, Ian Tomlinson, Amy Trentham-Dietz, Celine Vachon, Qin Wang, Alice S. Whittemore, Argyrios Ziogas, Lizet van der Kolk, Heli Nevanlinna, Thilo Do¨rk, Stig Bojesen, and Douglas F. Easton
+
+Author affiliations appear at the end of this article.
+Published online ahead of print at www.jco.org on June 6, 2016.
+Written on behalf of Norwegian Breast Cancer Study Investigators.
+Support information appears at the end of this article.
+The content of this manuscript does not necessarily reflect the views or policies of the National Cancer Institute or any of the collaborating centers in the Breast Cancer Family Registry (BCFR), nor does mention of trade names, commercial products, or organizations imply endorsement by the USA Government or the BCFR. The funding sources had no role in study design; collection, analysis, or interpretation of data; writing of the paper; or in decisions related to publication.
+Authors' disclosures of potential conflicts of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article.
+Corresponding author: Marjanka K. Schmidt, MD, Division of Molecular Pathology, and Division of Psychosocial Research and Epidemiology, Netherlands Cancer Institute, Antoni van Leeuwenhoek hospital, Plesmanlaan 121, 1066CX Amsterdam, the Netherlands; e-mail: mk.schmidt@nki.nl.
+© 2016 by American Society of Clinical Oncology
+0732-183X/16/3423w-2750w/$20.00
+DOI: 10.1200/JCO.2016.66.5844
+
+ABSTRACT
+Purpose CHEK2*1100delC is a well-established breast cancer risk variant that is most prevalent in European populations; however, there are limited data on risk of breast cancer by age and tumor subtype, which limits its usefulness in breast cancer risk prediction. We aimed to generate tumor subtypeand age-specific risk estimates by using data from the Breast Cancer Association Consortium, including 44,777 patients with breast cancer and 42,997 controls from 33 studies genotyped for CHEK2*1100delC.
+Patients and Methods CHEK2*1100delC genotyping was mostly done by a custom Taqman assay. Breast cancer odds ratios (ORs) for CHEK2*1100delC carriers versus noncarriers were estimated by using logistic regression and adjusted for study (categorical) and age. Main analyses included patients with invasive breast cancer from population- and hospital-based studies.
+Results Proportions of heterozygous CHEK2*1100delC carriers in controls, in patients with breast cancer from population- and hospital-based studies, and in patients with breast cancer from familial- and clinical genetics center­based studies were 0.5%, 1.3%, and 3.0%, respectively. The estimated OR for invasive breast cancer was 2.26 (95%CI, 1.90 to 2.69; P = 2.3 3 10220). The OR was higher for estrogen receptor (ER)­positive disease (2.55 [95%CI, 2.10 to 3.10; P = 4.9 3 10221]) than it was for ER-negative disease (1.32 [95%CI, 0.93 to 1.88; P = .12]; P interaction = 9.9 3 1024). The OR significantly declined with attained age for breast cancer overall (P = .001) and for ER-positive tumors (P = .001). Estimated cumulative risks for development of ER-positive and ER-negative tumors by age 80 in CHEK2*1100delC carriers were 20% and 3%, respectively, compared with 9% and 2%, respectively, in the general population of the United Kingdom.
+Conclusion These CHEK2*1100delC breast cancer risk estimates provide a basis for incorporating CHEK2*1100delC into breast cancer risk prediction models and into guidelines for intensified screening and follow-up.
+J Clin Oncol 34:2750-2760. © 2016 by American Society of Clinical Oncology
+
+2750 © 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+INTRODUCTION
+Susceptibility to breast cancer is known to be conferred by rare mutations in high-risk genes, notably BRCA1 and BRCA2, by mutations in several moderate-risk genes, and by a large number of common genetic variants. Among moderate-risk genes, one of the best established is CHEK2 (cell-cycle checkpoint kinase 2).1 The protein encoded by CHEK2 is a cell-cycle checkpoint regulator and putative tumor suppressor and it plays a critical role in the DNA damage repair pathway.2-4 The 1100delC germline mutation in CHEK2, which is located at 22q12.1 (NM_007194.3(CHEK2):c.1100del: p.(Thr367Metfs*15)), is the most frequently found protein-truncating variant in populations of European descent.1,5-7 Deletion of a single cytosine at position 1100 in exon 10 introduces a stop codon and results in a kinase-dead CHEK2 protein.
+Although the evidence that CHEK2*1100delC is associated with increased breast cancer risk is unequivocal, the magnitude of the risk is still uncertain, in part because the variant is relatively uncommon and in part because many studies have oversampled cases with a family history of disease, which leads to biased results. Published relative risk estimates for CHEK2*1100delC carriers vary between 1.5 and 3.7-10 The largest meta-analysis of breast cancer risk for CHEK2*1100delC estimated an odds ratio (OR) of 2.7 (95% CI, 2.1 to 3.4) on the basis of unselected breast cancer cases and an almost two times higher OR on the basis of on familial breast cancer cases (OR, 4.8; 95% CI, 3.3 to 7.2).7 Although CHEK2*1100delC carriers tend to develop estrogen receptor (ER)­positive tumors, they have a worse breast-cancer specific survival compared with noncarriers.8,11-14 CHEK2*1100delC is also associated with a higher risk for contralateral breast cancer.9,11,12,15 We previously showed that, especially in countries with a high prevalence of CHEK2*1100delC, this variant occurred relatively frequently in population-based young patients with breast cancer1,7,11; however, no unbiased age-specific risk estimates have been reported so far for CHEK2*1100delC carriers.
+In the last few years, clinical genetic testing of women to estimate future risk of breast cancer has progressed beyond BRCA1 and BRCA2 testing to the use of gene panel testing, which involves the simultaneous testing of many known or suspected susceptibility genes, including CHEK2.16 Such clinical testing, however, need to be underpinned by reliable risk estimates. Moreover, screening and prevention strategies are age dependent and driven by such factors as family planning,17 and, hence, require reliable age-specific risks. In addition, knowledge about subtype-specific risks may be relevant for breast cancer prevention strategies.18 The aim of the current study, therefore, was to provide age- and tumor subtype­specific risk estimates by using data from the Breast Cancer Association Consortium (BCAC), which includes . 85,000 women who have been genotyped for CHEK2*1100delC.
+PATIENTS AND METHODS
+Patient and Clinical Data Collection From 36 studies in the BCAC, 96,489 persons were genotyped for
+CHEK2*1100delC. After exclusion of non-Europeans and males, 91,147 women from 35 studies remained, including 930 heterozygous and 15 homozygous CHEK2*1100delC carriers (Appendix Table A1, online only; Appendix Fig A1, online only). Two studies in which fewer than three
+
+CHEK2*1100delC carriers were detected were excluded from further risk analyses, which left 42,977 controls and 44,777 patients with breast cancer from 33 studies (Appendix Fig A1). Genotype data from five studies had been included in a previous meta-analysis,1 but the majority of data were generated in a new genotyping experiment. Studies were classified according to sampling frame for the cases and controls into population- and hospitalbased studies (unselected for family history) or clinical genetics­based and familial studies. Data on patient characteristics--age, family history, and BRCA1/2 mutation status--and tumor characteristics had also been submitted by individual studies and were centrally harmonized and checked according to a standard data dictionary (Data Supplement). Details of the studies have been published previously (Appendix Table A1),19,20 and a subset of the data has been previously used for an analysis of CHEK2*1100delC and disease outcome.12 All studies were approved by the relevant institutional review boards, and participants provided written informed consent or did not object to the secondary use of their tissue and data following country-specific regulations.21
+CHEK2*1100delC Genotyping Details of CHEK2*1100delC genotyping performed in the 35 Eu-
+ropean studies included are shown in the Data Supplement and in Appendix Table A1. Genotyping of the majority of samples (n = 84,314) was done by using a 59exonuclease Taqman allelic discrimination assay developed by the Netherlands Cancer Institute­Antoni van Leeuwenhoek Hospital. Primers for the custom Taqman assay were specifically designed to be nonbinding to the pseudogenes on chromosomes 15 and 16, which are homologous to exons 10 to 14 of CHEK2 on chromosome 22. An additional 6,833 samples were genotyped by using a different Taqman, iPlex, or oligohybridization assay.
+Statistical Analyses Primary analyses were performed by using STATA (version SE11.2;
+STATA, College Station, TX; Computing Resource Center, Santa Monica, CA), and calculation of cumulative risks, estimates of frequency by country, and graphics in Figures 1 and 2 were performed in R (version 3.2.1; R Foundation for Statitiscal Computing, Vienna, Austria). P values reported are two-sided, and P values , .05 were considered significant. Differences between proportions were tested by using the Pearson x2 test, Fisher's exact test was used for comparisons that included cells with fewer than five observations, and differences and between mean ages were tested by using the t test. Breast cancer ORs for CHEK2*1100delC carriers versus noncarriers were estimated by using logistic regression. All variables were included in analyses as categorical, as indicated in the tables, except for age (continuous in years). All analyses were adjusted for study (categorical). We compared a carrier model--homozygous and heterozygous CHEK2*1100delC carriers were combined--and a log-additive model, including a linear term of the number of 1100delC alleles, with a saturated model by using likelihood ratio tests. Because no homozygous carriers were observed in controls, the saturated model did not converge, and we determined the likelihood by considering a range of possible values for the homozygote risk--between 5 and 20, in 1-point increments--by using an offset term.
+The main analyses focused on the comparison of patients with breast cancer recruited through population- and hospital-based studies. We performed sensitivity analyses that excluded known BRCA1/2 carriers, in situ and unknown behavior breast cancers, prevalent breast cancers (from patients whose blood was sampled . 1 year after diagnosis), and samples for which CHEK2*1100delC genotypes were obtained with assays other than the custom Taqman. Subgroup case-control analyses were performed by age, family history, and tumor subtype of patients with breast cancer. To assess statistical significance of differences between subgroups, we compared these subgroups in a case-only analysis with CHEK2 as the dependent variable. For the forest plot (Appendix Fig A2, online only), the summary estimate was derived from a fixed effect meta-analysis of the log(OR) estimates from individual studies by using the inverse variance method (fixedi in STATA).
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology 2751
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+0
+
+0.002
+
+0.004
+
+0.006
+
+0.008
+
+0.010
+
+0.015
+
+Country
+
+Frequency Rate
+
+95% CI
+
+Australia
+
+0.0030
+
+Belarus Belgium Canada Denmark Finland Germany Ireland The Netherlands Norway Poland Russia Sweden UK
+
+0.0030 0.0047 0.0049 0.0066 0.0124 0.0054 0.0018 0.0134 0.0044 0.0024 0.0020 0.0046 0.0054
+
+USA
+
+0.0037
+
+0.0020 to 0.0044 0.0020 to 0.0047 0.0030 to 0.0075 0.0025 to 0.0099 0.0053 to 0.0081 0.0100 to 0.0152 0.0044 to 0.0066 0.0009 to 0.0038 0.0110 to 0.0162 0.0031 to 0.0063 0.0017 to 0.0036 0.0010 to 0.0038 0.0032 to 0.0065 0.0047 to 0.0062 0.0028 to 0.0050
+
+Fig 1. CHEK2*1100delC frequency rates per country in legend are shown with 95% confidence intervals and were calculated using a modification of the empirical Bayes approach proposed by Clayton and Kaldor, as described in the methods. Analysis included all controls (44,276 non-carriers and 235 CHEK2*1100delC carriers) and all population- and hospital-based breast cancer patients (38,783 non-carriers and 502 CHEK2*1100delC carriers). When the breast cancer patients from the clinical genetics and familial studies were also included, the rates slightly changed, but not the color of the countries in the map (results not shown).
+
+2752 © 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+OR
+
+4 Overall ER-positive ER-negative
+3
+2
+1
+0
+30 40 50 60 70 80
+Age (years)
+Fig 2. Breast cancer relative risk curves for CHEK2*1100delC carriers by age for invasive breast cancer: overall, estrogen receptor (ER)­positive, and ER-negative disease. OR, odds ratio.
+In addition, we modeled the CHEK2*1100delC breast cancer risk estimates by age by using the more stable interaction estimates for age and CHEK2*1100delC from the case-only analysis (Data Supplement). Cumulative risks were calculated on the basis of estimated relative breast cancer risks for CHEK2*1100delC carriers by using United Kingdom breast cancer incidences from 1992 to 2010 and the ratio of ER-positive and ER-negative breast tumors from the BCAC database (Data Supplement). Carrier frequency estimates by country were derived by using a modification of the empirical Bayes approach proposed by Clayton and Kaldor22 for mapping disease incidence rates (Data Supplement).
+RESULTS
+Analyses included 42,977 controls and 44,777 patients with breast cancer from 33 BCAC studies, of which 42,627 patients were recorded as having invasive tumors as well as 1,734 with in situ tumors (Appendix Fig A1). We included in the analysis only European women who had been genotyped for CHEK2*1100delC because this mutation is rare in other ethnicities23; we detected only three carriers of the mutation in non-Europeans. Summaries of patient and tumor characteristics by study are shown in Appendix Tables A2 to A6 (online only), and characteristics of CHEK2*1100delC carriers and noncarriers are summarized in Appendix Table A7 (online only).
+CHEK2*1100delC Heterozygous and Homozygous Carriers
+Proportions of CHEK2*1100delC carriers in controls, patients with breast cancer from population- or hospital-based studies, and patients from familial or clinical genetics center­based studies were 0.5%, 1.3%, and 3.0% respectively (Appendix Table A7). Homozygous CHEK2*1100delC carriers were rare (n = 15; 0.02%) and occurred only in cases. Ten of 15 homozygous carriers were identified in studies from the Netherlands (Appendix Table A1, online only). The frequency of CHEK2*1100delC in women of European descent displayed wide variation by country,
+
+from . 1.2% in the Netherlands and Finland to , 0.3% in Eastern Europe (Fig 1).
+Comparison of a carrier model in which both homozygous and heterozygous CHEK2*1100delC were defined as carriers, with a saturated model (see Patients and Methods) indicated a higher risk estimate for homozygous than heterozygous carriers (P = .017 on the basis of population- and hospital-based studies; Appendix Table A8, online only). A log-additive model could not be rejected (P = .10 compared with the saturated model); however, the estimated ORs for heterozygotes were similar in the three models. Because homozygous carriers were rare and it would not be possible to obtain reliable estimates for age- and tumor subtype­specific analyses, we excluded the 15 homozygous carriers so that subsequent risk estimates refer to heterozygous carriers.
+Tumor Characteristics of CHEK2*1100delC Carriers CHEK2*1100delC patients with breast cancer from pop-
+ulation- and hospital-based studies were younger and more often developed ER-positive and progesterone receptor (PR)­positive tumors, although carriers and non-carriers were similar with respect to morphology, grade, and human epithelial growth factor receptor 2 (HER2) status (Table 1); results for the clinical genetic and familial studies were similar. CHEK2*1100delC patients with breast cancer from population- and hospital-based studies more often developed in situ tumors. We suspected that the association between CHEK2*1100delC and in situ tumors could be a result of differential recruitment related to family history of breast cancer and screening. In support of this hypothesis, there was evidence of an association between CHEK2*1100delC and first-degree family history of breast cancer for women with in situ cancers (P = .05), but not for invasive tumors (P = .85; using logistic regression analysis adjusted for study). No such associations were observed for patients with breast cancer in clinical genetic and familial studies. In controls, there was no association between CHEK2*1100delC carriership and family history (n = 41,529; OR, 1.00; 95% CI, 1.00 to 1.00; P = .77) or age (n = 38,358; OR, 1.00; 95% CI, 0.99 to 1.01; P = .99).
+Overall Breast Cancer Risk Estimates and Sensitivity Analyses
+Breast cancer risk estimates for CHEK2*1100delC carriers, including various sensitivity analyses, are shown in Table 2. ORs for breast cancer of any behavior (in situ or invasive) and invasive breast cancer were 2.32 (95%CI, 1.95 to 2.75; P = 5.5 3 10222) and 2.26 (95% CI, 1.90 to 2.69; P = 2.3 3 10220), respectively, using population- and hospital-based studies. There was no evidence of heterogeneity in ORs among the studies (Appendix Fig A2). The OR based on all breast cancers, including those from familial and clinical genetics center-based studies, was higher (OR = 2.44; 95% CI, 2.08 to 2.87; P = 6.3 3 10228), consistent with overrepresentation of cases with a family history of disease. The OR based on incident breast cancers only was lower (OR = 2.11; 95% CI, 1.69 to 2.65; P = 6.3 3 10211); in case-only analysis this was significantly different from the OR for prevalent tumors (P = 1.5 3 1024).
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology 2753
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+Table 1. Associations of Patient and Tumor Characteristics With CHEK2*1100delC Carriership in Patients With Breast Cancer
+
+Patients From Population- and Hospital-Based Studies
+
+Patients From Familial or Clinical Genetics Center­Based Studies
+
+Characteristic
+
+Total, No.
+
+OR
+
+95% CI
+
+P
+
+Total, No.
+
+OR
+
+95% CI
+
+P
+
+Family history* Age, years Tumor behavior Morphology
+Ductal Lobular Medullary Mixed Mucinous Other Papillary Tubular Grade I II III ER status Negative Positive PR status Negative Positive HER2 status Negative Positive
+
+37,913 37,566 37,571 30,729
+25,808
+26,103 21,687 12,687
+
+1.00 1.00 to 1.00
+
+.44
+
+0.99
+
+0.98 to 0.99
+
+1.0 3 1023
+
+1.65 1.11 to 2.44
+
+.01
+
+Ref 0.91 0.68 to 1.22 0.69 0.25 to 1.88 1.17 0.69 to 2.00 1.02 0.42 to 2.48 0.79 0.42 to 1.51 0.83 0.11 to 6.02 0.23 0.03 to 1.63
+
+.52 .46 .56 .97 .48 .85 .14
+
+Ref 1.32 0.99 to 1.77 1.13 0.82 to 1.55
+
+.06 .46
+
+Ref 1.92
+
+1.42 to 2.61
+
+2.7 3 1025
+
+Ref 1.37 1.06 to 1.77
+
+.02
+
+Ref 1.03 0.69 to 1.52
+
+.90
+
+6,849 6,834 6,775 4,831
+3,070
+2,532 2,372
+655
+
+1 0.99 0.68
+Ref 0.45 Omitted 1.37 Omitted 0.69 Omitted 1.14
+Ref 1.35 1.03
+Ref 2.36
+Ref 1.58
+Ref 0.69
+
+1.00 to 1.00 0.98 to 1.01 0.35 to 1.32
+0.23 to 0.90 0.59 to 3.21 0.39 to 1.22 0.45 to 2.87
+0.77 to 2.36 0.57 to 1.87
+1.24 to 4.48
+0.95 to 2.63
+0.24 to 2.01
+
+.43 .37 .25
+.02 .47 .20 .79
+.30 .91
+.01
+.08
+.50
+
+NOTE. Data given are those included in analyses for each model (Appendix Tables A2 to A5). Homozygous carriers were excluded. Analyses were performed by logistic regression with CHEK2 as the dependent variable and adjusted for study. For BRCA1/2 mutation status there was insufficient data for the models to run. Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; OR, odds ratio; PR, progesterone receptor; Ref, reference category. *Family history: yes, at least one first-degree relative with breast cancer; or no, none.
+
+Subgroup Breast Cancer Risk Estimates
+Table 3 gives breast cancer risk estimates for CHEK2*1100delC carriers by patient subgroup and by tumor subtype. The OR was higher for women without a first-degree relative with breast cancer compared with those with a family history, but not significantly so (P = .31). Moreover, this analysis included two studies
+
+with outlier results that were caused by the study definitions that were used (Appendix Table A6). Excluding these two studies, ORs for women without and with a first-degree relative with breast cancer were similar: 2.33 (95% CI, 1.76 to 3.08) and 2.26 (95% CI, 1.84 to 2.77), respectively. CHEK2*1100delC carriers had a significantly higher risk compared with noncarriers of developing an
+
+Table 2. Breast Cancer Relative Risk Estimates for CHEK2*1100delC Carriers Versus Noncarriers; Tumor Behavior Subgroup and Sensitivity Analyses
+
+Subgroup
+
+Case/Control, No.
+
+OR
+
+95% CI
+
+P
+
+All patients with breast cancer
+Population- and hospital-based patients with breast cancer All invasive tumors
+Population- and hospital-based patients with breast cancer, invasive tumors
+Population- and hospital-based patients with breast cancer, invasive tumors, incident breast cancers only*
+All in situ tumors Population- and hospital-based patients with breast cancer, in
+situ tumors All patients with breast cancer, custom Taqman
+Population- and hospital-based patients with breast cancer, custom Taqman
+All patients with breast cancer, non-BRCA1/2 carriers only
+Population- and hospital-based patients with breast cancer, non-BRCA1/2 carriers only
+
+41,744/39,956 36,029/39,464 39,798/39,956 34,525/36,464
+16,702/28,772
+1,577/34,818 1,208/33,379
+39,440/36,596 34,485/34,466
+41,365/39,954 35,872/36,462
+
+2.44 2.32 2.40 2.26
+2.11
+3.53 3.36
+2.50 2.33
+2.46 2.33
+
+2.08 to 2.87 1.95 to 2.75 2.04 to 2.82 1.90 to 2.69
+1.69 to 2.65
+2.38 to 5.23 2.15 to 5.25
+2.11 to 2.95 1.96 to 2.79
+2.09 to 2.88 1.96 to 2.76
+
+6.3 3 10228 5.5 3 10222 2.0 3 10226 2.3 3 10220
+6.3 3 10211
+3.9 3 10210 1.0 3 1027
+1.2 3 10226 5.5 3 10221
+2.7 3 10228 4.0 3 10222
+
+NOTE. All models were adjusted for age and study.
+Abbreviation: OR, odds ratio. *Incident breast cancer was defined as study entry before and up to 1 year after breast cancer diagnosis. Likely biased estimate (see text).
+
+2754 © 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+Table 3. Breast Cancer Relative Risk Estimates for CHEK2*1100delC Carriers Versus Noncarriers by Subgroup in Population- and Hospital-Based Patients With Breast Cancer With Invasive Tumors
+
+Subgroup
+
+Total in Case-Control Analysis, No.
+
+OR
+
+95% CI
+
+P Case-Control Analysis
+
+P Case-Only Analysis
+
+Family history Negative Positive
+Age, years , 35 35-50 50-65 . 65
+ER status Negative Positive
+PR status Negative Positive
+HER2 status Negative Positive
+Negative family history by age category, years , 35 35-50 50-65 . 65
+ER-negative by age category, years , 35 35-50 50-65 . 65
+ER-positive by age category, years , 35 35-50 50-65 . 65
+
+31,971 4,167
+4,148 20,478 31,736 14,591
+39,850 52,939
+40,041 46,648
+37,920 29,584
+967 8,181 15,544 7,101
+2,855 11,063 17,739
+7,826
+3,262 14,029 24,029 11,597
+
+2.04 1.51 to 2.74 1.35 0.71 to 2.56
+2.59 1.23 to 5.47 2.57 1.83 to 3.59 2.36 1.80 to 3.10 1.40 0.93 to 2.12
+1.32 0.93 to 1.88 2.55 2.10 to 3.10
+1.72 1.29 to 2.30 2.51 2.02 to 3.12
+2.40 1.88 to 3.06 2.66 1.77 to 4.00
+3.36 0.58 to 19.62 2.77 1.45 to 5.29 2.06 1.33 to 3.19 1.26 0.67 to 2.37
+3.02 0.93 to 9.86 1.46 0.77 to 2.75 1.48 0.85 to 2.57 0.96 0.36 to 2.53
+3.26 1.05 to 10.18 3.12 2.13 to 4.58 2.73 2.02 to 3.70 1.58 1.01 to 2.49
+
+2.6 3 1026 .36
+1.3 3 1022 4.0 3 1028 6.5 310210
+.11
+.12 4.9 3 10221
+1.9 3 1024 7.6 3 10217
+1.4 3 1022 2.7 3 1026
+.18 2.0 3 1023 1.0 3 1023
+.47
+6.7 3 1022 .25 .17 .93
+4.2 3 1022 5.3 3 1029 6.7 3 10211 4.6 3 1022
+
+.31*
+Ref .17 5.3 3 1022 1.8 3 1022
+Ref 9.9 3 1026
+Ref 1.7 3 1022
+Ref .73
+Ref§ .20 9.0 3 1023 2.1 3 1022
+Refk .62 .74 .53
+Ref¶ .20 8.2 3 1022 3.2 3 1022
+
+NOTE. All models were adjusted for study and age, except the models that included age as a categorical variable, which were only adjusted for study.
+Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; OR, odds ratio; PR, progesterone receptor; Ref, reference category. *P value of interaction term of family history and CHEK2 in case-control analysis. Trend test for interaction by including categorical age as a continuous variable in the model P = .014. Insufficient data to derive family history­positive estimates. §Idem P = .004. kIdem P = .66. ¶Idem P = .026.
+
+ER-positive versus an ER-negative tumor (P = 9.9 3 1026), with an OR of 2.55 (95% CI, 2.10 to 3.10; P = 4.9 3 10221) versus an OR of
+1.32 (95% CI, 0.93 to 1.88; P = .12;), respectively. Associations with
+PR status were similar to those for ER, but the OR for PR-negative
+tumors was higher than that for ER-negative tumors. In the case-
+only analysis, there was no association with PR status after adjusting
+for ER status (P = .84), whereas CHEK2*1100delC was still associated with ER status after adjustment for PR (P = 2.1 3 1024).
+There was no association with HER2 status (P = .73; P = .32 after
+adjustment for ER).
+The relative risk of breast cancer for CHEK2*1100delC carriers significantly decreased with age for overall (P = .014 for trend)
+and for ER-positive disease (P = .026 for trend; Table 3; Appendix Fig A3). Smoothed age-specific ORs in years were derived by using a linear CHEK2 3 age interaction from a case-only analysis (Fig 2). There was no evidence for a quadratic (CHEK2 3 age2) term, which indicated that these models were a reasonable fit (data not
+shown). ORs decreased by age for ER-positive disease (OR, 0.86 per
+decade; P = .001) but not for ER-negative disease (OR, 0.93; P = .60).
+
+Estimated cumulative risks for ER-positive and ER-negative tumors by age 80 of CHEK2*1100delC carriers were 20% and 3%, respectively, compared with 9% and 2%, respectively, in the general population of the United Kingdom (Fig 3).
+DISCUSSION
+On the basis of analyses of approximately 87,000 controls and patients with breast cancer from population- and hospital-based studies, our best estimate for the relative risk of invasive breast cancer for carriers of the 1100delC mutation in CHEK2, compared with noncarriers, was 2.26 (95% CI, 1.90 to 2.69). The relative risk estimates were consistent across studies, which indicates that the above estimate should be broadly applicable to European women.
+Consistent with previous reports,12 the relative risk for ER-negative breast cancer was markedly lower compared with ER-positive breast cancer (OR, 1.32 versus 2.55, respectively; P = 9.9 3 1026), and the ER-negative risk estimate was not
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology 2755
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+0.25 0.20 0.15
+
+Overall CHEK2*1100delC Overall general population ER-Positive CHEK2*1100delC ER-Positive general population ER-Negative CHEK2*1100delC ER-Negative general population
+
+0.10
+
+0.05
+
+Schmidt et al
+
+Fig 3. Cumulative breast cancer risks for CHEK2*1100delC carriers and the general female population by attained age. ER, estrogen receptor.
+
+Cumulative Risk
+
+0.00 20 25 30 35 40 45 50 55 60 65 70 75 80
+Age (years)
+
+statistically significant. We found neither evidence that risk varied by PR or HER2 status, after adjustment for ER status, nor any evidence for variation in relative risk by grade or morphology.
+Previous studies have obtained somewhat higher relative breast cancer risk estimates for CHEK2*1100delC carriers. In particular, in a previous publication that was based on a subset of BCAC studies (25,571 patients with breast cancers and 30,056 controls) and that focused on survival in CHEK2*1100delC carriers, higher risk estimates were found compared with our study (overall OR, 3.01 [95% CI, 2.53 to 3.58]; ER-positive OR, 3.47 [95% CI, 2.87 to 4.18]; and ER-negative OR, 1.54 [95% CI, 1.09 to 2.17]).12 However, these estimates were based on fewer data and were biased as the analyses included clinical genetics­based and familial studies. Our estimate is also somewhat lower than the overall estimate in a previously published meta-analysis (OR, 2.7; 95% CI, 2.1 to 3.4)7; however, that meta-analysis also included fewer individuals, and the higher estimate was largely driven by relatively high estimates from only two studies.
+The relative risk of breast cancer in our study showed a modest but statistically significant decrease by age for breast cancer overall and for ER-positive disease. Despite the sample size, we had limited power to derive precise, age-specific relative risk estimates at young ages; therefore, to derive more stable, smoothed age-specific relative risks, we applied a method in which we estimated a linear CHEK2 3 age interaction term from case-only analysis (Fig 2). On the basis of this model, a woman age 40 years who carries the CHEK2*1100delC mutation has a relative risk of 3.25 to develop an ER-positive breast cancer compared with a noncarrier of the same age, whereas relative risk for a CHEK2*1100delC carrier at age 70 year is 1.87.
+Studies on the basis of patients with breast cancer who were recruited through clinical genetic centers can overestimate the relative risk that is attributable to a genetic variant because of an oversampling of patients with a family history of breast cancer.
+
+Indeed, we observed a higher relative risk estimate in women from clinical genetic­based and familial studies, which emphasized the fact that population-based studies are required to provide unbiased relative risk estimates. We assumed that the set of studies that we included in the main analyses, which were defined in the BCAC database as hospital- or population-based, provided a sample of patients with breast cancer and controls that was reasonably representative of the general population. The proportion of women with a first-degree family history (16.5%) was consistent with that expected, which suggested that there was little oversampling on the basis of family that could lead to overestimation of relative risk.
+Somewhat surprisingly, in the hospital- and population-based studies, the relative risk estimate was higher in women without a first-degree relative with breast cancer compared with the risk of those with family history, but this was not statistically significantly different and disappeared after the exclusion of two studies with outlier results caused by the study definitions that were used. In addition, the risk estimate of 2.04 among women without a family history was also somewhat lower than that of the overall estimate in all studies (2.26), which might indicate some selection of studies for which family history information was available.
+We also found that the breast cancer relative risk was lower for incident invasive breast cancers. This finding was somewhat surprising, given that we previously found that CHEK2*1100delC carriers have a poorer survival compared with noncarriers,12 which would predict a higher relative risk for incident than prevalent cancers. This did not seem to be the result of differences in subtype, as the proportion of ER-positive tumors in incident versus prevalent tumors was similar (77.8% v 77.0%). Larger follow-up studies by genotype and tumor subtype might resolve this discrepancy.
+Relative risks in Figure 2 and cumulative risks in Figure 3 provide a basis for counseling. Of note, for all groups, the absolute risks, which take into account death before breast cancer diagnosis
+
+2756 © 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+as a competing event, will be somewhat lower than the cumulative risks. Breast cancer risks attributed to CHEK2*1100delC carriership reported in our results would be sufficient to classify such women in a moderate-risk, but not high-risk, category according to NICE guidelines in the United Kingdom24; however, a more appropriate method for use of these data is to incorporate the estimates into a model that includes the combined effects of CHEK2*1100delC--and other breast cancer susceptibility genes--with a polygenic component that models the effect of other familial factors. This estimation can be accomplished within the framework of the BOADICEA model, in which the effects of susceptibility variants and other familial factors are assumed to combine multiplicatively.25 Such a model can be used to counsel women with a CHEK2*1100delC mutation, with or without a family history.
+Prompted by high breast cancer risk in homozygous carriers of CHEK2*1100delC as well as high cumulative risk for female first-degree family members,9,26,27 testing for this mutation has been already introduced in the Netherlands for female family members who have been referred for BRCA1/2 counseling and genetic testing.28 This testing has also been introducted in Germany (R. Schmutzler, personal communication, December 2015) and Poland (A. Jakubowska, personal communication, December 2015), and other countries, such as Australia (G. Chenevix-Trench, personal communication, December 2015), are considering similar steps. Current Dutch guidelines allow CHEK2*1100delC carriers to be upgraded to more intensive surveillance, without downgrading of noncarriers.28 Prophylactic measures are generally only discussed with homozygous carriers.
+The current study only provides estimates for the CHEK2*1100delC mutation. No reliable estimates for other protein-truncating variants in CHEK2 are yet available, but it might be reasonable to assume that the relative risk estimates we present for the 1100delC variant can be applied to carriers of other truncating, though not missense, variants. The results presented here provide a rational basis for deciding whether CHEK2 testing should be offered more widely, and for counseling women who are from families in which one or more members have received positive test results about the implications for management.
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+Disclosures provided by the authors are available with this article at www.jco.org.
+
+AUTHOR CONTRIBUTIONS
+Conception and design: Marjanka K. Schmidt, Douglas F. Easton Financial support: Marjanka K. Schmidt, Frans Hogervorst Administrative support: Marjanka K. Schmidt, Manjeet K. Bolla, Qin Wang Provision of study materials or patients: Marjanka K. Schmidt, Frans Hogervorst, Muriel A. Adank, Hanne Meijers, Quinten Waisfisz, Antoinette Hollestelle, Mieke Schutte, Ans van den Ouweland, Irene L. Andrulis, Hoda Anton-Culver, Natalia N. Antonenkova, Volker Arndt, Marina Bermisheva, Natalia V. Bogdanova, Hiltrud Brauch, Hermann Brenner, Thomas Bru¨ning, Barbara Burwinkel, Jenny Chang-Claude, Georgia Chenevix-Trench, Fergus J. Couch, Angela Cox, Simon S. Cross, Kamila Czene, Alison M. Dunning, Peter A. Fasching, Jonine Figueroa, Olivia Fletcher, Henrik Flyger, Eva Galle, Montserrat Garc´ia-Closas, Graham G. Giles, Lothar Haeberle, Per Hall, Peter Hillemanns, John L. Hopper, Anna Jakubowska, Esther M. John, Michael Jones, Elza Khusnutdinov, Julia A. Knight, Veli-Matti Kosma, Vessela Kristensen, Annika Lindblom, Jan Lubinski, Arto Mannermaa, Sara Margolin, Alfons Meindl, Roger L. Milne, Taru A. Muranen, Polly A. Newcomb, Kenneth Offit, Tjoung-Won Park-Simon, Julian Peto, Paul D.P. Pharoah, Mark Robson, Anja Rudolph, Elinor J. Sawyer, Rita K. Schmutzler, Caroline Seynaeve, Julie Soens, Melissa C. Southey, Rob A.E.M. Tollenaar, Ian Tomlinson, Amy Trentham-Dietz, Celine Vachon, Alice S. Whittemore, Argyrios Ziogas, Lizet van der Kolk, Heli Nevanlinna, Thilo Do¨rk, Stig Bojesen Collection and assembly of data: Marjanka K. Schmidt, Frans Hogervorst, Richard van Hien, Sten Cornelissen, Annegien Broeks, Muriel A. Adank, Hanne Meijers, Quinten Waisfisz, Antoinette Hollestelle, Mieke Schutte, Ans van den Ouweland, Maartje Hooning, Irene L. Andrulis, Hoda AntonCulver, Natalia N. Antonenkova, Volker Arndt, Marina Bermisheva, Natalia V. Bogdanova, Manjeet K. Bolla, Hiltrud Brauch, Hermann Brenner, Thomas Bru¨ning, Barbara Burwinkel, Jenny Chang-Claude, Georgia Chenevix-Trench, Fergus J. Couch, Angela Cox, Simon S. Cross, Kamila Czene, Alison M. Dunning, Peter A. Fasching, Jonine Figueroa, Olivia Fletcher, Henrik Flyger, Eva Galle, Montserrat Garc´ia-Closas, Graham G. Giles, Lothar Haeberle, Per Hall, Peter Hillemanns, John L. Hopper, Anna Jakubowska, Esther M. John, Michael Jones, Elza Khusnutdinov, Julia A. Knight, Veli-Matti Kosma, Vessela Kristensen, Andrew Lee, Annika Lindblom, Jan Lubinski, Arto Mannermaa, Sara Margolin, Alfons Meindl, Roger L. Milne, Taru A. Muranen, Polly A. Newcomb, Kenneth Offit, Tjoung-Won Park-Simon, Julian Peto, Paul D.P. Pharoah, Mark Robson, Anja Rudolph, Elinor J. Sawyer, Rita K. Schmutzler, Caroline Seynaeve, Julie Soens, Melissa C. Southey, Amanda B. Spurdle, Harald Surowy, Anthony Swerdlow, Rob A.E.M. Tollenaar, Ian Tomlinson, Amy Trentham-Dietz, Celine Vachon, Qin Wang, Alice S. Whittemore, Argyrios Ziogas, Lizet van der Kolk, Heli Nevanlinna, Thilo Do¨rk, Stig Bojesen, Douglas F. Easton Data analysis and interpretation: Marjanka K. Schmidt, Antonis C. Antoniou, Stig Bojesen, Douglas F. Easton Manuscript writing: All authors Final approval of manuscript: All authors
+
+REFERENCES
+1. CHEK2 Breast Cancer Case-Control Consortium: CHEK2*1100delC and susceptibility to breast cancer: A collaborative analysis involving 10,860 breast cancer cases and 9,065 controls from 10 studies. Am J Hum Genet 74:1175-1182, 2004
+2. Bartek J, Lukas J: Chk1 and Chk2 kinases in checkpoint control and cancer. Cancer Cell 3:421-429, 2003
+3. Shieh SY, Ahn J, Tamai K, et al: The human homologs of checkpoint kinases Chk1 and Cds1
+
+(Chk2) phosphorylate p53 at multiple DNA damageinducible sites. Genes Dev 14:289-300, 2000
+4. Craig AL, Hupp TR: The regulation of CHK2 in human cancer. Oncogene 23:8411-8418, 2004
+5. Schutte M, Seal S, Barfoot R, et al: Variants in CHEK2 other than 1100delC do not make a major contribution to breast cancer susceptibility. Am J Hum Genet 72:1023-1028, 2003
+6. Cybulski C, Go´ rski B, Huzarski T, et al: CHEK2positive breast cancers in young Polish women. Clin Cancer Res 12:4832-4835, 2006
+7. Weischer M, Bojesen SE, Ellervik C, et al: CHEK2*1100delC genotyping for clinical assessment
+
+of breast cancer risk: Meta-analyses of 26,000 patient cases and 27,000 controls. J Clin Oncol 26:542-548, 2008
+8. Zhang S, Phelan CM, Zhang P, et al: Frequency of the CHEK2 1100delC mutation among women with breast cancer: An international study. Cancer Res 68:2154-2157, 2008
+9. Fletcher O, Johnson N, Dos Santos Silva I, et al: Family history, genetic testing, and clinical risk prediction: Pooled analysis of CHEK2 1100delC in 1,828 bilateral breast cancers and 7,030 controls. Cancer Epidemiol Biomarkers Prev 18:230-234, 2009
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology 2757
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+10. Meijers-Heijboer H, van den Ouweland A, Klijn J, et al: Low-penetrance susceptibility to breast cancer due to CHEK2(*)1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat Genet 31:55-59, 2002
+11. Schmidt MK, Tollenaar RAEM, de Kemp SR, et al: Breast cancer survival and tumor characteristics in premenopausal women carrying the CHEK2*1100delC germline mutation. J Clin Oncol 25:64-69, 2007
+12. Weischer M, Nordestgaard BG, Pharoah P, et al: CHEK2*1100delC heterozygosity in women with breast cancer associated with early death, breast cancer-specific death, and increased risk of a second breast cancer. J Clin Oncol 30:4308-4316, 2012
+13. de Bock GH, Schutte M, Krol-Warmerdam EM, et al: Tumour characteristics and prognosis of breast cancer patients carrying the germline CHEK2*1100delC variant. J Med Genet 41:731-735, 2004
+14. Nagel JH, Peeters JK, Smid M, et al: Gene expression profiling assigns CHEK2 1100delC breast cancers to the luminal intrinsic subtypes. Breast Cancer Res Treat 132:439-448, 2012
+15. Meyer A, Do¨ rk T, Sohn C, et al: Breast cancer in patients carrying a germ-line CHEK2 mutation: Outcome after breast conserving surgery and adjuvant radiotherapy. Radiother Oncol 82:349-353, 2007
+
+16. Easton DF, Pharoah PD, Antoniou AC, et al: Gene-panel sequencing and the prediction of breastcancer risk. N Engl J Med 372:2243-2257, 2015
+17. Meijers-Heijboer EJ, Verhoog LC, Brekelmans CT, et al: Presymptomatic DNA testing and prophylactic surgery in families with a BRCA1 or BRCA2 mutation. Lancet 355:2015-2020, 2000
+18. Howell A, Anderson AS, Clarke RB, et al: Risk determination and prevention of breast cancer. Breast Cancer Res 16:446, 2014
+19. Michailidou K, Hall P, Gonzalez-Neira A, et al: Large-scale genotyping identifies 41 new loci associated with breast cancer risk. Nat Genet 45:353-361, 361e1-361e2, 2013
+20. Mavaddat N, Pharoah PD, Michailidou K, et al: Prediction of breast cancer risk based on profiling with common genetic variants. J Natl Cancer Inst 107:djv036, 2015
+21. Coebergh JW, van Veen EB, Vandenbroucke JP, et al: One-time general consent for research on biological samples: Opt out system for patients is optimal and endorsed in many countries. BMJ 332: 665, 2006
+22. Clayton D, Kaldor J: Empirical Bayes estimates of age-standardized relative risks for use in disease mapping. Biometrics 43:671-681, 1987
+
+23. Lee AS, Ang P: CHEK2*1100delC screening of Asian women with a family history of breast cancer is unwarranted. J Clin Oncol 26:2419, author reply 2419-2420, 2008
+24. National Institute for Health and Care Excellence: Familial breast cancer: Classification, care and managing breast cacer and related risks in people with a family history of breast cancer. https://www. nice.org.uk/guidance/cg164
+25. Lee AJ, Cunningham AP, Kuchenbaecker KB, et al: BOADICEA breast cancer risk prediction model: Updates to cancer incidences, tumour pathology and web interface. Br J Cancer 110:535-545, 2014
+26. Adank MA, Jonker MA, Kluijt I, et al: CHEK2*1100delC homozygosity is associated with a high breast cancer risk in women. J Med Genet 48:860-863, 2011
+27. Adank MA, Verhoef S, Oldenburg RA, et al: Excess breast cancer risk in first degree relatives of CHEK2p1100delC positive familial breast cancer cases. Eur J Cancer 49:1993-1999, 2013
+28. Adank M, Hes FJ, van Zelst-Stams WA, et al: CHEK2-mutatie diagnostiek in Nederlandse borstkankerfamilies. Uitbreiding van het genetisch diagnostisch pakket [in Dutch]. Ned Tijdschr Geneeskd 159:A8910, 2015.
+
+Affiliations Marjanka K. Schmidt, Frans Hogervorst, Richard van Hien, Sten Cornelissen, Annegien Broeks, and Lizet van der Kolk, Netherlands Cancer Institute, Antoni van Leeuwenhoek Hospital; Muriel A. Adank, Hanne Meijers, and Quinten Waisfisz, VU University Medical Center, Amsterdam; Antoinette Hollestelle, Mieke Schutte, Maartje Hooning, and Caroline Seynaeve, Erasmus MC Cancer Institute; Ans van den Ouweland, Erasmus University Medical Center, Rotterdam; Rob A.E.M. Tollenaar, Leiden University Medical Center, Leiden, the Netherlands; Irene L. Andrulis and Julia A. Knight, Lunenfeld-Tanenbaum Research Institute of Mount Sinai Hospital; Irene L. Andrulis and Julia A. Knight, University of Toronto, Toronto, Ontario, Canada; Hoda Anton-Culver and Argyrios Ziogas, University of California, Irvine; Peter A. Fasching, David Geffen School of Medicine, University of California, Los Angeles; Esther M. John, Cancer Prevention Institute of California, Fremont; Esther M. John, Alice S. Whittemore, Stanford University School of Medicine, Stanford, CA; Natalia N. Antonenkova, N.N. Alexandrov Research Institute of Oncology and Medical Radiology, Minsk, Belarus; Antonis C. Antoniou, Manjeet K. Bolla, Andrew Lee, Alison M. Dunning, Paul D.P. Pharoah, Qin Wang, and Douglas F. Easton, University of Cambridge, Cambridge; Angela Cox and Simon S. Cross, University of Sheffield, Sheffield; Olivia Fletcher, Michael Jones, and Anthony Swerdlow, The Institute of Cancer Research; Julian Peto, London School of Hygiene and Tropical Medicine; Elinor J. Sawyer, King's College London, London; Jonine Figueroa, University of Edinburgh Medical School, Edinburgh; Ian Tomlinson, University of Oxford, Oxford, United Kingdom; Volker Arndt, Hiltrud Brauch, Hermann Brenner, Barbara Burwinkel, Jenny Chang-Claude, Anja Rudolph, Harold Surowy, German Cancer Research Center; Barbara Burwinkel and Harald Surowy, University of Heidelberg, Heidelberg; Natalia V. Bogdanova, Peter Hillemanns, Tjoung-Won Park-Simon, and Thilo Do¨rk, Hannover Medical School, Hannover; Hiltrud Brauch, Dr Margarete Fischer-Bosch-Institute of Clinical Pharmacology, Stuttgart; Hiltrud Brauch, University of Tu¨bingen, Tu¨bingen; Thomas Bru¨ning, Institute for Prevention and Occupational Medicine of the German Social Accident Insurance, Institute of the Ruhr University Bochum, Bochum; Jenny ChangClaude, University Medical Center Hamburg-Eppendorf, Hamburg; Peter A. Fasching and Lothar Haeberle, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Comprehensive Cancer Center Erlangen-EMN, Erlangen; Alfons Meindl, Technische Universita¨t Mu¨nchen, Munich; Rita K. Schmutzler, University Hospital of Cologne; Rita K. Schmutzler, University of Cologne, Cologne, Germany; Marina Bermisheva, Ufa Scientific Center of Russian Academy of Sciences; Elza Khusnutdinova, Bashkir State University, Ufa, Russia; Georgia Chenevix-Trench and Amanda B. Spurdle, QIMR Berghofer Medical Research Institute, Brisbane; Graham G. Giles and Roger L. Milne, Cancer Council Victoria; Graham G. Giles, John L. Hopper, Roger L. Milne, and Melissa C. Southey, The University of Melbourne, Melbourne, Australia; Fergus J. Couch and Celine Vachon, Mayo Clinic, Rochester, MN; Kamila Czene, Per Hall, Annika Lindblom, and Sara Margolin, Karolinska Institutet, Stockholm, Sweden; Jonine Figueroa, Montserrat Garc´ia-Closas, National Cancer Institute, Rockville, MD; Henrik Flyger and Stig Bojesen, Herlev and Gentofte Hospital, Copenhagen University Hospital, Herlev; Stig Bojesen, University of Copenhagen, Copenhagen, Denmark; Eva Galle, University of Leuven; Eva Galle, Vesalius Research Center; Julie Soens, University Hospital Gasthuisberg, Leuven, Belgium; Anna Jakubowska and Jan Lubinski, Pomeranian Medical University, Szczecin, Poland; Veli-Matti Kosma and Arto Mannermaa, University of Eastern Finland; Veli-Matti Kosma and Arto Mannermaa, Kuopio University Hospital, Kuopio; Taru A. Muranen and Heli Nevanlinna, University of Helsinki, Helsinki, Finland; Vessela Kristensen, Oslo University Hospital Radiumhospitalet; Vessela Kristensen, University of Oslo, Oslo, Norway; Polly A. Newcomb and Amy Trentham-Dietz, University of Wisconsin, Madison, WI; Polly A. Newcomb, Fred Hutchinson Cancer Research Center, Seattle, WA; and Kenneth Offit, Mark Robson, Memorial Sloan Kettering Cancer Center, New York, NY.
+
+2758 © 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+Support Supported by NIHR Comprehensive Biomedical Research Centre, Guy's & St. Thomas' NHS Foundation Trust in partnership with King's College London, United Kingdom (to E.J.S.). G.C.-T. is supported by the NHMRC. Supported by (for Breast Cancer Association Consortium) Cancer Research UK [C1287/A10118, C1287/A12014] and by the European Community's Seventh Framework Programme under grant agreement number 223175 (Grant No. HEALTH-F2-2009-223175; COGS); The Australian Breast Cancer Family Study (ABCFS) was supported by Grant No. UM1 CA164920 from the National Cancer Institute, the National Health and Medical Research Council of Australia, the New South Wales Cancer Council, the Victorian Health Promotion Foundation (Australia), and the Victorian Breast Cancer Research Consortium; the Amsterdam Breast Cancer Study was supported by the Dutch Cancer Society (Grants No. NKI 2007-3839; 2009 4363), BBMRI-NL, which is a Research Infrastructure financed by the Dutch government (NWO 184.021.007), and the Dutch National Genomics Initiative; the Bavarian Breast Cancer Cases and Controls was partly funded by ELAN-Fond of the University Hospital of Erlangen; the British Breast Cancer Study is funded by Cancer Research UK and Breast Cancer Now and acknowledges NHS funding to the NIHR Biomedical Research Centre and the National Cancer Research Network; the Breast Cancer Study of the University of Heidelberg was supported by the Dietmar-Hopp Foundation, the Helmholtz Society, and the German Cancer Research Center (DKFZ); the Copenhagen General Population Study was supported by the Chief Physician Johan Boserup and Lise Boserup Fund, the Danish Medical Research Council, and Herlev Hospital; the ESTHER Breast Cancer Study was supported by a grant from the Baden Wu¨rttemberg Ministry of Science, Research and Arts; the German Consortium for Hereditary Breast & Ovarian Cancer is supported by the German Cancer Aid (Grant No. 110837); the Gene Environment Interaction and Breast Cancer in Germany study was funded by the Federal Ministry of Education and Research Germany Grants No. 01KW9975/5, 01KW9976/8, 01KW9977/0, and 01KW0114, the Robert Bosch Foundation, Stuttgart, Deutsches Krebsforschungszentrum (DKFZ), Heidelberg, the Institute for Prevention and Occupational Medicine of the German Social Accident Insurance, Institute of the Ruhr University Bochum (IPA), Bochum, as well as the Department of Internal Medicine, Evangelische Kliniken Bonn gGmbH, Johanniter Krankenhaus, Bonn, Germany; the Genetic Epidemiology Study of Breast Cancer by Age 50 was supported by the Deutsche Krebshilfe e. V. [70492] and the German Cancer Research Center (DKFZ); the Hannover Breast Cancer Study was supported by an intramural grant from Hannover Medical School; the Helsinki Breast Cancer Study was financially supported by the Helsinki University Central Hospital Research Fund, Academy of Finland (266528), the Finnish Cancer Society, The Nordic Cancer Union, and the Sigrid Juselius Foundation; the Hannover-Minsk Breast Cancer Study was supported by a grant from the Friends of Hannover Medical School and by the Rudolf Bartling Foundation; the Hannover-Ufa Breast Cancer Study was supported by a grant from the German Federal Ministry of Research and Education (RUS08/017); the Karolinska Breast Cancer Study was supported by the regional agreement on medical training and clinical research (ALF) between Stockholm County Council and Karolinska Institutet, the Swedish Cancer Society, The Gustav V Jubilee Foundation, and and Bert von Kantzows Foundation; the Kuopio Breast Cancer Project was supported by the special Government Funding (EVO) of Kuopio University Hospital grants, Cancer Fund of North Savo, the Finnish Cancer Organizations, and by the strategic funding of the University of Eastern Finland; the Kathleen Cuningham Foundation Consortium for Research Into Familial Breast Cancer is supported by a grant from the National Breast Cancer Foundation, and previously by the National Health and Medical Research Council (NHMRC), the Queensland Cancer Fund, the Cancer Councils of New South Wales, Victoria, Tasmania, and South Australia, and the Cancer Foundation of Western Australia; the Australian Ovarian Cancer Study was supported by the United States Army Medical Research and Materiel Command [DAMD17-01-1-0729], Cancer Council Victoria, Queensland Cancer Fund, Cancer Council New South Wales, Cancer Council South Australia, The Cancer Foundation of Western Australia, Cancer Council Tasmania, and the National Health and Medical Research Council of Australia (NHMRC; 400413, 400281, 199600); the Mayo Clinic Breast Cancer Study was supported by NIH Grants No. CA192393, CA116167, CA176785, an NIH Specialized Program of Research Excellence (SPORE) in Breast Cancer [CA116201], the Breast Cancer Research Foundation, and a generous gift from the David F. and Margaret T. Grohne Family Foundation; the Melbourne Collaborative Cohort Study was funded by VicHealth and Cancer Council Victoria and was further supported by Australian NHMRC Grants No. 209057, 251553, and 504711 and by infrastructure provided by Cancer Council Victoria; the Memorial Sloan Kettering Cancer Center Study is supported by grants from the Breast Cancer Research Foundation and Robert and Kate Niehaus Clinical Cancer Genetics Initiative; the Norwegian Breast Cancer Study has received funding from the K.G. Jebsen Centre for Breast Cancer Research, the Research Council of Norway grant 193387/V50 (to V.K.) and Grant No. 193387/H10 (to V.K.), South Eastern Norway Health Authority (Grant No. 39346), and the Norwegian Cancer Society (to V.K.); the Northern California Breast Cancer Family Registry was supported by Grant No. UM1 CA164920 from the National Cancer Institute; the Ontario Familial Breast Cancer Registry was supported by Grant No. UM1 CA164920 from the National Cancer Institute; the Leiden University Medical Centre Breast Cancer Study study was supported by the Dutch Cancer Society (RUL 1997-1505) and the Biobanking and Biomolecular Resources Research Infrastructure (BBMRI-NL CP16); the NCI Polish Breast Cancer Study was funded by Intramural Research Funds of the National Cancer Institute, Department of Health and Human Services; the Rotterdam Breast Cancer Study was funded by the Dutch Cancer Society (Grants No. DDHK 2004-3124, DDHK 2009-4318); the Singapore and Sweden Breast Cancer Study study was supported the Agency for Science, Technology and Research of Singapore (A*STAR), the National Institutes of Health, and the Susan G. Komen Breast Cancer Foundation; the Sheffield Breast Cancer Study was supported by Yorkshire Cancer Research S295, S299, S305PA, and Sheffield Experimental Cancer Medicine Centre; the Study of Epidemiology and Risk factors in Cancer Heredity is funded by a programme grant from Cancer Research UK (C490/A10124) and supported by the UK National Institute for Health Research
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology 2759
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+Biomedical Research Centre at the University of Cambridge; the IHCC-Szczecin Breast Cancer Study was supported by Grant No. PBZ_KBN_122/P05/2004; the UCI Breast Cancer Study component of this research was supported by the NIH (Grants No. CA58860, CA92044) and the Lon V Smith Foundation (LVS39420); the UK Breakthrough Generations Study is funded by Breast Cancer Now and the Institute of Cancer Research, London; the US Three State Study was supported by Massachusetts (Grant No. R01CA47305), Wisconsin (Grant No. R01 CA47147), and New Hampshire (Grant No. R01CA69664) centers, and Intramural Research Funds of the National Cancer Institute, Department of Health and Human Services; and the Leuven Multidisciplinary Breast Centre is supported by the 'Stichting tegen Kanker' (232-2008 and 196-2010) and core funding to the Wellcome Trust Centre for Human Genetics from the Wellcome Trust (090532/ Z/09/Z).
+nnn
+
+2760 © 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Age- and Tumor Subtype­Specific Breast Cancer Risk Estimates for CHEK2*1100delC Carriers
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I = Immediate Family Member, Inst = My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc.
+
+Marjanka K. Schmidt No relationship to disclose
+
+Barbara Burwinkel No relationship to disclose
+
+Frans Hogervorst No relationship to disclose
+
+Jenny Chang-Claude No relationship to disclose
+
+Richard van Hien No relationship to disclose
+
+Georgia Chenevix-Trench No relationship to disclose
+
+Sten Cornelissen No relationship to disclose
+
+Fergus J. Couch No relationship to disclose
+
+Annegien Broeks No relationship to disclose
+
+Angela Cox No relationship to disclose
+
+Muriel A. Adank No relationship to disclose
+
+Simon S. Cross No relationship to disclose
+
+Hanne Meijers No relationship to disclose
+
+Kamila Czene No relationship to disclose
+
+Quinten Waisfisz No relationship to disclose
+
+Alison M. Dunning No relationship to disclose
+
+Antoinette Hollestelle No relationship to disclose
+Mieke Schutte No relationship to disclose
+Ans van den Ouweland No relationship to disclose
+Maartje Hooning No relationship to disclose
+Irene L. Andrulis No relationship to disclose
+Hoda Anton-Culver No relationship to disclose
+Natalia N. Antonenkova No relationship to disclose
+Antonis C. Antoniou No relationship to disclose
+Volker Arndt No relationship to disclose
+Marina Bermisheva No relationship to disclose
+Natalia V. Bogdanova No relationship to disclose
+Manjeet K. Bolla No relationship to disclose
+Hiltrud Brauch No relationship to disclose
+Hermann Brenner No relationship to disclose
+Thomas Bru¨ning No relationship to disclose
+
+Peter A. Fasching Honoraria: Novartis, Amgen, Pfizer, Celgene, Roche, Genomic Health, NanoString Technologies Consulting or Advisory Role: Roche, Novartis, Pfizer, Celgene Speakers' Bureau: Novartis, Celgene, Pfizer, Roche, Amgen Research Funding: Novartis (Inst), Amgen (Inst), Celgene (Inst), Pfizer (Inst), Siemens (Inst)
+Jonine Figueroa No relationship to disclose
+Olivia Fletcher No relationship to disclose
+Henrik Flyger No relationship to disclose
+Eva Galle No relationship to disclose
+Montserrat Garc´ia-Closas No relationship to disclose
+Graham G. Giles No relationship to disclose
+Lothar Haeberle No relationship to disclose
+Per Hall No relationship to disclose
+Peter Hillemanns Honoraria: Roche, SPMSD, Hologic, Abbott Laboratories Research Funding: GlaxoSmithKline (Inst), Vaccibody (Inst)
+John L. Hopper No relationship to disclose
+Anna Jakubowska No relationship to disclose
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+Esther M. John No relationship to disclose
+Michael Jones No relationship to disclose
+Elza Khusnutdinov No relationship to disclose
+Julia A. Knight No relationship to disclose
+Veli-Matti Kosma No relationship to disclose
+Vessela Kristensen No relationship to disclose
+Andrew Lee No relationship to disclose
+Annika Lindblom No relationship to disclose
+Jan Lubinski No relationship to disclose
+Arto Mannermaa No relationship to disclose
+Sara Margolin No relationship to disclose
+Alfons Meindl No relationship to disclose
+Roger L. Milne No relationship to disclose
+Taru A. Muranen No relationship to disclose
+Polly A. Newcomb No relationship to disclose
+Kenneth Offit No relationship to disclose
+Tjoung-Won Park-Simon No relationship to disclose
+Julian Peto No relationship to disclose
+Paul D.P. Pharoah Consulting or Advisory Role: Check4Cancer (I) Patents, Royalties, Other Intellectual Property: Patent on seven SNP breast cancer risk test
+Mark Robson Honoraria: AstraZeneca Consulting or Advisory Role: Bayer, Pfizer, McKesson Research Funding: AstraZeneca (Inst), AbbVie (Inst), Myriad Genetics (Inst), Medivation (Inst) Travel, Accommodations, Expenses: AstraZeneca, Biomarin
+
+Anja Rudolph No relationship to disclose
+Elinor J. Sawyer No relationship to disclose
+Rita K. Schmutzler No relationship to disclose
+Caroline Seynaeve No relationship to disclose
+Julie Soens No relationship to disclose
+Melissa C. Southey No relationship to disclose
+Amanda B. Spurdle No relationship to disclose
+Harald Surowy No relationship to disclose
+Anthony Swerdlow Stock or Other Ownership: GlaxoSmithKline (I)
+Rob A.E.M. Tollenaar No relationship to disclose
+Ian Tomlinson No relationship to disclose
+Amy Trentham-Dietz No relationship to disclose
+Celine Vachon No relationship to disclose
+Qin Wang No relationship to disclose
+Alice S. Whittemore No relationship to disclose
+Argyrios Ziogas No relationship to disclose
+Lizet van der Kolk No relationship to disclose
+Heli Nevanlinna No relationship to disclose
+Thilo Do¨rk No relationship to disclose
+Stig Bojesen No relationship to disclose
+Douglas F. Easton No relationship to disclose
+
+© 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+Acknowledgment
+We thank all the individuals who took part in these studies and all the researchers, clinicians, technicians, and administrative staff who have enabled this work to be carried out. Furthermore, several studies wish to acknowledge specific persons or institutions: Australian Breast Cancer Family Study: Maggie Angelakos, Judi Maskiell, Gillian Dite; Amsterdam Breast Cancer Study: the NKI-AVL Medical Registry and the Family Cancer Clinic, Tony van der Velde, Daoud Ait Moha, Roelof Pruntel, Carla van Tiggelen, and Laura van `t Veer; British Breast Cancer Study: Eileen Williams, Elaine Ryder-Mills, Kara Sargus; Breast Cancer in Galway Genetic Study: Niall McInerney, Gabrielle Colleran, Andrew Rowan, Angela Jones, Nicola Miller, Michael Kerin; Breast Cancer Study of the University of Heidelberg: Peter Bugert, Medical Faculty Mannheim; Copenhagen General Population Study: staff and participants of the Copenhagen General Population Study, Dorthe Uldall Andersen, Maria Birna Arnadottir, Anne Bank, Dorthe Kjeldga°rd Hansen; ESTHER Breast Cancer Study: Hartwig Ziegler, Sonja Wolf, Volker Hermann, Christa Stegmaier, Katja Butterbach; German Consortium for Hereditary Breast & Ovarian Cancer: Stefanie Engert, Heide Hellebrand, Sandra Kro¨ber; Gene Environment Interaction and Breast Cancer in Germany (GENICA): the GENICA Network: Dr Margarete Fischer-Bosch-Institute of Clinical Pharmacology, Stuttgart, and University of Tu¨bingen, Germany [HB, Wing-Yee Lo, Christina Justenhoven], German Cancer Consortium (DKTK) and German Cancer Research Center (DKFZ) [HB], Department of Internal Medicine, Evangelische Kliniken Bonn gGmbH, Johanniter Krankenhaus, Bonn, Germany [Yon-Dschun Ko, Christian Baisch], Institute of Pathology, University of Bonn, Germany [Hans-Peter Fischer], Molecular Genetics of Breast Cancer, Deutsches Krebsforschungszentrum (DKFZ), Heidelberg, Germany [Ute Hamann], Institute for Prevention and Occupational Medicine of the German Social Accident Insurance, Institute of the Ruhr University Bochum (IPA), Bochum, Germany [TB, Beate Pesch, Sylvia Rabstein, Anne Lotz], and Institute of Occupational Medicine and Maritime Medicine, University Medical Center Hamburg-Eppendorf, Germany [Volker Harth]; Genetic Epidemiology Study of Breast Cancer by Age 50: Ursula Eilber; Hannover Breast Cancer Study: Michael Bremer; Helsinki Breast Cancer Study: Carl Blomqvist, Kristiina Aittoma¨ki, Sofia Khan and Irja Erkkila¨; Hannover-Minsk Breast Cancer Study: Peter Hillemanns, Hans Christiansen, and Johann H. Karstens; Kuopio Breast Cancer Project: Eija Myo¨ha¨nen, Helena Kemila¨inen; Kathleen Cuningham Foundation Consortium for research into Familial Breast Cancer (KConFab)/Australian Ovarian Cancer Study: all kCOnFab authors, and Heather Thorne, Eveline Niedermayr, all the KConFab research nurses and staff, the heads and staff of the Family Cancer Clinics, and the Clinical Follow Up Study; Leuven Multidisciplinary Breast Centre: Gilian Peuteman, Dominiek Smeets, Thomas Van Brussel, Kathleen Corthouts; Memorial Sloan Kettering Cancer Center Study: Marina Corines, Lauren Jacobs; Ontario Familial Breast Cancer Registry: Teresa Selander, Nayana Weerasooriya; Leiden University Medical Centre Breast Cancer Study: E. Krol-Warmerdam, J. Blom, J. Molenaar, MD; NCI Polish Breast Cancer Study: Louise Brinton, Mark Sherman, Neonila Szeszenia-Dabrowska, Beata Peplonska, Witold Zatonski, Pei Chao, Michael Stagner; Rotterdam Breast Cancer Study: Petra Bos, Jannet Blom, Ellen Crepin, Elisabeth Huijskens, Annette Heemskerk, the Erasmus MC Family Cancer Clinic; Singapore and Sweden Breast Cancer Study: the Swedish Medical Research Counsel; Sheffield Breast Cancer Study: Sue Higham, Helen Cramp, Ian Brock, Sabapathy Balasubramanian, Malcolm Reed, Dan Connley; Study of Epidemiology and Risk factors in Cancer Heredity (SEARCH): the SEARCH and EPIC teams; and UCI Breast Cancer Study: Irene Masunaka.
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+Appendix
+
+BCAC studies (N = 36)
+
+Persons age > 18 years DNA from blood samples genotyped for CHEK2*1100delC
+
+Total patients
+
+(N = 96,489)
+
+Controls
+
+(n = 46,574)
+
+Patients with breast cancer (n = 49,915)
+
+Excluded, except for country rates, two studies with < 3 CHEK2*1100delC
+carriers (n = 3,373)
+
+Excluded persons with non-European ethnicity by iCOGS genotype (available for 41,546 samples) or self-reported by
+questionnaire (n = 4,720; within those three CHEK2*1100delC)
+Excluded 405 males (no CHEK2*1100delC) and 217 of unknown
+gender (three CHEK2*1100delC)
+
+BCAC studies
+
+(N = 33)
+
+Total European women (N = 87,774)
+
+Controls
+
+(n = 42,997)
+
+Patients with breast cancer (n = 44,777)
+
+Invasive tumor (n = 42,627)
+Including (n = 6,363) from familial (sub)studies
+
+In situ tumor (n = 1,734)
+Including (n = 419) from familial (sub)studies
+
+Unknown (n = 416)
+Including (n = 74) from familial (sub)studies
+
+Fig A1. Data flowchart of inclusion and exclusion of patients with breast cancer and healthy controls from the Breast Cancer Association Consortium (BCAC) database.
+
+© 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+Study
+
+OR (95% CI)
+
+% Weight
+
+ABCFS ABCS BBCC BSUCH CGPS
+GENICA GESBC HABCS
+HEBCS
+HMBCS KBCP LMBC MCBCS MCCS NBCS OFBCR PBCS SASBAC SBCS
+SEARCH
+UCIBCS UKBGS Overall (I-squared = 19.5%; P = .203)
+
+3.36 (0.40 to 27.98) 0.76 4.92 (2.20 to 11.01) 5.29 1.07 (0.35 to 3.26) 2.76 8.70 (1.99 to 38.05) 1.58 2.44 (1.54 to 3.86) 16.28
+2.61 (0.93 to 7.34) 3.20 2.56 (0.23 to 28.38) 0.59 1.08 (0.37 to 3.16) 2.96
+2.98 (1.49 to 5.96) 7.15
+0.92 (0.30 to 2.81) 2.74 2.47 (0.85 to 7.15) 3.03 3.84 (0.77 to 19.06) 1.34 1.70 (0.67 to 4.35) 3.89 0.55 (0.11 to 2.76) 1.31 2.00 (0.87 to 4.59) 4.99 3.33 (0.30 to 37.12) 0.59 2.06 (0.75 to 5.68) 3.33 1.41 (0.58 to 3.40) 4.38 0.83 (0.28 to 2.42) 2.99
+2.50 (1.69 to 3.70) 22.49
+0.65 (0.18 to 2.34) 2.11 1.77 (0.85 to 3.72) 6.24 2.13 (1.77 to 2.56) 100.00
+
+.25 .5
+
+1 1.5 2 2.5
+
+5
+
+10
+
+Fig A2. Forest plot of odds ratios (ORs) from a fixed meta-analysis of the association between CHEK2*1100delC and invasive breast cancer by study, using populationand hospital-based studies. ABCFS, Australian Breast Cancer Family Study; ABCS, Amsterdam Breast Cancer Study; BBCC, Bavarian Breast Cancer Cases and Controls; BSUCH, Breast Cancer Study of the University of Heidelberg; CGPS, Copenhagen General Population Study; GENICA, Gene Environment Interaction and Breast Cancer in Germany; GESBC, Genetic Epidemiology Study of Breast Cancer by Age 50; HABCS, Hannover Breast Cancer Study; HEBCS, Helsinki Breast Cancer Study; HMBCS, Hannover-Minsk Breast Cancer Study; KBCP, Kuopio Breast Cancer Project; LMBC, Leuven Multidisciplinary Breast Centre; MCBCS, Mayo Clinic Breast Cancer Study; MCCS, Melbourne Collaborative Cohort Study; NBCS, Norwegian Breast Cancer Study; OFBCR, Ontario Familial Breast Cancer Registry; PBCS, NCI Polish Breast Cancer Study; SASBAC, Singapore and Sweden Breast Cancer Study; SBCS, Sheffield Breast Cancer Study; SEARCH, Study of Epidemiology and Risk factors in Cancer Heredity; UCIBCS, UCI Breast Cancer Study; UKBGS, UK Breakthrough Generations Study.
+
+Odds Ratio
+
+11 10
+9 8 7 6 5 4 3 2 1 0
+< 35
+
+ER-positive All
+
+35­50
+
+50­65
+
+Age (years)
+
+> 65
+
+Fig A3. CHEK2*1100delC-associated breast cancer risk per age category: all invasive and invasive estrogen receptor (ER)­positive disease. P-value trend for all and ER+ disease: P = .014 and P = .026, respectively (see Table 3).
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+Table A1. Study Information, Number of CHEK2*1100delC Genotyped European Women, and Genotyping Assays Used in Each Study
+
+Study
+
+Study Name
+
+Country
+
+Study Design
+
+CHEK2*1100delC
+Noncarrier, Heterozygous Homozygous No. Carrier, No. Carrier, No.*
+
+Total, No.
+
+Type of assay if different from the custom Taqman, No.
+
+ABCFS ABCS(-F)
+BBCC BBCS
+BIGGS BSUCH CGPS
+ESTHER GC-
+HBOC GENICA GESBC HABCS HEBCS HMBCS HUBCS KARBAC KBCP
+
+Australian Breast Cancer Australia Family Study
+
+Population-based casecontrol study
+
+2,086
+
+Amsterdam Breast Cancer Study
+
+Netherlands
+
+Hospital-based consecutive cases; population-based controls; substudy ABCS-F: patients with breast cancer recruited through the clinical genetic center
+
+3,317
+
+Bavarian Breast Cancer Cases and Controls
+
+Germany
+
+Hospital-based cases; population-based controls
+
+1,578
+
+British Breast Cancer Study
+
+United Kingdom
+
+English and Scottish Cancer Registries: all patients with breast cancer who developed a first primary age , 65 in 1971 or later and who subsequently developed a second primary cancer; patients with unilateral breast cancer diagnosed age , 70 in 1971 or later
+
+2,562
+
+Breast Cancer in Galway Ireland Genetic Study
+
+Hospital-based cases; population basedcontrols
+
+1,825
+
+Breast Cancer Study of the Germany University of Heidelberg
+
+Hospital-based cases; healthy blood donator controls
+
+1,962
+
+Copenhagen General Population Study
+
+Denmark
+
+Consecutive, incident cases from one hospital with centralized care for a population of 400,000 women from 2001 to present
+
+8,670
+
+ESTHER Breast Cancer Study
+
+Germany
+
+Statewide recruitment of breast cancer cases in all hospitals in Saarland/ Germany in 2001-2003
+
+991
+
+German Consortium for Hereditary Breast & Ovarian Cancer
+
+Germany
+
+Population-based familial case-control study
+
+1,936
+
+Gene Environment Interaction and Breast Cancer in Germany
+
+Germany
+
+Population-based casecontrol study
+
+2,005
+
+Genetic Epidemiology
+
+Germany
+
+Study of Breast Cancer
+
+by Age 50
+
+Population-based casecontrol study
+
+1,194
+
+Hannover Breast Cancer Germany Study
+
+Hospital-based casecontrol study
+
+2,026
+
+Helsinki Breast Cancer Study
+
+Finland
+
+Hospital-based casecontrol study and additional familial cases
+
+3,383
+
+Hannover-Minsk Breast Cancer Study
+
+Belarus
+
+Hospital-based cases; population-based controls
+
+2,811
+
+Hannover-Ufa Breast Cancer Study
+
+Russia
+
+Hospital-based cases; population-based controls
+
+2,393
+
+Karolinska Breast Cancer Sweden Study
+
+Population and hospitalbased cases; geographically matched controls
+
+1,662
+
+Kuopio Breast Cancer Project
+
+Finland
+
+Population-based prospective clinical cohort
+
+888
+
+(continued on following page)
+
+7 109
+13 28
+3 23 80
+5 20 18
+3 27 100 15
+5 16 18
+
+0 2,093 Older Taqman assay: 143
+6 3,432 Sanger sequencing: 20
+0 1,591 0 2,590 Older Taqman assay:
+568
+0 1,828 0 1,985 0 8,750 Older Taqman assay: 12
+0 996
+0 1,956 0 2,023 0 1,197 Older Taqman assay:
+1,197 0 2,053 Older Taqman assay: 36 1 3,484 Older Taqman assay: 36 0 2,826 Older Taqman assay: 10 0 2,398 Older Taqman assay: 16 0 1,678
+0 906 Older Taqman assay: 906
+
+© 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+Table A1. Study Information, Number of CHEK2*1100delC Genotyped European Women, and Genotyping Assays Used in Each Study (continued)
+
+Study
+
+Study Name
+
+Country
+
+Study Design
+
+CHEK2*1100delC
+Noncarrier, Heterozygous Homozygous No. Carrier, No. Carrier, No.*
+
+Total, No.
+
+Type of assay if different from the custom Taqman, No.
+
+KConFab/ AOCS
+LMBC MCBCS MCCS MSKCC NBCS NC-BCFR OFBCR ORIGO
+PBCS RBCS
+SASBAC SBCS SEARCH
+SZBCS UCIBCS UKBGS US3SS Total
+
+Kathleen Cuningham Foundation Consortium for research into Familial Breast Cancer/ Australian Ovarian Cancer Study
+Leuven Multidisciplinary Breast Centre
+Mayo Clinic Breast Cancer Study
+Melbourne Collaborative Cohort Study
+Memorial Sloan Kettering Cancer Center Study
+Norwegian Breast Cancer Study
+Northern California Breast Cancer Family Registry
+Ontario Familial Breast Cancer Registry
+Leiden University Medical Centre Breast Cancer Study
+NCI Polish Breast Cancer Study
+Rotterdam Breast Cancer Study
+Singapore and Sweden Breast Cancer Study
+Sheffield Breast Cancer Study
+Study of Epidemiology and Risk factors in Cancer Heredity
+IHCC-Szczecin Breast Cancer Study
+UCI Breast Cancer Study
+UK Breakthrough Generations Study
+US Three State Study
+
+Australia and New Zealand
+Belgium
+United States
+Australia
+United States
+Norway
+United States
+Canada
+Netherlands
+Poland
+Netherlands
+Sweden
+United Kingdom
+United Kingdom
+Poland
+United States
+United Kingdom
+United States
+
+Clinic-based recruitment of familial patients with breast cancer (cases); population-based casecontrol study of ovarian cancer (controls only)
+Hospital-based casecontrol study
+Hospital-based casecontrol study
+Population-based prospective cohort study
+Case-control study
+Hospital-based casecontrol study
+Population-based familial case-control study
+Population-based familial case-control study
+Hospital-based prospective cohort study
+Population-based casecontrol study
+Hospital based casecontrol study, Rotterdam area
+Population-based casecontrol study
+Hospital-based casecontrol study
+Population-based casecontrol study
+Hospital based casecontrol study
+Population-based casecontrol study
+Population-based cohort study
+Population-based casecontrol study
+
+1,539
+1,785 2,371 1,029
+947 3,483
+531 1,535 1,118
+4,306 1,519
+2,518 1,968 14,021
+1,737 1,407 4,675 2,424 90,202
+
+13
+14 25
+7 2 25 10 11 36
+17 55
+20 15 131
+6 13 40
+0 930
+
+0 1,552 iPLEX: 1,552
+0 1,799 2 2,398 0 1,036 0 949 0 3,508 0 541 1 1,547 0 1,154 Oligohybridization assay:
+1,154 0 4,323 4 1,578 Oligohybridization assay:
+13 1 2,539 0 1,983 0 14,152 Older Taqman assay:
+1,170 0 1,743 0 1,420 0 4,715 0 2,424 15 91,147 Other assay total: 6,833
+
+*Homozygous CHEK2*1100delC carriers were combined with heterozygous carriers for subsequent Appendix Tables. Number of samples genotyped only with the specified assay. See the Data Supplement. Excluded from further analyses, except for estimation of country rates, because of fewer than three CHEK2*1100delC carriers identified.
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+Study
+ABCFS ABCS BBCC BBCS BIGGS* BSUCH CGPS ESTHER* GC-
+HBOC GENICA GESBC HABCS HEBCS HMBCS HUBCS KARBAC KBCP KConFab LMBC MCBCS MCCS NBCS NC-BCFR OFBCR ORIGO* PBCS RBCS SASBAC SBCS SEARCH SZBCS UCIBCS UKBGS Total
+
+Table A2. Included Numbers and Proportions of CHEK2*1100delC Carriers in Controls and Patients With Breast Cancer
+
+Controls
+
+Patients From Population- and Hospital-Based Studies
+
+Patients From Familial or Clinical Genetics Center­Based Studies
+
+No. of
+
+No. of
+
+No. of
+
+Non-
+
+No. of
+
+%
+
+Non-
+
+No. of
+
+%
+
+Non-
+
+No. of
+
+%
+
+CHEK2 CHEK2*1110delC CHEK2*1110delC CHEK2 CHEK2*1110delC CHEK2*1110delC CHEK2 CHEK2*1110delC CHEK2*1110delC
+
+729 966 743 1,278 877 929 6,171 505 1,104
+
+1 8 6 9
+2 42
+6
+
+0.1 1,357
+
+6
+
+0.8 1,375 49
+
+0.8 835 7
+
+0.7
+
+0.0 948 3
+
+0.2 1,033 21
+
+0.7 2,499 38
+
+0.0 486 5
+
+0.5
+
+0.4 3.4 976 0.8
+1,284 0.3 2.0 1.5 1.0
+832
+
+58 19
+14
+
+5.6 1.5
+1.7
+
+1,004 634 986
+1,080 1,013 1,464
+863 441 936 937 1,114 372 1,867 153 343
+86 2,263
+788 1,348
+986 7,100
+851 501 2,332 42,764
+
+5 1 10 15 5 1 1 5 5 2 7 3 9 1 1
+6 9 9 8 38 2 5 11 233
+
+0.5 1,001 13 0.2 560 2 1.0 1,040 17 1.4 1,800 53 0.5 1,798 10 0.1 929 4 0.1 463 6 1.1 447 13 0.5 0.2 848 12 0.6 1,257 20 0.8 657 4 0.5 1,616 16 0.6 0.3 187 3 0.0 1,032 36 0.3 2,043 11 1.1 0.7 1,170 12 0.8 982 7 0.5 6,921 93 0.2 886 4 1.0 906 8 0.5 2,343 29 0.5 37,419 502
+
+1.3
+
+0.4
+
+1.6
+
+2.9 503 33
+
+0.6
+
+0.4
+
+1.3 336 9
+
+2.8
+
+603 8
+
+1.4
+
+1.6
+
+0.6
+
+1.0
+
+378 9
+
+1.6 1,005
+
+8
+
+3.4
+
+0.5
+
+731 50
+
+1.0
+
+0.7
+
+1.3
+
+0.4
+
+0.9
+
+1.2
+
+1.3 6,648 208
+
+6.2 2.6 1.3
+2.3 0.8 6.4
+3.0
+
+Abbreviations: ABCFS, Australian Breast Cancer Family Study; ABCS, Amsterdam Breast Cancer Study; BBCC, Bavarian Breast Cancer Cases and Controls; BBCS, British Breast Cancer Study; BIGGS, Breast Cancer in Galway Genetic Study; BSUCH, Breast Cancer Study of the University of Heidelberg; CGPS, Copenhagen General Population Study; ESTHER, ESTHER Breast Cancer Study; GC-HBOC, German Consortium for Hereditary Breast & Ovarian Cancer; GENICA, Gene Environment Interaction and Breast Cancer in Germany; GESBC, Genetic Epidemiology Study of Breast Cancer by Age 50; HABCS, Hannover Breast Cancer Study; HEBCS, Helsinki Breast Cancer Study; HMBCS, Hannover-Minsk Breast Cancer Study; HUBCS, Hannover-Ufa Breast Cancer Study; KARBAC, Karolinska Breast Cancer Study; KBCP, Kuopio Breast Cancer Project; KConFab, Kathleen Cuningham Foundation Consortium for Research Into Familial Breast Cancer; LMBC, Multidisciplinary Breast Centre; MCBCS, Mayo Clinic Breast Cancer Study; MCCS, Melbourne Collaborative Cohort Study; NBCS, Norwegian Breast Cancer Study; NC-BCFR, Northern California Breast Cancer Family Registry; OFBCR, Ontario Familial Breast Cancer Registry; ORIGO, Leiden University Medical Centre Breast Cancer Study; PBCS, NCI Polish Breast Cancer Study; RBCS, Rotterdam Breast Cancer Study; SASBAC, Singapore and Sweden Breast Cancer Study; SBCS, Sheffield Breast Cancer Study; SEARCH, Study of Epidemiology and Risk factors in Cancer Heredity; SZBCS, IHCC-Szczecin Breast Cancer Study; UCIBCS, UCI Breast Cancer Study; UKBGS, UK Breakthrough Generations Study. *Included only in case-only analyses.
+
+© 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+Study
+ABCFS ABCS BBCC BBCS BIGGS BSUCH CGPS ESTHER GC-HBOC GENICA GESBC HABCS HEBCS HMBCS HUBCS KARBAC* KBCP KConFab LMBC MCBCS MCCS NBCS NC-BCFR OFBCR ORIGO* PBCS RBCS* SASBAC SBCS SEARCH SZBCS UCIBCS UKBGS Total
+
+No.
+730 974 749 1,287
+68 931 6,213 505 1,110 1,009 635 993 1,095 1,016 1,025
+446 941 935 1,121 375 1,842 154 344
+2,269
+1,357 994
+7,136 853 506
+2,343 39,956
+
+Table A3. Age of Controls at Interview and of Patients With Breast Cancer at Diagnosis
+
+Controls
+
+Patients From Population- and Hospital-Based Studies
+
+Patients From Familial or Clinical Genetics Center­Based Studies
+
+Mean SD No. Missing No. Mean SD No. Missing No. Mean SD No. Missing
+
+41.5
+
+9.6
+
+1,363
+
+42.3
+
+9.2
+
+37.1
+
+8.0
+
+1,424
+
+42.4
+
+5.1
+
+1,032 44.6 10.3
+
+59.6
+
+12.5
+
+842 54.7 11.7
+
+51.4
+
+9.8
+
+1,303
+
+54.4
+
+8.6
+
+63.6
+
+14.5
+
+809
+
+931 52.8 11.5
+
+20
+
+56.7
+
+9.8
+
+869 54.6 12.2
+
+185
+
+55.3
+
+12.6
+
+2,537 61.3 12.6
+
+62.3
+
+7.1
+
+490 60.8
+
+8.6
+
+1
+
+45.6
+
+14.5
+
+836 46.0 10.9
+
+58.2
+
+11.1
+
+1,014 58.1 11.2
+
+42.7
+
+5.7
+
+562 42.9
+
+5.9
+
+33.7
+
+12.6
+
+3 1,057 57.4 11.8
+
+41.2
+
+13.4
+
+1,853 57.5 12.0
+
+536 52.7 12.0
+
+41.6
+
+12.2
+
+2 1,808 48.9 12.3
+
+45.7
+
+12.9
+
+440
+
+926 52.3 10.8
+
+7
+
+864 469 60.6 12.0
+
+342 54.1 12.1
+
+53.3
+
+10.9
+
+459 58.8 14.2
+
+1
+
+58.0
+
+11.3
+
+611 44.9
+
+9.5
+
+43.6
+
+9.5
+
+4
+
+815 55.9 12.5
+
+45
+
+58.8
+
+12.0
+
+1,277 57.3 12.3
+
+55.1
+
+9.0
+
+661 61.5
+
+9.0
+
+56.2
+
+10.2
+
+34 1,545 55.5 12.2
+
+87
+
+56.9
+
+4.3
+
+387 54.9
+
+7.4
+
+56.9
+
+6.3
+
+190 55.9
+
+6.8
+
+1,013 53.0 10.4
+
+86 1,068 53.7 10.9
+
+55.8
+
+10.0
+
+2,054
+
+55.8
+
+9.9
+
+797 781 44.4 10.0
+
+63.3
+
+6.4
+
+1,182
+
+63.1
+
+6.5
+
+57.6
+
+5.7
+
+989 59.4 12.2
+
+57.9
+
+9.1
+
+2
+
+7,013
+
+53.2
+
+9.0
+
+1
+
+58.4
+
+11.0
+
+890 55.9 11.3
+
+54.9
+
+12.2
+
+914 59.3 12.9
+
+58.2
+
+9.4
+
+2,372
+
+51.2
+
+9.4
+
+53.8
+
+12.7
+
+3,041
+
+37,574 54.5 11.8
+
+347
+
+6,841 49.6 11.0
+
+2 10
+3
+15
+
+NOTE. This table includes all breast cancers irrespective of tumor behavior. Abbreviations: ABCFS, Australian Breast Cancer Family Study; ABCS, Amsterdam Breast Cancer Study; BBCC, Bavarian Breast Cancer Cases and Controls; BBCS, British Breast Cancer Study; BIGGS, Breast Cancer in Galway Genetic Study; BSUCH, Breast Cancer Study of the University of Heidelberg; CGPS, Copenhagen General Population Study; ESTHER, ESTHER Breast Cancer Study; GC-HBOC, German Consortium for Hereditary Breast & Ovarian Cancer; GENICA, Gene Environment Interaction and Breast Cancer in Germany; GESBC, Genetic Epidemiology Study of Breast Cancer by Age 50; HABCS, Hannover Breast Cancer Study; HEBCS, Helsinki Breast Cancer Study; HMBCS, Hannover-Minsk Breast Cancer Study; HUBCS, Hannover-Ufa Breast Cancer Study; KARBAC, Karolinska Breast Cancer Study; KBCP, Kuopio Breast Cancer Project; KConFab, Kathleen Cuningham Foundation Consortium for Research Into Familial Breast Cancer; LMBC, Multidisciplinary Breast Centre; MCBCS, Mayo Clinic Breast Cancer Study; MCCS, Melbourne Collaborative Cohort Study; NBCS, Norwegian Breast Cancer Study; NC-BCFR, Northern California Breast Cancer Family Registry; OFBCR, Ontario Familial Breast Cancer Registry; ORIGO, Leiden University Medical Centre Breast Cancer Study; PBCS, NCI Polish Breast Cancer Study; RBCS, Rotterdam Breast Cancer Study; SASBAC, Singapore and Sweden Breast Cancer Study; SBCS, Sheffield Breast Cancer Study; SEARCH, Study of Epidemiology and Risk factors in Cancer Heredity; SZBCS, IHCC-Szczecin Breast Cancer Study; UCIBCS, UCI Breast Cancer Study; UKBGS, UK Breakthrough Generations Study. *Included only in case-only analyses.
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+Study
+ABCFS ABCS BBCC BBCS BIGGS BSUCH CGPS ESTHER GC-HBOC GENICA GESBC HABCS HEBCS HMBCS HUBCS KARBAC KBCP KConFab LMBC MCBCS MCCS NBCS NC-BCFR OFBCR ORIGO PBCS RBCS SASBAC SBCS SEARCH SZBCS UCIBCS UKBGS Total
+
+Table A4. Behavior of Breast Tumors
+
+Patients From Population- and Hospital-Based Studies
+
+Patients From Familial or Clinical Genetics Center­Based Studies
+
+No.*
+
+% Invasive
+
+% In Situ
+
+No. Missing
+
+No.*
+
+% Invasive
+
+% In Situ
+
+No. Missing
+
+1,363 1,424
+842
+951 1,054 2,537
+489
+1,014 556
+1,057 1,853 1,808
+933 469 460
+860 1,277
+661 1,584
+190 1,064 1,968
+1,182 956
+7,014 732 914
+2,367 37,579
+
+100.0 99.9 94.4
+94.5 98.2 96.6 99.0
+100.0 93.9 98.5 93.2 99.9 99.9
+100.0 92.0
+98.5 84.8 100.0 99.8
+100.0 91.5 93.6
+100.0 92.4 98.0 95.1 85.5 96.6 96.5
+
+0.1 5.6
+5.5 1.8 3.4 1.0
+6.1 1.5 6.8 0.1 0.1
+8.0
+1.5 15.2
+0.2
+8.6 6.4
+7.6 2.0 4.9 14.6 3.4 3.5
+
+1,034 1,303
+
+91.7 100.0
+
+2 846 100.0
+6 536 95.0
+345 100.0 538 77.7
+
+48
+
+387 69.3
+
+1,013
+
+98.3
+
+4
+
+86
+
+780 93.6
+
+33
+
+158
+
+5 342 6,782 93.8
+
+8.3
+5.0 22.3 30.8
+1.7 6.4
+6.2
+
+73 1
+74
+
+Abbreviations: ABCFS, Australian Breast Cancer Family Study; ABCS, Amsterdam Breast Cancer Study; BBCC, Bavarian Breast Cancer Cases and Controls; BBCS, British Breast Cancer Study; BIGGS, Breast Cancer in Galway Genetic Study; BSUCH, Breast Cancer Study of the University of Heidelberg; CGPS, Copenhagen General Population Study; ESTHER, ESTHER Breast Cancer Study; GC-HBOC, German Consortium for Hereditary Breast & Ovarian Cancer; GENICA, Gene Environment Interaction and Breast Cancer in Germany; GESBC, Genetic Epidemiology Study of Breast Cancer by Age 50; HABCS, Hannover Breast Cancer Study; HEBCS, Helsinki Breast Cancer Study; HMBCS, Hannover-Minsk Breast Cancer Study; HUBCS, Hannover-Ufa Breast Cancer Study; KARBAC, Karolinska Breast Cancer Study; KBCP, Kuopio Breast Cancer Project; KConFab, Kathleen Cuningham Foundation Consortium for Research Into Familial Breast Cancer; LMBC, Multidisciplinary Breast Centre; MCBCS, Mayo Clinic Breast Cancer Study; MCCS, Melbourne Collaborative Cohort Study; NBCS, Norwegian Breast Cancer Study; NC-BCFR, Northern California Breast Cancer Family Registry; OFBCR, Ontario Familial Breast Cancer Registry; ORIGO, Leiden University Medical Centre Breast Cancer Study; PBCS, NCI Polish Breast Cancer Study; RBCS, Rotterdam Breast Cancer Study; SASBAC, Singapore and Sweden Breast Cancer Study; SBCS, Sheffield Breast Cancer Study; SEARCH, Study of Epidemiology and Risk factors in Cancer Heredity; SZBCS, IHCC-Szczecin Breast Cancer Study; UCIBCS, UCI Breast Cancer Study; UKBGS, UK Breakthrough Generations Study. *Number with data available. This study has fewer than five in situ breast cancers and was excluded from in situ­only analyses.
+
+© 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+Study
+ABCFS ABCS BBCC BIGGS BSUCH CGPS ESTHER GENICA GESBC HABCS HEBCS HMBCS HUBCS KARBAC KBCP LMBC MCBCS MCCS NBCS OFBCR ORIGO PBCS SASBAC SBCS SEARCH SZBCS UCIBCS UKBGS Total
+
+Table A5. Receptor Status of Invasive Breast Tumors From Population- and Hospital-Based Breast Cancer Studies
+
+ER PR HER2
+
+No.*
+
+Negative, %
+
+Positive, %
+
+No.*
+
+Negative, %
+
+Positive, %
+
+No.*
+
+Negative, %
+
+1,168 936 744 702 700
+1,758 421 988 443 812
+1,694 46
+202 440 389 788 1,077 618 1,314 176 669 1,676 821 540 5,270 657 651
+4 25,704
+
+34.5 34.6 29.3 24.9 25.1 15.1 23.8 22.0 37.0 15.6 18.2 30.4 44.1 16.8 22.6 16.2 16.3 23.3 27.9 25.0 26.8 33.8 18.0 22.6 20.2 28.2 20.0 25.0 23.3
+
+65.5 1,164 65.4 880 70.7 741 75.1 556 74.9 699 84.9 1,267 76.3 415 78.0 985 63.0 438 84.4 792 81.8 1,694 69.6 55.9 202 83.2 385 77.4 388 83.8 783 83.8 1,076 76.7 621 72.2 1,286 75.0 175 73.2 529 66.2 1,670 82.0 799 77.4 238 79.8 2,815 71.8 195 80.0 642 75.0 3 76.7 21,438
+
+30.8 48.5 34.7 24.6 34.5 36.2 33.5 29.8 39.7 19.6 34.8
+43.1 24.4 38.1 23.1 25.6 34.8 41.6 34.9 42.2 47.0 28.4 39.9 28.5 60.5 30.4 33.3 33.9
+
+69.2 51.5 65.3 75.4 65.5 63.8 66.5 70.3 60.3 80.4 65.2
+56.9 75.6 61.9 76.9 74.4 65.2 58.4 65.1 57.8 53.0 71.6 60.1 71.5 39.5 69.6 66.7 66.1
+
+898 540 447 666 720 192 707
+916
+191
+376 705 808 587 631
+1,203
+250 2,327
+532
+2 12,698
+
+74.8 83.3 79.2 82.4 84.9 72.4 70.9
+84.7
+49.7
+87.2 84.4 85.0 82.1 88.0
+82.5
+92.0 88.6 83.8
+50.0 82.9
+
+Positive, %
+25.2 16.7 20.8 17.6 15.1 27.6 29.1
+15.3
+50.3
+12.8 15.6 15.0 17.9 12.0
+17.5
+8.0 11.4 16.2
+50.0 17.1
+
+Abbreviations: ABCFS, Australian Breast Cancer Family Study; ABCS, Amsterdam Breast Cancer Study; BBCC, Bavarian Breast Cancer Cases and Controls; BBCS, British Breast Cancer Study; BIGGS, Breast Cancer in Galway Genetic Study; BSUCH, Breast Cancer Study of the University of Heidelberg; CGPS, Copenhagen General Population Study; ER, estrogen receptor; ESTHER, ESTHER Breast Cancer Study; GC-HBOC, German Consortium for Hereditary Breast & Ovarian Cancer; GENICA, Gene Environment Interaction and Breast Cancer in Germany; GESBC, Genetic Epidemiology Study of Breast Cancer by Age 50; HABCS, Hannover Breast Cancer Study; HEBCS, Helsinki Breast Cancer Study; HER2, human epidermal growth factor receptor 2; HMBCS, Hannover-Minsk Breast Cancer Study; HUBCS, Hannover-Ufa Breast Cancer Study; KARBAC, Karolinska Breast Cancer Study; KBCP, Kuopio Breast Cancer Project; KConFab, Kathleen Cuningham Foundation Consortium for Research Into Familial Breast Cancer; LMBC, Multidisciplinary Breast Centre; MCBCS, Mayo Clinic Breast Cancer Study; MCCS, Melbourne Collaborative Cohort Study; NBCS, Norwegian Breast Cancer Study; NC-BCFR, Northern California Breast Cancer Family Registry; OFBCR, Ontario Familial Breast Cancer Registry; ORIGO, Leiden University Medical Centre Breast Cancer Study; PBCS, NCI Polish Breast Cancer Study; PR, progesterone receptor; RBCS, Rotterdam Breast Cancer Study; SASBAC, Singapore and Sweden Breast Cancer Study; SBCS, Sheffield Breast Cancer Study; SEARCH, Study of Epidemiology and Risk factors in Cancer Heredity; SZBCS, IHCCSzczecin Breast Cancer Study; UCIBCS, UCI Breast Cancer Study; UKBGS, UK Breakthrough Generations Study. *Number with data available. Data from this study were excluded from subtype-specific analyses adjusted for study.
+
+www.jco.org
+
+© 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Schmidt et al
+
+Study
+ABCFS ABCS BBCC BBCS BIGGS BSUCH CGPS ESTHER GENICA GESBC HABCS HEBCS HMBCS HUBCS KARBAC KBCP KConFab LMBC MCBCS NBCS NC-BCFR OFBCR ORIGO PBCS RBCS SASBAC SBCS SEARCH SZBCS UCIBCS UKBGS§ Total
+
+No.* 730
+577 979
+416 1,009
+635
+617
+446 740
+990 1,021
+154 341
+2,269
+1,233 994
+4,919 853 461 4
+19,388
+
+Controls
+No Relative, % 93.3
+84.4 93.2
+89.4 91.9 94.0
+98.7
+95.1 89.5
+81.7 90.8 85.1 86.2
+94.2
+90.3 89.7 93.3 100.0 84.2 100.0 91.9
+
+Table A6. Family History of Controls and Patients With Breast Cancer
+
+Patients From Population- and Hospital-Based Studies
+
+Patients From Familial or Clinical Genetics Center­Based Studies
+
+At Least One Relative, %
+
+No.*
+
+No Relative, %
+
+At Least One Relative, %
+
+No.*
+
+No Relative, %
+
+At Least One Relative, %
+
+6.7
+15.6 6.8
+10.6 8.1 6.0
+1.3
+4.9 10.5
+18.3 9.2
+14.9 13.8
+5.8
+9.7 10.3
+6.7
+15.8
+8.1
+
+1,363
+787
+306 287 2,102 438 1,014 562 1,024 1,849
+50 907 461 460
+760 1,188
+42
+189 891 2,053
+1,152 989
+6,868 890 913 19
+27,564
+
+82.4
+85.5
+62.1 86.4 80.2 82.9 85.4 88.1 83.8 76.8 94.0 93.8 83.7 88.7
+81.2 78.5 78.6
+93.1 83.7 89.4
+84.6 85.8 83.9 89.4 73.7 94.7 83.5
+
+17.6 760
+14.5 1,302
+37.9 13.6 19.8 17.1 14.6 11.9 16.2 23.2 536
+6.0 6.2 16.3 320 11.3
+526 18.8 21.5 21.4
+387 6.9 1,013 16.3 10.6
+781 15.4 14.2 16.1 10.6 26.3
+5.3 16.5 5,625
+
+50.7 85.9
+3.5 22.5 14.4 35.1 53.1 46.9
+48.2
+
+49.3 14.1
+96.5 77.5 85.6 64.9 46.9 53.1
+51.8
+
+NOTE. Relatives are first-degree relatives with breast cancer. This table includes all breast cancers irrespective of tumor behavior. Abbreviations: ABCFS, Australian Breast Cancer Family Study; ABCS, Amsterdam Breast Cancer Study; BBCC, Bavarian Breast Cancer Cases and Controls; BBCS, British Breast Cancer Study; BIGGS, Breast Cancer in Galway Genetic Study; BSUCH, Breast Cancer Study of the University of Heidelberg; CGPS, Copenhagen General Population Study; ESTHER, ESTHER Breast Cancer Study; GC-HBOC, German Consortium for Hereditary Breast & Ovarian Cancer; GENICA, Gene Environment Interaction and Breast Cancer in Germany; GESBC, Genetic Epidemiology Study of Breast Cancer by Age 50; HABCS, Hannover Breast Cancer Study; HEBCS, Helsinki Breast Cancer Study; HMBCS, Hannover-Minsk Breast Cancer Study; HUBCS, Hannover-Ufa Breast Cancer Study; KARBAC, Karolinska Breast Cancer Study; KBCP, Kuopio Breast Cancer Project; KConFab, Kathleen Cuningham Foundation Consortium for Research Into Familial Breast Cancer; LMBC, Multidisciplinary Breast Centre; MCBCS, Mayo Clinic Breast Cancer Study; MCCS, Melbourne Collaborative Cohort Study; NBCS, Norwegian Breast Cancer Study; NC-BCFR, Northern California Breast Cancer Family Registry; OFBCR, Ontario Familial Breast Cancer Registry; ORIGO, Leiden University Medical Centre Breast Cancer Study; PBCS, NCI Polish Breast Cancer Study; RBCS, Rotterdam Breast Cancer Study; SASBAC, Singapore and Sweden Breast Cancer Study; SBCS, Sheffield Breast Cancer Study; SEARCH, Study of Epidemiology and Risk factors in Cancer Heredity; SZBCS, IHCC-Szczecin Breast Cancer Study; UCIBCS, UCI Breast Cancer Study; UKBGS, UK Breakthrough Generations Study. *Number with data available. Included only in case-only analyses. Higher proportion of controls compared with cases, either because of overrepresentation of controls with a family history in the subset genotyped for CHEK2 (BBCC) or because of the case definition used in the analyses (ie, the subset of nonfamilial cases [OFBCR]). §Data from this study were excluded from all family history­specific analyses. Of note, there were no data for MCCS and GC-HBOC.
+
+© 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+www.jco.org
+
+CHEK2*1100delC: Age- and Subtype-Specific Breast Cancer Risk
+
+© 2016 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+Characteristic
+Genotyped Family history*
+No Yes BRCA1/2 germline
+mutation No Yes Age, years , 35 35-50 50-65 . 65 All Tumor behavior Invasive In situ Morphology Ductal Lobular Medullary Mixed Mucinous Other Papillary Tubular Grade I II III ER Negative Positive PR Negative Positive HER2 Negative Positive
+
+Total, No.
+42,997
+
+Table A7. Characteristics of Controls and Patients With Breast Cancer by CHEK2*1100delC Carriership
+
+Controls
+
+Patients From Population- and Hospital-Based Studies
+
+Patients From Familial or Clinical Genetics Center­Based Studies
+
+Non-CHEK2*1100delC, CHEK2*1100delC, %%
+
+Total, No.
+
+Non-CHEK2*1100delC, CHEK2*1100delC, %%
+
+Total, No.
+
+Non-CHEK2*1100delC, CHEK2*1100delC, %%
+
+95.5
+
+0.5 37,921
+
+98.7
+
+1.3 6,856
+
+97.0
+
+3.0
+
+17,810 1,578
+
+99.6 98.9
+
+0.4 23,027 1.1 4,537
+
+98.8 97.9
+
+1.2 2,711 2.1 2,914
+
+97.7 96.2
+
+2.3 3.8
+
+42,995 2
+3,267 10,418 18,304
+7,967 39,956
+
+99.5 100
+99.3 99.4 99.5 99.4 99.4
+
+0.5 32,760 161
+0.7 1,399 0.6 12,004 0.5 16,398 0.6 7,765 0.6 37,566
+36,264 1,315
+22,750 4,349 406 1,096 372 1,307 77 372
+5,318 12,440
+8,083
+6,170 20,144
+7,450 14,447
+10,653 2,231
+
+98.7 100
+98.4 98.5 98.8 98.9 98.7
+98.7 97.8
+98.6 98.8 99.0 98.6 98.7 99.2 98.7 99.7
+98.8 98.6 98.8
+99.2 98.4
+98.8 98.5
+98.6 98.6
+
+1.3 6,625 231
+1.6 628 1.5 2,797 1.2 2,824 1.1 585 1.3 6,834
+1.3 6,363 2.2 419
+1.4 3,504 1.2 522 1.0 53 1.4 126 1.3 56 0.8 572 1.3 12 0.3 107
+1.2 611 1.4 1,293 1.2 1,166
+0.8 652 1.6 1,887
+1.1 836 1.5 1,542
+1.4 560 1.4 113
+
+96.9 100.0
+95.9 96.9 97.3 98.1 97.1
+96.9 97.6
+96.6 98.3 100.0 95.2 100.0 97.6 100.0 95.3
+97.2 95.9 96.7
+98.2 95.8
+97.4 95.8
+93.9 96.5
+
+3.1
+4.1 3.1 2.7 1.9 2.9
+3.1 2.4
+3.4 1.7 4.8 2.4 4.7
+2.8 4.1 3.3
+1.8 4.2
+2.6 4.2
+6.1 3.5
+
+NOTE. This table shows all available data, without study adjustment, for each of the variables shown, and includes homozygous carriers. Abbreviations: ER, estrogen receptor; HER2, human epidermal growth factor receptor 2; PR, progesterone receptor. *Family history: no, none; or yes, at least one first-degree relative with breast cancer. BRCA1/2 mutation status was only available for a subset of samples, all unknowns are assumed to be noncarriers.
+
+Schmidt et al
+
+Table A8. Breast Cancer Risk Estimates of CHEK2*1100delC Carriers Using Different Models
+
+Model
+
+Total, No.
+
+OR
+
+95% CI
+
+Carrier model All patients with breast cancer Population- and hospital-based patients with breast cancer
+Log additive model All breast patients with cancer Population- and hospital-based patients with breast cancer
+Saturated model All breast patients with cancer Population- and hospital-based patients with breast cancer
+Carrier model; excluding homozygous CHEK2 carriers All patients with breast cancer Population- and hospital-based patients with breast cancer
+
+81,711 72,501
+81,711 72,501
+81,711 72,501
+81,700 72,493
+
+2.48 2.11 to 2.90 2.36 1.99 to 2.80
+2.47 2.11 to 2.90 2.36 1.99 to 2.80
+2.44 2.08 to 2.87 2.32 1.95 to 2.75
+2.44 2.08 to 2.87 2.32 1.95 to 2.75
+
+P
+7.2 3 10229 5.6 3 10223
+3.7 3 10229 2.1 3 10223
+6.3 3 10228 5.5 3 10222
+6.3 3 10228 5.5 3 10222
+
+P*
+.03 .02
+.15 .10
+
+NOTE. Carrier model: CHEK2 was included as 0 = noncarrier or 1 = carriers; log-additive model, CHEK2 was included as 0 = noncarriers, 1 = heterozygous CHEK2, 2 = homozygous CHEK2; saturated model: CHEK2 was modeled using offset as explained in Patients and Methods. Abbreviation: OR, odds ratio. *P value of the model concerned versus the saturated model.
+
+© 2016 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org by Kevin Hughes on August 3, 2016 from 50.177.174.181 Copyright © 2016 American Society of Clinical Oncology. All rights reserved.
+
+

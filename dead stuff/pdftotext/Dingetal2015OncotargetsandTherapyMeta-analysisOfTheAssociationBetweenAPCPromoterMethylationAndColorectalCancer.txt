@@ -1,0 +1,784 @@
+OncoTargets and Therapy
+
+Dovepress
+open access to scientific and medical research
+
+Open Access Full Text Article
+
+Original Research
+
+Meta-analysis of the association between APC
+
+promoter methylation and colorectal cancer
+
+This article was published in the following Dove Press journal: OncoTargets and Therapy 19 January 2015 Number of times this article has been viewed
+
+Zhenyu Ding1,* Tong Jiang2,* Ying Piao1 Tao Han1 Yaling Han3 Xiaodong Xie1
+1Department of Oncology, General Hospital of Shenyang Military Region, Shenyang City, Liaoning Province, 2Laboratory of Military Health in Cold Region, Center for Disease Control and Prevention of Shenyang Military Region, Shenyang City, Liaoning Province, 3Institute of Cardiovascular Disease, General Hospital of Shenyang Military Region, Shenyang City, Liaoning Province, People's Republic of China
+*These authors contributed equally to this work
+
+Abstract: Previous studies investigating the association between adenomatous polyposis coli (APC) gene promoter methylation and colorectal cancer (CRC) have yielded conflicting results. The aim of this study was to comprehensively evaluate the potential application of the detection of APC promoter methylation to the prevention and treatment of CRC. PubMed, Embase, and MEDLINE (results updated to October 2014) were searched for relevant studies. The effect size was defined as the weighted odds ratio (OR), which was calculated using either the fixed-effects or random-effects model. Prespecified subgroup and sensitivity analyses were conducted to evaluate potential heterogeneity among the included studies. Nineteen studies comprising 2,426 participants were selected for our meta-analysis. The pooled results of nine studies comprising a total of 740 subjects indicated that APC promoter methylation was significantly associated with CRC risk (pooled OR 5.53; 95% confidence interval [CI] 3.50ญ8.76; P0.01). Eleven studies with a total of 1,219 patients evaluated the association between APC promoter methylation and the presence of CRC metastasis, and the pooled OR was 0.80 (95% CI 0.44ญ1.46; P=0.47). A meta-analysis conducted with four studies with a total of 467 patients found no significant correlation between APC promoter methylation and the presence of colorectal adenoma (pooled OR 1.85; 95% CI 0.67ญ5.10; P=0.23). No significant correlation between APC promoter methylation and patients' Dukes' stage, TNM stage, differentiation grade, age, or sex was identified. In conclusion, APC promoter methylation was found to be significantly associated with a higher risk of developing CRC. The findings indicate that APC promoter methylation may be a potential biomarker for the carcinogenesis of CRC. Keywords: APC promoter methylation, colorectal cancer, meta-analysis
+
+Correspondence: Xiaodong Xie Department of Oncology, General Hospital of Shenyang Military Region, 83 Wenhua Road, Shenhe District, Shenyang City, Liaoning Province 110840, People's Republic of China Tel +86 24 2885 6419 Fax +86 24 2885 6310 Email xiaodongxie36@sina.com Yaling Han Institute of Cardiovascular Disease, General Hospital of Shenyang Military Region, 83 Wenhua Road, Shenhe District, Shenyang City, Liaoning Province 110840, People's Republic of China Tel +86 24 2885 6123 Fax +86 24 2885 6123 Email yalinghan_syjq@sina.com
+
+Introduction
+Colorectal cancer (CRC) is one of the most common cancers worldwide and has been estimated as the third most frequently diagnosed cancer in both men and women in the USA.1 The overall survival rate of patients with CRC is highly dependent upon the stage of the disease at the time of diagnosis. The estimated 5-year survival rate ranges from 85% to 90% for patients with stage I CRC to 5% for patients with stage IV CRC.2 Although the annual death rate has declined by 3% for CRC in the past 10 years, nearly 142,820 US residents were diagnosed with CRC in 2013.1 Several risk factors, including obesity, red meat consumption, and cigarette smoking, have been found to be associated with a higher risk of developing CRC.3 Additionally, genetic and epigenetic alterations play crucial roles in the pathogenesis of CRC.4ญ6
+It has been demonstrated that DNA methylation at CpG islands and its associated silencing of gene expression are important causes of the tumorigenesis of CRC.2,7 These epigenetic changes substantially contribute to cellular transformation, particularly if these changes affect the genes that are involved in maintaining genomic stability. Due to the high sensitivity, specificity, and convenience of methylation
+
+submit your manuscript | www.dovepress.com Dovepress http://dx.doi.org/10.2147/OTT.S75827
+
+OncoTargets and Therapy 2015:8 211ญ222
+
+211
+
+ฉ 2015 Ding et al. This work is published by Dove Medical Press Limited, and licensed under Creative Commons Attribution ญ Non Commercial (unported, v3.0) License. The full terms of the License are available at http://creativecommons.org/licenses/by-nc/3.0/. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. Permissions beyond the scope of the License are administered by Dove Medical Press Limited. Information on how to request permission may be found at: http://www.dovepress.com/permissions.php
+
+Ding et al
+
+Dovepress
+
+detection methods, mounting evidence has indicated that DNA methylation patterns may be promising biomarkers when predicting one's risk of developing CRC, as well as for determining patient outcomes.8 Among the hypermethylated genes that have been identified in CRC, the adenomatous polyposis coli (APC) gene is a well-characterized tumor suppressor gene. The APC gene, which is located at chromosomal band 5q21ญq22, comprises 15 exons. Its tumorsuppressing activity is mainly attributed to regulation of the intracellular level of -catenin within the Wingless signal transduction pathway.9 It has been demonstrated that APC mutations are one of the earliest events that occur in the initiation and progression of CRC.10,11 In addition, previous oncogenetic tree analysis has shown that APC alterations are the first to occur in an independent branch, and these predispose an individual to other gene alterations that occur in the pathways associated with colon tumorigenesis.12 To date, several studies have evaluated the association between APC promoter methylation and the risk of developing CRC (or the clinical characteristics of CRC) in patients. However, the results of these studies remain a matter of debate. Compared with in silico analyses, which are also dependent upon computer-based statistical analysis methods and have been used in the prediction of disease-associated gene mutation,13 the design of new drugs,14 and the analysis of molecular and structural mechanisms,15,16 meta-analyses have been widely applied to identify potential sources of disagreement between study results. Therefore, we conducted a metaanalysis to comprehensively evaluate the association of APC promoter methylation with CRC risk and the clinical characteristics observed in CRC patients in order to provide evidence for the future application of APC in the prevention and treatment of CRC.
+Methods Search strategy
+We conducted a literature search using the PubMed (search updated to October 2014; http://www.ncbi.nlm.nih.gov/ pubmed/), Embase, and MEDLINE (search updated to October 2014; http://www.embase.com/) databases using the following search terms located in either the title or abstract: ("adenomatous polyposis coli" or APC) and (methylation, hypermethylation, methylated, or hypomethylation) and ("colorectal neoplasms", "colorectal cancer", "colon cancer", "rectal cancer", "colorectal carcinoma", "rectal carcinoma", "colon carcinoma", "colon neoplasms", or "rectal neoplasms"). The search was limited to human studies. Additionally, we hand-searched the references of the review
+
+articles and, as needed, contacted the first author of a given paper to obtain any missing data.
+Study selection
+Studies were selected for the current meta-analysis according to the following criteria: they determined APC promoter methylation in specimens of colorectal tissue, blood, plasma, serum, buffy coat, or urine; and they provided sufficient information to evaluate odds ratios (ORs) and 95% confidence intervals (CIs). In addition, when the same author or group reported results that were obtained from the same patient population in more than one article, only the most recent or most informative report was included. Our exclusion criteria were: review articles or conference reports; a lack of information about the degree of APC promoter methylation in patient cases and controls; and when screening for methylation of the APC promoter was conducted in cell lines.
+Quality assessment
+The assessment of study quality was conducted independently by two reviewers using the Newcastle-Ottawa Scale (NOS).17 The NOS evaluation system consists of three parameters (selection, comparability, and outcome) and assigns a maximum of four points for selection, two points for comparability, and three points for outcome. A NOS score 6 indicates a higher quality study, whereas a score 6 indicates a lower quality study. Any discrepancies between the two reviewers were settled by a third reviewer.
+Data extraction
+The data were extracted independently by two authors, and discrepancies were resolved by consensus including a third author. The data were collected using a pilot-tested data extraction form that included the following items: the first author's name; the year of publication; the number of participants that exhibited APC promoter methylation both among specific cases and controls; the screening methods used; and the demographic and clinical characteristics of the patients. All procedures conformed to the established guidelines for the meta-analysis of observational studies in epidemiology.18
+Statistical analysis
+The meta-analysis was performed using Stata software (version 11; StataCorp LP, College Station, TX, USA). The association between APC promoter methylation and the risk of developing CRC or its clinical characteristics (such as Dukes' stages, TNM stages, metastasis, differentiation
+
+212
+
+submit your manuscript | www.dovepress.com Dovepress
+
+OncoTargets and Therapy 2015:8
+
+Dovepress
+
+APC promoter methylation and colorectal cancer
+
+grade, as well as differences based on patient sex and age) was measured either by weighted OR by taking into account the 95% CI. We tested for heterogeneity among the studies using the chi-square-based Q-test and the I2 statistic of inconsistency. Significant heterogeneity was defined as a chi-square test P-value 0.10 or as an I2 statistic 50%.19 We used a random-effects model when significant heterogeneity was observed among the studies; otherwise, we used a fixed-effects model. For a two-tailed significance level of 5%, the probability of rejecting the null hypothesis when it was false was termed the power, which was defined as 1 ญ .
+Funnel plots and Egger's test were used to assess publication bias. Additionally, prespecified subgroup analyses, which included the patients' ethnicities, as well as the test samples, testing methods, and sample sizes, were conducted to evaluate potential sources of heterogeneity within the studies investigating the association between APC promoter methylation and the risk of CRC or CRC metastasis. Moreover, sensitivity analyses were performed to examine the influence of each study on the pooled OR by serially omitting each individual study and pooling the remaining studies.
+Results Results of the literature search
+Figure 1 illustrates the detailed process used for study selection. In summary, a total of 333 articles were initially identified; of these, 268 articles were excluded, either based
+DUWLFOHVLGHQWLILHGDQGVFUHHQHG
+DUWLFOHVH[FOXGHG GXSOLFDWHGDUWLFOHV FOHDUO\QRWHOLJLEOH
+DUWLFOHVUHWULHYHGIRUIXOOWH[WHYDOXDWLRQ
+DUWLFOHVH[FOXGHG DUWLFOHVZHUHUHYLHZ $3&SURPRWHUPHWK\ODWLRQVFUHHQLQJZDV FRQGXFWHGLQFHOOOLQHV DUWLFOHVZHUHH[FOXGHGGXHWRODFNLQJRIGDWD RQFRUUHODWLRQRI$3&SURPRWHUPHWK\ODWLRQ DQGFRORUHFWDOFDQFHU
+DUWLFOHVLQFOXGHGLQPHWDDQDO\VLV
+Figure 1 Flow diagram of the study selection process showing the number of eligible articles included in this meta-analysis.
+
+on duplicate results or because they were deemed to be irrelevant to this meta-analysis after careful review of the titles and abstracts. Among the 65 studies that remained, an additional 46 articles were excluded for various reasons: 31 were review articles; eleven were discarded because screening of APC promoter methylation was performed using cell lines; and four were excluded because of a lack of data on the association between APC promoter methylation and the development of CRC. Thus, 19 articles were ultimately selected for inclusion in the meta-analysis.20ญ38
+Study characteristics
+The characteristics of the studies that met all of the established inclusion criteria for the meta-analysis are presented in Table 1. Nine eligible studies presented data on the association between APC promoter methylation and the risk of developing CRC. Eleven studies assessed the correlation of APC promoter methylation with the presence of CRC metastasis. Four studies reported the association between APC promoter methylation and the presence of colorectal adenoma. In addition, the numbers of articles that reported the associations between APC promoter methylation and age of the CRC patients, sex of the CRC patients, and CRC differentiation status were 3, 6, and 4, respectively. Of the 19 included studies, ten enrolled Asian participants and nine enrolled Caucasian participants. For the detection of APC promoter methylation, 12 studies used methylation-specific polymerase chain reaction, five used quantitative real-time methylation-specific polymerase chain reaction (Q-MSP), and two used the pyrosequencing method. In addition, 17 studies used colorectal tissue specimens to screen for APC promoter methylation, while two studies used plasma or serum samples.
+Data quality
+We estimated the quality of the studies using the NOS evaluation system, and the results showed that 15 of the 19 studies were classified as high-quality (NOS score 6) and the remaining four trials were classified as lower-quality. The mean NOS score of the studies was 7. Most of the studies did not use community controls when we conducted an assessment of comparability.
+Methylation of the APC promoter and CRC
+As shown in Figure 2, the pooled outcome of nine studies comprising 740 subjects indicated that APC promoter methylation was significantly associated with an increased
+
+OncoTargets and Therapy 2015:8
+
+submit your manuscript | www.dovepress.com Dovepress
+
+213
+
+Ding et al
+
+214
+
+submit your manuscript | www.dovepress.com Dovepress
+
+Table 1 Characteristics of the studies included in the meta-analysis
+
+Reference
+
+Year Country
+
+Race
+
+Methods
+
+Sample CRC
+
+Colorectal Age Sex
+
+metastasis adenoma
+
+Pack et al20
+
+2013 Korea
+
+Asian
+
+MSP
+
+Plasma N Y N N
+
+Kang et al21
+
+2012 Korea
+
+Asian
+
+Q-MSP
+
+Tissue Y
+
+N YY
+
+Gay et al22
+
+2012 UK
+
+Caucasian Pyrosequencing Tissue Y
+
+N NY
+
+Leong et al23
+
+2011 UK
+
+Caucasian Q-MSP
+
+Tissue N
+
+N
+
+NN
+
+Naghibalhossaini et al24 2011 Iran
+
+Asian
+
+MSP
+
+Tissue Y
+
+N YY
+
+Syed et al25
+
+2011 Kashmir
+
+Asian
+
+MSP
+
+Tissue
+
+Y
+
+N YY
+
+Kim et al26
+
+2010 Korea
+
+Asian
+
+Pyrosequencing Tissue
+
+Y
+
+N NN
+
+Belshaw et al27
+
+2010 UK
+
+Caucasian Q-MSP
+
+Tissue N
+
+N
+
+NN
+
+Kamiyama et al28
+
+2009 Japan
+
+Asian
+
+Q-MSP
+
+Tissue N
+
+N
+
+NN
+
+Derks et al29
+
+2006 European/USA Caucasian MSP
+
+Tissue N N N N
+
+Iacopetta et al30
+
+2006 Australia
+
+Caucasian Q-MSP
+
+Tissue Y
+
+N NY
+
+Leung et al31
+
+2005 China
+
+Asian
+
+MSP
+
+Serum Y
+
+N NY
+
+Chen et al32
+
+2005 Germany
+
+Caucasian MSP
+
+Tissue
+
+Y
+
+N NN
+
+Ebert et al33
+
+2005 Germany
+
+Caucasian MSP
+
+Tissue
+
+Y
+
+N NN
+
+Kim et al34
+
+2005 Korea
+
+Asian
+
+MSP
+
+Tissue N Y N N
+
+Brandes et al35
+
+2005 Netherlands
+
+Caucasian MSP
+
+Tissue
+
+Y
+
+N NN
+
+Xu et al36
+
+2004 China
+
+Asian
+
+MSP
+
+Tissue
+
+N
+
+Y
+
+NN
+
+Lee et al37
+
+2004 Korea
+
+Asian
+
+MSP
+
+Tissue N Y N N
+
+Lind et al38
+
+2004 Norway
+
+Caucasian MSP
+
+Tissue Y
+
+N NN
+
+TNM stages
+N Y N N Y N Y N N N N Y N N N N N N N
+
+Dukes' stages
+N N Y N N Y N N N N N N N N N Y N N Y
+
+Differentiation grade
+N N Y N Y N Y N N N N N N N N N N N Y
+
+Study quality
+8 8 8 7 8 8 6 7 8 5 7 9 6 8 7 7 8 7 6
+
+Notes: Quality of the studies was assessed using the Newcastle-Ottawa quality assessment scale. A score 6 indicated a higher-quality study, whereas a score 6 indicated a lower-quality study; Y indicates that the study was evaluated for the corresponding prognostic factor; N indicates that the study was not evaluated for the corresponding prognostic factor. Abbreviations: CRC, colorectal cancer; MSP, methylation-specific polymerase chain reaction; Q-MSP, quantitative real-time MSP; TNM, tumor-node-metastasis.
+
+OncoTargets and Therapy 2015:8
+
+Dovepress
+
+Dovepress
+6WXG\ 3DFNHWDO .DQJHWDO /HRQJHWDO %HOVKDZHWDO .DPL\DPDHWDO 'HUNVHWDO (EHUWHWDO ;XHWDO /HHHWDO 2YHUDOO, 3 
+
+APC promoter methylation and colorectal cancer
+
+25&,
+
+:HLJKW
+
+       
+
+ 
+
+ 
+
+       
+
+
+
+
+
+
+
+Figure 2 Meta-analysis of the association between APC promoter methylation and the risk of colorectal cancer. The circles and horizontal lines correspond to the study specific OR and 95% CI. The sizes of the data markers indicate the weight of each study in the analysis. The diamond represents the pooled OR and its 95% CI; the result
+was obtained using a fixed-effect model. Abbreviations: CI, confidence interval; OR, odds ratio.
+
+risk of developing CRC (pooled OR 5.53; 95% CI 3.50ญ8.76, P0.01; power 1.0). Eleven studies comprising 1,219 patients evaluated the association between APC promoter methylation and CRC metastasis, and the pooled OR was 0.80 at a 5% significance level with 5% power (95% CI 0.44ญ1.46, P=0.47; Figure 3). Four studies assessed the
+
+association between APC promoter methylation and the presence of colorectal adenoma, and the pooled OR was 1.85 at a 5% significance level with 94% power (95% CI 0.67ญ5.10, P=0.23; Figure 4). We also evaluated the association between APC promoter methylation and patient age, patient sex, TNM stage, Dukes' stage, and differentiation grade, and no
+
+6WXG\
+.DQJHWDO *D\HWDO 1DJKLEDOKRVVDLQLHWDO 6\HGHWDO .LPHWDO ,DFRSHWWDHWDO /HXQJHWDO &KHQHWDO (EHUWHWDO %UDQGHVHWDO /LQGHWDO 2YHUDOO, 3 
+
+25&,
+
+:HLJKW
+
+                       
+
+
+
+
+
+
+
+Figure 3 Meta-analysis of the association between APC promoter methylation in samples of colorectal cancer and samples of colorectal cancer metastasis. The circles and horizontal lines correspond to the study specific OR and 95% CI. The sizes of the data markers indicate the weight of each study in the analysis. The diamond represents the
+pooled OR and its 95% CI; the result was obtained using a random-effect model. Note: Weights are from random effects analysis. Abbreviations: CI, confidence interval; OR, odds ratio.
+
+OncoTargets and Therapy 2015:8
+
+submit your manuscript | www.dovepress.com Dovepress
+
+215
+
+Ding et al
+
+Study Pack et al20 Kim et al34 Xu et al36 Lee et al37 Overall (I2 =73.1%, P=0.011)
+
+OR (95% CI)
+
+Weight %
+
+7.41 (2.71, 20.28) 26.99 1.37 (0.41, 4.53) 24.31 0.25 (0.03, 1.82) 15.25 1.87 (1.10, 3.17) 33.45
+
+1.85 (0.67, 5.10) 100.00
+
+Dovepress
+
+0.0343
+
+1
+
+29.2
+
+Figure 4 Meta-analysis of the association between APC promoter methylation in samples of colorectal cancer and colorectal adenoma. The circles and horizontal lines correspond to the study specific OR and 95% CI. The sizes of the data markers indicate the weight of each study in the analysis. The diamond represents the pooled OR and
+its 95% CI; the result was obtained using a random-effect model. Note: Weights are from random effects analysis. Abbreviations: CI, confidence interval; OR, odds ratio.
+
+significant association was identified between APC promoter methylation and these specific parameters (Table 2).
+We conducted subgroup analyses to further explore the potential effects of the adopted screening methods, the ethnicities of the study populations, the testing materials used, and the study sample sizes on the association of APC promoter methylation with the risk of CRC (Table 3). When the studies were stratified according to ethnicity, the combined OR was 4.54 (95% CI 1.89ญ10.92; P0.01) for studies conducted with Asian populations and 10.03 (95% CI 3.44ญ29.19; P0.01) for studies conducted with Caucasian populations. Subgroup analyses of the testing materials used suggested that the exposure rate of APC promoter methylation in CRC tissues was higher than that in normal tissues (pooled OR 4.13; 95% CI 2.39ญ7.15; P0.01). In addition, a significant correlation between APC promoter methylation and the risk of developing CRC was detected in studies that
+
+used both methylation-specific polymerase chain reaction (pooled OR 8.04; 95% CI 4.22ญ15.32; P0.01) and Q-MSP (pooled OR 3.07; 95% CI 1.52ญ6.16; P0.01). Moreover, the overall outcome was not significantly altered by the sample size in the subgroup analysis.
+The subgroup analyses, which were stratified according to the methylation screening methods adopted, the ethnicity of the study population, the testing materials used, and the study sample sizes, were conducted to detect potential clinical heterogeneity among the studies that investigated the association between APC promoter methylation and CRC metastasis (Table 4). None of these factors significantly affected the overall outcome of the association between APC promoter methylation and CRC metastasis.
+The sensitivity analyses showed that the pooled ORs were not significantly affected following the sequential exclusion of each study (Figures S1ญS3). In addition, pooling the data of
+
+Table 2 Meta-analysis of the association between APC promoter methylation and the clinical characteristics of patients with colorectal cancer
+
+Age (years) Sex TNM stage Dukes' stage Differentiation grade
+
+Case type/control type
+60/60 Male/female I +/III + IV A + B/C + D Poor/moderate or well
+
+Studies (n)
+3 6 4 4 4
+
+Cases/controls
+150/146 402/320 312/217 194/163 117/480
+
+OR (95% CI)
+1.11 (0.16ญ7.55) 1.42 (1.00ญ2.02) 1.12 (0.70ญ1.80) 0.98 (0.20ญ4.87) 0.87 (0.49ญ1.57)
+
+Test of heterogeneity
+
+Pa I2, %b
+
+0.001 0.50 0.97 0.001 0.30
+
+87.4 0.001 0.001 90.1 18.2
+
+Pc Power (1 ญ )
+
+0.91 0.051 0.64 0.98 0.66
+
+0.48 0.83 0.34 0.14 0.99
+
+Notes: aP for heterogeneity. The statistical heterogeneity was assessed using Cochran's test. P0.1 was considered to indicate significant heterogeneity across the studies; bI2 for heterogeneity; the I2 statistic was also calculated using Cochran's test; I250% was considered to indicate significant heterogeneity across the studies. cP for meta-analysis.
+P0.05 was considered to indicate a significant association between APC promoter methylation and the risk of colorectal cancer using fixed-effect or random-effect models. Abbreviations: CI, confidence interval; OR, odds ratio; TNM, tumor-node-metastasis.
+
+216
+
+submit your manuscript | www.dovepress.com Dovepress
+
+OncoTargets and Therapy 2015:8
+
+Dovepress
+
+APC promoter methylation and colorectal cancer
+
+Table 3 Subgroup analyses of APC promoter methylation and the risk of colorectal cancer stratified according to the previously defined study characteristics
+
+Subgroup analysis Race Asian Caucasian Testing materials Tissue Plasma Testing methods MSP Q-MSP Sample size 100 100
+
+Studies (n)
+5 4 8 1 5 4 5 4
+
+Cases/controls
+399/154 121/66 460/160 60/60 313/128 207/92 160/71 360/149
+
+OR (95% CI)
+4.54 (1.89ญ10.92) 10.03 (3.44ญ29.19) 4.13 (2.39ญ7.15) 9.90 (3.87ญ25.32) 8.04 (4.22ญ15.32) 3.07 (1.52ญ6.16) 7.44 (2.75ญ20.11) 4.86 (2.90ญ8.17)
+
+Test of heterogeneity Pa I2, %b
+0.06 56.3 0.20 27.3
+0.30 17.0 ญญ
+0.75 0.001 0.17 40.2
+0.74 0.001 0.04 63.9
+
+Pc
+P0.01 P0.01 P0.01 P0.01 P0.01 P0.01 P0.01 P0.01
+
+Power (1 ญ )
+1.0 0.99 1.0 1.0 1.0 1.0 1.0 0.96
+
+Notes: aP for heterogeneity. The statistical heterogeneity was assessed using Cochran's test. P0.1 was considered to indicate significant heterogeneity across the studies. bI2 for heterogeneity. The I2 statistic was also calculated using Cochran's test. I250% was considered to indicate significant heterogeneity across the studies. cP for meta-analysis.
+P0.05 was considered to indicate significant association between APC promoter methylation and the risk of colorectal cancer using fixed-effect or random-effect models. Abbreviations: CI, confidence interval; OR, odds ratio; MSP, methylation-specific polymerase chain reaction; Q-MSP, quantitative real-time MSP.
+
+the high-quality studies during the sensitivity analyses did not significantly change the overall results of the meta-analysis. The funnel plot (Figure S4) and Egger's test did not reveal significant publication biases in the current meta-analysis (CRC risk, Egger's test, P=0.48; CRC metastasis status, Egger's test, P=0.85; colorectal adenoma status, Egger's test, P=0.85).
+
+Discussion
+The main findings of this meta-analysis indicated that APC promoter methylation was significantly associated with a higher risk of developing CRC. Additional subgroup analyses of the adopted methylation screening methods, ethnicities of the study populations, the testing materials used, and the
+
+Table 4 Subgroup analyses of APC promoter methylation and colorectal metastasis stratified according to previously defined study characteristics
+
+Studies (n)
+
+Cases/controls
+
+OR (95% CI)
+
+Test of heterogeneity
+
+Pc
+
+Power (1 ญ )
+
+Pa I2, %b
+
+Subgroup analysis Race Asian Caucasian Testing materials Tissue Plasma Testing methods MSP Q-MSP Pyrosequencing Sample size 100 100
+
+5 6
+10 1
+7 2 2
+7 4
+
+350/265 344/260
+674/500 20/25
+256/223 182/117 256/185
+256/223 438/302
+
+0.58 (0.19ญ1.79) 1.04 (0.52ญ2.09)
+0.81 (0.44ญ1.51) 0.61 (0.05ญ7.20)
+0.67 (0.18ญ2.03) 0.94 (0.58ญ1.55) 1.23 (0.75ญ2.02)
+0.61 (0.18ญ2.03) 1.08 (0.76ญ1.53)
+
+0.001 0.02
+0.001 ญ
+0.001 0.49 0.79
+0.001 0.78
+
+81.1 63.7
+75.4 ญ
+72.8 0.001 0.001
+81.1 0.001
+
+P=0.34 P=0.91
+P=0.52 P=0.69
+P=0.42 P=0.81 P=0.42
+P=0.42 P=0.68
+
+0.08 0.03
+0.09 0.04
+0.03 0.08 0.01
+0.04 0.03
+
+Notes: aP for heterogeneity. The statistical heterogeneity was assessed using Cochran's test. P0.1 was considered to indicate significant heterogeneity across the studies. bI2 for heterogeneity. The I2 statistic was also calculated using Cochran's test. I250% was considered to indicate significant heterogeneity across the studies. cP for meta-analysis. P0.05
+was considered to indicate significant association between APC promoter methylation and the risk of colorectal metastasis using fixed-effects or random-effects models. Abbreviations: CI, confidence interval; OR, odds ratio; MSP, methylation-specific polymerase chain reaction; Q-MSP, quantitative real-time MSP.
+
+OncoTargets and Therapy 2015:8
+
+submit your manuscript | www.dovepress.com Dovepress
+
+217
+
+Ding et al
+
+Dovepress
+
+sample sizes did not significantly alter the overall results. Both the overall and subgroup analyses regarding the association between APC promoter methylation and CRC metastasis suggested that APC promoter methylation was not significantly associated with the presence of CRC metastasis. Furthermore, this meta-analysis did not identify a significant association between APC promoter methylation and CRC adenoma, patient age, patient sex, TNM stage, Dukes' stage, or differentiation grade.
+It is well known that CRC has relatively low 5-year survival rate worldwide.1 However, CRC is curable in 90% cases if detected at an early stage.39 Therefore, the development and improvement of early screening methods are essential to increasing the survival rate and clinical outcomes for patients with CRC. In addition, the excision of precancerous polyps under early screening programs is one of the most effective methods used to decrease the incidence and mortality rate of CRC.3,40,41 It has been suggested that the fecal occult blood test, a commonly used screening method for CRC, can decrease CRC-related mortality by 20% when conducted every 2 years;42 however, the fecal occult blood test still has a comparatively low detection rate for early-stage CRC and precancerous lesions.43 Although other screening tests such as colonoscopy, flexible sigmoidoscopy, and virtual colonoscopy are more robust, they are partially limited by their relatively high cost, complex preparation procedures, and low compliance rates in the screening and surveillance of CRC.44 Therefore, the identification of CRC biomarkers has attracted more attention and may hold great potential as a new screening method for the prevention and subsequent treatment of CRC.7
+The present meta-analysis indicated that the percentage of APC promoter methylation in specimens of CRC was significantly higher than in normal samples, which is consistent with the result of a previous meta-analysis of APC promoter methylation and prostate cancer.45 These findings suggest that APC promoter methylation may be a valuable biomarker for CRC carcinogenesis. In addition, that methylated DNA can be detected with a high degree of sensitivity and specificity provides evidence that this methodology may be helpful in disease diagnosis and risk stratification.7,46 Thus, testing for APC promoter methylation may be useful as a practical method for CRC screening. However, we did not identify a significant association between APC promoter methylation and CRC metastasis, Dukes' stage, TNM stage, or differentiation grade, which suggests that this method may be inappropriate for use when predicting the developmental stage of CRC. This needs to be further evaluated by additional high-quality studies.
+
+The evaluation of heterogeneity among studies is an essential requirement when performing a meta-analysis.47 In this meta-analysis, heterogeneity among the studies was detected using the chi-square-based Q-test and the I2 test. Following a systematic assessment, we found no significant heterogeneity between the studies that had investigated the association between APC promoter methylation and the risk of developing CRC. Subgroup analyses were conducted to evaluate the clinical heterogeneity of the included studies that investigated the association between APC promoter methylation and the risk of developing CRC or CRC metastasis, and no significant heterogeneity was found. In addition, sensitivity analyses were performed to explore the effects of individual studies and study quality on each overall outcome, and no single sensitive study was found in this meta-analysis. Publication bias has also been considered a major concern for a robust meta-analysis. Thus, we used the funnel plot and Egger's test to estimate the influence of publication bias, and no significant publication bias was identified in our study. The aim of a meta-analysis is to aggregate information in order to achieve higher statistical power in the study. However, problems associated with low statistical power may exist even after combining the included studies in the meta-analysis. Therefore, we performed a test to evaluate the statistical power of the pooled results. The power of the positive results of this meta-analysis ranged from 0.96 to 1.0, indicating that these positive results are credible.48,49
+The present meta-analysis has several limitations. First, we could not rule out the effects of potential confounders such as xenoestrogens, folate, and diet on the findings of this meta-analysis due to a lack of information presented for both the case and control groups in the studies that were reviewed. Second, the meta-analysis was based on data from observational studies, which may have some potential recall and selection biases that we could not rule out. Third, although no significant publication bias was found in this investigation, null findings may not have been published in the analyzed studies that had considered APC promoter methylation as a secondary outcome. In addition, the power value was lower than 0.8 in part of the overall and subgroup analyses of the meta-analysis with negative results. This indicated that the combined sample size was still too small to yield statistical power, even when we pooled the results of the included studies.48,49 Therefore, these results need to be bolstered by additional high-quality studies with larger sample sizes in the future.
+
+218
+
+submit your manuscript | www.dovepress.com Dovepress
+
+OncoTargets and Therapy 2015:8
+
+Dovepress
+Conclusion
+In conclusion, APC promoter methylation was found to be significantly associated with the risk of developing CRC, which suggested that APC promoter methylation may be a promising biomarker for the early screening of CRC. In addition, this meta-analysis did not find a significant association between APC promoter methylation and CRC metastasis, colorectal adenoma status, patient age, patient sex, TNM stage, Dukes' stage, or differentiation grade. The conclusions of the current study need to be evaluated further through well-designed prospective studies with larger sample sizes. In addition, findings might be more convincing if the studies can effectively rule out the potential effects of various confounding factors.
+Acknowledgments
+The study was supported by the subtopics of National Key Drug Discovery Project in the 12th Five-Year Period (grant 2012ZX0903016-002) and by the Liaoning Province Science and Technology Development Funds (grant 2012225019). English language editing of this manuscript was provided by Journal Prep.
+Author contributions
+All authors contributed to the data analysis and the drafting and revising of the paper, and agree to be accountable for all aspects of the work.
+Disclosure
+The authors report no conflicts of interest in this work.
+References
+1. Siegel R, Naishadham D, Jemal A. Cancer statistics, 2013. CA Cancer J Clin. 2013;63(1):11ญ30.
+2. Silva TD, Vidigal VM, Felipe AV, et al. DNA methylation as an epigenetic biomarker in colorectal cancer. Oncol Lett. 2013;6(6):1687ญ1692.
+3. Edwards BK, Ward E, Kohler BA, et al. Annual report to the nation on the status of cancer, 1975ญ2006, featuring colorectal cancer trends and impact of interventions (risk factors, screening, and treatment) to reduce future rates. Cancer. 2010;116(3):544ญ573.
+4. Dumitrescu RG. Epigenetic markers of early tumor development. Methods Mol Biol. 2012;863:3ญ14.
+5. Fearon ER. Molecular genetics of colorectal cancer. Annu Rev Pathol. 2011; 6:479ญ507.
+6. Kojima M, Ochiai A. [Molecular genetics associated with invasion and metastasis of colorectal cancer]. Nihon Rinsho. 2011;69 Suppl 3:149ญ152. Japanese.
+7. Kim MS, Lee J, Sidransky D. DNA methylation markers in colorectal cancer. Cancer Metastasis Rev. 2010;29(1):181ญ206.
+8. Eads CA, Danenberg KD, Kawakami K, et al. MethyLight: a highthroughput assay to measure DNA methylation. Nucleic Acids Res. 2000;28(8):E32.
+9. Fodde R, Smits R, Clevers H. APC, signal transduction and genetic instability in colorectal cancer. Nat Rev Cancer. 2001;1(1):55ญ67.
+
+APC promoter methylation and colorectal cancer
+10. Behrens J. The role of the Wnt signalling pathway in colorectal tumorigenesis. Biochem Soc Trans. 2005;33:672ญ675.
+11. Narayan S, Roy D. Role of APC and DNA mismatch repair genes in the development of colorectal cancers. Mol Cancer. 2003;2:41.
+12. Sweeney C, Boucher KM, Samowitz WS, et al. Oncogenetic tree model of somatic mutations and DNA methylation in colon tumors. Genes Chromosomes Cancer. 2009;48:1ญ9.
+13. Kumar A, Rajendran V, Sethumadhavan R, Purohit R. Evidence of colorectal cancer-associated mutation in MCAK: a computational report. Cell Biochem Biophys. 2013;67:837ญ851.
+14. Purohit R, Sethumadhavan R. Structural basis for the resilience of Darunavir (TMC114) resistance major flap mutations of HIV-1 protease. Interdiscip Sci. 2009;1:320ญ328.
+15. Rajendran V, Purohit R, Sethumadhavan R. In silico investigation of molecular mechanism of laminopathy caused by a point mutation (R482W) in lamin A/C protein. Amino Acids. 2012;43:603ญ615.
+16. Purohit R, Rajendran V, Sethumadhavan R. Relationship between mutation of serine residue at 315th position in M. tuberculosis catalaseperoxidase enzyme and Isoniazid susceptibility: an in silico analysis. J Mol Model. 2011;17:869ญ877.
+17. Stang A. Critical evaluation of the Newcastle-Ottawa scale for the assessment of the quality of nonrandomized studies in meta-analyses. Eur J Epidemiol. 2010;25(9):603ญ605.
+18. Stroup DF, Berlin JA, Morton SC, et al. Meta-analysis of observational studies in epidemiology: a proposal for reporting. Meta-analysis Of Observational Studies in Epidemiology (MOOSE) group. JAMA. 2000;283(15):2008ญ2012.
+19. Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ. 2003;327(7414):557ญ560.
+20. Pack SC, Kim HR, Lim SW, et al. Usefulness of plasma epigenetic changes of five major genes involved in the pathogenesis of colorectal cancer. Int J Colorectal Dis. 2013;28(1):139ญ147.
+21. Kang HJ, Kim EJ, Kim BG, et al. Quantitative analysis of cancer-associated gene methylation connected to risk factors in Korean colorectal cancer patients. J Prev Med Public Health. 2012;45(4): 251ญ258.
+22. Gay LJ, Mitrou PN, Keen J, et al. Dietary, lifestyle and clinicopathological factors associated with APC mutations and promoter methylation in colorectal cancers from the EPIC-Norfolk study. J Pathol. 2012; 228(3):405ญ415.
+23. Leong KJ, Wei W, Tannahill LA, et al. Methylation profiling of rectal cancer identifies novel markers of early-stage disease. Br J Surg. 2011; 98(5):724ญ734.
+24. Naghibalhossaini F, Hosseini HM, Mokarram P, Zamani M. High frequency of genes' promoter methylation, but lack of BRAF V600E mutation among Iranian colorectal cancer patients. Pathol Oncol Res. 2011; 17(4):819ญ825.
+25. Syed SA, Shah ZA, Abdullah S, Chowdri NA, Siddiqi MA. Analysis of molecular aberrations of Wnt pathway gladiators in colorectal cancer in the Kashmiri population. Hum Genomics. 2011;5(5):441ญ452.
+26. Kim JC, Choi JS, Roh SA, Cho DH, Kim TW, Kim YS. Promoter methylation of specific genes is associated with the phenotype and progression of colorectal adenocarcinomas. Ann Surg Oncol. 2010;17(7):1767ญ1776.
+27. Belshaw NJ, Pal N, Tapp HS, et al. Patterns of DNA methylation in individual colonic crypts reveal aging and cancer-related field defects in the morphologically normal mucosa. Carcinogenesis. 2010;31(6):1158ญ1163.
+28. Kamiyama H, Noda H, Takata O, Suzuki K, Kawamura Y, Konishi F. Promoter hypermethylation of tumor-related genes in peritoneal lavage and the prognosis of patients with colorectal cancer. J Surg Oncol. 2009;100(1):69ญ74.
+29. Derks S, Postma C, Moerkerk PT, et al. Promoter methylation precedes chromosomal alterations in colorectal cancer development. Cell Oncol. 2006;28(5ญ6):247ญ257.
+30. Iacopetta B, Grieu F, Li W, et al. APC gene methylation is inversely correlated with features of the CpG island methylator phenotype in colorectal cancer. Int J Cancer. 2006;119(10):2272ญ2278.
+
+OncoTargets and Therapy 2015:8
+
+submit your manuscript | www.dovepress.com Dovepress
+
+219
+
+Ding et al
+
+Dovepress
+
+31. Leung WK, To KF, Man EP, et al. Quantitative detection of promoter hypermethylation in multiple genes in the serum of patients with colorectal cancer. Am J Gastroenterol. 2005;100(10):2274ญ2279.
+32. Chen J, Rocken C, Lofton-Day C, et al. Molecular analysis of APC promoter methylation and protein expression in colorectal cancer metastasis. Carcinogenesis. 2005;26(1):37ญ43.
+33. Ebert MP, Mooney SH, Tonnes-Priddy L, et al. Hypermethylation of the TPEF/HPP1 gene in primary and metastatic colorectal cancers. Neoplasia. 2005;7(8):771ญ778.
+34. Kim HC, Roh SA, Ga IH, Kim JS, Yu CS, Kim JC. CpG island methylation as an early event during adenoma progression in carcinogenesis of sporadic colorectal cancer. J Gastroenterol Hepatol. 2005;20(12):1920ญ1926.
+35. Brandes JC, van Engeland M, Wouters KA, Weijenberg MP, Herman JG. CHFR promoter hypermethylation in colon cancer correlates with the microsatellite instability phenotype. Carcinogenesis. 2005;26(6):1152ญ1156.
+36. Xu XL, Yu J, Zhang HY, et al. Methylation profile of the promoter CpG islands of 31 genes that may contribute to colorectal carcinogenesis. World J Gastroenterol. 2004;10(23):3441ญ3454.
+37. Lee S, Hwang KS, Lee HJ, Kim JS, Kang GH. Aberrant CpG island hypermethylation of multiple genes in colorectal neoplasia. Lab Invest. 2004;84(7):884ญ893.
+38. Lind GE, Thorstensen L, Lovig T, et al. A CpG island hypermethylation profile of primary colorectal carcinomas and colon cancer cell lines. Mol Cancer. 2004;3:28.
+39. Toribara NW, Sleisenger MH. Screening for colorectal cancer. N Engl J Med. 1995;332(13):861ญ867.
+40. Cress RD, Morris C, Ellison GL, Goodman MT. Secular changes in colorectal cancer incidence by subsite, stage at diagnosis, and race/ ethnicity, 1992ญ2001. Cancer. 2006;107(5 Suppl):1142ญ1152.
+
+41. Phillips KA, Liang SY, Ladabaum U, et al. Trends in colonoscopy for colorectal cancer screening. Med Care. 2007;45(2):160ญ167.
+42. Atkin W. Options for screening for colorectal cancer. Scand J Gastroenterol. 2003;(237):13ญ16.
+43. Imperiale TF, Ransohoff DF, Itzkowitz SH, Turnbull BA, Ross ME. Fecal DNA versus fecal occult blood for colorectal-cancer screening in an average-risk population. N Engl J Med. 2004;351(26):2704ญ2714.
+44. Grutzmann R, Molnar B, Pilarsky C, et al. Sensitive detection of colorectal cancer in peripheral blood by septin 9 DNA methylation assay. PLoS One. 2008;3(11):e3759.
+45. Chen Y, Li J, Yu X, et al. APC gene hypermethylation and prostate cancer: a systematic review and meta-analysis. Eur J Hum Genet. 2013;21(9): 929ญ935.
+46. Mahoney SE, Yao Z, Keyes CC, Tapscott SJ, Diede SJ. Genome-wide DNA methylation studies suggest distinct DNA methylation patterns in pediatric embryonal and alveolar rhabdomyosarcomas. Epigenetics. 2012;7(4):400ญ408.
+47. Lau J, Ioannidis JP, Schmid CH. Summing up evidence: one answer is not always enough. Lancet. 1998;351(9096):123ญ127.
+48. Campbell MJ, Julious SA, Altman DG. Estimating sample sizes for binary, ordered categorical, and continuous outcomes in two group comparisons. BMJ. 1995;311:1145ญ1148.
+49. Chan AW, Hrobjartsson A, Jorgensen KJ, Gotzsche PC, Altman DG. Discrepancies in sample size calculations and data analyses reported in randomised trials: comparison of publications with protocols. BMJ. 2008;337:a2299.
+
+220
+
+submit your manuscript | www.dovepress.com Dovepress
+
+OncoTargets and Therapy 2015:8
+
+Dovepress
+Supplementary materials
+
+APC promoter methylation and colorectal cancer
+
+0HWDDQDO\VLVHVWLPDWHVJLYHQQDPHGVWXG\LVRPLWWHG
+
+/RZHU&,OLPLW 3DFNHWDO .DQJHWDO /HRQJHWDO %HOVKDZHWDO
+
+(VWLPDWH
+
+8SSHU&,OLPLW
+
+.DPL\DPDHWDO 'HUNVHWDO
+
+(EHUWHWDO
+
+;XHWDO
+
+/HHHWDO
+
+ 
+
+
+
+
+
+Figure S1 Sensitivity analyses of the association between APC promoter methylation and the risk of colorectal cancer. Abbreviation: CI, confidence interval.
+
+
+
+0HWDDQDO\VLVHVWLPDWHVJLYHQQDPHGVWXG\LVRPLWWHG
+
+/RZHU&,OLPLW .DQJHWDO
+
+(VWLPDWH
+
+8SSHU&,OLPLW
+
+*D\HWDO
+
+1DJKLEDOKRVVDLQLHWDO
+
+6\HGHWDO
+
+.LPHWDO
+
+,DFRSHWWDHWDO
+
+/HXQJHWDO &KHQHWDO
+
+(EHUWHWDO
+
+%UDQGHVHWDO
+
+/LQGHWDO  
+
+
+
+ 
+
+Figure S2 Sensitivity analyses of the association between APC promoter methylation in samples of colorectal cancer and samples of colorectal cancer metastasis. Abbreviation: CI, confidence interval.
+
+OncoTargets and Therapy 2015:8
+
+submit your manuscript | www.dovepress.com Dovepress
+
+221
+
+Ding et al
+
+0HWDDQDO\VLVHVWLPDWHVJLYHQQDPHGVWXG\LVRPLWWHG
+
+/RZHU&,OLPLW 3DFNHWDO
+
+(VWLPDWH
+
+8SSHU&,OLPLW
+
+Dovepress
+
+.LPHWDO
+
+;XHWDO
+
+/HHHWDO
+
+  
+
+
+
+
+
+Figure S3 Sensitivity analyses of the association between APC promoter methylation in samples of colorectal cancer and colorectal adenoma. Abbreviation: CI, confidence interval.
+
+ORJ25
+
+%HJJถVIXQQHOSORWZLWKSVHXGRFRQILGHQFHOLPLWV
+
+
+ฑ
+ฑ    
+6(RIORJ25
+Figure S4 Funnel plot for the evaluation of the potential publication bias in the association between APC promoter methylation in samples of colorectal cancer and samples of colorectal cancer metastasis. Abbreviations: OR, odds ratio; SE, standard error.
+
+OncoTargets and Therapy
+Publish your work in this journal
+
+Dovepress
+
+OncoTargets and Therapy is an international, peer-reviewed, open access journal focusing on the pathological basis of all cancers, potential targets for therapy and treatment protocols employed to improve the management of cancer patients. The journal also focuses on the impact of management programs and new therapeutic agents and protocols on
+
+patient perspectives such as quality of life, adherence and satisfaction. The manuscript management system is completely online and includes a very quick and fair peer-review system, which is all easy to use. Visit http://www.dovepress.com/testimonials.php to read real quotes from published authors.
+
+Submit your manuscript here: http://www.dovepress.com/oncotargets-and-therapy-journal
+
+222
+
+submit your manuscript | www.dovepress.com Dovepress
+
+OncoTargets and Therapy 2015:8
+
+

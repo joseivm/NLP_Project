@@ -1,0 +1,132 @@
+EUROPEAN JOURNAL OF CANCER 44 (2008) 110­114 available at www.sciencedirect.com
+
+journal homepage: www.ejconline.com
+Common variants of DNA repair genes and malignant melanoma
+T. De bniaka,*, R.J. Scottb, B. Go´ rskia, C. Cybulskia, T. van de Weteringa, P. Serrano-Fernandeza, T. Huzarskia, T. Byrskia, L. Nagayc, B. De bniakd, E. Kowalskaa, A. Jakubowskaa, J. Gronwalda, D. Wokolorczyka, R. Maleszkae, J. Kladnyf, J. Lubinskia
+aDepartment of Genetics and Pathology, International Hereditary Cancer Center, Pomeranian Medical University, Polabska 4, 70-115 Szczecin, Poland bDiscipline of Medical Genetics, Faculty of Health, University of Newcastle and Hunter Medical Research Institute, Newcastle, Australia cRegional Oncology Hospital, Szczecin, Poland dRegional Hospital, Gorzow Wielkopolski, Poland eDepartment of Dermatology and Venerology, Pomeranian Medical University, Szczecin, Poland fIII Department of Surgery, Pomeranian Academy of Medicine, Szczecin, Poland
+
+ARTICLE INFO
+Article history: Received 10 July 2007 Received in revised form 12 September 2007 Accepted 9 October 2007 Available online 19 November 2007
+Keywords: BRCA2 CHEK2 Malignant melanoma
+
+ABSTRACT
+In the current study, we evaluated the possible associations of seven common variants of the DNA repair and cell cycle control genes BRCA2 and CHEK2 with malignant melanoma (MM). We genotyped 630 unselected MM patients and over 3700 controls (newborns, ageand sex-matched healthy adults with negative cancer family histories, and the adults selected at random by family doctors) for the prevalence of three common variants of the BRCA2 (T1915M, N991D and N372H) and four common variants of the CHEK2 (1100delC, VS2 + 1G ! A, I157T and del5395). Our study strongly suggests that the common variant of the BRCA2 gene ­ the N991D variant is associated with malignant melanoma risk (OR = 1.8, p = 0.002 after Bonferroni correction). Patients homozygote for the N991D variant were present in 0.32% of cases and only 0.13% of controls.
+The other variants studied were not over-represented among MM patients when compared to the general population. In conclusion, we report an increased melanoma risk among carriers of the N991D change of the BRCA2 and no association of the CHEK2 changes with malignant melanoma.
+Ó 2007 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Malignant melanoma (MM) of the skin and the eye is the most aggressive form of skin cancer and is increasing in frequency. The genetic basis of MM is complex and appears to involve multiple genes. To date, the molecular background of the majority of population-based MM cases remains undetermined.
+
+Mutations in BRCA2 (OMIM 600185) and CHEK2 (OMIM 604373), both involved in aspects of the DNA repair process, predispose to a range of cancer types. There is sufficient evidence to suggest an association between melanoma risk, BRCA2 and CHEK2 germline alterations. The Breast Cancer Linkage Consortium estimated the relative risk of melanoma to be 2.58 in BRCA2 carriers.1 In 2002, Scott and colleagues examined 71 patients with ocular MM and pedigree and
+
+* Corresponding author: Tel./fax: +48 91 4661533. E-mail address: debniak@sci.pam.szczecin.pl (T. De bniak).
+0959-8049/$ - see front matter Ó 2007 Elsevier Ltd. All rights reserved. doi:10.1016/j.ejca.2007.10.006
+
+EUROPEAN JOURNAL OF CANCER 44 (2008) 110­114
+
+111
+
+clinical data suggestive of a genetic background (bilateral cases, positive family history for the occurrence of MM, age at diagnosis <50 years). The estimated prevalence of the possible loss of function changes in BRCA2 was 3% in patients with familial ocular melanoma.2 Recently, it has been suggested that the 1100delC mutation of the CHEK2 gene may also be responsible for the occurrence of a small proportion of MM cases, especially in families with the Li-Fraumeni or Li-Fraumeni-like syndrome.3
+Genetic predispositions to malignancy include causative mutations in DNA repair genes, which are of high penetrance. Most of them result from small deletions, insertions or point mutations and can be readily characterised as they are predicted to result in a loss or gain of protein function. Missense mutations, however, are much harder to classify. Nevertheless, the missense variants of DNA repair genes that have been shown to be associated with predispositions to malignancy can also be clearly pathogenic but often with a reduced penetrance compared to more obvious causative ones. Disease penetrance may be increased in compound carriers of many different common germline alterations.
+In Poland, two common changes of the BRCA2 gene, T1915M and N372H, and four common CHEK2 alterations, 1100delC, VS2 + 1G ! A, I157T and del5395, have been identified to date.4­6 In addition to these common changes, we have also evaluated the prevalence of the BRCA2 variant, N991D, which has not been previously assessed in the Polish population.
+In this report, we have examined the seven variants and their association with the occurrence of disease in a series of consecutively collected melanoma patients and a series of control subjects from the Polish population.
+2. Materials and methods
+2.1. Melanoma patients
+The melanoma patient group consisted of 630 unselected individuals (351 females and 279 males) with a mean age of diagnosis of 54.5 years, who had presented with histologically confirmed malignant melanoma of the skin. The patients originated in North-western (Szczecin, Gorzo´ w Wlkp, Zielona Go´ ra), North-eastern (Bialystok) and South-west Poland (Opole). All melanoma cases were identified from cancer registries in the five cities mentioned above. The registries capture over 95% of all histopathologically diagnosed malignant melanomas. Participation rates exceeded 75% for all centres. The cases were diagnosed between 2003 and 2006 in Szczecin, and between 2002 and 2003 in the remaining cities.
+2.2. Controls
+Three control groups were combined. The first group consisted of 1400 newborn male and female children from 10 hospitals situated throughout Poland in 2004 and 2006. Samples of cord blood from unselected infants were forwarded to the study centre in Szczecin. The frequencies of the CHEK2 changes were also determined in an additional 783 newborn male and female children from the same hospitals throughout Poland in 2003.
+
+The second group of control subjects consisted of 551 healthy adults (309 females and 242 males, mean age 54 years), who had a negative family history of cancer and were sex- and age-matched (±2 years) with the melanoma patients from the region of Szczecin. The healthy adults were assessed as having a negative family history of cancer after answering a questionnaire about their family's medical history, which was part of a population-based study of the 1.5 million residents of West Pomerania to identify familial aggregations of malignancies performed recently by our centre. The participation rate for `matched' controls was 50%. During the interview, the goals of the study were explained, informed consent was obtained, genetic counseling was given and a blood sample was taken for DNA analysis. A detailed family history of cancer was taken (first and second-degree relatives included) and a risk factor questionnaire was completed detailing sun exposure and occupation. Probands affected with any malignancy or with cancers diagnosed among first- or second-degree relatives were excluded from the current study.
+The third group of healthy adults were selected at random from the computerised patient lists of five large family practices located in the region of Szczecin. The healthy adults were invited by mail to participate. Participation rates from this group exceeded 70%. During the interview the goals of the study were explained, informed consent was obtained, genetic counselling was given and a blood sample was taken for DNA analysis. A detailed family history of cancer was taken (first- and second-degree relatives included) and a risk factor questionnaire was completed detailing sun exposure and occupation. Probands were included regardless of their cancer family history status, individuals affected with any malignancy were excluded from the study. The total number of participants recruited from the five family practices at the time of CHEK2 analyses was 1896 and for BRCA2 analyses was 1946.
+The study was approved by the ethics review board of the Pomeranian Medical University.
+2.3. Methods
+The BRCA2 change T1915M and the CHEK2 changes 1100delC, VS2 + 1G ! A, I157T, del 5395 were examined as described previously.4,6 The BRCA2 N991D variant was analyzed by RFLP-PCR with the use of Asu I restriction endonuclease enzyme (Fermentas). The PCR conditions were identical with T1915M analysis with the exception of the primers (N991Df ATG TTC TTG CAG AGG AGA AC, N991Dr GCT AAG AGT CCT GCC CAT TGG T).
+The BRCA2 N372H polymorphism was analysed by real time PCR (Simple Probe format, performed on LightCycler 480) with the primers t1342f gaagtggaaccaaatgatactgaccc; t1342r gacggtacaacttccttggagatt; and the probe p1342f FamCATTAGATTCAAATGTAGCACATCAG-phosphate.
+The presence of all changes was confirmed by direct DNA sequencing.
+2.4. Statistics
+To evaluate whether the genetic variants in BRCA2 or CHEK2 were associated with MM, we compared the frequency of
+
+112
+
+EUROPEAN JOURNAL OF CANCER 44 (2008) 110­114
+
+the variants in our patients to the control group from the general population, using the two-tailed Fisher exact test. Possible deviation of the allele frequencies from those expected under Hardy­Weinberg equilibrium (HWE) was also assessed using the v2 probability test.7 Linkage disequilibrium analyses were calculated using the software JLIN v1.5.3.8
+3. Results
+We compared the prevalence of the BRCA2 and CHEK2 changes between three control groups. There were no significant differences between the frequencies of the alleles in the newborns, age- and sex-matched healthy adults with negative family history of cancer, and the adults selected at random by family doctors (Table 1). There were also no statistical differences in the examined allele frequencies in the newborns recruited from the Szczecin metropolitan region compared to other Polish cities (data not shown).
+Examination of the frequencies of the BRCA2 variants revealed a significant over-representation of the N991D variant among melanoma cases (Table 1). It was present in 20 out of 230 (8.7%) early-onset (<50) MM cases (OR = 1.6, p = 0.05) and 38 out of 378 (10%) late-onset cases (OR = 1.9, p = 0.0005). There was no association observed for the T1915M and N372H polymorphisms with melanoma risk (Table 1).
+There were no significant differences between the frequencies of the BRCA2 polymorphisms among early-onset (T1915M ­ 4.7%, N372H ­ 6.6%) and late-onset cases (T1915M ­ 4.5%, N372H ­ 7.5%).
+About 22 out of 630 cases (3.5%) studied herein were defined as consecutive familial cases (families with at least two first-degree relatives affected with malignant melanoma). The prevalence of the N991D variant was slightly increased among them, 9.1% versus 5.6% in the controls but it was not
+
+statistically significant (OR = 1.8, p = 0.8, 95%CI 0.4­7.6). There was no significant over-representation of the T1915M variant (4.5%, OR = 0.7, p = 0.9, 95%CI 0.1­5.5) or the N372H variant (36.4%, OR = 0.8, p = 0.8, 95%CI 0.3­1.9) among melanomaprone families.
+Evaluation of the histopathological records of the melanoma cases revealed no significant association between any of the BRCA2 and CHEK2 variants and Breslow and Clark grading systems (data not shown).
+The analysis of the clinical data revealed no association between any of the BRCA2 and CHEK2 variants and the localisation of the tumour. The frequencies of the occurrence of melanoma on sun exposed (head, neck, forearms, hands, shin and feet) and non-exposed (trunk, arms, thighs and buttocks) skin areas were similar in carriers and non-carriers of these variants (data not shown).
+We did not observe any T1915M homozygotes in MM patient group and only one homozygote among the controls. Two N991D homozygotes were identified among the MM patients (0.32%) and five among controls (0.13%). Due to the low frequency of homozygote N991D carriers a combined heterozygous and homozygous prevalence of the BRCA2 variants is shown in Table 1. The homozygous CC genotype of the N372H was present in 59 of 627 melanoma cases (7%) and 245 of 3781 controls (6.5%), the difference was insignificant (OR = 1.1, p = 0.7, 95%CI 0.8­1.5).
+Due to poor quality or small amounts of DNA, clear results for the T1915M variant was not possible for 16 of the 1400 newborns and 13 of the 551 `matched' adults. For the N991D variant 64 newborns and 12 `matched' adults failed to produce a result and for the N372H change 65 newborns, 11 `matched' adults and 2 out of 1946 `family doctors' adults could not be typed. However, the total numbers of controls examined were large enough such that these small variations
+
+Table 1 ­ Heterozygous and homozygous prevalence of the BRCA2 and CHEK2 common variants in controls and cases
+
+Variant
+
+Newborns Matched adults Family doctors adults Total controls Melanoma
+
+OR, p
+
+T1915M BRCA2 N991D BRCA2 N372H BRCA2 any BRCA2 I157T CHEK2 IVS2 + 1G > A CHEK2 1100delC CHEK2 del5395 CHEK2 Truncate CHEK2 any CHEK2
+
+86/1384 (6.2%) 66/1336 (4.9%) 467/1335 (35%) 614/1335 (46%) 101/2183 (4.6%) 10/2183 (0.4%) 5/2183 (0.2%) 11/2183 (0.5%) 26/2183 (1.2%) 126/2183 (5.8%)
+
+29/538 (5.4%) 22/539 (4.1%) 211/540 (39.1%) 258/540 (47.4%) 28/542 (5.2%) 1/542 (0.2%) 1/542 (0.2%) 2/542 (0.4%) 4/542 (0.7%) 32/542 (5.9%)
+
+121/1946 (6.2%) 116/1946 (5.9%) 902/1944 (46.4%) 1062/1944 (54.6%) 95/1896 (5.0%) 8/1896 (0.4%) 2/1896 (0.1%) 10/1896 (0.5%) 20/1896 (1.0%) 115/1896 (6.1%)
+
+236/3868 (6.1%) 204/3821 (5.6%) 1580/3819 (41.4%) 1934/3819 (50.6%) 224/4621 (4.9%) 19/4621 (0.4%) 8/4621 (0.2%) 23/4621 (0.5%) 50/4621 (1.1%) 273/4621 (5.9%)
+
+29/627 (4.6%) 59/627 (9.4%) 280/627 (44.7%) 325/627 (51.8%) 37/627 (5.9%) 4/627 (0.6%) 2/627 (0.3%) 1/627 (0.15%) 7/627 (1.1%) 44/627 (7.0%)
+
+0.8, 0.2 95%CI 0.5­1.1 1.8, 0.0003 (0.002a) 95%CI 1.3-2.4 1.1, 0.1 95%CI 0.97­1.4 1.1, 0.6 95%CI 0.9­1.2 1.2, 0.3 95%CI 0.9­1.8 1.5, 0.6 95%CI 0.5­4.6 1.8, 0.8 95%CI 0.4­8.7 0.3, 0.4 95%CI 0.04­2.3 1.0, 0.9 95%CI 0.5­2.3 1.2, 0.3 95%CI 0.9­1.7
+
+a The p-value corresponds to the unadjusted p-value of the two-tailed v2 test. The adjusted p-value after Bonferroni correction follows in parentheses.
+
+EUROPEAN JOURNAL OF CANCER 44 (2008) 110­114
+
+113
+
+in genotyping efficiency were very unlikely to result in any bias that could affect the overall results.
+Linkage disequilibrium analyses revealed that all 3 BRCA2 SNPs are in linkage disequilibrium with each other (1000 iterations; estimated p-value <1E­11). The D0 values for linkage disequilibrium are: D0 = 0.88 for 1342A/C versus 3199A/G, D0 = 0.0004 for 3199A/G versus 5972C/T and D0 = 0.73 for 1342A/C versus 5972C/T.
+We could not compare the prevalence of the MM among different haplotype carriers due to the absence of homozygous T1915M carriers among the cases and infrequent occurrence of the haplotype T1915_C/N991D_G.
+The expected genotype distributions for all variants of both BRCA2 and CHEK2 studied were in Hardy­Weinberg equilibrium irrespective of whether they were melanoma patients or controls.
+Examination of the frequencies of the CHEK2 variants in the MM patient group compared to all control populations revealed no over-representation of the protein truncating changes and the I157T missense change among melanoma cases (Table 1). There were no significant differences in the relationship between the frequencies of the CHEK2 variants among early-onset or late-onset cases (data not shown).
+Since BRCA2 and CHEK2 are involved in aspects of either DNA repair or control of the cell cycle we undertook a combined analysis of BRCA2 changes in patients with any CHEK2 variant carriers and conversely CHEK2 frequency in any BRCA2 variant carriers. No significant differences in the frequency of the polymorphisms were observed in either group.
+4. Discussion
+To our knowledge, this is the first report of a combined BRCA2 and CHEK2 investigation performed on a large number of unselected cutaneous MM patients and controls. To date, the BRCA2 gene has been screened for germline mutations in patients with uveal melanomas that include 385 cases from the UK,9 153 patients from Israel10 and 62 cases from France.11 There has been, to our knowledge, only one report on the prevalence of BRCA2 mutations in cutaneous MM ­ where 116 patients from South Italy were studied.12 To date, there have not been any CHEK2 studies performed on MM patients with the exception of our previous preliminary findings3,13.
+In the current study, we genotyped 630 unselected MM patients and over 3700 controls for seven common variants of the DNA repair and cell cycle control genes BRCA2 and CHEK2. Our study strongly suggests that the common variant of the BRCA2 ­N991D ­ is associated with malignant melanoma risk (p = 0.002 after Bonferroni correction), in over 9% of the cases. To exclude a type 1 error which, in principle, could be a result of there being a limited number of melanoma patients, this data needs to be verified on a larger series of patients. We performed exon splice enhancer (ESE) analysis of the N991D using an algorithm that predicts their presence in the coding sequence of genes (http:genes.mit.edu/cgi-bin/rescue-ese/). The result revealed no change of the splicing efficiency of this region of the gene suggesting that the N991D change is either in linkage disequilibrium with other changes in BRCA2 or is low-penetrant change. The identification of the N991D polymorphism being over-represented in the MM group provides
+
+evidence to suggest that this variant is not a neutral missense change and follow-up studies should also be undertaken in melanoma and breast cancer populations to precisely define its pathogenicity.
+The N991D variant in BRCA2 can be added to the growing list of DNA variants, which appear to predispose to malignant melanoma. CDKN2A changes were first reported to be associated with melanoma.14 Others include the melanocortin-1 receptor (MC1R) gene variants that influence melanoma risk independently of fair skin and red hair.15,16 Polymorphisms in the nucleotide excision repair gene XPD gene have also been reported to be associated with an increased risk of melanoma17,18.
+With the frequencies of the alleles presented in this report and only 630 MM cases, we were unable to perform reliable evaluation of possible interactions of the examined BRCA2 and CHEK2 variants in compound carriers. Such research should be undertaken but it would require multi-centre cooperation. Since the T1915M and N991D homozygotes are very rare, it is crucial to increase the number of melanoma patients to determine any possible association of homozygous carriers of these changes.
+We did not observe any significant influence of the N991D variant on the disease course, there was also no association with family history of breast cancer or skin tumour localisation. These findings might be consistent with the low-penetrant nature of the N991D variant or be a result of the small numbers of cases (especially familial ones) harbouring this variant.
+In conclusion, we report significant over-representation of the N991D change of the BRCA2 gene among melanoma patients when compared to the general population. We found no association of the common CHEK2 variants and the melanoma, confirming that, with the exception of rare families with Li-Fraumeni or Li-Fraumeni-like syndrome, CHEK2 cannot be regarded as melanoma susceptibility gene.
+Conflict of interest statement
+None declared.
+REFERENCES
+1. The Breast Cancer Linkage Consortium. Cancer risks in BRCA2 mutation carriers. The Breast Cancer Linkage Consortum. J Natl Cancer Inst 1999;91:1310­s6.
+2. Scott RJ, Vajdic CM, Armstrong BK, et al. BRCA2 mutations in a population-based series of patients with ocular melanoma. Int J Cancer 2002;102:188­91.
+3. Debniak T, Gorski B, Cybulski C, et al. Rarity of germline 1100delC mutation in CHK2 in patients with malignant melanoma of the skin. Melanoma Res 2004;14:121­4.
+4. Gorski B, Narod SA, Lubinski J. A common missense variant in BRCA2 predisposes to early onset breast cancer. Breast Cancer Res 2005;7:1023­7.
+5. Garc´ia-Closas M, Egan KM, Newcomb PA, et al. Polymorphisms in DNA double-strand break repair genes and risk of breast cancer: two population-based studies in USA and Poland, and meta-analyses. Hum Genet 2006;119:376­88.
+
+114
+
+EUROPEAN JOURNAL OF CANCER 44 (2008) 110­114
+
+6. Cybulski C, Wokolorczyk D, Kladny J, et al. Germline CHEK2 mutations and colorectal cancer risk: different effects of a missense and truncating mutations? Eur J Hum Genet 2007;15:237­41.
+7. Ott J. Utility programs for analyisis of genetic linkage; Program HWE. <http://www.hgmp.mrc.ac.uk/Registered/ Help/linkutil/>, 1988.
+8. Carter KW, McCaskie PA, Palmer LJ. A Java based linkage disequilibrium plotter. BMC Bioinformat 2006;7:60.
+9. Hearle N, Damato BE, Humphreys J, et al. Contribution of germline mutations in BRCA2, P16(INK4A), P14(ARF) and P15 to uveal melanoma. Invest Ophthalmol Vis Sci 2003;44:458­62.
+10. Iscovich J, Abdulrazik M, Cour C, Fischbein A, Pe'er J, Goldgar DE. Prevalence of the BRCA2 6174 del T mutation in Israeli uveal melanoma patients. Int J Cancer 2002;98:42­4.
+11. Sinilnikova OM, Egan KM, Quinn JL, et al. Germline brca2 sequence variants in patients with ocular melanoma. Int J Cancer 1999;82:325­8.
+12. Casula M, Colombino M, Satta MP, et al. Factors predicting the occurrence of germline mutations in candidate genes among
+
+patients with cutaneous malignant melanoma from South Italy. Eur J Cancer 2007;43:137­43. 13. Cybulski C, Gorski B, Huzarski T, et al. CHEK2 is a multiorgan cancer susceptibility gene. Am J Hum Genet 2004;75:1131­5. 14. Hashemi J, Platz A, Ueno T, Stierner U, Ringborg U, Hansson J. CDKN2A germ-line mutations in individuals with multiple cutaneous melanomas. Cancer Res 2000;60:6864­7. 15. Palmer JS, Duffy DL, Box NF, et al. Melanocortin-1 receptor polymorphisms and risk of melanoma: is the association explained solely by pigmentation phenotype? Am J Hum Genet 2000;66:176­86. 16. Debniak T, Scott R, Masojc B, et al. MC1R common variants, CDKN2A and their association with melanoma and breast cancer risk. Int J Cancer 2006;119:2597­602. 17. Li C, Hu Z, Liu Z, et al. Polymorphisms in the DNA repair genes XPC, XPD, and XPG and risk of cutaneous melanoma: a case­control analysis. Cancer Epidemiol Biomarkers Prev 2006;15:2526­32. 18. Han J, Colditz GA, Liu JS, Hunter DJ. Genetic variation in XPD, sun exposure, and risk of skin cancer. Cancer Epidemiol Biomarkers Prev 2005;14:1539­44.
+
+

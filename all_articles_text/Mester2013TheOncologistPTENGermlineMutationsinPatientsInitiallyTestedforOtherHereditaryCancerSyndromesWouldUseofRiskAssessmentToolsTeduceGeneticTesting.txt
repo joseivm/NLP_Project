@@ -1,0 +1,691 @@
+OTnhceologist®
+
+Clinical Genetics and Genetic Counseling
+
+PTEN Germline Mutations in Patients Initially Tested for Other Hereditary Cancer Syndromes: Would Use of Risk Assessment Tools Reduce Genetic Testing?
+
+JESSICA L. MESTER,a,b REBEKAH A. MOORE,a,d CHARIS ENGa,b,c,d,e aGenomic Medicine Institute, bTaussig Cancer Institute, and cStanley Shalom Zielony Institute for Nursing Excellence, Cleveland Clinic, Cleveland, Ohio, USA; dDepartment of Genetics and Genome Sciences and eCASE Comprehensive Cancer Center, Case Western Reserve University School of Medicine, Cleveland, Ohio, USA
+Disclosures of potential conflicts of interest may be found at the end of this article.
+Key Words. Risk assessment · Genetic testing · PTEN hamartoma tumor syndrome · Cowden syndrome · Hereditary cancer syndromes
+
+Learning Objectives
+
+Cite the risk assessment tools available for several hereditary cancer predisposition syndromes.
+Describe ways in which use of these risk assessment tools can lead to cost savings and decreased time to correct diagnosis.
+Explain the impact of correct genetic diagnosis on the patient's medical management and on predictive testing for family members.
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+
+ABSTRACT
+Purpose. PTEN Hamartoma Tumor syndrome (PHTS) includes patients with Cowden syndrome or other syndromes with germline mutation of the PTEN tumor suppressor gene. The risk for breast, colorectal, and endometrial cancer and polyposis is increased, creating clinical overlap with hereditary breast and ovarian cancer (HBOC), Lynch syndrome (LS), and adenomatous polyposis syndromes (APS). We reviewed our series of patients with PHTS to determine how often testing criteria for these syndromes were met and how often othergene testing was ordered before testing PTEN. Patients and Methods. Patients were prospectively recruited by relaxed International Cowden Consortium criteria or presence of known germline PTEN mutation. Mutations were identified by mutation scanning/multiplex ligation-dependent probe amplification analysis and confirmed by sequencing/quantitative polymerase chain reaction. Patients were excluded if they were adopted, were 18 years of age, or if they were diagnosed with Cowden syndrome before 1998.
+
+Standard risk-assessment models were applied to determine whether patients met HBOC testing criteria, LS-relevant Amsterdam II/Bethesda 2004 criteria, or had adenomatous polyps. Prior probability of PTEN mutation was estimated with the Cleveland Clinic PTEN risk calculator. Results. Of 137 PTEN mutation-positive adult probands, 59 (43.1%) met testing criteria for HBOC or LS. Of these, 45 (32.8%) were first offered HBOC, LS, or APS testing. Of those who underwent APS testing, none of the six patients met criteria. Initial risk assessment by a genetics specialist was significantly associated with immediate PTEN testing in patients also meeting HBOC testing criteria. Using this PTEN risk assessment tool could have spared gene testing for 22 unlikely syndromes, at a total cost of $66,080. Conclusion. PHTS is an important differential diagnosis for patients referred for HBOC, LS, or APS. Risk assessment tools may help focus genetic analysis and aid in the interpretation of multiplex testing. The Oncologist 2013;18:1083­1090
+
+Implications for Practice: Whereas hereditary breast and ovarian cancer syndrome, Lynch syndrome, and familial adenomatous polyposis are some of the most common causes of hereditary cancer predisposition, other conditions with overlapping clinical spectra exist. Timely identification of the right syndrome is critical for patient management and testing at-risk relatives. When multiple conditions are possible, risk assessment tools help clinicians judge which condition is most likely, allowing genetic testing to proceed in a stepwise and cost-effective manner. Here we present a series of patients with germline mutations of PTEN, a gene causing predisposition to breast, uterine, colorectal, and other cancers as well as to gastrointestinal polyposis. Many patients were tested for another syndrome prior to PTEN testing. Had now-existent risk assessment tools been used, elevated PTEN mutation risk in these patients might have been recognized immediately, leading to health care savings and shortened time to diagnosis. The article also discusses how the use of risk assessment tools will remain important as genetic testing shifts from a singlegene to a multiplex approach.
+
+Correspondence: Charis Eng, M.D., 9500 Euclid Avenue, NE50, Cleveland, Ohio 44195, USA; Telephone: 216-444-3440; Fax: 216-636-0655; E-Mail: engc@ccf.org Received May 14, 2013; accepted for publication August 13, 2013; first published online in The Oncologist Express on September 13, 2013. ©AlphaMed Press 1083-7159/2013/$20.00/0 http://dx.doi.org/10.1634/theoncologist.2013-0174
+
+TheOncologist2013;18:1083­1090 www.TheOncologist.com
+
+©AlphaMed Press 2013
+
+CME
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+CME
+
+1084 Risk Assessment Tools Can Reduce Genetic Testing
+
+INTRODUCTION
+On average, 10% of all malignancies have a Mendelian genetic cause. Inherited cancer syndromes confer risks for cancers far higher than sporadic counterparts. As knowledge accumulates, the genetic differential diagnosis for any single cancer type grows, and clinicians are faced with determining which inherited cancer syndrome is most likely for any given presentation and family history. Most single-gene tests cost at least $1,000, and genetic testing is most cost-effective for both the patient and the health care system when performed in a sequential manner, where testing for the most-suspected condition is done first. Often, several inherited cancer syndromes are considered in the differential diagnosis for a given patient, and the task of prioritization of gene testing, often resulting in multiple rounds of gene testing, becomes a challenge. Multiplex testing, where several genes are tested at once as part of a panel, is emerging as an alternative. However, such testing is not as sensitive as gene-specific sequencing and only detects small genetic alterations as opposed to partial or whole gene deletions and duplications, which require different testing methodologies for detection [1]. In this situation, understanding when a priori risk for a particular syndrome is elevated helps the testing laboratory ensure quality coverage of the genomic regions of most interest and enables the clinician to understand when additional testing to check for large rearrangements should be pursued.
+PTEN Hamartoma Tumor Syndrome (PHTS) is a molecularly defined umbrella term used to describe individuals with Cowden syndrome (CS), Bannayan-Riley-Ruvalcaba syndrome, and germline mutation in the PTEN tumor suppressor gene [2, 3]. Patients with PHTS have increased risks for several cancer types, with recent work suggesting higher lifetime risks for breast, thyroid, endometrial, renal, and colorectal carcinomas as well as for melanoma than previously reported in patients with CS studied prior to the discovery of PTEN [4]. The lifetime risk for breast cancer for these individuals is now projected to be up to 85%, which is equivalent to the highest risk estimate for patients with Hereditary Breast and Ovarian Cancer syndrome (HBOC). In addition, lifetime endometrial cancer (EC) risk is projected to be up to 30%, which is within the 25%­ 60% EC risk for patients with Lynch syndrome (LS) [4 ­7]. The PHTS-related colorectal cancer risk is twofold elevated above the incidence in the general population, with polyposis of several histologic subtypes, including adenomas, developing in the majority of patients [8]. Given the autosomal-dominant inheritance pattern of PHTS and its overlapping clinical presentation with HBOC, LS, and the adenomatous polyposis syndromes (APS) [9] (Table 1), the clinician is challenged to develop an informed differential diagnosis to understand which syndrome should be considered first so that genetic testing can proceed in a manner that is both health care cost-effective and provides a timely diagnosis for the patient and the patient's family members.
+To investigate the clinical overlap of PHTS and HBOC, LS, and APS, we reviewed our series of patients with PHTS to determine how many also met testing or diagnostic criteria for any of the latter three syndromes. We also explored how often testing for one of these syndromes was conducted before consideration of the eventual PHTS diagnosis. Finally, we used the Cleveland Clinic
+
+PTEN risk calculator to compare patients' a priori probability of PTEN mutation with their a priori probability of carrying mutations in BRCA1 or BRCA2 (referred to together as BRCA1/2) or MLH1/MSH2/MSH6 using a variety of risk models.
+METHODS Patient Eligibility and Recruitment Patients were prospectively recruited after providing informed consent for Cleveland Clinic IRB# 8458-PTEN substudy, which opened in October 2005 and continues to recruit participants. Inclusion criteria were as follows: minimally meeting relaxed International Cowden Consortium criteria (meaning full diagnostic criteria [10] minus one feature); macrocephaly plus autism/developmental delay/mental retardation; penile freckling; or presence of known germline PTEN mutation. Germline PTEN mutation analysis was performed per protocols described elsewhere [11]. Only patients with pathogenic germline mutations were included in this study. Patients were excluded if a clinical diagnosis of CS or Bannayan-Riley-Ruvalcaba syndrome was made in the patient or family before 1998 (when publications describing PTEN as the causative gene for CS and Bannayan-Riley-Ruvalcaba syndrome were released), if family history was unavailable, or if the proband was less than 18 years old. Clinical data including pedigree, genetic testing reports, and medical records were requested for all patients.
+Risk Assessment To determine clinical overlap with HBOC, each patient's medical and family histories were reviewed to determine whether the National Comprehensive Cancer Network's (NCCN) HBOC testing criteria in effect on the date of the patient's initial cancer genetics risk assessment were met. Additionally, risk for BRCA1/2 mutation was assessed by means of the following risk prediction models: BRCAPRO (BayesMendel Lab http:// bcb.dfci.harvard.edu/bayesmendel/software.php) [12], Myriad II (Myriad BRCA Risk Calculator, https://www.myriadpro. com/brca-risk-calculator ) [13], and Penn II (University of Pennsylvania Abramson Cancer Center http://www.afcri. upenn.edu/itacc/penn2/). These models were selected because of their utility for patients with and without a breast cancer diagnosis. Clinical overlap with LS was evaluated by review of patients' personal and family history to determine whether Amsterdam II [14] and/or Bethesda 2004 criteria [15] were met. Additionally, MLH1, MSH2, and MSH6 mutation risks were calculated using the PREMM1,2,6 (Dana-Farber Cancer Institute http://premm.dfci.harvard.edu/) [16] and MMRpro (BayesMendel Lab, http://bcb.dfci.harvard.edu/ bayesmendel/software.php) [17] models, which were selected because they incorporated uterine cancer diagnosis in the risk assessment and are valid for patients of all ages. Medical history, including pathology reports, were reviewed to determine whether 10 or more adenomatous polyps were identified; this is the established threshold for consideration of APS [9]. Clinic notes were also reviewed to determine whether testing had been considered but not pursued. Risk for PTEN mutation was calculated by means of the Cleveland Clinic PTEN risk calculator (Cleveland Clinic Genomic Medicine Institute http://www.lerner.ccf.org/gmi/ccscore/), which is
+
+©AlphaMed Press 2013
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+
+Mester, Moore, Eng
+
+1085
+
+Table 1. Clinical descriptors of syndromes included in this study
+
+Syndrome
+
+Associated neoplasias
+
+Gene(s)
+
+Inheritance
+
+PHTS
+HBOC LS APS (includes FAP and MAP)
+
+Breast, non-medullary thyroid, endometrial, renal, colorectal, melanoma, GI polyposis, benign skin lesions, dysplastic cerebellar gangliocytoma (Lhermitte­Duclos disease)
+Breast, ovarian, pancreatic, prostate, melanoma
+Colorectal, endometrial, stomach, ovarian, small bowel, hepatobiliary tract, urinary tract, brain/ CNS, sebaceous neoplasms
+Colorectal, small bowel, GI polyposis, papillary thyroid (FAP)
+
+PTEN
+BRCA1, BRCA2 MLH1, MSH2, MSH6, PMS2, EPCAM APC, MUTYH
+
+Autosomal dominant
+Autosomal dominant Autosomal dominant
+FAP: Autosomal dominant MAP: Autosomal recessive
+
+Abbreviations: APS, adenomatous polyposis syndromes; CNS, central nervous system; FAP, familial adenomatous polyposis; GI, gastrointestinal; HBOC, hereditary breast and ovarian cancer syndrome; LS, Lynch syndrome; MAP, MUTYH-associated polyposis; PHTS, PTEN Hamartoma Tumor Syndrome.
+
+based on multiple logistic regression approaches, taking into account age of tumor onset and relative prevalence of the component phenotype in the general population [11]. Cost Data and Statistical Analysis Testing costs for HBOC, LS, and APS were estimated using the Myriad Genetics services and price list for May 2011 (Myriad Genetics, Salt Lake City, UT). At that time, test costs for BRCA1/2, LS, and APS were $3,340, $4,480, and $2,050, respectively. Cost of APC analysis alone was conservatively estimated by subtracting the cost of the MYH mutation panel ($400) from the comprehensive APS analysis cost. Comparative analyses were performed by unpaired t-test and Fisher's exact test.
+RESULTS Among the 4,030 individuals accrued for the main 8458-PTEN study, 267 individuals were found to have clearly pathogenic germline PTEN mutations. Of these, 137 were adult probands meeting this study's eligibility guidelines as described previously. Table 2 summarizes patient demographics and pertinent patient history. Age at pedigree generation was comparable between females and males (p  .47). Overlap With HBOC Among the 96 females, 41 (42.7%) were diagnosed with invasive breast cancers (4 with bilateral tumors) at an average age at first diagnosis of 46.2 years, and 2 women (2.1%) were diagnosed with ovarian cancer at age 33 and 62 years. One man had ductal carcinoma in situ (DCIS) diagnosed at age 46 and nine women also had DCIS; two had bilateral DCIS. Family history of breast cancer was common; 59 of 137 (43.1%) patients had at least one affected first- or second-degree relative. Among the 30 (21.9%) patients with an affected first-degree relative, the relative's average age at diagnosis was 54.5 years, significantly older than probands' age at diagnosis (p  .0015). Twelve patients had a first- or second-degree relative with ovarian cancer, with an average age at diagnosis of 54.4 years.
+Forty-nine (47.9%) women met the NCCN testing criteria for HBOC. Of these 49, 30 were first offered BRCA1/2 analysis and 19 were first tested for PTEN mutations. Two patients first offered BRCA1/2 analysis were found to have a BRCA2 mutation and were then tested for PTEN because of personal or family history features not fully explained by the BRCA2 result; these two patients were excluded from the following analyses. Frequency of and age at breast cancer diagnosis were similar between patients first tested for BRCA1/2 and those
+
+Table 2. Patient demographics and personal history information
+
+Characteristic
+
+n (%)
+
+Median/mean age, years (range)
+
+Gender Female Male
+Race White Asian Black Native Hawaiian/other Pacific Islander Two or more groups Unknown
+Personal history Breast cancer (females) Ovarian cancer (females) Endometrial cancer (females) Colorectal cancer 10 polyps, any histology
+
+96 (70.1%) 46.0/44.7 (19­74) 41 (29.9%) 45.0/43.0 (18­73)
+
+103 (75.2%) 7 (5.1%) 3 (2.2%) 1 (0.7%)
+13 (9.5%) 10 (7.3%)
+
+­ ­ ­ ­
+­ ­
+
+41 (42.7%) 2 (2.1%)
+22 (22.9%) 9 (6.6%)
+30 (21.9%)
+
+47.0/46.2 (29­66) 47.5/47.5 (33­62) 48.0/45.6 (21­68) 43.0/41.4 (21­53) N/A
+
+Abbreviation: N/A, not applicable.
+
+tested for PTEN, as were a priori probabilities of PTEN and BRCA1/2 mutations across all risk models (Table 3). Thus, we sought to understand what motivated providers to pursue PTEN analysis before BRCA1/2 despite the lack of a PTEN risk calculation tool to assist in their decision-making process. None of the characteristics associated with PHTS were significantly more prevalent in patients first offered testing for either PTEN or BRCA1/2. However, patients with a personal and/or family history possibly consistent with LS were more likely to first be offered PTEN analysis (p  .02). Those whose initial risk assessment was provided by a genetics specialist (counselor or genetics specialist physician) as opposed to a nongenetics specialist (nurse or non-genetics specialist physician) were also more likely to be offered PTEN analysis initially (p  .03). Four men, including the one with DCIS, also met NCCN HBOC testing criteria; however, none was offered BRCA1/2 analysis. Four women offered BRCA1/2 analysis first were ultimately not tested because of insurance coverage issues or patient choice.
+
+CME
+
+www.TheOncologist.com
+
+©AlphaMed Press 2013
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+CME
+
+1086 Risk Assessment Tools Can Reduce Genetic Testing
+
+Table 3. Comparisons between women meeting the NCCN HBOC testing criteria first offered either BRCA1/2 or PTEN analysis
+
+Characteristic
+
+BRCA1/2 tested or offered first (n  28)
+
+PTEN tested or offered first (n  19)
+
+p value
+
+BRCAPro model BRCA1/2 mutation risk
+
+11.6%
+
+10.8%
+
+0.84
+
+Penn II model BRCA1/2 mutation risk
+
+16.4%
+
+13.9%
+
+0.50
+
+Myriad II model BRCA1/2 mutation risk
+
+7.2%
+
+5.3%
+
+0.10
+
+Cleveland Clinic model PTEN mutation risk History suspicious for LS (met Amsterdam II or Bethesda criteria or endometrial cancer diagnosed <50 years of age) Initial risk assessment by genetics specialista Early-onset invasive breast cancer (50 years)
+Invasive breast cancer diagnosed at any age
+
+35.6% 3 (10.7%)
+19 (76%) 10 (35.7%) 21 (75%)
+
+47.6% 8 (42.1%)
+18 (100%) 8 (42.1%)
+10 (52.6%)
+
+0.28 0.02
+0.03 0.76 0.13
+
+Ovarian cancer
+
+1 (3.6%)
+
+1 (5.3%)
+
+1.00
+
+Thyroid cancer
+
+4 (14.3%)
+
+3 (15.8%)
+
+1.00
+
+Renal cancer
+
+1 (3.6%)
+
+2 (10.5%)
+
+0.56
+
+Endometrial cancer
+
+3 (10.7%)
+
+6 (31.6%)
+
+0.13
+
+Colorectal cancer
+
+0 (0%)
+
+3 (15.8%)
+
+0.06
+
+Melanoma Macrocephaly, any degreea Extreme macrocephaly (60 cm)a Lhermitte-Duclos disease
+
+1 (3.6%) 21 (84%)
+9 (39.1%) 1 (3.6%)
+
+1 (5.e%) 17 (94.1%) 10 (58.8%)
+1 (5.3%)
+
+1.00 1.00 0.23 1.00
+
+Intellectual disability/autism spectrum
+
+0 (0%)
+
+1 (5.3%)
+
+0.40
+
+Oral papillomatosis
+
+7 (25%)
+
+7 (36.8%)
+
+0.52
+
+Trichilemmoma
+
+3 (10.7%)
+
+2 (10.5%)
+
+1.00
+
+Acral keratoses
+
+7 (25%)
+
+4 (21.1%)
+
+1.00
+
+Lipoma 1 hamartomatous or ganglioneuromatous GI polyp Any histology/number of GI polyps 5 GI polyps, any histology 10 GI polyps, any histology Goiter
+
+7 (25%) 5 (17.9%) 16 (57.1%) 8 (28.6%) 4 (14.3%) 18 (60%)
+
+7 (36.8%) 5 (26.3%) 11 (57.9%) 5 (26.3%) 1 (5.3%) 16 (84.2%)
+
+0.52 0.50 1.00 1.00 0.63 0.19
+
+Hashimoto's thyroiditis
+
+7 (25%)
+
+4 (21.1%)
+
+1.00
+
+Benign breast disease
+
+22 (78.6%)
+
+13 (68.4%)
+
+0.51
+
+Arteriovenous malformation/vascular neoplasm
+
+6 (21.4%)
+
+3 (15.8%)
+
+0.72
+
+aProvider type performing initial risk assessment and exact head circumference measurement unknown for some patients. Abbreviations: GI, gastrointestinal; HBOC, hereditary breast and ovarian cancer; LS, Lynch syndrome; NCCN, National Comprehensive Cancer Network.
+
+Three additional female patients underwent BRCA1/2 analysis despite not meeting NCCN testing criteria. Overlap With LS Colorectal cancer was diagnosed in nine (6.6%) patients with PHTS at an average age of 41.4 years. Average age at diagnosis was 45.6 years among the 22 of 96 (22.9%) women with EC. Two probands had both colorectal cancer and EC diagnoses. Family history (including first- and second-degree relatives) was positive for colorectal cancer and EC diagnoses in 30 (21.9%) and 20 (14.6%) families, respectively.
+Amsterdam II or Bethesda 2004 criteria were met by 11 (8.0%) patients with PHTS (Table 4), 3 of whom underwent tumor or germline testing for LS with normal results. Three additional patients who did not meet either criterion also had normal results on LS testing. Two of these patients underwent germline testing of all five LS-related genes (patients 6821 and 6975). The third (patient 4755) underwent MSI testing of a
+
+uterine tumor per the protocol of the treating hospital's pathology department because of her young age at diagnosis. Among the 11 patients meeting either Amsterdam II or Bethesda 2004 criteria, the average risk for MLH1, MSH2, and MSH6 mutation ranged from 19.9% (PREMM1,2,6) to 35.0% (MMRPro). In these same patients, the average a priori risk for PTEN mutation was 55.5%. Overlap With APS Gastrointestinal polyps were identified in most (89/137; 65.0%) patients, and 30 patients (21.9%) had at least 10 confirmed polyps of diverse histologic subtypes. However, no patient had 10 or more confirmed adenomas. Although 36 probands (26.3%) reported that a first- or second-degree relative had one or more polyps, patient knowledge of the histologic subtype or approximate number of polyps that relatives had was poor.
+Six patients were tested for mutations in APC and/or MUTYH (Table 5). Although four had at least 10 colorectal pol-
+
+©AlphaMed Press 2013
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+
+Mester, Moore, Eng
+
+1087
+
+Table 4. Patients tested for LS and/or meeting LS testing criteria
+
+Cancer type: age at Patient ID Sex diagnosis
+
+Other PHTS features
+
+PTEN mutation Family history risk suspicious for LS
+
+PREMM1,2,6 MMRPro
+
+mutation
+
+mutation Meets Meets
+
+risk risk BC AC MSI/IHC Testing
+
+Lynch germline testing
+
+4565 2986a
+4755
+
+F Breast: 48 EC: 56
+F CRC: 35 DCIS: 47 EC: 53 Breast: 56
+F Thyroid: 17
+
+FCBD, fibroma,
+
+41%
+
+MNG, L, Ma, OMP
+
+FCBD, GP, Ma, MNG, L, OMP, T
+
+99%
+
+MNG, Ma
+
+99%
+
+Mother EC at age 77; 16.8% maternal aunt stomach at age 40s
+
+Father CRC at age 50; paternal uncle CRC at age 40; paternal grandfather CRC at unknown age
+
+76.2%
+
+None
+
+6.3%
+
+4.4%
+
+No Yes MSI, IHC of MLH1/MSH2/ No MSH6/PMS2
+
+99.9% Yes Yes Not analyzed
+
+MLH1/MSH2 sequencing/ rearrangement; MSH6 sequencing
+
+19.9% No No MSI
+
+No
+
+EC: 21
+
+6821
+
+F EC: 68 Breast: 66
+
+FCBD, UF, Ma, MNG 7%
+
+Brother CRC at age 62; both grandfathers CRC at age 70s
+
+13.3%
+
+1.3%
+
+No No Not analyzed
+
+MLH1/MSH2/MSH6/PMS2 normal sequencing/ rearrangement; EPCAM normal rearrangement
+
+6975
+
+F EC: 29
+
+MNG, L, Ma, OMP 72%
+
+Mother EC at age 59 14.9%
+
+18.8% No No Not analyzed
+
+MLH1, MSH2, MSH6, PMS2 normal sequencing/ rearrangement; EPCAM normal rearrangement
+
+7018 2466
+
+F CRC: 31 F DCIS: 31
+
+Ma, L, MNG
+
+41%
+
+FCBD, MNG, L, Ma 7%
+
+None None
+
+7.3% 5%
+
+3.4% 5.80%
+
+Yes No Yes No
+
+MSI, IHC of MLH1/MSH2/ No MSH6/PMS2
+
+Not analyzed
+
+No
+
+CRC: 47
+
+Breast: 48
+
+2736
+
+F Ovarian: 63
+
+GP, UF, MNG, FCBD, 10% Ma
+
+Daughter CRC at age 28.1% 38; Father CRC at age 50s
+
+63.3% No Yes Not analyzed
+
+No
+
+2127
+
+F EC: 41 CRC: 48
+
+GP, MNG
+
+12% Maternal aunt CRC 21.1% at age 50s
+
+86.9% Yes No Not analyzed
+
+No
+
+47 4886a
+
+M CRC: 39 F CRC: 21
+
+AK, L, Ma, OMP, T MNG, L, Ma
+
+54% 72%
+
+None None
+
+8.8% 12%
+
+3.6% 8.6%
+
+Yes No Yes No
+
+Not analyzed Not analyzed
+
+No No
+
+3935
+
+M CRC: 43
+
+AK, PF, MNG, T, Ma, 97% OMP
+
+Mother EC at age 60 16.6%
+
+79.1% Yes No Not analyzed
+
+No
+
+6092
+
+M Renal: 49
+
+MNG, GP, Ma
+
+88% None
+
+13.2%
+
+26.8% Yes No Not analyzed
+
+No
+
+CRC: 53
+
+CRC: 53
+
+5183
+
+F Melanoma: 32 Ma, AK, MNG, L, FCBD, OMP, UF
+Melanoma: 36
+Breast: 50
+
+88%
+
+Mother ovarian at age 87; maternal grandmother EC at age 70s
+
+15.2%
+
+3.4%
+
+No Yes Not analyzed
+
+No
+
+EC: 49
+
+aPatients also in Table 5. Abbreviations: AC, Amsterdam II criteria; AK, acral keratoses; BC, Bethesda 2004 criteria; CRC, colorectal cancer; DCIS, ductal carcinoma in situ; EC, endometrial cancer; F, female; FCBD, fibrocystic breast disease; GI, gastrointestinal; GP, GI polyposis; ID, identification; IHC, immunohistochemistry; L, lipoma; LS, Lynch syndrome; M, male; Ma, macrocephaly; MNG, multinodular goiter; MSI, microsatellite instability; OMP, oral mucosa papillomatosis; PF, penile freckling; PHTS, PTEN Hamartoma Tumor Syndrome; T, trichilemmoma; UF, uterine fibroids.
+
+yps, none had more than 5 confirmed adenomas. One of the two patients with a personal history of colorectal cancer also underwent germline LS testing. Patients initially tested for APS were the group with highest a priori PTEN mutation probability, averaging 73%. As in those patients tested for LS, APC and/or MUTYH testing yielded normal results in all patients.
+DISCUSSION In nearly half (67/137; 48.9%) of all probands ultimately discovered to have germline PTEN mutations, personal or family history findings led to the patient meeting testing criteria for HBOC and/or LS. A total of 45 patients (32.8%) were offered or underwent germline or tumor testing for HBOC, LS, and/or APS, and a total of 46 tests were ordered for other conditions prior to PTEN analysis. While this is reasonable for patients meeting standard testing criteria for the syndrome in question, for others, this testing may have been avoided had the PTEN risk assessment tool existed when the patient's initial clinic visit occurred. Subtracting the two PHTS patients who also had BRCA2
+
+mutations as well as those patients for whom risk for the other syndrome was greater than or equivalent to the patient's a priori PTEN mutation risk, testing of 22 conditions at a total cost of $66,080 could have been avoided. Testing of 22 conditions at a total cost of $66,080 could have been avoided. This testing included 15 tests for HBOC, 6 tests for APS, and 1 test of all LS-related genes.
+Of the patients with PHTS for whom BRCA1/2 analysis could have been justified based on the patient meeting NCCN testing criteria for HBOC, the only significant differences between those first testing negative for BRCA1/2 mutation and those for whom PTEN was prioritized were findings that would also raise concern for LS as well as initial risk analysis performed by a genetics specialist. This speaks to two important points. For one, we found characteristics reminiscent of both HBOC and LS in 8% (11/137) of patients with germline PTEN mutations. This could muddy the risk assessment waters for a provider unfamiliar with less popular genetic syndromes such
+
+www.TheOncologist.com
+
+©AlphaMed Press 2013
+
+CME
+
+1088 Risk Assessment Tools Can Reduce Genetic Testing
+
+Table 5. Patients tested for adenomatous polyposis syndromes
+
+Histology:
+
+number of
+
+Cancer type:
+
+Confirmed
+
+other
+
+Patient ID Sex age at diagnosis adenomas (n) polyps
+
+Other PHTS features
+
+PTEN mutation risk
+
+Family history of GI, other APCsuspicious cancers
+
+Family history of GI polyps
+
+APC/MUTYH testing
+
+5270 3818 5021
+
+F N/A M LDD: 49 M LDD: 49
+
+4886a
+
+F Rectal: 22
+
+3577
+
+M None
+
+2986a
+
+F Colon: 35 DCIS: 47 EC: 53 Breast: 56
+
+"At least" 5 0 1
+0
+2
+
+HP: 6 L: 1 HP: 5 NB: 100 FG: 25 Gang: 1 NB: 20 Gang: 1 L: 3 NB: 7 FG: 1 HP: 1 Gang: 1
+
+AVM, Ma, FCBD, MNG, L L, Ma Ma
+MNG, L, Ma
+L, Ma
+
+97% 12% 91%
+72%
+98%
+
+"At least" 5
+
+Hamartoma: AK, Ma, T, FCBD, MNG, 3 L, OMP
+
+99%
+
+Father stomach at age 75
+None
+Maternal grandfather stomach at unknown age
+
+None noted
+Brother, but number and type unknown None noted
+
+APC sequencing/rearrangement MUTYH - G382D/Y165C APC sequencing/rearrangement MUTYH - G382D/Y165C APC sequencing/rearrangement MUTYH - G382D/Y165C
+
+Maternal uncle pancreas at age 60s
+Maternal greatuncle osteosarcoma at age 76; nephew sarcoma at age 21; paternal uncle pancreas at age 51; paternal grandmother colon at unknown age
+Father colon at age 50; paternal uncle colon at age 40; paternal grandfather colon at unknown age
+
+Maternal grandmother and paternal grandfather had "several," but type unknown Cousin had "multiple" adenomas at age 47
+Father had "several," but type unknown
+
+APC sequencing/rearrangement MUTYH - G382D/Y165C APC sequencing
+APC sequencing/rearrangement
+
+aPatients also in Table 4. Abbreviations: AK, acral keratoses; AVM, arteriovenous malformation; DCIS, ductal carcinoma in situ; EC, endometrial cancer; F, female; FCBD, fibrocystic breast disease; FG, fundic gland; Gang, ganglioneuroma; GI, gastrointestinal; HP, hyperplastic; ID, identification; L, lipoma; LDD, Lhermitte-Duclos disease; M, male; Ma, macrocephaly; MNG, multinodular goiter; N/A, not applicable; NB, not biopsied; OMP, oral mucosa papillomatosis; PHTS, PTEN Hamartoma Tumor Syndrome; T, trichilemmoma.
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+CME
+
+as PHTS. Direct-to-consumer marketing has increased physician awareness of HBOC [18], creating concern that widespread marketing of a test appropriate for only a small proportion of the population may lead to overconsideration of this syndrome for persons more likely to have sporadic cancer diagnoses or another inherited cancer syndrome. In addition, when genetics specialists (most of whom were genetic counselors) were involved in the patient's initial risk assessment, the underlying PHTS diagnosis was significantly more likely to be recognized and tested for immediately as opposed to first ruling out HBOC, ultimately leading to cost savings. Although it was reassuring to know that those with PHTS who first tested negative for another syndrome were ultimately referred to a genetics specialist for further assessment, how many others with PHTS or another less common cancer predisposition syndrome such as Li-Fraumeni or Hereditary Diffuse Gastric Cancer remain undiagnosed? Given the cancer burden associated with PHTS, timely diagnosis is critical so that patients can begin receiving appropriate screening for the cancers associated with this syndrome and site-specific mutation analysis can be performed on at-risk family members.
+Although polyps of diverse histologic subtypes and variable numbers were reported, no patient had 10 or more adenomas, the accepted threshold for offering genetic testing for APS [19]. Six patients in this series were tested for mutations in APC and/or MUTYH prior to PTEN analysis, despite having no more than five adenomas. Given that the diversity of gastrointestinal polyps associated with PHTS has only recently been elucidated [8], we are hopeful that, prospectively, these data will help
+
+providers recognize the benefits gained from the time and effort invested in gathering and reviewing polyp pathology reports. Patients may not be aware that polyps were found, and may not be reliable reporters of the histologic subtype [20].
+Genetic testing technology is advancing at a rapid pace. Presently, panels that test for multiple genes associated with a particular phenotype exist, but each panel's cost is still greater than one individual gene test, and the status of insurance coverage for these new tests is still in question, creating a possible financial burden for patients. Additionally, when multiple genes are screened at once, the likelihood for several variants of uncertain significance to be identified increases. Whereas such testing may make sense for syndromes caused by multiple genes or for syndromes with nondescript or few features, PHTS stands apart in that only one gene is involved and adult patients have multiple dermatologic and physical findings in addition to multisystem disease involvement. While it may seem easier to order a test than to evaluate head size, study pathology reports, and take a full patient medical history, identifying when PHTS is highly suspect can result in cost savings to both the patient and the healthcare system. This clinical information also serves as a useful corollary for multigene panels. Such testing can identify multiple variants of uncertain significance for which clinical and family history information are needed to help the testing laboratory better interpret patient results [21]. The laboratory would also be able to check the read quality of the highest-risk genes to determine whether the coverage of those areas was sufficient; if not, gene-specific testing would then be called for. If read coverage
+
+©AlphaMed Press 2013
+
+Mester, Moore, Eng
+
+1089
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+
+is sufficient but results are uninformative, the clinician would then consider additional testing to detect large deletions or duplications (disease-causing alterations not detected by multigene testing technologies) in the genes where a priori mutation risk was greatest.
+As health care systems attempt to be appropriately costeffective by minimizing expenditures, the use of tools that assist clinicians in the risk assessment process becomes even more important. Until recently, risk prediction models did not exist to help clinicians gauge the probability for a particular patient to carry a germline PTEN mutation in a manner similar to those created for HBOC and LS. The Cleveland Clinic PTEN risk calculator is based on the patient's personal medical history and physical findings and has been shown to outperform the NCCN CS testing criteria [11]. This tool was developed from a prospective series of 3,042 probands at minimum meeting relaxed International Cowden Consortium diagnostic criteria. For each studied phenotype, a weighted score was awarded after comparing age-related prevalence within mutation positive and negative research participants to expected community frequencies as derived from published literature and the Surveillance Epidemiology and End Results database. The weight was adjusted for phenotypes where referral bias was evident, mostly for cancer diagnoses, and then totaled to calculate a total PTEN risk score, which then correlates with percent risk (a priori probability) for finding a germline PTEN mutation. Using the tool also provides clinicians with a readymade checklist of the most relevant medical history questions to explore with the patient, which can be especially helpful for topics unrelated to the patient's initial reason for referral (i.e., inquiring about thyroid nodules in patients with breast cancer or measuring head circumference in patients with endometrial cancer). Head circumference measurement has previously been suggested as a helpful screen for PHTS in patients being seen at breast and thyroid cancer clinics [22, 23].
+We acknowledge the limitations inherent in this study, the first being possible ascertainment bias. Average age at diagnosis of breast, colon, and uterine cancers was younger for probands compared with their close relatives, who may or may not have also shared a PHTS diagnosis. Given that personal and family history of early-onset cancers is a key indicator for cancer genetics referral, it is possible that our data set includes an overrepresentation of patients with these characteristics, albeit these patients and families are typical of those presenting to cancer genetics and various high-risk cancer clinics. This enrichment may have been a factor in identifying two probands with both germline PTEN and BRCA2 mutations. However, it also leads one to consider whether patients in whom PTEN alone was tested may have a second mutation in another cancer predisposition gene that might contribute to their presentation. With the recent Supreme Court decision now enabling all testing companies to include BRCA1/2 in their panels, we predict that multiplex panels will be both clinically useful and cost-effective for patients with near-equivalent risks for HBOC and PHTS or other conditions. Given the relatively low a priori BRCA1/2 mutation probability (10%) in 14 of the 19 patients meeting NCCN HBOC testing criteria but not offered this analysis, it seems unlikely that a second mutation is present in many other patients. However, risk for mutation in one of the LS-related genes was still considerable for half of
+
+the patients meeting Amsterdam II or Bethesda 2004 criteria for whom germline or tumor testing was not pursued. Because the PREMM1,2,6 and MMRpro tools do not calculate PMS2 or EPCAM mutation risks, these models may underestimate a patient's risk for having a gene mutation causative of LS. Knowing that most patients with LS have mutations in MLH or MSH2 [24], this underestimation is likely small.
+CONCLUSION In summary, when patients are referred for consideration of HBOC, LS, or APS, PHTS should also be considered and investigated for. In patients with gastrointestinal polyposis, confirming polyp pathology prior to pursuing genetic testing is a critical first step to develop an informed differential diagnosis. Using the Cleveland Clinic PTEN risk assessment tool can help clinicians prioritize testing, providing a numerical risk percentage for PTEN mutation to compare with current and future risk assessment models for other syndromes. Our observations based on these specific examples of common heritable cancer syndromes underscore the challenge of overlapping phenotypes confounding genetic differential diagnoses and the possibility of serial gene testing delaying appropriate diagnosis and wasting health care dollars. Our data suggest that one solution may be the judicious use of risk assessment tools. Importantly, our observations here are germane to the fastapproaching whole genome sequencing for clinical application. Until every single variant is associated with clear clinical outcomes, focusing analysis on the clinically relevant portions of a whole genome sequence will likely be a reasonable strategy, and family history and risk assessment tools will help guide the focus [21].
+ACKNOWLEDGMENTS We thank the patients who have taken part in our research over the last many years and the genetic counselors, physicians, and other health care providers who referred patients to our study. Special thanks to Joanne Ngeow and Pauline Funchain for critical review of this manuscript.
+This study was funded in part by NIH grant P01CA124570 from the National Cancer Institute, the William Randolph Hearst Foundations, Healthnet Foundation, and a generous gift from Sam H. Miller.
+This study was presented in part as a poster discussion at the 2012 American Society of Clinical Oncology annual meeting, Chicago, IL.
+AUTHOR CONTRIBUTIONS
+Conception/Design: Jessica L. Mester, Charis Eng Provision of study material or patients: Charis Eng Collection and/or assembly of data: Jessica L. Mester, Rebekah A. Moore,
+Charis Eng Data analysis and interpretation: Jessica L. Mester, Rebekah A. Moore, Charis
+Eng Manuscript writing: Jessica L. Mester, Charis Eng Final approval of manuscript: Jessica L. Mester, Rebekah A. Moore, Charis Eng
+DISCLOSURES Charis Eng: CGI, GenomOncology, EcoEos (C/A). The other authors indicated no financial relationships.
+Section editors: Patrick J. Morrison: None; Paula D. Ryan: None Reviewer "A": None Reviewer "B": None (C/A) Consulting/advisory relationship; (RF) Research funding; (E) Employment; (H) Honoraria received; (OI) Ownership interests; (IP) Intellectual property rights/inventor/patent holder; (SAB) Scientific advisory board
+
+CME
+
+www.TheOncologist.com
+
+©AlphaMed Press 2013
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 21, 2016
+CME
+
+1090 Risk Assessment Tools Can Reduce Genetic Testing
+
+REFERENCES
+1. O'Daniel JM, Lee K. Whole-genome and wholeexome sequencing in hereditary cancer: Impact on genetic testing and counseling. Cancer J 2012;18: 287­292.
+2. Marsh DJ, Kum JB, Lunetta KL et al. PTEN mutation spectrum and genotype-phenotype correlations in Bannayan-Riley-Ruvalcaba syndrome suggest a single entity with Cowden syndrome. Hum Mol Genet 1999;8:1461­1472.
+3. Zbuk KM, Eng C. Cancer phenomics: RET and PTEN as illustrative models. Nat Rev Cancer 2007;7: 35­ 45.
+4. Tan MH, Mester JL, Ngeow J et al. Lifetime cancer risks in individuals with germline PTEN mutations. Clin Cancer Res 2012;18:400 ­ 407.
+5. Easton DF, Ford D, Bishop DT. Breast and ovarian cancer incidence in BRCA1-mutation carriers. Breast Cancer Linkage Consortium. Am J Hum Genet 1995;56:265­271.
+6. Vasen HF, Stormorken A, Menko FH et al. MSH2 mutation carriers are at higher risk of cancer than MLH1 mutation carriers: A study of hereditary nonpolyposis colorectal cancer families. J Clin Oncol 2001;19:4074 ­ 4080.
+7. Aarnio M, Sankila R, Pukkala E et al. Cancer risk in mutation carriers of DNA-mismatch-repair genes. Int J Cancer 1999;81:214 ­218.
+8. Heald B, Mester J, Rybicki L et al. Frequent gastrointestinal polyps and colorectal adenocarcinomas in a prospective series of PTEN mutation carriers. Gastroenterology 2010;139:1927­ 1933.
+
+9. Burt R, Neklason DW. Genetic testing for inherited colon cancer. Gastroenterology 2005;128: 1696 ­1716.
+10. Pilarski R, Eng C. Will the real Cowden syndrome please stand up (again)? Expanding mutational and clinical spectra of the PTEN hamartoma tumour syndrome J Med Genet 2004;41:323­326.
+11. Tan MH, Mester J, Peterson C et al. A clinical scoring system for selection of patients for PTEN mutation testing is proposed on the basis of a prospective sStudy of 3042 probands. Am J Hum Genet 2011;88:42­56.
+12. Parmigiani G, Berry D, Aguilar O. Determining carrier probabilities for breast cancer-susceptibility genes BRCA1 and BRCA2. Am J Hum Genet 1998;62: 145­158.
+13. Frank TS, Deffenbaugh AM, Reid JE et al. Clinical characteristics of individuals with germline mutations in BRCA1 and BRCA2: Analysis of 10,000 individuals. J Clin Oncol 2002;20:1480 ­1490.
+14. Vasen HF, Mecklin JP, Khan PM et al. The International Collaborative Group on Hereditary NonPolyposis Colorectal Cancer (ICG-HNPCC). Dis Colon Rectum 1991;34:424 ­ 425.
+15. Umar A, Boland CR, Terdiman JP et al. Revised Bethesda guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 2004;96:261­268.
+16. Kastrinos F, Steyerberg EW, Mercado R et al. The PREMM(1,2,6) model predicts risk of MLH1, MSH2, and MSH6 germline mutations based on cancer history Gastroenterology 2011;140:73­ 81.
+
+17. Chen S, Wang W, Lee S et al. Prediction of germline mutations and cancer risk in the Lynch syndrome. JAMA 2006;296:1479 ­1487.
+18. Myers MF, Chang MH, Jorgensen C et al. Genetic testing for susceptibility to breast and ovarian cancer: Evaluating the impact of a direct-toconsumer marketing campaign on physicians' knowledge and practices. Genet Med 2006;8: 361­370.
+19. Burt RW, Barthel JS, Dunn KB et al. NCCN clinical practice guidelines in oncology. Colorectal cancer screening. J Natl Compr Canc Netw 2010;8: 8 ­ 61.
+20. Schroy PC, 3rd, Lal SK, Wilson S et al. Deficiencies in knowledge and familial risk communication among colorectal adenoma patients. J Clin Gastroenterol 2005;39:298 ­302.
+21. Doerr M, Eng C. Personalised care and the genome. BMJ 2012;344:e3174.
+22. Shiovitz S, Everett J, Huang SC et al. Head circumference in the clinical detection of PTEN hamartoma tumor syndrome in a clinic population at highrisk of breast cancer. Breast Cancer Res Treat 2010; 124:459 ­ 465.
+23. Nagy R, Ganapathi S, Comeras I et al. Frequency of germline PTEN mutations in differentiated thyroid cancer. Thyroid 2011;21:505­510.
+24. International Society for Gastrointestinal Hereditary Tumours. Colon cancer gene variant databases. Available at: http://www.insight-group.org/ mutations/. Accessed August 21, 2013.
+
+This article is available for continuing medical education credit at CME.TheOncologist.com.
+
+©AlphaMed Press 2013
+
+

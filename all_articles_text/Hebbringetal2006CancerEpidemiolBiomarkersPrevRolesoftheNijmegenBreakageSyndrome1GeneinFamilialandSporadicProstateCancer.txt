@@ -1,0 +1,190 @@
+935
+Role of the Nijmegen Breakage Syndrome 1 Gene in Familial and Sporadic Prostate Cancer
+
+Scott J. Hebbring,1 Henna Fredriksson,3 Kirsten A. White,6 Christiane Maier,8 Charles Ewing,10 Shannon K. McDonnell,2 Steven J. Jacobsen,2 James Cerhan,2 Daniel J. Schaid,2 Tarja Ikonen,3 Ville Autio,4 Teuvo L.J. Tammela,5 Kathleen Herkommer,9 Thomas Paiss,9 Walther Vogel,8 Marta Gielzak,10 Jurga Sauvageot,10 Johanna Schleutker,3 Kathleen A. Cooney,6,7 William Isaacs,10 and Stephen N. Thibodeau1
+Departments of 1Laboratory Medicine and Pathology, 2Health Sciences Research, Mayo Clinic College of Medicine, Rochester, Minnesota; 3Laboratory of Cancer Genetics, Institute of Medical Technology, University of Tampere and Tampere University Hospital; 4Research Unit, Tampere University Hospital; 5Division of Urology, Tampere University Hospital and Medical School, Tampere, Finland; Departments of 6Internal Medicine and 7Urology, University of Michigan Medical School, Ann Arbor, Michigan; 8Abteilung Humangenetik, 9Abteilung Urologie, Universita¨tsklinikum Ulm, Ulm, Germany; and 10Department of Urology, School of Medicine, Johns Hopkins University, Baltimore, Maryland
+
+Abstract
+
+The Nijmegen breakage syndrome 1 (NBS1) gene, which participates in DNA double strand break repair, has been postulated to be a susceptibility factor for a number of cancers, including prostate cancer. Numerous mutations have been identified in NBS1, including the founder mutation 657del5. In this study, a number of analyses were done to determine whether mutations in NBS1 are associated with an increased risk for prostate cancer. The frequency of the 657del5 mutation in both familial prostate cancer cases (1,819 affected men among 909 families) and sporadic prostate cancer cases (1,218 affected men) collected from five centers participating in the International Consortium for Prostate Cancer Genetics were compared with that found in 697 normal controls. Seven individuals were identified to carry the mutation among the 3,037 cases screened: four in the familial group (three from one family and one from another) and three in the sporadic cases. The carrier frequency was 0.22% (2 of 909) for the probands and 0.25%
+
+(3 of 1,218) for the sporadic cases of prostate cancer. The 657del5 mutation was not detected in either the 293 unaffected members of the prostate cancer families or in the 697 control samples tested. The entire NBS1 gene was also sequenced in 20 of the youngest affected individuals from the Finnish group of familial cases to identify the presence of possible mutations in this high-risk group. One rare (D95N) and one common (E185Q) missense alteration was identified. More detailed analyses of the E185Q polymorphism, along with a third rare variant (R215W), failed to show an association with prostate cancer. Because the 657del5 mutation was absent from the control population, we are unable to determine if this alteration predisposes to prostate cancer. However, our data does suggest that mutations within NBS1, and in particular, 657del5, do not significantly contribute to the overall prostate cancer burden within our patient samples. (Cancer Epidemiol Biomarkers Prev 2006;15(5):935 ­ 8)
+
+Introduction
+Prostate cancer is one of the most common malignancies among men in western countries and the second most frequent for deaths due to cancer (1). In the U.S., there are approximately 232,000 newly diagnosed cases and 30,000 deaths annually. The lifetime probability of developing invasive disease is f18%. Although older age and African-American ancestry have long been recognized as important risk factors, there is extensive evidence supporting the notion that genetics plays a key role. This evidence comes from a wide range of studies including familial aggregation, twin studies, familybased linkage studies, and molecular epidemiologic studies of both rare and common polymorphisms of candidate genes
+Received 11/30/05; revised 2/24/06; accepted 3/2/06. Grant support: All members of the ICPCG are supported by the USPHS, NIH (CA89600). Additional support to participating groups is as follows: Johns Hopkins, USPHS CA58236; Mayo, USPHS CA72818 and CA91956; Michigan, USPHS CA079596; Tampere, Medical Research Fund of Tampere University Hospital, Reino Lahtikari Foundation, Sigrid Juselius Foundation, and Academy of Finland (grant nos. 201480 and 211123); and Ulm Group, Deutsche Krebshilfe, grant no. 70-3111-V03. The costs of publication of this article were defrayed in part by the payment of page charges. This article must therefore be hereby marked advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate this fact. Note: S. Hebbring, H. Fredriksson, K. White, C. Maier, and C. Ewing contributed equally to this work. Requests for reprints: Stephen N. Thibodeau, Mayo Clinic Rochester, 200 First Street Southwest, 920 Hilton Building, Rochester, MN 55905. Phone: 507-284-9185; Fax: 507-284-0670. E-mail: sthibodeau@mayo.edu Copyright D 2006 American Association for Cancer Research. doi:10.1158/1055-9965.EPI-05-0910
+
+(2, 3). However, the evidence also points towards a much more complex genetic basis than initially anticipated. Early results from linkage analyses provided targeted candidate regions for prostate cancer susceptibility loci, including HPC1 on chromosome 1q23-25, PCAP on chromosome 1q42-43, CAPB on chromosome 1p36, chromosome 8p22-23, HPC2 on chromosome 17p, HPC20 on chromosome 20q13, and HPCX on chromosome Xq27-28. A few of the targeted linkage studies led to the identification of candidate susceptibility genes including RNASEL (HPC1) on chromosome 1, ELAC2 (HPC2) on chromosome 17, and MSR1 on chromosome 8 (2, 3). However, confirmatory studies for these genes, along with multiple microsatellite-based genome-wide linkage screens have provided mixed results (2, 3). A number of studies provide strong support, both functional and epidemiologic, yet other studies suggest that their role may be small (2-4). As is the case with other complex genetic disorders, familial prostate cancer is likely to be very heterogeneous, with the presence of several lower penetrant susceptibility genes.
+The Nijmegen breakage syndrome 1 (NBS1) gene, located on chromosome 8q21, has recently been postulated to be a prostate cancer susceptibility gene (5). NBS1, also known as p95, is part of the MRE11/RAD50 complex and is involved in DNA double strand break repair (6). Individuals carrying biallelic mutations in NBS1 have an autosomal recessive disorder, Nijmegen breakage syndrome, and are characterized by the presence of microcephaly, facial deformities, mental retardation, impaired immunity, and increased risk to multiple
+
+Cancer Epidemiol Biomarkers Prev 2006;15(5). May 2006
+Downloaded from cebp.aacrjournals.org on July 20, 2016. © 2006 American Association for Cancer Research.
+
+936 NBS1 in Prostate Cancer
+
+cancers. Numerous mutations have been identified for Nijmegen breakage syndrome, including a common founder mutation in exon 6, 657del5. This founder mutation has been found with a high frequency in the Slavic population, which includes individuals primarily from Poland, Ukraine, and the Czech Republic. A number of studies suggest that heterozygosity for a mutation in NBS1 may be associated with elevated risk for some cancers (7-13), including prostate cancer (5). Cybulski et al. (5) showed an increased risk for prostate cancer among carriers of the 657del5 mutation in both familial and non-familial cases from Poland. Among the familial cases, this mutation co-segregated with disease and tumor analysis showed that NBS1 mutation carriers lost the wild-type allele, suggesting a possible mechanism within the tumor.
+To confirm that alterations within the NBS1 gene increase the risk of prostate cancer, we compared the frequency of the 657del5 mutation in both familial (1,819 affected individuals among 909 families) and sporadic prostate cancer cases (1,218 affected individuals) from five separate study populations to that found in 697 unaffected controls. In a smaller subset, we also examined the frequency of both common and rare NBS1 variants for associations with prostate cancer. Lastly, to explore if there are other unknown mutations and/or polymorphisms associated with prostate cancer, the entire NBS1 gene was sequenced in 20 men with familial prostate cancer.
+Materials and Methods
+Sample Collection. Samples from five separate study populations were used in this study. These include the following.
+Mayo Clinic. Four hundred and twenty-eight affected men from 178 prostate cancer families, 492 men with sporadic prostate cancer, and 489 population-based controls (14) were tested for the 657del5 mutation. Individuals from this group are primarily Caucasian (three of the familial cases, five of the sporadic cases, and three of the controls were non-Caucasian: seven Hispanic, one African-American, and three other). The mean age at diagnosis for the familial and sporadic cases was 66 years (range, 45-84) and 64 years (range, 46-79), respectively.
+Tampere. For the 657del5 mutation, 164 probands from 164 prostate cancer families and 380 unselected cases of prostate cancer (15, 16) were analyzed. For D95N, 121 familial cases (probands), 613 unselected cases, and 440 population-based controls were analyzed. For E185Q, 121 familial cases (probands), 200 unselected cases, and 200 population-based controls were analyzed. Lastly, the entire gene was sequenced from the youngest affected patient available from 20 of the families with prostate cancer. These were selected so that four families had five or more affected first- or second-degree relatives, eight families had four affected first- or seconddegree relatives and eight families had three or two affected first- or second-degree relatives. The mean age at diagnosis for the patients was 58.3 years (range, 44-72.6).
+Michigan. Seven hundred and thirty-four affected men and 182 unaffected men from 261 prostate cancer families from the
+
+University of Michigan Prostate Cancer Genetics Project were tested for the 657del5 mutation. The prostate cancer families that were selected for this analysis include 167 of the 175 families used for a genome-wide scan for prostate cancer susceptibility loci (17) and 94 additional families that met the same criteria as the families used for the genome-wide scan (families with three or more confirmed cases of prostate cancer or families in which there were two men affected with prostate cancer before age 55 years). DNA samples were available from at least two affected men (excluding father/son pairs) in each of the families. Eight additional samples from eight unrelated men with prostate cancer were also tested. These men were selected based on age at diagnosis, <40 years. Consistent with the racial/ethnic distribution of participants in the Prostate Cancer Genetics Project, 78 of 1,107 samples came from African-American individuals and 7 of 1,107 samples were from Asian individuals.
+Ulm. Two hundred and ninety-nine affected men and 111 unaffected men from 139 prostate cancer families, 338 cases of sporadic prostate cancer, and 208 normal controls (18) were tested for the 657del5 and R215W mutations. Individuals from this group were Caucasian from Central Europe (Germany). The mean age at diagnosis was 64.6 years (range, 47-89) for the familial cases and 63.7 years (range, 42-84) for the sporadic patients.
+Johns Hopkins. A single affected man from 167 prostate cancer families and all family members from five families reporting Polish descent were tested (a total of 27 additional samples; ref. 19) were tested for the 657del5 mutation. Individuals from this group are primarily North European Caucasian.
+Genotyping. For the majority of samples, genotyping was done at each individual center. Samples were genotyped for the 657del5 alteration using either an ABI3100 (Applied Biosystems, Foster City, CA) and fluorescently-labeled PCR product (Mayo, Michigan, and Ulm), direct sequencing using an Amersham Megabase (Johns Hopkins University), or by DNA sequencing (Tampere). E185Q and D95N genotypes were obtained using minisequencing (Tampere; ref. 20), whereas ddNTP-primer extension (Applied Biosystems) was used to determine the R215W genotypes (Ulm). Reaction conditions and primer sequences are available upon request.
+Statistical Analysis. Association of the NBS1 variants, E185Q and D95N, with prostate cancer was tested by logistic regression analysis using the SPSS statistical software package (SPSS 11.0).
+Results
+We compared the frequency of the 657del5 mutation in both familial (1,819 affected individuals among 909 families) and sporadic cases of prostate cancer (1,218 affected individuals) from five separate study samples to that found in 697 normal controls (Table 1). A total of seven carriers of the 657del5 mutation were identified among 3,037 cases screened. Among the familial cases (n = 1819), four carriers were identified in
+
+Table 1. Frequency of 657del5 mutation in familial prostate cancer, sporadic prostate cancer and in normal controls
+
+No. of 657del5 carriers/total tested by group
+
+Tampere
+
+Johns Hopkins
+
+Michigan
+
+Ulm Mayo Clinic
+
+Total
+
+Affected familial Unaffected familial Sporadic Control
+
+0 of 164 (164 fam) 0 of 380
+
+0 of 194 (167 fam)
+
+1 of 734 (261 fam) 0 of 182 0 of 8
+
+0 of 299 (139 fam) 0 of 111 1 of 338 0 of 208
+
+3 of 428 (178 fam)
+2 of 492 0 of 489
+
+4 of 1,819 (909 fam) 0 of 293 3 of 1,218 0 of 697
+
+Cancer Epidemiol Biomarkers Prev 2006;15(5). May 2006
+Downloaded from cebp.aacrjournals.org on July 20, 2016. © 2006 American Association for Cancer Research.
+
+Cancer Epidemiology, Biomarkers & Prevention 937
+
+Table 2. NBS1 mutation spectrum in 20 cases of familial prostate cancer
+
+Mutation
+
+Amino acid change
+
+Exon/Intron
+
+102 A!G 283 G!A 553 G!C 702 + 149 T!C 896 + 36 G!A 1,124 + 18 C!T 1,124 + 91 C!A 1,197 C!T 1,919-7 A!G 2,017 G!A 2,072-30 A!T 2,235 + 88 C!G 2,266 + 273 G!A
+
+L34 (silent) D95N E185Q -- -- -- --
+D399 (silent) --
+P673 (silent) -- -- --
+
+Exon 2 Exon 3 Exon 5 Intron 6 Intron 7 Intron 9 Intron 9 Exon 10 Intron 12 Exon 13 Intron 13 Intron 15 3-Untranslated region
+
+two families (three from one family and one from another). The carrier frequency for the probands was 0.22% (2 of 909). Among the sporadic cases (n = 1218), three carriers were identified for a carrier frequency of 0.25%. The 657del5 mutation was not detected in either the 293 unaffected members of the prostate cancer families or in the 697 control samples tested.
+To determine if there are other unknown mutations in NBS1, the entire NBS1 gene was sequenced in 20 of the youngest affected cases from the Finnish group of familial cases. Two missense alterations were identified, one common (E185Q) and one rare (D95N). No other plausible causative mutations were identified within the coding region of NBS1. These results are summarized in Table 2.
+For the Finnish subset of patients, the frequencies of the two NBS1 alterations (D95N and E185Q) were examined for associations with prostate cancer (Table 3). Similarly, the frequency of another rare alteration, R215W (643 C>T), was examined within the Ulm subset of patients (Table 3). No significant associations were observed for either the E185Q or the R215W variant. Testing D95N for an association with prostate cancer was not possible because this alteration was not detected in the control population.
+Discussion
+In this study, we have taken advantage of samples collected from five centers participating in the International Consortium for Prostate Cancer Genetics (University of Tampere, University of Michigan, Johns Hopkins University, Universita¨tsklinikum Ulm, and the Mayo Clinic) to confirm that mutations in
+
+NBS1 confer susceptibility to either sporadic or familial prostate cancer. The International Consortium for Prostate Cancer Genetics is a working group of investigators, consisting of approximately 11 independent groups from >20 institutions from North America, Europe, and Australia who share a common interest in genetic susceptibility for prostate cancer, and all of whom have major ongoing, individual research efforts in this area (19). The International Consortium for Prostate Cancer Genetics was formed in 1996 to explore collaborative studies in the area of prostate cancer, and in particular, to provide a mechanism by which large-scale pooled analyses could be done. Given the heterogeneity and complexity of prostate cancer and the historical difficulties of replicating results, the International Consortium for Prostate Cancer Genetics provides a valuable resource to perform largescale genetic studies in hereditary prostate cancer.
+Overall, our data indicate that mutation in NBS1, in particular, 657del5, does not significantly contribute to the overall cancer burden among either the sporadic or the familial prostate cancers tested in this study. Although a number of published reports have suggested that mutations in NBS1, especially 657del5, is associated with elevated risk for some cancers, including ovarian (13), breast (7, 8, 10), melanoma (7, 9), and lymphoid malignancies (7, 11, 12), such findings have not been replicated in other studies (21-24). For prostate cancer, Cybulski et al. (5) found that the 657del5 mutation was a risk factor. They screened 56 familial prostate cancer patients, 305 sporadic cases, and 1,500 normal controls within a Slavic population. Five of the familial cases (9%, P < 0.0001), seven of the non-familial cases (2.2%, P = 0.01), and nine control subjects (0.6%) carried the 657del5 mutation. Data from our study show a significantly lower frequency of the 657del5 alteration among cases and controls than that reported by Cybulski et al. In this current study, both the familial and sporadic groups had approximately the same frequency, 0.22% and 0.25%, respectively, but this mutation was not found in any of the 697 controls tested. Because the 657del5 mutation was absent in our control population, testing for an association was not possible. The lack of this alteration among the controls is not necessarily surprising as the prevalence of this alteration is low and varies considerably between different geographic regions, the highest being in the Slavic population due to a founder effect (25). As a result, our ability to determine if the NBS1 657del5 mutation truly increases risk for prostate cancer cannot be determined with our study populations. In nonSlavic populations, in which the frequency is lower and poorly defined, large population sizes will be necessary to achieve the power needed to detect an association, if present. Even in the current study of 3,000 cases and 697 controls, the number of cases and controls is not sufficient to adequately address this
+
+Table 3. Association-based analysis for D95N, E185Q, and R215W
+
+Sample and variant
+
+No. of carriers/total (frequency)
+
+D95N (Tampere) Controls Unselected prostate cancer Familial prostate cancer
+E185Q (Tampere) Controls (G/C) Controls (C/C) Unselected prostate cancer (G/C) Unselected prostate cancer (C/C) Familial prostate cancer (G/C) Familial prostate cancer (C/C)
+R215W (Ulm) Controls Unaffected familial Sporadic prostate cancer Familial prostate cancer
+
+0 of 440 (0%) 1 of 613 (0.16%) 1 of 121 (0.83%)
+79 of 200 (39.5%) 32 of 200 (16.0%) 94 of 200 (47.0%) 24 of 200 (12.0%) 63 of 121 (52.07%) 18 of 121 (14.9%)
+3 of 208 (1.44%) 1 of 111 (0.90%) 6 of 338 (1.78%) 2 of 139 (1.44%)
+
+Odds ratio (95% confidence interval)
+-- -- --
+1 1 1.59 (0.86-2.91) 1.23 (0.67-2.26) 1.42 (0.73-2.76) 0.80 (0.40-1.59)
+1
+1.24 (0.31-4.99) 1.0 (0.17-6.05)
+
+Cancer Epidemiol Biomarkers Prev 2006;15(5). May 2006
+Downloaded from cebp.aacrjournals.org on July 20, 2016. © 2006 American Association for Cancer Research.
+
+P
+-- -- --
+0.14 0.51 0.30 0.52
+0.77 1.0
+
+938 NBS1 in Prostate Cancer
+
+question. For example, to have 90% power to detect a difference of 0.25% among cases versus 0.1% among controls, >12,000 subjects would be needed for each group. However, of more importance, would it be necessary to detect such a small difference? Probably not. Although we cannot determine if the 657del5 mutation increases risk for prostate cancer, we can conclude that this alteration is so rare that it has little, if any, contribution to the overall risk for prostate cancer in the cases examined in this study.
+Data from additional analyses done in this study, however, also failed to support the involvement of NBS1 among our prostate cancer cases. First, sequencing of NBS1 in a subset of the Finnish group of familial prostate cancer (n = 20) revealed one common (E185Q) and one rare (D95N) missense variant. However, it is important to note that our power to detect rare variants in this small group is limited. For this sample size, the variant frequency would have to be at least 3.94% in order to have an 80% chance of finding at least one variant among 40 chromosomes. The D95N alteration is found within the forkhead-associated domain, a putative nuclear signaling domain, of the NBS1 gene. Although this amino acid position is highly conserved among a variety of species, this amino acid substitution is not necessarily predicted to be highly damaging. Thus, the clinical significance of this alteration is uncertain. Although a statistical analysis was not possible, the D95N alteration also does not seem to significantly contribute to either sporadic or familial prostate cancer, having identified only two carriers among both groups of cases (n = 734). A follow-up case-control analysis for E185Q and R215W did not show a significant association with prostate cancer. In other published reports, the common polymorphism, E185Q, showed an association with lung cancer (26), but not with breast (27-29), bladder (30), or non-Hodgkin lymphoma (31). The rare variant, R215W, has also been implicated as a pathogenic mutation in Nijmegen breakage syndrome (32). Conservation studies also show that this position is highly conserved and that this change is predicted to be damaging (8, 13).
+In summary, based on the low frequency of mutations observed in this study, we are not able to determine if NBS1 is truly a susceptibility gene for prostate cancer. However, these data do suggest that the attributable risk for the 657del5 in a non-Slavic population is quite low. This mutation was responsible for less than a fraction of 1% of the prostate cancer in the population tested.
+References
+1. Jemal A, Murray T, Ward E, et al. Cancer statistics, 2005. CA Cancer J Clin 2005;55:10 ­ 30.
+2. Schaid DJ. The complex genetic epidemiology of prostate cancer. Hum Mol Genet 2004;13:R103 ­ 21.
+3. Nelson WG, De Marzo AM, DeWeese TL, Isaacs WB. The role of inflammation in the pathogenesis of prostate cancer [discussion S11 ­ 2]. J Urol 2004;172:S6 ­ 11.
+4. Easton DF, Schaid DJ, Whittemore AS, Isaacs WJ. Where are the prostate cancer genes? A summary of eight genome wide searches. Prostate 2003;57: 261 ­ 9.
+5. Cybulski C, Gorski B, Debniak T, et al. NBS1 is a prostate cancer susceptibility gene. Cancer Res 2004;64:1215 ­ 9.
+6. Carney JP, Maser RS, Olivares H, et al. The hMre11/hRad50 protein complex and Nijmegen breakage syndrome: linkage of double-strand break repair to the cellular DNA damage response. Cell 1998;93:477 ­ 86.
+7. Steffen J, Varon R, Mosor M, et al. Increased cancer risk of heterozygotes with NBS1 germline mutations in Poland. Int J Cancer 2004;111:67 ­ 71.
+
+8. Buslov KG, Iyevleva AG, Chekmariova EV, et al. NBS1 657del5 mutation may contribute only to a limited fraction of breast cancer cases in Russia. Int J Cancer 2005;114:585 ­ 9.
+9. Debniak T, Gorski B, Cybulski C, et al. Germline 657del5 mutation in the NBS1 gene in patients with malignant melanoma of the skin. Melanoma Res 2003;13:365 ­ 70.
+10. Gorski B, Debniak T, Masojc B, et al. Germline 657del5 mutation in the NBS1 gene in breast cancer patients. Int J Cancer 2003;106:379 ­ 81.
+11. Resnick IB, Kondratenko I, Pashanov E, et al. 657del5 mutation in the gene for Nijmegen breakage syndrome in a cohort of Russian children with lymphoid tissue malignancies and controls. Am J Med Genet A 2003;120: 174 ­ 9.
+12. Soucek P, Gut I, Trneny M, et al. Multiplex single-tube screening for mutations in the Nijmegen breakage syndrome gene in Hodgkin's and nonHodgkin's lymphoma patients of Slavic origin. Eur J Hum Genet 2003;11: 416 ­ 9.
+13. Plisiecka-Halasa J, Dansonka-Mieszkowska A, Rembiszewska A, Bidzinski M, Steffen J, Kupryjanczyk J. Nijmegen breakage syndrome gene alterations and its protein (nibrin) expression in human ovarian tumours. Ann Hum Genet 2002;66:353 ­ 9.
+14. Wang L, McDonnell SK, Elkins DA, et al. Analysis of the RNASEL gene in familial and sporadic prostate cancer. Am J Hum Genet 2002;71: 116 ­ 23.
+15. Schleutker J, Matikainen M, Smith J, et al. A genetic epidemiological study of hereditary prostate cancer in Finland: frequent HPCX linkage in families with late-onset disease. Clin Cancer Res 2000;6:4810 ­ 5.
+16. Syrjakoski K, Fredriksson H, Ikonen T, et al. Hemochromatosis gene mutations among Finnish male breast and prostate cancer patients. Int J Cancer 2006;118:518 ­ 20.
+17. Lange EM, Gillanders EM, Davis CC, et al. Genome-wide scan for prostate cancer susceptibility genes using families from the University of Michigan prostate cancer genetics project finds evidence for linkage on chromosome 17 near BRCA1. Prostate 2003;57:326 ­ 34.
+18. Maier C, Haeusler J, Herkommer K, et al. Mutation screening and association study of RNASEL as a prostate cancer susceptibility gene. Br J Cancer 2005;92:1159 ­ 64.
+19. Schaid DJ, Chang BL. Description of the International Consortium For Prostate Cancer Genetics, and failure to replicate linkage of hereditary prostate cancer to 20q13. Prostate 2005;63:276 ­ 90.
+20. Syvanen AC. Solid-phase minisequencing as a tool to detect DNA polymorphism. Methods Mol Biol 1998;98:291 ­ 8.
+21. Gorski B, Cybulski C, Huzarski T, et al. Breast cancer predisposing alleles in Poland. Breast Cancer Res Treat 2005;92:19 ­ 24.
+22. Stumm M, von Ruskowsky A, Siebert R, et al. No evidence for deletions of the NBS1 gene in lymphomas. Cancer Genet Cytogenet 2001; 126:60 ­ 2.
+23. Stanulla M, Stumm M, Dieckvoss BO, et al. No evidence for a major role of heterozygous deletion 657del5 within the NBS1 gene in the pathogenesis of non-Hodgkin's lymphoma of childhood and adolescence. Br J Haematol 2000;109:117 ­ 20.
+24. Rischewski J, Bismarck P, Kabisch H, Janka-Schaub G, Obser T, Schneppenheim R. The common deletion 657del5 in the Nibrin gene is not a major risk factor for B or T cell non-Hodgkin lymphoma in a pediatric population. Leukemia 2000;14:1528 ­ 9.
+25. Varon R, Seemanova E, Chrzanowska K, et al. Clinical ascertainment of Nijmegen breakage syndrome and prevalence of the major mutation, 657del5, in three Slav populations. Eur J Hum Genet 2000;8:900 ­ 2.
+26. Medina PP, Ahrendt SA, Pollan M, Fernandez P, Sidransky D, SanchezCespedes M. Screening of homologous recombination gene polymorphisms in lung cancer patients reveals an association of the NBS1-185Gln variant and p53 gene mutations. Cancer Epidemiol Biomarkers Prev 2003; 12:699 ­ 704.
+27. Kuschel B, Auranen A, McBride S, et al. Variants in DNA double-strand break repair genes and breast cancer susceptibility. Hum Mol Genet 2002;11: 1399 ­ 407.
+28. Forsti A, Angelini S, Festa F, et al. Single nucleotide polymorphisms in breast cancer. Oncol Rep 2004;11:917 ­ 22.
+29. Zhang L, Zhang Z, Yan W. Single nucleotide polymorphisms for DNA repair genes in breast cancer patients. Clin Chim Acta 2005;359:150 ­ 5.
+30. Sanyal S, Festa F, Sakano S, et al. Polymorphisms in DNA repair and metabolic genes in bladder cancer. Carcinogenesis 2004;25:729 ­ 34.
+31. Cerosaletti KM, Morrison VA, Sabath DE, Willerford DM, Concannon P. Mutations and molecular variants of the NBS1 gene in non-Hodgkin lymphoma. Genes Chromosomes Cancer 2002;35:282 ­ 6.
+32. Seemanova E, Sperling K, Neitzel H, et al. Nijmegen breakage syndrome with neurological abnormalities and without chromosomal instability. J Med Genet 2005.
+
+Cancer Epidemiol Biomarkers Prev 2006;15(5). May 2006
+Downloaded from cebp.aacrjournals.org on July 20, 2016. © 2006 American Association for Cancer Research.
+
+Role of the Nijmegen Breakage Syndrome 1 Gene in Familial and Sporadic Prostate Cancer
+Scott J. Hebbring, Henna Fredriksson, Kirsten A. White, et al. Cancer Epidemiol Biomarkers Prev 2006;15:935-938.
+Updated version Access the most recent version of this article at: http://cebp.aacrjournals.org/content/15/5/935
+
+Cited articles Citing articles
+
+This article cites 31 articles, 6 of which you can access for free at: http://cebp.aacrjournals.org/content/15/5/935.full.html#ref-list-1
+This article has been cited by 8 HighWire-hosted articles. Access the articles at: http://cebp.aacrjournals.org/content/15/5/935.full.html#related-urls
+
+E-mail alerts
+Reprints and Subscriptions
+Permissions
+
+Sign up to receive free email-alerts related to this article or journal.
+To order reprints of this article or to subscribe to the journal, contact the AACR Publications Department at pubs@aacr.org.
+To request permission to re-use all or part of this article, contact the AACR Publications Department at permissions@aacr.org.
+
+Downloaded from cebp.aacrjournals.org on July 20, 2016. © 2006 American Association for Cancer Research.
+
+

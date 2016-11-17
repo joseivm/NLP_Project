@@ -1,0 +1,496 @@
+GASTROENTEROLOGY 2009;137:1621­1627
+
+CLINICAL­ ALIMENTARY TRACT
+
+Calculation of Risk of Colorectal and Endometrial Cancer Among Patients With Lynch Syndrome
+
+ELENA STOFFEL,*, BHRAMAR MUKHERJEE,§ VICTORIA M. RAYMOND, NABIHAH TAYOB,§ FAY KASTRINOS,* JENNIFER SPARR, FEI WANG,§ PRATHAP BANDIPALLIAM, SAPNA SYNGAL,*, and STEPHEN B. GRUBER,¶
+*Brigham and Women's Hospital, Boston, Massachusetts; Dana-Farber Cancer Institute, Boston, Massachusetts; §Department of Biostatistics, ¶Department of Epidemiology and Human Genetics, University of Michigan Medical School and School of Public Health, Ann Arbor, Michigan; and Department of Internal Medicine, University of Michigan Medical School, Ann Arbor, Michigan
+
+BACKGROUND & AIMS: Lynch syndrome is the most common hereditary colorectal cancer (CRC) syndrome. Some previous estimates of lifetime risk for CRC and endometrial cancer (EC) did not control for ascertainment and were susceptible to bias toward overestimated risk. METHODS: We studied 147 families with mismatch repair gene mutations (55 MLH1, 81 MSH2, and 11 MSH6) identified at 2 US cancer genetics clinics. Age-specific cumulative risks (penetrance) and hazard ratio (HR) estimates of CRC and EC risks were calculated and compared with the general population using modified segregation analysis. The likelihood for each pedigree was conditioned on the proband and first-degree relatives affected with CRC to reduce ascertainment bias and overestimation of penetrance. RESULTS: We analyzed 628 cases of CRC, diagnosed at the median ages of 42 and 47 years for men and women, respectively. The cumulative risk of CRC was 66.08% (95% confidence interval [CI], 59.47%­76.17%) for men and 42.71% (95% CI, 36.57%­52.83%) for women, with overall HRs of 148.4 and 51.1, respectively. CRC risk was highest for males with mutations in MLH1. There were 155 cases of EC, diagnosed at a median age of 47.5 years. The cumulative risk of EC was 39.39% (95% CI, 30.78%­ 46.94%) with an overall HR of 39.0 (95% CI, 30.4 ­50.2). For women, the cumulative risk of CRC or EC was 73.42% (95% CI, 63.76%­ 80.54%). CONCLUSIONS: Lifetime risks of CRC and EC in mismatch repair gene mutation carriers are high even after adjusting for ascertainment. These estimates are valuable for patients and providers; specialized cancer surveillance is necessary.
+Lynch syndrome (LS), also known as hereditary nonpolyposis colorectal cancer, is the most common hereditary colorectal cancer (CRC) syndrome and accounts for 3%­5% of CRC cases.1 LS tumors develop as a consequence of defective DNA mismatch repair (MMR) associated with germline mutations in the MMR genes MLH1, MSH2, MSH6, and PMS2. Individuals with LS typically develop young-onset, rapidly progressive neoplasms, which usually show a phenotype of microsatellite instability. Although there have been a variety of tumor
+
+types described in LS, adenocarcinomas of the colorectum and endometrium are the most common, and clinical management guidelines recommend aggressive surveillance for these cancers.2
+Before the discovery of MMR gene mutations, the diagnosis of LS was made on the basis of a family's cancer history. The classic Amsterdam Criteria, originally developed for research purposes, required that a LS family contain 3 individuals with CRC in 2 generations with one case diagnosed at younger than age 50.3 Once linkage analysis led to the positional cloning of the MMR gene mutations in these Amsterdam Criteria families, it became possible to use molecular analysis to diagnose LS in clinical practice. Because many MMR mutation carriers have family histories that do not meet Amsterdam Criteria,4 the more inclusive revised Bethesda guidelines5 now are used to identify patients at risk for LS.
+A number of studies have sought to quantify cancer risks in LS. Lifetime risks for developing CRC and endometrial cancer (EC) have been estimated previously at 70%­ 80% and 40%­ 60%, respectively, on the basis of data collected through European familial cancer registries.6­10 It has been suggested that estimates of cancer risk in LS may be inflated artificially because of ascertainment bias resulting from overrepresentation of families with unusually striking cancer histories11 and failure to control for Amsterdam-defining tumors in calculations of cancer risks. Recent studies using different statistical methodologies to control for these potential biases have estimated risks for CRC and EC of 22%­ 47% and 14%­30%, respectively,11­13 which are significantly lower risks than previously reported.
+We sought to quantify risk estimates for CRC and EC in families with pathogenic MMR gene mutations associated with LS. We used statistical methods that control for ascertainment bias and used information derived
+Abbreviations used in this paper: CI, confidence interval; CRC, colorectal cancer; EC, endometrial cancer; HR, hazard ratio; LS, Lynch syndrome; MMR, mismatch repair.
+© 2009 by the AGA Institute 0016-5085/09/$36.00
+doi:10.1053/j.gastro.2009.07.039
+
+1622 STOFFEL ET AL
+
+GASTROENTEROLOGY Vol. 137, No. 5
+
+CLINICAL­ ALIMENTARY TRACT
+
+from observed genotype data and pedigree structure to infer probabilistically the genotypes of individuals who have not undergone genetic testing.
+Materials and Methods
+Subjects
+Kindreds with a pathogenic mutation in the MMR genes MLH1, MSH2, or MSH6 were identified through cancer genetics clinics at the Dana-Farber Cancer Institute (Boston, MA) and the University of Michigan Comprehensive Cancer Center (Ann Arbor, MI). Subjects presented to these clinics either by self-referral or physician referral on the basis of their family history of cancer. Probands had enrolled in a familial cancer registry through protocols approved by each center's institutional review board. Family pedigrees in which one or more family members were confirmed carriers of a pathogenic MMR gene mutation by clinical genetic testing were included in this analysis. Ages and cancer diagnoses of all first-, second-, third-, and fourth-degree relatives were obtained through probands' reports, and cancer diagnoses were confirmed with medical record reports or death certificates when available. Each pedigree was reviewed to determine whether the genetic mutation originated from the proband's maternal or paternal lineage, and individuals from the unaffected side of the family were excluded from the analysis.
+Statistical Analysis
+We used the information on the occurrence of CRC and EC in relatives of MMR mutation­positive index cases to estimate age- and sex-specific incidences of CRC and EC (females) in MMR mutation carriers by maximum likelihood, using modified segregation analysis. The method was implemented in MENDEL (v3.3.5).14,15 Relatives were assumed to be followed up from 20 years of age and to be censored at the age at diagnosis of CRC, at the age of death, at the age of last follow-up evaluation, or at age 70, whichever occurred earlier. In estimating the risk of EC and CRC, female relatives were censored at age at diagnosis of EC or CRC, whichever was diagnosed first. Information on MMR mutation status in relatives was included whenever available. The segregation analysis implemented by MENDEL automatically handles missing genotype information by including allele frequencies as parameters in the likelihood and marginalizes the observed joint likelihood of phenotype and genotype of the pedigree over the unobserved genotype matrix, summing over all possible genotype configurations for the unobserved genotype matrix of the pedigree. For individuals with missing age information the age was imputed based on the subject's relationship with the proband, deceased status (dead or alive at last follow-up evaluation), and their relationship to the
+
+proband by the conditional mean of observed age in a
+
+given strata defined by these 2 variables. As an example, if
+
+the proband's unaffected father had missing data on age
+
+and he was reported as still alive, we imputed his age by
+
+using the average age among all fathers who were living.
+
+This led to a more conservative penetrance estimate than
+
+imputation conditional on the disease status of the in-
+
+dividual. In addition, for cases with missing age of onset,
+
+we used current age as the age of diagnosis if current age
+
+was available. We also performed a sensitivity analysis
+
+without imputing the age information to ensure that the
+
+age imputation did not artificially inflate estimates of
+
+penetrance and relative risk.
+
+To correct for ascertainment, we maximized the con-
+
+ditional likelihood of observing the phenotypes (CRC
+
+and/or EC) and genotypes (mutations in MLH1, MSH2,
+
+and MSH6) of the entire pedigree; given the phenoty-
+
+pic and genotypic information of the index case and the
+
+phenotypic information of all CRC-affected, first-degree
+
+relatives of the index case. This choice of conditioning
+
+was based on the belief that subjects were ascertained
+
+because they had a family history of CRC. Given the
+
+usual ascertainment and referral of probands to cancer
+
+genetics clinics based on the diagnosis of CRC, this
+
+conditioning strategy seems reasonable. However, to as-
+
+sess the role of conditioning on the risk estimates, we
+
+conducted a sensitivity analysis by evaluating 3 more
+
+conditioning strategies16 and maximized the conditional
+
+likelihood given the following: (1) the phenotypic and
+
+genotypic information of the index case and the pheno-
+
+typic information of all first-degree relatives (affected and
+
+unaffected by CRC) of the index case; (2) the phenotypic
+
+and genotypic information of the index case and the
+
+phenotypic information of the entire pedigree; and (3)
+
+the phenotype and genotype of just the index case, which
+
+resulted in a much higher estimate of the risk than the
+
+other 3 ascertainment correction schemes. The results of
+
+the sensitivity analysis are available at: http://www.sph.
+
+umich.edu/bhramar/public_html/software/supplementary-
+
+2.doc.
+
+Cancer incidence in carriers was assumed to follow a
+
+proportional hazards model, with (t)  0(t)exp[g(t)], where 0(t) is the background incidence, which was as-
+sumed to follow the population incidence from the Sur-
+
+veillance Epidemiology and End Results (SEER) 13 data-
+
+base (http://seer.cancer.gov). For CRC, the age- and sex-
+
+specific relative risks in carriers as compared with the
+
+sex-specific population rates are modeled through the
+
+function exp[g(t)]. For males and females we estimated
+
+the age-specific log hazard ratio parameters for the 2
+
+age intervals of younger than age 50 and age 50 or older.
+
+The function g(t) takes the form
+
+n k1
+
+expik,
+
+a
+
+piece-
+
+wise constant HR in the kth age band k  1, 2 and ith
+
+gender where i  male, female. When considering EC and
+
+either EC or CRC in females the age-specific relative risks
+
+in carriers as compared with the population rates were
+
+November 2009
+
+RISK OF CANCER IN LYNCH 1623
+
+CLINICAL­ ALIMENTARY TRACT
+
+modeled similarly through the function exp[g(t)]. We
+
+estimated the age-specific log hazard ratio parameters
+
+for the 2 age intervals younger than age 50 and age 50 and
+
+older, assuming that g(t) 
+
+n k1
+
+expk,
+
+a
+
+piecewise
+
+con-
+
+stant HR in the kth age band k  1, 2. In all analyses,
+
+cancer incidences in noncarriers were assumed to follow
+
+the population cohort-specific rates as obtained through
+
+SEER 13.
+
+To construct confidence intervals (CIs) for the log(HR)
+
+estimates, we assumed that the maximum likelihood
+
+estimates of the parameters were asymptotically normally
+
+distributed with covariance matrix given by the inverse of
+
+the Fisher information matrix. Cumulative risk (eg, pen-
+
+etrance) and 95% CIs were calculated from the cumu-
+
+lative incidence (t) given by t 
+
+n k1
+
+iktk
+
+expk,
+
+where ik is the population incidence, tk is the length, and
+
+k is the logHR in the kth age interval (and in the case
+
+of CRC this is sex-specific). The cumulative risk is given
+
+by Ft  1  expt and a 95% CI for
+
+F(t) is 1  exp[(t)  1.96 Var((t))]
+where
+
+Var((t))
+
+nn
+
+  ik2t2k exp[2k]Var(k)  2
+
+ikiJtktj
+
+k1 jk,k1
+
+[Var(k)Var(j)]1/2 exp(k  j) corr(k, j).15
+
+Results
+A total of 147 families with deleterious mutations in MLH1, MSH2, and MSH6 were identified, including 80 families from the Dana-Farber Cancer Institute and 67 from the University of Michigan Cancer Center. A total of 6342 individuals were included in the analysis: 147 probands, 1017 first-degree relatives, and 5178 other more distant relatives from the affected side of the family. The breakdown of MMR gene mutations among families was as follows: MLH1 in 55 (37.4%), MSH2 in 81 (55.1%), and MSH6 in 11 (7.5%). Overall, pathogenic gene mutations had been detected in 302 of 6342 (4.8%) individuals, and the numbers of subjects genotyped (200 at the University of Michigan Cancer Center and 232 at the Dana-Farber Cancer Institute) was similar between the centers. Additional characteristics of study families are summarized in Table 1.
+Risk of CRC
+A total of 628 cases of CRC were identified (University of Michigan Cancer Center, 251; Dana-Farber Cancer Institute, 377). The median age at diagnosis was 42 years for men (range, 16 ­ 88 y) and 47 years for women (range, 20 ­ 85 y). Among those affected, 68.3% of
+
+Table 1. Characteristics of Study Population by Study Center
+
+UMCC
+
+DFCI
+
+Total
+
+Number of probands/ pedigrees
+Number of FDRs Total number of individuals Number of females Ratio, male:female Number of males Number of subjects
+genotyped Number of mutation-
+positive subjects Mutated gene, number of
+pedigrees (%) MLH1 mutation type
+Indels Large deletions Missense Nonsense Splice site MSH2 mutation type Indels Large deletions Missense Nonsense Splice site Duplication Unknown MSH6 mutation type Indels Nonsense
+
+67
+459 2660 1265 1:1 1395
+200
+144
+18 (26.9%) 7 4 2 1 4
+42 (62.7%) 16 11 4 5 4 1 1
+7 (10.4%) 6 1
+
+80
+558 3682 1782 1:1 1900
+232
+158
+37 (46.3%) 9
+10 2 6
+10 39 (48.8%)
+11 16
+3 6 2 1 0 4 (5.0%) 4 0
+
+147
+1017 6342 3047 1:1 3295
+432
+302
+55 (37.4%) 16 14 4 7 14
+81 (55.1%) 27 27 7 11 6 2 1
+11 (7.5%) 10 1
+
+UMCC, University of Michigan Cancer Center; DFCI, Dana-Farber Cancer Institute; FDR, first-degree relative; Indels, insertion deletion mutation.
+
+males and 56.6% of females had been diagnosed with CRC before the age of 50 years.
+Age-specific cumulative risks of CRC by decade compared with SEER population rates are shown in Table 2 and Figure 1. For men with MMR mutations the risk of CRC significantly exceeds the risk in the general population by age 30, and by age 50 is estimated at 33.21% (95% CI, 29.33­ 40.71). Women who carry MMR mutations significantly exceed the population risk of CRC by age 40, and by age 50 have a risk of 16.89% (95% CI, 13.52­22.4). The risk of CRC continues to increase, and by age 70 the lifetime risk for CRC in MMR gene mutation carriers is estimated at 66.08% (95% CI, 59.47%­76.17%) for men and 42.71% (95% CI, 36.57%­52.83%) for women. The overall hazard ratio (HR) for CRC is significantly higher for men at 148.4 (95% CI, 114.6 ­192.2), compared with 51.1 (95% CI, 40.8 ­ 64.0) for women (Table 3).
+Risk of EC and Cumulative Cancer Risk in Women
+A total of 155 cases of EC were identified (University of Michigan Cancer Center, 50; Dana-Farber Cancer Institute, 105). The median age at diagnosis was 47.5 years (range, 29 ­73 y) and 56% of cases were diagnosed
+
+CLINICAL­ ALIMENTARY TRACT
+
+1624 STOFFEL ET AL
+
+GASTROENTEROLOGY Vol. 137, No. 5
+
+Table 2. Age-Specific Cumulative Risk of CRC and EC for Male and Female MMR Gene Mutation Carriers Compared With SEER Population Rates to Age 70 (SEER 13)
+
+CRC, males
+
+CRC, females
+
+Age, y
+
+Cumulative risk population, %
+
+Cumulative risk MMR carriers, %
+
+Cumulative risk MLH1 carriers, %
+
+Cumulative risk MSH2 carriers, %
+
+Cumulative risk population, %
+
+Cumulative risk MMR carriers, %
+
+Cumulative risk MLH1 carriers, %
+
+20 0 30 0.01 40 0.04 50 0.17 60 0.63 70 1.88
+20 0 30 0.01 40 0.05 50 0.24 60 0.79 70 1.67
+
+0 1.85 9.59 33.21 44.27 66.08
+
+0 2.83 14.35 46.20 75.64a 97.23a
+
+EC, females
+
+00
+
+0.58
+
+0.49
+
+4.06
+
+3.41
+
+16.36
+
+13.91
+
+26.11
+
+21.61
+
+39.39
+
+32.50
+
+0 1.43 7.47 26.71 34.47 51.77
+0 0.69 4.78 19.03 30.06 44.66
+
+0 0.01 0.04 0.16 0.52 1.44
+0 0.02 0.09 0.39 1.30 3.08
+
+0 0.91 4.49 16.89 25.16 42.71
+
+0 1.30 6.39 23.35 33.04 52.56
+
+CRC or EC, females
+
+00
+
+1.46
+
+1.72
+
+8.55
+
+10.01
+
+31.27
+
+35.76
+
+50.05
+
+56.93
+
+73.42
+
+80.46
+
+aMaximum likelihood estimates that are less stable because of sparsity of data in certain gene-specific configurations.
+
+Cumulative risk MSH2 carriers, %
+0 0.71 3.51 13.42 21.72 39.46
+0 1.44 8.48 31.08 50.22 73.83
+
+before age 50. Age-specific cumulative risks of EC by decade compared with SEER population rates are shown in Table 2 and Figure 1. The risk of EC in MMR gene mutation carriers is significantly higher than in the gen-
+
+eral population by age 40, and by age 50 is 16.36% (95% CI, 11.77%­20.72%). By age 70 the lifetime risk of EC is estimated at 39.39% (95% CI, 30.78%­ 46.94%). The overall HR for EC was 39.0 (95% CI, 30.4 ­50.2) (Table 3).
+
+Figure 1. Cumulative risk of CRC by sex in MMR gene mutation carriers compared with the SEER population (top left, males; top right, females). EC in females (bottom left) and either CRC or EC in females (bottom right) in MMR carriers and the population. The 95% CIs are reported at age 50 and at age 70.
+
+November 2009
+
+RISK OF CANCER IN LYNCH 1625
+
+CLINICAL­ ALIMENTARY TRACT
+
+Table 3. Age-Specific and Overall HR for CRCs and ECs for MMR Gene Mutation Carriers
+CRC, males
+
+CRC, females
+
+Age, y
+20­49 50­69 Overall HR
+20­49 50­69 Overall HR
+
+HR MMR carriers (95% CI)
+262.7 (214.7­321.5) 42.3 (30.7­58.4)
+148.4 (114.6­192.2)
+76.0 (56.3­102.5) 22.4 (15.5­32.2) 39.0 (30.4­50.2)
+
+HR MLH1 carriers (95% CI)
+403.4a (312.9­525.6) 185.3 (113.0­303.9) 342.0a (264.5­442.1)
+EC, females 63.7 (36.6­110.8) 16.9 (8.3­34.3) 31.4 (19.7­50.2)
+
+HR MSH2 carriers (95% CI)
+202.3 (151.0­270.9) 26.1 (16.6­41.3) 78.1 (56.9­107.1)
+89.8 (62.6­128.8) 26.4 (16.8­41.5) 47.0 (34.6­64.0)
+
+HR MMR carriers (95% CI)
+
+HR MLH1 carriers (95% CI)
+
+128.0 (97.6­168.0) 31.2 (22.4­43.4) 51.1 (40.8­64.0)
+96.1 (77.2­119.8) 34.7 (25.7­46.9) 65.5 (52.4­81.9)
+
+184.1 (128.2­264.4) 40.2 (25.5­63.3) 75.8 (56.0­102.6)
+CRC and EC, females 113.5 (80.9­159.0)
+43.5 (27.3­69.4) 78.8 (57.1­108.7)
+
+HR MSH2 carriers (95% CI)
+99.7 (65.7­151.3) 30.0 (18.5­48.4) 46.4 (33.0­65.3)
+95.4 (71.3­127.7) 35.4 (23.5­53.4) 67.6 (49.9­91.5)
+
+aMaximum likelihood estimates that are less stable because of sparsity of data in certain gene-specific configurations.
+
+A relatively small number of female MMR gene mutation carriers in this cohort were diagnosed with both CRC and EC (46 of 3047 female relatives). Recognizing that women are at risk for both CRC and EC, we calculated the risk of being diagnosed with either CRC or EC. The joint analysis of CRC and EC in females yields a cumulative lifetime risk by age 70 of 73.42% (95% CI, 63.76%­ 80.54%) for developing either cancer, with an overall HR of 65.5 (95% CI, 52.4 ­ 81.9).
+Risks of Cancer by MMR Genotype
+Of the 628 cases of CRC, 302 (48%) occurred in MLH1 families, 301 (48%) in MSH2 families, and 25 (4%) in MSH6 families. In men, the cumulative risk of CRC by age 70 was 97.3% and 51.8% for MLH1 and MSH2 mutation carriers, respectively, and the overall HR was significantly higher for mutations in MLH1 compared with MSH2 (HR, 342; 95% CI, 264 ­ 442 vs 78.1, 95% CI, 56.9 ­ 107.1). In our dataset, the exact magnitude of HR and penetrance estimates for CRC in MLH1 male carriers were found to be sensitive to the conditioning strategies and choice of number of independent age-specific HR parameters used in the model. However, irrespective of the analytic strategy, the HR corresponding to CRC in men with an MLH1 mutation always was estimated to be greater than 200. In women, the lifetime risk of CRC was 52.6% and 39.5% for MLH1 and MSH2 carriers, respectively; however, differences between overall HR did not achieve statistical significance (MLH1 HR, 75.8; 95% CI, 56 ­103 vs MSH2 HR, 46.3; 95% CI, 33­ 65). The small number of CRC cases contributed by MSH6 families afforded limited power in calculating the cumulative risk of CRC for male MSH6 carriers (HR, 5.8; 95% CI, 0.9 ­ 34.7) and precluded calculation of the corresponding risk estimates for women.
+Of the 155 cases of EC, 50 (32%) occurred in MLH1 families, 95 (61%) in MSH2 families, and 10 (6.5%) in MSH6 families. The cumulative risk of EC by age 70 was 32.5% and 44.7% for female MLH1 and MSH2 carriers, respectively. HRs for EC for carriers of mutations in MLH1 (31.4; 95% CI, 20 ­50), MSH2 (47; 95% CI, 35­ 64), and MSH6 (18.3; 95% CI, 6 ­55) were not statistically different. The cumulative risk of developing either CRC
+
+or EC was similar for women with mutations in MLH1 and MSH2 (80.5% vs 73.83%).
+Discussion
+Our estimates of cancer risk using data from families with LS ascertained clinically through 2 US cancer centers reveal a cumulative risk of CRC and EC in male and female MMR gene mutation carriers of approximately 70% by age 70. We calculated an overall HR for CRC of 148.4 for men and 51.1 for women. CRC risk appears to be highest for male carriers of mutations in the MLH1 gene, with a HR of 342 (95% CI, 264 ­ 442.1). For women, the cumulative risk of EC approaches 40% by age 70, and when combined with the risk for CRC results in a lifetime cancer risk of 73%. Our data show that the cumulative risk for colon caner and EC continues to increase with age, with the most dramatic increase in age-specific HRs seen in individuals ages 20 ­ 49 years.
+Our risk estimates for CRC and EC in this large cohort of US families with LS further clarify the cancer experience of mutation carriers. These estimates are similar to those from European familial cancer registries6,8­10 and other more recent studies in smaller clinically ascertained cohorts.17 Interestingly, our risk estimates are considerably higher than those presented by other recently published studies that sought to control for ascertainment bias, as well as a recent analysis of a fairly large series of families from England without appropriate correction for ascertainment.18 By using ascertainment-corrected maximum likelihood estimation, Quehenberger et al11 analyzed cancer histories of 84 families with mutations in MLH1 or MSH2 from the Dutch hereditary nonpolyposis colorectal cancer registry and found a cumulative risk of CRC by age 70 of 26% for men and 22% for women, which led them to conclude that risk of CRC in LS is considerably lower than suggested by the original reports. In examining cancer histories of 17 families with MMR mutations, Jenkins et al12 calculated cumulative risks for CRC of 45% for men and 38% for women. In addition to concluding that risks of CRC were lower than expected, they reported that although CRC risk increases to age 50, the incidence decreases to general population
+
+1626 STOFFEL ET AL
+
+GASTROENTEROLOGY Vol. 137, No. 5
+
+CLINICAL­ ALIMENTARY TRACT
+
+levels at older ages.12 The recently published English series of 121 families18 included far fewer relatives (n  1420) than our series and did not use segregation analysis to estimate penetrance, making it difficult to directly compare our results. However, the penetrance estimates derived from our series of 147 families are higher than the English series as well.
+Our study, which used similar statistical methodology to control for ascertainment bias, yielded strikingly different risk estimates than those of Quehenberger et al11 and Jenkins et al.12 Our data show that the risk of CRC for MMR gene mutation carriers is already twice the population risk for males by age 30 and 4.5 times the population risk for females by age 40, and that the risks continue to increase with age. Our finding of the even more dramatic increase in CRC risk in males with MLH1 mutations corroborates the genotype­phenotype variability that has been observed in other cohorts of MMR mutation carriers.19,20 We found that the risk for EC is increased similarly for all female MMR mutation carriers. These results provide evidence in support of current cancer screening recommendations for LS, which include CRC screening every 1­2 years in all MMR gene mutation carriers beginning at age 20 ­25 and annual uterine cancer screening for women beginning at age 30 ­352 with the options of continued surveillance over the patients' lifetime or prophylactic surgery. In addition, our results provide new and important data that can be incorporated easily into computational software used routinely to estimate the lifetime risk of cancer among gene carriers, such as MMRpro.21
+Our study had several strengths. Our cohort of 147 families with MMR gene mutations was a large US study of lifetime cancer risks associated with LS. Our use of segregation analysis afforded many advantages to estimating cancer risk because it calculated the probability of being a mutation carrier for all relatives whose mutation status is unknown. By conditioning the analysis on the available phenotypic information from the pedigree, we were able to minimize ascertainment bias by excluding diagnoses of CRC in probands and first-degree relatives. By using this methodology in our large cohort of families identified through 2 clinical cancer genetics programs allowed us to calculate what we believe is a conservative estimate of cumulative and gene-specific cancer risk among MMR gene mutation carriers. Finally, our findings in this US cohort confirmed the substantially increased risk estimates for CRC and EC presented in the original descriptions of LS and show that, despite some variation by MMR genotype, these lifetime cancer risk estimates are generalizable between MMR mutation carriers seen in European cancer registries and in clinical cancer genetics programs in North America.
+Even so, we recognize that our study had certain limitations. This study of families with LS was not population-based. It is possible that families with MMR gene
+
+mutations that present to genetics clinics may be phenotypically different from those that do not seek genetic evaluation. However, the frequency of MMR gene mutations in the general population is so low and genetic evaluation still is so uncommon that even large, wellconducted, population-based study designs have been limited by very small sample sizes of carriers.4 Unconfirmed cancer diagnoses were another limitation. Unfortunately, a centralized reporting system for cancers does not exist in the United States; consequently, the cancer histories included in each family's pedigree were obtained mostly through proband reports and only a minority of cancer diagnoses had corresponding medical record confirmation. Although a number of studies have shown that patient reports of family cancer history are largely accurate,22,23 reports of gynecologic cancers may be less accurate,24 and it is likely that some cancers may have been misclassified. Nevertheless, in a study of this size with such a large number of CRCs and ECs, nondifferential misclassification would be expected to attenuate our findings and would be unlikely to alter our conclusions substantially. Missing information was a limitation; however, we imputed subject ages in a conservative manner and checked these in sensitivity analyses that showed no significant inflation of risk estimates. Our cohort contained only 11 families with mutations in MSH6, which provided limited power for comparison of risk estimates for this subgroup. Our methods required that we exclude CRC diagnoses in the probands and firstdegree relatives, which may have led us to underestimate cancer risk in carriers of MMR gene mutations.
+In summary, in this large study of US families we quantified the increased risks of CRC and EC associated with LS with improved precision relative to the published literature. We have clarified that these risks are substantial, clinically meaningful, and higher than recent reports that used similar statistical methods. MMR gene mutation carriers have a lifetime risk of developing either CRC or EC of 70% by age 70, which provides justification for current recommendations for early and continued intensive surveillance for these cancers. Although our findings suggest some phenotypic differences among MLH1, MSH2, and MSH6 mutation carriers, further study is needed to determine whether gene-specific cancer risks may warrant tailoring cancer screening recommendations by genotype, such as more intensive colorectal surveillance for male MLH1 mutation carriers.20
+References
+1. Lynch HT, de la Chapelle A. Hereditary colorectal cancer. N Engl J Med 2003;348:919 ­932.
+2. Lindor NM, Petersen GM, Hadley DW, et al. Recommendations for the care of individuals with an inherited predisposition to Lynch syndrome: a systematic review. JAMA 2006;296:1507­1517.
+3. Vasen HF, Mecklin JP, Khan PM, et al. The International Collaborative Group on Hereditary Non-Polyposis Colorectal Cancer (ICG-HNPCC). Dis Colon Rectum 1991;34:424 ­ 425.
+
+November 2009
+
+RISK OF CANCER IN LYNCH 1627
+
+CLINICAL­ ALIMENTARY TRACT
+
+4. Hampel H, Frankel W, Panescu J, et al. Screening for the Lynch syndrome (hereditary nonpolyposis colorectal cancer). N Engl J Med 2005;352:1851­1860.
+5. Umar A, Boland CR, Terdiman P, et al. Revised Bethesda Guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 2004;96: 261­268.
+6. Aarnio M, Mecklin JP, Aaltonen LA, et al. Life-time risk of different cancers in hereditary non-polyposis colorectal cancer (HNPCC) syndrome. Int J Cancer 1995;64:430 ­ 433.
+7. Aarnio M, Sankila R, Pukkala E, et al. Cancer risk in mutation carriers of DNA-mismatch-repair genes. Int J Cancer 1999;81: 214 ­218.
+8. Dunlop MG, Farrington SM, Carothers AD, et al. Cancer risk associated with germline DNA mismatch repair gene mutations. Hum Mol Genet 1997;6:105­110.
+9. Watson P, Lynch HT. Cancer risk in mismatch repair gene mutation carriers. Fam Cancer 2001;1:57­ 60.
+10. Vasen HF, Wijnen JT, Menko FH, et al. Cancer risk in families with hereditary nonpolyposis colorectal cancer diagnosed by mutation analysis. Gastroenterology 1996;110:1020 ­1027.
+11. Quehenberger F, Vasen HF, van Houwelingen HC. Risk of colorectal and endometrial cancer for carriers of mutations of the hMLH1 and hMSH2 gene: correction for ascertainment. J Med Genet 2005;42:491­ 496.
+12. Jenkins MA, Baglietto L, Dowty JG, et al. Cancer risks for mismatch repair gene mutation carriers: a population-based early onset case-family study. Clin Gastroenterol Hepatol 2006;4: 489 ­ 498.
+13. Alarcon F, Lasset C, Carayol J, et al. Estimating cancer risk in HNPCC by the GRL method. Eur J Hum Genet 2007;15:831­ 836.
+14. Lange K, Weeks D, Boehnke M. Programs for Pedigree Analysis: MENDEL, FISHER, and dGENE. Genet Epidemiol 1988;5:471­ 472.
+15. Antoniou A, Pharoah PD, Narod S, et al. Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies. Am J Hum Genet 2003;72:1117­1130.
+16. Cannings C, Thompson EA. Ascertainment in the sequential sampling of pedigrees. Clin Genet 1977;12:208 ­212.
+17. Hampel H, Stephens JA, Pukkala E, et al. Cancer risk in hereditary nonpolyposis colorectal cancer syndrome: later age of onset. Gastroenterology 2005;129:415­ 421.
+18. Barrow E, Robinson L, Alduaij W, et al. Cumulative lifetime incidence of extracolonic cancers in Lynch syndrome: a report of 121 families with proven mutations. Clin Genet 2009;75:141­149.
+
+19. Kastrinos F, Stoffel EM, Balmaña J, et al. Phenotype comparison of MLH1 and MSH2 mutation carriers in a cohort of 1,914 individuals undergoing clinical genetic testing in the United States. Cancer Epidemiol Biomarkers Prev 2008;17:2044 ­ 2051.
+20. Goecke T, Schulmann K, Engel C, et al. Genotype-phenotype comparison of German MLH1 and MSH2 mutation carriers clinically affected with Lynch syndrome: a report by the German HNPCC Consortium. J Clin Oncol 2006;24:4285­ 4292.
+21. Chen S, Wang W, Lee S, et al. Prediction of germline mutations and cancer risk in the Lynch syndrome. JAMA 2006;296:1479 ­ 1487.
+22. Murff HJ, Spigel DR, Syngal S. Does this patient have a family history of cancer? An evidence-based analysis of the accuracy of family cancer history. JAMA 2004;292:1480 ­1489.
+23. Douglas FS, O'Dair LC, Robinson M, et al. The accuracy of diagnoses as reported in families with cancer: a retrospective study. J Med Genet 1999;36:309 ­312.
+24. Sijmons RH, Boonstra AE, Reefhuis J, et al. Accuracy of family history of cancer: clinical genetic implications. Eur J Hum Genet 2000;8:181­186.
+Received May 8, 2009. Accepted July 8, 2009.
+Reprint requests Address requests for reprints to: Stephen B. Gruber, MD, MPH,
+PhD, Division of Epidemiology and Human Genetics, University of Michigan School of Public Health, 1524 BSRB, Ann Arbor, Michigan 48105. e-mail: sgruber@med.umich.edu; fax: (734) 647-7950.
+Acknowledgments The authors thank Antonis Antoniou for his technical advice in
+implementing the modified segregation analysis and penetrance models.
+E.S. and B.M. contributed equally to this work.
+Conflict of interest The authors disclose the following: Dr Syngal and Dr Gruber have
+been external advisors to Myriad Genetic Laboratories. The remaining authors disclose no conflicts.
+Funding This work was supported in part by the National Cancer Institute
+(RO1 CA81488 to S.B.G., K07 CA 120448-01-A2 to E.S., and K24 CA 113433 to S.S., R03 CA130045 to B.M.), the University of Michigan's Cancer Center Support Grant (5 P30 CA46592).
+
+

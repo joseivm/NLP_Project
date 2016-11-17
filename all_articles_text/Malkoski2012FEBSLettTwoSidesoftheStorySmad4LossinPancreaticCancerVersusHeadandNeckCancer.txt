@@ -1,0 +1,540 @@
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH Public Access
+Author Manuscript
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+Published in final edited form as: FEBS Lett. 2012 July 4; 586(14): 1984­1992. doi:10.1016/j.febslet.2012.01.054.
+Two sides of the story? Smad4 loss in pancreatic cancer versus head-and-neck cancer
+Stephen P. Malkoski1,2 and Xiao-Jing Wang2,* 1Division of Pulmonary Sciences and Critical Care Medicine, University of Colorado Anschutz Medical Campus, Aurora, CO 80045
+2Department of Pathology, University of Colorado Anschutz Medical Campus, Aurora, CO 80045
+Abstract
+TGF signaling Smads (Smad2, 3, and 4) were suspected tumor suppressors soon after their discovery. Nearly two decades of research confirmed this role and revealed other divergent and cancer-specific functions including paradoxical tumor promotion effects. Although Smad4 is the most potent tumor suppressor, its functions are highly context-specific as exemplified by pancreatic cancer and head-and-neck cancer: in pancreatic cancer, Smad4 loss cannot initiate tumor formation but promotes metastases while in head-and-neck cancer Smad4 loss promotes cancer progression but also initiates tumor formation, likely through effects on genomic instability. The differing consequences of impaired Smad signaling in human cancers and the molecular mechanisms that underpin these differences will have important implications for the design and application of novel targeted therapies.
+Keywords Fanconi Anemia; juvenile polyposis Smads; pancreatic cancer; squamous cell carcinomas; TGF signaling
+Introduction
+Mammalian Smads were discovered in 1996 as the intracellular signaling mediators of transforming growth factor  (TGF) and bone morphogenic protein (BMP) superfamily molecules and were named after their non-mammalian homologs (the Sma genes of C. elegans and the Mad (Mothers against decapentaplegic) gene from Drosophila) [1­3]. Smads regulate a variety of critical processes including embryonic development, fibrosis, tumor development, immune function, and wound healing [4]. TGF/BMP ligands initiate intracellular actions through transmembrane receptors that phosphorylate intracellular signaling molecules of the Smad family [5]. TGF signaling is mediated by receptorspecific Smads2/3 while BMP signaling is mediated by receptor-specific Smads1/5/8 (Fig. 1). Phosphorylated receptor Smads heterotrimerize with the common Smad (Smad4) and translocate into the nucleus where they bind Smad binding elements (SBEs) within the
+© 2012 Federation of European Biochemical Societies. Published by Elsevier B.V. All rights reserved. *Address correspondence to: Xiao-Jing Wang, MD, PhD, Department of Pathology, University of Colorado Anschutz Medical Campus, Bldg RC1-N, Rm P28-5128, Mail Box 8104, 12800 E. 19th Ave, Aurora, CO 80045, XJ.Wang@UCDenver.edu. Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 2
+
+regulatory elements of TGF/BMP responsive genes [5]. Inhibitory Smads (Smad6 and Smad7) are also upregulated after TGF/BMP ligand binding, antagonize receptor-specific Smad actions through a variety of mechanisms, and serve as an endogenous negative feedback system to receptor Smad signaling [6]. Smad binding at SBEs modulates gene expression though recruitment of cell- or tissue-specific co-activators or co-repressors to target gene promoters [5,7].
+Because TGF inhibits epithelial cell growth and promotes differentiation, defects in TGF/ BMP signaling frequently promote tumor growth, and numerous molecules in these pathways including TGFRI, TGFRII, and Smad4 are established tumor suppressors [8]. However, epithelial cells with impaired TGF signaling frequently release additional TGF into the tumor microenvironment which can paradoxically promote tumor growth and progression by stimulating angiogenesis and inflammation within the stromal compartment where TGF signaling remains intact [9]. TGF/BMP ligands can also signal through noncanonical pathways including ERK, p38/JNK (c-jun activated kinase), Rho/Rac, and phosphatidylinositol-3-kinase (PI3K)/AKT; these pathways can be independent of, or cooperate with, Smad signaling [10].
+Since Smads 2, 3, and 4 are all required for TGF-induced growth arrest [11], these molecules were suspected tumor suppressors soon after their discovery. For Smad4, this role was clearly substantiated by the identification of Smad4 as "Deleted in Pancreatic Cancer 4 (DPC4)" which lies within a region of chromosome 18q frequently lost in pancreatic cancer [12] and the observation that germ-line Smad4 mutations cause juvenile polyposis (JP), a condition characterized by intestinal polyp formation early in life and a lifetime gastrointestinal cancer risk of ~50% [13]. Studies in the past two decades have shown that Smad signaling is highly tissue and tumor specific. This review compares and contrasts the role of Smad4 loss in cancers arising from simple epithelia (as exemplified by pancreatic cancer) with squamous carcinomas arising from stratified epithelia (as exemplified by headand-neck and esophageal cancer) to highlight the different consequences of impaired Smad signaling in human cancer.
+
+The role of Smad4 loss in pancreatic cancer
+Pancreatic cancer, the 4th leading cause of cancer death in the US with a 5-year survival of ~6% [14], progresses though a series of pre-neoplastic lesions with characteristic genetic alterations [15]. Activating Kras mutations are the most common initiating event and are found in >95% of pancreatic cancers [16]. Kras activation is typically followed by loss of tumor suppressors, including p16INK4a [17], p53 [18] and Smad4 [12] that then allow progression of pre-neoplastic lesions to full malignancy. Smad4 loss occurs late in the development of pancreatic cancer [19] and has been associated with metastatic disease [20]. Although both Smad4 mutation [21] and reduced expression [22] have been independently associated with reduced survival, the relationship between reduced Smad4 expression and worse clinical outcome has not been consistently observed [23].
+
+Although Smad4 was initially identified as DPC4 [12] and is lost in at least 55% of pancreatic cancers through a combination of loss of heterozygosity (LOH) [12] and intragenetic mutation [21], in the presence of multiple other mutations (Kras activation, p16INK4 loss, p53 loss), the role of Smad4 loss in human pancreatic cancer can only be evaluated at a correlative level. Since the rate of reduced Smad4 immunostaining (57%) is similar to that of genetic loss (deletion (45%) plus mutation (38%), see Table 1), genetic loss appears to explain the bulk of reduced Smad4 expression in pancreatic cancer. Germline Smad4 mutations are not associated with pancreatic tumors in humans [13], suggesting that Smad4 loss does not initiate human pancreatic cancer formation.
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 3
+
+Several groups have used pancreatic-specific Cre recombinase strategies to study the role of
+Smad4 loss in both initiating and promoting pancreatic cancer development. Smad4 deletion
+mediated by the pancreas-specific Pdx1-Cre driver [24] or Ptf1a(p48)-Cre driver [25] had no
+discernible effect on pancreatic development and did not initiate pancreatic tumors
+formation in mice out to 70 weeks of age. However, Smad4 loss markedly promoted tumor development initiated by KrasG12D activation and KrasG12D.Smad4-/- tumors exhibited
+both increased proliferation and tumor stromal formation [26]. Interestingly, Smad4 deletion
+increased the proportion of well-differentiated tumors initiated by a combination of Kras activation and p16Ink4a deletion [26], suggesting that TGF/Smad4 signaling promotes epithelial-mesenchymal transition (EMT) and that Smad4 loss prevents de-differentiation
+and EMT. Nevertheless, Smad4-/- tumors metastasized more frequently than Smad4+/+
+tumors, suggesting that EMT does not always correlate with metastasis and is not the
+primary form of tumor invasion driven by Smad4 loss [27]. Two other studies confirmed that Smad4 deletion accelerated KrasG12D-initiated pancreatic tumor formation and also reported that Pdx-Cre.KrasG12D.Smad4-/- mice develop squamous cell carcinomas in the
+forestomach or distal esophagus as well as mucinous pancreatic lesions [27,28]. Mechanistically, KrasG12D.Smad4-/- pancreatic tumor cells exhibited no genomic
+instability [27]. In another study, Smad4 deletion accelerated growth and progression of
+hyperplastic pancreatic lesions initiated by PTEN deletion, perhaps through mechanisms
+involving activated Notch signaling and trans-differentiation [29]. In sum, these studies
+demonstrate that Smad4 loss cannot initiate pancreatic tumor formation, but promotes pancreatic tumor progression and increases metastases independent of TGF-mediated EMT.
+
+The role of Smad4 loss in upper aerodigestive tract malignancies: head-
+and-neck squamous cell carcinoma (HNSCC) and esophageal squamous
+cell carcinoma (ESCC)
+Squamous cell carcinomas (SCCs) arising from stratified squamous epithelial tissues of the upper aerodigestive track cause at least 20,000 deaths per year in US [14]. It has been consistently reported that Smad4 LOH occurs in ~30­50% of HNSCC and ESCC [30­35]. However, Smad4 point mutations are uncommon, occurring in <5% of these malignancies [30,36] (compared to ~35% of pancreatic cancer and ~12% of colon cancer; see Table 1). The significantly higher rates of LOH compared to mutation are consistent with genetic abnormalities in human cancer i.e., for an average size gene, LOH occurs at a rate of 10-4 per cell division while point mutations occur at a rate of 10-7 per cell division [37]. In both HNSCC and ESCC, reduced Smad4 immunostaining is associated with more aggressive tumor behavior [38­41]. However, reports of reduced Smad4 expression in human HNSCC and ESCC vary significantly from as low as 12% (Xie, et al., in press; M. Reiss personal communication) to as high as 86% [34]. These differences are likely explained by a combination of the criteria used to define reduced Smad4 expression and the control group against which Smad4 expression was compared (i.e., adjacent non-malignant tissue versus normal tissue from unrelated individuals). For instance complete Smad4 protein loss was reported in 12% of HNSCC (Xie, et al., in press; M. Reiss personal communication) and 63% of ESCC [40,41] while reduced Smad4 protein has been reported in 35% of HNSCC [38,39] (see Table 1). When we compared HNSCC and non-malignant adjacent mucosa with oral mucosa from patients without cancer, we found reduced Smad4 mRNA expression in 31/36 (86%) of HNSCC samples and in 24/36 (67%) of non-malignant adjacent mucosa [34]. Importantly, Smad4 immunostaining correlated with reduced mRNA expression [34]. We used a 50% reduction of mRNA expression to classify individual samples as "reduced" based on the finding that Smad4 haploid insufficiency promoted tumor development in our HNSCC animal model [34] (see below). Using these same criteria, had we compared Smad4
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 4
+
+mRNA expression in tumors to adjacent non-malignant mucosa where Smad4 reduction has already occurred in some cases, we would have reported significantly less Smad4 reduction in HNSCC (17/36 or 47%) [34]. Since loss of at least one Smad4 copy has been consistently reported in 30­50% of HNSCC [31­34], reduced Smad4 immunostaining in less than 30% of HNSCC cases should raise questions about antibody specificity. Further, it remains to be determined if patient population, etiological factors (e.g., tobacco vs. HPV), or sample storage method or length of time potentially contribute to the variation reported with reduced Smad4 in HNSCC.
+In contrast to pancreatic cancer, our finding of Smad4 downregulation in preneoplastic oral mucosa suggests that Smad4 downregulation is an early event in human HNSCC development. To understand the role of Smad4 loss in HNSCC, we deleted Smad4 specifically in mouse oral epithelia and found that Smad4 loss caused spontaneous HNSCC formation [34]. Although deletion of a single Smad4 allele did not initiate HNSCC formation, it markedly accelerated HNSCC development initiated by oncogenic KrasG12D activation [34], suggesting that Smad4 haploid insufficiency with a commensurate 50% Smad4 protein reduction could promote oncogene-initiated tumor development. Similarly, Smad4 haploid insufficiency also promoted the development of ESCC from PTEN deletion initiated hyperplasia [42]. With the observation that Smad4 downregulation occurs early in HNSCC development, these studies show that, in contrast to pancreatic cancer, Smad4 loss can initiate HNSCC formation.
+One of our most intriguing findings may explain why Smad4 deletion initiated HNSCC development: in oral mucosa and HNSCC, Smad4 deletion down-regulates the Fanc/Brca (Fanconi Anemia Complementation/Breast cancer susceptibility) genes critical for maintaining genomic stability [34]. Germline mutations within this pathway cause Fanconi Anemia (FA) and while many FA patients die of chromosome instability-associated bone marrow failure as children [43], bone marrow transplants have allowed more FA patients to survive to adulthood where they subsequently they have a risk of HNSCC 500­700 fold higher than the general population and develop tumors at a median age of 27 years [44]. Smad4-loss dependent downregulation of Fanc/Brca expression and subsequent genomic instability may allow the accumulation of the genetic defects required for HNSCC initiation. Our study showed that downregulation of Fanc/Brca genes occurred within pre-malignant Smad4-/- oral epithelium, well before the development of overt malignancy, and Smad4-/- HNSCC had increased genomic instability as evidenced by increased centrosome number, genomic aberrations by aCGH, and sensitivity to the DNA damaging agent mitomycin C [34], all of which are characteristic of FA cells [44]. In addition, forced Smad4 expression in a Smad4-deficient cell line increased Brca1 and Rad51 expression with a commensurate increase in the appearance of these molecules at DNA repair nuclear foci [34]. Importantly, in human HNSCC and non-malignant adjacent oral epithelium, reduced Smad4 immunostaining correlated with reduced immunostaining for both Brca1 and Rad51 [34], suggesting that Fanc/Brca downregulation after reduced Smad4 expression also occurs in human HNSCC. Since mice with single Fanc gene deletions do not develop HNSCC [45], it is possible that downregulation of multiple Fanc/Brca genes after Smad4 loss eliminates functional compensation among Fanc/Brca complementation groups, hence facilitating HNSCC initiation. Our study also suggests intrinsic differences in the role of Smad4 regulation of Fanc/Brca, and consequently genomic stability, in the upper and lower digestive tract (or stratified versus simple epithelia layers). Although Smad4 loss is common late in pancreatic and colon cancer, targeted Smad4 deletion to the pancreas did not initiate pancreatic cancer [24,25], perhaps because Smad4 does not regulate Fanc/Brca genes in simple epithelium; a hypothesis is supported by the observation that Smad4-/- pancreatic tumors did not exhibit genomic instability [27]. An alternative hypothesis, which is supported by the observation that FA patients do not have an increased incidence of colon or
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 5
+
+pancreatic cancer, despite their susceptibility to HNSCC [43], is that, like hematopoietic cells, simple epithelial cells with Fanc/Brca down-regulation (regardless of whether mediated by Smad4 loss or not) may undergo apoptosis that prevents them from developing into cancer.
+Another potential mechanism related to the initiation capacity of Smad4 loss in HNSCC is Smad4 loss-associated inflammation. Mice with Smad4 deletion in T cells developed inflammation in the gastrointestinal tract and lower intestinal malignancies reminiscent of juvenile polyposis (JP) as well as oral SCCs [46]. Similarly, our murine Smad4-/- HNSCC have increased expression of inflammatory cytokines with an associated infiltration of neutrophils, T cells, and Th17 cells [34]. Interestingly, Smad4 loss-associated submucosal inflammation was abrogated in a Smad3+/- background, suggesting that inflammation in Smad4-/- HNSCC requires Smad3-dependent TGF signaling. Supporting this notion, Smad4-/- HNSCC expressed more TGF1 ligand and had evidence of increased signaling through both Smad3 and phospho-Smad1/5/8 in tumor epithelial cells [34], consistent with increased BMP signaling after TGF signaling disruption [47]. Hence, it is likely that Smad3-dependent inflammation after Smad4 deletion reflects Smad3-mediated chemokine/ cytokine production by epithelial cells. Consistent with our study, loss of pSmad2/3 staining in human HNSCC was associated with improved survival (Xie, et al., in press; M. Reiss personal communication), further supporting the tumor promoting effect of epithelial Smad3 activation in human HNSCC. These studies also highlight the context-specific nature of TGF signaling in immune response, as Smad3 loss in T cells abrogates TGF-induced immune suppression [48] while Smad3 loss in epithelial cells abrogates pro-inflammatory TGF actions [34].
+Consistent with the finding in pancreatic cancer that Smad4 is required for TGF-mediated EMT but that EMT is not always required for metastasis, Smad4-/- SCCs do not undergo early-stage EMT [49] but retain the ability to metastasize [34]. Similarly, although ESCC induced by simultaneous PTEN and Smad4 deletion retain terminal differentiation markers early in carcinogenesis, they also metastasize [42]. That Smad4-/- tumors retain the ability to metastasize in the absence of EMT, suggests that Smad4 loss promotes metastases through other mechanisms such as increased inflammation and angiogenesis within the tumor associated stroma. Overall the phenotype of murine Smad4-/- HNSCC (reduced FA/ Brca expression, lack of EMT) suggests that human HNSCC with reduced Smad4 expression may be more sensitive to specific therapies. For example, epidermal growth factor receptor (EGFR) inhibitors are more effective in HNSCCs that retain E-cadherin expression [50] and poly(ADP-ribose) polymerase (PARP) inhibitors are more effective in tumors with Fanc/Brca defects [51,52].
+
+Smad4 loss in cancers similar to pancreatic cancer: colon cancer,
+cholangiocarcinoma, and prostate cancer
+Colorectal cancer, is the 2nd leading cause of cancer death with ~140,000 new cases and ~50,000 deaths per year in the US [14], and also progresses through a series of preneoplastic lesions with well-known genetic alterations [53,54]. Polyp formation is typically initiated by APC (adenomatous polyposis coli) gene inactivation [55,56]; Kras mutation and p53 inactivation then allow adenoma growth and progression to carcinoma [57,58]. Similar to pancreatic cancer, Smad4 loss occurs through a combination of genetic deletion or mutation, is present in ~40­50% of colon cancers, occurs around the transition from benign to invasive carcinoma [59], and is associated with metastasis, advanced disease, and reduced survival [60­63]. Although germline Smad4 mutations are found in ~20% of juvenile polyposis (JP), a rare autosomal disease characterized by numerous intestinal polyps and a lifetime colon cancer risk of ~50% [13], not all germline Smad4 mutations cause JP [64].
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 6
+
+In mice, homozygous germline Smad4 deletion is lethal between embryonic days 6.5 and 8.5 due to failure of mesoderm induction [65,66]. Consistent with JP caused by heterozygous Smad4 loss in humans, mice with heterozygous germline Smad4 deletion also develop inflammatory polyps in the glandular stomach and duodenum beginning at about 1y of age [67,68]. These polyps occur after loss of the second Smad4 allele, have an inflammatory stromal component that resembles the polyps seen in human JP [69], and can eventually degenerate into carcinoma [67,68]. The long latency of inflammatory polyp formation suggests that epithelial Smad4 loss alone may be insufficient for tumor initiation. Supporting this notion, Smad4 deletion in T cells causes intestinal inflammation and intestinal tumors that are also reminiscent of the lesions seen in human JP [46], suggesting that Smad4 signaling in T cells plays a critical role in tumor suppression, particularly in the GI tract, and that tumorigenesis in JP or heterozygous germline Smad4 deletion may be related to Smad4 loss in the immune system as opposed to Smad4 loss in epithelial cells [70]. Similar to pancreatic cancer, Smad4 loss plays an important role in tumor promotion in colon cancer. Heterozygous Smad4 loss promotes the development of colon cancers initiated by germline APC gene deletion [66] and APC+/-Smad4-/- tumors recruit immature CD34+/CCR1+ myeloid cells to the tumor front that then promote tumor invasion [71], again suggesting inflammation as an important component of colon cancer initiation. In aggregate, both clinical and animal studies suggest that Smad4 loss in simple epithelia may not initiate cancer formation, but clearly promotes cancer growth and progression. Conversely, while JP patients with heterozygous Smad4 mutations are markedly susceptible to colon cancer, they do not have an increased incidence of HNSCC or other cancers arising from squamous epithelia [13], implying that loss of one Smad4 allele does not select mutant Fanc/Brca cells for outgrowth or is insufficient to downregulate the Fanc/Brca pathway and cause tumor formation in head-and-neck tissue.
+Other mouse models of Smad4 deletion have deepened and supported the findings outlined above. For example, Smad4 deletion targeted to the liver with an albumin-Cre driver did not initiate cholangiocarcinoma formation but homozygous Smad4 deletion promoted development of cholangiocarcinoma initiated by PTEN deletion [72]. This suggests the role of Smad4 in cholangiocarcinoma and pancreatic cancer may be similar; that Smad4 immunostaining is lost in 45% of cholangiocarcinomas and is associated with more aggressive tumor behavior supports this idea [73]. A similar pattern occurs in prostate cancer. Prostate specific Smad4 deletion did not initiate cancer formation but increased both prostate cancer progression initiated by PTEN deletion and the frequency of metastases to local lymph nodes and lung [74]. Similar to SCCs [75,76], cyclin D1 upregulation may mediate tumor promotion after Smad4 loss in pancreatic cancer [74]. In human prostate cancer, Smad4 LOH occurs in ~25% of cases [77] and Smad4 mutations are uncommon [77], but promoter methylation may contribute to reduced Smad4 expression [78].
+
+Smad4 loss in cancers similar to HNSCC: SCCs arising from skin and
+mammary glands
+Similar to HNSCC, we found Smad4 LOH in 57% of human skin SCCs with reduced Smad4 immunostaining in 70% [49]. Although it remains to be determined whether Smad4 downregulation occurs early in skin SCC, various mouse models show that Smad4 loss can initiate skin SCC. Keratinocyte-specific Smad4 deletion mediated by K5-Cre interrupted hair follicle cycling causing hyperproliferative hair follicles, progressive hair loss, and predominantly well-differentiated skin SCCs consistent with both the role of Smad4 as an in initiator in stratified epithelia and the critical role of Smad4 in mediating TGF-dependent EMT [75]. Smad4 deletion driven by mouse mammary tumor virus (MMTV)-Cre caused a similar skin phenotype with hair loss, disruption of hair follicle differentiation, and the formation of well-differentiated SCC [76]. Our unpublished data reveal that Smad4 loss
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 7
+
+initiates tumor formation by disrupting DNA repair mechanisms similar to that observed in HNSCC. Similar to HNSCC, Smad4 loss activates survival factors including increased AKT signaling, activation of cyclin D1, and increased c-myc expression [75,76] which promotes the growth of Smad4-/- skin stem cells resulting the development of multiple cancer types including sebaceous adenomas and basal cell carcinomas [75,76]. Smad4 loss also promotes PTEN deletion-initiated skin tumor formation [75]. Similar to HNSCC, Smad4-/- skin SCC has increased angiogenesis and inflammation [79]. Interestingly, Smad4 deletion targeted to the mammary gland (by either MMTV-Cre or WAP-Cre) causes mammary abscesses and mammary tumors with transdifferentiation to squamous histology and blockade of EMT [80]. These data clearly demonstrate that Smad4 loss initiates SCC formation and promotes tumor progression through increased inflammation and angiogenesis while preventing TGF-dependent EMT.
+
+Smad2 loss and cancer
+Smad2 maps to 18q21, near the Smad4 locus [81]; however, Smad2 genetic losses have not been described in pancreatic cancer. Although Smad2 mutations occur infrequently in colon cancer (~5%) [81,82], reduced Smad2 immunostaining has been associated with shortened survival [83]. Germline Smad2 deletion in mice is embryonic lethal due to gastrulation failure [84­87], but Smad2 heterozygotes are viable, fertile, and do not develop spontaneous tumors [88]. Smad2 deletion has not been specifically targeted to either the pancreas or colon but Smad2+/-APC+/- compound heterozygotes had larger and more invasive colonic tumors than APC+/- controls without an increase in tumor number [88]. These studies suggest that while Smad2 functions as a tumor suppressor in cancers arising from simple epithelia, Smad2 loss alone is insufficient to initiate tumor formation.
+Smad2 downregulation is more common in SCCs than in simple epithelial tumors. Although Smad2 mutations and deletions are infrequent in both primary HNSCC and HNSCC cell lines [32,89,90], Smad2 LOH was detected in 63% of HNSCC cell lines [33]. Similarly, we found that 70% of skin SCCs (and 100% of poorly differentiated skin SCCs) had reduced Smad2 immunostaining [49]. Among poorly differentiated skin SCCs, 94% had a >50% reduction in Smad2 mRNA expression compared to normal skin; of these samples, 67% exhibited Smad2 LOH [49]. These observations show that while Smad2 mutations and deletions are uncommon in SCCs, Smad2 LOH is frequent and associated with reduced Smad2 expression and de-differentiation. That reduced Smad2 expression is far more common in poorly differentiated skin SCC [49] suggests a role in SCC progression rather than initiation. Like Smad4, the incidence of reduced Smad2 immunostaining in human SCC varies widely from 14% of HNSCC with absent Smad2 immunostaining [38] to 70% of skin SCCs with reduced Smad2 immunostaining [49].
+To understand the role of Smad2 in skin carcinogenesis we targeted Smad2 deletion to epithelial cells using a keratin 5 (K5) promoter [49,91]. While neither K5.Smad2-/- nor K5.Smad2+/- mice developed spontaneous skin tumors, when subjected to a two-stage chemical skin carcinogenesis protocol both K5.Smad2-/- and K5.Smad2+/- animals exhibited accelerated tumor formation with earlier malignant conversion, increased EMT, and reduced differentiation [49]. Similarly, germline Smad2+/- mice did not develop spontaneous tumors, but had increased susceptibility to chemical skin carcinogenesis and also develop more poorly differentiated tumors [92]. These data suggest that Smad2 exhibits haploid insufficiency with respect to tumor suppression, a criteria that should be taken into consideration when analyzing Smad2 downregulation in human cancer samples. Mechanistically, we found that Smad2 loss increased Smad3/4 binding at the Snail SBE, leading to increased Snail expression and reduced E-cadherin [49]. In addition, both Smad2-/- skin SCCs and Smad2-/- non-malignant murine skin had increased angiogenesis
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 8
+
+through a similar mechanism involving increased hepatocyte growth factor (HGF) expression [91] and human skin and head and neck SCC with reduced Smad2 expression also have higher HGF expression [91]. In contrast to Smad4-/- SCCs, Smad2-/- SCCs did not have increased expression of either TGF or VEGF [91]. This suggests that tumors with reduced Smad2 expression may be susceptible to HGF-targeted treatment, a hypothesis supported by our study showing that short term treatment of Smad2-/- skin with a c-Met (HGF receptor) inhibitor reduces Smad2 loss-associated angiogenesis [91].
+Smad2 mutations also occur infrequently (<5%) in lung cancer, cervical cancer, and hepatocellular carcinoma [93­95]. Targeted Smad2 disruption in T cells reduced Th17 cell differentiation [96,97] and Smad2 deletion in B cells prevented immunoglobulin class switching [98] but tumors were not described in any of these models. This is in contrast to the tumor formation seen after Smad4 deletion in T cells [46] and suggests different roles for Smad2 and Smad4 in immune cell homeostasis and tumor suppression. Other studies have also consistently shown that Smad2 deletion in various tissues (central nervous system, kidney, ovary, liver) is insufficient to initiate tumor formation [99­102]. Similar to our observation in skin carcinogenesis, Smad2 deletion in hepatocytes did not affect liver development or cause tumors but Smad2-/- hepatocytes undergo spontaneous EMT and have increased migration and proliferation in vitro [102]. In sum, Smad2 loss alone is insufficient for tumor initiation but promotes tumor progression through increased EMT and angiogenesis.
+
+The role of Smad3 in cancer
+Smad3 is located at 15q22 and mutations are associated with familial thoracic aortic aneurysms [103]. Smad3 mutations were not initially found in either human colon cancer or pancreatic cancer [104], though subsequent analyses identified a low frequency of Smad3 mutations in colon cancer [82]. The clinical significance of Smad3 mutations is unclear as other reports describe increased Smad3 immunostaining in colon cancer [105] and increased phospho-Smad3 immunostaining in ulcerative colitis lesions [106], suggesting that activated TGF/Smad3 signaling may be present in, and contributing to, these inflammatory lesions. While one of three independently described germline Smad3 knockout mouse models developed metastatic colon carcinomas [48,107,108], a later study suggested that colon tumor formation in these animals required chronic helicobacter infection that drove local inflammation [109]. Although Smad3 germline deletion increased multiplicity of APC initiated tumors in the distal colon [110], it is unclear whether this related to Smad3 loss in colonic mucosa or Smad3 loss in immune cells, particularly since Smad3-/- animals exhibited chronic intestinal inflammation [48] that could have promoted APC-initiated tumors.
+Similarly, Smad3 mutations are rare in human HNSCC [30] and reduced Smad3 immunostaining is uncommon (0­7%) in HNSCC, ESCC, and skin SCC (Xie, et al., in press; M. Reiss personal communication) [49,111]. Smad3 may be tumor suppressive in keratinocytes as suggested by the observation that Smad3 deletion increased SCC formation of grafted, v-H-ras-transduced keratinocytes [112]. However, Smad3+/- and Smad3-/- mice are resistant to chemical skin carcinogenesis [92,113] and we found that Smad3-/- skin tumors have reduced inflammation [113], again suggesting that Smad3 mediates TGFinduced inflammation. Keratinocyte molecular profiling demonstrates that Smad3 mediates expression of both tumor suppressive and tumor promoting TGF-responsive genes [114]; however, on balance, it appears that the inflammatory actions of Smad3 are more potent than its tumor suppressive actions. Smad3 deletion accelerates both skin and oral wound healing by reducing local inflammation [115,116] but conversely, impairs colonic wound healing [117]. Because these models all employed germline Smad3 deletion, it cannot be
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 9
+
+discerned if the observed effects are related to Smad3 loss in the epithelium or in the immune cells recruited to these different anatomic locations. Nevertheless, these studies highlight the context-specific nature of Smad3 function in inflammation.
+The role of Smad3 in other malignancies is less clear. Smad3 mutations are infrequent in human lung and breast cancer [82,104,118]; however, reduced Smad3 mRNA or protein expression has been seen in endometrial cancer, gastric cancer, and parathyroid adenomas [119­121]. The best evidence for Smad3 as a tumor suppressor in human cancer comes from pediatric T cell acute lymphoblastic leukemia where there is no Smad3 protein expression despite the absence of Smad3 mutations [122]. Animal data is similarly sparse. Forced Smad3 expression in hepatocytes protects against chemical liver carcinogenesis by promoting apoptosis through Bcl2 [123], suggesting a tumor suppressive role for Smad3 in mouse liver carcinogenesis. In contrast, Smad3 deletion slows gonadal tumor development in inhibin null mice [124], suggesting a tumor promoting role in this setting. In sum, to better define the roles of Smad3 in various malignancies will require additional studies more specifically targeting Smad3 loss or overexpression to specific cell types or tissues.
+
+Implications of signaling Smad status in cancer therapy
+Research on TGF signaling Smads in cancer has revealed their diverse roles at many levels: individual signaling Smads have different roles in a given cancer, while the same Smad can have different roles depending on the cancer type. Because the levels and functions of Smads are tightly regulated, reduced expression of one Smad can critically affect this balance such that while individual Smads (particularly Smads 2 and 4) are generally tumor suppressive, hyperactivation of Smad2, 3, and 4 can promote EMT [49,125] and angiogenesis [79, 91] (see Fig. 2). Additionally, alterations in each Smad could affect the balance between Smad-dependent and Smad-independent TGF signaling, and many of the Smad-independent TGF pathways are potentially oncogenic [10]. These dynamic and complex relationships make directly targeting Smads for cancer therapy challenging. However, the downstream or alternative pathways activated after Smad loss are potential therapeutic targets, meaning that Smad status is a biomarker for drug susceptibly. For example, Brca mutant breast cancers are more sensitive to PARP inhibitors that prevent DNA repair and induce DNA damage-associated cell death [51,52]. Since Smad4-/- keratinocytes have reduced Fanc/Brca expression and are similarly sensitive to DNA damage, it will be interesting to see whether HNSCC with reduced Smad4 expression are similarly sensitive to PARP inhibitors. Of note, this type of targeted therapy may not be applicable to all Smad4 deficient cancers, specifically pancreatic and colon cancers, where Smad4 loss is not associated with genomic instability [27]. Smad4-/- SCCs also have increased TGF-mediated inflammation and VEGF-driven angiogenesis [34,79], suggesting that targeting the tumor stroma with a TGF receptor inhibitor or a VEGF inhibitor might be effective. Finally, we have also shown that short-term treatment with a c-Met inhibitor reduces Smad2 loss-associated angiogenesis [91]; it remains to be seen if c-Met inhibitors have clinical efficacy in human tumors with reduced Smad2 expression.
+
+Future perspectives
+Although the frequency of genetic alteration or reduced Smad expression are comparable between cancers arising from simple (pancreatic/colon) and stratified epithelial layers (SCCs), numerous studies show that the consequences of reduced Smad expression (particularly Smad4) differ significantly among these malignancies and suggest that this could substantially alter the therapeutic strategies employed to target these cancers. Well controlled clinical trials that include measurement of relevant biomarkers will be required to determine which of these basic scientific observations are ultimately relevant to cancer
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 10
+
+treatment. Additionally, studies in other cancer types will be required to determine which model of Smad4 loss they follow. For example, will breast cancers harboring Smad4 mutations [126] be as sensitive to PARP inhibitors as Brcamutant breast or ovarian cancers? Similar questions exist for lung cancer where Smad4 mutations also occur [127], but the Smad4 loss phenotype has not been determined. In addition, Smad4 being more frequently inactivated in HPV-positive tumors [128], suggests that different mutagens could affect TGF signaling and hence impact targeted treatment paradigms. In sum, the TGF/Smad field is moving closer to translating outstanding basic science discoveries into therapeutic cancer strategies.
+
+Acknowledgments
+Due to space limitations, we apologize for not being able to cite all published papers related to this review. The original work from the Wang lab was supported by NIH grants CA79998, CA87849, DE15953 and DE20649. Dr. Malkoski has been supported by the NIH (CA131483), the National Lung Cancer Partnership, and the University of Colorado Lung Cancer SPORE (P50 CA058187). We thank Pamela Garl for proof reading this review.
+
+Abbreviations
+APC BMP Brca DPC4 EGFR EMT ESCC FA Fanc HGF HNSCC HPV LOH JP MMTV PARP PTEN SBE SCCs TGF VEGF
+
+adenomatous polyposis coli bone morphogenic protein breast cancer susceptibility gene Deleted in Pancreatic Cancer 4 epidermal growth factor receptor epithelial-mesenchymal transition esophageal squamous cell carcinoma Fanconi Anemia Fanconi anemia complementation hepatocyte growth factor head-and-neck squamous cell carcinoma human papilloma virus loss of heterozygosity juvenile polyposis mouse mammary tumor virus poly(ADP-ribose) polymerase phosphatase and tensin homolog deleted on chromosome 10 Smad binding element squamous cell carcinomas transformation growth factor  vascular endothelial growth factor
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 11
+
+References
+1. Liu F, Hata A, Baker JC, Doody J, Carcamo J, Harland RM, Massague J. A human Mad protein acting as a BMP-regulated transcriptional activator. Nature. 1996; 381:620­623. [PubMed: 8637600]
+2. Lagna G, Hata A, Hemmati-Brivanlou A, Massague J. Partnership between DPC4 and SMAD proteins in TGF-beta signalling pathways. Nature. 1996; 383:832­836. [PubMed: 8893010]
+3. Riggins GJ, et al. Mad-related genes in the human. Nat Genet. 1996; 13:347­349. [PubMed: 8673135]
+4. Shi Y, Massague J. Mechanisms of TGF-beta signaling from cell membrane to the nucleus. Cell. 2003; 113:685­700. [PubMed: 12809600]
+5. Massague J, Seoane J, Wotton D. Smad transcription factors. Genes Dev. 2005; 19:2783­2810. [PubMed: 16322555]
+6. ten Dijke P, Hill CS. New insights into TGF-beta-Smad signalling. Trends Biochem Sci. 2004; 29:265­273. [PubMed: 15130563]
+7. Feng XH, Derynck R. Specificity and versatility in tgf-beta signaling through Smads. Annu Rev Cell Dev Biol. 2005; 21:659­693. [PubMed: 16212511]
+8. Levy L, Hill CS. Alterations in components of the TGF-beta superfamily signaling pathways in human cancer. Cytokine Growth Factor Rev. 2006; 17:41­58. [PubMed: 16310402]
+9. Blobe GC, Schiemann WP, Lodish HF. Role of transforming growth factor beta in human disease. N Engl J Med. 2000; 342:1350­1358. [PubMed: 10793168]
+10. Zhang YE. Non-Smad pathways in TGF-beta signaling. Cell Res. 2009; 19:128­139. [PubMed: 19114990]
+11. Siegel PM, Massague J. Cytostatic and apoptotic actions of TGF-beta in homeostasis and cancer. Nat Rev Cancer. 2003; 3:807­821. [PubMed: 14557817]
+12. Hahn SA, et al. DPC4, a candidate tumor suppressor gene at human chromosome 18q21.1. Science. 1996; 271:350­353. [PubMed: 8553070]
+13. Zbuk KM, Eng C. Hamartomatous polyposis syndromes. Nat Clin Pract Gastroenterol Hepatol. 2007; 4:492­502. [PubMed: 17768394]
+14. Jemal A, Siegel R, Ward E, Hao Y, Xu J, Thun MJ. Cancer statistics, 2009. CA Cancer J Clin. 2009; 59:225­249. [PubMed: 19474385]
+15. Rozenblum E, et al. Tumor-suppressive pathways in pancreatic carcinoma. Cancer Res. 1997; 57:1731­1734. [PubMed: 9135016]
+16. Smit VT, Boot AJ, Smits AM, Fleuren GJ, Cornelisse CJ, Bos JL. KRAS codon 12 mutations occur very frequently in pancreatic adenocarcinomas. Nucleic Acids Res. 1988; 16:7773­7782. [PubMed: 3047672]
+17. Caldas C, et al. Frequent somatic mutations and homozygous deletions of the p16 (MTS1) gene in pancreatic adenocarcinoma. Nat Genet. 1994; 8:27­32. [PubMed: 7726912]
+18. Kalthoff H, et al. p53 and K-RAS alterations in pancreatic epithelial cell lesions. Oncogene. 1993; 8:289­298. [PubMed: 8426738]
+19. Wilentz RE, Iacobuzio-Donahue CA, Argani P, McCarthy DM, Parsons JL, Yeo CJ, Kern SE, Hruban RH. Loss of expression of Dpc4 in pancreatic intraepithelial neoplasia: evidence that DPC4 inactivation occurs late in neoplastic progression. Cancer Res. 2000; 60:2002­2006. [PubMed: 10766191]
+20. Iacobuzio-Donahue CA, et al. DPC4 gene status of the primary carcinoma correlates with patterns of failure in patients with pancreatic cancer. J Clin Oncol. 2009; 27:1806­1813. [PubMed: 19273710]
+21. Blackford A, et al. SMAD4 gene mutations are associated with poor prognosis in pancreatic cancer. Clin Cancer Res. 2009; 15:4674­4679. [PubMed: 19584151]
+22. Tascilar M, et al. The SMAD4 protein and prognosis of pancreatic ductal adenocarcinoma. Clin Cancer Res. 2001; 7:4115­4121. [PubMed: 11751510]
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 12
+
+23. Smith RA, Tang J, Tudur-Smith C, Neoptolemos JP, Ghaneh P. Meta-analysis of immunohistochemical prognostic markers in resected pancreatic cancer. Br J Cancer. 2011; 104:1440­1451. [PubMed: 21448172]
+24. Gu G, Dubauskaite J, Melton DA. Direct evidence for the pancreatic lineage: NGN3+ cells are islet progenitors and are distinct from duct progenitors. Development. 2002; 129:2447­2457. [PubMed: 11973276]
+25. Kawaguchi Y, Cooper B, Gannon M, Ray M, MacDonald RJ, Wright CV. The role of the transcriptional regulator Ptf1a in converting intestinal to pancreatic progenitors. Nat Genet. 2002; 32:128­134. [PubMed: 12185368]
+26. Bardeesy N, et al. Smad4 is dispensable for normal pancreas development yet critical in progression and tumor biology of pancreas cancer. Genes Dev. 2006; 20:3130­3146. [PubMed: 17114584]
+27. Izeradjene K, et al. Kras(G12D) and Smad4/Dpc4 haploinsufficiency cooperate to induce mucinous cystic neoplasms and invasive adenocarcinoma of the pancreas. Cancer Cell. 2007; 11:229­243. [PubMed: 17349581]
+28. Kojima K, Vickers SM, Adsay NV, Jhala NC, Kim HG, Schoeb TR, Grizzle WE, Klug CA. Inactivation of Smad4 accelerates Kras(G12D)-mediated pancreatic neoplasia. Cancer Res. 2007; 67:8121­8130. [PubMed: 17804724]
+29. Xu X, Ehdaie B, Ohara N, Yoshino T, Deng CX. Synergistic action of Smad4 and Pten in suppressing pancreatic ductal adenocarcinoma formation in mice. Oncogene. 2010; 29:674­686. [PubMed: 19901970]
+30. Agrawal N, et al. Exome sequencing of head and neck squamous cell carcinoma reveals inactivating mutations in NOTCH1. Science. 2011; 333:1154­1157. [PubMed: 21798897]
+31. Kim SK, Fan Y, Papadimitrakopoulou V, Clayman G, Hittelman WN, Hong WK, Lotan R, Mao L. DPC4, a candidate tumor suppressor gene, is altered infrequently in head and neck squamous cell carcinoma. Cancer Res. 1996; 56:2519­2521. [PubMed: 8653689]
+32. Papadimitrakopoulou VA, Oh Y, El-Naggar A, Izzo J, Clayman G, Mao L. Presence of multiple incontiguous deleted regions at the long arm of chromosome 18 in head and neck cancer. Clin Cancer Res. 1998; 4:539­544. [PubMed: 9533520]
+33. Takebayashi S, Ogawa T, Jung KY, Muallem A, Mineta H, Fisher SG, Grenman R, Carey TE. Identification of new minimally lost regions on 18q in head and neck squamous cell carcinoma. Cancer Res. 2000; 60:3397­3403. [PubMed: 10910046]
+34. Bornstein S, et al. Smad4 loss in mice causes spontaneous head and neck cancer with increased genomic instability and inflammation. J Clin Invest. 2009; 119:3408­3419. [PubMed: 19841536]
+35. Maesawa C, et al. MAD-related genes on 18q21.1, Smad2 and Smad4, are altered infrequently in esophageal squamous cell carcinoma. Jpn J Cancer Res. 1997; 88:340­343. [PubMed: 9197523]
+36. Osawa H, Shitara Y, Shoji H, Mogi A, Kuwano H, Hagiwara K, Takenoshita S. Mutation analysis of transforming growth factor beta type II receptor, Smad2, Smad3 and Smad4 in esophageal squamous cell carcinoma. Int J Oncol. 2000; 17:723­728. [PubMed: 10995883]
+37. Kern, SE. Molecular Basis of Cancer. Mendelsohn, J., editor. 2001. p. 41-69.^eds
+38. Xie W, Bharathy S, Kim D, Haffty BG, Rimm DL, Reiss M. Frequent alterations of Smad signaling in human head and neck squamous cell carcinomas: a tissue microarray analysis. Oncol Res. 2003; 14:61­73. [PubMed: 14649540]
+39. Wang X, et al. Growth inhibition induced by transforming growth factorbeta1 in human oral squamous cell carcinoma. Mol Biol Rep. 2009; 36:861­869. [PubMed: 18418730]
+40. Natsugoe S, et al. Smad4 and transforming growth factor beta1 expression in patients with squamous cell carcinoma of the esophagus. Clin Cancer Res. 2002; 8:1838­1842. [PubMed: 12060625]
+41. Fukuchi M, Masuda N, Miyazaki T, Nakajima M, Osawa H, Kato H, Kuwano H. Decreased Smad4 expression in the transforming growth factor-beta signaling pathway during progression of esophageal squamous cell carcinoma. Cancer. 2002; 95:737­743. [PubMed: 12209716]
+42. Teng Y, Sun AN, Pan XC, Yang G, Yang LL, Wang MR, Yang X. Synergistic function of Smad4 and PTEN in suppressing forestomach squamous cell carcinoma in the mouse. Cancer Res. 2006; 66:6972­6981. [PubMed: 16849541]
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 13
+
+43. D'Andrea AD. Susceptibility pathways in Fanconi's anemia and breast cancer. N Engl J Med. 2010; 362:1909­1919. [PubMed: 20484397]
+44. Kutler DI, et al. High incidence of head and neck squamous cell carcinoma in patients with Fanconi anemia. Arch. Otolaryngol. Head Neck Surg. 2003; 129:106­112. [PubMed: 12525204]
+45. Houghtaling S, Timmers C, Noll M, Finegold MJ, Jones SN, Meyn MS, Grompe M. Epithelial cancer in Fanconi anemia complementation group D2 (Fancd2) knockout mice. Genes Dev. 2003; 17:2021­2035. [PubMed: 12893777]
+46. Kim BG, et al. Smad4 signalling in T cells is required for suppression of gastrointestinal cancer. Nature. 2006; 441:1015­1019. [PubMed: 16791201]
+47. Bharathy S, Xie W, Yingling JM, Reiss M. Cancer-associated transforming growth factor beta type II receptor gene mutant causes activation of bone morphogenic protein-Smads and invasive phenotype. Cancer Res. 2008; 68:1656­1666. [PubMed: 18339844]
+48. Yang X, Letterio JJ, Lechleider RJ, Chen L, Hayman R, Gu H, Roberts AB, Deng C. Targeted disruption of SMAD3 results in impaired mucosal immunity and diminished T cell responsiveness to TGF-beta. EMBO J. 1999; 18:1280­1291. [PubMed: 10064594]
+49. Hoot KE, et al. Keratinocyte-specific Smad2 ablation results in increased epithelial-mesenchymal transition during skin cancer formation and progression. J Clin Invest. 2008; 118:2722­2732. [PubMed: 18618014]
+50. Frederick BA, Helfrich BA, Coldren CD, Zheng D, Chan D, Bunn PA Jr, Raben D. Epithelial to mesenchymal transition predicts gefitinib resistance in cell lines of head and neck squamous cell carcinoma and non-small cell lung carcinoma. Mol. Cancer Ther. 2007; 6:1683­1691. [PubMed: 17541031]
+51. Bryant HE, et al. Specific killing of BRCA2-deficient tumours with inhibitors of poly(ADP-ribose) polymerase. Nature. 2005; 434:913­917. [PubMed: 15829966]
+52. Farmer H, et al. Targeting the DNA repair defect in BRCA mutant cells as a therapeutic strategy. Nature. 2005; 434:917­921. [PubMed: 15829967]
+53. Chung DC. The genetic basis of colorectal cancer: insights into critical pathways of tumorigenesis. Gastroenterology. 2000; 119:854­865. [PubMed: 10982779]
+54. Markowitz SD, Bertagnolli MM. Molecular origins of cancer: Molecular basis of colorectal cancer. N Engl J Med. 2009; 361:2449­2460. [PubMed: 20018966]
+55. Nishisho I, et al. Mutations of chromosome 5q21 genes in FAP and colorectal cancer patients. Science. 1991; 253:665­669. [PubMed: 1651563]
+56. Powell SM, Zilz N, Beazer-Barclay Y, Bryan TM, Hamilton SR, Thibodeau SN, Vogelstein B, Kinzler KW. APC mutations occur early during colorectal tumorigenesis. Nature. 1992; 359:235­ 237. [PubMed: 1528264]
+57. Bos JL, Fearon ER, Hamilton SR, Verlaan-de Vries M, van Boom JH, van der Eb AJ, Vogelstein B. Prevalence of ras gene mutations in human colorectal cancers. Nature. 1987; 327:293­297. [PubMed: 3587348]
+58. Baker SJ, Markowitz S, Fearon ER, Willson JK, Vogelstein B. Suppression of human colorectal carcinoma cell growth by wild-type p53. Science. 1990; 249:912­915. [PubMed: 2144057]
+59. Thiagalingam S, et al. Evaluation of candidate tumour suppressor genes on chromosome 18 in colorectal cancers. Nat Genet. 1996; 13:343­346. [PubMed: 8673134]
+60. Miyaki M, et al. Higher frequency of Smad4 gene mutation in human colorectal cancer with distant metastasis. Oncogene. 1999; 18:3098­3103. [PubMed: 10340381]
+61. Maitra A, Molberg K, Albores-Saavedra J, Lindberg G. Loss of Dpc4 expression in colonic adenocarcinomas correlates with the presence of metastatic disease. Am J Pathol. 2000; 157:1105­ 1111. [PubMed: 11021814]
+62. Tang Y, et al. Transforming growth factor-beta suppresses nonmetastatic colon cancer through Smad4 and adaptor protein ELF at an early stage of tumorigenesis. Cancer Res. 2005; 65:4228­ 4237. [PubMed: 15899814]
+63. Isaksson-Mettavainio M, Palmqvist R, Dahlin AM, Van Guelpen B, Rutegard J, Oberg A, Henriksson ML. High SMAD4 levels appear in microsatellite instability and hypermethylated colon cancers, and indicate a better prognosis. Int J Cancer. 2011
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 14
+
+64. Le Goff C, et al. Mutations at a single codon in Mad homology 2 domain of SMAD4 cause Myhre syndrome. Nat Genet. 2011; 44:85­88. [PubMed: 22158539]
+65. Yang X, Li C, Xu X, Deng C. The tumor suppressor SMAD4/DPC4 is essential for epiblast proliferation and mesoderm induction in mice. Proc Natl Acad Sci U S A. 1998; 95:3667­3672. [PubMed: 9520423]
+66. Takaku K, Oshima M, Miyoshi H, Matsui M, Seldin MF, Taketo MM. Intestinal tumorigenesis in compound mutant mice of both DPC4 (SMAD4) and APC genes. Cell. 1998; 92:645­656. [PubMed: 9506519]
+67. Takaku K, Miyoshi H, Matsunaga A, Oshima M, Sasaki N, Taketo MM. Gastric and duodenal polyps in Smad4 (Dpc4) knockout mice. Cancer Res. 1999; 59:6113­6117. [PubMed: 10626800]
+68. Xu X, et al. Haploid loss of the tumor suppressor Smad4/Dpc4 initiates gastric polyposis and cancer in mice. Oncogene. 2000; 19:1868­1874. [PubMed: 10773876]
+69. Hardwick JC, Kodach LL, Offerhaus GJ, van den Brink GR. Bone morphogenetic protein signalling in colorectal cancer. Nat Rev Cancer. 2008; 8:806­812. [PubMed: 18756288]
+70. Hahn JN, Falck VG, Jirik FR. Smad4 deficiency in T cells leads to the Th17-associated development of premalignant gastroduodenal lesions in mice. J Clin Invest. 2011; 121:4030­4042. [PubMed: 21881210]
+71. Kitamura T, et al. SMAD4-deficient intestinal tumors recruit CCR1+ myeloid cells that promote invasion. Nat Genet. 2007; 39:467­475. [PubMed: 17369830]
+72. Xu X, et al. Induction of intrahepatic cholangiocellular carcinoma by liver-specific disruption of Smad4 and Pten in mice. J Clin Invest. 2006; 116:1843­1852. [PubMed: 16767220]
+73. Kang YK, Kim WH, Jang JJ. Expression of G1-S modulators (p53, p16, p27, cyclin D1, Rb) and Smad4/Dpc4 in intrahepatic cholangiocarcinoma. Hum Pathol. 2002; 33:877­883. [PubMed: 12378511]
+74. Ding Z, et al. SMAD4-dependent barrier constrains prostate cancer growth and metastatic progression. Nature. 2011; 470:269­273. [PubMed: 21289624]
+75. Yang L, et al. Targeted disruption of Smad4 in mouse epidermis results in failure of hair follicle cycling and formation of skin tumors. Cancer Res. 2005; 65:8671­8678. [PubMed: 16204035]
+76. Qiao W, Li AG, Owens P, Xu X, Wang XJ, Deng CX. Hair follicle defects and squamous cell carcinoma formation in Smad4 conditional knockout mouse skin. Oncogene. 2006; 25:207­217. [PubMed: 16170355]
+77. MacGrogan D, Pegram M, Slamon D, Bookstein R. Comparative mutational analysis of DPC4 (Smad4) in prostatic and colorectal carcinomas. Oncogene. 1997; 15:1111­1114. [PubMed: 9285566]
+78. Aitchison AA, Veerakumarasivam A, Vias M, Kumar R, Hamdy FC, Neal DE, Mills IG. Promoter methylation correlates with reduced Smad4 expression in advanced prostate cancer. Prostate. 2008; 68:661­674. [PubMed: 18213629]
+79. Owens P, Engelking E, Han G, Haeger SM, Wang XJ. Epidermal Smad4 deletion results in aberrant wound healing. Am. J. Pathol. 2010; 176:122­133. [PubMed: 19959815]
+80. Li W, et al. Squamous cell carcinoma and mammary abscess formation through squamous metaplasia in Smad4/Dpc4 conditional knockout mice. Development. 2003; 130:6143­6153. [PubMed: 14597578]
+81. Eppert K, et al. MADR2 maps to 18q21 and encodes a TGFbeta-regulated MAD-related protein that is functionally mutated in colorectal carcinoma. Cell. 1996; 86:543­552. [PubMed: 8752209]
+82. Sjoblom T, et al. The consensus coding sequences of human breast and colorectal cancers. Science. 2006; 314:268­274. [PubMed: 16959974]
+83. Xie W, Rimm DL, Lin Y, Shih WJ, Reiss M. Loss of Smad signaling in human colorectal cancer is associated with advanced disease and poor prognosis. Cancer J. 2003; 9:302­312. [PubMed: 12967141]
+84. Waldrip WR, Bikoff EK, Hoodless PA, Wrana JL, Robertson EJ. Smad2 signaling in extraembryonic tissues determines anterior-posterior polarity of the early mouse embryo. Cell. 1998; 92:797­808. [PubMed: 9529255]
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 15
+
+85. Weinstein M, Yang X, Li C, Xu X, Gotay J, Deng CX. Failure of egg cylinder elongation and mesoderm induction in mouse embryos lacking the tumor suppressor smad2. Proc Natl Acad Sci U S A. 1998; 95:9378­9383. [PubMed: 9689088]
+86. Heyer J, Escalante-Alcalde D, Lia M, Boettinger E, Edelmann W, Stewart CL, Kucherlapati R. Postgastrulation Smad2-deficient embryos show defects in embryo turning and anterior morphogenesis. Proc Natl Acad Sci U S A. 1999; 96:12595­12600. [PubMed: 10535967]
+87. Nomura M, Li E. Smad2 role in mesoderm formation, left-right patterning and craniofacial development. Nature. 1998; 393:786­790. [PubMed: 9655392]
+88. Hamamoto T, Beppu H, Okada H, Kawabata M, Kitamura T, Miyazono K, Kato M. Compound disruption of smad2 accelerates malignant progression of intestinal tumors in apc knockout mice. Cancer Res. 2002; 62:5955­5961. [PubMed: 12384562]
+89. Muro-Cacho CA, Rosario-Ortiz K, Livingston S, Munoz-Antonia T. Defective transforming growth factor beta signaling pathway in head and neck squamous cell carcinoma as evidenced by the lack of expression of activated Smad2. Clin Cancer Res. 2001; 7:1618­1626. [PubMed: 11410498]
+90. Qiu W, Schonleben F, Li X, Su GH. Disruption of transforming growth factor beta-Smad signaling pathway in head and neck squamous cell carcinoma as evidenced by mutations of SMAD2 and SMAD4. Cancer Lett. 2007; 245:163­170. [PubMed: 16478646]
+91. Hoot KE, Oka M, Han G, Bottinger E, Zhang Q, Wang XJ. HGF upregulation contributes to angiogenesis in mice with keratinocyte-specific Smad2 deletion. J. Clin. Invest. 2010; 120:3606­ 3616. [PubMed: 20852387]
+92. Tannehill-Gregg SH, Kusewitt DF, Rosol TJ, Weinstein M. The roles of Smad2 and Smad3 in the development of chemically induced skin tumors in mice. Vet Pathol. 2004; 41:278­282. [PubMed: 15133179]
+93. Uchida K, Nagatake M, Osada H, Yatabe Y, Kondo M, Mitsudomi T, Masuda A, Takahashi T. Somatic in vivo alterations of the JV18-1 gene at 18q21 in human lung cancers. Cancer Res. 1996; 56:5583­5585. [PubMed: 8971158]
+94. Maliekal TT, Antony ML, Nair A, Paulmurugan R, Karunagaran D. Loss of expression, and mutations of Smad 2 and Smad 4 in human cervical cancer. Oncogene. 2003; 22:4889­4897. [PubMed: 12894231]
+95. Yakicier MC, Irmak MB, Romano A, Kew M, Ozturk M. Smad2 and Smad4 gene mutations in hepatocellular carcinoma. Oncogene. 1999; 18:4879­4883. [PubMed: 10490821]
+96. Malhotra N, Robertson E, Kang J. SMAD2 is essential for TGF beta-mediated Th17 cell generation. J Biol Chem. 2010; 285:29044­29048. [PubMed: 20656683]
+97. Martinez GJ, et al. Smad2 positively regulates the generation of Th17 cells. J Biol Chem. 2010; 285:29039­29043. [PubMed: 20667820]
+98. Klein J, et al. B cell-specific deficiency for Smad2 in vivo leads to defects in TGF-beta-directed IgA switching and changes in B cell fate. J Immunol. 2006; 176:2389­2396. [PubMed: 16455997]
+99. Wang L, et al. Smad2 protein disruption in the central nervous system leads to aberrant cerebellar development and early postnatal ataxia in mice. J Biol Chem. 2011; 286:18766­18774. [PubMed: 21464123]
+100. Meng XM, et al. Smad2 protects against TGF-beta/Smad3-mediated renal fibrosis. J Am Soc Nephrol. 2010; 21:1477­1487. [PubMed: 20595680]
+101. Rajanahally S, Agno JE, Nalam RL, Weinstein MB, Loveland KL, Matzuk MM, Li Q. Genetic evidence that SMAD2 is not required for gonadal tumor development in inhibin-deficient mice. Reprod Biol Endocrinol. 2010; 8:69. [PubMed: 20565978]
+102. Ju W, Ogawa A, Heyer J, Nierhof D, Yu L, Kucherlapati R, Shafritz DA, Bottinger EP. Deletion of Smad2 in mouse liver reveals novel functions in hepatocyte growth and differentiation. Mol.Cell Biol. 2006; 26:654­667. [PubMed: 16382155]
+103. van de Laar IM, et al. Mutations in SMAD3 cause a syndromic form of aortic aneurysms and dissections with early-onset osteoarthritis. Nat Genet. 2011; 43:121­126. [PubMed: 21217753]
+104. Riggins GJ, Kinzler KW, Vogelstein B, Thiagalingam S. Frequency of Smad gene mutations in human cancers. Cancer Res. 1997; 57:2578­2580. [PubMed: 9205057]
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 16
+
+105. Korchynskyi O, Landstrom M, Stoika R, Funa K, Heldin CH, ten Dijke P, Souchelnytskyi S. Expression of Smad proteins in human colorectal cancer. Int J Cancer. 1999; 82:197­202. [PubMed: 10389752]
+106. Kawamata S, Matsuzaki K, Murata M, Seki T, Matsuoka K, Iwao Y, Hibi T, Okazaki K. Oncogenic Smad3 signaling induced by chronic inflammation is an early event in ulcerative colitis-associated carcinogenesis. Inflamm Bowel Dis. 2011; 17:683­695. [PubMed: 20602465]
+107. Zhu Y, Richardson JA, Parada LF, Graff JM. Smad3 mutant mice develop metastatic colorectal cancer. Cell. 1998; 94:703­714. [PubMed: 9753318]
+108. Datto MB, Frederick JP, Pan L, Borton AJ, Zhuang Y, Wang XF. Targeted disruption of Smad3 reveals an essential role in transforming growth factor beta-mediated signal transduction. Mol Cell Biol. 1999; 19:2495­2504. [PubMed: 10082515]
+109. Maggio-Price L, Treuting P, Zeng W, Tsang M, Bielefeldt-Ohmann H, Iritani BM. Helicobacter infection is required for inflammation and colon cancer in SMAD3-deficient mice. Cancer Res. 2006; 66:828­838. [PubMed: 16424015]
+110. Sodir NM, et al. Smad3 deficiency promotes tumorigenesis in the distal colon of ApcMin/+ mice. Cancer Res. 2006; 66:8430­8438. [PubMed: 16951153]
+111. Fukuchi M, et al. Lack of activated Smad2 in transforming growth factor-beta signaling is an unfavorable prognostic factor in patients with esophageal squamous cell carcinoma. J Surg Oncol. 2006; 94:51­56. [PubMed: 16788944]
+112. Vijayachandra K, Lee J, Glick AB. Smad3 regulates senescence and malignant conversion in a mouse multistage skin carcinogenesis model. Cancer Res. 2003; 63:3447­3452. [PubMed: 12839923]
+113. Li AG, Lu SL, Zhang MX, Deng C, Wang XJ. Smad3 knockout mice exhibit a resistance to skin chemical carcinogenesis. Cancer Res. 2004; 64:7836­7845. [PubMed: 15520189]
+114. Bae DS, Blazanin N, Licata M, Lee J, Glick AB. Tumor suppressor and oncogene actions of TGFbeta1 occur early in skin carcinogenesis and are mediated by Smad3. Mol Carcinog. 2009; 48:441­453. [PubMed: 18942075]
+115. Ashcroft GS, et al. Mice lacking Smad3 show accelerated wound healing and an impaired local inflammatory response. Nat Cell Biol. 1999; 1:260­266. [PubMed: 10559937]
+116. Jinno K, Takahashi T, Tsuchida K, Tanaka E, Moriyama K. Acceleration of palatal wound healing in Smad3-deficient mice. J Dent Res. 2009; 88:757­761. [PubMed: 19734465]
+117. Owen CR, Yuan L, Basson MD. Smad3 knockout mice exhibit impaired intestinal mucosal healing. Lab Invest. 2008; 88:1101­1109. [PubMed: 18711354]
+118. Tram E, Ibrahim-Zada I, Briollais L, Knight JA, Andrulis IL, Ozcelik H. Identification of germline alterations of the mad homology 2 domain of SMAD3 and SMAD4 from the Ontario site of the breast cancer family registry (CFR). Breast Cancer Res. 2011; 13:R77. [PubMed: 21835029]
+119. Mhawech-Fauceglia P, Kesterson J, Wang D, Akers S, Dupont NC, Clark K, Lele S, Liu S. Expression and clinical significance of the transforming growth factor-beta signalling pathway in endometrial cancer. Histopathology. 2011; 59:63­72. [PubMed: 21771027]
+120. Han SU, Kim HT, Seong DH, Kim YS, Park YS, Bang YJ, Yang HK, Kim SJ. Loss of the Smad3 expression increases susceptibility to tumorigenicity in human gastric cancer. Oncogene. 2004; 23:1333­1341. [PubMed: 14647420]
+121. Shattuck TM, Costa J, Bernstein M, Jensen RT, Chung DC, Arnold A. Mutational analysis of Smad3, a candidate tumor suppressor implicated in TGF-beta and menin pathways, in parathyroid adenomas and enteropancreatic endocrine tumors. J Clin Endocrinol Metab. 2002; 87:3911­3914. [PubMed: 12161532]
+122. Wolfraim LA, et al. Loss of Smad3 in acute T-cell lymphoblastic leukemia. N Engl J Med. 2004; 351:552­559. [PubMed: 15295048]
+123. Yang YA, Zhang GM, Feigenbaum L, Zhang YE. Smad3 reduces susceptibility to hepatocarcinoma by sensitizing hepatocytes to apoptosis through downregulation of Bcl-2. Cancer Cell. 2006; 9:445­457. [PubMed: 16766264]
+124. Li Q, Graff JM, O'Connor AE, Loveland KL, Matzuk MM. SMAD3 regulates gonadal tumorigenesis. Mol Endocrinol. 2007; 21:2472­2486. [PubMed: 17595316]
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 17
+
+125. Oft M, Akhurst RJ, Balmain A. Metastasis is driven by sequential elevation of H-ras and Smad2 levels. Nat Cell Biol. 2002; 4:487­494. [PubMed: 12105419]
+126. Zhong D, et al. Homozygous deletion of SMAD4 in breast cancer cell lines and invasive ductal carcinomas. Cancer Biol Ther. 2006; 5:601­607. [PubMed: 16627986]
+127. Nagatake M, Takagi Y, Osada H, Uchida K, Mitsudomi T, Saji S, Shimokata K, Takahashi T. Somatic in vivo alterations of the DPC4 gene at 18q21 in human lung cancers. Cancer Res. 1996; 56:2718­2720. [PubMed: 8665501]
+128. Baez A, Cantor A, Fonseca S, Marcos-Martinez M, Mathews LA, Muro-Cacho CA, MunozAntonia T. Differences in Smad4 expression in human papillomavirus type 16-positive and human papillomavirus type 16-negative head and neck squamous cell carcinoma. Clin Cancer Res. 2005; 11:3191­3197. [PubMed: 15867212]
+129. Heinmoller E, Dietmaier W, Zirngibl H, Heinmoller P, Scaringe W, Jauch KW, Hofstadter F, Ruschoff J. Molecular analysis of microdissected tumors and preneoplastic intraductal lesions in pancreatic carcinoma. Am J Pathol. 2000; 157:83­92. [PubMed: 10880379]
+130. Yatsuoka T, et al. Association of poor prognosis with loss of 12q, 17p, and 18q, and concordant loss of 6q/17p and 12q/18q in human pancreatic ductal adenocarcinoma. Am J Gastroenterol. 2000; 95:2080­2085. [PubMed: 10950061]
+131. Jonson T, Gorunova L, Dawiskiba S, Andren-Sandberg A, Stenman G, ten Dijke P, Johansson B, Hoglund M. Molecular analyses of the 15q and 18q SMAD genes in pancreatic cancer. Genes Chromosomes Cancer. 1999; 24:62­71. [PubMed: 9892110]
+132. Toga T, Nio Y, Hashimoto K, Higami T, Maruyama R. The dissociated expression of protein and messenger RNA of DPC4 in human invasive ductal carcinoma of the pancreas and their implication for patient outcome. Anticancer Res. 2004; 24:1173­1178. [PubMed: 15154643]
+133. Luttges J, Galehdari H, Brocker V, Schwarte-Waldhoff I, Henne-Bruns D, Kloppel G, Schmiegel W, Hahn SA. Allelic loss is often the first hit in the biallelic inactivation of the p53 and DPC4 genes during pancreatic carcinogenesis. Am J Pathol. 2001; 158:1677­1683. [PubMed: 11337365]
+134. Biankin AV, et al. Overexpression of p21(WAF1/CIP1) is an early event in the development of pancreatic intraepithelial neoplasia. Cancer Res. 2001; 61:8830­8837. [PubMed: 11751405]
+135. Biankin AV, et al. DPC4/Smad4 expression and outcome in pancreatic ductal adenocarcinoma. J Clin Oncol. 2002; 20:4531­4542. [PubMed: 12454109]
+136. Hua Z, Zhang YC, Hu XM, Jia ZG. Loss of DPC4 expression and its correlation with clinicopathological parameters in pancreatic carcinoma. World J Gastroenterol. 2003; 9:2764­ 2767. [PubMed: 14669329]
+137. Khorana AA, Hu YC, Ryan CK, Komorowski RA, Hostetter G, Ahrendt SA. Vascular endothelial growth factor and DPC4 predict adjuvant therapy outcomes in resected pancreatic cancer. J Gastrointest Surg. 2005; 9:903­911. [PubMed: 16137582]
+138. Puhringer-Oppermann F, Sarbia M, Ott N, Brucher BL. The predictive value of genes of the TGF-beta1 pathway in multimodally treated squamous cell carcinoma of the esophagus. Int J Colorectal Dis. 2010; 25:515­521. [PubMed: 20012971]
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 18
+
+Figure 1. TGF/BMP signaling TGF/BMP ligands mediate their signals through Smad family members.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+Malkoski and Wang
+
+Page 19
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Figure 2. Roles of Smads identified in SCCs In non-malignant epithelial tissues, Smads function as tumor suppression. Smad2 loss promotes tumor progression through increased EMT and increased HGF while Smad4 loss promotes tumor progression through increased angiogenesis and inflammation mediated by increased VEGF and TGF expression, respectively. In addition, Smad4 loss initiates SCC formation in stratified epithelial layers via downregulation of Fanc/Brca family members.
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Malkoski and Wang
+
+Page 20
+
+Table 1 Mechanisms of reduced Smad4 expression in pancreatic cancer compared to HNSCC and ESCC.
+
+Pancreatic cancer Loss 18q
+Mutation
+mRNA IHC
+HNSCC LOH 18q
+Mutation mRNA IHC ESCC LOH 18q mRNA IHC
+
+N/T (Reduced) 25/84 15/25 15/35 40/89 105/233 6/27 20/38 4/12 30/77 6/21 9/18 39/59 138/249 63/119 8/34 75/88 40/65 65/124 437/756
+>5/32 7/15 8/23 20/47 6/18 47/135 1/32 31/36 38/170 61/108 41/117
+5/14 97 70 174/258
+
+% (Reduced) 30% 60% 42% 44% 45% 22% 53% 33% 38% 29% 50% 66% 55% 52% 24% 85% 61% 52% 57%
+>15% 47% 34% 54% 33% 35% 3% 86% 22% 61% 35%
+35% NA NA 67%
+
+Associations/Notes
+Poor prognosis (w/ loss of 12q and 17p) Reduced survival Total (from the above reports)
+Total (from the above reports)
+Reduced survival Improved survival after resection Reduced differentiation, stage IV Nodal involvement, reduced survival Metastases Increased vessel density, improved survival Total (from the above reports)
+Total (from the above reports) vs normal controls LN metastases Grade, LN metastases Total (from the above reports)
+Non-response to chemo Higher stage, worse prognosis LN mets, higher stage
+
+Ref
+[12] [128] [129] [21]
+[12] [15] [130]
+[131] [132] [133] [22] [134] [135] [131] [20] [136]
+[30] [31] [32] [33] [34]
+[30] [34] [38] [39]
+[35] [137] [41] [40]
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+Malkoski and Wang
+
+Page 21
+
+Pancreatic cancer
+
+N/T (Reduced)
+41/80
+215/338
+
+% (Reduced)
+51%
+63%
+
+Associations/Notes
+Invasion, higher stage Total (from the above reports)
+
+Ref [41]
+
+N/T: Number of reduced cases vs. total cases examined. Pancreatic data are for pancreatic ductal adenocarcinoma only (not mucinous cystic neoplasms and intraductal papillary mucinous neoplasms). In some instances insufficient data were provided to calculate a frequency of reduction.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+FEBS Lett. Author manuscript; available in PMC 2013 July 04.
+
+

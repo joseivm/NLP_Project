@@ -1,0 +1,301 @@
+DOI:10.1093/jnci/djs525 Advance Access publication February 5, 2013
+Article
+
+©The Author 2013. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.
+
+Risks of Colorectal and Other Cancers After Endometrial Cancer for Women With Lynch Syndrome
+Aung Ko Win, Noralane M. Lindor, Ingrid Winship, Katherine M. Tucker, Daniel D. Buchanan, Joanne P. Young, Christophe Rosty, Barbara Leggett, Graham G. Giles, Jack Goldblatt, Finlay A. Macrae, Susan Parry, Matthew F. Kalady, John A. Baron, Dennis J. Ahnen, Loic Le Marchand, Steven Gallinger, Robert W. Haile, Polly A. Newcomb, John L. Hopper, Mark A. Jenkins
+Manuscript received August 8, 2012; revised November 6, 2012; accepted November 6, 2012.
+Correspondence to: Mark A. Jenkins, PhD, Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, Melbourne School of Population Health, Level 3, 207 Bouverie St, University of Melbourne, VIC 3010 Australia (e-mail: m.jenkins@unimelb.edu.au).
+
+Background  Methods  Results
+Conclusions 
+
+Lynch syndrome is an autosomal dominantly inherited disorder caused by germline mutations in DNA mismatch repair (MMR) genes. Previous studies have shown that MMR gene mutation carriers are at increased risk of colorectal, endometrial, and several other cancers following an initial diagnosis of colorectal cancer. We estimated cancer risks following an endometrial cancer diagnosis for women carrying MMR gene mutations.
+We obtained data from the Colon Cancer Family Registry for a cohort of 127 women who had a diagnosis of endometrial cancer and who carried a mutation in one of four MMR genes (30 carried a mutation in MLH1, 72 in MSH2, 22 in MSH6, and 3 in PMS2). We used the Kaplan-Meier method to estimate 10- and 20-year cumulative risks for each cancer. We estimated the age-, country-, and calendar period­specific standardized incidence ratios (SIRs) for each cancer, compared with the general population.
+Following endometrial cancer, women carrying MMR gene mutations had the following 20-year risks of other cancer cancers: colorectal cancer (48%, 95% confidence interval [CI] = 35% to 62%); cancer of the kidney, renal pelvis, or ureter (11%, 95% CI = 3% to 20%); urinary bladder cancer (9%, 95% CI = 2% to 17%); and breast cancer (11%, 95% CI = 4% to 19%). Compared with the general population, these women were at statistically significantly elevated risks of colorectal cancer (SIR = 39.9, 95% CI = 27.2 to 58.3), cancer of the kidney, renal pelvis, or ureter (SIR = 28.3, 95% CI = 11.9 to 48.6), urinary bladder cancer (SIR = 24.3, 95% CI = 8.56 to 42.9), and breast cancer (SIR = 2.51, 95% CI = 1.17 to 4.14).
+Women with Lynch syndrome who are diagnosed with endometrial cancer have increased risks of several cancers, including breast cancer.
+J Natl Cancer Inst;2013;105:274­279
+
+Approximately 5% of all women with endometrial cancers have a family history of endometrial cancer and 2% have a family history of colorectal cancer (1). Approximately 2% of all endometrial cancers (2­ 4) and 6% of endometrial cancers diagnosed before age 70 years are due to Lynch syndrome (5). Lynch syndrome is an autosomal dominantly inherited disorder caused by a germline mutation in one of four DNA mismatch repair (MMR) genes--MLH1, MSH2, MSH6, or PMS2 (6)--or deletions in the EPCAM gene that result in inactivation of MSH2, which is located nearby (7). MMR mutation carriers are at substantially increased risks of cancers of the colorectum, endometrium, stomach, ovary, urinary tract, brain, small bowel, hepatobiliary tract, and pancreas (8­10) compared with the general population.
+The risk of a subsequent cancer following a diagnosis of endometrial cancer in MMR gene mutation carriers has not been clarified. To our knowledge, only one study has reported cancer risks following a diagnosis of endometrial cancer in women with Lynch syndrome. Aarnio et  al. (11) estimated a 40% cumulative risk of colorectal cancer and 75% cumulative risk of any malignant tumor
+
+at 26 years after endometrial cancer. However, the study was small (39 women) and used the Amsterdam criteria [ie, a family history of cancers commonly associated with inherited mutations in MMR genes (12)] to diagnose Lynch syndrome rather than the subject's MMR gene mutation status.
+Knowledge of the risks of subsequent cancers for women who carry MMR gene mutations and have been diagnosed with endometrial cancer potentially impacts the clinical management of these women, including subsequent cancer surveillance. In this study, we estimated the risks of colorectal and other cancers following endometrial cancer for women who were confirmed carriers of a pathogenic germline mutation in an MMR gene.
+Methods
+Study Sample We used data from the Colon Cancer Family Registry to identify women who were known to carry a pathogenic germline mutation
+
+274Articles|JNCI
+
+Vol. 105, Issue 4 | February 20, 2013
+
+in an MMR gene (MLH1, MSH2, MSH6, or PMS2) or a deletion in EPCAM and who had been diagnosed with endometrial cancer. Details of recruitment methods, data collection, and MMR gene mutation testing have been described in detail in previous studies (13,14). In brief, from 1997 to 2010, families were recruited either by identification of recently diagnosed colorectal cancer patients ascertained through cancer registries (population-based), or by identification of persons from families with multiple cancers that were referred to family cancer clinics (clinic-based) in Australia, New Zealand, Canada, and the United States. Written informed consent was obtained from all study participants, and the study protocol was approved by the institutional human ethics committee at each center of the Colon Cancer Family Registry.
+Data Collection Information on demographics, personal characteristics, personal and family history of cancer, cancer screening history, and history of polyps, polypectomy, hysterectomy, and other surgeries were obtained via questionnaires from all participants. The questionnaires are available at https://cfrisc.georgetown.edu/isc/ dd.questionnaires.do. Blood and tumor tissue samples were collected for genetic testing from all participants.
+MMR Gene Mutation Testing Mutation testing for the MLH1, MSH2, and MSH6 genes was performed by Sanger sequencing or denaturing high-performance liquid chromatography, followed by confirmatory DNA sequencing. Large duplication and deletion mutations including those involving EPCAM, which lead to MSH2 methylation, were detected by multiplex ligation dependent probe amplification (MLPA) according to the manufacturer's instructions (MRC Holland, Amsterdam, the Netherlands) (13,15,16). PMS2 mutation testing involved a modified protocol from Senter et al. (17), in which exons 1 to 5, 9, and 11 to 15 were amplified in three long-range polymerase chain reactions followed by nested exon-specific polymerase chain reaction and sequencing, whereas the remaining exons (exons 6, 7, 8, and 10)  were amplified and sequenced directly from genomic DNA. Large-scale deletions in PMS2 were detected using the P008-A1 MLPA kit (MRC Holland).
+Statistical Analysis Time at risk for each woman started at her age at endometrial cancer diagnosis and ended at her age at diagnosis of any subsequent cancer, last known age, or age at death, whichever occurred first. For colorectal cancer risk estimation, we excluded one woman who was diagnosed with colorectal cancer at unknown age and nine women who reported having a polypectomy before or at their age at endometrial cancer diagnosis, leaving 117 women for analysis. We censored seven women who reported having a polypectomy after being diagnosed with endometrial cancer at their age at polypectomy.
+The Kaplan­Meier failure function was used to estimate cumulative risks (penetrance) for subsequent primary cancers at 10 and 20 years after endometrial cancer diagnosis.
+We estimated the standardized incidence ratio (SIR) for cancer at each of the following sites, as defined by International Classification of Diseases for Oncology, third edition (18), site codes: colon and/or
+
+rectum (C18, C19, C20, C26.0); "kidney, etc" including kidney except renal pelvis (C64), renal pelvis (C65), and ureter (C66); urinary bladder (C67); breast (C50); small intestine (C17); and pancreas (C25). First, we estimated the risk of each primary cancer following endometrial cancer for women who carried MMR gene mutations compared with the risk of the primary cancer for women from the general population. We calculated the SIRs as the observed numbers of primary cancers following endometrial cancer in women carrying MMR gene mutations divided by the expected numbers of cancers. The expected numbers of cancers were calculated by multiplying the age-, country-, and calendar period­specific incidence for women from the general population with the corresponding follow-up time in the study cohort. Age-, country-, and calendar year­specific cancer incidences for the general population were obtained from Cancer Incidence in Five Continents for the following calendar periods: 1983 to 1987 (19), 1988 to 1992 (20), 1993 to 1997 (21), and 1998 to 2002 (22). The SIRs were stratified by the MMR gene that was mutated. We calculated 95% confidence intervals (CIs) for the cumulative risks and the SIRs using the 2.5th and 97.5th percentiles from 10000 bootstrap samples, with the family as the resampling unit to allow for clustering within families.
+Next, we compared the risk of each primary cancer following endometrial cancer for women carrying an MMR gene mutation with the risk of the primary cancer following endometrial cancer for women from the general population. To do this, we divided the SIR described above by the risk of the primary cancer following endometrial cancer for women from the general population, which was obtained from the New Malignancies Among Cancer Survivors: SEER Cancer Registries, 1973 to 2000 (23). We calculated 95% confidence intervals for this ratio based on the observed and expected numbers of each cancer using the method described by Breslow and Day (24).
+We estimated the frequency of colonoscopy or sigmoidoscopy before a diagnosis of colorectal cancer following endometrial cancer from the self-reported questionnaire data as in a previous study (25). Endoscopic examinations within 1  year before the subject's age at diagnosis of colorectal cancer were excluded because they were considered to be diagnostic rather than screening tests. The frequency of colonoscopy or sigmoidoscopy was assumed to be distributed uniformly in the period between first and last age of endoscopy.
+In a sensitivity analysis for colorectal cancer risk estimation, we included all women regardless of whether they had had a colorectal polypectomy prior to endometrial cancer diagnosis and calculated the SIR without censoring at the time of polypectomy. All statistical analyses were performed using Stata 11.0 (26).
+Results
+Of the 198 women identified as MMR gene mutation carriers and having a previous diagnosis of endometrial cancer, we excluded 68 who had been diagnosed with a cancer before being diagnosed with endometrial cancer and three whose age at endometrial cancer diagnosis was not known. Of the 15 women carrying a deletion in EPCAM, none had a previous diagnosis of endometrial cancer and were therefore not included in the analyses. A  total of 127 women carrying an MMR gene mutation (30 MLH1, 72
+
+jnci.oxfordjournals.org
+
+JNCI |Articles 275
+
+MSH2, 22 MSH6, and 3 PMS2) from 105 families (23 MLH1, 61 MSH2, 18 MSH6, and 3 PMS2) were identified. Of these women, 58 (46%) were recruited in Australia and New Zealand, 40 (31%) in the United States, and 29 (23%) in Canada. The mean age at endometrial cancer diagnosis was 46.3 years (SD = 8.36 years) and the median age at diagnosis was 46  years (range  =  25­68  years). A total of 70 women (55%) developed at least one primary cancer after being diagnosed with endometrial cancer, of whom 19 developed more than one cancer (Table 1). Of the 74 cancers diagnosed following endometrial cancer for which we calculated SIRs, 86% were confirmed by pathology reports, medical records, cancer registry reports, and/or death certificates (Supplementary Table 1, available online).
+Among women with an MMR gene mutation, the most common primary cancer following endometrial cancer was colorectal cancer, with a total of 40 cases diagnosed (23 in the proximal colon, six in the distal colon, five in the rectum, and exact location unknown for 6). Approximately 20% of mutation-carrying women were diagnosed with a colorectal cancer during the 10 years and 48% during the 20 years following their endometrial cancer diagnosis (Table  2). Following endometrial cancer, the MMR gene mutation carriers were at approximately 40-fold increased risk of colorectal cancer (SIR = 39.9, 95% CI = 27.2 to 58.3) compared with women from the general population (Table  3). Of the 117 women included in the analysis of subsequent colorectal cancer, 64 reported having had at least one surveillance colonoscopy or sigmoidoscopy after the diagnosis of their endometrial cancer and for these women, the average interval between endoscopies was 2.10 years (95% CI = 1.70 to 2.51 years) (Supplementary Table 2, available online). Details of colorectal cancer diagnosis following endometrial cancer in MMR gene mutation carriers and their surveillance colonoscopy or sigmoidoscopy status is shown in Supplementary Table 3 (available online). In the sensitivity analysis (including all women regardless of whether they had had a colorectal polypectomy prior to endometrial cancer diagnosis and without censoring at the time of polypectomy), the SIR for colorectal cancer was 39.7 (95% CI = 28.2 to 55.8).
+The other cancers that occurred after endometrial cancer women carrying MMR gene mutations included 16 cancers in the urinary tract (4 kidney, 1 renal pelvis, 4 ureter, and 7 bladder), 12 in the breast, 3 in the small intestine (2 duodenum and 1 unspecified), and 3 in the pancreas (Table 1). During the 20 years after endometrial cancer, the cumulative risks were 11% (95% CI = 3% to 20%) for cancer of the kidney, renal pelvis or ureter, 9% (95% CI = 2% to 17%) for urinary bladder cancer, and 11% (95% CI  =  4% to 19%) for breast cancer (Table  2). Compared with women from the general population, women carrying MMR gene mutations had an increased risk of cancer of the kidney, renal pelvis, or ureter (SIR  =  28.3, 95% CI  =  11.9 to 48.6), urinary bladder cancer (SIR = 24.3, 95% CI = 8.56 to 42.9), and breast cancer (SIR = 2.51, 95% CI = 1.17 to 4.14) (Table 3).
+We observed no statistically significant differences in the 10- and 20-year cumulative risk of each cancer when stratified according to the specific MMR gene mutated (data not shown). We observed no statistically significant difference in the SIRs by the specified MMR gene that was mutated except for colorectal cancer risk (Table 4). The risk of colorectal cancer following endometrial cancer for
+
+Table 1. Baseline characteristics of women participating in the study 
+
+Characteristic
+
+No. %
+
+Center of recruitment Cancer Care Ontario University of Southern California Australia and New Zealand Hawaii Mayo Clinic Seattle
+Source of ascertainment Clinic-based Population-based
+Mismatch repair gene mutated MLH1 MSH2 MSH6 PMS2
+Age at diagnosis of endometrial cancer, y Mean (SD) Median (range)
+Cancers following endometrial cancer* Colorectum Breast Urinary bladder Kidney and renal pelvis Ureter Small intestine Pancreas Skin Stomach Thyroid Gall bladder Biliary tract Vulva Head and neck (ill-defined tumor)
+
+29 10 58 3 26 1
+94 33
+30 72 22
+3
+46.3 46
+40 12
+7 5 4 3 3 9 1 1 1 1 1 1
+
+23 8
+46 2
+20 1
+74 26
+24 57 17
+2
+(8.36) (25­68)
+31 9 6 4 3 2 2 7 1 1 1 1 1 1
+
+* Percentages are based on the total number of women (N = 127) participating in the study.
+
+Table  2. Cumulative risks (percentage) and 95% confidence intervals (CIs) of primary cancers at 10 and 20 years after endometrial cancer for mismatch repair gene mutation carriers 
+
+10 years
+
+20 years
+
+Cancer site
+
+Risk, % (95% CI)
+
+Risk, % (95% CI)
+
+Colorectum Kidney, etc* Urinary bladder Breast
+
+20 (13 to 28) 2 (0 to 5) 1 (0 to 4) 5 (1 to 10)
+
+48 (35 to 62) 11 (3 to 20) 9 (2 to 17) 11 (4 to 19)
+
+* "Kidney, etc" included kidney, renal pelvis, and ureter.
+
+MLH1 (SIR = 38.7, 95% CI = 19.5 to 70.2) and MSH2 mutation carriers (SIR  =  58.5, 95% CI  =  36.0 to 98.4) was substantially higher than that for MSH6 mutation carriers (SIR  =  4.46, 95% CI = 0.00 to 24.2).
+The increased cancer-specific risks we observed were similar whether the reference incidences were for any primary cancer or for cancer diagnosed following endometrial cancer. That is, the increased risk we observed for cancer following endometrial cancer for women carrying an MMR gene mutation was substantially greater than the increased risk expected based on a similar analysis of women with endometrial cancer in the general population (Table 3).
+
+276Articles|JNCI
+
+Vol. 105, Issue 4 | February 20, 2013
+
+Table 3. Standardized incidence ratios (SIRs) and corresponding 95% confidence intervals (CIs) of primary cancers following endometrial cancer for mismatch repair gene mutation carriers* 
+
+Cancer site
+
+Median year of
+
+observation for
+
+Median age, y,
+
+cancer following
+
+at diagnosis
+
+endometrial
+
+OE
+
+(range)
+
+cancer (range)
+
+SIR (95% CI)
+
+SIR2 (95% CI)
+
+Colorectum
+
+40 1.00
+
+Kidney, etc
+
+9 0.32
+
+Urinary bladder
+
+7 0.29
+
+Breast
+
+12 4.79
+
+Small intestine
+
+3 0.05
+
+Pancreas
+
+3 0.35
+
+55 (34­80) 64 (45­72) 69 (58­84) 63 (37­80) 53 (51­53) 65 (65­67)
+
+11 (1­36) 17 (2­37) 17 (9­42) 12 (3­42) 22 (17­28) 26 (16­30)
+
+39.9 (27.2 to 58.3) 28.3 (11.9 to 48.6) 24.3 (8.56 to 42.9) 2.51 (1.17 to 4.14) 63.0 (0.00 to 150) 8.61 (0.00 to 20.5)
+
+36.27 (25.8 to 49.6) 29.31 (13.2 to 56.9) 16.95 (6.77 to 35.2)
+2.41 (1.24 to 4.22) 38.34 (7.65 to 119)
+8.92 (1.83 to 26.3)
+
+* O = observed number of cancers; E = expected number of cancers; SIR = standardized incidence ratio of primary cancer following endometrial cancer for mismatch repair gene mutation carriers compared with risk of primary cancer for the general population; SIR2 = standardized incidence ratio of primary cancers following endometrial cancer for mismatch repair gene mutation carriers compared with that for the general population (see Statistical Analysis for details).
+ "Kidney, etc" included kidney, renal pelvis, and ureter.
+
+Table 4. Standardized incidence ratios (SIRs) and corresponding 95% confidence intervals (CIs) of primary cancers following endometrial cancer for mismatch repair gene mutation carriers stratified by the mismatch repair gene that was mutated* 
+
+MLH1
+
+MSH2
+
+MSH6
+
+PSM2
+
+Cancer site O E
+
+SIR (95% CI)
+
+OE
+
+SIR (95% CI) O E
+
+SIR (95% CI)
+
+OE
+
+SIR (95% CI)
+
+Colorectum
+
+12 0.31 38.7 (19.5 to 70.2) 26
+
+Kidney, etc 1 0.07 13.4 (0.00 to 49.1) 6
+
+Urinary bladder 2 0.06 33.8 (0.00 to 92.5) 5
+
+Breast
+
+2 1.16 1.72 (0.00 to 4.21) 7
+
+Small intestine 0 0.01 -- 2
+
+Pancreas
+
+1 0.08 12.9 (0.00 to 49.8) 2
+
+0.44 58.5 (36.0 to 98.4) 1 0.19 31.4 (9.72 to 57.6) 2 0.18 27.1 (6.40 to 51.6) 0 2.92 2.39 (0.82 to 4.47) 3 0.02 68.3 (0.00 to 196) 1 0.21 9.32 (0.00 to 26.1) 0
+
+0.22 4.46 (0.00 to 24.2) 1 0.04 44.82 (0.00 to 156) 0 0.04 -- 0 0.62 4.84 (0.00 to 11.7) 0 0.01 161 (0.00 to 644) 0 0.05 -- 0
+
+0.02 44.0 (0.00 to 824) 0.01 -- 0.01 -- 0.08 -- 0.00 -- 0.01 --
+
+* O = observed number of cancers; E = expected number of cancers; -- = not estimable due to low numbers of cancers.  "Kidney, etc" included kidney, renal pelvis, and ureter.
+
+Discussion
+Previous research on cancer risks for people with Lynch syndrome has almost exclusively focused on the risks of first cancers with minimal investigation of the risk of cancers following an initial cancer diagnosis. Endometrial cancer is one of the most commonly diagnosed cancers in women with Lynch syndrome, and clarification on the risks of subsequent cancers potentially facilitates the development of appropriate cancer surveillance strategies for endometrial cancer survivors. In this study, we have estimated these risks for women with Lynch syndrome who have been diagnosed with endometrial cancer and observed an increased risk for a wide range of cancers, including breast cancer.
+In general, the cancers that occurred subsequent to endometrial cancer in this study were not unexpected given the previously described risks of first cancers for women who carry MMR gene mutations (8­10). The notable exception was the increased risk of breast cancer. One explanation for the modest increased risk of breast cancer we observed is that mammographic screening may be more prevalent in women carrying MMR gene mutations (who may be more concerned about cancer risk) compared with the general population, thus resulting in breast cancer diagnoses being brought forward due to early detection. Another possible explanation is that the study cohort of women who have already had endometrial cancer are more susceptible to other cancers than MMR mutation carriers who have not had a previous cancer and therefore may be a more sensitive cohort in which to detect
+
+any real increase in breast cancer risk. A previous study from the Colon Cancer Family Registry observed that approximately half of the breast cancers in women with Lynch syndrome exhibited absence of mismatch repair protein expression consistent with the gene that was mutated (27), suggesting that germline mutations in MMR genes may contribute to breast cancer development in some women. A Finnish study (28) showed that the proportion of MMRdeficient breast cancers (defined as the absence of MMR protein expression and/or presence of microsatellite instability) was statistically significantly higher in mutation carriers than in noncarriers (65% vs 0%; P <  .001). A  prospective study from the Colon Cancer Family Registry (7 women from that study overlapped with this study, but none of them developed a breast cancer) also found an increased risk of breast cancer for women carrying MMR gene mutations (8). In this study, the 20-year risk for breast cancer was 11% (95% CI = 4% to 19%), which may not rise to the level suggested by the American Cancer Society for MRI screening for breast cancer, although that is based on lifetime risks and we can only report on 10- and 20-year cumulative risks. The threshold risk of breast cancer required for recommended breast MRI screening suggested by the American Cancer Society is approximately 20% to 25% or greater lifetime risk (29).
+The cancer risks for women carrying MMR gene mutations who have had endometrial cancer might differ from those for women who have not had any cancer, given that there could be an unmeasured polygenic influence that resulted in penetrance for
+
+jnci.oxfordjournals.org
+
+JNCI |Articles 277
+
+the first cancer (30). Compared to a prospective study of cancer risks for MMR gene mutation carriers who had not had any cancer (8), our estimates for cancer risks following endometrial cancer were not substantially different (Supplementary Table 4, available online); that is, our study does not provide evidence that a prior diagnosis of endometrial cancer increases risks of subsequent primary cancers.
+We also compared the cancer risks following endometrial cancer with previously reported cancer risks following colorectal cancer for MMR gene mutation carriers (14) (Supplementary Table 5, available online). Given the large overlap of confidence intervals of cancer risk estimates from the two studies, we conclude there is no evidence for a substantial difference in risk regardless of the site of the initial cancer. Our analyses do not allow us to make surveillance recommendations for mutation carriers with endometrial cancer that differ from those for mutation carriers with colorectal cancer or those without previous diagnosis of any cancer. Further studies with sufficient statistical power are needed to fully distinguish cancer risks for MMR gene mutation carriers with different types of cancer and without any cancer.
+Given previous evidence of heterogeneity of cancer risk by the specific MMR gene mutated (31), we attempted to identify differences in cancer risk where possible. However, we derived most of our conclusions from analyses of all MMR gene mutation carriers combined because even with this large series, there was insufficient statistical power to fully distinguish cancer risks for carriers of each specific gene mutation. We observed that the risk of colorectal cancer following endometrial cancer for MSH6 mutation carriers was lower than that for MLH1 and MSH2 mutation carriers. This finding is consistent with the previous studies reporting lower cancer risks for MSH6 mutation carriers than for MLH1 and MSH2 mutation carriers with no previous cancer diagnosis (31­33).
+We also note in our cohort that we identified no endometrial cancer diagnoses in 15 women carrying a deletion in EPCAM, a finding consistent with the low risk of endometrial cancer for EPCAM deletion carriers observed by Kempers et  al. (7). They observed that women with EPCAM deletions had a 12% (95% CI  =  0% to 27%) cumulative risk of endometrial cancer to age 70 years, which was lower than for carriers of a combined EPCAM­ MSH2 deletion (55%, 95% CI = 20% to 90%, P < .001).
+This study is, to our knowledge, the largest to investigate the risks for a wide range of cancers following endometrial cancer in women with Lynch syndrome. All participating sites of the Colon Cancer Family Registry used standardized epidemiologic assessment and uniformly high-quality testing for MMR gene mutations. Attempts were made to verify primary cancers using pathology reports, medical records, corroboration by relatives, cancer registry reports, and/or death certificates, where available (13).
+This study has some notable limitations. Even with this large series, there was insufficient statistical power to fully distinguish cancer risks for specific MMR gene mutation carriers. We had no information on treatment history for initial diagnosis of endometrial cancer, which may have affected risk of subsequent cancers. It is possible that our results are not applicable to women with a poor prognosis as they were less likely to be included in this analysis (ie, less likely to be able to provide a blood sample for genetic testing and complete a questionnaire). Because of the lack
+
+of comparative incidence data, we were unable to estimate sitespecific SIRs separately for cancers of the kidney, renal pelvis, and ureter; instead, we reported risks for all urinary tract cancers combined. Finally, because we had limited data on the type of colorectal polyps removed, we censored subjects at polypectomy instead of estimating postpolypectomy risk for colorectal cancer. However, our sensitivity analysis including observation time after polypectomy resulted in essentially the same estimate of colorectal cancer risk.
+We do not know whether the women in this study were informed of their MMR gene mutation status, and if so, when in relation to their cancer diagnoses. Mutation testing was done in the context of the research study, and although return of mutation results is offered as part of the protocol, some participants still do not know their mutation status (34). Knowledge of MMR gene mutation status by the women or their clinicians might have altered their frequency of surveillance for colorectal polyps and cancer.
+In conclusion, women carrying MMR gene mutations with a previous diagnosis of endometrial cancer have increased risks of a range of cancers, including breast cancer. This study provides the most accurate representation of their ongoing cancer risks, providing a basis for effective long-term surveillance and risk reduction strategies. Further larger studies are recommended for refining risk estimates separately for specific MMR gene mutations to optimally inform practice and policy for clinical risk management.
+References
+ 1.Gruber SB, Thompson WD. A population-based study of endometrial cancer and familial risk in younger women. Cancer and Steroid Hormone Study Group. Cancer Epidemiol Biomarkers Prev. 1996;5(6):411­417.
+ 2. Ollikainen M, Abdel-Rahman WM, Moisio A-L, et al. Molecular analysis of familial endometrial carcinoma: a manifestation of hereditary nonpolyposis colorectal cancer or a separate syndrome? J Clin Oncol. 2005;23(21):4609­4616.
+ 3.Hampel H, Frankel W, Panescu J, et  al. Screening for Lynch syndrome (hereditary nonpolyposis colorectal cancer) among endometrial cancer patients. Cancer Res. 2006;66(15):7810­7817.
+ 4. Goodfellow PJ, Buttin BM, Herzog TJ, et al. Prevalence of defective DNA mismatch repair and MSH6 mutation in an unselected series of endometrial cancers. Proc Natl Acad Sci U S A. 2003;100(10):5908­5913.
+ 5. Leenen CH, van Lier MG, van Doorn HC, et al. Prospective evaluation of molecular screening for Lynch syndrome in patients with endometrial cancer 70years. Gynecol Oncol. 2012;125(2):414­420.
+ 6.Vasen HFA, Watson P, Mecklin JP, Lynch HT. New clinical criteria for hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome) proposed by the International Collaborative Group on HNPCC. Gastroenterology. 1999;116(6):1453­1456.
+ 7.Kempers MJE, Kuiper RP, Ockeloen CW, et  al. Risk of colorectal and endometrial cancers in EPCAM deletion-positive Lynch syndrome: a cohort study. Lancet Oncol. 2011;12(1):49­55.
+ 8. Win AK, Young JP, Lindor NM, et al. Colorectal and other cancer risks for carriers and noncarriers from families with a DNA mismatch repair gene mutation: a prospective cohort study. J Clin Oncol. 2012;30(9):958­964.
+ 9. Umar A, Boland CR, Terdiman JP, et al. Revised Bethesda guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst. 2004;96(4):261­268.
+ 10.Kastrinos F, Mukherjee B, Tayob N, et  al. Risk of pancreatic cancer in families with Lynch syndrome. JAMA. 2009;302(16):1790­1795.
+ 11. Aarnio M,Mecklin JP, Aaltonen LA, Nystrom-Lahti M, Jarvinen HJ. Lifetime risk of different cancers in hereditary non-polyposis colorectal cancer (HNPCC) syndrome. Int J Cancer. 1995;64(6):430­433.
+12.Vasen HF, Mecklin JP, Khan PM, Lynch HT. The International Collaborative Group on Hereditary Non-Polyposis Colorectal Cancer (ICG-HNPCC). Dis Colon Rectum. 1991;34(5):424­425.
+
+278Articles|JNCI
+
+Vol. 105, Issue 4 | February 20, 2013
+
+ 13. Newcomb PA, Baron J, Cotterchio M, et al. Colon Cancer Family Registry: an international resource for studies of the genetic epidemiology of colon cancer. Cancer Epidemiol Biomarkers Prev. 2007;16(11):2331­2343.
+ 14. Win AK, Lindor NM, Young JP, et al. Risks of primary extracolonic cancers following colorectal cancer in Lynch syndrome. J Natl Cancer Inst. 2012;104(18):1363­1372.
+ 15. Southey MC, Jenkins MA, Mead L, et al. Use of molecular tumor characteristics to prioritize mismatch repair gene testing in early-onset colorectal cancer. J Clin Oncol. 2005;23(27):6524­6532.
+ 16. Smith L, Tesoriero A, Mead L, et al. Large genomic alterations in hMSH2 and hMLH1 in early-onset colorectal cancer: identification of a large complex de novo hMLH1 alteration. Clin Genet. 2006;70(3):250­252.
+ 17.Senter L, Clendenning M, Sotamaa K, et  al. The clinical phenotype of Lynch syndrome due to germ-line PMS2 mutations. Gastroenterology. 2008;135(2):419­428.
+ 18. Fritz A, Percy C, Jack A, et al. International Classification of Diseases for Oncology (ICD-O). 3rd ed. Geneva, Switzerland: World Health Organization; 2000.
+ 19.Parkin DM, Muir CS, Whelan SL, Gao Y-T, Ferlay J, Powell J. Cancer incidence in five continents, Vol VI. In: IARC Scientific Publications No. 120. Lyon, France: International Agency for Research on Cancer; 1992.
+ 20. Parkin DM, Whelan SL, Ferlay J, Raymond L, Young J. Cancer incidence in five continents, Vol VII. In: IARC Scientific Publications No. 143. Lyon, France: International Agency for Research on Cancer; 1997.
+ 21. Parkin DM, Whelan SL, Ferlay J, Teppo L, Thomas DB. Cancer incidence in five continents, Vol VIII. In: IARC Scientific Publications No. 155. Lyon, France: International Agency for Research on Cancer; 2002.
+ 22.Curado MP, Edwards B, Shin HR, et  al. Cancer incidence in five continents, Vol IX. In: IARC Scientific Publications No. 160. Lyon, France: International Agency for Research on Cancer; 2007.
+ 23. Freedman DM, Curtis RE, Travis LB, Fraumeni JF Jr. New malignancies following cancer of the uterine corpus and ovary. In: Curtis RE, Freedman DM, Ron E, et al., eds. New Malignancies Among Cancer Survivors: SEER Cancer Registries, 1973­2000. Bethesda, MD: National Cancer Institute; 2006, 231­256.
+ 24. Breslow NE, Day NE. Statistical methods in cancer research. In: Heseltine E (ed). Volume II--The Design and Analysis of Cohort Studies. Scientific Publications No. 82. Lyon, France: International Agency for Research on Cancer; 1987, 91­103.
+ 25. Parry S, Win AK, Parry B, et al. Metachronous colorectal cancer risk for mismatch repair gene mutation carriers: the advantage of more extensive colon surgery. Gut. 2011;60(7):950­957.
+ 26.StataCorp. Stata Statistical Software: Release 11. College Station, TX: StataCorp LP; 2009.
+ 27. Walsh MD, Buchanan DD, Cummings MC, et al. Lynch syndrome-associated breast cancers: clinicopathologic characteristics of a case series from the colon cancer family registry. Clin Cancer Res. 2010;16(7):2214­2224.
+ 28.Lotsari JE, Gylling A, Abdel-Rahman WM, et  al. Breast carcinoma and Lynch syndrome: molecular analysis of tumors arising in mutation carriers, non-carriers, and sporadic cases. Breast Cancer Res. 2012;14(3):R90.
+ 29. Saslow D, Boetes C, Burke W, et al. American Cancer Society guidelines for breast screening with MRI as an adjunct to mammography. CA Cancer J Clin. 2007;57(2):75­89.
+ 30.Dowty JG, Win AK, Buchanan DD, et  al. Cancer risks for MLH1 and MSH2 mutation carriers. Hum Mutat. In press.
+ 31.Bonadona V, Bonaiti B, Olschwang S, et al. Cancer risks associated with germline mutations in MLH1, MSH2, and MSH6 genes in Lynch syndrome. JAMA. 2011;305(22):2304­2310.
+ 32.Baglietto L, Lindor NM, Dowty JG, et  al. Risks of Lynch syndrome cancers for MSH6 mutation carriers. J Natl Cancer Inst. 2010;102(3): 193­201.
+ 33. Chen S, Wang W, Lee S, et al. Prediction of germline mutations and cancer risk in the Lynch syndrome. JAMA. 2006;296(12):1479­1487.
+ 34. Keogh LA, van Vliet CM, Studdert DM, et al. Is uptake of genetic testing for colorectal cancer influenced by knowledge of insurance implications? Med J Aust. 2009;191(5):255­258.
+
+Funding
+This work was supported by the National Cancer Institute, National Institutes of Health under RFA CA-95-011, and through cooperative agreements with members of the Colon Cancer Family Registry and principal investigators. AKW is supported by the Picchi Brothers Foundation Cancer Council Victoria Cancer Research Scholarship, Australia. JLH is a National Health and Medical Research Council Australia Fellow. MAJ is a National Health and Medical Research Council Senior Research Fellow. JPY is a Cancer Council Queensland Senior Research Fellow. CR is a Jass Pathology Fellow.
+Notes
+The authors have no conflict of interest to declare with respect to this manuscript. The content of this manuscript does not necessarily reflect the views or pol-
+icies of the National Cancer Institute or any of the collaborating centers in the Colon Cancer Family Registry, nor does mention of trade names, commercial products, or organizations imply endorsement by the US government or the Colon Cancer Family Registry. Authors had full responsibility for the design of the study, the collection of the data, the analysis and interpretation of the data, the decision to submit the manuscript for publication, and the writing of the manuscript.
+Collaborating centers include Australasian Colorectal Cancer Family Registry (U01 CA097735), Familial Colorectal Neoplasia Collaborative Group (U01 CA074799; USC), Mayo Clinic Cooperative Family Registry for Colon Cancer Studies (U01 CA074800), Ontario Registry for Studies of Familial Colorectal Cancer (U01 CA074783), Seattle Colorectal Cancer Family Registry (U01 CA074794), and University of Hawaii Colorectal Cancer Family Registry (U01 CA074806).
+The authors thank all study participants of the Colon Cancer Family Registry and staff for their contributions to this project.
+Affiliations of authors: Centre for Molecular, Environmental, Genetic and Analytic Epidemiology (AKW, JLH, MAJ) and Department of Medicine (IW), The University of Melbourne, Parkville, Victoria, Australia; Department of Health Science Research, Mayo Clinic Arizona, Scottsdale, AZ (NML); Genetic Medicine (IW) and Colorectal Medicine and Genetics (FAM), The Royal Melbourne Hospital, Parkville, Victoria, Australia; Hereditary Cancer Clinic, Prince of Wales Hospital, Randwick, New South Wales, Australia (KMT); Cancer and Population Studies Group (DDB, JPY, CR) and Conjoint Gastroenterology Laboratory, Pathology Queensland, Clinical Research Centre of Royal Brisbane and Women's Hospital Research Foundation (BL), Queensland Institute of Medical Research, Herston, Queensland, Australia; Department of Molecular and Cellular Pathology (CR) and School of Medicine (BL), University of Queensland, Herston, Queensland, Australia; Department of Gastroenterology and Hepatology, The Royal Brisbane and Women's Hospital, Brisbane, Australia (BL); Cancer Epidemiology Centre, Cancer Council Victoria, Carlton, Victoria, Australia (GGG); Genetic Services of Western Australia and School of Paediatrics and Child Health, University of Western Australia, Perth, Australia (JG); New Zealand Familial Gastrointestinal Cancer Registry, Auckland City Hospital, Auckland, New Zealand (SP); Department of Gastroenterology, Middlemore Hospital, Auckland, New Zealand (SP); Department of Colorectal Surgery, Digestive Disease Institute, and Cancer Biology Department, Lerner Research Institute, Cleveland Clinic, Cleveland, OH (MFK); Department of Medicine, University of North Carolina, Chapel Hill, NC (JAB); Denver VA Medical Center, School of Medicine, University of Colorado, Denver, CO (DJA); University of Hawaii Cancer Center, Honolulu, HI (LLM); Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada (SG); Cancer Care Ontario, Toronto, Ontario, Canada (SG); Department of Preventive Medicine, University of Southern California, Los Angeles, CA (RWH); Cancer Prevention Program, Fred Hutchinson Cancer Research Center, Seattle, WA (PAN).
+
+jnci.oxfordjournals.org
+
+JNCI |Articles 279
+
+

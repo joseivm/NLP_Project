@@ -1,0 +1,216 @@
+Journal of Surgical Oncology 2015;111:125­130
+
+Cowden Syndrome: Recognizing and Managing a Not-So-Rare Hereditary Cancer Syndrome
+
+JESSICA MESTER, MS, LGC* AND CHARIS ENG, MD, PhD
+Cleveland Clinic Genomic Medicine Institute, Cleveland, OH,
+Cowden syndrome (CS) is an autosomal dominant hereditary cancer syndrome causing increased risk for breast, thyroid, renal, uterine, and other cancers as well as benign neoplasias and neurodevelopmental concerns. Timely diagnosis of affected patients is key, as early recognition allows for highrisk screening and other preventative measures prior to a patient enduring multiple cancer diagnoses. This review will highlight the cardinal features of CS and management recommendations for affected patients. J. Surg. Oncol. 2015;111:125­130. ß 2014 Wiley Periodicals, Inc.
+KEY WORDS: (35); cowden syndrome; PTEN hamartoma tumor syndrome; hereditary cancer syndromes
+
+INTRODUCTION
+Cowden syndrome (CS) (OMIM #158350) is a dominantly inherited multisystem disorder causing increased risks for benign and malignant neoplasias. Initially considered a mainly dermatologic disease, over time, the phenotypic spectrum has broadened to include cancer risks as well as neurodevelopmental disorders. We also now understand the genetic mechanism causing disease in many patients, allowing for molecular diagnostic confirmation, predictive testing of atrisk relatives, and geneinformed highrisk management. This article will help the reader identify atrisk surgical patients who may benefit from referral for cancer genetics consultation and review management guidelines for affected patients.
+FROM CLINICAL DIAGNOSIS TO GENE IDENTIFICATION
+In 1962, Drs. Kenneth M. Lloyd and Macey Dennis published a case report about a 20yearold woman named Rachel Cowden who presented to Youngstown Hospital with severe ulcerative, cystic breast disease. They noticed that both her medical history and physical exam revealed additional anomalies, including a large multinodular goiter, papillomatous overgrowths of her oral mucosa, central nervous system abnormalities, and dysmorphic characteristics, as well as a family history of similar findings. The authors believed that so many anomalies coexisting in one person was more likely due to an underlying syndrome than to chance alone. To honor the patient, Drs. Lloyd and Dennis decided to name the previously undescribed condition Cowden syndrome [1].
+Additional patients with Cowden came to light in the following years, with the diagnosis resting on the presence of a combination of key mucocutaneous findings: facial papules, most often trichilemmomas, oral papillomas, acral keratoses, and fibromas [2]. An association with risk for breast cancer was quickly uncovered, and based on early case series an estimated breast cancer risk of 25­50% was quoted [2,3]. Among the first 100 cases of Cowden syndrome described in the literature, the most common features identified were thyroid goiter/ adenoma (68%), fibrocystic breast disease (52%), GI polyps (35%), lipomas (31%), and macrocephaly (21%). Only 6% of patients had endometrial cancer, 3% thyroid cancer, and another 3% colorectal cancer [3]. Lhermitte­Duclos disease (LDD, dysplastic cerebellar gangliocytoma) was diagnosed in 2 CS patients; similar to Lloyd & Dennis, the authors surmised that it was unlikely for two rare
+ß 2014 Wiley Periodicals, Inc.
+
+occurrences in the same patients to be unrelated, and proposed that LDD become a part of the CS spectrum [4].
+In the mid1990s genetic linkage studies of 12 CS families identified a possible gene locus at chromosome subband 10q23 [5]. While no tumor suppressor genes had yet been identified in that region, loss of heterozygosity had been observed in follicular thyroid and uterine tumors [6,7]. A few years later, Li et al. identified a candidate tumor suppressor gene, PTEN, within this genomic region; somatic PTEN mutations had been identified in brain, breast, and prostate cancer cell lines [8]. PTEN sequencing within 5 CS kindreds identified a germline PTEN mutation in 4 families, confirming PTEN as the first gene known to cause CS [9].
+About 60% of patients with Bannayan­Riley­Ruvalcaba syndrome (BRRS, OMIM #153480), also referred to as as Bannayan­Zonana, Riley­Smith, or Ruvalcaba­Myhre­Smith syndrome in the medical literature were also identified as having germline PTEN mutations [10­ 12]. BRRS was first described as a condition with pediatric onset, causing macrocephaly, lipomas, hamartomatous gastrointestinal polyps, vascular malformations, Hashimoto's thyroidits, and penile freckling [13]. Identical PTEN mutations were identified in families with differing clinical phenotypes, leading to the hypothesis that CS and BRRS should be considered as one condition, and that the increased cancer risks in CS should also apply to BRRS patients. Patients with a ProteusLike syndrome as well as solely macrocephaly and autism were also identified with germline PTEN mutations, further expanding the clinical spectrum of this disease [14­18]. The term PTEN Hamartoma Tumor syndrome (PHTS) was coined to describe any patient with a germline PTEN mutation, regardless of clinical phenotype [19]. Clinical features associated with PHTS are listed in Table I [20].
+The authors have no conflicts of interest to disclose. *Correspondence to: Jessica Mester, MS, LGC, 9500 Euclid Ave. NE50, Cleveland, OH 44195. Fax: þ2164456935. Email: mesterj@ccf.org Received 30 April 2014; Accepted 4 July 2014
+DOI 10.1002/jso.23735
+Published online 11 August 2014 in Wiley Online Library (wileyonlinelibrary.com).
+
+126 Mester and Eng
+
+TABLE I. Clinical Characteristics of PTEN Hamartoma Tumor Syndrome
+Benign neoplasias Dermatologic
+· Palmoplantar keratoses · Trichilemmomas · Lipomas · Fibromas · Freckling of the glans penis Vascular anomalies/hemangiomas LhermitteDuclos (dysplastic gangliocytoma of the cerebellum) Genitourinary tumors/malformations Colorectal polyposis Mucosal lesions Thyroid goiter/nodules Proliferative breast changes Malignancies Breast cancer Nonmedullary thyroid cancer Renal cancer Endometrial cancer Colorectal cancer Melanoma CNS Macrocephaly Autism/Developmental Delay Dysmorphic Characteristics Dolicocephaly Postaxial polydactyly Other Autosomal dominant inheritance 10­44% caused by de novo mutation Extreme intrafamilial variability common Penetrance 100% by adulthood
+CANCER RISKS AND PHTS/CS
+In patients with germline PTEN mutations and thus PHTS, three studies to date have examined risks for malignancy (Table II) [21­23]. The largest, by Tan et al., identified greatly increased lifetime risks for breast, thyroid, renal, and endometrial cancers and slightly elevated risks for colorectal cancers and melanoma [21]. Attempts to identify clinically relevant genotypephenotype correlations were unsuccessful, reinforcing the need for every PHTS patient to be offered highrisk management options for all associated cancers regardless of mutation type [21].
+MANAGEMENT IN PHTS/CS
+As noted previously, patients identified as having germline PTEN mutations have been proven to have greatly elevated cancer risks above those observed in the general population. Management guidelines for PTENmutation positive patients revolve around these high cancer risks, with the goal of cancer prevention through prophylactic surgery or identifying tumors at the earliest, most treatable stages (Table III).
+Breast
+Women with PTEN mutations are at elevated risk for both primary as well as secondary breast cancer diagnoses. The highest risk estimate is 87% [21], a number comparable to that quoted for patients with Hereditary Breast and Ovarian Cancer (HBOC) syndrome, caused by the BRCA1/2 genes [24]. It thus makes sense for women with PTEN mutations to have access to the same highrisk screening and surgical options as are offered to women with HBOC. This includes surveillance using a combination of clinical breast exams every 6 months along with imaging, alternating between mammography and MRI [25]. As demonstrated by the story of Rachel Cowden, some women with CS
+
+TABLE II. Summary of Studies To Date Analyzing Lifetime Cancer Risks in Patients with Germline PTEN Mutations
+
+Tan et al. (2011)
+
+Bubien et al. (2013)
+
+Nieuwenhuis et al. (2013)
+
+Number of patients
+Median age (yrs) Lifetime cancer risksÃ
+Female breast
+Thyroid
+
+368 39
+85% 35%
+
+Renal
+
+34%
+
+Endometrial
+Colorectal
+Women: 17% Melanoma
+
+28% 9% 6%
+
+146 36
+77% 38%
+Elevated in women, N insufficient for further analysis
+Elevated, N insufficient for further analysis
+Elevated in men, N insufficient for further analysis
+Elevated, N insufficient for further analysis
+
+180 32 67% Women: 25% Men: 6% Women: 9%
+Women: 9% 21%
+Women: 17%
+Men: 2%
+
+ÃLifetime risks calculated to age 70 by Tan et al. and Bubien et al.; to age 60 by Nieuwenhuis et al.
+
+have so many benign breast lesions that their images are difficult to interpret, and they may be required to endure multiple callbacks and biopsies over the years [26]. For these reasons, some women may opt to pursue prophylactic mastectomy, which within the HBOC population has been shown to reduce breast cancer risk by 90% [27]. Women with PTEN mutations who have already had one breast cancer diagnosis are at 29% risk for another primary breast cancer within the next 10 years [28]; this reinforces a need for continued highrisk surveillance, consideration of mastectomy for surgical treatment of their first breast cancer, and consideration of contralateral prophylactic mastectomy.
+Thyroid
+Similar to the phenomenon observed in the realm of breast disease, most patients with PTEN mutations have thyroids with multiple nodules, some with a combination of goiter and Hashimoto's thyroiditis [29]. Among all the cancer types with highest risk, thyroid cancer can develop earliest in the PTEN mutationpositive patient population; the earliest diagnosis of thyroid cancer reported was at age 6 years, with other reports of children with thyroid cancer at PTEN mutations at age 7, 11, 14, and 17 [21,30]. Given that the risk begins in childhood and that thyroid ultrasound is a norisk screening option, we recommend that all patients undergo baseline thyroid ultrasound at the age of clinical CS or molecular PHTS diagnosis (whichever occurs first), with followup on a yearly basis. If surgery becomes necessary ­ either due to a FNA positive for cancer or because the patient can no longer be followed safely by imaging alone ­ we recommend total thyroidectomy be performed, even if only one side of the thyroid appears affected, due to the high likelihood for additional disease and need for future surgery. Prophylactic thyroidectomy has also been proposed as an option for patients with autism or other cognitive defects who will not permit thyroid ultrasound without sedation [29].
+Endometrial
+PTEN mutationpositive women are at increased risk for endometrial cancer. To date, most diagnoses have occurred past the age of childbearing, but earlier diagnoses may occur; one case report details a
+
+Journal of Surgical Oncology
+
+Cowden Syndrome 127
+
+TABLE III. Cancer Screening/Management Recommendations for Patients with Germline PTEN Mutations
+
+Cancer type
+
+Screening recommendations
+
+Surgical options
+
+Female breast
+Thyroid Renal Endometrial
+Colorectal
+Melanoma
+
+Starting at age 30: annual mammogram; consider MRI for patients with dense breasts
+Starting from age at diagnosis: annual ultrasound Starting at age 40: imaging every two years Starting at age 30: annual endometrial biopsy or transvaginal ultrasound
+Starting at age 3540: Colonoscopy, with followup dependent on degree and type of polyps identified.
+Starting from age at diagnosis: annual dermatologic exam
+
+Prophylactic mastectomy
+Prophylactic hysterectomy (oophorectomy unnecessary) once childbearing complete
+
+girl with PHTS and endometrial cancer diagnosed at age 14 [31]. For women who have completed childbearing, prophylactic hysterectomy could be considered. Interestingly, ovarian cancer has not been over reported in patients with PTEN mutations, implicating that oophorectomy does not need to be performed simultaneously, and helping these women avoid the health risks and physical discomfort that come with surgicallyinduced menopause. For those women who do not wish to undergo hysterectomy, they may discuss surveillance options with a gynecologic oncologist. Transvaginal ultrasound and blind endometrial biopsy are suggested as surveillance options, but have not been proven in CS or other syndromes causing high endometrial cancer risk to reduce morbidity or mortality [21].
+Renal
+While small patient series and case reports described occasional patients with CS and renal cancer, it was not until a large series of patients was accrued that a true syndromeassociated increased risk for renal cancer was appreciated in this population, with maximum lifetime risk estimated at 34% [21]. On dedicated histologic review, most of the renal cancers in patients with germline PTEN mutations are either papillary or chromophobe in nature [32]. While bilateral disease has been reported, metastatic disease, to our knowledge, has not. Screening is recommended to begin at age 40 and continue every other year; in this manner, a kidney tumor can be detected and removed at the earliest point possible, allowing for nephronsparing surgery in these patients who are then at risk for additional RCCs. The controversy, because of lack of data at this time, is the mode of surveillance. Typically, CT ably picks up small papillary RCC. However, larger papillary RCC are picked up by GU ultrasound. Given that we have yet to see metastatic disease, it is possible that renal ultrasounds may be adequate. This will require further study.
+Colon
+While a slight increased risk for earlyonset colorectal cancer is appreciated in patients with PTEN mutations (9% lifetime risk) [21], gastrointestinal polyposis is by far a more common occurrence. In a series of patients who had undergone endoscopy, 93% had polyps [33]. The number and type of polyps varied dramatically from patient to patients with a subset having only a few hyperplastic polyps; others had thousands of polyps, with several adenomas in the mix. At this time, we do not advocate prophylactic colectomy be considered unless a patient has several adenomas seen on subsequent scopes, and there is such a large number of other polyps that the surgeon is concerned that adenomas may be missed among the field of hamartomatous, hyperplastic, and other polyp types. It is recommended that if a patient remains asymptomatic, the first colonoscopy occurs at age 35­ 40, with followup interval determined by the number and type of polyps seen on previous scoping [21,33,34].
+
+Skin
+A slight increase in risk for melanoma (6% compared to 2% in the general population) has also been reported for patients with PTEN mutations, with one young patient diagnosed at age 3 [21]. Yearly dermatologic examination is recommended.
+KEYS TO RECOGNIZING PATIENTS WITH POSSIBLE PHTS/CS FOR GENETICS REFERRAL
+CS can be difficult to recognize due to diverse clinical presentations. Patients with multiple primary cancer diagnoses are most easily recognized and will likely be referred based on that history; however, the task becomes more difficult for patients with mostly benign features. Ironically, these patients, who can take advantage of highrisk screening protocols, are those for whom a diagnosis would have the greatest direct benefit.
+There are several characteristics which should raise strong clinical suspicion for PHTS given their rarity in the general population or in other genetic syndromes which are easily identifiable through either quick pathology/history review or brief physical examination:
+ LhermitteDuclos disease (dysplastic cerebellar gangliocytoma),  Extreme macrocephaly (children, þ5 standard deviations above the
+mean or higher; adult women > 60 cm, adult men > 63 cm),  Oral mucosal papillomatosis (Fig. 1ab),  Penile freckling,  Hamartomatous/ganglioneuromatous gastrointestinal polyps,  Glycogenic acanthosis,  Pediatric nonmedullary thyroid carcinoma, and  Endometrial cancer diagnosed prior to age 30.
+These findings were among the highestscoring components on the Cleveland Clinic PTEN Risk Calculation tool, which calculates a patient's a priori PTEN mutation risk [35]. This tool, freely available online at http://www.lerner.ccf.org/gmi/ccscore/ awarded a weighted score for each characteristic after comparing agerelated prevalence within mutation positive and negative research participants to expected community frequencies as derived from published literature and the Surveillance Epidemiology and End Results database. The calculation provides a percentage risk for PTEN mutation in adults and recommendation whether or not to pursue PTEN testing/genetics referral for both pediatric and adult patients.
+The generic "red flags" for cancer genetics referral can also be useful in identifying patients at risk for PHTS/CS. These include:
+ Earlyonset diagnosis for the cancer type,  Multiple primary tumors,  Multifocal/bilateral tumors,
+
+Journal of Surgical Oncology
+
+128 Mester and Eng
+
+Fig. 1. a­b: Oral mucosa papillomatosis a: Arrows pointing to papillomas of the tongue on a 57yearold woman with PHTS. b: Gingival papillomas on a teenaged young lady with PHTS; easily spotted when the overgrowth crosses the tooth border.
+
+ Rare histologies, and  Family history of similarly affected relatives.
+Additionally, any individual who reports a family member previously diagnosed with Cowden syndrome, PHTS, or any other hereditary cancer predisposition syndrome should always be referred to cancer genetics for further evaluation and testing.
+FAMILY MATTERS
+CS is inherited in an autosomal dominant manner; this means that the children of an affected person have a 50% chance to share the condition, and other relatives (siblings, parents, aunts/uncles, cousins, etc.) are all at increased risk as well. In up to 44% of cases of persons with PTEN mutations, the mutation occurred de novo, meaning that it occurred sporadically in the affected patient and is not shared by either of their parents [36]. However, the only way to understand with certainty whether a person has PHTS is through genetic testing. Once a mutation is identified within one patient, all of their atrisk relatives can then pursue testing for that known familial mutation and receive a "yes or no" answer regarding whether they share the mutation and with it, increased cancer risk. Patients testing negative for a familial mutation would then be at general population risk for cancer barring other factors, and patients testing positive would then share the same cancer and other risks as previously discussed and then be able to take advantage of increased surveillance and other available management options.
+Genetic counseling is an important component of the genetic testing process and is recommended by the American Society of Clinical Oncology [37]. During pretest counseling, the genetic counselor reviews the syndrome in question with the patient and helps them understand whether the decision to pursue testing is right for them at this point in their life. Some patients may have preconceptions about risk for genetic discrimination; genetic counselors are equipped to explain the risks and benefits of testing and protective laws such as the Genetic Information and Nondiscrimination Act, which makes it illegal for most employers and health insurance companies to discriminate against a patient or treat them differently based on genetic testing or family history information (http://www.genome.gov/Pages/PolicyEthics/GeneticDiscrimination/ GINAInfoDoc.pdf).
+After a positive genetic test result, the genetic counselor can take time to explain testing results to the patient, help the patient understand their screening and management options, and help guide them to appropriate specialists for this purpose. Collaboration among the patient, their primary care provider, and the genetics team can be extremely helpful
+
+for patient care and referral management. In addition to genetics, patients with PHTS/CS frequently benefit from care from subspecialists in the following areas: endocrinology, gastroenterology, dermatology, high risk breast management, gynecologic oncology, neurology, and developmental pediatrics.
+Receiving a diagnosis of PHTS/CS or any other genetic condition can cause a strong emotional reaction in patients as well, and genetic counseling can help them understand how to accept this new genetic diagnosis and use this information about their health risks in a positive manner. Patient support groups can be a source of comfort and empowerment, and can help patients with rare genetic syndromes feel less isolated and alone. After a genetic diagnosis is made, a genetic counselor will research available support resources such as disease specific support groups that the patient might find helpful. If your medical center does not have a genetic counselor on staff, one close to you may be located by visiting the National Society of Genetic Counselors website: www.nsgc.org.
+DIAGNOSING COWDEN SYNDROME WHEN PTEN TESTING IS NEGATIVE
+Despite initial impressions, CS is genetically heterogeneous. Early studies of patients with strong phenotype in both their personal and family history accrued from tertiary referral centers identified mutations in 80% of CS patients [9]. More recently, prospective accrual from the community to include broad and more relaxed phenotypic criteria resulted in 25% of patients meeting CS diagnostic criteria (Table IV) [38] without a family history being PTEN mutation positive [35]. Mutations in other genes, SDHB/C/D, PIK3CA, and AKT1, as well as hypermethylation of KLLN have been identified in a subset of mutationnegative cases, but the clinical relevance of these other genetic alterations continues to be studied in a research setting [39­42].
+Before assuming a patient is truly mutationnegative, it is important to review the patient's genetic testing results to determine whether the most uptodate testing methodologies were utilized. Techniques such as array (CGH) or multiplex ligation probe amplification (MLPA) are used to detect larger deletions or duplications not picked up by PCRbased sequencing technology and are now incorporated into the PTEN testing protocol by most clinical laboratories. Review of the fine print within the patient's original genetic testing report is needed to understand whether the analysis performed included a methodology that would detect large rearrangements. More importantly, the MLPA probe sets can change without notification. It would likely be helpful to refer the patient to a cancer genetics specialist, who will review the patient's previous genetic
+
+Journal of Surgical Oncology
+
+TABLE IV. Cowden Syndrome Clinical Diagnostic Criteria
+
+Pathognomonic criteria
+
+Major criteria
+
+Mucocutaneous lesions: · Facial trichilemmomas · Acral keratoses · Papillomatous papules · Mucosal lesions
+
+Breast cancer Nonmedullary thyroid cancer Macrocephaly Endometrial cancer LhermitteDuclos disease
+
+Operational clinical diagnostic criteria for an individual:
+Pathognomonic mucocutaneous lesions alone if: · Six or more facial papules, at least three of which are biopsyconfirmed trichilemmomas, or · Cutaneous facial papules plus oral mucosal papillomatosis, or · Oral mucosal papillomatosis plus acral keratoses, or · Six or more palmoplantar keratoses
+Two or more major criteria, one of which must be macrocephaly or LhermitteDuclos One major plus three minor criteria
+Four minor criteria
+
+Cowden Syndrome 129
+Minor criteria
+Benign thyroid lesions (goiter/nodules) Mental retardation Hamartomatous intestinal polyps Lipomas Fibrocystic breast disease Fibromas Genitourinary tumors or malformations
+
+testing and order additional testing if they determine this is indicated. The cancer genetics specialist might also need to rule out other diagnoses whose phenotypic spectra overlap with CS via further testing before being able to grant a clinical diagnosis of CS.
+For those patients in whom thorough PTEN and other indicated genetic analyses have been performed with negative results, it is necessary to understand whether the patient meets criteria for a clinical diagnosis of CS. These criteria (Table IV) were developed by the International Cowden Consortium and are based upon the criteria developed during the gene identification process. For mutationnegative patients meeting CS diagnostic criteria, based on the case series reviewed prior to the identification of PTEN, a breast cancer risk of 25­ 50% and thyroid cancer risk of up to 10% are proposed [43] plus other screening as dictated based on the patient's family history of cancer.
+CONCLUSIONS
+It is important for surgeons to recognize the patient with potential Cowden syndrome and refer them for cancer genetics consultation. Patients with earlyonset or multiple primary cancer diagnoses should be referred to genetics, as well as those with characteristics which create high suspicion for PHTS/CS: Lhermitte­Duclos disease, oral papillomatosis, extreme macrocephaly, hamartomatous polyps, and in males penile freckling. The Cleveland Clinic PTEN risk calculator: www.lerner.ccf.org/gmi/ccscore can be a helpful tool in the assessment process. Diagnosing PHTS/CS can lead to changes in management, including surgical, for both the patient as well as their family members, leading to decreased morbidity and mortality through cancer prevention and early detection.
+REFERENCES
+1. Lloyd KM 2nd, Dennis M: Cowden's disease. A possible new symptom complex with multiple system involvement. Ann Intern Med 1963;58:136­142.
+2. Brownstein MH, Wolf M, Bikowski JB: Cowden's disease: A cutaneous marker of breast cancer. Cancer 1978;41:2393­2398.
+3. Starink TM, van der Veen JP, Arwert F, et al. The Cowden syndrome: A clinical and genetic study in 21 patients. Clin Genet 1986;29:222­233.
+4. Padberg GW, Schot JD, Vielvoye GJ, et al. LhermitteDuclos disease and Cowden disease: A single phakomatosis. Ann Neurol 1991;29:517­523.
+5. Nelen MR, Padberg GW, Peeters EA, et al. et al.: Localization of the gene for Cowden disease to chromosome 10q 2223. Nat Genet 1996;13:114­116.
+
+6. Zedenius J, Wallin G, Svensson A, et al. Allelotyping of follicular thyroid tumors. Hum Genet 1995;96:27­32.
+7. Jones MH, Koi S, Fujimoto I, et al. Allelotype of uterine cancer by
+analysis of RFLP and microsatellite polymorphisms: Frequent loss
+of heterozygosity on chromosome arms 3p, 9q, 10q, and 17p. Genes Chromosomes Cancer 1994;9:119­123. 8. Li J, Yen C, Liaw D, et al. et al.: PTEN, a putative protein tyrosine
+phosphatase gene mutated in human brain, breast, and prostate cancer. Science 1997;275:1943­1947. 9. Liaw D, Marsh DJ, Li J, et al. et al.: Germline mutations of the
+PTEN gene in Cowden disease, an inherited breast and thyroid cancer syndrome. Nat Genet 1997;16:64­67. 10. Marsh DJ, Dahia PL, Zheng Z, et al. Germline mutations in PTEN are present in BannayanZonana syndrome. Nat Genet 1997;16: 333­334. 11. Marsh DJ, Coulon V, Lunetta KL, et al. et al.: Mutation spectrum and genotypephenotype analyses in Cowden disease and BannayanZonana syndrome, two hamartoma syndromes with germline PTEN mutation. Hum Mol Genet 1998;7:507­515. 12. Marsh DJ, Kum JB, Lunetta KL, et al. et al.: PTEN mutation spectrum and genotypephenotype correlations in BannayanRiley Ruvalcaba syndrome suggest a single entity with Cowden syndrome. Hum Mol Genet 1999;8:1461­1472. 13. Gorlin RJ, Cohen MM Jr, Condon LM, et al. BannayanRiley Ruvalcaba syndrome. Am J Med Genet 1992;44:307­314. 14. Zhou XP, Marsh DJ, Hampel H, et al. Germline and germline mosaic PTEN mutations associated with a Proteuslike syndrome of hemihypertrophy, lower limb asymmetry, arteriovenous malformations and lipomatosis. Hum Mol Genet 2000;9:765­768. 15. Butler MG, Dasouki MJ, Zhou XP, et al. et al.: Subset of individuals
+with autism spectrum disorders and extreme macrocephaly
+associated with germline PTEN tumour suppressor gene mutations. J Med Genet 2005;42:318­321. 16. Buxbaum JD, Cai G, Chaste P, et al. et al.: Mutation screening of the
+PTEN gene in patients with autism spectrum disorders and
+macrocephaly. Am J Med Genet B Neuropsychiatr Genet 2007;144B:484­491. 17. Varga EA, Pastore M, Prior T, et al. The prevalence of PTEN
+mutations in a clinical pediatric cohort with autism spectrum
+disorders, developmental delay, and macrocephaly. Genet Med 2009;11:111­117. 18. McBride KL, Varga EA, Pastore MT, et al. Confirmation study of PTEN mutations among individuals with autism or developmental
+delays/mental retardation and macrocephaly. Autism Res 2010;3:137­141. 19. Zbuk KM, Eng C: Cancer phenomics: RET and PTEN as illustrative models. Nat Rev Cancer 2007;7:35­45. 20. Mester J, Eng C: When Overgrowth Bumps Into Cancer: The PTENOpathies. Am J Med Genet C Semin Med Genet 2013.
+
+Journal of Surgical Oncology
+
+130 Mester and Eng
+21. Tan MH, Mester JL, Ngeow J, et al. Lifetime cancer risks in individuals with germline PTEN mutations. Clin Cancer Res 2012;18:400­407.
+22. Bubien V, Bonnet F, Brouste V, et al. et al.: High cumulative risks of cancer in patients with PTEN hamartoma tumour syndrome. J Med Genet 2013;50:255­263.
+23. Nieuwenhuis MH, Kets CM, MurphyRyan M, et al. et al.: Cancer risk and genotypephenotype correlations in PTEN hamartoma tumor syndrome. Fam Cancer 2013.
+24. Ford D, Easton DF, Stratton M, et al. et al.: Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. The Breast Cancer Linkage Consortium. Am J Hum Genet 1998;62:676­689.
+25. MeaneyDelman D, Bellcross CA: Hereditary breast/ovarian cancer syndrome: A primer for obstetricians/gynecologists. Obstet Gynecol Clin North Am 2013;40:475­512.
+26. Schrager CA, Schneider D, Gruener AC, et al. Clinical and pathological features of breast disease in Cowden's syndrome: An underrecognized syndrome with an increased risk of breast cancer. Hum Pathol 1998;29:47­53.
+27. Rebbeck TR, Friebel T, Lynch HT, et al. Bilateral prophylactic mastectomy reduces breast cancer risk in BRCA1 and BRCA2 mutation carriers: the PROSE Study Group. J Clin Oncol 2004;22:1055­1062.
+28. Ngeow JSK, Mester J, BarnholtzSloan J, et al. Second Malignant Neoplasms (SMN) in Cowden Syndrome Patients with Underlying Germline PTEN Mutations. J Clin Oncol 2014; In press
+29. Milas M, Mester J, Metzger R, et al. Should patients with Cowden syndrome undergo prophylactic thyroidectomy? Surgery 2012;152: 1201­1210.
+30. Smith JR, Marqusee E, Webb S, et al. Thyroid nodules and cancer in children with PTEN hamartoma tumor syndrome. J Clin Endocrinol Metab 2011;96:34­37.
+31. Baker WD, Soisson AP, Dodson MK: Endometrial cancer in a 14 yearold girl with Cowden syndrome: A case report. J Obstet Gynaecol Res 2013;39:876­878.
+
+32. Mester JL, Zhou M, Prescott N, et al. Papillary renal cell carcinoma
+is associated with PTEN hamartoma tumor syndrome. Urology 2012;79:1187e11811187. 33. Heald B, Mester J, Rybicki L, et al. Frequent gastrointestinal
+polyps and colorectal adenocarcinomas in a prospective series of PTEN mutation carriers. Gastroenterology 2010;139:1927­1933. 34. Kersseboom R, Dubbink HJ, Corver WE, et al. et al.: PTEN in
+colorectal cancer: A report on two Cowden syndrome patients. Clin Genet 2012;81:555­562. 35. Tan MH, Mester J, Peterson C, et al. et al.: A clinical scoring system
+for selection of patients for PTEN mutation testing is proposed on
+the basis of a prospective study of 3042 probands. Am J Hum Genet 2011;88:42­56. 36. Mester J, Eng C: Estimate of de novo mutation frequency in
+probands with PTEN hamartoma tumor syndrome. Genet Med 2012;14:819­822. 37. Robson ME, Storm CD, Weitzel J, et al. American Society
+of Clinical Oncology policy statement update: genetic and genomic testing for cancer susceptibility. J Clin Oncol 2010;28:893­901. 38. Pilarski R, Eng C: Will the real Cowden syndrome please stand up
+(again)? Expanding mutational and clinical spectra of the PTEN hamartoma tumour syndrome. J Med Genet 2004;41:323­326. 39. Ni Y, Zbuk KM, Sadler T, et al. Germline mutations and variants in the succinate dehydrogenase genes in Cowden and Cowdenlike syndromes. Am J Hum Genet 2008;83:261­268. 40. Ni Y, He X, Chen J, et al. Germline SDHx variants modify breast and thyroid cancer risks in Cowden and Cowdenlike syndrome via FAD/NADdependant destabilization of p53. Hum Mol Genet 2012;21:300­310. 41. Orloff MS, He X, Peterson C, et al. Germline PIK3CA and AKT1 Mutations in Cowden and Cowdenlike Syndromes. Am J Hum Genet 2013;92:76­80. 42. Bennett KL, Mester J, Eng C: Germline epigenetic regulation of KILLIN in Cowden and Cowdenlike syndrome. JAMA 2010;304: 2724­2731. 43. Eng C: PTEN: One gene, many syndromes. Hum Mutat 2003;22: 183­198.
+
+Journal of Surgical Oncology
+
+

@@ -1,0 +1,256 @@
+GASTROENTEROLOGY 2006;130:73­79
+
+Prevalence of Early Onset Colorectal Cancer in 397 Patients With Classic Li­Fraumeni Syndrome
+
+PATRICIA WONG,* SIGITAS J. VERSELIS, JUDY E. GARBER,§ KATHERINE SCHNEIDER,§ LISA DIGIANNI,§ DAVID H. STOCKWELL, FREDERICK P. LI,§ and SAPNA SYNGAL§,
+*Department of Internal Medicine, Division of Gastroenterology, Brigham and Women's Hospital, Boston, Massachusetts; Molecular Diagnostic Laboratory, §Population Sciences Division, Dana-Farber Cancer Institute, Boston, Massachusetts
+
+Background & Aims: Hereditary colorectal cancer is associated most commonly with the hereditary nonpolyposis colorectal cancer or familial adenomatous polyposis syndromes. We investigated the prevalence of early onset colorectal cancer and the frequency of p53 germline mutations in 64 families from a Li­Fraumeni syndrome (LFS) registry. Methods: Patients with documented colorectal cancer and a diagnosis at or before age 50 were included. P53 analyses were performed through germline mutational analyses using standard molecular techniques. Results: Among the 397 patients and 64 families in the classic LFS registry, a total of 11 patients (2.8%) from 10 different families (15.6%) met criteria for classic LFS and had documented colorectal cancer at less than 50 years of age. The mean age at diagnosis in this group was 33 years and of these patients 4 developed colorectal cancer before age 21 (ages, 9, 11, 15, and 20 y). All families that were tested for p53 mutations (8 of 10) had evidence of germline mutations by sequence analysis; therefore, 12.5% of the total number of families in the registry had colorectal cancer at age less than 50 years and a documented germline p53 mutation. Mutations primarily were missense or nonsense and were located between exons 4 ­10. Conclusions: LFS patients with germline p53 mutations may have an increased susceptibility to colorectal cancer and present up to several decades earlier than the general population. LFS should be considered when a young patient presents with colorectal cancer.
+Of the nearly 150,000 cases of colorectal cancer diagnosed each year in the United States, approximately 5% are inherited through a germline mutation. Mutations in key genes that regulate the cell cycle or DNA repair mechanisms can result in a dramatic increase in cancer risk, which is inherited in an autosomal-dominant pattern and presents at an early age. The 3 most common colorectal cancer syndromes are hereditary nonpolyposis colorectal cancer (HNPCC), familial adenomatous polyposis (FAP), and attenuated FAP. Genetic defects in these disorders have been identified in mismatch
+
+repair genes human mutS homologue 2,1,2 human mutL homologue 1,3,4 human mutS homologue 65 in HNPCC, and the tumor-suppressor gene adenomatous polyposis coli6­9 in both FAP and attenuated FAP. These syndromes have been the focus of intense molecular and clinical investigations toward formulating models of tumorigenesis and optimizing the diagnosis, management, and genetic counseling of affected families.
+Li­Fraumeni syndrome (LFS) is a cancer syndrome that often is not considered when a young patient presents with early onset colorectal cancer. LFS originally was described as a familial cancer syndrome with an autosomal-dominant pattern of inheritance of early onset sarcomas of the soft tissues and bone, carcinomas of the breast and adrenal cortex, brain tumors, and leukemias.9,10 The underlying genetic defect in the majority of LFS families was identified as a germline mutation in the p53 tumor-suppressor gene.11 Subsequent studies suggested that germline p53 mutation carriers may have an increased susceptibility to a much broader range of neoplasms.12­18 These include carcinomas of the colon, lung, stomach, pancreas, ovary, and lymphomas. Analysis of 45 LFS families and 140 other affected cases within the literature performed by Nichols et al18 showed that carriers of a p53 mutation had a significantly earlier age of diagnosis of colorectal cancer (median age, 33 y) than the general population (median age, 72 y). This unusually early age of presentation is characteristic of hereditary cancers, and suggested that colorectal cancer, among other neoplasms, also may be associated with LFS.
+The purpose of this study was to determine the prevalence of early onset colorectal cancer, defined as colorectal cancer diagnosed at or younger than age 50, in 64 families (397 patients) from a large LFS registry com-
+Abbreviations used in this paper: FAP, familial adenomatous polyposis; HNPCC, hereditary nonpolyposis colorectal cancer; LFS, Li­ Fraumeni syndrome.
+© 2006 by the American Gastroenterological Association 0016-5085/06/$32.00
+doi:10.1053/j.gastro.2005.10.014
+
+74 WONG ET AL
+
+GASTROENTEROLOGY Vol. 130, No. 1
+
+piled over several decades from the National Cancer Institute and Dana-Farber Cancer Institute in an effort to determine whether colorectal cancer is associated with LFS. Molecular analyses were performed to identify the rate and specific types of germline p53 mutations in these early onset colorectal cancer patients. These data may provide more evidence that LFS should be considered in patients with early onset colorectal cancer.
+Materials and Methods
+Patient Selection
+We examined a Dana-Farber Cancer Institute/National Cancer Institute LFS registry compiled over several decades (1960 ­2000) that consisted of 397 cancer patients from 64 families who met the criteria for classic LFS. Patients were enrolled in institutional review board­approved protocols at the National Cancer Institute, the Li­Fraumeni Syndrome family registry at Dana-Farber Cancer Institute, and the Massachusetts General Hospital Cancer Risk Evaluation Center, and provided informed consent for collection of personal and family history data, medical record review, and genetic analysis. Standard criteria as described by Li and Fraumeni9 include a proband diagnosed with sarcoma before age 45, a first-degree relative with cancer before age 45, and a first- or second-degree relative with any cancer before age 45 or sarcoma at any age. From this database we selected patients with documented colorectal cancer, either by pathology report, death certificate, or verbal report. Verbal report came from family members who were informed by physicians of tumor diagnoses, but no medical or pathologic reports were obtained. We selected for patients whose diagnoses were made at or before age 50 because the incidence of sporadic tumors increases beyond this age and may represent phenocopies.
+Among these patients with early onset colorectal cancer, a review of each family's pedigree was performed to confirm the criteria for classic LFS. Medical records were reviewed when possible to obtain data regarding age at diagnosis and tumor grade, stage, and location. Analysis of p53 germline mutations in families with confirmed classic LFS and early onset colorectal cancer was performed using standard molecular techniques. P53 studies were performed on either the family member with colorectal cancer or a first- or second-degree relative.
+Mutation Screening
+Germline mutational analysis was performed through a coordinated effort between the Dana-Farber Cancer Institute Molecular Diagnostics Laboratory and the Division of Molecular Genetics at the Massachusetts General Hospital Cancer Center. Genomic DNA was isolated from peripheral blood leukocytes using Qiagen DNA isolation kits (Qiagen, Valencia, CA). Direct sequencing of polymerase chain reaction products was performed on the 11 p53 exons, through the stop codon, and including some intron sequences flanking each exon. Promoter regions, 3= untranslated region, and sequences
+
+beyond the stop codon were not sequenced. Polymerase chain reaction primers for genomic DNA and conditions used were as previously described.19 DNA was sequenced using an automated ABI PRISM (Foster City, CA) 377 DNA sequencer (ABI PRISM dye-primer cycle sequencing chemistry), as previously described.19 Mutations were confirmed by sequencing both DNA strands.
+Results
+Of the 397 patients in 64 families with classic LFS, 16 patients (4.0%) from 15 different families (23.4%) had colorectal cancer. Five patients who developed tumors after age 50 were excluded from further analyses because these may represent sporadic tumors. Of these 5 patients, only 1 was from a family with an identified p53 mutation. This patient also carried the family mutation and was diagnosed with colon cancer at age 73. Specific mutation data were unavailable on the other 4 individuals, of whom 1 developed colon cancer at age 51 and was the sister of a study participant who developed colon cancer at age 11. The other 3 patients developed colon cancer at ages 55, 61, and 78 years. We focused the remainder of our analyses on the 11 patients and their respective families (15.6% of LFS registry) who fulfilled our criteria for early onset colorectal cancer with a confirmed tumor diagnosis.
+An extensive pedigree review of these families was performed to confirm the diagnosis of classic LFS as defined by Li et al10 (Table 1). We screened for families whose pattern of inheritance and pathology reports were more consistent with HNPCC or FAP, but we found no such cases among our population.
+Among the 11 patients with early onset colorectal cancer, 4 (36%) developed colorectal cancer before age 21 (at ages 9, 11, 15, and 20 years), none in their third or fourth decades of life, and 7 (64%) between ages 41 and 50 (Table 2). The mean age at diagnosis was 33 years, with a median age of 41 years (range, 9 ­50 y). Tumor grade and staging for 8 patients with pathologic reports showed that the majority of tumors were moderate to well differentiated (75%) and 50% had metastases at the time of diagnosis. The distal colon (left colon or rectum) was the most common tumor location (6 patients) (Table 2). All tumors were invasive adenocarcinomas.
+From this subgroup of 11 patients with early onset colorectal cancer, we obtained blood samples for p53 mutational analysis in 9 patient families. All 9 had confirmed p53 mutations within their family. This comprised 81.8% (9 of 11) of the early onset colorectal cancer subpopulation and 100% of those tested. These mutations were tested in the patient (2 cases), in a first-degree relative (4 cases), or in a second-degree relative (3 cases).
+
+January 2006
+
+COLORECTAL CANCER IN LFS 75
+
+Table 1. Pedigree Review: Malignancies Among First- and Second-Degree Relatives of Classic LFS Patients With Early Onset Colorectal Cancer
+
+First-degree relatives
+
+Second-degree relatives
+
+Patient 1 2 3 4 5 6
+7 8a
+8b
+9
+10
+
+Tumor Gastric
+Sarcoma (OS) Sarcoma (SS)
+Brain Leukemia Breast
+Sarcoma (SS)
+Sarcoma (SS) Adrenal Sarcoma (OS) Breast Brain
+Endometrial
+Sarcoma (SS) Breast Leukemia
+Sarcoma (SS)
+Brain Lung Stomach Colon Skin Sarcoma (SS)
+Breast Brain Leukemia Colorectal Skin Breast
+Brain
+Leukemia Lung Sarcoma (SS) Breast
+
+Relative
+Mother
+Father Brother 1 Sister 1 Sister 2 Sister 2 Mother
+Daughter
+Daughter 1 Daughter 2 Sister 1 Sister 1 Father Brother Sister 2 Sister 3 Daughter 1 Daughter 2 Mother Son Brother Son1 Son 2 Son 2 Son 1 Father Son 1 Son 2 Brother Daughter Daughter Brother Daughter Father Brother Mother Sister 1 Sister 2 Daughter Daughter 1 Daughter 2 Brother 1 Brother 2 Sister Mother Sister
+
+Age at diagnosis, y
+29
+50 16 17 26 28 31
+16
+31 1
+35 31 43 43 41 34 37 21 60
+3 26
+9 32 37 48 40 50 34 32
+1 24 37 27 41 34 35 27 29 25 21 19
+4 31 43 30 32
+
+Tumor Sarcoma (OS) Breast Breast Gastric Uterine Skin Breast Lung Gastric Ovarian Sarcoma (OS) Brain None Brain
+Sarcoma (SS) Brain
+Sarcoma (SS) Breast Brain Leukemia
+Brain Stomach
+Sarcoma (SS) Breast Brain Cervix
+Sarcoma (OS) Thyroid
+
+Relative Maternal grandfather Maternal aunt Paternal aunt 1 Maternal grandmother Paternal aunt 2 Paternal aunt 3
+Maternal grandmother Uncle 1 Uncle 2 Aunt 1 Grandson Grandson
+Nephew 1 Nephew 2
+Nephew 1 Niece 1
+Grandson 1 Granddaughter 1 Grandson 2 Granddaughter 1
+Nephew Paternal GF
+Niece 1 Maternal aunt Niece 1 Niece 2
+Niece 1 Nephew 1 Niece 2
+
+Age at diagnosis, y 17 27 43 72 67
+N/A
+45 33 38 17
+6 1
+16 4
+1 10
+1 24 1 27
+1 40
+12 N/A
+14 18
+14 15 29
+
+NOTE. Total number of patients was 11. Patients 8A and 8B are from the same family. SS, soft-tissue sarcoma, including fibrosarcoma, histiosarcoma, reticulosarcoma, leiomyosarcoma, rhabdomyosarcoma; OS, osteosarcoma; N/A, not available.
+
+Because 2 patients came from the same family, a total of 8 families had early onset colorectal cancer with confirmed p53 mutations. This comprised 12.5% (8 of 64) of the total number of families in the LFS registry. We
+
+were unable to obtain samples for genetic analysis in 2 of our patients.
+Genetic analyses of the site and type of germline p53 mutations showed that in 7 of the 9 patients, alterations
+
+76 WONG ET AL
+
+GASTROENTEROLOGY Vol. 130, No. 1
+
+Table 2. Classic LFS Patients With Early Onset Colorectal Cancer-Age of Diagnosis, Method of Confirmation, and Pathology Report
+
+Patient
+1 2 3 4 5 6 7 8a 9 10 8b
+
+Age at diagnosis
+9 11 15 20 41 41 41 41 43 49 50
+
+Method of confirmation
+Pathology Pathology Death certificate Pathology Pathology Pathology Verbal report Pathology Verbal report Pathology Pathology
+
+Tumor type AdenoCa AdenoCa
+AdenoCa AdenoCa AdenoCa
+AdenoCa
+AdenoCa AdenoCa
+
+Location Left colon Transverse colon
+Right colon Left colon Left colon, Rectum
+Left colon, rectum
+Left colon Rectum
+
+Grade Mod well diff No report
+Mod undiff Well diff Mod diff
+Well diff
+Mod diff Well diff
+
+Lymph nodes
+No Yes
+Yes Yes No
+No
+No No
+
+Metastases Omentum, peritoneum Lungs, liver, adrenal, thymus
+No Omentum, liver, peritoneum No
+No
+Mesocolon No
+
+AdenoCa, adenocarcinoma; mod, moderately; diff, differentiated; undiff, undifferentiated.
+
+occurred within the p53 binding domain comprising amino acids 102­292. This region contains a majority of the conserved domains and most of the mutations found in sporadic tumors, and was the initial focus of early p53 molecular analyses in LFS families.20­22 However, 2 of the patients contained mutations outside of the binding domain, specifically in exon 10 (Table 3). Mutation class varied, and included 5 missense (55.6%), 3 nonsense (33.3%), and 1 deletion (11.1%). Functional assays were not performed because of limitations in obtaining adequate RNA samples.
+Discussion
+Our investigation of the prevalence of early onset colorectal cancer, as defined by age at diagnosis of age 50 or younger, in a large LFS registry collected over several decades supports the hypothesis that LFS patients may have an increased susceptibility to colorectal cancer and present up to several decades earlier than the general population. Of the 64 classic LFS families analyzed, 10 (15.6%) had at least a single family member with doc-
+
+umented early onset colorectal cancer. The mean age at diagnosis was 32.8 years, with a median age of 41 years (range, 9 ­50 y). This is significantly younger than the general population, in whom the median age at diagnosis is 72 years.23 These results are consistent with previous reports in which the median age at diagnosis in a population of LFS patients ranged from 33 to 45 years.18 We went on to characterize further the incidence rate per decade in our cohort of LFS patients. As expected, the rates of early diagnosed colorectal cancer were significantly higher than those of the general population. Three patients (27.3% of 11 patients with early onset colorectal cancer) were diagnosed before age 20, 1 patient (9.1%) between ages 20 and 34, 5 patients (45.5%) between ages 35 and 44, and 2 (18.2%) between ages 45 and 50. In contrast, the incidence rates in the general population from the Surveillance, Epidemiology and End Results (SEER) database23 showed that .2% of total colorectal cancer cases were diagnosed before age 20, 2.2% between ages 20 and 34, 7.6% between ages 35 and 44, and 22.1% between ages 45 and 54. Surveillance, Epidemiology and End Results (SEER) analysis did not look at
+
+Table 3. p53 Mutational Analysis in 8 Classic LFS Families With Early Onset Colorectal Cancer
+
+Family
+1 4 5 6 7 8a 8b 9 10
+
+Relation to family member tested for p53 mutation
+Self Second degree First degree Self First degree Second degree First degree First degree Second degree
+
+Relative
+Self Maternal grandfather Father Self Father Paternal grandfather Father Brother Maternal aunt
+
+Exon
+6 6 8 7 5 10 10 4 5
+
+Codon
+213 196 273 245 175 339 339 122 175
+
+Nucleotide change
+C¡T G¡ C G¡ A G¡ A G¡ A G¡ T G¡ T del TG G¡ A
+
+Amino acid change
+CGA (Arg)¡ TGA (stop) CGA (Arg)¡ CCA (Pro) CGT (Arg)¡ CAT (His) GGC (Gly)¡ AGC (Ser) CGC(Arg)¡ CAC (His) GAG (Glu)¡ TAG (stop) GAG (Glu)¡ TAG (stop) GTG frameshift) CGC (Arg)¡ CAC (His)
+
+Mutation class
+Nonsense Missense Missense Missense Missense Nonsense Nonsense Deletion Missense
+
+NOTE. Mutational analysis was not performed on families 2 and 3. Patients 8a and 8b are from the same family, and therefore the mutational analyses were identical.
+
+January 2006
+
+COLORECTAL CANCER IN LFS 77
+
+incidence rates with a cut-off age of 50, as we did in our study.
+Histologic analyses of tissue obtained from 8 of our patients showed invasive adenocarcinoma in all samples (100%). The tumor grade varied, but more commonly was moderate to well differentiated (75%). Fifty percent of the patients had advanced-stage disease with metastases at the time of diagnosis. Tumors also were found more commonly in the distal colon (75%).
+Of the 8 families tested for p53 mutations, all 8 (100%) had confirmed p53 germline mutations. This was a significantly higher rate of mutation than that found previously in classic LFS families. Germline mutations have been identified in p53 in approximately 60%­70% of previously studied LFS families.11,24,25 Three quarters of the mutations that we identified were located between codons 100 ­300, and 71.4% of these represented missense mutations. This is consistent with prior studies that have shown that mutations are found most commonly in this sequence-specific DNA binding domain20­22 and represent substitutions of conserved amino acid residues that have direct contact with DNA or maintain the structural integrity of the protein's DNA binding surface, as seen by crystallography.26,27 In addition, 2 of our family members had mutations outside of this conserved region (exon 10). This finding again was consistent with previous studies that showed that p53 mutations outside of the DNA binding domain usually are nonsense or frameshift mutations that cause premature protein translation termination.20­22
+It is important to consider the limitations of our study. Mutational analyses were not always performed on the patient with colorectal cancer, but rather on a first- or second-degree relative. This may have resulted in an overestimation of the incidence of p53 mutations among the early onset colorectal cancer patients themselves. However, in selecting for patients who presented with colorectal cancer before age 50, we attempted to minimize the number of patients with sporadic mutations. Furthermore, follow-up evaluation of the families under investigation beyond the 40 years of data collection was limited and variable. Many of the younger generations in our pedigrees were not followed-up, and the incidence of new colorectal cancer cases was not obtained. This may have resulted in an underestimation of the prevalence of early onset colorectal cancer in our LFS population. However, despite these limitations, our data suggest that LFS patients with germline p53 mutations likely have an increased susceptibility to not only the previously described classic LFS tumors (sarcoma, breast, brain, adrenocorticoid, and leukemia), but also to colorectal cancer.
+
+Mutational analyses were limited by the type of molecular biology tools available at the time the database was assembled. Sequencing was performed on exons 1­11 only, omitting other potentially important regions such as promotor sequences, 3= untranslated regions, introns, and regulatory genes that may play a role in p53 expression such as cell-cycle checkpoint kinase CHEK2. CHEK2 acts upstream of p53 in DNA damage responses and phosphorylates p53 at multiple DNA damage-inducible sites.28 Germline variation in CHEK2 has been shown to confer cancer susceptibility, and heterozygous mutations have been identified in patients with p53negative LFS.29,30 Furthermore, although the observed missense mutations in our patients were within highly conserved residues, which are essential for DNA binding and likely would result in a nonfunctional p53 protein, functional assays to confirm the true loss of p53 function were not performed on most patients because of limitations in obtaining RNA. We identified nonsense mutations in 3 of our patients, which, again, likely would result in nonsense-mediated mRNA decay or formation of a nonfunctional protein, but functional assays were not performed.
+Our findings have implications for the diagnostic and therapeutic interventions that should be considered when a young patient presents with early onset colorectal cancer. Although the inherited cancer syndromes HNPCC and FAP are more common and better studied than LFS, LFS should be considered as a possible alternative etiology of early onset colorectal cancer. A careful family history must be obtained and include information on cancers of all types and sites, age of onset of malignancies, and patterns of multiple primary cancers. The finding of a family history of sarcomas or early onset breast cancer should lead to consideration of possible LFS. Molecular testing for p53 should be considered for individuals with young onset colon cancer (age 50) if there are LFS-associated tumors in the family, or on the basis of age alone if colon cancer occurs at a very early age (25) and FAP has been excluded. As with other hereditary colorectal cancers, if the diagnosis of LFS is established, steps should be taken to notify other high-risk relatives, to perform genetic counseling and DNA testing, and to institute appropriate surveillance measures.31,32
+Our study also has implications for the management of families who have LFS. Surveillance options for most LFS-associated tumors such as sarcomas and brain tumors are limited because of the lack of available effective screening tests. Our findings of early onset colorectal cancer in 15.6% of families indicate that periodic colonoscopic surveillance may be a reasonable approach for
+
+78 WONG ET AL
+
+GASTROENTEROLOGY Vol. 130, No. 1
+
+affected family members and give individuals one option for cancer prevention and early detection. Because 4 of our 11 participants developed colorectal cancer at ages 9, 11, 15, and 21 years, surveillance may need to be started at a very young age in known mutation carriers. It may be reasonable to begin with noninvasive tests, such as computed tomography colonography at age 10, and start colonoscopic surveillance by age 18 ­20. Because of small numbers and limited data, recommendations for the frequency of surveillance are largely empiric; however, surveillance every 3­5 years likely is sufficient because we do not yet have any evidence for accelerated development of tumors as has been seen in patients with HNPCC.
+Future directions for better understanding the prevalence and significance of classic LFS in the population of early onset colorectal cancer patients must include determining the rate of p53 mutations in patients who present with early onset colorectal cancer (vs HNPCC and FAP). Future molecular studies should include mutational analysis of the aforementioned DNA sequences that may play an important role in p53 function and/or regulation (promotor sequences, 3= untranslated regions, introns, and regulatory genes).
+References
+1. Fishel R, Lescoe MK, Rao MR, Copeland NG, Jenkins NA, Garber J, Kane M, Kolodner R. The human mutator gene homolog hMSH2 and its association with hereditary nonpolyposis colon cancer. Cell 1993;75:1027­1038.
+2. Leach FS, Nicolaides N, Papadopoulos N, Liu B, Jen J, Parsons R, Peltomaki P, Sistonen P, Aaltonen LA, Nystrom-Lahti M, et al. Mutations of a MutS homolog in hereditary non-polyposis colorectal cancer. Cell 1993;75:1215­1225.
+3. Papadopoulos N, Nicolaides NC, Wei YF, Ruben SM, Carter KC, Rosen CA, Haseltine WA, Fleischmann RD, Fraser CM, Adams MD, et al. Mutations of a mutL homolog in hereditary colon cancer. Science 1994;263:1625­1629.
+4. Bronner CE, Baker SM, Morrison PT, Warren G, Smith LG, Lescoe MK, Kane M, Earabino C, Lipford J, Lindblom A, et al. Mutations in the DNA mismatch repair gene homologue hMLH1 is associated with hereditary nonpolyposis colon cancer. Nature 1994; 368:258 ­261.
+5. Muyaki M, Konishi M, Tanaka K, Kikuchi-Yanoshita R, Muraoka M, Yasuno M, Igari T, Koike M, Chiba M, Mori T. Germline mutation of MSH6 as the cause of hereditary nonpolyposis colorectal cancer. Nat Genet 1997;17:271­272.
+6. Nishisho I, Nakamura Y, Miyoshi Y, Miki Y, Ando H, Horii A, Koyama K, Utsunomiya J, Baba S, Hedge P. Mutations of chromosome 5q21 genes in FAP and colorectal cancer patients. Science 1991;253:665­ 669.
+7. Kinzler KW, Nilbert MC, Su LK, Vogelstein B, Bryan TM, Levy DB, Smith KJ, Preisinger AC, Hedge P, McKechnie D, et al. Identification of FAP locus genes from chromosome 5q21. Science 1991; 253:661­ 665.
+8. Groden J, Thliveris A, Samowitz W, Carlson M, Gelbert L, Albertsen H, Joslyn G, Stevens J, Spirio L, Robertson M, et al. Identification and characterization of the familial adenomatous polyposis coli gene. Cell 1991;66:589 ­ 600.
+
+9. Li FP, Fraumeni JF. Soft-tissue sarcomas, breast cancer, and other neoplasms: a familial syndrome? Ann Intern Med 1969;71: 747­752.
+10. Li FP, Fraumeni JF, Mulvihill JJ, Blattner WA, Dreyfus MG, Tucker MA, Miller RW. A cancer family syndrome in twenty-four kindreds. Cancer Res 1988;48:5358 ­5362.
+11. Malkin D, Li FP, Strong LC, Fraumeni JF, Nelson CE, Kim DH, Kassel J, Gryka MA, Bischoff FZ, Tainsky MA, Friend SH. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 1990;250:1233­1238.
+12. Garber JE, Goldstein AM, Kantor AF, Dreyfus MG, Fraumeni JF, Li FP. Follow-up study of twenty-four families with Li-Fraumeni syndrome. Cancer Res 1991;51:6094 ­ 6097.
+13. Varley JM, McGown G, Thorncroft M, Tricker KJ, Teare MD, Santibanez-Koref MF, Houlston RS, Martin J, Birch JM, Evans DGR. An extended Li Fraumeni kindred with gastric carcinoma and a codon 175 mutation in TP53. J Med Genet 1995;32: 946 ­950.
+14. Varley JM, McGown G, Thorncroft M, Santibanez-Koref MF, Kelsey AM, Tricker KJ, Evans DGR, Birch JM. Germ-line mutations of TP53 in Li-Fraumeni families: an extended study of 39 families. Cancer Res 1997;57:3245­3252.
+15. Kleihues P, Schauble B, Hausen AZ, Esteve J, Ohgaki H. Tumors associated with p53 germline mutations: a synopsis of 91 families. Am J Pathol 1997;150:1­13.
+16. Birch JM, Blair V, Kelsey AM, Evans DG, Harris M, Tricker KJ, Varley JM. Cancer phenotype correlates with constitutional TP53 genotype in families with Li-Fraumeni syndrome. Oncogene 1998;17:1061­1068.
+17. Hisada M, Garber JE, Fung CY, Fraumeni JF, Li FP. Multiple primary cancers in families with Li-Fraumeni syndrome. J Natl Cancer Inst 1998;90:606 ­ 611.
+18. Nichols KE, Malkin D, Garber JE, Fraumeni JF, Li FP. Germ-line p53 mutations predispose to a wide spectrum of early-onset cancers. Cancer Epidemiol Biomarkers Prev 2001;10:83­ 87.
+19. Verselis SJ, Rheinwald JG, Fraumeni JF, Li FP. Novel p53 splice site mutations in three families with Li-Fraumeni syndrome. Oncogene 2000;19:4230 ­ 4235.
+20. Beroud C, Soussi T. p53 gene mutation: software and database. Nucleic Acids Res 1998;26:200 ­204.
+21. Hainaut P, Soussi T, Shomer B, Hollstein M, Greenblatt M, Hovig E, Harris CC, Montesano R. Database of p53 gene somatic mutations in human tumors and cell lines: updated compilation and future prospects. Nucleic Acids Res 1997;25: 151­157.
+22. Sedlacek Z, Kodet R, Poustka A, Goetz P. A database of germline p53 mutations in cancer-prone families. Nucleic Acids Res 1998; 26:214 ­215.
+23. United Stated Department of Health and Human Services. SEER Cancer Incidence Public Use Database, 1975-2001. Bethesda, MD: USPHS, 2003.
+24. Srivastava S, Zou ZQ, Pirollo K, Blattner W, Chang EH. Germ-line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome. Nature 1990;348:747­749.
+25. Varley JM, Evans DG, Birch JM. Li-Fraumeni syndrome: a molecular and clinical review. Br J Cancer 1997;7:1­14.
+26. Soussi T, Caron de Fromentel C, May P. Structural aspects of the p53 protein in relation to gene evolution. Oncogene 1990;5: 945­952.
+27. Cho Y, Gorina S, Jeffrey PD, Pavletich NP. Crystal structure of a p53 tumor suppressor-DNA complex: understanding tumorigenic mutations. Science 1994;265:346 ­355.
+28. Shieh SY, Ahn J, Tamai K, Taya Y, Privew C. The human homologs of checkpoint kinases CHK1 and Cds1 (CHK2) phosphorylate p53 at multiple DNA damage-inducible sites. Genes Dev 2000; 14:289 ­300.
+
+January 2006
+
+COLORECTAL CANCER IN LFS 79
+
+29. Bell DW, Varley JM, Szydlo TE, Kang DH, Wahrer DC, Shannon KE, Lubratovich M, Verselis SJ, Isselbacher KJ, Fraumeni JF, Birch JM, Li FP, Garber JE, Haber DA. Heterozygous germline hCHK2 mutations in Li-Fraumeni syndrome. Science 1999;286:2528 ­ 2531.
+30. Vahteristo P, Tamminen A, Karvinen P, Eerola H, Eklund C, Aaltonen LA, Blomqvist C, Aittomaki K, Navanlinna H. p53, CHK2, and CHK1 genes in Finnish families with Li-Fraumeni syndrome: further evidence of CHK2 in inherited cancer predisposition. Cancer Res 2001;61:5718 ­5722.
+31. Lynch HT, de la Chappelle A. Genetic susceptibility to nonpolyposis colorectal cancer. J Med Genet 1999;36:801 818.
+
+32. Lynch HT, de la Chappelle A. Hereditary colorectal cancer. N Engl J Med 2003;348:919 ­932.
+Received September 28, 2005. Accepted October 5, 2005. Address requests for reprints to: Sapna Syngal, MD, MPH, DanaFarber Cancer Institute, 44 Binney Street, Boston, Massachusetts 02115. e-mail: ssyngal@partners.org; fax: (617) 632-4088. Supported in part by National Institutes of Health grant K24 CA113433 (to S.S.). The authors thank Melanie Marshall for assistance with collating clinical and pedigree data for the analysis.
+
+

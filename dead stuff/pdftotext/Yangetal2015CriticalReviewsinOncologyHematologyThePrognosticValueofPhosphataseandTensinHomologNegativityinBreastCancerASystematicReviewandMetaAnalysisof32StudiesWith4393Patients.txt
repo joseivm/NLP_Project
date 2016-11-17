@@ -1,0 +1,389 @@
+Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+Contents lists available at ScienceDirect
+Critical Reviews in Oncology/Hematology
+journal homepage: www.elsevier.com/locate/critrevonc
+
+The prognostic value of phosphatase and tensin homolog negativity in breast cancer: A systematic review and meta-analysis of 32 studies with 4393 patients
+Zu-Yao Yang a,1, Yuan-Yuan Yu a,1, Jin-Qiu Yuan a, Wei-Xi Shen b, Da-Yong Zheng c, Jin-Zhang Chen c, Chen Mao a,d,, Jin-Ling Tang a,d,e,
+a Division of Epidemiology, JC School of Public Health and Primary Care, The Chinese University of Hong Kong, Hong Kong b Cancer Institute, Shenzhen People s Hospital (2nd Clinical Medical College of Jinan University), Shenzhen, Guangdong Province, China c Department of Oncology, Nanfang Hospital, Southern Medical University, Guangzhou, Guangdong Province, China d Shenzhen Key Laboratory for Health Risk Analysis, Shenzhen Research Institute of The Chinese University of Hong Kong, Shenzhen, Guangdong Province, China e The Hong Kong Branch of The Chinese Cochrane Centre, The Chinese University of Hong Kong, Hong Kong
+Contents
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 2. Materials and methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+2.1. Search strategy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 2.2. Study selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 2.3. Data extraction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 2.4. Quality assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 2.5. Statistical analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 3. Results . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 3.1. Literature search and study selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42 3.2. Characteristics of included studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 3.3. Inter-relationship between PTEN Negativity and Selected Clinical or Pathological Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 3.4. Meta-analyses for the Primary Outcome . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44 3.5. Meta-analyses for the secondary outcome . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 3.6. Subgroup and meta-regression analyses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 3.7. Analysis of publication bias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 4. Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46 Role of funding source . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48 Conflict of interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48 Author contributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48 Acknowledgement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48 Biographies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+article info
+
+abstract
+
+Article history: Received 26 June 2014 Received in revised form 28 August 2015 Accepted 14 January 2016
+Keywords: phosphatase and tensin homolog breast cancer prognosis
+
+The prognostic value of phosphatase and tensin homolog (PTEN) negativity in breast cancer has been evaluated by many studies but remains controversial. We conducted a meta-analysis to assess the association of PTEN negativity with overall survival and disease-free survival. Thirty-two studies with 4393 patients were identified. PTEN negativity was significantly associated with unfavorable overall survival in breast cancer (hazard ratio = 1.89, 95% confidence interval 1.58­2.26), with low heterogeneity among the studies (I2 = 25%, P = 0.160) and no evidence for publication bias. Meta-analysis of multivariate hazard ratios and sensitivity analyses did not materially change the results. The data on disease-free survival was heterogeneous (I2 = 61.9%, P<0.001), with a summary hazard ratio of 1.57 (95% confidence interval
+
+ Corresponding authors at: 4/F, School of Public Health Building, Prince of Wales Hospital, Shatin, New Territories, Hong Kong. Fax: +852 2606 3500. E-mail addresses: maochen@cuhk.edu.hk (C. Mao), jltang@cuhk.edu.hk (J.-L. Tang).
+1 These authors contributed equally to this study.
+http://dx.doi.org/10.1016/j.critrevonc.2016.01.013 1040-8428/© 2016 Published by Elsevier Ireland Ltd.
+
+overall survival disease-free survival systematic review meta-analysis
+
+Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+41
+
+1.31­1.89). The exact source of heterogeneity remains unclear. We thus concluded that PTEN negativity was significantly associated with unfavorable prognosis in terms of overall survival in breast cancer.
+© 2016 Published by Elsevier Ireland Ltd.
+
+1. Introduction
+Breast cancer has long been the most frequent cancer among women (Siegel et al., 2013). Apart from effective treatments, clinical, pathological and biological factors that have prognostic and/or predictive value are also important for optimizing clinical management of the disease, as they can be used to inform risk stratification, treatment selection and development of new therapeutic strategy (Patani et al., 2013). Examples of such factors include tumor size, lymph node status, estrogen receptor (ER) status and human epidermal growth factor receptor 2 (HER2) status, which have been well integrated into clinical practice and contributed much to the improvement of outcome of breast cancer. Along with the emphasis on personalized medicine especially in oncology in recent years, increasing attention has been drawn to other biomarkers that may help explain residual risk not accounted for by traditional factors (Patani et al., 2013).
+Phosphatase and tensin homolog (PTEN) is a protein encoded by the tumor suppressor gene PTEN. It antagonizes the phosphatidylinositol 3-kinase (PI3 K)/Akt signaling pathway that plays a key role in cell growth, differentiation and survival (Vazquez and Sellers, 2000). By inhibition of the pathway, PTEN may regulate the normal cell cycle and suppress the growth of cancer (Weng et al., 1999). Loss or impairment of PTEN expression (collectively referred to as PTEN negativity hereafter) could lead to constitute activation of PI3K/Akt pathway, which reduces apoptosis and promotes proliferation (Fresno Vara et al., 2004). PTEN negativity may result from such alterations of PTEN gene as mutation, deletion and promoter methylation (Nagata et al., 2004).
+The prognostic value of PTEN negativity in human cancers has been heavily investigated. Previous meta-analyses showed that it was associated with poor overall survival in gastric, colorectal, hepatocellular, prostate, and endometrial cancers (Chen et al., 2014; Ocana et al., 2014). There are also some studies suggesting that PTEN negativity was associated with poor prognosis in breast cancer. For example, the study of Razis et al. with 182 patients found that PTEN negativity was significantly associated with poor overall survival (hazard ratio [HR] = 1.85, 95% confidence interval [CI] 1.23­2.78) (Razis et al., 2011). However, this finding was not always supported by other studies. For example, in the study of Fabi et al. with 73 patients, no significant association between PTEN negativity and overall survival was found, despite a trend disfavoring PTEN-negative patients (Fabi et al., 2010). It is unclear whether the discrepancy between existing studies is due to the varying sample sizes or other reasons, leaving the prognostic value of PTEN negativity controversial.
+We thus conducted a comprehensive systematic review and meta-analysis to synthesize current evidence on this topic. The main objective is to quantify the association between PTEN negativity and the prognosis of breast cancer. The impact of PTEN negativity on overall survival and disease-free survival was evaluated.
+2. Materials and methods
+2.1. Search strategy
+This meta-analysis was conducted and reported according to the PRISMA guidelines (Moher et al., 2009). We performed a
+
+2976 records idenfied: 1057 PubMed 1794 EMBASE (including conference abstracts) 125 Chinese Biomedical Literature Database
+1062 duplicates
+1914 abstracts screened
+1752 excluded: 163 editorials, leers, or reviews
+1258 animal, in vivo or in vitro studies 62 not breast cancer paents 74 irrelevant or no biomarkers 171 irrelevant outcomes 24 no analysis on the prognosc
+value of PTEN negavity
+162 abstracts or full texts further evaluated
+125 excluded: 78 irrelevant or no biomarkers 7 irrelevant outcomes 40 no detailed analysis on the
+prognosc value of PTEN negavity
+37 studies potenally eligible
+2 irrelevant outcomes 1 non-extractable data 2 duplicates
+32 studies included
+Fig. 1. Flow chart of study selection.
+systematic search of PubMed, EMBASE (including the conference proceedings of American Society of Clinical Oncology and European Society of Medical Oncology) and Chinese Biomedical Literature Database (in Chinese) from their respective inception through 2012. For the studies published as abstracts at the time of literature search, the full texts were tracked through July 2013. Keywords used to search relevant publications included: "breast cancer*", "breast carcinoma*", "breast tumor*", "breast
+
+42 Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+tumour*"; "phosphatase and tensin homolog", "PTEN", "P-TEN"; "prognos*", "outcome*", "progress*", "metasta*", "relapse*", "recurren*", "surviv*", "death*", "die*", "dead", "dying", "mortality". As the association of PTEN status with prognosis was often investigated by "supplementary" analysis in the studies that focused on Akt protein and/or PIK3CA gene, the following keywords related to the two biomarkers were also used in the literature search: "Akt*"; "pAkt"; "p-Akt"; "PIK3CA"; "PI3K*"; "PIK3*"; "phosphoinositide 3-kinase"; "phosphoinositide-3-kinase"; "phosphatidylinositol 3 kinase"; "phosphatidylinositol 3-kinase"; "PI 3-kinase"; "phosphatidylinositol-3 kinase". No restrictions were placed on language or publication status. Wherever possible; the searches were limited to "human studies". The reference lists of eligible studies and relevant reviews were also scrutinized for additional eligible studies.
+2.2. Study selection
+The titles and abstracts of all identified records were screened to judge their relevance. The full texts of the studies seemingly fulfilling the inclusion criteria were obtained for further examination. Cohort studies that met the following criteria were considered eligible: (1) the subjects were patients diagnosed with breast cancer; (2) the outcome events included death, disease recurrence, or both; and (3) PTEN status was tested and correlated with the outcomes. As with the usual practice of research in this field, PTEN negativity was defined as loss or impairment of PTEN expression. Duplicates and studies with non-extractable data were excluded.
+2.3. Data extraction
+The following data were extracted from eligible studies: (1) bibliographic information, such as first author, country and publication year; (2) data on clinical and pathological characteristics of patients, such as sample size, age, stage of disease, cancer histology, ER status, progesterone receptor (PR) status, HER2 status, and trastuzumab treatment status; (3) definition and rate of PTEN negativity; (4) main results of the study, such as HR and 95% CI (if available, multivariate results were preferable); (5) information on study quality (see below).
+Authors of the original studies were contacted as needed to clarify the ambiguities in reported methods or results and to seek additional data not included in the published reports. If not explicitly reported in the original paper and still not available after contact with author, HR was estimated according to the method reported by Parmar et al. and recommended by the Cochrane Handbook for Systematic Reviews (Higgins and Deeks, 2011; Parmar et al., 1998). Where HR was not estimable, rate ratio (RR) was used as a substitute for it (JAMA). Data extraction was completed independently by two reviewers. Disagreements between the two were resolved by revisiting the original paper and discussion until consensus was reached.
+
+papers and discussion. Unsettled disagreements were referred to a third researcher for final decision.
+2.5. Statistical analysis
+The basic characteristics of included studies were summarized descriptively. The rates of PTEN negativity reported by different studies were combined to obtain a summary estimate. The interrelationship between PTEN negativity and the following factors were assessed by combining the 2 × 2 tables reported in relevant studies: age, menopausal status, tumor size, cancer histology, lymph node positivity, tumor-node-metastasis (TNM) stage, histological grade, ER status, PR status, and HER2 status. A summary RR was estimated for the inter-relationship between PTEN status and each factor.
+The primary and secondary clinical outcomes of this metaanalysis were overall survival, defined as the time from diagnosis to death or end of follow-up, whichever earlier, and disease-free survival, defined as the time from diagnosis to recurrence, death or end of follow-up, whichever earlier, respectively. The effect of PTEN negativity on the outcomes was measured by HR with 95% CI, and the HRs from relevant studies were combined to produce a summary HR for each outcome. HR>1 means that the prognosis of patients with PTEN negativity is poorer than that of PTEN-positive patients, while HR<1 means the opposite.
+The random-effects model was used for all meta-analyses. The heterogeneity among studies was assessed by the Cochran's Q-test and the I2 statistic (Higgins et al., 2003). A p value  0.10 for the Qtest or an I2 > 50% was suggestive of substantial between-study heterogeneity. If substantial, the heterogeneity in the metaanalyses on the two outcomes was investigated by subgroup and meta-regression analyses to see if it could be explained by clinicopathological characteristics such as study population, stage of cancer, the proportion of patients with HER2+ and trastuzumab treatment status and methodological characteristics such as sample size, length of follow-up, effect measure, analyzing method and study quality score. Sensitivity analyses were conducted by omitting one study each time, by limiting the meta-analysis to the studies reporting multivariate HRs, and by changing from randomeffect model to fixed-effect model. Begg's funnel plot and Egger's regression test were used to examine the possibility of publication bias (Sterne et al., 2011). In presence of an asymmetric funnel plot, the Duval and Tweedie nonparametric trim-and-fill method was used to adjust for the potential publication bias and obtain an adjusted result of meta-analysis (Duval and Tweedie, 2000).The meta-analyses of rates of PTEN negativity were conducted by using the Meta-Analyst software (Wallace et al., 2009), while the meta-analyses of HRs or RRs and other related analyses wes were performed with STATA version 11.0 (StataCorp, College Station, TX, USA).
+3. Results
+
+2.4. Quality assessment
+
+3.1. Literature search and study selection
+
+The quality of included studies was assessed according to the Newcastle-Ottawa scale (Wells et al., 2016), which was frequently employed by previous studies (Thosani et al., 2013). This scale was focused on three aspects of a study, including selection of patients, comparability of baseline characteristics and outcome assessment. For each aspect, there are up to 4 items for detailed evaluation. The overall study quality was denoted by a numerical score ranging from 0 to 9, with 9 representing the highest quality. Quality assessment was completed independently by two reviewers. Disagreements between the two were resolved by revisiting original
+
+Initially, 2,976 records, including 1,062 duplicates, were identified by the literature search. Among the 1,914 unique references, 37 studies were considered potentially eligible, and 32 studies published between 2001 and 2012 were finally included (Table 1) (Razis et al., 2011; Fabi et al., 2010; Bose et al., 2006; Capodanno et al., 2009; Dai et al., 2007; Deng et al., 2008; Esteva et al., 2010; Giner et al., 2010; Iqbal et al., 2012; Janssen et al., 2007; Jensen et al., 2012; Kiatpanabhikul et al., 2012; Li et al., 2007; Lin et al., 2003; Lin et al., 2005; Liu et al., 2007; Lu and Xu, 2004; Milovanovic et al., 2011; Oliveria et al., 2011; Perez et al., 2013; Shoman et al.,
+
+Table 1 Characteristics of included studies.
+
+Study
+
+Country
+
+N
+
+Age: mean (range) (year) at baseline Stage of disease at baseline
+
+Bose et al., 2006 Capodanno et al., 2009 Dai et al., 2007 Deng et al., 2008 Esteva et al., 2010 Fabi et al., 2010 Giner et al., 2010 Iqbal et al., 2012 Janssen et al., 2007 Jensen et al., 2012 Kiatpanabhikul et al., 2012 Li et al., 2007 Lin et al., 2003 Lin et al., 2005 Liu et al., 2007 Lu et al., 2004 Milovanovic et al., 2011 Oliveira et al., 2011 Perez et al., 2013 Razis et al., 2011 Shoman et al., 2005 Sun et al., 2006 Sun et al., 2008 Tsutsui et al., 2005 Wang et al., 2011 Weng et al., 2008 Winter et al., 2007 Xiang et al., 2004 Yang et al., 2008 Yi et al., 2005 Yonemori et al., 2009 Zhang et al., 2006
+
+USA Italy China China USA Italy USA Singapore Norwegian Denmark Thailand China China China China China Serbia Spain USA Greece Canada China China Japan China China USA China China China Japan China
+
+193 72 92 72 137 73 210 144 125 236 82 60 61 81 130 42 78 26 1802 182 100 81 260 236 81 83 146 60 95 62 27 95
+
+­ 55(34­82) 50(29­71) ­ (26­75) 44(20-73) 47(24­67) 58(24­87) 53(28­88) <55 ­ 50c 46(32­61) 45(28­75) 48 55(41­68) 48(26­92) ­ 47(33­78) 50(22­80) 56(28­95) 62(26­93) 50 52(28­78) 58(23­86) 48(25­67) 46(32­68) <55[42%pts] 48(27­81) 44(22­74) 48(34­71) 57(33­78) 45(22­73)
+
+Non-metastatic LNN 1-4b 1-3 Metastatic Metastatic Non-metastatic Non-metastatic LNN Early 1-4b 1­4 1­4b LNN 1­3 1­3 1­2 Metastatic Early Metastatic 1­4b Non-metastatic 1­3 1­4b LNN 1­3 1­4b Non-metastatic 1­4b Non-metastatic 2­3 1­4b
+
+a This is the percentage of ductal carcinoma rather than invasive ductal carcinoma. b In these studies, the percentages of patients with metastatic (stage IV) cancer were all less than 5%. c This is the mean age of PTEN negative patients.
+
+IDC (%)
+49 96a ­ ­ 90 96a ­ 94 ­ 96a ­ 65 ­ 100 95 67 55a ­ 95a ­ 97 65 67 100 ­ 100 100 ­ ­ 85 ­ 100
+
+ER + (%)
+79 63 64 69 41 38 ­ 0 53 50 0 69 59 78 100 62 ­ 0 ­ 68 100 67 ­ 44 78 47 55 52 ­ ­ 11 52
+
+PR+ (%)
+71 ­ 67 70 33 36 ­ 0 62 ­ 0 62 48 ­ ­ ­ ­ 0 ­ 48 39 ­ ­ ­ ­ ­ 45 ­ ­ ­ 4 ­
+
+HER2+ (%)
+22 14 ­ ­ 100 100 100 0 4 100 0 ­ ­ ­ 28 ­ ­ 0 100 61 59 57 ­ ­ ­ ­ ­ ­ ­ ­ 70 ­
+
+PTEN - (%)
+20 32 46 63 45 52 16 27 55 24 29 45 47 37 72 57 32 38 26 55 40 38 31 31 37 39 34 57 34 35 74 42
+
+Mean FU (year)
+­ 10 >5 >5 ­ ­ 6 3 11 6 ­ 5-8 6 ­ 5 ­ ­ ­ 6 6 6 >10 ­ 7 >5 5 7 5 6 >5 ­ ­
+
+HR
+Uni Multi Uni Uni Uni Uni Uni Uni Uni Multi Uni Uni Uni Uni Multi Uni Uni Uni Multi Multi Multi Uni Uni Multi Uni Uni Uni Uni Uni Uni Uni Uni
+
+NOS
+6 6 7 6 5 5 5 5 6 6 5 6 6 6 6 7 5 5 7 8 5 7 6 6 5 5 5 6 6 6 6 6
+
+43
+
+Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+44 Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+Fig. 2. Forest plot for the meta-analysis of the association between PTEN negativity and overall survival in breast cancer. Results are presented as individual and pooled hazard ratios (HRs) with corresponding 95% confidence intervals (CIs). HR>1 means that the overall survival of PTEN-negative patients is poorer than that of PTEN-positive ones, while HR<1 means the opposite.
+
+2005; Sun et al., 2008; Sun et al., 2006; Tsutsui et al., 2005; Wang et al., 2011; Weng et al., 2008; Winter et al., 2007; Xiang et al., 2004; Yang et al., 2008; Yi et al., 2004; Yonemori et al., 2009; Zhang et al., 2006). The flow chart of study selection is shown in Fig. 1.
+3.2. Characteristics of included studies
+The basic characteristics of included studies are summarized in Table 1. Nineteen studies were conducted in Asia, six in North America and seven in Europe. The sample sizes ranged from 26 to 1,802, with a median of 88 and a total of 4,393. PTEN status was consistently tested by immunohistochemistry using stained breast tumor tissue slides across the included studies. The definitions of PTEN negativity in different studies are summarized in Supplementary Table 1. The rates of PTEN negativity ranged from 16% to 74%, with a total of 1,762 patients having PTEN negativity and a summary rate of 40% (95% CI 35%-45%; heterogeneity I2 = 48%, P < 0.001). Four studies were conducted in metastatic breast cancer only, while in other studies the stage of cancer varied. In five studies, all patients had invasive ductal carcinoma. Two, zero, five and three studies, respectively, were conducted in ER+, PR+, HER2+ and triple-negative (i.e. ER-, PR- and HER2) breast cancer. The mean length of follow-up ranged from 3 to 11 years, with the majority being 5 years or more. HR was estimated by multivariate analysis in seven studies (Razis et al., 2011; Bose et al., 2006; Jensen et al., 2012; Liu et al., 2007; Perez et al., 2013; Shoman et al., 2005; Tsutsui et al., 2005) and univariate analysis in the others. The range, median and mean of study quality scores based on Newcastle-Ottawa scale was 5­8, 6 and 5.9, respectively.
+
+Supplementry material related to this article found, in the online version, at http://dx.doi.org/10.1016/j.critrevonc.2016.01.013.
+3.3. Inter-relationship between PTEN Negativity and Selected Clinical or Pathological Factors
+As shown in Supplementary Table 2, PTEN negativity was more frequent in breast cancer with lymph nodes metastasis, higher TNM stage, higher histological grade, or negative ER. The summary RR for the association between PTEN negativity and these factors varied from 1.26 to 1.69. No significant association was observed between PTEN negativity and other factors.
+Supplementry material related to this article found, in the online version, at http://dx.doi.org/10.1016/j.critrevonc.2016.01.013.
+3.4. Meta-analyses for the Primary Outcome
+Data on overall survival was available from 18 of the 34 included studies (Table 1) (Razis et al., 2011; Fabi et al., 2010; Deng et al., 2008; Esteva et al., 2010; Giner et al., 2010; Jensen et al., 2012; Li et al., 2007; Lin et al., 2003; Lin et al., 2005; Liu et al., 2007; Lu and Xu, 2004; Oliveria et al., 2011; Sun et al., 2006; Wang et al., 2011; Weng et al., 2008; Xiang et al., 2004; Yang et al., 2008; Yi et al., 2004). Meta-analysis of the 18 studies with 1,772 patients showed that PTEN negativity was significantly associated with unfavorable overall survival in breast cancer. The summary HR was 1.89 (95% CI 1.58­2.26), with low heterogeneity among the studies (I2 = 25%, P = 0.160) (Fig. 2). Sensitivity analyses omitting one study each time showed that individually Fabi 2010 and Weng 2008 had the largest influence on the overall results. The summary HR was 1.97 (95% CI 1.66­2.32; heterogeneity test I2 = 9.5%, P = 0.343) when Fabi 2010 was omitted and
+
+Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+45
+
+Fig. 3. Forest plot for the meta-analysis of the association between PTEN negativity and disease-free survival in breast cancer, stratified by trastuzumab treatment status. Results are presented as individual and pooled HRs with corresponding 95% CIs. HR>1 means that the disease-free survival of PTEN-negative patients is poorer than that of PTEN-positive ones, while HR<1 means the opposite.
+
+1.79 (95% CI 1.52­2.11; heterogeneity test I2 = 11.6%, P = 0.318) when Weng 2008 was omitted, both of which were still statistically significant. When the meta-analysis was limited to the studies reporting multivariate HRs (Razis et al., 2011; Jensen et al., 2012; Liu et al., 2007), the summary HR was 1.65 (95% CI 1.17­2.33; heterogeneity test I2 = 0%, P = 0.541). Changing to fixedeffect model, the summary HR was almost unchanged (1.83, 95% CI 1.58­2.12).
+
+P = 0.008) when Milovanovic 2011 was omitted, both of which were still statistically significant. When the meta-analysis was limited to the studies reporting multivariate HRs (Bose et al., 2006; Jensen et al., 2012; Liu et al., 2007; Perez et al., 2013; Shoman et al., 2005; Tsutsui et al., 2005), the summary HR was 1.46 (95% CI 1.03-2.07; heterogeneity test I2 = 68.4%, P = 0.007). Changing to fixed-effect model, the summary HR was 1.43 (95% CI 1.29­1.57).
+
+3.5. Meta-analyses for the secondary outcome
+Data on disease-free survival was available from 22 of the 32 included studies (Table 1) (Bose et al., 2006; Capodanno et al., 2009; Dai et al., 2007; Giner et al., 2010; Iqbal et al., 2012; Janssen et al., 2007; Jensen et al., 2012; Kiatpanabhikul et al., 2012; Lin et al., 2003; Lin et al., 2005; Liu et al., 2007; Lu and Xu, 2004; Milovanovic et al., 2011; Perez et al., 2013; Shoman et al., 2005; Sun et al., 2008; Tsutsui et al., 2005; Winter et al., 2007; Xiang et al., 2004; Yang et al., 2008; Yonemori et al., 2009; Zhang et al., 2006). Meta-analysis of the 22 studies with 4,367 patients showed that PTEN negativity was also significantly associated with unfavorable disease-free survival in breast cancer. The summary HR was 1.57 (95% CI 1.31­1.89), with substantial between-study heterogeneity (I2 = 61.9%, P < 0.001) (Fig. 3). However, none of the HRs was significantly smaller than 1. Sensitivity analyses omitting one study each time showed that individually Perez 2013 and Milovanovic 2011 had the largest influence on the overall results. The summary HR was 1.63 (95% CI 1.37­1.94; heterogeneity test I2 = 49.9%, P = 0.005) when Perez 2013 was omitted and 1.47 (95% CI 1.25­1.72; heterogeneity test I2 = 47.8%,
+
+3.6. Subgroup and meta-regression analyses
+The results of subgroup and meta-regression analyses to explore the source of heterogeneity detected in Fig. 3 are summarized in Table 2, which shows that none of the pre-specified factors could account for the heterogeneity. Although the association of PTEN loss with disease-free survival was not observed in the subgroup in which all patients received trastuzumab treatment (HR = 1.01, 95% CI 0.70-1.46) and was significant in the subgroup with no trastuzumab treatment (HR = 1.68, 95% CI 1.34­2.10), the difference between the subgroups did not reach statistical significance (test for subgroup difference: P = 0.117).
+3.7. Analysis of publication bias
+The funnel plot (Fig. 4A) based on the data presented in Fig. 2 was symmetric (Egger's regression test: P = 0.080), whereas the one (Fig. 4B) based on Fig. 3 demonstrated some degree of asymmetry (Egger's regression tests: P = 0.037), suggesting the possibility of publication bias. After adjusting for the potential publication bias by trim-and-fill method, the summary HR based on the data in Fig. 3
+
+46 Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+Table 2 Results of subgroup and meta-regression analyses for the data on disease-free survival.
+
+Factors and subgroups
+
+No. of studies
+
+No. of patients
+
+Summary HR (95% CI)
+
+Heterogeneity
+
+Meta-regression P-value
+
+1. Sample size <88 88
+2. PTEN negativity rate <40% 40%
+3. Follow-up length <5 years, or unclear 5 years
+4. Effect measure Hazard ratio Risk ratio
+5. Analyzing method Univariate Multivariate
+6. Study quality score <6 6
+7. Population Asian Non-Asian
+8. Country of study China Other countries
+9. Invasive ductal carcinoma <90% 90
+10. ER+ patients 0% 1­99% 100%
+11. PR+ patients 0% 1­99%
+100% 12. HER2+ patients
+0% 1­99% 100% 13. Trastuzumab Yes Not mentioned No
+
+8 14
+14 8
+9 13
+10 12
+16 6
+6 16
+13 9
+9 13
+4 10
+2 13 2
+2 7 0
+2 6 3
+3 3 17
+
+503 3864
+3730 637
+1002 3365
+3073 1294
+1791 2576
+760 3607
+1405 2962
+916 3451
+573 3042
+226 1466 230
+226 744 ­
+226 647 2248
+1464 436 2467
+
+1.73 (1.01-2.96) 1.47 (1.25­1.73)
+1.63 (1.31­2.02) 1.43 (0.99­2.06)
+1.53 (1.13­2.06) 1.59 (1.26­2.02)
+1.44 (1.16­1.79) 1.70 (1.26­2.29)
+1.63 (1.32­2.02) 1.46 (1.03-2.07)
+1.81 (1.34­2.44) 1.44 (1.16­1.80)
+1.46 (1.20-1.78) 1.74 (1.23­2.46)
+1.52 (1.17­1.98) 1.60 (1.24­2.05)
+1.69 (0.87­3.30) 1.47 (1.18­1.83)
+1.55 (0.99­2.45) 1.50 (1.18­1.92) 1.63 (1.15­2.32)
+1.55 (0.99­2.45) 1.62 (1.20-2.20) ­
+1.55 (0.99­2.45) 1.62 (1.09­2.42) 1.16 (0.85­1.57)
+1.01 (0.70­1.46) 1.46 (1.16­1.82) 1.68 (1.34­2.10)
+
+I2 = 77.4%, P = 0.000 I2 = 40.9%, P = 0.056
+I2 = 67.5%, P = 0.000 I2 = 52.4%, P = 0.040
+I2 = 70.8%, P = 0.001 I2 = 54.9%, P = 0.009
+I2 = 53.0%, P = 0.024 I2 = 64.6%, P = 0.001
+I2 = 56.2%, P = 0.003 I2 = 68.4%, P = 0.007
+I2 = 68.8%, P = 0.007 I2 = 53.5%, P = 0.006
+I2 = 36.3%, P =0.093 I2 = 77.9%, P = 0.000
+I2 = 38.3%, P = 0.113 I2 = 71.4%, P = 0.000
+I2 = 83.7%, P = 0.000 I2 = 54.0%, P = 0.021
+I2 = 53.7%, P = 0.142 I2 = 37.2%, P = 0.086 I2 = 21.4%, P = 0.259
+I2 = 53.7%, P = 0.142 I2 = 29.2%, P = 0.205 ­
+I2 = 53.7%, P = 0.142 I2 = 51.2%, P = 0.068 I2 = 47.7%, P = 0.148
+I2 = 0.0%, P = 0.427 I2 = 8.9%, P = 0.334 I2 = 62.0%, P < 0.001
+
+0.606 0.560 0.810 0.492 0.587 0.279 0.518 0.921 0.585 0.591
+0.759
+0.346
+0.117
+
+Abbreviations: HR: hazard ratio; CI: confidence interval; ­: not applicable; ER: estrogen receptor positive; PR: progesterone receptor positive; HER2: human epidermal growth factor receptor 2 positive.
+
+was 1.54 (95% CI 1.28­1.85), which was almost the same with the unadjusted estimate.
+4. Discussion
+Although heavily investigated, the prognostic value of PTEN negativity in breast cancer remained controversial due to the not always consistent results of previous studies. This meta-analysis included 32 studies with 4393 patients to assess the effect of PTEN negativity on the prognosis of breast cancer, representing the most comprehensive synthesis of existing evidence on this topic as of today. PTEN negativity was found to be significantly associated with unfavorable overall survival in breast cancer, with low heterogeneity among the studies and no evidence for publication bias. The results were robust in sensitivity analyses. In terms of diseasefree survival, the prognostic effect of PTEN loss was heterogeneous across studies. Trastuzumab treatment status seemed to be responsible for part of the heterogeneity, but the subgroup difference did not reach statistical significance, precluding a firm conclusion to be drawn. Thus, the exact source of heterogeneity remains unclear.
+Our findings about the adverse effect of PTEN negativity on overall survival are supported by studies looking at the prognostic value of PTEN negativity from other perspectives. For example, Wikman
+
+et al. and Piekarski and Biernat found that PTEN negativity was significantly associated with metastasis in breast cancer (Piekarski and Biernat, 2006; Wikman et al., 2012), while Shoman et al. found that it was associated with breast cancer-specific survival (Shoman et al., 2005). A meta-analysis by Ocana et al. found that PTEN negativity was associated with poor 5-year overall survival in colorectal, hepatocellular, prostate, and endometrial cancers (odds ratio 3.50, 95% CI 1.94­6.31) (Ocana et al., 2014). A meta-analysis by Chen et al. found that PTEN negativity was also associated with poor 5-year overall survival in gastric cancer (RR 1.64, 95% CI 1.45­1.85) (Chen et al., 2014). These evidences lend further support to the results of the present meta-analysis.
+The prognostic effect of PTEN negativity on overall survival should inform the risk stratification of breast cancer patients in clinical practice. More importantly, this finding implies that PTEN negativity could be a potential predictor for sensitivity to PI3 K/Akt/mTOR inhibitors which are currently undergoing preclinical or clinical tests, because it takes effect through deregulation of the PI3 K/Akt/mTOR pathway (Courtney et al., 2010; GonzalezAngulo et al., 2011). In fact, some cell-line studies have already shown that PTEN-negative breast cancer cells are more sensitive than the PTEN-positive ones to PI3 K/Akt/mTOR inhibitors such as LY294002 and rapamycin (DeGraffenried et al., 2004). In the future,
+
+Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+Begg's funnel plot with pseudo 95% confidence limits 2
+
+47
+
+1
+
+log[HR]
+
+0
+
+-1 0
+
+.2 .4 s.e. of: log[HR]
+
+(A)
+
+Begg's funnel plot with pseudo 95% confidence limits 4
+
+.6
+
+.8
+
+2
+
+log[HR]
+
+0
+
+-2
+
+-4 0
+
+.5 1 s.e. of: log[HR]
+(B)
+
+1.5
+
+Fig. 4. Funnel plots to examine the possibility of publication bias in the data for overall survival (A) and that for disease-free survival (B). The standard error of log hazard ratio (S.E. of log HR) was plotted against log HR for each individual study as represented in a circle. Egger's tests were conducted to examine whether the funnel plots were symmetric or not (P = 0.080 for Fig. 4(A); P = 0.037 for Fig. 4(B)). Asymmetric funnel plot (i.e. Fig. 4(B)) indicates the potential for publication bias.
+
+more clinical studies are warranted to further investigate this issue. If its predictive value was confirmed, PTEN negativity should contribute to the individualization of targeted treatment of breast cancer, similar to the situation of KRAS mutations in the treatment of metastatic colorectal cancer with cetuximab (Dahabreth et al., 2011).
+There are some issues that should be considered in interpreting our results. First, many studies included in this systematic review were from China, which may raise people's concern about the quality and generalizability of evidence. However, we do not think this would represent a big problem, because the average quality score of China studies (6.06 out of 9) was better than that for other studies (5.72 out of 9), and there was no significant difference between China and non-China studies in their results (Fig. 2; Table 2).
+The second issue has to do with missing data. In the process of study selection of this systematic review, one study was excluded due to non-extractable data (Noh et al., 2008). That study stated
+
+that PTEN loss was not associated with worse disease-free survival, with no HR and 95% CI provided. Although the study's conclusion seemingly contradicts with ours, its sample size is small, with only 5 PTEN-negative patients, which means that the 95% CI of HR must be wide, and adding that study to our meta-analysis of diseasefree survival is likely to exert negligible influence on the summary results.
+The third issue is that the scoring methods and definitions of PTEN negativity differed considerably across the included studies, which were reflected by the varying rates of PTEN negativity. On one hand, this implies that the prognostic value of PTEN negativity may be independent of the scoring methods and definitions, which is partly supported by the results of our subgroup analysis according to the rate of PTEN negativity. On the other hand, this highlights the need for a standardized methodology for testing and scoring PTEN negativity, which should facilitate future research on this biomarker as well as its application to clinical practice.
+
+48 Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+The fourth issue is that some studies used for the analysis of disease-free survival included some patients with metastatic breast cancer, for whom freedom from disease is rarely possible and thus calculation of disease-free survival may not be appropriate. However, such patients accounted for only a small fraction (<5%) of the patients in those studies (see footnote of Table 1). Therefore, this issue was unlikely to have had important impact on the overall results.
+Lastly, as not all the eligible studies conducted multivariate analyses, confounding bias could be a concern, although the metaanalyses of studies that reported multivariate HRs yielded similar results to the overall meta-analyses. This is mainly due to two reasons. First, PTEN negativity was more frequent in some patients, such as those with lymph node metastasis, higher histological grade, higher TNM stage and negative ER, than in others (Supplementary Table 2). Second, biological events other than PTEN negativity in the PI3 K/Akt/mTOR signaling pathway, such as pAkt overexpression and PIK3CA mutations, were also associated with poor prognosis of breast cancer (Lerma et al., 2008; Li et al., 2006; Spears et al., 2012; Nagai et al., 2010). Thus, controlling for these factors is important for establishing the independent prognostic effect of PTEN negativity, and should be emphasized more in future studies.
+In conclusion, this meta-analysis showed that PTEN negativity was significantly associated with unfavorable prognosis in terms of overall survival in breast cancer. Under some circumstances, PTEN negativity might be associated with unfavorable disease-free survival as well, but current studies do not agree well with each other on this point, and further studies are needed.
+Role of funding source
+This study was supported by a grant from the Shenzhen Science and Technology Innovation Committee. The funding source had no role in study design; in the collection, analysis and interpretation of data; in the writing of the report; and in the decision to submit the article for publication. The authors had access to all raw data and had the final responsibility for the decision to submit the manuscript for publication.
+Conflict of interest
+None declared.
+Author contributions
+Study concept and design: Jin-Ling Tang, Chen Mao, Zu-Yao Yang.
+Acquisition of data: Zu-Yao Yang, Yuan-Yuan Yu. Analysis and interpretation of data: Zu-Yao Yang, Yuan-Yuan Yu, Jin-Ling Tang, Chen Mao, Jin-Qiu Yuan, Wei-Xi Shen, Da-Yong Zheng, Jin-Zhang Chen. Drafting of the manuscript: Zu-Yao Yang, Yuan-Yuan Yu, Jin-Qiu Yuan. Critical revision of the manuscript for important intellectual content: Jin-Ling Tang, Chen Mao, Zu-Yao Yang, Yuan-Yuan Yu, Jin-Qiu Yuan, Wei-Xi Shen, Da-Yong Zheng, Jin-Zhang Chen. Funding application: Jin-Ling Tang, Chen Mao. Study supervision: Jin-Ling Tang, Chen Mao.
+Acknowledgement
+This study was supported by a grant from the Shenzhen Science and Technology Innovation Committee.
+
+References
+Siegel, R., Naishadham, D., Jemal, A., 2013. Cancer statistics, 2013. CA Cancer J Clin 63, 11­30.
+Patani, N., Martin, L.A., Dowsett, M., 2013. Biomarkers for the clinical management of breast cancer: international perspective. Int. J. Cancer 133, 1­13.
+Vazquez, F., Sellers, W.R., 2000. The PTEN tumor suppressor protein: an antagonist of phosphoinositide 3-kinase signaling. Biochim. Biophys. Acta 1470, M21­35.
+Weng, L.P., Smith, W.M., Dahia, P.L., et al., 1999. PTEN suppresses breast cancer cell growth by phosphatase activity-dependent G1 arrest followed by cell death. Cancer Res. 59, 5808­5814.
+Fresno Vara, J.A., Casado, E., de Castro, J., Cejas, P., Belda-Iniesta, C., González-Barón, M., 2004. PI3 K/Akt signalling pathway and cancer. Cancer Treat Rev. 30, 193­204.
+Nagata, Y., Lan, K.H., Zhou, X., et al., 2004. PTEN activation contributes to tumor inhibition by trastuzumab, and loss of PTEN predicts trastuzumab resistance in patients. Cancer Cell 6, 117­127.
+Chen, J., Li, T., Liu, Q., et al., 2014. Clinical and prognostic significance of HIF-1, PTEN, CD44v6, and survivin for gastric cancer: a meta-analysis. PLoS One 9, e91842.
+Ocana, A., Vera-Badillo, F., Al-Mubarak, M., et al., 2014. Activation of the PI3K/mTOR/AKT Pathway and Survival in Solid Tumors: Systematic Review and Meta-Analysis. PLoS One 9, e95219.
+Razis, E., Bobos, M., Kotoula, V., et al., 2011. Evaluation of the association of PIK3CA mutations and PTEN loss with efficacy of trastuzumab therapy in metastatic breast cancer. Breast Cancer Res. Treat 128, 447­456.
+Fabi, A., Metro, G., Di Benedetto, A., et al., 2010. Clinical significance of PTEN and p-Akt co-expression in HER2-positive metastatic breast cancer patients treated with trastuzumab-based therapies. Oncology 78, 141­149.
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D.G., 2009. The PRISMA Group: Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement. PLoS Med. 6, e1000097.
+Higgins, J.P.T., Deeks, J.J., 2011. Chapter 7: Selecting studies and collecting data. In: Higgins, J.P.T., Green, S. (Eds.), Cochrane Handbook for Systematic Reviews of Interventions Version 5.1.0 [updated March]. The Cochrane Collaboration, 2011 (accessed on 24 January 2014).
+Parmar, M.K., Torri, V., Stewart, L., 1998. Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints. Stat. Med. 17, 2815­2834.
+Wells, G.A., Shea, B., O'Connell, D., et al., 2016. The Newcastle-Ottawa Scale (NOS) for assessing the quality of non-randomised studies in meta-analyses (accessed on 28 August 2013).
+Thosani, N., Thosani, S., Kumar, S., et al., 2013. Reduced risk of colorectal cancer with use of oral bisphosphonates: a systematic review and meta-analysis. J. Clin. Oncol. 31, 623­630.
+Higgins, J.P., Thompson, S.G., Deeks, J.J., Altman, D.G., 2003. Measuring inconsistency in meta-analyses. BMJ 327, 557­560.
+Sterne, J.A.C., Egger, M., Moher, F., 2011. Chapter 10: Addressing reporting biases. In: Higgins, J.P.T., Green, S. (Eds.), Cochrane Handbook for Systematic Reviews of Interventions. Version 5.1.0 [updated March]. The Cochrane Collaboration, 2011, Available from (accessed on 28 August 2013).
+Duval, S., Tweedie, R., 2000. Trim and fill: a simple funnelplot based method of testing and adjusting for publication bias in meta-analysis. Biometrics 56, 455­463.
+Wallace, B.C., Schmid, C.H., Lau, J., Trikalinos, T.A., 2009. Meta-Analyst: software for meta-analysis of binary, continuous and diagnostic data. BMC Med. Res. Methodol. 9, 80.
+Bose, S., Chandran, S., Mirocha, J.M., Bose, N., 2006. The Akt pathway in human breast cancer: a tissue-array-based analysis. Mod. Pathol. 19, 238­245.
+Capodanno, A., Camerini, A., Orlandini, C., et al., 2009. Dysregulated PI3 K/Akt/PTEN pathway is a marker of a short disease-free survival in node-negative breast carcinoma. Hum. Pathol. 40, 1408­1417.
+Dai, Z., Wang, X., Liu, X., et al., 2007. Expression of PTEN in breast cancer and relation to PCNA [article in Chinese]. Guo Ji Wai Ke Xue Za Zhi 34, 15­18.
+Deng, J., Wu, L., Chen, Y., Yu, D.J., 2008. Expression and significance of the tumor suppressor gene PTEN in breast cancer [article in Chinese]. Shi Yong Quan Ke Yi Xue 6, 555­559.
+Esteva, F.J., Guo, H., Zhang, S., et al., 2010. PTEN, PIK3CA, p-AKT, and p-p70S6 K status: association with trastuzumab response and survival in patients with HER2-positive metastatic breast cancer. Am. J. Pathol. 177, 1647­1656.
+Giner, D., Sanchez-Tejada, L., Gutierrez-Avino, F.J., et al., 2010. PTEN loss of expression is not related with PTEN promoter hypermethylation in HER2-positive breast carcinoma. Lab. Invest. 90, 47A.
+Iqbal, J., Thike, A.A., Cheok, P.Y., Tse, G.M., Tan, P.H., 2012. Insulin growth factor receptor-1 expression and loss of PTEN protein predict early recurrence in triple-negative breast cancer. Histopathology 61, 652­659.
+Janssen, E.A., Soiland, H., Skaland, I., et al., 2007. Comparing the prognostic value of PTEN and Akt expression with the Mitotic Activity Index in adjuvant chemotherapy-treated node-negative breast cancer patients aged <55 years. Cell. Oncol. 29, 25­35.
+Jensen, J.D., Knoop, A., Laenkholm, A.V., et al., 2012. PIK3CA mutations, PTEN, and pHER2 expression and impact on outcome in HER2-positive early-stage breast cancer patients treated with adjuvant chemotherapy and trastuzumab. Ann. Oncol. 23, 2034­2042.
+
+Z.-Y. Yang et al. / Critical Reviews in Oncology/Hematology 101 (2016) 40­49
+
+49
+
+Kiatpanabhikul, T., Parinyanitikul, N., Tanakit, V., Sriuranpong, V., 2012. Prevalence of PTEN loss in triple negative breast cancer in the Thai population. Eur. J. Cancer. 48 (suppl 4), S12.
+Li, M., Lu, Y., Zeng, J., 2007. Expression of PTEN and the prognosis value in breast cancer [article in Chinese]. Guang Xi Yi Xue Za Zhi 29, 971­973.
+Lin, Q., Zhuang, Y.Z., Xu, D.P., Ye, J.X., Chen, P.Q., 2003. Expression of PTEN protein and its correlation with p27 and cyclin D1 expression in priamry breast cancer [article in Chinese]. Zhonghua Zhong Liu Za Zhi 25, 246­249.
+Lin, X., Zhou, G., Wang, X., 2005. The correlation between expression of PTEN and MVD in patients with axillary node negative bresat cancer [article in Chinese]. Zhongguo Lin Chuang Zhong Liu 32, 248­251.
+Liu, C., Zhou, S., Ke, C., Li, N.P., Wu, R.L., 2007. Activation and prognostic significance of AKT, NF-KB and STAT3 in breast cancer with lymph node metastasis and estrogen receptor expression [article in Chinese]. Ai Zheng 26, 929­936.
+Lu, J., Xu, J., 2004. Expression of PTEN protein and clinical value of the expression in primary breast carcinoma [article in Chinese]. Shantou Da Xue Yi Xue Yuan Xue Bao 17, 136­139.
+Milovanovic, Z., Dzodic, R., Susnjar, S., Plesinac-Karapandzic, V., Juranic, Z., Tatic, S., 2011. PTEN protein expression in postmenopausal steroid receptor positive early breast cancer patients treated with adjuvant tamoxifen. J BUON 16, 46­51.
+Oliveria, M., De Matto-Arruda, G., Sanchez-Olle, G., et al., 2011. Prognostic implications of phosphatidylinositol 3-kinase pathway alterations in metastatic triple-negtive breast cancer. J Clin Oncol 29 (Suppl), abstr 1081.
+Perez, E.A., Dueck, A.C., McCullough, A.E., et al., 2013. Impact of PTEN protein expression on benefit from adjuvant trastuzumab in early-stage human epidermal growth factor receptor 2-positive breast cancer in the North Central Cancer Treatment Group N9831 trial. J. Clin. Oncol. 31, 2115­2122.
+Shoman, N., Klassen, S., McFadden, A., et al., 2005. Reduced PTEN expression predicts relapse in patients with breast carcinoma treated by tamoxifen. Mod. Pathol. 18, 250­259.
+Sun, L., Wang, L., Song, M., Song, J.Y., 2008. Expressions of mutated p53 and tumor suppressor gene PTEN in breast cancer [article in Chinese]. Zhonghua Zhong Liu Fang Zhi Za Zhi 15, 430­433.
+Sun, L.F., Ding, K.F., Wu, X.H., Peng, J.P., Zhang, S.C., Zhen, S., 2006. Prognostic prediction of PTEN and Her-2 expression in breast cancer [article in Chinese]. Zhongguo Bing Li Sheng Li Za Zhi 22, 2380­2384.
+Tsutsui, S., Inoue, H., Yasuda, K., et al., 2005. Reduced expression of PTEN protein and its prognostic implications in invasive ductal carcinoma of the breast. Oncology 68, 398­404.
+Wang, A.Y., Lin, X.Y., Wang, Q.X., Li, J.M., 2011. Expression and significance of p-Akt, PTEN and P-gp in patients with axillary node negative breast cancer [article in Chinese]. Shandong Yi Yao 51, 19­21.
+Weng, H., Li, S., Ren, J., 2008. Significance and expression of FT'EN in breast cancer [article in Chinese]. Lin Chuang He Shi Yan Yi Xue Za Zhi 7, 6­7.
+Winter, J., Stackhouse, B., Russell, G., Kute, T.E., 2007. Measurement of PTEN expression using tissue microarrays to determine a race-specific prognostic marker in breast cancer. Arch Pathol Lab Med 131, 767­772.
+Xiang, Y.X., Xu, M.R., Fang, Q.A., Shi, G.S., 2004. The expression an sigificance of c-erb-2 and PTEN in brease cancer [article in Chinese]. Nantong Yi Xue Yuan Xue Bao 24, 36­41.
+Yang, X., Xin, Y., Mao, L.L., 2008. Clinicaopatjological siginificance of PTEN and caspase-3 Expressions in Breast Cancer. Chin. Med. Sci. J. 23, 95­102.
+Yi, F.T., Hu, G.Q., Li, D.Z., Song, H.Z., Chen, F.C., 2004. Prognostic value of PTEN, BCL-2 and p53 protein expression in breast carcinomas [article in Chinese]. Zhong Liu Fang Zhi Za Zhi 11, 1147­1150.
+Yonemori, K., Tsuta, K., Shimizu, C., et al., 2009. Immunohistochemical expression of PTEN and phosphorylated Akt are not correlated with clinical outcome in
+
+breast cancer patients treated with trastuzumab-containing neo-adjuvant chemotherapy. Med. Oncol. 26, 344­349. Zhang, H., Song, S., Jiang, Z., 2006. Expression and significance of tumor suppressor gene PTEN in breast carcinoma [article in Chinese]. Jie Fang Jun Yi Xue Za Zhi 31, 960­962. Piekarski, J.H., Biernat, W., 2006. Clinical significance of CK5/6 and PTEN protein expression in patients with bilateral breast carcinoma. Histopathology 49, 248­255. Wikman, H., Lamszus, K., Detels, N., et al., 2012. Relevance of PTEN loss in brain metastasis formation in breast cancer patients. Breast Cancer Res. 14, R49. Courtney, K.D., Corcoran, R.B., Engelman, J.A., 2010. The PI3 K pathway as drug target in human cancer. J. Clin. Oncol. 28, 1075­1083. Gonzalez-Angulo, A.M., Ferrer-Lozano, J., Stemke-Hale, K., et al., 2011. PI3 K pathway mutations and PTEN levels in primary and metastatic breast cancer. Mol Cancer Ther. 10, 1093­1101. DeGraffenried, L.A., Fulcher, L., Friedrichs, W.E., Grünwald, V., Ray, R.B., Hidalgo, M., 2004. Reduced PTEN expression in breast cancer cells confers susceptibility to inhibitors of the PI3 kinase/Akt pathway. Ann. Oncol. 15, 1510­1516. Dahabreth, I.J., Terasawa, T., Castaldi, P.J., Trikalinos, T.A., 2011. Systematic review: anti-epidermal growth factor receptor treatment effect modification by KRAS mutations in advanced colorectal cancer. Ann. Intern. Med. 154, 37­49. Noh, W.C., Kim, Y.H., Kim, M.S., et al., 2008 Aug. Activation of the mTOR signaling pathway in breast cancer and its correlation with the clinicopathologic variables. Breast Cancer Res. Treat. 110 (August (3)), 477­483. Lerma, E., Catasus, L., Gallardo, A., et al., 2008. Exon 20 PIK3CA mutations decreases survival in aggressive (Her-2 positive) breast carcinomas. Virchows Arch. 453, 133­139. Li, S.Y., Rong, M., Grieu, F., et al., 2006. PIK3CA mutations in breast cancer are associated with poor outcome. Breast Cancer Res. Treat. 96, 91­95. Spears, M., Cunningham, C.A., Taylor, K.J., et al., 2012. Proximity ligation assays for isoform-specific Akt activation in breast cancer identify activated Akt1 as a driver of progression. J. Pathol. 227, 481­489. Nagai, M.A., Gerhard, R., Salaorni, S., et al., 2010. Down-regulation of the candidate tumor suppressor gene PAR-4 is associated with poor prognosis in breast cancer. Int. J. Oncol. 37, 41­49.
+Biographies
+Jin-Ling Tang, MD, PhD is the Director of the Hong Kong Branch of the Chinese Cochrane Centre and a Professor of Epidemiology at the Chinese University of Hong Kong. He is also the Chairman of the Asia Pacific Network for EvidenceBased Medicine. His researches in the past 25 years covered both cardiovascular diseases and cancers. He has a major interest in evidence-based healthcare, systematic reviews and meta-analyses. Over the last 10 years, he has published some 30 systematic reviews, cohort studies or case-studies evaluating prognostic or predictive biomarkers of cancer, and has 6 completed or ongoing granted projects in this field.
+Chen Mao, MD, PhD is a Research Assistant Professor of Division of Epidemiology at the Chinese University of Hong Kong. Collaborating closely with clinicians, he has focused on researches of prognostic and predictive biomarkers of cancer ever since his PhD study. For the last 6 years, he has published some 50 papers in this field, including systematic reviews, cohort studies and comments. His current researches cover multiple cancers such as breast cancer, colorectal cancer, lung cancer, and pancreatic cancer.
+
+

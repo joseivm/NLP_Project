@@ -1,0 +1,237 @@
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.11.5375 Relationship Between two Polymorphisms in the NBS1 Gene and Breast Cancer Risk: a Meta-analysis
+RESEARCH ARTICLE
+
+Current Evidence on the Relationship Between Two Polymorphisms in the NBS1 Gene and Breast Cancer Risk: a Meta-analysis
+
+Zhi-Hua Zhang1&, Lin-Sheng Yang1&, Fen Huang1, Jia-Hu Hao2, Pu-Yu Su2, Ye-Huan Sun1*
+Abstract
+Introduction: Published studies on the association between Nijmegen breakage syndrome 1(NBS1) gene polymorphisms and breast cancer risk have been inconclusive, and a meta-analysis was therefore performed for clarification. Methods: Eligible articles were identified by a search of MEDLINE and EMBASE bibliographic databases for the period up to March 2012. The presence of between-study heterogeneity was investigated using the chi-square-based Cochran's Q statistic test. When there was statistical heterogeneity, the random effects model was chosen; otherwise, fixed effects estimates were reported as an alternative approach. Results: A total of 11 eligible articles (14 case-control studies) were identified, nine case-control studies were for the 657del5 mutation (7,534 breast cancer cases, 14,034 controls) and five case-control studies were for the I171V mutation (3,273 breast cancer cases, 4,004 controls). Our analysis results indicated that the 657del5 mutation was associated with breast cancer risk (carriers vs. non- carriers: pooled OR =2.63, 95% CI: 1.76-3.93), whereas the I171V mutation was not (carriers vs. non-carriers: pooled OR =1.52, 95% CI: 0.70-3.28). Conclusion: The present meta-analysis suggests that the 657del5 gene mutation in the NBS1 gene plays a role in breast cancer risk, while the I171V mutation does not exert a significant influence.
+Keywords: NBS1 gene - 657del5 mutation - I171V mutation - polymorphism - cancer risk - breast cancer - meta-analysis
+Asian Pacific J Cancer Prev, 13 (11), 5375-5379
+
+Introduction
+Breast cancer is the most common cancer among women worldwide, which accounts for 16% of all female cancers (Parkin et al., 2005). Breast cancer has led to serious mortality, and became a major public health challenge. The mechanism of breast carcinogenesis is still unclear. It has been widely accepted that low-penetrance susceptibility genes combining with environmental factors may be important in the occurrence of the cancer (Pharoah et al., 2004). In recent years, several common low-penetrant genes have been identified as potential breast cancer susceptibility genes; an important one is the NBS1 gene. NBS1 gene transcript, nibrin (NBN), is a protein involved in many essential intracellular processes responsible for maintaining genome stability, one of its roles is cooperation with other proteins like RAD50, BRCA and ATM in initiating reparation of spontaneous or induced DNA damages. The carriers of homozygous mutations of NBS1 gene are at a much higher risk of different malignancy occurrence.
+The major NBS mutation is a 5-basepair-deletion
+
+of the NBS1 gene, 657del5, that predominantly occurs in populations of Slavic descent (Varon et al., 2000). Association studies of 657del5 truncating mutation in breast cancer series have not generally supported the suggestion that NBS1 gene alterations may contribute to breast cancer susceptibility (Carlomagno et al., 1999; Buslov et al., 2005), but more recent investigations in the Polish and Byelorussian populations provided evidence that the founder mutation 657del5 could be associated with an increased breast cancer risk (Steffen et al., 2006; Bogdanova et al., 2008a).
+Another NBS1 gene mutation, I171V, has been proposed to increase the risk for childhood acute lymphoblastic leukemia (Mosor et al., 2006) and for larynx cancer in heterozygous carriers (Ziolkowska et al., 2007). In recent years, some original publications have reported the role of I171V mutation in breast cancer risk (Kanka et al., 2007; Bogdanova et al., 2008b; Nowak et al., 2008; Desjardins et al., 2009). In the studies mentioned above, one showed the I171V mutation was risk factor for developing breast cancer (Nowak et al., 2008), whereas the others showed no such association (Kanka et al. 2007;
+
+1 e art ent of i e iolo an iostatistics, 2 e art ent of aternal an C il ealt , c ool of Pu lic ealt , An ui e ical niversit , efei, An ui, C ina & ual contri utors or corres on ence s a u ot ail co
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 5375
+
+Zhi-Hua Zhang et al
+Bogdanova et al. 2008b; Desjardins et al. 2009). The role of 657del5 and I171V mutation in breast
+cancer susceptibility is less clear. The inconclusive nature of these results might be explained by the possible small effect of the polymorphism on breast cancer risk and the relatively small sample size of the published studies. Therefore, we performed a meta-analysis of the published studies for a more precise evaluation of this association.
+Materials and Methods
+earc strate In our meta-analysis, we searched literature from
+Medline (through PubMed) and EMBASE bibliographical databases for the period from July 1995 to March 2012 (last search: March 26, 2012) to identify relevant available articles using combinations of the following keywords and their synonyms: ("NBS1" or "NBN" or "657del5" or "I171v" or "511A>G" or "rs61754966" or "Ile171val") and ("cancer" or "carcinoma" or "tumor" or "neoplasms") and ("breast" or "mammary"). In addition, we checked all the references of relevant reviews and eligible articles that our search retrieved. All searches were limited to studies published in English. Two investigators (Zhi-Hua Zhang and Lin-Sheng Yang), working independently, searched the literature and extracted data from each eligible case-control study. Only published studies with full text articles were included; and Editorials, narrative reviews or other manuscripts not reporting primary data were not considered.
+li i le stu ies an ata a straction The inclusion criteria of this meta-analysis were:
+(a) case-control study; (b) evaluation of the association between the NBS1 gene (657del5 mutation or I171v mutation) polymorphism and breast cancer risk; (c) sufficient published data for estimating an odds ratio (OR) with a 95% confidence interval; (d) if more than one article were published using the same case series, only the study with largest sample size was selected.
+From each of the eligible studies, two investigators extracted the following data independently: first author's surname, year of publication, country or ethnicity of the study populations, demographic characteristics of populations being studied, total number of cases and controls, sources of controls, frequencies of genotypes in cases and controls.
+
+and Laird (DerSimonian and Laird, 1986) methods, respectively. The equivalent z test was also performed to assess the statistical significance of the pooled OR; The Hardy-Weinberg equilibrium was tested by goodness-offit Chi-square tests to compare the observed genotype frequencies with expected genotype frequencies in cancerfree controls for all studies. In addition, subgroup analyses by source of controls (hospital-based, population-based) were conducted. Analyses were conducted using STATA 9.0(STATA Corp., College Station, TX) and meta-analysis was performed using the ``metan''command. All statistical tests were two-sided. Evidence of publication bias was determined using Egger's formal statistical test (Egger et al., 1997) and by visual inspection of the funnel plot. For the interpretation of Egger's test, statistical significance was defined as P<0.1. The Egger's test was performed using the ``metabias6'' STATA command.
+Results
+tu c aracteristics Figure 1 graphically illustrates the trial flow chart.
+In total, 87 abstracts were retrieved through the search criteria. Of them 61 studies were irrelevant, 11 were review and 3 studies were excluded for the lack of data of control. In the remaining 12 articles (16 case-control studies), two studies were excluded because they were conducted on overlapping populations, such as, the study by Steffen et al. (2004) has overlapped population with the study by Steffen et al. (2006) on the data of 657del5 mutation; the study by Roznowski et al. (2008) has overlapped population with the study by Nowak et al.(Nowak et al. 2008) on the data of I171V mutation. As a result, 11 articles (14 case-control studies) were included in this meta-analysis (Carlomagno et al., 1999; Gorski et al., 2003; Buslov et al., 2005; Gorski et al., 2005; Steffen et al., 2006; Kanka et al., 2007; Bogdanova et al., 2008a; Bogdanova et al., 2008b; Nowak et al., 2008; Roznowski et al., 2008; Desjardins et al., 2009); nine case-control studies pertained to the 657del5 mutation (7,534 breast cancer cases, 14,034 controls), and five case-control studies concerned I171V mutation (3,273 breast cancer cases, 4,004 controls). There were six studies of Poland, three of German, two of Byelorussian, one of Russia and one of French Canadian. The other characteristics of
+
+tatistical anal sis The presence of between-study heterogeneity was
+investigated using the chi-square-based Cochran's Q statistic test (Lau et al., 1997), and P<0.1 was interpreted as significant heterogeneity. The I2 index expressed the percentage of the total variation across studies due to heterogeneity. I2 values of 25%, 50%, and 75% were used as evidence of low, moderate, and high heterogeneity, respectively. When there was no statistical heterogeneity, we used a fixed effects model; whereas, the random-effects method allowed for such heterogeneity. The fixed-effects and random-effects methods were used by MantelHaenszel (Mantel and Haenszel, 1959) and DerSimonian
+
+Figure 1. Study Flow Chart Explaining the Selection of the 14 Eligible Case-control Studies
+
+5376 Asian Pacific Journal of Cancer Prevention, Vol 13, 2012
+
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.11.5375 Relationship Between two Polymorphisms in the NBS1 Gene and Breast Cancer Risk: a Meta-analysis
+Table 1. Main Characteristics and Genotype Distribution of 657del5 Mutation
+
+First author Year Country/Ethnicity no. (Mean age or age range) SC
+
+Case
+
+Control
+
+Case Control
+
+Carriers Non-Carriers Carriers Non-Carriers
+
+Bogdanova Bogdanova Roznowski Kanka Steffen Gorski Buslov
+
+2008 2008 2008 2007 2006 2005 2005
+
+Gorski
+
+2003
+
+Carlomagno 1999
+
+Total
+
+-
+
+Germany Byelorussian Poland Poland Poland Poland Russia
+Poland
+German -
+
+1076(57) 1588(48) 270(NA) 222(48.3) 786(52) 2012(55.7) 173(50.1) 348(38.6) 150(<50)
+80(NA) 477(<51)
+7534
+
+1017(NA) 1014(NA)
+295(NA) 4000(NA) 1620(NA) 4000(NA) 700(54.6) 344(80.5) 530(NA)
+866(NA) 14034
+
+PB HB PB PB PB HB Mixed
+HB
+NA -
+
+1 15 2 2 15 17 7
+5
+1 65
+
+1075 1573 268 220 771 1995 866
+225
+476 7469
+
+0 1017 1 1013 2 293 21 3979 10 1610 18 3982 2 690
+3 527
+1 865 58 13976
+
+PB, population-based; HB, hospital-based; NA, not available; SC, source of controls
+
+Table 2. Main Characteristics and Genotype Distribution of I171V Mutation
+
+First author Year Country/Ethnicity no. (Mean age or age range) SC
+
+Case
+
+Control
+
+Case Control
+
+Carriers Non-Carriers Carriers Non-Carriers
+
+Desjardins Bogdanova Bogdanova Nowak Kanka Total
+
+2009 2008 2008 2008 2007 -
+
+French Canadian 97(>18)
+
+73(NA)
+
+Byelorussian 1636(48) 1014(NA)
+
+Germany
+
+1048(57) 1017(18-68)
+
+Poland
+
+270(31-75) 600(NA)
+
+Poland
+
+222(48.3) 1300(NA)
+
+-
+
+3273
+
+4004
+
+NA HB PB PB PB -
+
+1 96 20 1616 10 1038 5 265 6 216 42 3231
+
+0 73 18 996
+7 1010 1 599 18 1282 44 3960
+
+PB, population-based; HB, hospital-based; NA, not available; SC, source of controls
+
+Figure 3. Meta-analysis for the NBS1 Gene I171V
+
+Figure 2. Meta-analysis for the NBS1 Gene 657del5 Mutation and Breast Cancer Risk
+studies included in the present meta-analysis are listed in Table 1 and Table 2.
+
+Mutation and Breast Cancer Risk
+among the five studies (chi-squared=8.47, P=0.076), and the I2-statistic detected the presence of heterogeneity (52.8%). Consequently, the random effects model was applied. In the overall analysis, I171V mutation was
+
+not associated with breast cancer risk (carriers vs. non-
+
+el ol or is The Q-statistic showed the between-study heterogeneity among the nine studies (chi-squared=4.19, P=0.840), and the I2-statistic detected the presence of heterogeneity (0.0%). Consequently, the fixed effects model was applied. In the overall analysis, 657del5 mutation was associated
+
+carriers: pooled OR=1.52, 95% CI: 0.70­3.28, Figure 3), However, in subgroup analysis by source of controls, the results of our study suggested that there was a positive correlation between I171V mutation and the breast cancer in population-based controls (Table 3).
+
+with increased breast cancer risk (carriers vs. non-carriers: Pu lication ias
+
+pooled OR= 2.63, 95% CI: 1.76­3.93, Figure 2).
+
+Begg's funnel plot and Egger's test were performed to
+
+1 1V ol or is The Q-statistic showed the between-study heterogeneity
+
+analyze the publication bias of the literature. The shapes of the funnel plots did not reveal any obvious asymmetry (figures not shown). The Egger's test was used to provide
+
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 5377
+
+Zhi-Hua Zhang et al
+
+Table 3. Summary of Meta-analysis of Case-control Studies Examining 657del5 Mutation and I171V Mutation and Breast Cancer Risk
+
+Studies
+
+Number of Heterogeneity P studies (I2)
+
+OR(95%CI)
+
+657del5 mutation All studies Population based Hospital based I171V mutation All studies Population based Hospital based
+
+9 4 3
+5 3 1
+
+0 0 32.2%
+
+0.840 0.744 0.229
+
+2.63(1.76-3.93) 2.49(1.31-4.71) 2.75(1.58-4.81)
+
+52.8% 34.6%
+-
+
+0.076 0.216 -
+
+1.52(0.70-3.28) 2.10(1.12-3.93) 0.68(0.36-1.30)
+
+P, P value of Q-test for heterogeneity test
+
+statistical evidence of funnel plot symmetry, the results did not suggest any evidence of publication bias (P=0.615 for 657del5 mutation, P=0.140 for I171V mutation).
+
+Discussion
+
+and gene-environment interactions can not be addressed in this meta-analysis, also due to lack of data. Third, the potential contribution of the 657del5 mutation and I171V mutation are limited by its very low frequency in populations of non-Slavic descent, evidences come mainly from studies in Eastern Europe. However, this meta-analysis had two significant advantages. First, no publication bias was detected, indicating that the pooled result is reliable. Second, the meta-analysis has pooled all the available results from the case-control studies, which has significantly increased the statistical power.
+In conclusion, there is a significant association between the 657del5 mutation and risk of breast cancer, which supports the hypothesis that variants in DNA double-strand break repair genes may contribute to the pathogenesis of breast cancer. While it difficulty comes to a conclusion about the relationship between I171V mutation and breast cancer. Well-designed, unbiased prospective studies with larger sample size should be conducted to further confirm these results.
+
+In the present study, we collected all available, published studies and performed a meta-analysis to examine the association between NBS1 gene polymorphisms and the susceptibility to breast cancer. Purpose of this study is to clarify controversial results from previous reports. Nine and five studies on the 657del5 and I171V mutation, respectively, were critically reviewed. Our data indicates that the 657del5 mutation in the NBS1 gene is a risk factor for breast cancer, while the results of I171V mutation showed discrepancies, a positive correlation between the I171V mutation and the breast cancer in the study of population-based control design, but not in study of hospital-based control design (only one study). The discrepancies may be due to insufficient statistical power with a relatively small sample size. Further studies with larger sample size are needed in order to confirm these results.
+The NBS1 gene codes for the protein NBS1 that is part of a nuclear multi-protein complex composed also by MRE11 and RAD50 (MRN complex), which plays a crucial role in the response to DNA double strand breaks. Carcinogens like ionizing radiation (IR) which has been pointed out as a risk factor for breast cancer induces DNA double-strand breaks. Unrepaired or misrepaired, double strand breaks may result in cell death, chromosome rearrangements and genome instability that are involved in carcinogenesis. A deficient repair of double-strand breaks can contribute to IR hyper sensibility and breast cancer susceptibility. 657del5 and I171V mutation of the NBS1 gene may fluence the repair capacity of breast cancer patients through a homologous recombination repair pathway.
+Some limitations of this meta-analysis should be acknowledged. First, the overall outcomes were based on unadjusted estimates, while a more precise evaluation should be adjusted by other covariates including age, menopausal status, ethnicity, and environment factors, but genotype-stratified analyses adjusted by the covariates can not be conducted due to the lack of enough data from the included studies. Second, the effect of gene-gene
+
+Acknowledgements
+This research was supported by the Anhui Provincial Natural Science Foundation (No.1208085QH148) and the Outstanding Young Teacher Foundation of Anhui Higher Education Institutions of China (No.2010SQRL070).
+References
+Bogdanova N, Feshchenko S, Schurmann P, et al (2008a). Nijmegen Breakage Syndrome mutations and risk of breast cancer. nt J Cancer, 122, 802-6.
+Bogdanova N, Schurmann P, Waltes R, et al (2008b). NBS1 variant I171V and breast cancer risk. reast Cancer es reat, 112, 75-9.
+Buslov KG, Iyevleva AG, Chekmariova EV, et al (2005). NBS1 657del5 mutation may contribute only to a limited fraction of breast cancer cases in Russia. nt J Cancer, 114, 585-9.
+Carlomagno F, Chang-Claude J, Dunning AM, et al (1999). Determination of the frequency of the common 657Del5 Nijmegen breakage syndrome mutation in the German population: no association with risk of breast cancer. enes C ro oso es Cancer, 25, 393-5.
+DerSimonian R, Laird N (1986). Meta-analysis in clinical trials. Control Clin rials, 7, 177-88.
+Desjardins S, Beauparlant JC, Labrie Y, et al (2009). Variations in the NBN/NBS1 gene and the risk of breast cancer in nonBRCA1/2 French Canadian families with high risk of breast cancer. C Cancer, 9, 181.
+Egger M, Davey Smith G, Schneider M, et al (1997). Bias in meta-analysis detected by a simple, graphical test. J, 315, 629-34.
+Gorski B, Cybulski C, Huzarski T, et al (2005). Breast cancer predisposing alleles in Poland. reast Cancer es reat, 92, 19-24.
+Gorski B, Debniak T, Masojc B, et al (2003). Germline 657del5 mutation in the NBS1 gene in breast cancer patients. nt J Cancer, 106, 379-81.
+Kanka C, Brozek I, Skalska B, et al (2007). Germline NBS1 mutations in families with aggregation of Breast and/or ovarian cancer from north-east Poland. Anticancer es, 27, 3015-8.
+Lau J, Ioannidis JP, and Schmid CH (1997). Quantitative
+
+5378 Asian Pacific Journal of Cancer Prevention, Vol 13, 2012
+
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.11.5375 Relationship Between two Polymorphisms in the NBS1 Gene and Breast Cancer Risk: a Meta-analysis synthesis in systematic reviews. Ann ntern e , 127, 820-6. Mantel N, and Haenszel W (1959). Statistical aspects of the analysis of data from retrospective studies of disease. J atl Cancer nst, 22, 719-48. Mosor M, Ziolkowska I, Pernak-Schwarz M, et al (2006). Association of the heterozygous germline I171V mutation of the NBS1 gene with childhood acute lymphoblastic leukemia. eu e ia, 20, 1454-6. Nowak J, Mosor M, Ziolkowska I, et al (2008). Heterozygous carriers of the I171V mutation of the NBS1 gene have a significantly increased risk of solid malignant tumours. ur J Cancer, 44, 627-30. Parkin DM, Bray F, Ferlay J, et al (2005). Global cancer statistics, 2002. CA Cancer J Clin, 55, 74-108. Pharoah PD, Dunning AM, Ponder BA, et al (2004). Association studies for finding cancer-susceptibility genetic variants. at ev Cancer, 4, 850-60. Roznowski K, Januszkiewicz-Lewandowska D, Mosor M, et al (2008). I171V germline mutation in the NBS1 gene significantly increases risk of breast cancer. reast Cancer es reat, 110, 343-8. Steffen J, Nowakowska D, Niwinska A, et al (2006). Germline mutations 657del5 of the NBS1 gene contribute significantly to the incidence of breast cancer in Central Poland. nt J Cancer, 119, 472-5. Steffen J, Varon R, Mosor M, et al (2004). Increased cancer risk of heterozygotes with NBS1 germline mutations in Poland. nt J Cancer, 111, 67-71. Varon R, Seemanova E, Chrzanowska K, et al (2000). Clinical ascertainment of Nijmegen breakage syndrome (NBS) and prevalence of the major mutation, 657del5, in three Slav populations. ur J u enet, 8, 900-902. Ziolkowska I, Mosor M, Wierzbicka M, et al (2007). Increased risk of larynx cancer in heterozygous carriers of the I171V mutation of the NBS1 gene. Cancer ci, 98, 1701-5.
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 5379
+
+

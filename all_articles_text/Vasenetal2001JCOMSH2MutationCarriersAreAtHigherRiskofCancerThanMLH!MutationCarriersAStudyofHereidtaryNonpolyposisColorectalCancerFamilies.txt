@@ -1,0 +1,377 @@
+MSH2 Mutation Carriers Are at Higher Risk of Cancer Than MLH1 Mutation Carriers: A Study of Hereditary
+Nonpolyposis Colorectal Cancer Families
+
+By H.F.A. Vasen, A. Stormorken, F.H. Menko, F.M. Nagengast, J.H. Kleibeuker, G. Griffioen, B.G. Taal, P. Moller, and J.T. Wijnen
+
+Purpose: Hereditary nonpolyposis colorectal cancer (HNPCC) is an autosomal dominant disease characterized by the clustering of colorectal cancer, endometrial cancer, and various other cancers. The disease is caused by mutations in DNA-mismatch-repair (MMR) genes, most frequently in MLH1, MSH2, and MSH6. The aims of the present study were to compare the risk of developing colorectal, endometrial, and other cancers between families with the various MMR-gene mutations.
+Patients and Methods: Clinical and pathologic data were collected from 138 families with HNPCC. Mutation analyses were performed for all families. Survival analysis was used to calculate the cumulative risk of developing cancer in the various subsets of relatives.
+Results: Mutations were identified in 79 families: 34 in MLH1, 40 in MSH2, and five in MSH6. The lifetime risk of developing cancer at any site was significantly
+
+higher for MSH2 mutation carriers than for MLH1 mutation carriers (P < .01). The risk of developing colorectal or endometrial cancer was higher in MSH2 mutation carriers than in MLH1 mutation carriers, but the difference was not significant (P  .13 and P  .057, respectively). MSH2 mutation carriers were found to have a significantly higher risk of developing cancer of the urinary tract (P < .05). The risk of developing cancer of the ovaries, stomach, and brain was also higher in the MSH2 mutation carriers than in the MLH1 mutation carriers, but the difference was not statistically significant.
+Conclusion: Pending large prospective studies, the extension of the current surveillance program in MSH2 mutation carriers with the inclusion of the urinary tract should be considered.
+J Clin Oncol 19:4074-4080. © 2001 by American Society of Clinical Oncology.
+
+H EREDITARY NONPOLYPOSIS colorectal cancer (HNPCC) is an autosomal dominant disease characterized by the development of cancer of the colorectum and endometrium and, less frequently, cancer of the stomach, urinary tract, ovaries, small bowel, and brain.1 It is caused by mutations in DNA-mismatch-repair (MMR) genes, predominantly in MLH1, MSH2, and MSH6 and rarely in PMS1 and PMS2.2 Most estimates of colon cancer risk are derived from families collected at HNPCC registries and vary between 60% and 85%.3,4 A recent study on the cancer risk in mutation carriers identified in a population-based series
+From the Netherlands Foundation for the Detection of Hereditary Tumors; Departments of Gastroenterology and Clinical and Human Genetics, Leiden University Medical Centre, Leiden; Department of Gastroenterology, University Hospital Radboud, Nijmegen; and Department of Gastroenterology, University Hospital Groningen, Groningen, the Netherlands; Department of Clinical Genetics, Radiumhospital, Oslo, Norway; Department of Clinical and Human Genetics, University Hospital Vrije Universiteit; and Department of Medical Oncology, Netherlands Cancer Institute/Antoni van Leeuwenhoekhuis, Amsterdam, the Netherlands.
+Submitted February 21, 2001; accepted June 20, 2001. Address reprint requests to H.F.A.Vasen, MD, PhD, Netherlands Foundation for the Detection of Hereditary Tumours, Leiden University Medical Centre, Poortgebouw Zuid, 2333 AA Leiden, the Netherlands; email: nfdht@xs4all.nl. © 2001 by American Society of Clinical Oncology. 0732-183X/01/1920-4074/$20.00
+
+of patients with early-onset colorectal cancer reported a significantly lower colorectal cancer risk in female mutation carriers.5 The reported risk of developing endometrial cancer is approximately 40% to 50%.3-5
+It is yet to be resolved whether there is a difference in cancer risk between carriers of the various MMR-gene mutations. Knowledge about this possible difference in risk might be important to assist physicians' decisions on surveillance programs.
+Previous studies showed that there was no difference in risk of colorectal and endometrial cancer between MSH2 and MLH1 mutation carriers.3 However, Danish investigators have reported that the risk of endometrial cancer is significantly lower in families with a specific MLH1 mutation,6 and a recent study by our group suggested that families with MSH6 mutations seemed to have a higher risk of developing endometrial cancer than families with MSH2 and MLH1 mutations.7 Regarding the less common extracolonic cancers, one study suggested that patients with MSH2 mutations have a higher relative risk of developing extracolonic cancers than patients with MLH1 mutations.3
+All studies published at the present time on the cancer risk in HNPCC have been hampered by a relatively small number of patients. We, therefore, evaluated the lifetime risk of developing cancer in a large series of families with identified mutations. The specific aims of the present study were (1) to compare the cancer risk between families with MLH1, MSH2, and MSH6 mutations and families with a
+
+4074
+
+Journal of Clinical Oncology, Vol 19, No 20 (October 15), 2001: pp 4074-4080
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on June 30, 2016 from 128.103.149.52 Copyright © 2001 American Society of Clinical Oncology. All rights reserved.
+
+CANCER RISK IN MMR GENE MUTATION CARRIERS
+
+4075
+
+Table 1. Number of Families, Patients With Colorectal and Endometrial Cancer, and Their First-Degree Relatives According to Type of Mutation Detected
+
+MLH1
+
+Mutated Gene MSH2
+
+MSH6
+
+Amsterdam Families Without Mutation
+
+Total
+
+No. of families
+
+34 40
+
+5
+
+No. of family members
+
+917 925 107
+
+No. of patients with colorectal cancer
+
+137 143
+
+15
+
+No. of patients with endometrial cancer
+
+26
+
+34
+
+4
+
+No. of first-degree relatives
+
+754 748
+
+78
+
+60 1,273
+209 16
+1,048
+
+139 3,222
+504 80
+2,638
+
+not-yet-identified mutation who meet the Amsterdam criteria, and (2) to discuss the consequences for surveillance.
+PATIENTS AND METHODS
+HNPCC Registry
+The Netherlands HNPCC registry was established in 1987. The methods used by the registry have been reported previously.8 The aims of the registry on its establishment were to promote surveillance in families with HNPCC and to guarantee follow-up examinations. Families with clustering of colorectal cancer were referred to the registry from all parts of the Netherlands. Pedigree analysis was performed by social workers or clinical geneticists. The pedigrees were traced backward and laterally as far as possible. Most pedigrees contain information on three generations. The data collected at the registry included personal and medical data on each affected and unaffected family member. The information on the cancer diagnosis was verified by medical or pathologic reports. From January to July 2000, a total of 193 families were registered. The collection of information was completed in all 193 families. A total of 116 families met the Amsterdam Criteria I or II, and the other 77 families were suspected of HNPCC.9 Mutation analysis has been performed in all families. Also, 58 families suspected of HNPCC known at the Clinical Genetic Centre Radium Hospital (Oslo, Norway) were investigated by mutation analysis.
+Molecular Genetics Study
+The techniques used in the mutation analysis have been reported previously.10 In short, the general strategy was to amplify by polymerase chain reaction each of the 16 exons of MSH2, the 19 exons of MLH1 and 10 exons of MSH6 in a single affected member in each family, and to analyze these products by GC-clamped denaturing gradient gel electrophoresis (DGGE). To determine the molecular nature of the variant, exons with an altered pattern of migration on DGGE were sequenced. When variants were detected, the investigations were extended, if possible to the rest of the family, to verify the segregation of the nucleotide change with the disease phenotype. Southern blot analysis for MSH2, MSH6, and MLH1 was done on all patients negative in the DGGE screening.10
+Risk Analysis
+The families were subdivided into families with the various MMRgene mutations and families without a mutation who met the Amsterdam I or II criteria. In all subsets of the families, three groups were regarded as mutation carriers: those relatives affected with cancer of the colorectum or endometrium, called putative carriers (which excluded the colorectal or endometrial cancer patients with a proven noncarrier status); relatives found to be carrying a mutation; and
+
+relatives who were considered to be obligate carriers because of their position in the pedigree in relation to relatives with a mutation. The cumulative risk by age was calculated using Kaplan-Meier survival analysis methods. Only the cancers verified by medical or pathologic reports were included in the calculations. The observation time was from birth until date of diagnosis of cancer, death, or to the end of the study in July 1, 2000. Differences in survival curves were tested for statistical significance on the basis of the log-rank test. With respect to the Norwegian families, only those with an identified mutation were included in the calculations.
+RESULTS
+Pathogenic mutations were found in 71 Dutch and eight Norwegian families: 34 in MLH1, 40 in MSH2, and five in MSH6. All mutations predicted truncation of the proteinproduct. Table 1 shows the number of patients with colorectal cancer, endometrial cancer, and their first-degree relatives in the families with or without a mutation. The mean age at diagnosis of colorectal cancer was higher in carriers of MSH6 mutations (mean age, 50.1 years; range, 26 to 69 years) compared with the age at diagnosis of colorectal cancer in carriers of MLH1 (mean age, 42.8 years; range, 16 to 81 years) and MSH2 mutations (mean age, 43.9 years; range, 16 to 90 years).
+Table 2 shows the frequency of other cancers observed in the various categories of families. Substantially more cancers were observed in families with an MLH1 or MSH2 mutation compared with families with an MSH6 mutation and families that met the Amsterdam Criteria without an identified mutation. We did not observe any difference in phenotype between families with a null mutation (nonsense mutation and genomic rearrangements) and those with a splice site mutation.
+The lifetime risk of developing cancer at any site was significantly higher (P  .01) in MSH2 mutation carriers than in MLH1 mutation carriers (Fig 1). The cumulative risk of developing colorectal cancer by age in MLH1 and MSH2 mutation carriers is shown in Fig 2. The risk of developing colorectal cancer was higher in MSH2 mutation carriers than in MLH1 mutation carriers (P  .13). Overall, the risk of developing colorectal cancer in male mutation carriers was higher than the risk of colorectal cancer in female mutation carriers, but the difference was
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on June 30, 2016 from 128.103.149.52 Copyright © 2001 American Society of Clinical Oncology. All rights reserved.
+
+4076
+
+VASEN ET AL
+
+Table 2. Number of Other Cancers in Patients With Colorectal and/or Endometrial Cancer and Their First-Degree Relatives According to Type of MMR Gene Mutation
+
+MLH1
+
+Mean Age
+
+Type of Mutation
+
+No.
+
+(years)
+
+Range (years)
+
+MSH2
+Mean Age No. (years)
+
+Range (years)
+
+MSH6 No.
+
+Amsterdam Families Without Mutation
+
+Mean Age No. (years)
+
+Range (years)
+
+No. of families
+
+34
+
+40
+
+5 59
+
+Site of cancer
+
+Stomach
+
+6
+
+53
+
+39-74
+
+15
+
+51
+
+23-82
+
+0
+
+8
+
+68
+
+36-77
+
+Urinary tract
+
+4
+
+63
+
+52-72
+
+14*
+
+56
+
+40-72
+
+0
+
+3
+
+50
+
+37-70
+
+Small bowel
+
+9
+
+50
+
+25-67
+
+7
+
+51
+
+31-69
+
+0
+
+3
+
+54
+
+39-65
+
+Ovary
+
+6
+
+51
+
+35-75
+
+13
+
+45
+
+37-58
+
+0
+
+5
+
+43
+
+19-57
+
+Brain
+
+3
+
+45
+
+21-78
+
+10
+
+41
+
+2-73
+
+0
+
+3
+
+56
+
+36-69
+
+*One patient had two primary urinary tract cancers.
+
+only statistically significant for MSH2 mutation carriers (P  .01) (Fig 3). The cumulative risk by age of developing endometrial cancer is shown in Fig 4. The risk of developing endometrial cancer was higher in MSH2 mutation carriers than in MLH1 mutation carriers (P  .057).
+Table 3 shows the cumulative risk of developing various cancers by age 70 in the putative mutation carriers. MSH2 mutation carriers were found to have a significantly higher risk of developing cancer of urinary tract (cumulative risk by age 70, 12%; P  .05). The risk of developing cancer of the stomach, ovary, and brain was also higher in the MSH2 mutation carriers than in the
+
+MLH1 mutation carriers, but the difference was not statistically significant. There was no difference in the risk of developing cancer of the small bowel between the two groups of mutation carriers. Altogether, 21 cases of urinary tract cancer were observed in 20 patients from 17 families (of which 15 were in putative gene carriers). There was one family with three cases of urinary tract cancer and two families with two cases in each. In the other families there was one case in each family. In addition, a total of 24 cases of ovarian cancer were found in 20 families (of which 13 were in putative gene carriers). In four families there were two cases, and in the remaining families there was one case per family.
+
+Figure 1. Cumulative risk of developing any cancer by age in putative carriers of mutations in MLH1 and MSH2.
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on June 30, 2016 from 128.103.149.52 Copyright © 2001 American Society of Clinical Oncology. All rights reserved.
+
+CANCER RISK IN MMR GENE MUTATION CARRIERS
+
+4077
+
+Figure 2. Cumulative risk of developing colorectal cancer by age in putative carriers of mutations in MLH1 and MSH2.
+
+DISCUSSION
+In the present study, we compared the incidence of cancer between HNPCC families with MLH1, MSH2, and MSH6 mutations and those without a known mutation who met the Amsterdam Criteria I or II. We found a significantly increased overall risk for developing cancer in MSH2 mutation carriers compared with carriers of MLH1 mutations. In addition, in MSH2 mutation carriers there was a significantly higher risk for cancer of the urinary tract (renal pelvis and ureter) than was the case in MLH1 mutation carriers. Also, compared with the risk in MLH1 mutation carriers, the risk of endometrial, ovarian, stomach, and brain cancer was greater in MSH2 mutation carriers. However, this difference was not statistically significant.
+There was some evidence for clustering of urinary tract and ovarian cancer in some families. This phenomenon was also described by Watson and Lynch.11 Possible explanations for this variation in expression among families are the presence of modifying genes or the influence of environmental factors.
+The results of our study might have been biased in different ways. First of all, the criteria for referral to the National HNPCC registry were familial clustering of colorectal cancer. Therefore, the ascertainment of the families might have led to overestimation of the risk of developing
+
+colorectal cancer. However, we don't expect that the estimated risk of extracolonic cancers and the observed differences in risk of developing colorectal cancer between the various groups of mutation carriers were biased by the way of ascertainment of the families. Secondly, the outcome of the present study might be influenced by the fact that only patients who survived were available for mutation analysis, which led to overrepresentation of tumor types with a favorable prognosis, such as tumors of the endometrium and colorectum, and underrepresentation of tumors with a less favorable prognosis, such as tumors of the brain and stomach.
+Recently, Aarnio et al12 assessed the cancer risk in a large series of Finnish HNPCC families. Although the results of the two studies cannot properly be compared, as the cancers in the Finnish families mainly resulted from MLH1 mutations (47 of the 50 families), there were several conspicuous differences between them. The reported risk of cancer of the stomach was substantially higher in the Finnish families than the risk of these cancers in the Dutch MLH1 mutation families. In addition, patients with small bowel cancer were not observed in the Finnish families. The same environmental factors that are responsible for the higher incidence of stomach cancer in the general population of Finland compared with the Dutch population may be responsible for the
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on June 30, 2016 from 128.103.149.52 Copyright © 2001 American Society of Clinical Oncology. All rights reserved.
+
+4078
+
+VASEN ET AL
+
+Figure 3. Cumulative risk of developing colorectal cancer by age and sex in putative carriers of mutations in MLH1 and MSH2.
+
+differences in incidence between the Dutch and Finnish MLH1 families. Similar differences have been observed between Dutch and Korean HNPCC families.13
+An intriguing question is why MSH2 mutations are associated with a higher risk of developing cancer than MLH1 mutations. The MSH2 protein forms with other mutS homologues two different mutS protein complexes (MSH2/ MSH6 and MSH2/MSH3) that recognize mispaired bases in DNA. The MLH1 protein forms with PMS2 a protein complex that interacts with the mutS protein complex bound to the mispaired DNA. After binding of these complexes, excision of the mispaired DNA occurs, followed by DNA resynthesis.14 In this process both MSH2 and MLH1 proteins play a critical role, and mutations in either genes result
+
+in a complete loss of function. However, a difference between MLH1 and MSH2 is the role that MSH2 plays in the control of the homologous recombination of two identical DNA-strands. If the DNA-strands differ more than 1%, the MSH2 protein prevents recombination.15 Moreover, MSH2 seems also to be involved in some pathways of transcription-coupled repair. This diversity in function might be responsible for the variation in cancer risk.
+The clinical phenotype of families with MSH6 mutations is still unknown. The first families reported in the literature were characterized by a late onset of colorectal cancer.16,17 Also, in the present study, the mean age at diagnosis of colorectal cancer was higher than the age at diagnosis in families with MLH1 and MSH2 mutations. Recent analysis of
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on June 30, 2016 from 128.103.149.52 Copyright © 2001 American Society of Clinical Oncology. All rights reserved.
+
+CANCER RISK IN MMR GENE MUTATION CARRIERS
+
+4079
+
+Figure 4. Cumulative risk of developing endometrial cancer by age in putative carriers of mutations in MLH1 and MSH2.
+
+families with MSH6 mutations revealed a remarkably high incidence of endometrial cancer.7,18 The reported series even included families exclusively with endometrial cancer. The observation of predominantly colorectal cancer in the families with MSH6 mutations reported in the present series might be attributed to the fact that the main criteria for referral of families to the HNPCC Registry was familial clustering of colorectal cancer. More studies--preferably studies that use less strict criteria for the selection of families for mutation
+
+analysis18--are needed to provide reliable estimates of cancer risk in MSH6-associated families.
+In our series, we found that the colorectal cancer risk was higher in male mutation carriers than in female mutation carriers. This is in parallel with the higher risk of developing colorectal cancer in males compared with females in the general population in the Netherlands. A sex difference in colorectal cancer risk in carriers of mismatch repair gene mutations was also reported by other investigators.5,12,19
+
+Table 3. Cumulative Risk (%) of Developing Cancer by Age in Carriers of MLH1 or MSH2 Mutations
+
+Age (years)
+
+MLH1 40 50 60 70
+
+95% CI
+
+MSH2 40 50 60 70
+
+Stomach*
+
+-- 0.4 2.1 2.1
+
+Urinary tract -- -- -- 1.3
+
+Small bowel
+
+-- 0.7 4.0 7.2
+
+Ovary§
+
+0.6 2.3 3.4 3.4
+
+Brain
+
+--------
+
+0-4.7 0-3.9 1.5-12.9 0-6.8
+
+0.7 1.2 4.3 4.3 0.4 1.5 5.4 12 0.8 1.2 4.5 4.5 1.7 6.4 10.4 10.4 1.2 1.2 1.2 1.2
+
+Abbreviation: CI, confidence interval. *Stomach: MLH1 v MSH2: P  .13 Urinary tract: MLH1 v MSH2: P  .05 Small bowel: MLH1 v MSH2: P  .8 §Ovarian cancer: MLH1 v MSH2: P  .11 Brain tumor: MLH1 v MSH2: P  .06
+
+95% CI
+0.5-8.1 3.5-20 0.5-8.5 3.2-17.6
+0-2.6
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on June 30, 2016 from 128.103.149.52 Copyright © 2001 American Society of Clinical Oncology. All rights reserved.
+
+4080
+
+VASEN ET AL
+
+According to the guidelines proposed by the International Group on HNPCC, surveillance of the colorectum and endometrium (including the ovaries) is recommended for all mutation carriers, and surveillance of other sites (eg, the urinary tract and stomach) for mutation carriers from families that include such types of cancers. In this study, MSH2 mutation carriers have a significantly increased risk of developing cancer of the urinary tract. An extended surveillance program, including surveillance of the urinary tract, should, therefore, be considered in MSH2 mutation carriers, pending the outcome of large prospective studies. The recommended protocol of screening for urinary tract cancer includes cytologic examination of the urine and sonography starting at age 30 to 35 years at 1- to 2-year intervals. However, the sensitivity and specificity of these tests are yet unknown.20 The protocol of screening of the endometrium and ovaries includes annual transvaginal sonography and estimation of CA-125 starting at age 30 to 35 years. Prophylactic oophorectomy might be considered
+
+for women older than 40 years with a complete family. Because also the value of surveillance of the endometrium and ovaries is unknown, periodic examination should ideally be performed in the setting of a prospective study. In the follow-up of mutation carriers, it is important to realize that the family members may develop cancer at sites that are not included in the surveillance program. Therefore, clinicians managing HNPCC patients should always be alert when the patient exhibits unusual symptoms.
+In conclusion, our study indicates that there are substantial differences in cancer risk between MLH1 and MSH2 mutation carriers. On the basis of these results, a more extended screening program might be considered for MSH2 mutation carriers. Because there is some evidence that other factors, such as environmental/life style factors, and modifier genes play a role in the carcinogenesis, not only the type of the mutated MMR gene but also the phenotype of the disease in the family should be taken into account in the decision as to which surveillance protocol should be recommended.
+
+REFERENCES
+
+1. Lynch HT, Smyrk T: An update on Lynch syndrome. Curr Opin Oncol 10:349-356, 1998
+2. Peltomaki P, Vasen HF: Mutations predisposing to hereditary nonpolyposis colorectal cancer: Database and results of a collaborative study--The International Collaborative Group on Hereditary Nonpolyposis Colorectal Cancer. Gastroenterology 113:1146-1158, 1997
+3. Vasen HF, Wijnen JT, Menko FH, et al: Cancer risk in families with hereditary nonpolyposis colorectal cancer diagnosed by mutation analysis. Gastroenterology 110:1020-1027, 1996
+4. Aarnio M, Mecklin JP, Aaltonen LA, et al: Life-time risk of different cancers in hereditary non-polyposis colorectal cancer (HNPCC) syndrome. Int J Cancer 64:430-433, 1995
+5. Dunlop MG, Farrington SM, Carothers AD, et al: Cancer risk associated with germline DNA mismatch repair gene mutations. Hum Mol Genet 6:105-110, 1997
+6. Jager AC, Bisgaard ML, Myrhoj T, et al: Reduced frequency of extracolonic cancers in hereditary nonpolyposis colorectal cancer families with monoallelic hMLH1 expression. Am J Hum Genet 61:129-138, 1997
+7. Wijnen J, de Leeuw W, Vasen H, et al: Familial endometrial cancer in female carriers of MSH6 germline mutations. Nat Genet 23:142-144, 1999
+8. Vasen HF, den Hartog J, Menko FH, et al: Screening for hereditary non-polyposis colorectal cancer: A study of 22 kindreds in the Netherlands. Am J Med 86:278-281, 1989
+9. Vasen HF, Watson P, Mecklin JP, et al: New clinical criteria for hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome) proposed by the International Collaborative group on HNPCC. Gastroenterology 116:1453-1456, 1999
+10. Wijnen JT, Vasen HF, Khan PM, et al: Clinical findings with implications for genetic testing in families with clustering of colorectal cancer. N Engl J Med 339:511-518, 1998
+
+11. Watson P, Lynch HT: Extracolonic cancer in hereditary nonpolyposis colorectal cancer. Cancer 71:677-685, 1993
+12. Aarnio M, Sankila R, Pukkala E, et al: Cancer risk in mutation carriers of DNA-mismatch-repair genes. Int J Cancer 81:214-218, 1999
+13. Park JG, Park YJ, Wijnen JT, et al: Gene-environment interaction in hereditary nonpolyposis colorectal cancer with implications for diagnosis and genetic testing. Int J Cancer 82:516-519, 1999
+14. Modrich P, Lahue R: Mismatch repair in replication fidelity, genetic recombination, and cancer biology. Ann Rev Biochem 65:101133, 1996
+15. de Wind N, Dekker M, Berns A, et al: Inactivation of the mouse Msh2 gene results in mismatch repair deficiency, methylation tolerance, hyperrecombination, and predisposition to cancer. Cell 82:321330, 1995
+16. Akiyama Y, Sato H, Yamada T, et al: Germ-line mutation of the hMSH6/GTBP gene in an atypical hereditary nonpolyposis colorectal cancer kindred. Cancer Res 57:3920-3923, 1997
+17. Miyaki M, Konishi M, Tanaka K, et al: Germline mutation of MSH6 as the cause of hereditary nonpolyposis colorectal cancer. Nat Genet 17:271-272, 1997
+18. Wu Y, Berends MJ, Mensink RG, et al: Association of hereditary nonpolyposis colorectal cancer-related tumors displaying low microsatellite instability with MSH6 germline mutations. Am J Hum Genet 65:1291-1298, 1999
+19. Froggatt NJ, Green J, Brassett C, et al: A common MSH2 mutation in English and North American HNPCC families: Origin, phenotypic expression, and sex-specific differences in colorectal cancer. J Med Genet 36:97-102, 1999
+20. Sijmons RH, Kiemeney LA, Witjes JA, et al: Urinary tract cancer and hereditary nonpolyposis colorectal cancer: Risks and screening options. J Urol 160:466-470, 1998
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on June 30, 2016 from 128.103.149.52 Copyright © 2001 American Society of Clinical Oncology. All rights reserved.
+
+

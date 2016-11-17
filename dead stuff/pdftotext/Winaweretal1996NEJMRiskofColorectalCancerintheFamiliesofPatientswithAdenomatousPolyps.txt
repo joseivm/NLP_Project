@@ -1,0 +1,458 @@
+82
+
+THE NEW ENGLAND JOURNAL OF MEDICINE
+
+Jan. 11, 1996
+
+RISK OF COLORECTAL CANCER IN THE FAMILIES OF PATIENTS WITH ADENOMATOUS POLYPS
+
+SIDNEY J. WINAWER, M.D., ANN G. ZAUBER, PH.D., HANS GERDES, M.D., MICHAEL J. O'BRIEN, M.D., LEONARD S. GOTTLIEB, M.D., STEPHEN S. STERNBERG, M.D., JOHN H. BOND, M.D., JEROME D. WAYE, M.D.,
+MELVIN SCHAPIRO, M.D., JOEL F. PANISH, M.D., ROBERT C. KURTZ, M.D., MOSHE SHIKE, M.D., FREDERICK W. ACKROYD, M.D., EDWARD T. STEWART, M.D., MARK SKOLNICK, PH.D., D. TIMOTHY BISHOP, PH.D., AND THE NATIONAL POLYP STUDY WORKGROUP
+
+Abstract Background. The adenoma­adenocarcinoma sequence in colorectal cancer suggests an increased risk of colorectal cancer in the families of patients with adenomatous polyps.
+Methods. A random sample of participants in the National Polyp Study who had newly diagnosed adenomatous polyps were interviewed for information on the history of colorectal cancer in their parents and siblings. The risk of colorectal cancer in family members was analyzed according to the characteristics of the patients with adenomas and in comparison with a sample of patients' spouses, who served as controls.
+Results. Among the patients with adenomas, 1199 provided information on whether they had a family history of colorectal cancer. After the exclusion of families for which information was incomplete and of 48 patients who had been referred for colonoscopy solely because they had a family history of colorectal cancer, there were 1031 patients with adenomas, 1865 parents, 2381 siblings, and 1411 spouse controls. The relative risk of colorectal cancer, adjusted for the year of birth and sex, was 1.78 for the parents and siblings of the patients with adeno-
+
+mas as compared with the spouse controls (95 percent confidence interval, 1.18 to 2.67). The relative risk for siblings of patients in whom adenomas were diagnosed before 60 years of age was 2.59 (95 percent confidence interval, 1.46 to 4.58), as compared with the siblings of patients who were 60 or older at the time of diagnosis and after adjustment for the sibling's year of birth and sex and a parental history of colorectal cancer. The risk increased with decreasing age at the time of the diagnosis of adenoma (P for trend 0.001). The relative risk for the siblings of patients who had a parent with colorectal cancer, as compared with those who had no parent with cancer, was 3.25 (95 percent confidence interval, 1.92 to 5.52), after adjustment for the sibling's year of birth and sex and the patient's age at diagnosis.
+Conclusions. Siblings and parents of patients with adenomatous polyps are at increased risk for colorectal cancer, particularly when the adenoma is diagnosed before the age of 60 or -- in the case of siblings -- when a parent has had colorectal cancer. (N Engl J Med 1996; 334:82-7.)
+1996, Massachusetts Medical Society.
+
+T HE risk of colorectal cancer in the families of patients with colorectal cancer has been characterized,1-12 but it has been less clearly defined for the families of patients with adenomatous polyps.7-11 Several studies have provided data supporting the adenoma­adenocarcinoma sequence in colorectal cancer,13,14 which would suggest that an increased risk of colorectal cancer is also present in the families of patients who have colorectal adenomas. This concept is supported by a study conducted in Utah, which showed an excess of both cancers and adenomas in the close relatives of people with colorectal cancer.15,16 Characterization of this risk is important in view of the high frequency of adenomatous polyps found by screening in asymptomatic patients and in diagnostic workups of patients with symptoms. Close relatives of patients with adenomatous polyps could also be screened with colonoscopy, any polyps could be removed, and the risk of colorectal cancer could thus be reduced.
+From the National Polyp Study Headquarters, Memorial Sloan-Kettering Cancer Center, New York (S.J.W., A.G.Z., H.G., S.S.S., R.C.K., M. Shike); the Mallory Institute of Pathology, Boston City Hospital, Boston (M.J.O., L.S.G.); the Veterans Affairs Medical Center, Minneapolis (J.H.B.); Mount Sinai Hospital, New York (J.D.W.); Valley Presbyterian Hospital, Van Nuys, Calif. (M. Schapiro); Cedars­Sinai Medical Center, Los Angeles (J.F.P.); Massachusetts General Hospital, Boston (F.W.A.); Milwaukee County Medical Complex, Milwaukee (E.T.S.); the University of Utah, Salt Lake City (M. Skolnick); and the Imperial Cancer Research Fund, Leeds, United Kingdom (D.T.B.). Address reprint requests to Dr. Winawer at the Gastroenterology and Nutrition Service, Department of Medicine, Memorial Sloan-Kettering Cancer Center, 1275 York Ave., New York, NY 10021.
+Supported by a grant (CA 46940) from the National Institutes of Health and sponsored by the American Gastroenterological Association, the American Society for Gastrointestinal Endoscopy, and the American College of Gastroenterology.
+
+We undertook this study to determine the magnitude of the risk of colorectal cancer among family members of patients who have had colorectal adenomatous polyps removed, and to identify the characteristics of the patients and polyps that are associated with this risk. These data could provide the basis for planning familyspecific screening strategies that could extend the benefits of colonoscopic polypectomy.
+The National Polyp Study, a randomized clinical trial designed to determine the appropriate intervals for follow-up surveillance of patients with newly diagnosed adenomatous polyps,17-19 provided a framework within which to examine the risk of colorectal cancer in the families of patients with adenomas. In this study, we enrolled a large cohort of patients with newly diagnosed adenomas at seven clinical centers, with all histologic specimens reviewed by three pathologists who were unaware of the clinical diagnosis. We then determined the incidence of colorectal cancer in the family members of the patients with adenomatous polyps.
+METHODS
+Identification of Patients with Adenomatous Polyps
+All patients referred to the seven participating clinical centers of the National Polyp Study (see the Appendix) for initial colonoscopy or polypectomy between November 1980 and February 1990 who did not have a family or personal history of familial polyposis or inflammatory bowel disease or a personal history of polypectomy or colorectal cancer were prospectively evaluated for enrollment in the National Polyp Study.17-19 Patients could be enrolled if they underwent complete colonoscopy performed by a study investigator, with removal of one or more adenomas. All polyps detected were removed and classified
+
+The New England Journal of Medicine Downloaded from nejm.org at DFCI on July 8, 2016. For personal use only. No other uses without permission.
+Copyright © 1996 Massachusetts Medical Society. All rights reserved.
+
+Vol. 334 No. 2 RISK OF COLORECTAL CANCER IN FAMILIES OF PATIENTS WITH ADENOMATOUS POLYPS 83
+
+Table 1. Characteristics of the 1031 Patients with Newly Diagnosed Adenomas.
+
+CHARACTERISTIC
+Sex Male Female
+Age (yr) 50 50 ­ 59 60
+Largest adenoma (cm)* 0.5 0.6 ­ 1.0 1.0
+Most advanced histologic type Tubular Villous
+No. of adenomas 1 2
+Participation in follow-up surveillance study
+Participant Nonparticipant Family history of colorectal cancer 2 first-degree relatives 1 first-degree relative 0 first-degree relative
+
+NO. (%)
+698 (67.7) 333 (32.3)
+111 (10.8) 292 (28.3) 628 (60.9)
+266 (25.8) 396 (38.4) 367 (35.6)
+650 (63.0) 381 (37.0)
+608 (59.0) 423 (41.0)
+634 (61.5) 397 (38.5)
+19 (1.8) 153 (14.8) 859 (83.3)
+
+*For two patients, the size was unknown. According to the criteria of O'Brien et al.14
+
+histologically according to the criteria of the National Polyp Study by the pathology review group.14
+A total of 9112 patients were referred for initial colonoscopy at the participating centers. Of these patients, 5539 had no polyps or had nonadenomatous polyps, 549 had colorectal cancer, 392 had other findings, and 2632 had adenomatous polyps, which were confirmed as adenomas in 2546 patients by the pathology review group.18,19 The patients with newly diagnosed, histologically confirmed adenomatous polyps and their close relatives became the study population. The patients with adenomas included 1374 who consented and 1172 who did not consent to participate in the randomized clinical trial of followup surveillance.
+Our goal was to obtain histories of any possible colorectal cancer in first-degree relatives from 1200 of the 2546 patients with newly diagnosed adenomas. It was estimated that up to 10 percent of those interviewed would not provide information on the age of family members and would therefore have to be excluded. Successive random samples of patients with adenomas were drawn from the registry of the National Polyp Study (excluding those for whom no current address or telephone number was available). Contact with each patient was attempted, and interviews were conducted until 1199 patients with adenomas and their family members had been interviewed.
+Genetic Epidemiology Interview
+A letter explaining the genetic epidemiology study was sent to each patient who had an adenomatous polyp. One week later a trained interviewer conducted a structured telephone interview in which the name, date of birth, sex, cancer history, and vital status of all the patient's first-degree relatives (parents, siblings, and children) were obtained. The type of cancer, age at diagnosis, and cause of death in all affected family members were ascertained. The patient was asked for permission to interview family members regarding their history of cancer and their age at the diagnosis of colorectal cancer.
+The spouses were interviewed in the same manner as the firstdegree relatives. The spouses were those of a sample of patients from the larger National Polyp Study data base of patients referred for initial colonoscopy, which includes patients with adenomatous polyps, nonadenomatous polyps, no polyps, and colorectal cancer. The interviews were conducted from 1989 to 1991, after approval by the institutional review board at each participating center. Death certificates were requested for all deaths due to cancer. Information on colorectal
+
+cancer in family members was obtained from the family members or from the patient with adenomas.
+Statistical Analysis
+The cumulative incidence of colorectal cancer according to age in the first-degree relatives of patients with adenomas was determined by the Kaplan­Meier life-table method, with the curves plotted at five-year intervals. The Cox proportional-hazards model was used to calculate the relative risk of colorectal cancer in first-degree relatives as compared with that in spouse controls, according to characteristics of the patients and with adjustment for the relative's or spouse's year of birth and sex.20 The first-degree relatives were classified according to the age of the index patient at the time of diagnosis of adenomas (50, 50 to 59, or 60 years). The age of the patient at the diagnosis of adenomas was also analyzed as a continuous variable to assess the trend in the risk of colorectal cancer in the first-degree relatives with increasing age at diagnosis of the adenomas. The risk of colorectal cancer in the siblings of patients with adenomas was also analyzed according to whether a parent or another sibling had had colorectal cancer. Since the age-adjusted incidence of colon cancer in the United States has increased over time, the relative-risk estimates were adjusted for the calendar year of birth and the sex of the family members.21 The year of birth was used as a continuous variable in comparing the incidence of colorectal cancer among the parents and siblings of the patients with that among the spouses.
+The year of birth of the first-degree relatives was strongly correlated with the age of the patient at the diagnosis of adenoma. In order to account for periods of lower and higher risk and still assess the risk of colorectal cancer in relation to age at diagnosis of adenoma, the parents' year of birth was dichotomized as before 1890 or 1890 or after and that for siblings as before 1925 or 1925 or after. The covariates sex and calendar year of birth were included in the analysis in the form of categories representing the sex of the first-degree relative and the earlier or later period of birth.
+The incidence of colorectal cancer in the spouses was compared with that expected in the general population.22 Person-years of risk from birth to the date when the spouse was last known to be alive were calculated for each spouse and multiplied by the age, sex, and time-specific rates of colorectal cancer in the general population to obtain the expected number of colorectal cancers in the spouses. Rates from the Connecticut Tumor Registry were used for the years up to 1969.23 Rates from the Surveillance, Epidemiology, and End Results (SEER) program were used for the general U.S. population for 1970 through 1991.24,25 The number of cases was assumed to follow a Poisson distribution. A standardized incidence ratio of observed to expected cases was derived, with 95 percent confidence intervals, for the spouse controls.
+All P values were two-tailed. Relative risks were obtained from the SAS PHREG program.26
+RESULTS
+Among the patients with newly diagnosed adenomas, 1199 provided information on whether they had a family history of colorectal cancer. The participation rate for patients whose current address was known was estimated at 70 percent. Information on the current ages of the
+
+Table 2. Relative Risk of Colorectal Cancer in the Parents and Siblings of 1031 Patients with Adenomatous Polyps, as Com-
+pared with Spouse Controls.
+
+GROUP
+Relatives Spouses
+
+NO. OF SUBJECTS
+4246 1411
+
+NO. OF COLORECTAL
+CANCERS
+201
+29
+
+RELATIVE RISK (95% CI)*
+
+P VALUE
+
+1.78 (1.18­2.67) 0.006 1.00 --
+
+*Adjusted for the family member's year of birth and sex. CI denotes confidence interval. 1865 parents and 2381 siblings. The spouses were those of a sample of patients from the larger National Polyp Study.
+
+The New England Journal of Medicine Downloaded from nejm.org at DFCI on July 8, 2016. For personal use only. No other uses without permission.
+Copyright © 1996 Massachusetts Medical Society. All rights reserved.
+
+84
+
+THE NEW ENGLAND JOURNAL OF MEDICINE
+
+Jan. 11, 1996
+
+patients' living first-degree relatives,
+
+Table 4. Relative Risk of Colorectal Cancer in Parents of Patients with Adenoma.
+
+the ages at death of deceased relatives, and the relatives' history of cancer, including site and age at di-
+
+RISK FACTOR
+
+NO. OF PARENTS
+
+NO. WITH COLORECTAL
+CANCER
+
+RELATIVE RISK (95% CI)*
+
+P VALUE
+
+agnosis, was obtained for 1079 pa-
+
+Age of patient at diagnosis of adenoma (yr)
+
+tients. Forty-eight of these patients (4.4 percent) had been referred for initial colonoscopy solely because they had a family history of colorectal cancer. These 48 patients and
+
+50 50 ­ 59 60 Colorectal cancer in patient's siblings 1 Sibling with colorectal cancer No sibling with colorectal cancer Sex of patient with adenoma
+
+204 533 1128
+113 1752
+
+22 1.88 (1.09­3.24) 44 1.19 (0.78­1.82) 67 1.00
+18 2.62 (1.58­4.33) 115 1.00
+
+0.02 0.43 --
+0.001 --
+
+their relatives were excluded, eliminating 50 cases of colorectal cancer
+
+Male Female
+
+1278 587
+
+93 1.00 (0.69­1.45) 40 1.00
+
+0.99 --
+
+in 168 first-degree relatives from the
+
+*Adjusted for the parent's sex and year of birth but not for other risk factors. CI denotes confidence interval.
+
+analysis. The characteristics of the
+
+P for trend 0.13.
+
+remaining 1031 patients with adeno-
+
+mas are shown in Table 1; they are similar to those re- ilar for the first-degree relatives of the 634 patients who
+
+ported for all the patients with adenomas identified in participated and the 397 who did not participate in the
+
+the National Polyp Study.18,19 Forty-eight percent of the randomized trial of surveillance (relative risk, 1.31; 95
+
+patients gave the study investigators permission to inter- percent confidence interval, 0.97 to 1.76). When the
+
+view their first-degree relatives and spouses. The 1031 first-degree relatives of the 48 patients referred for co-
+
+patients had 946 mothers, 919 fathers, 1169 sisters, and lonoscopy solely because they had a family history of
+
+1212 brothers who participated in the study. Because of colorectal cancer were included in the analysis, the rel-
+
+the low frequency of colorectal cancer among the chil- ative risk of colorectal cancer in the first-degree rela-
+
+dren of the patients with adenomas (three cases), our tives, as compared with the spouses, was 2.18 (95 per-
+
+analyses were restricted to the parents and siblings. Co- cent confidence interval, 1.46 to 3.24).
+
+lorectal cancer was reported in 68 of 2381 siblings, 133
+
+The risk of colorectal cancer was significantly higher
+
+of 1865 parents, and 29 of 1411 spouse controls. Of the for the siblings and parents of patients in whom adeno-
+
+230 first-degree relatives or spouses reported to have mas were diagnosed before the age of 50 years and for
+
+had colorectal cancer, 171 (74.3 percent) had died. The the siblings of patients given the diagnosis at 50 to 59
+
+average age was 73.2 years for the parents, 62.3 years years of age than for the siblings and parents of patients
+
+for the siblings, and 63.7 years for the spouses. The av- in whom adenomas were diagnosed at 60 years or older
+
+erage year of birth was 1895 for the parents, 1923 for (Tables 3 and 4 and Fig. 1A and 1B). The risk of colo-
+
+the siblings, and 1925 for the spouses.
+
+rectal cancer increased in the siblings with decreasing
+
+The first-degree relatives of patients with adenomas age of the index patient at the diagnosis of adenoma
+
+had an increased risk of colorectal cancer as compared (P for trend 0.001). The risk of colorectal cancer in
+
+with the spouse controls (relative risk, 1.78; 95 percent the siblings or parents did not differ according to the
+
+confidence interval, 1.18 to 2.67) (Table 2). The number sex of the patient.
+
+of colorectal cancers in the spouses was similar to that
+
+The risk of colorectal cancer was higher for the sib-
+
+expected in the general population (standardized inci- lings of patients with adenomas who had a parent with
+
+dence ratio, 0.83; 95 percent confidence interval, 0.56 colorectal cancer than for the siblings whose parents
+
+to 1.19). The relative risk of colorectal cancer was sim- had not had colorectal cancer (Table 3). When the age
+
+of the patient at the diagnosis of ad-
+
+Table 3. Relative Risk of Colorectal Cancer in Siblings of Patients with Adenomas.
+
+enomas and the parental history of colorectal cancer were considered to-
+
+RISK FACTOR
+Age of patient at diagnosis of adenoma (yr) 50 50 ­ 59 60
+Parental history of colorectal cancer Father or mother with colorectal cancer Neither parent with colorectal cancer
+Colorectal cancer in parents or siblings of patient with adenoma
+2 with colorectal cancer
+
+NO. OF SIBLINGS
+
+NO. WITH COLORECTAL
+CANCER
+
+RELATIVE RISK (95% CI)*
+
+P VALUE
+
+222 594 1565
+302 2079
+
+6 4.08 (1.56­10.68) 21 2.49 (1.37­4.52) 41 1.00
+
+0.004 0.003
+--
+
+20 3.33 (1.96­5.65) 48 1.00
+
+0.001 --
+
+72 10 7.02 (3.67­13.44) 0.001
+
+gether, siblings of a patient given a diagnosis at a younger age who had a parent with colorectal cancer had the highest risk, and siblings of a patient given the diagnosis at an older age who did not have a parent with colorectal cancer had the lowest risk (Fig. 1C). A younger age of the patient at the diagnosis of adenoma and having a parent with colorectal
+
+1 with colorectal cancer 0 with colorectal cancer Sex of patient with adenoma Male
+
+366 1943
+1599
+
+18 2.19 (1.22­3.91) 40 1.00
+46 1.07 (0.64­1.78)
+
+0.008 --
+0.79
+
+cancer were independent risk factors for colorectal cancer in siblings, even when the analysis was adjusted for
+
+Female
+
+782 22 1.00
+
+-- the effect of sex and year of birth
+
+*Adjusted for the sibling's sex and year of birth but not for other risk factors. CI denotes confidence interval. P for trend 0.001 for patient's age at diagnosis and number of first-degree relatives with colorectal cancer.
+
+(Table 5). The risk among parents also was higher if one or more of
+
+The New England Journal of Medicine Downloaded from nejm.org at DFCI on July 8, 2016. For personal use only. No other uses without permission.
+Copyright © 1996 Massachusetts Medical Society. All rights reserved.
+
+Vol. 334 No. 2 RISK OF COLORECTAL CANCER IN FAMILIES OF PATIENTS WITH ADENOMATOUS POLYPS 85
+
+Siblings of Patients with Adenomas A 15
+
+Siblings of Patients with Adenomas, with or without a Parent with Colorectal Cancer C
+15
+
+Cumulative Incidence (%)
+
+Cumulative Incidence (%)
+
+10 10
+
+55
+
+0 40 45 50 55 60 65 70 75 80 85
+Age of Sibling (yr)
+
+0 40 45 50 55 60 65 70 75 80 85
+Age of Sibling (yr)
+
+Parents of Patients with Adenomas B 15
+
+Age of Patient at Diagnosis (yr) and Parental History of Colorectal Cancer 60, parent with colorectal cancer 60, parent with colorectal cancer 60, no parent with colorectal cancer 60, no parent with colorectal cancer
+Spouse
+
+Cumulative Incidence (%)
+
+10
+5
+0 40 45 50 55 60 65 70 75 80 85 Age of Parent (yr)
+Age of Patient at Diagnosis (yr) 50 5059 60 Spouse
+their children (the siblings of the patient with adenomas) had colorectal cancer (Table 4).
+DISCUSSION In this study, the siblings and parents of patients with adenomatous polyps had an increased risk of colorectal cancer, as compared with the risk among spouse controls, who had rates of colorectal cancer similar to those in the general population. Previous retro-
+
+Figure 1. Cumulative Incidence of Colorectal Cancer in the Family Members of Patients with Adenomas.
+Panel A shows the cumulative incidence of colorectal cancer in the siblings of patients with adenomas, according to the patients' ages at the time of diagnosis of the adenomas (50 years, 50 to 59 years, or 60 years). Panel B shows the cumulative incidence in the parents of patients with adenomas, according to the patients' ages at the time of diagnosis (50, 50 to 59, or 60). Panel C shows the cumulative incidence in the siblings of patients with adenomas, according to the patients' ages at the time of diagnosis (60 or 60) and whether a parent had had colorectal cancer. In all three panels, the incidence among the spouse controls is
+shown for purposes of comparison.
+
+ICM AUTHOR Winawer
+
+RETAKE
+
+REG F FIGURE 1 of 1
+
+CASE TITLE
+
+Revised
+
+spectiveEEsnMtouandiliesJoOfBth: e
+
+33402 incidence
+
+of
+
+4-C
+colorectal
+
+cancer
+
+among first-degree relatives of patients with colorectal
+
+cancer in comparison with appropriate control groups
+
+in the general population found colon cancer in first-
+
+degree relatives 1.8 to 8.0 times more often than would
+
+be expected on the basis of chance alone.5-7,27-29 This el-
+
+evated incidence was confirmed by the extensive Utah
+
+genealogy study15,16 and in a retrospective case­control
+
+study.3 A large, prospective study recently found that
+
+1st 2nd 3rd
+
+The New England Journal of Medicine Downloaded from nejm.org at DFCI on July 8, 2016. For personal use only. No other uses without permission.
+Copyright © 1996 Massachusetts Medical Society. All rights reserved.
+
+86
+
+THE NEW ENGLAND JOURNAL OF MEDICINE
+
+Jan. 11, 1996
+
+Table 5. Independent Risk Factors for Colorectal Cancer in Siblings of Patients with Adenoma.
+
+RISK FACTOR
+
+MULTIVARIATE RELATIVE RISK
+(95% CI)*
+
+P VALUE
+
+Age of patient at diagnosis of adenoma (yr)
+60 60 Parental history of colorectal
+cancer Parent with colorectal cancer Neither parent with colorectal
+cancer
+
+2.59 (1.46­4.58) 1.00
+3.25 (1.92­5.52) 1.00
+
+0.001 0.001
+
+*Adjusted for the sibling's sex and year of birth, the patient's age at diagnosis, and parental history of colorectal cancer. CI denotes confidence interval.
+
+the relative risk of colorectal cancer was 1.72 for men and women whose first-degree relatives had colorectal cancer.1 A similar increase in the risk of colorectal cancer was also observed among the family members of patients who had adenomatous polyps, rather than colorectal cancer.5-7,9-11,30 Characteristics of the patients and the pathological features of the polyps were not examined in relation to the familial risk of colorectal cancer in these other studies.
+In our study, the age of the patient at the time of diagnosis of the adenomatous polyp was correlated with the risk in first-degree relatives. The risk of colorectal cancer was increased in the siblings of patients given the diagnosis before the age of 60. The increased risk of colorectal cancer in the family members of patients whose adenomas were diagnosed before the age of 60 parallels the age­risk correlation in the families of patients with colorectal cancer.3,31,32 An increased familial risk of cancer with an earlier age at the diagnosis of cancer in the index patient has also been observed for breast cancer33 and prostate cancer.34
+The mechanism of the increased risk of colorectal cancer in the relatives of patients with adenoma is not clear.35,36 The fact that the cases of cancer are distributed among many families rather than found only in a few suggests that susceptibility could be the result of a common mutation.36 Our results are broadly in keeping with those of Cannon-Albright et al.,4 who suggested on the basis of pedigree analysis that there could be a common predisposition to adenomatous polyps, colorectal cancer, or both. No common mutations in the mismatch-repair genes have been found that predispose patients to colorectal and other cancers through hereditary nonpolyposis colorectal cancer,37,38 a fact that suggests that other genes may be involved. The mechanisms of susceptibility to adenomas and colorectal cancer still require elucidation.
+The familial risk was further increased if additional family members had colorectal cancer. If parents were affected, the risk increased whether the diagnosis of an adenomatous polyp in the index patient was made before the age of 60 or later. An increased risk of cancer in families with multiple affected members has also
+
+been observed for colorectal cancer,1,31 breast cancer,33 and prostate cancer.34
+In order to eliminate a possible referral bias, we excluded the families of patients with adenomas who had been referred for initial colonoscopy only because of a family history of colorectal cancer. A report of colorectal cancer in the family member, by him or her or by the patient with adenoma, was considered sufficient documentation to include a case in our study. The report of a family history of colorectal cancer by patients with adenomas was estimated to have a sensitivity of 0.87 and a specificity of 0.97, as compared with documentation of colorectal cancer in the medical records, in a case­control study in Australia.39
+Would members of the families of patients who have had adenomatous polyps removed benefit from screening with colonoscopy or barium enema? Such screening might lead to the identification of a subgroup of the people at risk, to the removal of adenomatous polyps, and to the prevention of additional cases of colorectal cancer.17 Instituting such an approach would require determining both the magnitude of the risk and the characteristics of the patients and polyps that could be used to identify the families at risk. Guidelines for screening for colorectal cancer should be considered that include the screening of first-degree relatives with colonoscopy or barium enema when adenomatous polyps are identified in patients younger than 60. Screening should also be recommended for the siblings of patients over the age of 60 in whom polyps are detected who have had a parent with colorectal cancer. The increase in the risk of colorectal cancer appears to begin between the ages of 50 and 60 in family members. The natural history of cancers that evolve from adenomas of the colon suggests that this process takes about 10 years. Screening could begin at 35 to 40 years of age, as indicated in current guidelines, for family members of patients with colorectal cancer.40,41 Such screening has also been suggested by Fuchs et al.1
+Previous studies of colonoscopy indicate that there can be long intervals between screening examinations because of the time needed for adenomas with advanced pathological features to appear after a negative colonoscopic examination.19 A minimal interval of five years between negative examinations would be reasonble.42 Although the cost-effectiveness of this approach needs evaluation, such a strategy could help reduce the incidence of colorectal cancer in families by identifying and removing premalignant adenomas.
+We are indebted to Newton Morton, Ph.D., Stephanie Sherman, Ph.D., and Lisa Cannon-Albright, Ph.D., for their contributions to the study.
+APPENDIX
+The seven centers participating in the National Polyp Study are the Memorial Sloan-Kettering Cancer Center (New York), Mt. Sinai Hospital (New York), Veterans Affairs Medical Center (Minneapolis), Milwaukee County Medical Complex (Milwaukee), Massachusetts General Hospital (Boston), Cedars­Sinai Medical Center (Los Angeles), and Valley Presbyterian Hospital (Van Nuys, Calif.). The following members of the National Polyp Study Workgroup also participated in
+
+The New England Journal of Medicine Downloaded from nejm.org at DFCI on July 8, 2016. For personal use only. No other uses without permission.
+Copyright © 1996 Massachusetts Medical Society. All rights reserved.
+
+Vol. 334 No. 2 RISK OF COLORECTAL CANCER IN FAMILIES OF PATIENTS WITH ADENOMATOUS POLYPS 87
+
+this study: New York -- C. J. Lightdale, M. Edelman, M. Fleisher, M.N. Ho, B. Diaz, J. Lapidus, R.A. Paden, M. Mandelman, H. Nazario, H. Colon, P. Kadvan, C. Miller, A. Szporn, N. Herpes, and M. Khilnani (deceased); Minneapolis -- H. Ansel, S. Ewing, and T. Dobson; Milwaukee -- W. Hogan, J. Helm, R. Komorowski, and E. McLaughlin; Racine, Wis. -- J. Greenen, R. Venu, G.K. Johnson, and N. DeBoer; Boston -- S. Hedberg (deceased), P. Shellito, D. Hall, G. Dickersin, and N. Horton; Los Angeles -- J. Sherman, J.A. Hamlin, S. Geller, and M. Kojimoto; Van Nuys, Calif. -- M. Auslander, D. Kasimian, L.Kussin, and C. Scoggins; Pathology Review Center (Boston) -- C. Magrath.
+REFERENCES
+1. Fuchs CS, Giovannucci EL, Colditz GA, Hunter DJ, Speizer FE, Willett WC. A prospective study of family history and the risk of colorectal cancer. N Engl J Med 1994;331:1669-74.
+2. Hall NR, Finan PJ, Ward B, Turner G, Bishop DT. Genetic susceptibility to colorectal cancer in patients under 45 years of age. Br J Surg 1994;81:1485-9.
+3. Slattery ML, Kerber RA. Family history of cancer and colon cancer risk: the Utah Population Database. J Natl Cancer Inst 1994;86:1618-26. [Erratum, J Natl Cancer Inst 1994;86:1802.]
+4. Cannon-Albright LA, Thomas A, Goldgar DE, et al. Familiality of cancer in Utah. Cancer Res 1994;54:2378-85.
+5. Duncan JL, Kyle J. Family incidence of carcinoma of the colon and rectum in north-east Scotland. Gut 1982;23:169-71.
+6. Maire P, Morichau-Beauchant M, Drucker J, Barboteau M-A, Barbier J, Matuchansky C. Prévalence familiale du cancer du côlon et du rectum: résultats d'une enquête "cas-témoins" de 3 ans. Gastroenterol Clin Biol 1984;8:22-7.
+7. Ponz de Leon M, Antonioli A, Ascari A, Zanghieri G, Sacchetti C. Incidence and familial occurrence of colorectal cancer and polyps in a healthcare district of northern Italy. Cancer 1987;60:2848-59.
+8. Rozen P, Fireman Z, Figer A, Legum C, Ron E, Lynch HT. Family history of colorectal cancer as a marker of potential malignancy within a screening program. Cancer 1987;60:248-54.
+9. Guillem JG, Neugut AI, Forde KA, Waye JD, Treat MR. Colonic neoplasms in asymptomatic first-degree relatives of colon cancer patients. Am J Gastroenterol 1988;83:271-3.
+10. Grossman S, Milos ML. Colonoscopic screening of persons with suspected risk factors for colon cancer. I. Family history. Gastroenterology 1988;94: 395-400.
+11. Bonelli L, Martines H, Conio M, Bruzzi P, Aste H. Family history of colorectal cancer as a risk factor for benign and malignant tumours of the large bowel: a case-control study. Int J Cancer 1988;41:513-7.
+12. Sondergaard JO, Bulow S, Lynge E. Cancer incidence among parents of patients with colorectal cancer. Int J Cancer 1991;47:202-6.
+13. Morson BC. Evolution of cancer of the colon and rectum. Cancer 1974;34: 845-9.
+14. O'Brien MJ, Winawer SJ, Zauber AG, et al. The National Polyp Study: patient and polyp characteristics associated with high-grade dysplasia in colorectal adenomas. Gastroenterology 1990;98:371-9.
+15. Burt RW, Bishop DT, Cannon LA, Dowdle MA, Lee RG, Skolnick MH. Dominant inheritance of adenomatous colonic polyps and colorectal cancer. N Engl J Med 1985;312:1540-4.
+16. Cannon-Albright LA, Skolnick MH, Bishop DT, Lee RG, Burt RW. Common inheritance of susceptibility to colonic adenomatous polyps and associated colorectal cancers. N Engl J Med 1988;319:533-7.
+17. Winawer SJ, Zauber AG, Ho MN, et al. Prevention of colorectal cancer by colonoscopic polypectomy. N Engl J Med 1993;329:1977-81.
+18. Winawer SJ, Zauber AG, O'Brien MJ, et al. The National Polyp Study: design, methods, and characteristics of patients with newly diagnosed polyps. Cancer 1992;70:Suppl:1236-45.
+
+19. Winawer SJ, Zauber AG, O'Brien MJ, et al. Randomized comparison of surveillance intervals after colonoscopic removal of newly diagnosed adenomatous polyps. N Engl J Med 1993;328:901-6.
+20. Kalbfleisch JD, Prentice RL. The statistical analysis of failure time data. New York: John Wiley, 1980.
+21. Devesa SS, Silverman DT, Young JL Jr, et al. Cancer incidence and mortality trends among whites in the United States, 1947-84. J Natl Cancer Inst 1987;79:701-70.
+22. Breslow NE, Day NE. Statistical methods in cancer research. Vol. 2. The design and analysis of cohort studies. Lyon, France: International Agency for Research on Cancer, 1987. (IARC scientific publications no. 82.)
+23. Monson RR. Analysis of relative survival and proportional mortality. Comput Biomed Res 1974;7:325-32.
+24. Horm JW, Asire AJ, Young JL, Pollack ES, eds. SEER program: cancer incidence and mortality in the United States 1973­1981. Bethesda, Md.: National Cancer Institute, 1985. (NIH publication no. 85-1837.)
+25. Ries LAG, Hankey BF, Edwards BK. SEER cancer statistics review, 1973­ 1987. Bethesda, Md.: National Cancer Institute, 1990. (NIH publication no. 90-2789.)
+26. SAS/STAT users guide, version 6, 4th ed. Vol. 2. Cary, N.C.: SAS Institute, 1989.
+27. Woolf CM. A genetic study of carcinoma of the large intestine. Am J Hum Genet 1958;10:42-7.
+28. Macklin MT. Inheritance of cancer of the stomach and large intestine in man. J Natl Cancer Inst 1960;24:551-71.
+29. Lovett E. Family studies in cancer of the colon and rectum. Br J Surg 1976; 63:13-8.
+30. Bishop DT, Thomas HJW. The genetics of colorectal cancer. Cancer Surv 1990;9:585-604.
+31. St John DJB, McDermott FT, Hopper JL, Debney EA, Johnson WR, Hughes ESR. Cancer risk in relatives of patients with common colorectal cancer. Ann Intern Med 1993;118:785-90.
+32. Stephenson BM, Finan PJ, Gascoyne J, Garbett F, Murday VA, Bishop DT. Frequency of familial colorectal cancer. Br J Surg 1991;78:1162-6.
+33. Claus EB, Risch NJ, Thompson WD. Age at onset as an indicator of familial risk of breast cancer. Am J Epidemiol 1990;131:961-72.
+34. Carter BS, Bova S, Beaty TH, et al. Hereditary prostate cancer: epidemiologic and clinical features. J Urol 1993;150:797-802.
+35. Gerdes H, Gillin JS, Zimbalist E, Urmacher C, Lipkin M, Winawer SJ. Expansion of the epithelial cell proliferative compartment and frequency of adenomatous polyps in the colon correlate with the strength of family history of colorectal cancer. Cancer Res 1993;53:279-82.
+36. Easton D, Peto J. The contribution of inherited predisposition to cancer incidence. Cancer Surv 1990;9:395-416.
+37. Fishel R, Lescoe MK, Rao MRS, et al. The human mutator gene homolog MSH2 and its association with hereditary nonpolyposis colon cancer. Cell 1993;75:1027-38.
+38. Leach FS, Nicolaides NC, Papadopoulos N, et al. Mutations of a mutS homolog in hereditary nonpolyposis colorectal cancer. Cell 1993;75:121525.
+39. Aitken J, Bain C, Ward M, Siskind V, MacLennan R. How accurate is selfreported family history of colorectal cancer? Am J Epidemiol 1995;141:86371.
+40. Winawer SJ, St John DJB, Bond JH, et al. Prevention of colorectal cancer: guidelines based on new data. Bull World Health Organ 1995;73:7-10.
+41. Levin B, Murphy GP. Revision in American Cancer Society recommendations for the early detection of colorectal cancer. CA Cancer J Clin 1992; 42:296-9.
+42. Bond JH, Practice Parameters Committee of the American College of Gastroenterology. Polyp guidelines: diagnosis, treatment, and surveillance for patients with nonfamilial colorectal polyps. Ann Intern Med 1993;119:83643. [Erratum, Ann Intern Med 1994;120:347.]
+
+IMAGES IN CLINICAL MEDICINE
+Images in Clinical Medicine, a weekly Journal feature, presents clinically important visual images, emphasizing those a doctor might encounter in an average day at the office, the emergency department, or the hospital. If you have an original unpublished, high-quality color or black-and-white photograph representing such a typical image that you would like considered for publication, send it with a descriptive legend to Kim Eagle, M.D., University of Michigan Medical Center, Division of Cardiology, 3910 Taubman Center, Box 0366, 1500 East Medical Center Drive, Ann Arbor, MI 48109. For details about the size and labeling of the photographs, the requirements for the legend, and authorship, please contact Dr. Eagle at 313-936-5275 (phone) or 313-936-5256 (fax), or the New England Journal of Medicine at
+images@edit.nejm.org (e-mail).
+
+The New England Journal of Medicine Downloaded from nejm.org at DFCI on July 8, 2016. For personal use only. No other uses without permission.
+Copyright © 1996 Massachusetts Medical Society. All rights reserved.
+
+

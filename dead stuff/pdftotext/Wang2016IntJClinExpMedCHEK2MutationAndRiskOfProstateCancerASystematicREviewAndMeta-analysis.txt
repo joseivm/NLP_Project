@@ -1,0 +1,278 @@
+Int J Clin Exp Med 2015;8(9):15708-15715 www.ijcem.com /ISSN:1940-5901/IJCEM0012132
+Original Article CHEK2 mutation and risk of prostate cancer: a systematic review and meta-analysis
+
+Yue Wang1,2, Bo Dai1,2, Dingwei Ye1,2
+1Department of Urology, Fudan University Shanghai Cancer Center, Shanghai 20032, China; 2Department of Oncology, Shanghai Medical College, Fudan University, Shanghai 20032, China Received June 30, 2015; Accepted August 27, 2015; Epub September 15, 2015; Published September 30, 2015 Abstract: Background: CHEK2 encodes for a G2 checkpoint kinase which plays a critical role in DNA repair. Its mutation confers an increased risk of breast cancer. It has also been suggested to increase risks of prostate cancer, but its involvement with this type of cancer has not been confirmed. Methods: We performed a systematic review and meta-analysis to clarify the association between CHEK2 1100delC, IVS2+1G>A, I157T mutation and risk of Prostate Cancer. A comprehensive, computerized literature search of PubMed until December 27, 2014 was carried out. Eligible studies were included according to specific inclusion criteria. Pooled hazard ratio was estimated using the fixed effects model or random effects model according to heterogeneity between studies. Results: Eight eligible studies were included in the analysis, all were retrospective studies. The overall meta-analysis demonstrated that the CHEK2 1100delC mutation (OR 3.29; 95% confidence interval: 1.85-5.85; P = 0.00) and I157T missense mutation (OR 1.80; 95% confidence interval: 1.51-2.14; P = 0.00) was associated with higher risk of Prostate Cancer, and CHEK2 1100delC mutation is irrelevant to familial aggregation phenomenon of prostate cancer (OR 1.59; 95% confidence interval: 0.79-3.20; P = 0.20). The IVS2+1G>A mutation is also irrelevant to Prostate Cancer (OR = 1.59, 95% CI = 0.93-2.71, P = 0.09). None of the single studies materially altered the original results and no evidence of publication bias was found. Conclusion: CHEK2 1100delC mutation and I157T missense mutation in males indicates higher risk of Prostate Cancer, but there's no evidence to prove the CHEK2 1100delC mutation was associated with Familial prostate cancer. Keywords: Prostate cancer, CHEK2 mutation, risk of prostate cancer
+
+Introduction Prostate cancer is the most commonly diagnosed cancer and a leading cause of cancer related death in American men, which also strongly affects men all over world [1]. With a more comprehensive understanding of the cancer and new protocols for treatment, the outcome of prostate cancer patients has improved in the past few decades. However, we are still not completely clear of the factors which affect the occurrence and prognosis of patients with prostate cancer. Identifying potential genes that could serve as prognostic factors for prostate cancer patients is crucial for individual screen and treatment. Several genes have been demonstrated to affect the occurrence of different kinds of cancer so far, including BRCA1 for breast cancer [2], TP53 for pancreatic cancer [3] and so on. CHEK2 mutation has
+
+been detected to increase risks of cancer, besides breast cancer [4], its involvement with prostate cancer has not been confirmed. With the aim to clarify the association of CHEK2 mutation with the risk of prostate cancer, we conducted the first comprehensive meta-analysis of published literature on this topic. Materials and methods Literature search A comprehensive, computerized literature search of PubMed and Embase was carried out until January 27, 2015. Potentially relevant studies were identified using "prostate cancer" (i.e., "prostate cancer," "prostate carcinoma," "prostate neoplasm") and "CHEK2" groups of search terms. The references from relevant papers, especially from review articles, were
+
+CHEK2 mutation and t risk of prostate cancer
+
+disagreements were resolved through open discussion. The following information about each study was recorded: first author names, journal and year of publication, patient nationality, total number of patients, median age of patients at diagnosis, the median stage, type of mutation and number of CHEK2 mutation patients.
+
+Statistical analysis
+
+First, we assessed the hetero-
+
+geneity between studies using
+
+the Q-test and I2 statistic to
+
+measure the proportion of
+
+total estimate variation that
+
+was attributable to study het-
+
+erogeneity, and either a P-va-
+
+lue <0.05 or I2>57% was con-
+
+Figure 1. The literature search process. Notes: 63 studies were identified sidered statistically significa-
+
+in the primary literature search. 27 potentially relevant studies were further evaluated and eight studies were finally included in the analysis according to the inclusion criteria.
+
+nt. The pooled OR was estimated using the fixed effects model unless heterogeneity
+
+was found and was unexplain-
+
+checked to identify studies overlooked in the
+
+able, in which case, the random effects model
+
+original search. This systematic review and
+
+was applied. We used the fixed effects model to
+
+meta-analysis was planned, conducted, and
+
+analyze the relationship between CHEK2
+
+reported in adherence to the standards of qual-
+
+1100delC mutation and the risk of Prostate
+
+ity for reporting meta-analyses. Studies meet-
+
+Cancer as the heterogeneity between studies
+
+ing all of the following inclusion criteria were
+
+was not statistically significant (I2 = 0.0%; P =
+
+deemed eligible and included in the analysis:
+
+0.76). And the fixed effects model was also
+
+(1) published in English, (2) case-control stud-
+
+applied to further analyze the relationship
+
+ies, (3) explored the mutation type of CHEK2
+
+between CHEK2 1100delC mutation and famil-
+
+and (4) explored the relation between CHEK2
+
+ial aggregation phenomenon of prostate can-
+
+mutation and whether patients in their studies suffer from prostate cancer. All studies that did
+
+cer as the heterogeneity between studies was not statistically significant (I2 = 0.0%; P = 0.49).
+
+not satisfy the inclusion criteria as well as any data obtained from reviews, animal experiments, or cell line studies were excluded. Study quality was assessed using the NewcastleOttawa Scale. A flowchart of the literature search, study selection, and results of each step is presented in Figure 1.
+
+This analysis aimed at finding whether family cases had a higher possibility of CHEK2 1100delC mutation than the unselect cases or cases without family history. We also performed a sensitivity analysis by removing each individual study from the meta-analysis. Several methods were used to assess potential publication bias. Potential bias of publication was
+
+Data extraction and outcomes
+
+examined by using the Begg funnel plot and
+
+Egger linear regression test (All reported P val-
+
+In order to ensure homogeneity of the data
+
+ues were two-sided, and P values <0.05 were
+
+gathering and to preclude subjectivity in the
+
+considered statistically significant). We also
+
+data collection and entry, two reviewers inde-
+
+used the similar methods (fixed effect model)
+
+pendently assessed studies for inclusion, and
+
+to analysis the relationship between I157T or
+
+15709
+
+Int J Clin Exp Med 2015;8(9):15708-15715
+
+CHEK2 mutation and t risk of prostate cancer
+
+Table 1. Studies included in this meta-analysis
+
+Study
+
+Country
+
+Number of Mean age of diagnosis
+
+patients
+
+age, years
+
+Seppala (2003)
+
+FIN
+
+657
+
+69
+
+Dong (2003)
+
+USA 876
+
+/
+
+Johnson (2005)
+
+UK
+
+36
+
+/
+
+Wagenius (2006) SWE
+
+399
+
+63
+
+Weischer (2007)
+
+DK
+
+116
+
+/
+
+Cybulski (2013)
+
+POL
+
+4162
+
+69
+
+Wu (2006)
+
+USA 84
+
+/
+
+Daphne (2007)
+
+USA
+
+79
+
+57
+
+Number of controls 480 423 155 305 4115 3956 95 2105
+
+Family cases 120 298
+/ 254
+/ 412
+/ /
+
+Mean age of diagnosis family cases age, years
+62 / / 65 / / / /
+
+IVS2+1G>A mutation and the risk of prostate cancer. All statistical analyses performed in this study were carried out using Stata software (v 12.0; StataCorp LP, College Station, TX, USA). Results The literature search process and the result of each step are presented in Figure 1. Studies were identified in the primary literature, of which 31 potentially relevant studies were further evaluated after review of their titles and abstracts. A total of eight studies meeting the inclusion criteria were finally included in this study. The main characteristics of the eligible studies, all of which were retrospective cohort studies, are shown in Table 1. The analyzed studies were published between 2003 and 2013. Six studies [5-10] reported the relationship between CHEK2 1100delC mutation and the risk of prostate cancer (or sufficient data by which these could be calculated, while four of them [5, 6, 8, 9] analyzed the CHEK2 1100delC mutation in family prostate cancer cases in particular. All of the six studies presented a less CHEK2 1100delC mutation than wild type rate. Moreover, Four studies [6, 9, 11, 12] contain the data of CHEK2 I157T missense mutation and only two studies [8, 9] analysis the IVS2+1G>A mutation. Data on the CHEK2 mutation associated with the prognosis of these patients were also recorded. However, we were unable to obtain sufficient data to render any further analysis. Figure 2A presents a forest plot of meta-analysis for the CHEK2 1100delC mutation and risk of prostate cancer, including OR, 95% CIs, and the weight of each study in the analysis. The control cases in this analysis were people with-
+
+out evidence of prostate cancer. As the heterogeneity between studies was not statistically significant (I2 = 0.0%; P = 0.76), the fixed effects model was applied. The combined OR was 3.29 (95% CI: 1.85-5.85; P = 0.00). To further test the robustness of our study, we performed publication bias analysis by Egger's or Begg's test (Figure 3A) and found no evidence of publication bias (P = 0.13). The result indicates that CHEK2 1100delC mutation correlates with a higher risk of prostate cancer. Figure 2B presents the forest plot of meta-analysis for the relationship between CHEK2 1100delC mutation and family prostate cancer cases, the control cases in this analysis were unselect or patients without family history, also including OR, 95% CIs, and the weight of each study in the analysis. As the heterogeneity between studies was also not statistically significant (I2 = 0.0%; P = 0.49), the fix effects model was applied. The combined OR was 1.34 (95% CI: 0.70-2.55; P = 0.38). We also performed a publication bias analysis by Egger's or Begg's test (Figure 3B), which showed no evidence of publication bias (P = 0.50). Thus, the CHEK2 1100delC mutation was associated with higher risk of Prostate Cancer, but it is irrelevant to Familial aggregation phenomenon of prostate cancer. To further test the robustness of our study, we also performed sensitivity analysis by omitting one study each time. We found that no single study altered the original results significantly. Figure 2C and 2D show the forest plot of metaanalysis for the CHEK2 I157T missense mutation and IVS2+1G>A mutation and their related risk of prostate cancer, both of the analysis' heterogeneity between studies which included in these two analysis was not statistically sig-
+
+15710
+
+Int J Clin Exp Med 2015;8(9):15708-15715
+
+CHEK2 mutation and t risk of prostate cancer
+
+Figure 2. A. Individual study and overall ORs of relationships between CHEK2 1100delC mutation and the risk of prostate cancer. B. Individual study and overall ORs of relationship between CHEK2 1100delC mutation and family prostate cancer cases. C. Individual study and overall ORs of relationships between CHEK2 I157T missense mutation and the risk of prostate cancer. D. Individual study and overall ORs of relationship between CHEK2 IVS2+1G>A mutation and family prostate cancer cases.
+
+nificant. Four studies examining the association between the CHEK2 I157T variant and prostate cancer were included. The Q-test of heterogeneity was not significant. Using the fixed effects model, we found an association of the CHEK2 I157T variant with prostate cancer (OR = 1.80, 95% CI = 1.51-2.14, P = 0.00). A forest plot (Figure 2C) showed that the distribution of the ORs from individual studies in relation to their respective standard deviation was symmetrical in the funnel plot. The Egger's test provided no evidence of publication bias in four reviewed studies (t = 0.35, P = 0.76), and Begg's funnel plot with 95% confidence limits was show in Figure 3C. Similarly, two studies examining the association between the IVS2+1G>A mutation and prostate cancer were included. The Q-test of heterogeneity was not significant. Using the fixed effects model, we found an association of the IVS2+1G>A mutation with prostate cancer (OR = 1.59, 95% CI = 0.93-2.71, P = 0.09). A forest plot (Figure 2D) showed that the distribution of the Ors from individual studies in relation to their respective standard deviation was symmetrical in the funnel plot. The Begg's funnel plot with 95% confidence limits was show in Figure 3D. Thus, the CHEK2 IVS2+1G>A mutation was associated not with the risk of Prostate Cancer. Discussion The checkpoint kinase 2 (CHEK2) gene which located on chromosome 22q is a tumor suppressor which participates in the DNA Damage signaling pathway [13]. CHEK2 is activated in response to
+
+15711
+
+Int J Clin Exp Med 2015;8(9):15708-15715
+
+CHEK2 mutation and t risk of prostate cancer
+
+Figure 3. A. Test of publication bias of the nanlysis of CHEK2 1100delC mutation and the risk of prostate cancer. B. Test of publication bias of the nanlysis of CHEK2 1100delC mutation and family prostate cancer cases. C. Test of publication bias of the nanlysis of CHEK2 I157T missense mutation and the risk of prostate cancer. D. Test of publication bias of the nanlysis of CHEK2 IVS2+1G>A mutation and family prostate cancer cases.
+
+various DNA-damage agents in an ATMdependent fashion. CHEK2 spans 50 kb and contains 14 exons. It is phosphorylated and activated following DNA damage, resulting in cell cycle arrest and apoptosis [14, 15]. CHEK2 mutation have been found to be associated with several types of cancer. Numerous aberrations of CHEK2 gene which contains 1100delC mutation have been observed in several human malignancies, include prostate cancer [16], breast cancer [17, 18], bladder cancer [19, 20], colorectal cancer [21-23] and so on. However, breast cancer is the only one which has been identified associated with CHEK2. Previous studies showed that there are three common variants of CHEK2 mutations present in nearly 5.5% of the population, among them, 1157 T, 444+1G>A and 1100delC were the most common type of mutation [24-26]. In particular, recent publications have addressed the relationship between the CHEK2 mutation in breast cancer. Previous studies showed a frequency of 0.7% in Northern and Western European populations which confer an two fold increased risk
+
+of breast cancer to female heterozygous carriers [27]. Moreover, even though the function and mechanism of CHEK2 gene in the human body has not yet been elucidated completely, we can still affirm the value of CHEK2 from previous studies. However, although there is an abundance of information on association of these genomic changes and clinical outcomes, in prostate or other style cancer, data on their distribution about morbidity are limited. Some studies found that in prostate cancer, CHEK2 1100delC mutation is associated with a higher probability of prostate cancer. However, other studies found that CHEK2 1100delC mutation cannot predict patients' risk of suffer from prostate cancer, even though most studies observe a moderately elevated of morbidity in unselect cases or family cases. Besides the CHEK2 1100delC mutation, few studies clearly expounds the association between CHEK2 I157T missense mutation or IVS2+1G>A mutation and their related risk of prostate cancer. Due to the results from previous studies are inconclusive, we performed a systematic review
+
+15712
+
+Int J Clin Exp Med 2015;8(9):15708-15715
+
+CHEK2 mutation and t risk of prostate cancer
+
+and meta analysis to clarify the relationship between CHEK2 1100delC mutation, CHEK2 I157T missense mutation or IVS2+1G>A mutation and the risk to suffer from prostate cancer and familial aggregation phenomenon of prostate cancer. In our analysis, we formulate a unified standard. Eight eligible studies with CHEK2 mutation were included in this study. Finally, we came to the conclusion that CHEK2 1100delC mutation and CHEK2 I157T missense mutation was associated with higher risk of prostate cancer. Due to the limited data, we can't affirm CHEK2 IVS2+1G>A mutation and the risk of prostate cancer. But we can still certain that CHEK2 is indeed related to the occurrence and development of prostate cancer cells, its mutation is a risk factors to enhance the the risk of prostate cancer in a patient's life. Moreover, we also analysis the relationship between CHEK2 1100delC mutation and familial aggregation phenomenon of prostate cancer, using four studies which published relevant data and found that there is no statistical significance between CHEK2 1100delC mutation and family cases (Figure 2B). Due to the limited data, we can't analysis the relationship between familial aggregation phenomenon of prostate cancer and CHEK2 I157T missense mutation or IVS2+1G>A mutation. In our meta-analysis, all of the eligible studies which included the four analysis didn't exist heterogeneity, which means higher credibility. But there are still many problems exist in this study. Even though all studies investigated the pathogenic mutations in the CHEK2 gene, but they didn't use exactly the same method. So there were tremendous variation exists in the experimental procedures, which may influence the results and in part the observed heterogeneity. For example, when restricted to via allelespecific oligonucleotides PCR, the heterogeneity between studies may reduce. The clinical significance of this study includes: First, this analysis solved the contradiction result which exist in previous researches, which confirmed that CHEK2 mutation play an important role during the incidence of prostate cancer. CHEK2 1100delC mutation or CHEK2 I157T missense mutation means higher risk of getting prostate cancer. Second, for patients with the CHEK2 mutation, they should receive more positive prostate cancer screening in order to achieve timely treatment to have a better prognosis.
+
+Third, CHEK2 mutation and its downstream signaling pathways may become a treatment target in the future. Our study is not devoid of limitations. First, the number of studies included in our analysis was small, and all of the included studies were retrospective, indicating low levels of evidence in evidence-based medicine. Second, our metaanalysis was based on data only from studies meeting our inclusion criteria, and there were many other published studies that did not meet these criteria. In addition, we could not obtain updated data on individual patients. The use of individual patient data could further enhance the accuracy and reduce the uncertainty of our estimates. Third, all the tissues in our analysis were from patients with high prostate cancer burden countries, which may influence the applicability in other races. Finally, publication bias may also be a concern. It was unavoidable that some data would remain unobtainable even after we tried to identify all relevant information. However, after examining the Begg funnel plots and performing the Egger linear regression test, we found that the association between CHEK2 mutation and clinical outcome remained unchanged. Conclusion Our meta-analysis supports the candidacy of CHEK2 1100delC mutation and CHEK2 I157T missense as tumor susceptibility genes in prostate cancer. And CHEK2 1100delC mutation is irrelevant to familial aggregation phenomenon of prostate cancer and the CHEK2 IVS2+1G>A mutation is also irrelevant to Prostate Cancer. However, 1100delC mutation or I157T missense of CHEK2 can be an important factor of suffering from prostate cancer in their life. What's more, patients with the CHEK2 1100delC mutation or CHEK2 I157T missense which responsible for higher cancer burden should receive more positive prostate cancer screening in order to achieve timely treatment. Acknowledgements This study was supported in part by the Grants for International Cooperation and Exchange of Science and Technology Commission of Shanghai Municipality (No. 12410709300), grants from Guide Project of Science and Technology Commission of Shanghai Munici-
+
+15713
+
+Int J Clin Exp Med 2015;8(9):15708-15715
+
+CHEK2 mutation and t risk of prostate cancer
+
+pality (No. 124119a7300), and Grants from Outstanding young talent training plan of Shanghai Municipal Commission of Health and Family Planning (No. XYQ2013102).
+Disclosure of conflict of interest
+None.
+Address correspondence to: Drs. Bo Dai and Dingwei Ye, Department of Urology, Fudan University Shanghai Cancer Center; Department of Oncology, Shanghai Medical College, Fudan University, Shanghai 20032, China. E-mail: bodai1978@126. com (BD); dwyeli@163.com (DWY)
+References
+[1] Nwosu V, Carpten J, Trent JM and Sheridan R. Heterogeneity of genetic alterations in prostate cancer: evidence of the complex nature of the disease. Hum Mol Genet 2001; 10: 23132318.
+[2] King MC, Marks JH, Mandell JB and New York Breast Cancer Study G. Breast and ovarian cancer risks due to inherited mutations in BRCA1 and BRCA2. Science 2003; 302: 643646.
+[3] Kim H, Saka B, Knight S, Borges M, Childs E, Klein A, Wolfgang C, Herman J, Adsay VN, Hruban RH and Goggins M. Having pancreatic cancer with tumoral loss of ATM and normal TP53 protein expression is associated with a poorer prognosis. Clin Cancer Res 2014; 20: 1865-1872.
+[4] Oldenburg RA, Kroeze-Jansema K, Kraan J, Morreau H, Klijn JG, Hoogerbrugge N, Ligtenberg MJ, van Asperen CJ, Vasen HF, Meijers C, Meijers-Heijboer H, de Bock TH, Cornelisse CJ and Devilee P. The CHEK2*1100delC variant acts as a breast cancer risk modifier in non-BRCA1/BRCA2 multiplecase families. Cancer Res 2003; 63: 81538157.
+[5] Johnson N, Fletcher O, Naceur-Lombardelli C, dos Santos Silva I, Ashworth A and Peto J. Interaction between CHEK2*1100delC and other low-penetrance breast-cancer susceptibility genes: a familial study. Lancet 2005; 366: 1554-1557.
+[6] Seppala EH, Ikonen T, Mononen N, Autio V, Rokman A, Matikainen MP, Tammela TL and Schleutker J. CHEK2 variants associate with hereditary prostate cancer. Br J Cancer 2003; 89: 1966-1970.
+[7] Wagenius M, Borg A, Johansson L, Giwercman A and Bratt O. CHEK2*1100delC is not an important high-risk gene in families with hereditary prostate cancer in southern Sweden. Scand J Urol Nephrol 2006; 40: 23-25.
+15714
+
+[8] Dong X, Wang L, Taniguchi K, Wang X, Cunningham JM, McDonnell SK, Qian C, Marks AF, Slager SL, Peterson BJ, Smith DI, Cheville JC, Blute ML, Jacobsen SJ, Schaid DJ, Tindall DJ, Thibodeau SN and Liu W. Mutations in CHEK2 associated with prostate cancer risk. Am J Hum Genet 2003; 72: 270-280.
+[9] Cybulski C, Wokolorczyk D, Kluzniak W, Jakubowska A, Gorski B, Gronwald J, Huzarski T, Kashyap A, Byrski T, Debniak T, Golab A, Gliniewicz B, Sikorski A, Switala J, Borkowski T, Borkowski A, Antczak A, Wojnar L, Przybyla J, Sosnowski M, Malkiewicz B, Zdrojowy R, Sikorska-Radek P, Matych J, Wilkosz J, Rozanski W, Kis J, Bar K, Bryniarski P, Paradysz A, Jersak K, Niemirowicz J, Slupski P, Jarzemski P, Skrzypczyk M, Dobruch J, Domagala P, Narod SA, Lubinski J and Polish Hereditary Prostate Cancer C. An inherited NBN mutation is associated with poor prognosis prostate cancer. Br J Cancer 2013; 108: 461-468.
+[10] Weischer M, Bojesen SE, Tybjaerg-Hansen A, Axelsson CK and Nordestgaard BG. Increased risk of breast cancer associated with CHEK2*1100delC. J Clin Oncol 2007; 25: 5763.
+[11] Bell DW, Kim SH, Godwin AK, Schiripo TA, Harris PL, Haserlat SM, Wahrer DC, Haiman CA, Daly MB, Niendorf KB, Smith MR, Sgroi DC, Garber JE, Olopade OI, Le Marchand L, Henderson BE, Altshuler D, Haber DA and Freedman ML. Genetic and functional analysis of CHEK2 (CHK2) variants in multiethnic cohorts. Int J Cancer 2007; 121: 2661-2667.
+[12] Wu X, Dong X, Liu W and Chen J. Characterization of CHEK2 mutations in prostate cancer. Hum Mutat 2006; 27: 742-747.
+[13] Bartek J, Falck J and Lukas J. CHK2 kinase--a busy messenger. Nat Rev Mol Cell Biol 2001; 2: 877-886.
+[14] Tominaga K, Morisaki H, Kaneko Y, Fujimoto A, Tanaka T, Ohtsubo M, Hirai M, Okayama H, Ikeda K and Nakanishi M. Role of human Cds1 (Chk2) kinase in DNA damage checkpoint and its regulation by p53. J Biol Chem 1999; 274: 31463-31467.
+[15] Matsuoka S, Huang M and Elledge SJ. Linkage of ATM to cell cycle regulation by the Chk2 protein kinase. Science 1998; 282: 1893-1897.
+[16] Cybulski C, Huzarski T, Gorski B, Masojc B, Mierzejewski M, Debniak T, Gliniewicz B, Matyjasik J, Zlowocka E, Kurzawski G, Sikorski A, Posmyk M, Szwiec M, Czajka R, Narod SA and Lubinski J. A novel founder CHEK2 mutation is associated with increased prostate cancer risk. Cancer Res 2004; 64: 2677-2679.
+[17] Pohlreich P, Kleibl Z, Kleiblova P, Janatova M, Soukupova J, Machackova E, Hazova J, Vasickova P, Stahlova Hrabincova E, Navratilova M, Svoboda M and Foretova L.
+Int J Clin Exp Med 2015;8(9):15708-15715
+
+CHEK2 mutation and t risk of prostate cancer
+
+[The clinical importance of a genetic analysis of moderate-risk cancer susceptibility genes in breast and other cancer patients from the Czech Republic]. Klin Onkol 2012; 25 Suppl: S59-66. [18] Angelova SG, Krasteva ME, Gospodinova ZI and Georgieva EI. CHEK2 gene alterations independently increase the risk of death from breast cancer in Bulgarian patients. Neoplasma 2012; 59: 622-630. [19] Slojewski M, Zlowocka E, Cybulski C, Gorski B, Debniak T, Wokolorczyk D, Matyjasik J, Sikorski A and Lubinski J. CHEK2 germline mutations correlate with recurrence rate in patients with superficial bladder cancer. Ann Acad Med Stetin 2008; 54: 115-121. [20] Zlowocka E, Cybulski C, Gorski B, Debniak T, Slojewski M, Wokolorczyk D, SerranoFernandez P, Matyjasik J, van de Wetering T, Sikorski A, Scott RJ and Lubinski J. Germline mutations in the CHEK2 kinase gene are associated with an increased risk of bladder cancer. Int J Cancer 2008; 122: 583-586. [21] Kilpivaara O, Laiho P, Aaltonen LA and Nevanlinna H. CHEK2 1100delC and colorectal cancer. J Med Genet 2003; 40: e110. [22] Meijers-Heijboer H, Wijnen J, Vasen H, Wasielewski M, Wagner A, Hollestelle A, Elstrodt F, van den Bos R, de Snoo A, Fat GT, Brekelmans C, Jagmohan S, Franken P, Verkuijlen P, van den Ouweland A, Chapman P, Tops C, Moslein G, Burn J, Lynch H, Klijn J, Fodde R and Schutte M. The CHEK2 1100delC mutation identifies families with a hereditary breast and colorectal cancer phenotype. Am J Hum Genet 2003; 72: 1308-1314. [23] van Puijenbroek M, van Asperen CJ, van Mil A, Devilee P, van Wezel T and Morreau H. Homozygosity for a CHEK2*1100delC mutation identified in familial colorectal cancer does not lead to a severe clinical phenotype. J Pathol 2005; 206: 198-204.
+
+[24] Novak DJ, Chen LQ, Ghadirian P, Hamel N, Zhang P, Rossiny V, Cardinal G, Robidoux A, Tonin PN, Rousseau F, Narod SA and Foulkes WD. Identification of a novel CHEK2 variant and assessment of its contribution to the risk of breast cancer in French Canadian women. BMC Cancer 2008; 8: 239.
+[25] Bayram S, Topaktas M, Akkiz H, Bekar A and Akgollu E. CHEK2 1100delC, IVS2+1G>A and I157T mutations are not present in colorectal cancer cases from Turkish population. Cancer Epidemiol 2012; 36: 453-457.
+[26] Zoppoli G, Solier S, Reinhold WC, Liu H, Connelly JW Jr, Monks A, Shoemaker RH, Abaan OD, Davis SR, Meltzer PS, Doroshow JH and Pommier Y. CHEK2 genomic and proteomic analyses reveal genetic inactivation or endogenous activation across the 60 cell lines of the US National Cancer Institute. Oncogene 2012; 31: 403-418.
+[27] Cybulski C, Gorski B, Huzarski T, Masojc B, Mierzejewski M, Debniak T, Teodorczyk U, Byrski T, Gronwald J, Matyjasik J, Zlowocka E, Lenner M, Grabowska E, Nej K, Castaneda J, Medrek K, Szymanska A, Szymanska J, Kurzawski G, Suchy J, Oszurek O, Witek A, Narod SA and Lubinski J. CHEK2 is a multiorgan cancer susceptibility gene. Am J Hum Genet 2004; 75: 1131-1135.
+
+15715
+
+Int J Clin Exp Med 2015;8(9):15708-15715
+
+

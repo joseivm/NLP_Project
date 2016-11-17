@@ -1,0 +1,248 @@
+Int J Colorectal Dis (2016) 31:997­1004 DOI 10.1007/s00384-016-2560-3
+ORIGINAL ARTICLE
+Disease pattern in Danish patients with Peutz-Jeghers syndrome
+A. M. Jelsig1,2 & N. Qvist 3 & L. Sunde4 & K. Brusgaard1,2 & Tvo Hansen5 & F. P. Wikman6 & C. B. Nielsen7 & I. K. Nielsen8 & A. M. Gerdes9 & A. Bojesen10,11 & L. B. Ousager1,2
+
+Accepted: 7 March 2016 / Published online: 15 March 2016 # Springer-Verlag Berlin Heidelberg 2016
+
+Abstract Purpose In this paper, we aimed to collect genetic and medical information on all Danish patients with Peutz-Jeghers syndrome (PJS), in order to contribute to the knowledge of phenotype and genotype. Peutz-Jeghers syndrome is a hereditary syndrome characterized by multiple hamartomatous polyps in the GI tract, mucocutaneous pigmentations, and an increased risk of cancer in the GI tract and at extraintestinal sites. Over 90 % of patients harbour a pathogenic mutation in STK11. Methods Based on the Danish Pathology Data Bank, the Danish National Patient Register, as well as information from relevant departments at Danish hospitals, we identified patients and collected clinical and genetic information. Results We identified 43 patients of which 14 were deceased. The prevalence was estimated to be 1 in 195,000 individuals. The median age at first symptom was 27.5 with
+
+invagination of the small bowel as the most frequent presenting symptom. We noted 18 occurrences of cancer at various anatomical sites, including a case of thyroid cancer and penile cancer. Eight of the deceased patients had died of cancer. Eighteen different mutations in STK11 had been detected in 28 patients. Conclusion This is the first comprehensive study of patients with Peutz-Jeghers syndrome in the Danish population identified from nationwide registers and databases. We have demonstrated that the expressivity of Peutz-Jeghers syndrome varies greatly among the patients, even within the same families, underlining the great phenotypic spectrum. Patients with PJS should be offered surveillance from childhood in order to prevent morbidity and reduce mortality.
+Keywords Peutz-Jeghers syndrome . Hereditary cancer . STK11 . Polyposis . Mucocutaneous pigmentations
+
+* A. M. Jelsig anne.marie.jelsig@rsyd.dk
+1 Department of Clinical Genetics, Odense University Hospital, Sdr. Boulevard 29, 5000 Odense, Denmark
+2 Institute of Clinical Research, University of Southern Denmark, Winsløwparken 19, 3, 5000 Odense, Denmark
+3 Department of Surgery A, Odense University Hospital, Sdr. Boulevard 29, 5000 Odense, Denmark
+4 Department of Clinical Genetics, Aarhus University Hospital, Brendstrupgaardsvej 21 C, 8200 Aarhus, Denmark
+5 Center for Genomic Medicine, Rigshospitalet, University Hospital of Copenhagen, Blegdamsvej 9, 2100 Copenhagen, Denmark
+
+6 Department of Molecular Medicine, Aarhus University Hospital, Brendstrupgaardsvej 21 C, 8200 Aarhus, Denmark
+7 Department of Surgery, Hvidovre Hospital, Kettegårds Alle 30, 2650 Hvidovre, Denmark
+8 Department of Clinical Genetics, Aalborg University Hospital, Ladegaardsgade 5, 9000 Aalborg, Denmark
+9 Department of Clinical Genetics, University Hospital of Copenhagen, Rigshospitalet, Blegdamsvej 9, 2100 Copenhagen, Denmark
+10 Department of Clinical Genetics, Vejle Hospital, Lillebaelt Hospital, Kabbeltoft 25, 7100 Vejle, Denmark
+11 Institute of Regional Health Research, University of Southern Denmark, Winsløwparken 19, 3, 5000 Odense, Denmark
+
+998 Int J Colorectal Dis (2016) 31:997­1004
+
+Introduction
+Peutz-Jeghers syndrome (PJS, OMIM 175200) is a hereditary syndrome characterized by mucocutaneous pigmentations and hamartomatous polyposis of the gastrointestinal (GI) tract. PJS patients have an increased risk for developing GI cancer as well as extraintestinal cancer. The incidence of PJS has been estimated to be between 1:50,000 and 1:200,000 [1].
+The diagnosis of PJS is based on the clinical presentation, the characteristic histopathology of the polyps, and the family history. A diagnosis can be made when one or more of the following criteria are fulfilled: (1) two or more histologically confirmed Peutz-Jeghers (PJ) polyps in one individual, (2) any number of PJ polyps detected in one individual who has a family history of PJS within close relative(s), (3) characteristic mucocutaneous pigmentations in an individual who has a family history of PJS within close relative(s), and (4) any number of PJ polyps in an individual who also has characteristic mucocutaneous pigmentations [2].
+The first diagnostic clue in PJS may be mucocutaneous pigmentations, which tend to develop in infancy or childhood and often precede GI symptoms. The pigmentations are present in 85­95 % of patients and are located primarily in the buccal mucosa and/or around the mouth and nostrils, but sometimes also in the perianal area and on fingers, toes, hands, and feet [2­4]. The lesions tend to fade after puberty, which can make a diagnosis in adult patients more difficult. Similar pigmentations have been described in other syndromes: Patients with Carney complex (OMIM 160980) also have pigmented lesions of the skin and mucosa in addition to characteristic cardiac and cutaneous myxomas as well multiple endocrine tumours [5]. Another differential diagnosis is Laugier-Hunziker syndrome, which is a rare, benign condition with sporadic benign melanotic pigmentation of the oral cavity and lips. Laugier-Hunziker syndrome is also associated with spotted macular pigmentation of the fingertips and longitudinal melanonychia [6].
+The GI symptoms in PJS may include rectal bleeding, ileus due to intestinal invagination, anaemia, and abdominal pain. The number of polyps varies from one to hundreds, and the polyps are mostly located in the small bowel but are seen in the colon and in the stomach as well. Polyps may also be found extraintestinally, e.g. in the gall bladder, the bronchi, the urinary bladder, and the ureter [7]. The median age of onset of GI symptoms has been reported to be approximately at 12­13 years, but with a wide range [4].
+PJS is inherited in an autosomal dominant manner and present with great inter- and intrafamiliary variability in expression. Germline mutations can be detected in the serine/ threonine kinase 11 gene (STK11) in over 90 % of patients who fulfil the clinical diagnostic criteria [8]. The mutations include a wide range of mutation types including point mutations as well as larger deletions. A considerable amount of PJS
+
+cases seems to be de novo cases as approximately 40­50 % of PJS patients have been reported to have a family history of PJS [4, 9]. STK11 is regarded as a tumour suppressor gene affecting the mTOR pathway and thereby regulating central cell processes such as cell metabolism, cell polarity, apoptosis, cell cycle arrest, and cell proliferation [10].
+The PJ polyp is histopathologically classified as a hamartoma and has a characteristic appearance with convoluted, elongated glands and an arborizing pattern of growth and consists of a branching framework of smooth muscle and connective tissue lined by normal epithelium [11].
+There appear to be an increased risk of GI and extraintestinal cancer; however, most studies have been conducted in cohort studies with the risk of ascertainment bias and publication bias. The risk seems to be high for cancers at various sites, but mainly in the GI tract, the breast, and the reproductive organs [9, 12, 13]. Giardiello et al. found a relative risk for all cancers of 15.2 and that the overall cumulative risk for cancer was above 90 % [12].
+Although a minor group of Danish PJS patients have been described before [14], a study comprising the whole population of PJS patients in Denmark has never been published before. By describing these, we here aim to add to the knowledge about the phenotype and genotype of PJS.
+Methods
+The study was a retrospective study approved by the Regional Scientific Ethical Committees for Southern Denmark. In order to identify patients with PJS, we searched the Danish National Patient Register (NPR) for patients with the ICD-10 code: DQ858B Peutz-Jeghers syndrome. NPR contains data from 1977 and includes nationwide information about all patients admitted to hospitals in Denmark, such as administrative data as well as information about treatment/diagnosis [15]. In addition, we searched the Danish Pathology Data Bank (DPDB), a register used by all departments of pathology in Denmark since 1997: Once a pathological evaluation has been finished, the evaluation and codes are registered electronically; thus, there is no delay and the coverage in this register is nearly 100 % [16]. Furthermore, the DPDB contains information from several pathological departments dating back to the 1970s. The diagnostic codes in DPDB are Danish versions of the Systematized Nomenclature of Medicine (SNOMED). We searched on the SNOMED code: S54320 Peutz-Jeghers syndrome. Moreover, we contacted the Danish departments of clinical genetics and laboratories in Denmark carrying out STK11 analysis for lists of patients diagnosed with mutations in STK11. After identification of patients, we obtained information from relevant surgical, paediatric, and clinical genetics departments. All information was collected in the year of 2015.
+
+Int J Colorectal Dis (2016) 31:997­1004
+
+999
+
+Inclusion and exclusion criteria
+A patient was included if he/she fulfilled one or more of the diagnostic criteria as listed in the introduction. Thus, we excluded patients with isolated mucocutaneous pigmentations (but no harmatomatous polyp and no family history with PJS) as well as patients with only one PJ polyp. The type of data obtained for each patient is listed in Table 1.
+Family history
+When two or more individuals in a family were affected, they were considered definite family cases. If the patient had reported the presence of PJS-related cancer, mucocutaneous pigmentations, or polyposis in a first-degree relative, the patient was considered to have a positive family history.
+
+through the DPDB and NPR, were excluded as they did not fulfil the criteria but had been suspected of PJS. Further, two patients had STK11 mutations of unknown significance and did not fulfil the diagnostic criteria, two patients had isolated mucocutaneous pigmentations, and one patient had Carney complex. Thus, 43 PJS patients (26 males and 17 females) were finally included. Fourteen of the 43 PJS patients were deceased. Six patients were <18 years of age. The mean age of patients still alive was 41.6 years (median age 35.5 years; range 2­78 years). Clinical characteristics of the study population are presented in Table 2. The first patient was diagnosed in the 1950s and the latest in 2014.
+Prevalence
+
+Prevalence
+The size of the Danish population was estimated to be 5,678, 348 individuals on August 2015, based on the official number from Statistics Denmark.
+
+At the time of inclusion, 29 PJS patients were alive and the prevalence of PJS in the Danish population can be estimated to be 29 out of 5,678,348 or 1 out of 195,000.
+Family history
+
+Results
+We identified 70 patients from the registers and departments. Twenty-two patients, who were identified
+
+Fifteen patients were definite family cases and comprised five families. Further, four patients had a positive family history. Information on family history was not available in six cases. Thus, the cases with a positive family history and definite familial cases comprised 51.4 % of cases.
+
+Table 1 Data obtained from each PJS patient
+Sex (female/male) Age Family history of polyps, mucocutaneous pigmentations, or cancer STK11 mutation First symptom (type/age) Age at diagnosis Number of polyps (<10, 10­100, over 100) Histological type of polyps Localization of polyps (stomach, duodenum, small bowel, colon) Extraintestinal polyps (site) Deceased (yes/no) Cause of death (age) Mucocutaneous pigmentations (yes/no) Anaemia (yes/no) Abdominal pain (yes/no)a Rectal bleeding (yes/no)b Laparotomy (yes/no) Cancer (age/site/histological type)
+a Abdominal pain is defined as abdominal pain reported at one or more routine follow-up sessions b Rectal bleeding is defined as rectal bleeding observed by the patient between routine follow-up sessions
+
+STK11 mutations
+Eighteen different mutations had been detected in 28 patients. Twelve patients were not screened for STK11 mutations. No non-related patients carried the same mutation. Three patients were without any STK11 mutation detected; thus, the mutation detection rate was 86 % (18 detected in 21 probands). Of the 12 patients, who were not screened, five patients were dead before genetic analysis was available, leaving seven patients who were not screened. The mutations were found throughout the gene, as presented in Fig. 1, and included eight nonsense mutations, five frameshift mutations, two splice site mutations, two large genomic rearrangements, and one missense mutation. The pathogenicity of the missense mutation was evaluated through segregation analysis of the family, where all affected family members had PJS and the mutation.
+Symptoms
+The first symptom of JPS in each of the 43 JPS patients is presented in Table 3. The most frequent initial symptom of PJS was ileus due to intestinal invagination in the small bowel
+
+1000
+
+Int J Colorectal Dis (2016) 31:997­1004
+
+Table 2 Clinical characteristics of the 43 PJS patients
+
+Sex (M:F) Age at collection of data (years)
+<18 (M:F) 19­39 (M:F) 40­59 (M:F) 60­80 (M:F) Deceased (M:F) Age at first symptom (median (range), mean)
+Age at diagnosis
+Age of death
+Number of polyps in patients <10 10­100 >100 NI
+Anatomic distribution of polyps Stomach
+Duodenum
+Small bowel
+Colon/rectum
+Symptoms Abdominal pain Ileus Rectal bleeding Anaemia
+Mucocutaneous pigmentation Yes No Unknown
+Family history Definite family history Positive family history No Unknown
+At least one laparotomy Yes No
+Cause of death
+
+26:17
+6 (3:3) 6 (4:2) 11 (5:6) 6 (4:2) 14 (10:4) Median = 27.5 years
+(10 months­67 years), mean = 23.2 years Median = 29.0 years (10 months­67 years), mean = 26.0 years Median = 59.0 years (30­79 years), mean = 51.6 years
+12 (29 %) 25 (60 %) 5 (12 %) 1
+Yes = 28 (80 %) No = 7 NI = 8 Yes = 21 (60 %) No = 14 NI = 8 Yes = 34 (92 %) No = 3 NI = 6 Yes = 34 (83 %) No = 7 NI = 2
+24 (56 %) 16 (37 %) 14 (33 %) 10 (23 %)
+28 (82 %) 6 (17 %) 9
+15 (40.5 %) 4 (11 %) 18 (48.5 %) 6
+29 (67 %) 14 (33 %)
+9 (33­74 years)
+
+Table 2 (continued)
+Related to PJS (cancer or operation)
+Non-related to PJS Unknown
+NI not investigated, M male, F female
+
+3 2
+
+as seen in 15 patients (35 %). All of these patients were operated with laparotomy with intestinal resection. Cancer was the first symptom in two cases (one ovarian cancer and one cholangiocarcinoma). Of the 43 patients, 13 had polyp-related symptoms before age 10 (25 %) and 26 patients had had symptoms at the age of 20 (55 %). Mucocutaneous pigmentations were, in average, present before the GI symptoms. Polyps were mainly seen in the small bowel and colon/rectum (over 80 % of cases). Variation in expressivity was observed in the five definite family cases; thus, the number of polyps and age of diagnosis varied between the family members.
+Cause of death
+Fourteen of the 43 patients were deceased with eight deaths being cancer-related (two cases of pulmonary cancer, two cases of pancreatic cancer, one case of duodenal cancer, one case of ovarian cancer, one of penile cancer, and one of cholangiocarcinoma). The mean age of patients dying of cancer was 49.5 years (median age of 46.5 years with a range of 33­74 years).
+Histology of polyps
+All but one patient had had at least two GI polyps, which were classified as hamartomatous PJ polyps. The last patient had had one PJ polyp and mucocutaneous pigmentations. An estimate of GI polyp burden in the patients is presented in Table 2. Though the GI polyps were mainly hamartomatous polyps of the PJ type, other types of polyps were detected such as hyperplastic polyps and adenomas. During surveillance, nine patients were diagnosed with tubular adenomas with dysplasia and two patients were diagnosed with a PJ polyp with dysplasia. One patient developed an adenocarcinoma in a JP polyp in the colon.
+Cancer
+At the time of inclusion, 12 patients (28 %) in the study population had been diagnosed with a total of 15 cancers (Table 4). Three patients had two cancers (cervical + duodenal cancer, ileum + pancreatic cancer, and two melanomas). The mean age at diagnosis of cancer was 44.9 years, and the median age at diagnosis was 41 years (30­74 years).
+
+Int J Colorectal Dis (2016) 31:997­1004
+Fig. 1 Distribution of the detected mutations in STK11
+
+1001
+
+Mutation (DNA) c.1-?_374+?del/del exon 1-2 c.1-?_862+?del/del exon 1-6 c.96delC c.181_182delGG c.256C>T c.298C>T c.334C>T c.428dupT. c.440G>C c.465-1G>A c.475C>T c.640C>T c.658C>T c.783C>G c.790_793delTTTG c.863-1G>C c.876C>A c.1010_1011delTG
+
+Protein change
+p.Glu33Argfs*18 p.Gly61Glnfs*101 p.Arg86Ter p.Gln100Ter p.Gln112Ter p.Pro144Alafs*19 p.Arg147Pro p.? p.Gln159Ter p.Gln214Ter p.Gln220Ter p.Tyr261Ter p.Phe264Argfs*22 p.? p.Tyr292Ter p.Val337Glyfs*22
+
+Notation in Figure 1 del exon 1-2 del exon 1-6 E33fs G61fs R86* Q100* Q112* P144fs R147P G155ss Q159* Q214* Q220* Y261* F264fs G288ss Y292* V337fs
+
+Extraintestinal polyps
+
+Surveillance
+
+In four patients, extraintestinal polyps were noted: One patient had a polyp in the uterus, one had a polyp in the cervix, one patient had nasal polyps, and one patient had two vaginal fibroepithelial polyps.
+
+We did not systematically note the surveillance programme of each patient, but we observed that most of the patients were followed in a surveillance programme including regular examinations of the GI tract, for women mammography/MR
+
+Table 3 First reported symptom of PJS
+
+First symptom
+
+Number of patients
+
+Median age in years (range)
+
+Ileus Rectal bleeding Colonic polyp Mucocutaneous pigmentations Abdominal pain Screeninga Cancer Anal prolapse Anaemia All
+
+15 6 5 5 5 3 2 1 1
+
+22 (1­40) 48.5 (10 months­56) 32 (8­58) 9 (2­11) 34.5 (8­54) 8 (8­31) 48 (36 and 60) 48 6
+
+a Patients who did not have clinical symptoms but were offered surveillance because of a family history and/or a pathogenic STK11 mutation
+
+1002
+
+Int J Colorectal Dis (2016) 31:997­1004
+
+Table 4 Cancer observed on the 43 PJS patients and histological type
+
+Localization (histology)
+
+Number of cancers
+
+Median age at diagnosis in years
+
+Duodenum (ADC) Ileum (ADC) Colon (ADC) Pancreas (ADC) Cervix (PC) Penile (BC) Melanoma (SS) Cholangiocarcinoma Pulmonary (NSCLC, SCLC) Thyroid (FOL) Ovaries (ADC)
+
+1 1 2 2 1 1 2 1 2 1 1 15
+
+45 62 34 and 35 45 and 74 30 32 30 and 32 60 45 and 58 55 37
+
+ADC adenocarcinoma, PC planocellular, BS basocellular, SS superficial spreading, NSCLC non-small cell lung cancer, SCLC small cell lung cancer, FOL follicular
+
+scan of the breast. Yet, the surveillance programs, e.g. the interval between examinations, differed between patients.
+Discussion
+This study is the first nationwide study attempting to include all Danish PJS patients. Our study population comprises both alive and deceased individuals in a wide timespan as the first patient was diagnosed in the 1950s.
+The study population highlights the wide phenotypic spectrum of PJS with some being severely affected with multiple JP polyps and cancer and some only experiencing a few polyps and no malignancy. Yet, the clinical characteristics of the patients reflect the natural history of PJS as described by others: Those in whom mucocutaneous pigmentations led to the diagnosis had the lowest median age at diagnosis, highlighting that mucocutaneous pigmentations may be the first symptom preceding GI manifestations. However, GI symptoms were the most common first finding, often with an initial presentation of invagination of the small bowel as reported by others [4, 17]. We found that approximately 25 % of patients had symptoms before age 10 and approximately 55 % before age 20. This observation is similar to what is described in Beggs et al. [2], but lower than in Choi et al. who found that 75 % had symptoms before 20 years of age [4]. The most frequent site of polyps was the small bowel, followed by the large bowel and stomach, which were almost equally involved. But six patients, mainly patients who were dead before capsule endoscopy became commonly used or who had an initial presentation with cancer of which they died, were not investigated for polyps in the small bowel. Thus, our results may be an underestimation. The age of diagnosis was very wide with two patients being diagnosed in the sixth decade of life and one at 10 months of age. This finding reflects that the detection of a PJ polyp at any age should raise the suspicion of PJS.
+All patients presented with PJ polyps, but we initially excluded some patients with cases of only one PJ polyp. Cases
+
+of solitary PJ polyps have been described but seem to be extremely rare [18­20]. Burkart et al. [21] investigated 102 suspected PJ polyps, of which only eight polyps were solitary and only three polyps from three patients had unequivocal histologic features. The authors concluded that, if sporadic PJ polyps exist, they are extremely rare and that individuals with a single PJ polyp may have a cumulative lifetime risk of cancer similar to those with PJS [21]. In conclusion, patients who are diagnosed with one PJ polyp should be offered examination of the small bowel and large bowel. A family history of polyps, cancer, and extraintestinal manifestations should be obtained, and clinical investigations should be supplemented with analysis of STK11.
+Interestingly, we noted two patients, who had a PJ polyp with dysplasia in the small bowel. This finding is rare: Latchford and Phillips studied more than 1000 PJ polyps and identified only six polyps with atypia or dysplasia [1]. In addition, we observed one patient with an adenocarcinoma in a PJ polyp, illustrating that these polyps might have a malignant potential. However, we did not have the option of re-evaluating the histopathological diagnoses. Whether cancers may develop through the PJ polyps is not clear, and in general, the pathophysiological mechanisms underlying the development of cancer in PJS patients are unknown. A hamartoma-adenoma-carcinoma sequence has been suggested [22], but it is debated whether cancer in PJS patients might arise through the conventional adenomacarcinoma pathway or through a distinct pathway. APC mutations or 5q LOH is rarely identified in tumours from PJS patients, arguing for a separate pathway [23, 24].
+Only one missense mutation was detected in our population, which does not allow for studies of phenotype-genotype correlations. Yet, others have tried to find a correlation [3, 25, 26]: Amos et al. found that carriers of missense mutations in STK11 had a later onset of GI symptoms and first polypectomy compared to PJS patients with a truncating mutation [3], and Salloch et al. concluded that patients with truncating mutations require more surgical GI interventions and tend to develop more polyps and cancers [26]. However, two large studies of Hearle et al.
+
+Int J Colorectal Dis (2016) 31:997­1004
+
+1003
+
+concluded that the type or site of STK11 mutations did not significantly influence cancer risk [9] or risk of intussusception [27].
+The occurrences of cancer in our population reflect that PJS may predispose to a wide range of cancers. We noted cases of penile cancer and thyroid cancer, rarely seen in PJS [28]. Surprisingly, we did not observe any case of breast cancer, although the risk is reported to be very high in several studies [9, 12, 13]. This might reflect that we only had 17 females in our cohort; three of them were under 16 years of age and another three had cancers, of which they died [one pancreatic cancer (74 years), one duodenal cancer (45 years), and one ovarian cancer (37 years)]. The risk of cancer is age dependent: Hearle et al. noted that the cumulative cancer risk (all cancers) by age 30 was 5 %; at age 50 years, 31 %; and at age 70 years, 85 % [9]. Thus, the risk increases rapidly from 50 years of age. We also noted that the cause of death in the majority of deceased patients was related to cancer.
+To prevent morbidity in relation to polyps and to decrease mortality, PJS patients should be offered a somewhat extensive surveillance programme from childhood. The evidence for surveillance in PJS patients is of limited quality, because of the lack of studies investigating and comparing screening modalities and long-term outcome. Yet, guidelines have been published [2, 29, 30]. At least most agree that surveillance should include regular examinations of the GI tract, the breast, as well as of the cervix and testes. But regular surveillance of other organs is discussed, e.g. of the pancreas. In our study population, two patients developed pancreatic cancer of which they died. Surveillance of the large bowel can be performed with endoscopy, while surveillance and removal of polyps in the small bowel are more complicated. Video capsule endoscopy has proved to be a sufficient method for surveillance, although the detection rate is not complete [31, 32], and MR enterography can be a sufficient alternative [33­35]. Finally, the programme should include screening of STK11 in the proband and scrutinizing the family history. Unaffected relatives should be offered risk assessment, preferably via genetic testing, and counselling about the possibilities for prevention/surveillance, prenatal diagnostics, etc.
+Limitations and strengths of the study
+As retrospective, this study is limited by the information available from the medical files and the coverage of the registers used to identify the patients. We included patients born in a wide timespan, and missing information was especially evident in some of the older and deceased patients, reflecting that the awareness of the syndrome was lower in the mid of the nineteenth century. The awareness has grown with more scientific publications and as a consequence of the possibility of genetic analysis. Still, the missing information makes comparison of patients difficult.
+The Danish registers, NPR and DPDB, offer a unique possibility for collecting information, although both are limited to the
+
+more recent time period: NPR was first initiated in 1977 and the DPDB was first complete from 1997. Yet, the coverage of especially DPDB is high, and therefore, patients with one or more PJ polyps within the recent 20 years should have been identified if coded correctly. Moreover, every person in Denmark has a social security number, which is noted in all the registers (both the NPR and DPDB) as well as in medical files. This allows us to cross check information between registers as well as relatively easily obtained relevant information. Thus, Danish registers offer the possibility of conducting a valid research of this kind.
+Conclusion
+This is the first comprehensive study of PJS patients in the Danish population identified from nationwide registers and databases. We identified 43 individuals, who fulfilled the diagnostic criteria of PJS of which 14 were deceased. The prevalence was estimated to be 1 in 195,000 individuals. In general, the expressivity of PJS varies greatly among the patients, even within the same family, underlining the great phenotypic spectrum. The median age at first symptom was 27.5 with invagination of the small bowel as the most frequent first symptom seen in 35 % of patients. The median age at diagnosis was 29.0 years. We noted 18 occurrences of cancer, including a case of penile cancer and a case of thyroid cancer. Eights of the deceased patients had died of cancer. Patients with PJS should be offered surveillance from childhood in order to prevent morbidity and reduce mortality. In addition, patients should be offered genetic investigation of STK11 and genetic counselling, and unaffected relatives should be offered risk assessment.
+Acknowledgments We would like to acknowledge Inga R. Pedersen, MD, for contributing to the identification of patients and helping with obtaining medical information. The study was supported by grants from the Region of Southern Denmark, Odense University Hospital: Frie forskningsmidler, and the University of Southern Denmark.
+Compliance with ethical standards
+Conflict of interest The authors declare that they have no competing interests.
+References
+1. Latchford AR, Phillips RK (2011) Gastrointestinal polyps and cancer in Peutz-Jeghers syndrome: clinical aspects. Fam Cancer 10:455­61
+2. Beggs AD, Latchford AR, Vasen HF, Moslein G, Alonso A, Aretz S, Bertario L, Blanco I, Bulow S, Burn J, Capella G, Colas C, Friedl W, Moller P, Hes FJ, Jarvinen H, Mecklin JP, Nagengast FM, Parc Y, Phillips RK, Hyer W, Ponz de Leon M, Renkonen-Sinisalo L, Sampson JR, Stormorken A, Tejpar S, Thomas HJ, Wijnen JT, Clark SK, Hodgson SV (2010) Peutz-Jeghers syndrome: a systematic review and recommendations for management. Gut 59:975­86
+
+1004
+
+Int J Colorectal Dis (2016) 31:997­1004
+
+3. Amos CI, Keitheri-Cheteri MB, Sabripour M, Wei C, McGarrity TJ, Seldin MF, Nations L, Lynch PM, Fidder HH, Friedman E, Frazier ML (2004) Genotype-phenotype correlations in PeutzJeghers syndrome. J Med Genet 41:327­33
+4. Choi HS, Park YJ, Youk EG, Yoon KA, Ku JL, Kim NK, Kim SM, Kim YJ, Moon DJ, Min JS, Park CJ, Bae OS, Yang DH, Jun SH, Chung ES, Jung PM, Whang Y, Park JG (2000) Clinical characteristics of Peutz-Jeghers syndrome in Korean polyposis patients. Int J Colorectal Dis 15:35­8
+5. Correa R, Salpea P, Stratakis CA (2015) Carney complex: an update. Eur J Endocrinol 173:85­97
+6. Lampe AK, Hampton PJ, Woodford-Richens K, Tomlinson I, Lawrence CM, Douglas FS (2003) Laugier-Hunziker syndrome: an important differential diagnosis for Peutz-Jeghers syndrome. J Med Genet 40:e77
+7. Vogel T, Schumacher V, Saleh A, Trojan J, Moslein G (2000) Extraintestinal polyps in Peutz-Jeghers syndrome: presentation of four cases and review of the literature. Deutsche Peutz-JeghersStudiengruppe. Int J Colorectal Dis 15:118­23
+8. Aretz S, Stienen D, Uhlhaas S, Loff S, Back W, Pagenstecher C, McLeod DR, Graham GE, Mangold E, Santer R, Propping P, Friedl W (2005) High proportion of large genomic STK11 deletions in Peutz-Jeghers syndrome. Hum Mutat 26:513­9
+9. Hearle N, Schumacher V, Menko FH, Olschwang S, Boardman LA, Gille JJ, Keller JJ, Westerman AM, Scott RJ, Lim W, Trimbath JD, Giardiello FM, Gruber SB, Offerhaus GJ, de Rooij FW, Wilson JH, Hansmann A, Moslein G, Royer-Pokora B, Vogel T, Phillips RK, Spigelman AD, Houlston RS (2006) Frequency and spectrum of cancers in the Peutz-Jeghers syndrome. Clin Cancer Res 12:3209­15
+10. Fan D, Ma C, Zhang H (2009) The molecular mechanisms that underlie the tumor suppressor function of LKB1. Acta Biochim Biophys Sin (Shanghai) 41:97­107
+11. Giardiello FM, Trimbath JD (2006) Peutz-Jeghers syndrome and management recommendations. Clin Gastroenterol Hepatol 4:408­15
+12. Giardiello FM, Brensinger JD, Tersmette AC, Goodman SN, Petersen GM, Booker SV, Cruz-Correa M, Offerhaus JA (2000) Very high risk of cancer in familial Peutz-Jeghers syndrome. Gastroenterology 119:1447­53
+13. Resta N, Pierannunzio D, Lenato GM, Stella A, Capocaccia R, Bagnulo R, Lastella P, Susca FC, Bozzao C, Loconte DC, Sabba C, Urso E, Sala P, Fornasarig M, Grammatico P, Piepoli A, Host C, Turchetti D, Viel A, Memo L, Giunti L, Stigliano V, Varesco L, Bertario L, Genuardi M, Lucci Cordisco E, Tibiletti MG, Di Gregorio C, Andriulli A, Ponz de Leon M (2013) Cancer risk associated with STK11/LKB1 germline mutations in Peutz-Jeghers syndrome patients: results of an Italian multicenter study. Dig Liver Dis 45:606­11
+14. Rebsdorf Pedersen I, Hartvigsen A, Fischer Hansen B, Toftgaard C, Konstantin-Hansen K, Büllow S (1994) Management of PeutzJeghers syndrome. Int J Colorectal Dis 9(4):177­9
+15. Lynge E, Sandegaard JL, Rebolj M (2011) The Danish National Patient Register. Scand J Public Health 39:30­3
+16. Bjerregaard B, Larsen OB (2011) The Danish Pathology Register. Scand J Public Health 39:72­4
+17. Utsunomiya J, Gocho H, Miyanaga T, Hamaguchi E, Kashimure A (1975) Peutz-Jeghers syndrome: its natural course and management. Johns Hopkins Med J 136:71­82
+18. Naitoh H, Sumiyoshi Y, Kumashiro R, Inutsuka S, Fujita K, Yamamoto T, Murayama H (1988) A solitary Peutz-Jeghers type hamartomatous polyp in the duodenum--a case report. Jpn J Surg 18:475­7
+19. Kuwano H, Takano H, Sugimachi K (1989) Solitary Peutz-Jeghers type polyp of the stomach in the absence of familial polyposis coli in a teenage boy. Endoscopy 21:188­90
+20. Kitaoka F, Shiogama T, Mizutani A, Tsurunaga Y, Fukui H, Higami Y, Shimokawa I, Taguchi T, Kanematsu T (2004) A solitary PeutzJeghers-type hamartomatous polyp in the duodenum. A case report including results of mutation analysis. Digestion 69:79­82
+
+21. Burkart AL, Sheridan T, Lewin M, Fenton H, Ali NJ, Montgomery E (2007) Do sporadic Peutz-Jeghers polyps exist? Experience of a large teaching hospital. Am J Surg Pathol 31:1209­14
+22. Bosman FT (1999) The hamartoma-adenoma-carcinoma sequence. J Pathol 188:1­2
+23. Entius MM, Keller JJ, Westerman AM, van Rees BP, van Velthuysen ML, de Goeij AF, Wilson JH, Giardiello FM, Offerhaus GJ (2001) Molecular genetic alterations in hamartomatous polyps and carcinomas of patients with PeutzJeghers syndrome. J Clin Pathol 54:126­31
+24. Miyaki M, Iijima T, Hosono K, Ishii R, Yasuno M, Mori T, Toi M, Hishima T, Shitara N, Tamura K, Utsunomiya J, Kobayashi N, Kuroki T, Iwama T (2000) Somatic mutations of LKB1 and betacatenin genes in gastrointestinal polyps from patients with PeutzJeghers syndrome. Cancer Res 60:6311­3
+25. Mehenni H, Resta N, Park JG, Miyaki M, Guanti G, Costanza MC (2006) Cancer risks in LKB1 germline mutation carriers. Gut 55:984­90
+26. Salloch H, Reinacher-Schick A, Schulmann K, Pox C, Willert J, Tannapfel A, Heringlake S, Goecke TO, Aretz S, Stemmler S, Schmiegel W (2010) Truncating mutations in Peutz-Jeghers syndrome are associated with more polyps, surgical interventions and cancers. Int J Colorectal Dis 25:97­107
+27. Hearle N, Schumacher V, Menko FH, Olschwang S, Boardman LA, Gille JJ, Keller JJ, Westerman AM, Scott RJ, Lim W, Trimbath JD, Giardiello FM, Gruber SB, Offerhaus GJ, Rooij FW, Wilson JH, Hansmann A, Moslein G, Royer-Pokora B, Vogel T, Phillips RK, Spigelman AD, Houlston RS (2006) STK11 status and intussusception risk in Peutz-Jeghers syndrome. J Med Genet 43:e41
+28. Wei S, LiVolsi VA, Brose MS, Montone KT, Morrissette JJ, Baloch ZW (2016) STK11 mutation identified in thyroid carcinoma. Endocr Pathol 27:65­9
+29. Syngal S, Brand RE, Church JM, Giardiello FM, Hampel HL, Burt RW (2015) ACG clinical guideline: genetic testing and management of hereditary gastrointestinal cancer syndromes. Am J Gastroenterol 110:223­62, quiz 63
+30. Cairns SR, Scholefield JH, Steele RJ, Dunlop MG, Thomas HJ, Evans GD, Eaden JA, Rutter MD, Atkin WP, Saunders BP, Lucassen A, Jenkins P, Fairclough PD, Woodhouse CR (2010) Guidelines for colorectal cancer screening and surveillance in moderate and high risk groups (update from 2002). Gut 59:666­89
+31. Brown G, Fraser C, Schofield G, Taylor S, Bartram C, Phillips R, Saunders B (2006) Video capsule endoscopy in Peutz-Jeghers syndrome: a blinded comparison with barium follow-through for detection of small-bowel polyps. Endoscopy 38:385­90
+32. Postgate A, Hyer W, Phillips R, Gupta A, Burling D, Bartram C, Marshall M, Taylor S, Brown G, Schofield G, Bassett P, Spray C, Fitzpatrick A, Latchford A, Fraser C (2009) Feasibility of video capsule endoscopy in the management of children with Peutz-Jeghers syndrome: a blinded comparison with barium enterography for the detection of small bowel polyps. J Pediatr Gastroenterol Nutr 49:417­23
+33. Gupta A, Postgate AJ, Burling D, Ilangovan R, Marshall M, Phillips RK, Clark SK, Fraser CH (2010) A prospective study of MR enterography versus capsule endoscopy for the surveillance of adult patients with Peutz-Jeghers syndrome. AJR Am J Roentgenol 195:108­16
+34. Maccioni F, Al Ansari N, Mazzamurro F, Barchetti F, Marini M (2012) Surveillance of patients affected by Peutz-Jeghers syndrome: diagnostic value of MR enterography in prone and supine position. Abdom Imaging 37:279­87
+35. Pennazio M, Spada C, Eliakim R, Keuchel M, May A, Mulder CJ, Rondonotti E, Adler SN, Albert J, Baltes P, Barbaro F, Cellier C, Charton JP, Delvaux M, Despott EJ, Domagk D, Klein A, McAlindon M, Rosa B, Rowse G, Sanders DS, Saurin JC, Sidhu R, Dumonceau JM, Hassan C, Gralnek IM (2015) Small-bowel capsule endoscopy and device-assisted enteroscopy for diagnosis and treatment of small-bowel disorders: European Society of Gastrointestinal Endoscopy (ESGE) Clinical Guideline. Endoscopy 47:352­76
+
+

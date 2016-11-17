@@ -1,0 +1,494 @@
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Cancer genetics
+
+Open Access Scan to access more
+free content
+
+ORIGINAL ARTICLE
+Melanoma prone families with CDK4 germline mutation: phenotypic profile and associations with MC1R variants
+Hanne Eknes Puntervoll,1 Xiaohong R Yang,2 Hildegunn Høberg Vetti,3 Ingeborg M Bachmann,1,4 Marie Françoise Avril,5 Meriem Benfodda,6 Caterina Catricalà,7 Stéphane Dalle,8 Anne B Duval-Modeste,9 Paola Ghiorzo,10 Paola Grammatico,11 Mark Harland,12 Nicholas K Hayward,13 Hui-Han Hu,6 Thomas Jouary,14 Tanguy Martin-Denavit,8 Aija Ozola,15 Jane M Palmer,13 Lorenza Pastorino,10 Dace Pjanova,15 Nadem Soufir,6 Solrun J Steine,1 Alexander J Stratigos,16 Luc Thomas,8 Julie Tinat,17 Hensin Tsao,18 Rta Veinalde,15 Margaret A Tucker,2 Brigitte Bressac-de Paillerets,19 Julia A Newton-Bishop,12 Alisa M Goldstein,2 Lars A Akslen,1,20,21 Anders Molven1,21
+
+ Additional material is published online only. To view please visit the journal online (http://dx.doi.org/10.1136/ jmedgenet-2012-101455). For numbered affiliations see end of article. Correspondence to Professor Anders Molven, Section for Pathology, The Gade Institute, University of Bergen, Haukeland University Hospital, N-5021 Bergen, Norway; anders.molven@ gades.uib.no Received 29 November 2012 Revised 21 December 2012 Accepted 24 December 2012 Published Online First 5 February 2013
+To cite: Puntervoll HE, Yang XR, Vetti HH, et al. J Med Genet 2013;50: 264­270.
+
+ABSTRACT Background CDKN2A and CDK4 are high risk susceptibility genes for cutaneous malignant melanoma. Melanoma families with CDKN2A germline mutations have been extensively characterised, whereas CDK4 families are rare and lack a systematic investigation of their phenotype. Methods All known families with CDK4 germline mutations (n=17) were recruited for the study by contacting the authors of published papers or by requests via the Melanoma Genetics Consortium (GenoMEL). Phenotypic data related to primary melanoma and pigmentation characteristics were collected. The CDK4 exon 2 and the complete coding region of the MC1R gene were sequenced. Results Eleven families carried the CDK4 R24H mutation whereas six families had the R24C mutation. The total number of subjects with verified melanoma was 103, with a median age at first melanoma diagnosis of 39 years. Forty-three (41.7%) subjects had developed multiple primary melanomas (MPM). A CDK4 mutation was found in 89 (including 62 melanoma cases) of 209 tested subjects. CDK4 positive family members (both melanoma cases and unaffected subjects) were more likely to have clinically atypical nevi than CDK4 negative family members ( p<0.001). MPM subjects had a higher frequency of MC1R red hair colour variants compared with subjects with one tumour ( p=0.010). Conclusion Our study shows that families with CDK4 germline mutations cannot be distinguished phenotypically from CDKN2A melanoma families, which are characterised by early onset of disease, increased occurrence of clinically atypical nevi, and development of MPM. In a clinical setting, the CDK4 gene should therefore always be examined when a melanoma family tests negative for CDKN2A mutation.
+INTRODUCTION Cutaneous malignant melanoma is characterised by a complex aetiology, involving both genetic and
+
+environmental risk factors. Approximately 5­10% of the melanoma cases occur in a familial setting,1 and two genes have so far been identified as high risk susceptibility genes for the disease: cyclin dependent kinase inhibitor 2A (CDKN2A)2 3 and cyclin dependent kinase 4 (CDK4).4 5
+CDKN2A (MIM 600160) encodes two distinct proteins, p16INK4A and p14ARF; both are tumour suppressors involved in cell cycle inhibition through different pathways.6­8 In studies of melanoma families, the frequency of CDKN2A germline mutations is 20­40%, depending on the inclusion criteria.9 Common features of the CDKN2A melanoma families are early onset of disease and an increased risk of developing clinically atypical nevi, multiple primary melanomas (MPMs), and pancreatic cancer.10 11
+CDK4 (MIM 123829) encodes the catalytic subunit of a heterodimeric Ser/Thr protein kinase, which together with its regulatory subunit (one of the D-type cyclins) is involved in controlling progression through the G1 phase of the cell cycle. Only 12 melanoma prone families with CDK4 germline mutations have been reported.4 5 12­18 All mutations are located in codon 24 in exon 2, resulting in either an Arg24His (R24H) or Arg24Cys (R24C) substitution. This changes the p16INK4A binding domain, leading to reduced p16INK4A inhibition of CDK4 kinase activity and, subsequently, to cell cycle progression.19 20
+Fair skin, red/blonde hair colour, freckling, and sun sensitivity are established pigmentation related risk factors for melanoma development. Pigmentation phenotype is partly regulated by the melanocortin-1 receptor (MC1R) gene (MIM 155555), a low risk melanoma susceptibility gene that may act both dependently and independently of ultraviolet radiation to influence melanoma risk.21 22 MC1R encodes a seven-pass transmembrane, G-protein coupled receptor, which is involved in regulation of pheomelanin (yellow/red pigment) and eumelanin (black/brown pigment) production.23 The MC1R locus is highly polymorphic in the Caucasian population,24 and
+
+264 Puntervoll HE, et al. J Med Genet 2013;50:264­270. doi:10.1136/jmedgenet-2012-101455
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Cancer genetics
+
+certain variants have been associated with the red hair colour (RHC) phenotype; that is, red hair, fair skin, freckling, and the inability to tan.25 26 It is mainly the RHC variants that have been associated with increased melanoma risk,27­29 although a link between non-RHC (NRHC) variants and melanoma has also been observed.30 Studies within CDKN2A melanoma families have established that common MC1R variants act as modifier genes, in that carrying multiple variants is associated with increased melanoma risk. Several of these studies also reported an association between MC1R variants and decreased age at melanoma diagnosis, particularly in MPM patients.31­35
+A systematic characterisation of melanoma prone families with CDK4 germline mutation has never been performed. Previous studies of such families have included a limited number of melanoma cases and have mainly served to confirm CDK4 as a high risk melanoma gene. Here, we report a joint investigation of all 12 published CDK4 melanoma families along with five unpublished pedigrees. The purpose was to examine the clinical phenotype of these families, including possible modifying effects of MC1R variants, with the intent to inform genetic counselling internationally.
+METHODS Recruitment of CDK4 mutated melanoma families and data collection Melanoma families with germline CDK4 mutations were recruited for this study either by contacting the authors of published papers4 5 12­18 or by requests for unpublished families via GenoMEL, the Melanoma Genetics Consortium (www.genomel. org). Seventeen families, including five unpublished, were enrolled (table 1).
+Clinical examinations were performed by dermatologists or specifically trained research nurses, and phenotypic data were collected via a standardised form. Examiners were generally unaware of the genotype of individuals before recording clinical features. Data collected included skin type using the `Fitzpatrick classification',36 eye and hair colour, and total number of nevi (>2 mm in diameter). Also the presence of clinically atypical nevi, defined as nevi >5 mm with irregular pigmentation and an irregular or diffuse border,37 was recorded. Diagnoses of cutaneous melanoma were confirmed by histology reports and/ or medical records. For patients with MPMs, the total number of melanomas was recorded; however, age at melanoma diagnosis, anatomic location, and histological type were recorded only for the first three primaries. Anatomic location of the melanomas was categorised into head/neck, limbs, and trunk. Histologic type was recorded as superficial spreading melanoma (SSM), nodular melanoma (NM), lentigo malignant melanoma (LMM), in situ melanoma, and melanoma unclassified/classification unknown. No acral or mucosal melanomas were observed in our material. Information on non-melanoma cancers was collected for the melanoma cases and for those unaffected subjects who either had tested positive for a CDK4 mutation or were considered as obligate mutation carriers.
+Written informed consent was obtained from the family members before enrolment. The study was performed according to the Helsinki declaration.
+DNA analysis of CDK4 and MC1R DNA samples were available from 209 subjects. Altogether, DNA from 62 melanoma cases, 106 unaffected family members (melanoma status not given for three of these; they were considered as unaffected in this study), and 41 spouses were examined for mutations in CDK4 exon 2 and for variants in the coding region of MC1R. The initial DNA analysis was performed by each individual
+
+research group, either by direct Sanger sequencing or by single strand conformation polymorphism screening; hence there was slight variation in protocols and primers.4 5 12­18
+Statistical analysis Before the statistical analyses, hair and skin colour was grouped because of small sample sizes for these categorical variables: RHC versus all other hair colours, very fair/fair skin colour versus all other skin colours. For comparisons between subject groups (melanoma affected and unaffected CDK4 positive family members versus CDK4 negative family members and spouses) and different categorical variables (occurrence of clinically atypical nevi, melanoma status, hair and skin colour, MC1R variant distribution), the Pearson 2 test or the Fisher exact test were used depending on sample sizes. The non-parametric Mann­Whitney or Kruskal­ Wallis tests were used to compare the continuous variable (age at first diagnosis) with the categorical variables (melanoma status, tumour location, histologic type, occurrence of clinically atypical nevi, MC1R variant distribution).
+All observed MC1R variants were recorded, but because many variants were rare, they were grouped before the statistical comparisons with phenotypic data. These comparisons were performed as follows: (1) The distribution of individuals with MC1R consensus sequence, one and two MC1R variants was compared between the different subject groups (analysis denoted `Number of MC1R variants'). (2) The distribution of individuals with MC1R consensus sequence, RHC, NRHC, and RHC+NRHC variants was compared between the different subject groups (analysis denoted `Type of MC1R variants'). We observed no individuals with more than two MC1R variants. The RHC variants were defined as D84E, R142H, R151C, R160W, and D294H, all associated with red hair phenotype.25 26 Other non-synonymous MC1R variants were labelled as NRHC. Synonymous MC1R variants were excluded from all analyses. When analysing MC1R variant distributions, the CDK4 negative family members and spouses were combined into a single control group.
+Unconditional logistic regression analysis was used to assess whether atypical nevi status varied by melanoma affection and CDK4 carrier status when adjusted for age (age at last examination for unaffected subjects and age at diagnosis for melanoma patients). Statistical analyses were performed using the IBM Statistical Package for the Social Sciences, version 19 (SPSS Inc, Chicago, Illinois, USA) and SAS software (version 9.1.3, SAS Institute Inc, Cary, North Carolina, USA). p values<0.05 were considered to represent significant associations. Also p values between 0.05 and 0.10 are shown in the tables.
+RESULTS Seventeen familial melanoma pedigrees with CDK4 germline mutations (11 with the R24H mutation and six with R24C) were available for this study; 12 previously published and five unpublished (table 1). In these pedigrees, a total of 103 members with cutaneous malignant melanoma (=affected subjects) were recorded. DNA was available for 209 subjects of whom 89 were mutation carriers (62 affected, 27 unaffected), 79 were mutation negative unaffected family members, and the remaining were spouses (table 1). As expected, all spouses had a normal CDK4 exon 2 sequence. Among the 41 affected subjects for whom DNA was not available, seven were classified as obligate mutation carriers. Of unaffected subjects without available DNA, five were obligate mutation carriers.
+
+Puntervoll HE, et al. J Med Genet 2013;50:264­270. doi:10.1136/jmedgenet-2012-101455
+
+265
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Cancer genetics
+
+Table 1 Overview of the studied melanoma families with CDK4 germline mutations
+
+Family designation
+
+Laboratory
+number of family
+
+Mutation
+
+Subjects with verified
+cutaneous melanoma in pedigree
+
+Total number of
+subjects with analysed DNA
+
+Mutation
+positive family members
+
+Norway-1 USA-1 USA-2 UK-1 UK-2 Latvia-1 Latvia-2 Latvia-3 Australia-1 Italy-1 Italy-2 France-1 France-2 France-3 France-4 France-5 Greece-1 Total
+
+­ 8302 8290 301 1119 247 268 M679 60007 FM029 501153 759
+­
+­ 14648
+­
+­
+
+Arg24His Arg24Cys Arg24Cys Arg24His Arg24Cys Arg24His Arg24His Arg24His Arg24His Arg24His Arg24Cys Arg24His Arg24His Arg24Cys Arg24Cys Arg24His Arg24His
+
+28 9 6 4 5 5 5 5 10 4 1 6 2 2 3 2 6 103
+
+108 29 12 5 7 5 6 3 3 6 2 14 4 1 1 1 2 209
+
+*Sixty-two of the mutation positive family members had melanoma and 27 were unaffected.
+
+33 12 7 2 4 2 3 2 2 4 1 9 3 1 1 1 2 89*
+
+Mutation negative family members
+48 10 5 2 3 3 3 0 0 1 1 3 0 0 0 0 0 79
+
+Spouses Reference
+27 5 74 04 15 0 Unpublished 0 13 0 16 1 Unpublished 15 1 15 0 18 2 12 1 14 0 Unpublished 0 Unpublished 0 Unpublished 0 17 41
+
+Phenotypic characteristics of melanoma patients in CDK4 families Phenotypic characteristics of the 103 malignant melanoma cases are presented in table 2. Age at first malignant melanoma diagnosis was available for 95 cases and ranged from 18­86 years, with a median age of 39 years. Most cases occurred in the fourth decade of life (31.6%), whereas age of onset above age 60 years was rare (7.4%). There was no statistically significant difference in distribution of age at first diagnosis between males and females, or between cases with and without available DNA.
+Forty-three melanoma patients (41.7%) developed more than one primary tumour. The number of primaries ranged from 2­13. Altogether, 217 melanomas were reported for 102 affected subjects (data on the number of melanomas were missing for one subject with MPM). Patients with MPMs showed a significantly lower median age at first diagnosis than patients with single primary melanoma (SPM): 35 and 43 years, respectively ( p=0.002). There was no difference in distribution of SPM and MPM by gender.
+The melanomas occurred most frequently on the limbs (table 2), and subjects with their first melanoma on this location had a significantly lower age at first diagnosis (33.5 years) than subjects with melanomas located in the head and neck region (45.5 years) ( p=0.018). The predominant histologic type was SSM (table 2). Subjects with SSM had a significantly lower median age at first diagnosis than individuals with NM and LMM ( p=0.039). The median ages were 36.5, 54, and
+64 years, respectively. Ten of the first melanomas were recorded as in situ cases with a median diagnosis age of 33 years.
+We further evaluated the occurrence of clinically atypical nevi (table 3). Both affected and unaffected CDK4 positive subjects showed a significantly higher frequency of atypical nevi (70% and 75%) than the CDK4 negative subjects (26.5%) ( p<0.001). The associations remained significant after age adjustment (affected CDK4 positive patients: OR 6.08, 95% CI 2.51 to 14.76, p<0.001; unaffected CDK4 positive subjects: OR 7.37, 95% CI 1.99 to 27.39, p=0.003). The median age at first
+
+melanoma diagnosis for the atypical nevi positive patients was significantly lower (32.5 years) than for atypical nevi negative patients (40 years) ( p=0.004).
+There was no difference in distribution of hair and skin colour between the affected and unaffected CDK4 positive family members and the CDK4 negative family members (see online supplementary table 1). We also tested for phenotypic differences between subjects carrying the R24H and R24C mutations. No statistically significant differences were seen with regard to age at first melanoma diagnosis or the occurrence of MPM and clinically atypical nevi (see online supplementary table 2).
+Concerning non-melanoma cancers, 33 cases were found in 25 of the 105 subjects where information on other cancers had been specified (see online supplementary table 3). Non-melanoma skin cancers and female related cancers were most frequently observed. Two cases of pancreatic cancer were seen. Ages of onset of the non-melanoma cancers were in a range expected in normal populations.
+MC1R variants Altogether, 15 different MC1R variants were observed in our material. Eleven variants predicted non-synonymous amino acid changes (V60L, V60R, D84E, V92M, R142H, R142S, R151C, I155T, R160W, R163Q, D294H), three variants corresponded to synonymous amino acid changes (A166A, Q233Q, T314T), and one was an insertion at the nucleotide level (86insA). V60R and R142S have, to our knowledge, not been reported before. R160W, R151C, and V60L were the most frequently observed variants. Five RHC variants were recorded: D84E, R142H, R151C, R160W, D294H. We classified all remaining nonsynonymous MC1R variants and 86insA to the NRHC group.
+There were no significant differences in MC1R variant distribution between the CDK4 negative family members and spouses. A control group was therefore established consisting of all CDK4 negative subjects. Comparison of the affected CDK4 mutation carriers with the CDK4 negative control group
+
+266 Puntervoll HE, et al. J Med Genet 2013;50:264­270. doi:10.1136/jmedgenet-2012-101455
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Cancer genetics
+
+Table 2 Phenotypic and genotypic characteristics of melanoma cases in families with CDK4 germline mutations
+
+Variable*
+
+Number
+
+%
+
+Sex (N=103)
+
+Male 44
+
+Female
+
+59
+
+Number of primary melanomas in affected subjects (N=103)
+
+One 60
+
+Multiple
+
+43
+
+Mean
+
+2.1
+
+CDK4 mutation status of affected subjects (N=103)
+
+Subjects (N=77) in R24H families
+
+CDK4 mutation positive
+
+41
+
+CDK4 mutation negative
+
+0
+
+Obligate CDK4 mutation carriers
+
+7
+
+Unknown mutation status
+
+29
+
+Subjects (N=26) in R24C families
+
+CDK4 mutation positive
+
+21
+
+CDK4 mutation negative
+
+0
+
+Obligate CDK4 mutation carriers
+
+0
+
+Unknown mutation status
+
+5
+
+Age at first melanoma diagnosis (N=95)
+
+<30 years
+
+20
+
+30­39 years
+
+30
+
+40­49 years
+
+24
+
+50­59 years
+
+14
+
+60 years
+
+7
+
+Missing data
+
+8
+
+Mean (years)
+
+40.4
+
+Median (years)
+
+39.0
+
+Anatomic location (N=140)§
+
+Head/neck
+
+31
+
+Limbs
+
+66
+
+Trunk
+
+43
+
+Missing data
+
+28
+
+Anatomic location, first primary melanoma only (N=81)
+
+Head/neck
+
+17
+
+Limbs
+
+34
+
+Trunk
+
+30
+
+Missing data
+
+21
+
+Histologic type (N=95)§
+
+SSM 71
+
+NM 3
+
+LMM 1
+
+In situ melanoma
+
+20
+
+Melanoma unclassified or classification unknown
+
+73
+
+Histologic type, first primary melanoma only (N=48)
+
+SSM 34
+
+NM 3
+
+LMM 1
+
+In situ melanoma
+
+10
+
+Melanoma unclassified or classification unknown
+
+54
+
+42.7 57.3
+58.3 41.7 ­
+39.8 0.0 6.8 28.2
+20.4 0.0 0.0 4.9
+21.1 31.6 25.3 14.7 7.4 ­ ­ ­
+22.1 47.1 30.7 ­
+21.0 42.0 37.0 ­
+74.7 3.2 1.1 21.1 ­
+70.8 6.3 2.1 20.8 ­
+
+*One melanoma case was recorded as MPM, but with no information on the actual number of melanomas. It was therefore excluded when calculating the mean number of melanomas and when summarising anatomic location and histologic type. DNA was not available for these cases. Missing data are not included in the parentheses (N=) and not included when calculating percentages. §For persons with MPM, information about the first three registered tumours was recorded. LMM, lentigo malignant melanoma; MPM, multiple primary melanomas; NM, nodular melanoma; SSM, superficial spreading melanoma.
+
+Table 3 Occurrence of clinically atypical nevi in families with CDK4 germline mutations
+
+CDK4 positive family members
+
+Clinically atypical nevi*
+
+CDK4 negative family members
+N=49 (%)
+
+Affected
+
+Unaffected
+
+N=50 (%)
+
+p N=20 Value (%)
+
+p Value
+
+Present Not present
+
+13 (26.5) 36 (73.5)
+
+35 (70.0) <0.001 15 (75.0) <0.001
+
+15 (30.0)
+
+5 (25.0)
+
+*Data on CDK4 mutation status and clinically atypical nevi were available for 119 subjects. CDK4 negative family members were compared with affected and with unaffected CDK4 positive family members, respectively.
+
+revealed no significant differences in the MC1R variant distribution (table 4). However, when comparing the unaffected CDK4 mutation carriers with the CDK4 negative control group, the former group showed a lower number of RHC variants (p=0.012). The unaffected CDK4 mutation carriers also had a significantly lower number of RHC variants compared with the affected CDK4 carriers ( p=0.042) (table 4).
+Finally, we investigated the MC1R variant distribution in MPM and SPM subjects (table 4). We found no statistically significant difference in the number of MC1R variants, but the MPM subjects were more likely to carry RHC variants (p=0.010). There were no significant associations between age at first melanoma diagnosis and MC1R variant distribution (tested in SPM and MPM subjects, both separately and combined). Similarly, there were no significant differences in the MC1R variant distribution in subjects with and without clinically atypical nevi.
+DISCUSSION This study presents the largest dataset on melanoma families with CDK4 germline mutations to date, and is the first systematic evaluation of their phenotype and the influence of MC1R variants. We examined 17 families from eight countries that included 103 subjects with a verified melanoma diagnosis. The families carried either an R24H or R24C mutation, and we were not able to reveal any clinical differences between carriers of the two CDK4 mutations.
+Early onset of disease is a characteristic feature of hereditary cancers. In this study, median age at first melanoma diagnosis was 39 years, about 15 years earlier than in the general Caucasian population. Thus, 21.1% of the melanoma patients in the CDK4 families had been diagnosed before the age of 30 years, whereas only 7.4% were diagnosed at age 60 years or older. Based on all individuals for which clinical information was available at age 50 years (or later), the mutation penetrance at this age was 74.2%. This confirms CDK4 as a highly penetrant melanoma risk gene. However, since most of the younger mutation carriers are now enrolled in screening programmes where severely dysplastic or borderline lesions are removed, the true lifetime melanoma risk of carrying a CDK4 germline mutation might be difficult to assess, assuming that such lesions are precursors.
+We found that 41.7% of the melanoma subjects developed more than one primary melanoma, a frequency comparable to that observed in families with CDKN2A mutations.11 38 39 Regarding clinically atypical nevi, a significantly higher occurrence
+
+Puntervoll HE, et al. J Med Genet 2013;50:264­270. doi:10.1136/jmedgenet-2012-101455
+
+267
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Cancer genetics
+
+Table 4 Frequencies of MC1R variants in families with CDK4 germline mutations
+
+MC1R variant distribution
+
+CDK4 negative family members and spouses*
+N=115 (%)
+
+CDK4 positive family members
+
+Unaffected
+
+Affected
+
+N=23 (%) p Value§ N=60 (%)
+
+p Value§
+
+p Value¶
+
+Number of primary melanomas
+SPM MPM N=30 (%) N=30 (%) p Value**
+
+Number of MC1R variants 0 (consensus sequence) 1 variant 2 variants
+Type of MC1R variants 0 (consensus sequence) RHC only NRHC only Both RHC and NRHC
+
+23 (20.0) 71 (61.7) 21 (18.3)
+23 (20.0) 48 (41.7) 31 (27.0) 13 (11.3)
+
+10 (43.5) 10 (43.5) 3 (13.0)
+10 (43.5) 3 (13.0) 9 (39.1) 1 (4.4)
+
+0.071 0.012
+
+15 (25.0) 32 (53.3) 13 (21.7)
+
+NS
+
+15 (25.0) 23 (38.3) 14 (23.3) 8 (13.3)
+
+NS
+
+NS 0.042
+
+11 (36.7) 15 (50.0) 4 (13.3)
+
+4 (13.3) 17 (56.7) 9 (30.0)
+
+0.070
+
+11 (36.7) 7 (23.3) 10 (33.3) 2 (6.7)
+
+4 (13.3) 16 (53.3) 4 (13.3) 6 (20.0)
+
+0.010
+
+*MC1R data were available for 76 of 79 CDK4 negative family members and for 39 of 41 spouses. In these groups, the distributions of number and type of MC1R variants were very similar, and the two groups were combined into a single control group for the statistical analyses. Melanoma status and MC1R data were available for 83 of 89 CDK4 positive family members. The number of primary melanomas and MC1R data were available for 60 of the 103 melanoma subjects. §The control group was compared with unaffected and affected CDK4 positive family members, respectively. ¶Unaffected mutation carriers were compared with affected mutation carriers. **Subjects with SPM and MPM were compared with each other with regard to MC1R variant distribution. NS=non-significant p value. MPM, multiple primary melanomas; NRHC, non-red hair colour; RHC, red hair colour; SPM, single primary melanoma.
+
+was observed in the CDK4 mutation carriers compared with the CDK4 negative family members (table 3). Again, this is similar to findings in CDKN2A families.40 41 The presence of clinically atypical nevi has been suggested to be a modifier of melanoma risk in CDKN2A mutation carriers,40 41 and we observed that among affected subjects, the median age at first melanoma diagnosis was 7.5 years lower in atypical nevi positive than in negative family members. On the other hand, the frequency of these nevi was similar in affected and unaffected CDK4 positive subjects (table 3).
+Unfortunately, a high number of the melanoma cases were unclassified with regard to histology, or classification could not be obtained from the patients' records. This mainly concerned the oldest cases, as histology data generally became more complete for more recent cases. Nevertheless, the most frequent histologic type was SSM (74.7%), as in CDKN2A families.39 The relatively high frequency of in situ melanomas (21.1%) may be influenced by increased surveillance of melanoma prone families.
+We tried to assess non-melanoma cancers in our material, but encountered some obstacles. Firstly, most participating laboratories had collected anamnestic cancer data only from melanoma cases and CDK4 positive family members, and not from CDK4 negative members or spouses. Secondly, the CDK4 families stemmed from many countries and populations, with varying background incidences and different national registration systems for cancer. Thus, we were prevented from performing formal analyses to test whether the observed incidences of non-melanoma cancers (see online supplementary table 3) were higher than expected. Still, the frequencies of breast cancer and non-melanoma skin cancer might suggest that CDK4 mutation carriers could be at an increased risk. Sun exposure is an environmental determinant of risk for all skin cancers and an overrepresentation of non-melanoma skin cancer would therefore not be surprising. However, for all observed non-melanoma cancers, the median age of onset was similar to that of sporadic cases, so our data should be interpreted with caution.
+When investigating the MC1R variant distribution, we observed that unaffected, CDK4 positive family members had a disproportionally low frequency of RHC variants, suggesting a biological influence. This difference may, however, be related to
+
+the smaller number of subjects in the unaffected, CDK4 positive group. Additionally, these subjects were generally younger (median age 28 years at last examination) than their affected relatives. It is therefore likely that some of the unaffected, CDK4 positive subjects eventually develop melanoma.
+Looking at melanoma cases only, we found that the MPM subjects had a higher frequency of RHC type variants than the SPM subjects (table 4). Moreover, although not reaching statistical significance, MPM subjects also had the highest frequency of any MC1R variant (86.7% compared with 63.3% in SPM). These findings are consistent with previous observations in CDKN2A melanoma families.11 38 39 We did not find any modifying effects of MC1R variants upon age at disease onset in the CDK4 families, in contrast to what has been reported for CDKN2A.31­35
+The current study has some limitations. Collection of data and biological material was performed by various groups in several different countries, and the data diverged in completeness. Small sample size due to lack of complete data contributes to low power in some statistical analyses and prohibited us from evaluating each MC1R variant separately. Despite these limitations, our study provides results informative for the clinical evaluation of CDK4 pedigrees.
+Melanoma families with CDK4 germline mutations are very uncommon. However, codon 24 of this gene is likely to be a mutational hotspot and CDK4 families have been found in various countries, with several independent origins suggested by haplotype analysis.5 13 15 Our study suggests that CDK4 melanoma families are phenotypically similar to the CDKN2A families with regard to age of melanoma diagnosis, tumour localisation, histological type, and increased incidence of MPM and clinically atypical nevi. A general influence of MC1R variants on melanoma risk is seen in both types of melanoma families, although there may be some differences. We therefore conclude that it is not possible to distinguish CDK4 melanoma families from those with CDKN2A mutation based on the phenotype. The clinical implication is that, although CDK4 mutation carriers are rarely seen, exon 2 of this gene should be examined in melanoma families seeking gene testing whenever tests are negative for CDKN2A.
+
+268 Puntervoll HE, et al. J Med Genet 2013;50:264­270. doi:10.1136/jmedgenet-2012-101455
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Cancer genetics
+
+Author affiliations 1Section for Pathology, The Gade Institute, University of Bergen, Bergen, Norway 2Division of Cancer Epidemiology and Genetics, National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA 3Western Norway Familial Cancer Center, Center for Medical Genetics and Molecular Medicine, Haukeland University Hospital, Bergen, Norway 4Department of Dermatology, Haukeland University Hospital, Bergen, Norway 5AP-HP, Hôpital Cochin-Tarnier, Université Paris Descartes, Paris, France 6AP-HP, Genetic Department, Bichat Hospital and INSERM U976, Cutaneous Research Center, Paris 7 University, Saint Louis Hospital, Paris, France 7Department of Dermatologic Oncology, San Gallicano Dermatologic Institute, IRCCS, Rome, Italy 8Unit of Dermatology, Université Claude Bernard Lyon 1, Centre Hospitalier LyonSud, Hospices Civils de Lyon, Lyon, France 9Department of Dermatology, Rouen University Hospital, Rouen, France 10Department of Internal Medicine, University of Genoa and Laboratory of Genetics of Rare Hereditary Cancers, San Martino-IST Research Hospital, Genoa, Italy 11Medical Genetics, Molecular Medicine Department, Sapienza University, S. Camillo-Forlanini Hospital, Rome, Italy 12Section of Epidemiology and Biostatistics, Leeds Institute of Molecular Medicine, Leeds Cancer Research UK Centre, St James's University Hospital, Leeds, UK 13Queensland Institute of Medical Research, Brisbane, Queensland, Australia 14Unité de Cancérologie Cutanée, Service de Dermatologie, Bordeaux, France 15Latvian Biomedical Research and Study Centre, Riga, Latvia 16Dermato-Oncology Unit, Department of Dermatology, University of Athens Medical School, Andreas Sygros Hospital, Athens, Greece 17Department of Genetics, Rouen University Hospital, Rouen, France 18Department of Dermatology, Wellman Center for Photomedicine, MGH Cancer Center, Massachusetts General Hospital, Boston, Massachusetts, USA 19Service de Génétique, Département de Biopathologie, Institut de Cancérologie Gustave Roussy, Villejuif and INSERM U946, Bâtiment IGM, Fondation Jean Dausset, Paris, France 20Centre for Cancer Biomarkers, The Gade Institute, University of Bergen, Bergen, Norway 21Department of Pathology, Haukeland University Hospital, Bergen, Norway
+Acknowledgements This article is dedicated to the memory of Dr Magne B Grimstvedt (1925­2009), who in 1967 initiated studies on the large Norwegian melanoma family included here. Moreover, the authors are indebted to all participating family members, whose generosity and cooperation have made this study possible. We are also very grateful to the staff at the participating institutions for their contribution with regard to patient care and information for the data collection forms. Contributors HEP performed genotyping, collected all data from the participating research groups, tabulated the results, carried out the statistical analyses, and wrote the first manuscript draft. XRY and AMG provided data on the American families, and participated in the interpretation of data and statistical analyses. SJS, HHV, and IMB carried out genotyping, performed genetic counselling or dermatological examinations, and provided and interpreted clinical data for the Norwegian family. MAT, MH, JAN-B, AO, DP, RV, NKH, JMP, PGr, CC, PGh, LP, MFA, BBdeP, MB, H-HH, NS, TJ, ABD-M, JT, SD, TM-D, LT, AJS, and HT carried out genotyping, performed genetic counselling and dermatological examinations, and provided and interpreted clinical data for all other families included in the study. AM managed and designed the study in collaboration with AMG and LAA. The writing group consisted of HEP, XRY, AMG, LAA, and AM. All other authors have read and commented on the manuscript, and approved the final version. Funding The GenoMEL study was funded by the European Commission under the 6th Framework Programme (contract no. LSHC-CT-2006-018702), by Cancer Research UK Programme Awards (C588/A4994 and C588/A10589), by a Cancer Research UK Project grant (C8216/A6129), and by a grant from the US National Institutes of Health (NIH; CA83115). This research was also supported by a PhD fellowship from the University of Bergen to HEP, an INSERM Research Fellowship for hospital based scientists and an INCA coordinator or grant to BB-de P, and grants from the following sources: Norwegian Cancer Society (71512-PR-2006­0356); Intramural Research Program of the NIH, National Cancer Institute, Division of Cancer Epidemiology and Genetics; Leeds Cancer Research UK Centre (C37059/ A11941); Latvian Council of Science (No. 10.0010.8); National Health and Medical Research Council of Australia; Italian Ministry of Health; PRIN 2008; Sapienza University of Rome; Institut National du Cancer PHRC 2007 (AOM 07, 195, N107004); Lyon 1 University; Hospices Civils de Lyon; Ligue Contre le Cancer du Rhone; and NIH (K24 CA149202). Competing interests None. Patient consent Obtained. Ethics approval Regional Ethics Committee REK-VEST, Norway (136.04).
+
+Provenance and peer review Not commissioned; externally peer reviewed.
+Open Access This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 3.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial. See: http://creativecommons.org/ licenses/by-nc/3.0/
+REFERENCES
+1 Florell SR, Boucher KM, Garibotti G, Astle J, Kerber R, Mineau G, Wiggins C, Noyes RD, Tsodikov A, Cannon-Albright LA, Zone JJ, Samlowski WE, Leachman SA. Population-based analysis of prognostic factors and survival in familial melanoma. J Clin Oncol 2005;23:7168­77.
+2 Hussussian CJ, Struewing JP, Goldstein AM, Higgins PA, Ally DS, Sheahan MD, Clark WH Jr., Tucker MA, Dracopoli NC. Germline p16 mutations in familial melanoma. Nat Genet 1994;8:15­21.
+3 Kamb A, Shattuck-Eidens D, Eeles R, Liu Q, Gruis NA, Ding W, Hussey C, Tran T, Miki Y, Weaver-Feldhaus J, McClure M, Aitken JF, Anderson DE, Bergman W, Frants R, Goldgar DE, Green A, MacLennan R, Martin NG, Meyer LJ, Youl P, Zone JJ, Skolnick MH, Cannon-Albright LA. Analysis of the p16 gene (CDKN2) as a candidate for the chromosome 9p melanoma susceptibility locus. Nat Genet 1994;8:23­6.
+4 Zuo L, Weger J, Yang Q, Goldstein AM, Tucker MA, Walker GJ, Hayward N, Dracopoli NC. Germline mutations in the p16INK4a binding domain of CDK4 in familial melanoma. Nat Genet 1996;12:97­9.
+5 Molven A, Grimstvedt MB, Steine SJ, Harland M, Avril MF, Hayward NK, Akslen LA. A large Norwegian family with inherited malignant melanoma, multiple atypical nevi, and CDK4 mutation. Genes Chromosomes Cancer 2005;44:10­8.
+6 Serrano M, Hannon GJ, Beach D. A new regulatory motif in cell-cycle control causing specific inhibition of cyclin D/CDK4. Nature 1993;366:704­7.
+7 Serrano M, Gomez-Lahoz E, DePinho RA, Beach D, Bar-Sagi D. Inhibition of ras-induced proliferation and cellular transformation by p16INK4. Science 1995;267:249­52.
+8 Pomerantz J, Schreiber-Agus N, Liegeois NJ, Silverman A, Alland L, Chin L, Potes J, Chen K, Orlow I, Lee HW, Cordon-Cardo C, DePinho RA. The Ink4a tumor suppressor gene product, p19Arf, interacts with MDM2 and neutralizes MDM2's inhibition of p53. Cell 1998;92:713­23.
+9 Goldstein AM, Chan M, Harland M, Gillanders EM, Hayward NK, Avril MF, Azizi E, Bianchi-Scarra G, Bishop DT, Bressac-de Paillerets B, Bruno W, Calista D, Albright LA Cannon, Demenais F, Elder DE, Ghiorzo P, Gruis NA, Hansson J, Hogg D, Holland EA, Kanetsky PA, Kefford RF, Landi MT, Lang J, Leachman SA, Mackie RM, Magnusson V, Mann GJ, Niendorf K, Bishop J Newton, Palmer JM, Puig S, Puig-Butille JA, de Snoo FA, Stark M, Tsao H, Tucker MA, Whitaker L, Yakobson E. High-risk melanoma susceptibility genes and pancreatic cancer, neural system tumors, and uveal melanoma across GenoMEL. Cancer Res 2006;66:9818­28.
+10 Goldstein AM, Fraser MC, Struewing JP, Hussussian CJ, Ranade K, Zametkin DP, Fontaine LS, Organic SM, Dracopoli NC, Clark WH Jr., Tucker MA. Increased risk of pancreatic cancer in melanoma-prone kindreds with p16INK4 mutations. N Engl J Med 1995;333:970­4.
+11 Goldstein AM, Chan M, Harland M, Hayward NK, Demenais F, Bishop DT, Azizi E, Bergman W, Bianchi-Scarra G, Bruno W, Calista D, Albright LA, Chaudru V, Chompret A, Cuellar F, Elder DE, Ghiorzo P, Gillanders EM, Gruis NA, Hansson J, Hogg D, Holland EA, Kanetsky PA, Kefford RF, Landi MT, Lang J, Leachman SA, MacKie RM, Magnusson V, Mann GJ, Bishop JN, Palmer JM, Puig S, Puig-Butille JA, Stark M, Tsao H, Tucker MA, Whitaker L, Yakobson E. Features associated with germline CDKN2A mutations: a GenoMEL study of melanoma-prone families from three continents. J Med Genet 2007;44:99­106.
+12 Soufir N, Avril MF, Chompret A, Demenais F, Bombled J, Spatz A, Stoppa-Lyonnet D, Benard J, Bressac-de Paillerets B. Prevalence of p16 and CDK4 germline mutations in 48 melanoma-prone families in France. The French Familial Melanoma Study Group. Hum Mol Genet 1998;7:209­16.
+13 Pjanova D, Engele L, Randerson-Moor JA, Harland M, Bishop DT, Bishop JA Newton, Taylor C, Debniak T, Lubinski J, Kleina R, Heisele O. CDKN2A and CDK4 variants in Latvian melanoma patients: analysis of a clinic-based population. Melanoma Res 2007;17:185­91.
+14 Soufir N, Ollivaud L, Bertrand G, Lacapere JJ, Descamps V, Vitoux D, Lebbe C, Wolkenstein P, Dupin N, Saiag P, Basset-Seguin N, Grandchamp B. A French CDK4-positive melanoma family with a co-inherited EDNRB mutation. J Dermatol Sci 2007;46:61­4.
+15 Majore S, De Simone P, Crisi A, Eibenschutz L, Binni F, Antigoni I, De Bernardo C, Catricala C, Grammatico P. CDKN2A/CDK4 molecular study on 155 Italian subjects with familial and/or primary multiple melanoma. Pigment Cell Melanoma Res 2008;21:209­11.
+16 Pjanova D, Molven A, Akslen LA, Engele L, Streinerte B, Azarjana K, Heisele O. Identification of a CDK4 R24H mutation-positive melanoma family by analysis of
+
+Puntervoll HE, et al. J Med Genet 2013;50:264­270. doi:10.1136/jmedgenet-2012-101455
+
+269
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Cancer genetics
+
+early-onset melanoma patients in Latvia. Melanoma Res 2009;19:119­22. 17 Nikolaou V, Kang X, Stratigos A, Gogas H, Latorre MC, Gabree M, Plaka M,
+Njauw CN, Kypreou K, Mirmigi I, Stefanaki I, Tsao H. Comprehensive mutational analysis of CDKN2A and CDK4 in Greek patients with cutaneous melanoma. Br J Dermatol 2011;165:1219­22. 18 Ghiorzo P, Bonelli L, Pastorino L, Bruno W, Barile M, Andreotti V, Nasti S, Battistuzzi L, Grosso M, Bianchi-Scarra G, Queirolo P. MC1R variation and melanoma risk in relation to host/clinical and environmental factors in CDKN2A positive and negative melanoma patients. Exp Dermatol 2012;21:718­20. 19 Coleman KG, Wautlet BS, Morrissey D, Mulheron J, Sedman SA, Brinkley P, Price S, Webster KR. Identification of CDK4 sequences involved in cyclin D1 and p16 binding. J Biol Chem 1997;272:18869­74. 20 Bartkova J, Lukas J, Guldberg P, Alsner J, Kirkin AF, Zeuthen J, Bartek J. The p16-cyclin D/Cdk4-pRb pathway as a functional unit frequently altered in melanoma pathogenesis. Cancer Res 1996;56:5475­83. 21 Rees JL. The melanocortin 1 receptor (MC1R): more than just red hair. Pigment Cell Res 2000;13:135­40. 22 Mitra D, Luo X, Morgan A, Wang J, Hoang MP, Lo J, Guerrero CR, Lennerz JK, Mihm MC, Wargo JA, Robinson KC, Devi SP, Vanover JC, D'Orazio JA, McMahon M, Bosenberg MW, Haigis KM, Haber DA, Wang Y, Fisher DE. An ultraviolet-radiation-independent pathway to melanoma carcinogenesis in the red hair/fair skin background. Nature 2012;491:449­53. 23 Garcia-Borron JC, Sanchez-Laorden BL, Jimenez-Cervantes C. Melanocortin-1 receptor structure and functional regulation. Pigment Cell Res 2005;18:393­410. 24 Gerstenblith MR, Goldstein AM, Fargnoli MC, Peris K, Landi MT. Comprehensive evaluation of allele frequency differences of MC1R variants across populations. Hum Mutat 2007;28:495­505. 25 Valverde P, Healy E, Jackson I, Rees JL, Thody AJ. Variants of the melanocyte-stimulating hormone receptor gene are associated with red hair and fair skin in humans. Nat Genet 1995;11:328­30. 26 Bastiaens M, ter Huurne J, Gruis N, Bergman W, Westendorp R, Vermeer BJ, Bavinck JN Bouwes. The melanocortin-1-receptor gene is the major freckle gene. Hum Mol Genet 2001;10:1701­8. 27 Valverde P, Healy E, Sikkink S, Haldane F, Thody AJ, Carothers A, Jackson IJ, Rees JL. The Asp84Glu variant of the melanocortin 1 receptor (MC1R) is associated with melanoma. Hum Mol Genet 1996;5:1663­6. 28 Palmer JS, Duffy DL, Box NF, Aitken JF, O'Gorman LE, Green AC, Hayward NK, Martin NG, Sturm RA. Melanocortin-1 receptor polymorphisms and risk of melanoma: is the association explained solely by pigmentation phenotype? Am J Hum Genet 2000;66:176­86. 29 Kennedy C, ter Huurne J, Berkhout M, Gruis N, Bastiaens M, Bergman W, Willemze R, Bavinck JN. Melanocortin 1 receptor (MC1R) gene variants are associated with an increased risk for cutaneous melanoma which is largely independent of skin type and hair color. J Invest Dermatol 2001;117:294­300. 30 Raimondi S, Sera F, Gandini S, Iodice S, Caini S, Maisonneuve P, Fargnoli MC. MC1R variants, melanoma and red hair color phenotype: a meta-analysis. Int J Cancer 2008;122:2753­60.
+
+31 Goldstein AM, Landi MT, Tsang S, Fraser MC, Munroe DJ, Tucker MA. Association of MC1R variants and risk of melanoma in melanoma-prone families with CDKN2A mutations. Cancer Epidemiol Biomarkers Prev 2005;14:2208­12.
+32 Chaudru V, Laud K, Avril MF, Miniere A, Chompret A, Bressac-de Paillerets B, Demenais F. Melanocortin-1 receptor (MC1R) gene variants and dysplastic nevi modify penetrance of CDKN2A mutations in French melanoma-prone pedigrees. Cancer Epidemiol Biomarkers Prev 2005;14:2384­90.
+33 Fargnoli MC, Gandini S, Peris K, Maisonneuve P, Raimondi S. MC1R variants increase melanoma risk in families with CDKN2A mutations: a meta-analysis. Eur J Cancer 2010;46:1413­20.
+34 Demenais F, Mohamdi H, Chaudru V, Goldstein AM, Bishop JA Newton, Bishop DT, Kanetsky PA, Hayward NK, Gillanders E, Elder DE, Avril MF, Azizi E, van Belle P, Bergman W, Bianchi-Scarra G, Bressac-de Paillerets B, Calista D, Carrera C, Hansson J, Harland M, Hogg D, Hoiom V, Holland EA, Ingvar C, Landi MT, Lang JM, Mackie RM, Mann GJ, Ming ME, Njauw CJ, Olsson H, Palmer J, Pastorino L, Puig S, Randerson-Moor J, Stark M, Tsao H, Tucker MA, van der Velden P, Yang XR, Gruis N. Association of MC1R variants and host phenotypes with melanoma risk in CDKN2A mutation carriers: a GenoMEL study. J Natl Cancer Inst 2010;102:1568­83.
+35 Goldstein AM, Chaudru V, Ghiorzo P, Badenas C, Malvehy J, Pastorino L, Laud K, Hulley B, Avril MF, Puig-Butille JA, Miniere A, Marti R, Chompret A, Cuellar F, Kolm I, Mila M, Tucker MA, Demenais F, Bianchi-Scarra G, Puig S, de-Paillerets BB. Cutaneous phenotype and MC1R variants as modifying factors for the development of melanoma in CDKN2A G101W mutation carriers from 4 countries. Int J Cancer 2007;121:825­31.
+36 Fitzpatrick TB. The validity and practicability of sunreactive subtypes I through VI. Arch Dermatol 1988;124:869­71.
+37 Tucker MA, Halpern A, Holly EA, Hartge P, Elder DE, Sagebiel RW, Guerry Dt, Clark WH Jr. Clinically recognized dysplastic nevi. A central risk factor for cutaneous melanoma. JAMA 1997;277:1439­44.
+38 Pastorino L, Bonelli L, Ghiorzo P, Queirolo P, Battistuzzi L, Balleari E, Nasti S, Gargiulo S, Gliori S, Savoia P, Osella S Abate, Bernengo MG, Bianchi G Scarra. CDKN2A mutations and MC1R variants in Italian patients with single or multiple primary melanoma. Pigment Cell Melanoma Res 2008;21:700­9.
+39 van der Rhee JI, Krijnen P, Gruis NA, de Snoo FA, Vasen HF, Putter H, Kukutsch NA, Bergman W. Clinical and histologic characteristics of malignant melanoma in families with a germline mutation in CDKN2A. J Am Acad Dermatol 2011;65:281­8.
+40 Bishop JA, Wachsmuth RC, Harland M, Bataille V, Pinney E, Mac KP, Baglietto L, Cuzick J, Bishop DT. Genotype/phenotype and penetrance studies in melanoma families with germline CDKN2A mutations. J Invest Dermatol 2000;114:28­33.
+41 de Snoo FA, Hottenga JJ, Gillanders EM, Sandkuijl LA, Jones MP, Bergman W, van der Drift C, van Leeuwen I, van Mourik L, Huurne JA, Frants RR, Willemze R, Breuning MH, Trent JM, Gruis NA. Genome-wide linkage scan for atypical nevi in p16-Leiden melanoma families. Eur J Hum Genet 2008;16:1135­41.
+
+270 Puntervoll HE, et al. J Med Genet 2013;50:264­270. doi:10.1136/jmedgenet-2012-101455
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Melanoma prone families with CDK4 germline mutation: phenotypic profile and associations with MC1R variants
+Hanne Eknes Puntervoll, Xiaohong R Yang, Hildegunn Høberg Vetti, Ingeborg M Bachmann, Marie Françoise Avril, Meriem Benfodda, Caterina Catricalà, Stéphane Dalle, Anne B Duval-Modeste, Paola Ghiorzo, Paola Grammatico, Mark Harland, Nicholas K Hayward, Hui-Han Hu, Thomas Jouary, Tanguy Martin-Denavit, Aija Ozola, Jane M Palmer, Lorenza Pastorino, Dace Pjanova, Nadem Soufir, Solrun J Steine, Alexander J Stratigos, Luc Thomas, Julie Tinat, Hensin Tsao, Ruta Veinalde, Margaret A Tucker, Brigitte Bressac-de Paillerets, Julia A Newton-Bishop, Alisa M Goldstein, Lars A Akslen and Anders Molven
+J Med Genet 2013 50: 264-270 originally published online February 5, 2013
+doi: 10.1136/jmedgenet-2012-101455
+Updated information and services can be found at: http://jmg.bmj.com/content/50/4/264
+
+These include:
+
+Supplementary Supplementary material can be found at:
+
+Material
+
+http://jmg.bmj.com/content/suppl/2013/02/02/jmedgenet-2012-101455 .DC1.html
+
+References This article cites 41 articles, 12 of which you can access for free at:
+http://jmg.bmj.com/content/50/4/264#BIBL
+
+Open Access
+
+This is an open-access article distributed under the terms of the Creative Commons Attribution Non-commercial License, which permits use, distribution, and reproduction in any medium, provided the original work is properly cited, the use is non commercial and is otherwise in compliance with the license. See: http://creativecommons.org/licenses/by-nc/3.0/ and http://creativecommons.org/licenses/by-nc/3.0/legalcode
+
+Email alerting service
+
+Receive free email alerts when new articles cite this article. Sign up in the box at the top right corner of the online article.
+
+ErrataAn erratum has been published regarding this article. Please see next
+page or: http://jmg.bmj.com/content/51/3/214.full.pdf
+
+Topic Collections
+
+Articles on similar topics can be found in the following collections
+
+To request permissions go to: http://group.bmj.com/group/rights-licensing/permissions To order reprints go to: http://journals.bmj.com/cgi/reprintform To subscribe to BMJ go to: http://group.bmj.com/subscribe/
+
+Downloaded from http://jmg.bmj.com/ on September 15, 2016 - Published by group.bmj.com
+Open access (169) Cancer: dermatological (42) Dermatology (238) Molecular genetics (1244)
+Notes
+To request permissions go to: http://group.bmj.com/group/rights-licensing/permissions To order reprints go to: http://journals.bmj.com/cgi/reprintform To subscribe to BMJ go to: http://group.bmj.com/subscribe/
+
+Cancer genetics
+Correction
+Puntervoll HE, Yang XR, Vetti HH et al. Melanoma prone families with CDK4 germline mutation: phenotypic profile and associations with MC1R variants. J Med Genet 2013;50:264-270. In this paper, one of the MC1R mutations (V60R) was incorrectly reported. The DNA sample has turned out to contain the previously described V60L mutation. Under the section head MC1R variants (on the third page of the article) the second sentence beginning `Eleven variants...' should say `Ten variants predicted non-synonymous amino acid changes ...'. Neither the statistical analyses nor the conclusions drawn in the paper are affected by this error.
+J Med Genet 2014;51:214. doi:10.1136/jmedgenet-2012-101455corr1 214 Price EA, et al. J Med Genet 2014;51:208­214. doi:10.1136/jmedgenet-2013-101821
+
+

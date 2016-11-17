@@ -1,0 +1,415 @@
+VOLUME 25  NUMBER 11  APRIL 10 2007
+JOURNAL OF CLINICAL ONCOLOGY
+
+ORIGINAL REPORT
+
+From the Departments of Environmental Health Sciences and Biostatistics, Johns Hopkins Bloomberg School of Public Health; and the Department of Oncology Biostatistics and Pathology, Johns Hopkins University, Baltimore, MD.
+Submitted September 11, 2006; accepted January 10, 2007.
+Supported in part by Grants No. P50CA88843, P50CA62924-05, 5P30 CA06973-39, and R01CA105090 from the National Cancer Institute; Grant No. HL99-024 from the National Institutes of Health, and the Hecht Fund.
+Authors' disclosures of potential conflicts of interest and author contributions are found at the end of this article.
+Address reprint requests to Sining Chen, PhD, Johns Hopkins Bloomberg School of Public Health, 615 N Wolfe St, W7041, Baltimore, MD 21205; e-mail: sichen@jhsph.edu.
+© 2007 by American Society of Clinical Oncology
+0732-183X/07/2511-1329/$20.00
+DOI: 10.1200/JCO.2006.09.1066
+
+Meta-Analysis of BRCA1 and BRCA2 Penetrance
+Sining Chen and Giovanni Parmigiani
+ABSTRACT
+Purpose Genetic counseling is now routinely offered to individuals at high risk of carrying a BRCA1 or BRCA2 mutation. Risk prediction provided by the counselor requires reliable estimates of the mutation penetrance. Such penetrance has been investigated by studies worldwide. The reported estimates vary. To facilitate clinical management and counseling of the at-risk population, we address this issue through a meta-analysis. Methods We conducted a literature search on PubMed and selected studies that had nonoverlapping patient data, contained genotyping information, used statistical methods that account for the ascertainment, and reported risks in a useable format. We subsequently combined the published estimates using the DerSimonian and Laird random effects modeling approach. Results Ten studies were eligible under the selection criteria. Between-study heterogeneity was observed. Study population, mutation type, design, and estimation methods did not seem to be systematic sources of heterogeneity. Meta-analytic mean cumulative cancer risks for mutation carriers at age 70 years were as follows: breast cancer risk of 57% (95% CI, 47% to 66%) for BRCA1 and 49% (95% CI, 40% to 57%) for BRCA2 mutation carriers; and ovarian cancer risk of 40% (95% CI, 35% to 46%) for BRCA1 and 18% (95% CI, 13% to 23%) for BRCA2 mutation carriers. We also report the prospective risks of developing cancer for currently asymptomatic carriers. Conclusion This article provides a set of risk estimates for BRCA1 and BRCA2 mutation carriers that can be used by counselors and clinicians who are interested in advising patients based on a comprehensive set of studies rather than one specific study.
+J Clin Oncol 25:1329-1333. © 2007 by American Society of Clinical Oncology
+
+INTRODUCTION
+Genetic counseling is now routinely offered to individuals at high risk of carrying a BRCA1 (MIM 113705) or BRCA2 (MIM 600185) mutation. At-risk individuals receive advice and make decisions about genetic testing, screening, and prevention strategies such as chemoprevention and prophylactic surgeries. To personalize management strategies according to risk level, risk assessment is first given to the counselee, often through the use of a risk prediction model.1-4 Such a model predicts the risk of carrying a deleterious mutation and the risk of developing breast or ovarian cancer based on prespecified penetrance. In this article, penetrance refers to the risk of developing breast and ovarian cancers among BRCA1 and BRCA2 mutation carriers. Thus, a reliable estimate of penetrance is crucial for counseling and decision making.
+
+Different penetrance leads to different risk assessments. This is currently problematic for risk counseling. There has been controversy over the extent of the variation and the reasons for it. To provide a basis for more evidence-based counseling and decision making, we investigate potential sources of variation and then integrate the penetrance estimates into a consensus set of penetrance.
+METHODS
+We addressed this issue via a meta-analysis. We performed a PubMed search for combinations of the following words in the title of the article: ("risk" OR "penetrance") AND ("breast cancer" OR "ovarian cancer") AND ("BRCA1" OR "BRCA2"). We then restricted attention to the studies that satisfied all of the following criteria: study was based on genotyping information; if the study was not population-based, the statistical analysis corrected for ascertainment; study reported age-specific breast and ovarian cancer
+
+Downloaded from jco.ascopubs.org on June 3, 2016. For personal use only. No other uses without permission. Copyright © 2007 American Society of Clinical Oncology. All rights reserved.
+
+1329
+
+Chen and Parmigiani
+
+risks for mutation carriers with CIs; and study patients did not overlap with patients in other included studies. Motivated by the extent of heterogeneity observed in the eligible studies, we combined the published estimates using the DerSimonian and Laird random effects modeling approach.5
+RESULTS
+Ten studies met our search criteria. Studies that provided risk-related information but failed to satisfy the criteria are listed in Appendix Table A1 (online only), with reasons for exclusion. In Table 1, we give a synopsis of the included studies, briefly describing study population, design, mutation testing information, and risk estimation methods.
+Heterogeneity was observed among the reported risks (Fig 1). Visual pairwise comparisons of CIs include many that overlap as well
+
+as some that do not. To quantify this study-to-study variation, we performed tests of heterogeneity5 for all age-specific risks, after logit transformation. With two cancer sites, two genes, and six age intervals, a total of 24 tests were performed. For ovarian cancer, nine of the 12 P values ranged from .11 to .92. The other three P values were .02, .04, and  .001; all occurred at age 30 years or younger, where the risk estimates are low and unstable. Therefore, we conclude that there is not enough evidence for heterogeneous ovarian cancer risks. Breast cancer risks are more heterogeneous. For BRCA1 carriers, all P values ranged from .001 to .045. For BRCA2 carriers, the P values were .23 and .22 at ages 20 and 30 years and between .02 and .05 at later ages.
+Next, we searched for systematic sources of heterogeneity from various aspects of study characteristics. Systematic differences could arise from the mutation type, the study population, or the design/ analysis strategy. Regarding mutation type, Hopper et al7 was the only
+
+Table 1. Characteristics of Eligible Studies
+
+Study
+
+Population
+
+No. of Ascertainment Families
+
+No. of Carriers*
+
+Genotyping Method
+
+Necessary Condition for
+
+Estimation Approach
+
+Unbiasedness
+
+Ford et al6 and Easton et al7 BCLC
+
+Four or more patients
+
+237
+
+Struewing et al8
+
+AJs in Washington, Population-based 4,873
+
+DC area
+
+volunteers
+
+Hopper et al9
+
+Australian Cancer Registry
+
+Population-based 388 early-onset patients
+
+Satagopan et al10 Satagopan et al11 Scott et al12 Antoniou et al13
+King et al14
+
+New York  Canada hospital-based AJ breast cancer patients
+
+Population-based patients
+
+782
+
+AJ ovarian cancer Population-based 436
+
+patients from
+
+patients
+
+multiple hospitals
+
+kConFab, Australian High-risk families 53 with mutations
+
+European  North America (Israel)  Australia  Hong Kong
+
+Population-based patients
+
+8,139
+
+New York hospitalbased AJ breast cancer patients
+
+Population-based 1,008 patients
+
+Marroni et al15 Chen et al16
+
+From five Italian cancer genetic clinics
+
+High-risk families 568
+
+AJ and non-AJ families from the US Cancer Genetics Network
+
+High-risk families 1,948
+
+64  36 61  59 99
+45  12  23 76  27  44 28  23 289  221
+42  25  37 in patients, 212 in relatives
+46  39
+296  130
+
+Markers flanking BRCA1/2
+ASO and allelespecific PCR
+PTT
+PCR or ASO PCR or ASO PTT or CCM or HA
+or DGGE, all with sequencing Various
+Sequencing
+PTT-SSCP alone, with sequencing or with FAMA
+Various
+
+Maximum LOD score, equivalent to retrospective likelihood
+Used empirical risk to first-degree relatives to deduce carrier risk
+(1) Repeated sampling; (2) joint likelihood of family history conditioning on the index patient and on her being a carrier
+Used patients from Struewing et al as a control group to estimate agespecific relative risk
+Used patients from Struewing et al as a control group to estimate agespecific relative risk
+Modified segregation analysis, similar to Ford et al
+Joint likelihood of family history conditioning on the index patient and on her being a carrier
+Genotyped all relatives of found patient carriers and used Kaplan-Meier analysis
+Retrospective likelihood: joint likelihood of genotyping result conditioning on family history
+Retrospective likelihood
+
+No additional familial aggregation other than BRCA1/2
+The incidence rate among the volunteers was the same as in the general AJ population
+The predefined protein truncation mutations have the same penetrance as all mutations pooled
+The control group is representative of the general population in terms of mutation prevalence
+The control group is representative of the general population in terms of mutation prevalence
+No additional familial aggregation other than BRCA1/2
+No effect from sizebiased sampling; or, risks to carrier patient cases and their relatives are not higher than carrier non­patient cases
+No effect from sizebiased sampling; or, risks to carrier patient cases and their relatives are not higher than carrier non­patient cases
+No additional familial aggregation other than BRCA1/2
+No additional familial aggregation other than BRCA1/2
+
+Abbreviations: BCLC, Breast Cancer Linkage Consortium; AJ, Ashkenazi Jew; LOD, logarithm of the odds; ASO, allele-specific oligonucleotide; PCR, polymerase chain reaction; PTT, protein truncation test; kConFab, Kathleen Cuningham Foundation Consortium for Research into Familial Breast Cancer; CCM, chemical cleavage mismatch; HA, heteroduplex analysis; DGGE, denaturing gradient gel electrophoresis; SSCP, single strand conformational polymorphism; FAMA, fluorescence-assisted mutational analysis. In the form of No. of BRCA1 carriers  No. of BRCA2 carriers, unless otherwise noted. For AJs where only the three founder mutations were tested, #185delAG  #5382insC  #6174delT.
+
+1330
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org on June 3, 2016. For personal use only. No other uses without permission. Copyright © 2007 American Society of Clinical Oncology. All rights reserved.
+
+Meta-Analysis of BRCA1 and BRCA2 Penetrance
+
+A 1.0
+
+B 1.0
+
+0.8 0.8
+
+0.6 0.6
+
+Risk Risk Risk Risk
+
+0.4 0.4
+
+0.2 0.2
+
+0x 30
+C 1.0
+
+40 50
+Age
+
+60
+
+70
+
+0 xx 30
+D 1.0
+
+40 50
+Age
+
+60
+
+70
+
+0.8 0.8
+
+0.6 0.6
+
+0.4 0.4
+
+0.2 0.2
+
+0 xxxxxxxx 30 40
+
+xx
+50
+Age
+
+xx
+60
+
+xx
+70
+
+0 xxx x x x xxx x 30 40
+
+xx x
+50
+Age
+
+xx
+60
+
+xx
+70
+
+Fig 1. (A) Breast cancer risk for BRCA1 carriers, (B) breast cancer for BRCA2 carriers, (C) ovarian cancer for BRCA1 carriers, and (D) ovarian cancer for BRCA2 carriers. The cumulative risk estimates from published studies (thin vertical bars) and the meta-analytic mean (thick vertical bars, height represents 95% CIs). Within each 10-year age interval, the published studies are arranged in the following order (left to right): Ford et al6 and Easton et al,7 Struewing et al,8 Hopper et al,9 Satagopan et al,10,11 Scott et al,12 Antoniou et al,13 King et al,14 Marroni et al,15 and Chen et al.16 An "x" represents not available.
+
+study that exclusively looked at protein-truncating mutations. All other studies included carriers of a mixed pool of mutation types. If penetrance was mutation specific, we would wish to learn about the penetrance(s) associated with each distinct type of mutation(s). However, it is not presently feasible to separate the effects of mutations from these studies. Instead, a reachable goal is to learn about the average risk among a group of carriers with a representative mix of mutations in a population. Because Hopper et al9 looked only at protein-truncating mutations, which are reported to confer lower risks than other types of mutations, we conducted our meta-analysis of this risk both including and excluding this study. The issue of study populations is similar to that of mutation type in that different populations (by ethnicity, eg, Ashkenazi Jew v not, or geographic locations) may segregate different mutations or share different risk factors. Currently, there are studies containing more than one subpopulation; however, they provide limited evidence of population-specific variation in penetrance, either by geographical region or by ethnicity.13,16,17 Regarding design and analysis, as shown in Table 1, each study used an analysis method that addressed ascertainment mechanism in its design. Although it has been conjectured that the designs and analyses used in the studies may result in biases,8,9,13,18 which could generate
+
+the observed heterogeneity, some of the empirical evidence also sug-
+gests the contrary. For example, the Breast Cancer Linkage Consor-
+tium studied families with higher logarithm of the odds scores and also
+demonstrated that the penetrance estimates are equally high when
+families with low logarithm of the odds scores are included. Meanwhile, King et al14 used case series data and arrived at similar estimates. Scott et al,12 Marroni et al,15 and Chen et al16 used a similar design and analysis as Ford et al6 and reported lower penetrance. In summary, as
+the number of studies grows, there is no clear systematic trend attrib-
+utable to the design and analysis.
+Motivated by the lack of systematic heterogeneity among current
+penetrance estimates, we summarized them with a random effects model using the DerSimonian and Laird approach.5 The resulting
+consensus estimates are weighted averages of the risks reported by all
+studies, whereas their SEs take into account both within-study SEs and
+study-to-study heterogeneity. This approach relies on an assumption
+of normality of the random effects, which is reasonable because there
+is no pronounced asymmetry and no study is an obvious outlier.
+On the basis of our analysis, we report the mean and standard
+deviation of the meta-analytic penetrance by 10-year age intervals, as shown in Figure 1. In a separate analysis, we excluded the Hopper et al9
+
+www.jco.org
+
+Downloaded from jco.ascopubs.org on June 3, 2016. For personal use only. No other uses without permission. Copyright © 2007 American Society of Clinical Oncology. All rights reserved.
+
+1331
+
+Chen and Parmigiani
+
+study. However, the difference was minimal ( 0.1 percentage point
+at all age intervals).
+For comparison, we also obtained the estimate of the penetrance assuming no interstudy variation. The resulting cumulative risks by age 70 years are as follows: breast cancer risk of 55% (95% CI, 50% to 59%) for BRCA1 and 47% (95% CI, 42% to 51%) for BRCA2 mutation carriers; and ovarian cancer risk of 39% (95% CI, 34% to 45%) for BRCA1 and 17% (95% CI, 13% to 21%) for BRCA2 mutation carriers. Compared with the random effects model, the point estimates are within 2 percentage points of each other. However, the CIs for breast cancer risks become much narrower by ignoring existing heterogeneity, whereas those for the ovarian cancer risks remain similar.
+Penetrance curves based on these results have been incorporated in the genetic counseling and risk prediction software BayesMendel,3 which includes the BRCA mutation prediction tool BRCAPRO,19 and will be incorporated in the next version of CancerGene.20 Note that penetrance by definition is the net risk in the absence of any competing risks. We also derived the future risks of developing cancer for currently asymptomatic carriers after taking into account deaths as the competing cause (death hazard was obtained from Surveillance, Epidemiology, and End Results 13 Incidence and Mortality, 2000-2002; http://seer.cancer.gov/canques/mortality.html). We report those risks in Table 2. An at-risk individual can directly read her prospective risks from this table, depending on her current age, and use them to make clinical decisions such as those regarding prophylactic surgeries.
+
+DISCUSSION
+In this article, we integrated information on available studies on the risk of breast and ovarian cancer for BRCA1 and BRCA2 mutation carriers (penetrance), with the goal of assisting clinicians and counselors in understanding and combining the information provided by the numerous studies that have investigated this question.
+A graphical summary of penetrance estimates (Fig 1) and statistical tests show that study-specific estimates are somewhat heterogeneous. However, after taking into account the estimates' uncertainties, each study has CIs overlapping with several others, and there are no pronounced outliers. This suggests that the heterogeneity among studies is a surmountable obstacle.
+A critical question in presence of heterogeneity is the identification of its sources. In this article, we systematically examined penetrance estimates across all studies, along with characteristics that are likely to be potential sources, including study population, mutation detection strategy, and design/analysis approach. A systematic comparison of groups of studies by potential heterogeneity source is informative about whether any of the characteristics can explain the variation. However, none of the potential sources considered was able to systematically explain the observed variation across studies. Because of the inherent complexity of gene characterization studies, there may be study characteristics that we have not been able to examine.
+
+Table 2. Predicted Mean Cancer Risk to Currently Unaffected BRCA1/2 Mutation Carriers
+
+Current Age
+
+30 Years
+
+Mean
+
+95% CI
+
+Risk (%) of Developing Cancer by Age
+
+40 Years
+
+50 Years
+
+60 Years
+
+Mean
+
+95% CI
+
+Mean
+
+95% CI
+
+Mean
+
+95% CI
+
+Breast cancer: BRCA1 20 years 30 years 40 years 50 years 60 years
+Breast cancer: BRCA2 20 years 30 years 40 years 50 years 60 years
+Ovarian cancer: BRCA1 20 years 30 years 40 years 50 years 60 years
+Ovarian cancer: BRCA2 20 years 30 years 40 years 50 years 60 years
+
+1.8 -- -- -- --
+1 -- -- -- --
+1 -- -- -- --
+0.19 -- -- -- --
+
+1.4 to 2.2 0.78 to 1.4 0.68 to 1.8 0.09 to 0.47
+
+12 10
+-- -- --
+7.5 6.6 -- -- --
+3.2 2.2 -- -- --
+0.7 0.52 -- -- --
+
+9.5 to 14 8.2 to 13
+5.8 to 9.8 5.1 to 8.6
+2.3 to 5.1 1.6 to 3.4
+0.37 to 1.5 0.28 to 1
+
+29 28 20 -- --
+21 20 15 -- --
+9.5 8.7 6.7 -- --
+2.6 2.4 1.9 -- --
+
+24 to 35 23 to 34 16 to 25
+17 to 26 16 to 26 12 to 19
+7.3 to 13 6.7 to 12 5.2 to 8.9
+1.5 to 4.5 1.5 to 4.2 1.2 to 3.2
+
+44 44 38 22 --
+35 35 30 18 --
+23 22 20 15 --
+7.5 7.4 7 5.2 --
+
+37 to 52 36 to 52 31 to 45 18 to 27
+28 to 42 28 to 42 24 to 36 15 to 22
+18 to 28 18 to 27 17 to 24 12 to 17
+5.1 to 11 5.1 to 11 4.8 to 10 3.7 to 7.2
+
+NOTE. The CI is provided for the mean risk, not the risk itself.
+
+70 Years
+
+Mean
+
+95% CI
+
+54 54 49 37 19
+45 45 42 32 17
+39 39 38 34 22
+16 16 16 14
+9.8
+
+46 to 63 45 to 63 41 to 58 30 to 44 15 to 24
+38 to 53 38 to 53 34 to 49 26 to 38 14 to 20
+34 to 44 34 to 43 33 to 41 29 to 36 20 to 23
+12 to 20 12 to 20 12 to 20 11 to 17 7.8 to 11
+
+1332
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org on June 3, 2016. For personal use only. No other uses without permission. Copyright © 2007 American Society of Clinical Oncology. All rights reserved.
+
+Meta-Analysis of BRCA1 and BRCA2 Penetrance
+
+However, it seems unlikely that there exists one simple answer to the nature of heterogeneity.
+In current clinical practice, two scenarios are possible. In the first, the clinician is able to identify a single study that matches the relevant patient population for his or her practice. In the second, which is perhaps more common, there is no clear criterion for deciding which study is most appropriate for a particular patient. In this case, given current knowledge, a meta-analysis that acknowledges heterogeneity is the most evidence-based and, arguably, ethically sound approach to risk counseling. This does not conflict with the concept that risk counseling should be made as individualized as possible by taking into account well-understood risk modifiers.
+
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+The authors indicated no potential conflicts of interest.
+AUTHOR CONTRIBUTIONS
+Conception and design: Sining Chen, Giovanni Parmigiani Data analysis and interpretation: Sining Chen Manuscript writing: Sining Chen, Giovanni Parmigiani Final approval of manuscript: Sining Chen, Giovanni Parmigiani
+
+REFERENCES
+1. Domchek SM, Eisen A, Calzone K, et al: Application of breast cancer risk prediction models in clinical practice. J Clin Oncol 21:593-601, 2003
+2. Claus EB, Risch N, Thompson WD: Autosomal dominant inheritance of early-onset breast cancer: Implications for risk prediction. Cancer 73:643-651, 1994
+3. Chen S, Wang W, Broman K, et al: BayesMendel: An R environment for Mendelian risk prediction. Stat Appl Genet Mol Biol 3: Article 21, 2004
+4. Antoniou AC, Pharoah PP, Smith P, et al: The BOADICEA model of genetic susceptibility to breast and ovarian cancer. Br J Cancer 91:1580-1590, 2004
+5. DerSimonian R, Laird N: Meta-analysis in clinical trials. Control Clin Trials 7:177-188, 1986
+6. Ford D, Easton DF, Stratton M, et al: Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. Am J Hum Genet 62:676-689, 1998
+7. Easton DF, Ford D, Bishop DT: Breast and ovarian cancer incidence in BRCA1-mutation carriers. Am J Hum Genet 56:265-271, 1995
+8. Struewing JP, Hartge P, Wacholder S, et al: The risk of cancer associated with specific muta-
+
+tions of BRCA1 and BRCA2 among Ashkenazi Jews. N Engl J Med 336:1401-1408, 1997
+9. Hopper J, Southey M, Dite G, et al: Population-based estimate of the average agespecific cumulative risk of breast cancer for a defined set of protein-truncating mutations in BRCA1 and BRCA2: Australian Breast Cancer Family Study. Cancer Epidemiol Biomarkers Prev 8:741-747, 1999
+10. Satagopan J, Offit K, Foulkes W, et al: The lifetime risks of breast cancer in Ashkenazi Jewish carriers of BRCA1 and BRCA2 mutations. Cancer Epidemiol Biomarkers Prev 10:467-473, 2001
+11. Satagopan J, Boyd J, Kauff N, et al: Ovarian cancer risk in Ashkenazi Jewish carriers of BRCA1 and BRCA2 mutations. Clin Cancer Res 8:37763781, 2002
+12. Scott CL, Jenkins MA, Southey MC, et al: Average age-specific cumulative risk of breast cancer according to type and site of germline mutations in BRCA1 and BRCA2 estimated from multiple-case breast cancer families attending Australian family cancer clinics. Hum Genet 112:542-551, 2003
+13. Antoniou A, Pharoah PDP, Narod S, et al: Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: A com-
+
+bined analysis of 22 studies. Am J Hum Genet 72:1117-1130, 2003
+14. King MC, Marks JH, Mandell JB: Breast and ovarian cancer risks due to inherited mutations in BRCA1 and BRCA2. Science 302:643-646, 2003
+15. Marroni F, Aretini P, D'Andrea E, et al: Penetrances of breast and ovarian cancer in a large series of families tested for BRCA1/2 mutations. Eur J Hum Genet 12:899-906, 2004
+16. Chen S, Iversen ES Jr, Friebel T, et al: Characterization of BRCA1 and BRCA2 mutations in a large US sample. J Clin Oncol 24:863-871, 2006
+17. Antoniou A, Pharoah P, Narod S, et al: Breast and ovarian cancer risks to carriers of the BRCA1 5382insC and 185delAG and BRCA2 6174delT mutations: A combined analysis of 22 population based studies. J Med Genet 42:602-603, 2005
+18. Begg CB: On the use of familial aggregation in population-based case probands for calculating penetrance. J Natl Cancer Inst 94:1221-1226, 2002
+19. Parmigiani G, Berry DA, Aguilar O: Determining carrier probabilities for breast cancer susceptibility genes BRCA1 and BRCA2. Am J Hum Genet 62:145-158, 1998
+20. Euhus DM: CancerGene website. http:// www8.utsouthwestern.edu/utsw/cda/dept47829/ files/65844.html
+
+
+Appendix The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version
+(via Adobe® Reader®).
+
+www.jco.org
+
+Downloaded from jco.ascopubs.org on June 3, 2016. For personal use only. No other uses without permission. Copyright © 2007 American Society of Clinical Oncology. All rights reserved.
+
+1333
+
+

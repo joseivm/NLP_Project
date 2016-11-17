@@ -1,0 +1,506 @@
+Gut 1997; 40: 521-525
+APC gene mutations and extraintestinal phenotype of familial adenomatous polyposis
+
+521
+
+F M Giardiello, G M Petersen, S Piantadosi, S B Gruber, E I Traboulsi, G J A Offerhaus, K Muro, A J Krush, S V Booker, M C Luce, S J Laken, K W Kinzler, B Vogelstein, S R Hamilton
+
+Department of Medicine, Johns Hopkins University School ofMedicine, Baltimore, USA F M Giardiello K Muro A J Krush S V Booker
+Department of Ophthalmology, Johns Hopkins University School ofMedicine, Baltimore, USA E I Traboulsi
+Department of Pathology, Johns Hopkins University School of Medicine, Baltimore, USA S R Hamilton
+Department of Oncology, Johns Hopkins University School of Medicine, Baltimore, USA F M Giardiello G M Petersen S Piantadosi S B Gruber S J Laken K W Kinzler B Vogelstein S R Hamilton
+Department of Epidemiology, Johns Hopkins University School of Hygiene and Public Health, Baltimore, USA G M Petersen
+Departments of Pathology and Clinical Epidemiology, Academic Medical Centre, Amsterdam, Netherlands G J A Offerhaus
+LabCorp, Triangle Park, North Carolina, USA M C Luce
+Correspondence to: Dr F M Giardiello, Blalock 935, Johns Hopkins Hospital, 600 N Wolfe Street, Baltimore, MD, 21287, USA.
+Accepted for publication 28 November 1996
+
+Abstract
+
+Familial adenomatous polyposis (FAP) is an
+
+Background-Familial adenomatous poly- autosomal dominant disease characterised by
+
+posis (FAP) is caused by germline the development of hundreds of colorectal
+
+mutation of the adenomatous polyposis adenomas in young adults.' Germline mu-
+
+coli (APC) gene on chromosome Sq.
+
+tations of the APC (adenomatous polyposis
+
+Aims-This study assessed genotype- coli) gene located on the long arm of chromo-
+
+phenotype correlations for extraintestinal some 5 in band q212` have been shown to
+
+lesions in FAP.
+
+result in the FAP phenotype. The APC gene
+
+Methods-Mutations of the APC gene has 15 exons and encodes a gene product of
+
+were compared with the occurrence of 2843 amino acids with a molecular weight of
+
+seven extraintestinal mafestations in 475 about 309 000 Da. Mutations of the APC gene
+
+FAP patients from 51 families. The fre- have been documented in more than 170
+
+quency of manifestations was adjusted for patients with FAP.2 4 Frameshift and point
+
+different ages of patients using person mutations are the most common types of
+
+years of exposure. In pedigrees without alterations and are primarily located at the 5'
+
+identified APC gene mutation, analysis of half of the coding region of the APC gene.
+
+linkage to chromosome Sq and/or assess- Most germline mutations in FAP patients
+
+ment of neoplasms for replication errors result in stop codons and lead to truncation of
+
+characteristic of mutation in mismatch the APC gene product.'7
+
+repair genes were performed.
+
+The phenotype of FAP is well known to be
+
+Results-FAP patients from the 42 famil- variable, especially with respect to various
+
+ies (82%) with identified mutations of the extraintestinal lesions.'8 In fact, Gardner syn-
+
+APC gene had more frequent expression drome, a variant of FAP with polyposis and
+
+of extraintestinal manifestations than extraintestinal manifestations, was originally
+
+affected individuals without identified described as a distinct entity.'9 Patients with
+
+mutations (risk ratio 1-2-4-0; significant FAP can develop cutaneous cysts, osteomas,
+
+difference for cutaneous cysts). The pres- pigmented ocular fundus lesions (POFLs)
+
+ence of a cutaneous cyst or extraintestinal (also known as congenital hypertrophy of the
+
+cancer significantly increased the likeli- retinal pigment epithelium or "CHRPE"),20
+
+hood ofdetection ofa mutation in the APC occult radio-opaque jaw lesions, dental
+
+gene (940/o and 92% respectively; p<005). odontomas, and desmoids.2'24 Extraintestinal
+
+In patients without identified APC gene cancers reported in association with FAP
+
+mutation, linkage to the APC gene was include tumours of the thyroid gland, adrenal
+
+found in one large family (lod=Sl, theta gland, biliary tree, pancreas, and central
+
+0.01), and replication error phenotype was nervous system.21--23 25 26 absent in all 24 neoplasms from 16 mem- The correlation of extraintestinal phenotype
+
+bers ofthese nine pedigrees. Expression of with specific APC mutations has not been evalu-
+
+pigmented ocular fundus lesions was ated in detail. Three studies have suggested that
+
+strongly associated with mutations in the occurrence of POFLs is restricted to APC
+
+codons 541-1309, but no other extra- mutation in codons 463 to 1444.27-29 Two in-
+
+intestinal manifestations were related to vestigations also reported that patients with mu-
+
+mutation position. Multiplicity of extra- tations between codons 1445 and 1578
+
+intestinal manifestations was high with frequently developed desmoid tumours28 29 and
+
+mutation in codons 1465, 1546, and 2621. mutations of the APC gene 3' to codon 1403
+
+Conclusions-Patients with the colorectal were associated with a more variable pheno-
+
+phenotype of FAP but no extraintestinal type.30 Previous studies, however, have not
+
+manifestations may have non-truncating accounted for differences in age of expression
+
+mutations of the APC gene or mutation in and cohort effects. Therefore, we evaluated
+
+a gene other than APC or mismatch repair seven specific extraintestinal manifestations in
+
+genes. The site of APC gene mutation is patients with FAP with and without identified
+
+associated with pigmented ocular fundus mutation of the APC gene and determined the
+
+lesions (codons 542-1309) and predispos- relation of specific extraintestinal lesions to the
+
+ition to multiplicity of extraintestinal mani- location of APC gene mutations with use of
+
+festations (codons 1465, 1546, and 2621). person year analysis. In pedigrees without
+
+(Gut 1997; 40: 521-525)
+
+identified APC gene mutation, analysis of
+
+Keywords: familial adenomatous polyposis, APC gene mutation, phenotype, extraintestinal lesions, Gardner
+
+linkage to chromosome 5q and/or assessment of neoplasms for replication errors characteristic of
+
+syndrome.
+
+mutation in mismatch repair genes were done.
+
+522 Giardiello, Petersen, Piantadosi, Gruber, Traboulsi, Offerhaus, et al
+
+Methods
+
+tomas by evaluation of panoramic radiographs
+
+of the maxilla and mandible, as previously
+
+SUBJECTS
+Data from subjects in the Johns Hopkins Polyposis Registry were used. This registry was initially gathered in 1973 from the six state area of the mid Atlantic region and now contains
+
+reported.20 24 The presence of desmoids and other neoplasms was substantiated by review of clinical, surgical, and pathological records. The age at examination of each subject for each
+extraintestinal manifestation was recorded for
+
+369 pedigrees with FAP. Comprehensive use in person year analysis.
+patient medical and family information was
+
+obtained and subsequently computerised. The
+
+diagnosis of FAP in family members was STATISTICAL METHODS
+
+verified by clinical and pathological criteria.' The primary statistical outcome of this investi-
+
+gation was estimating risk of extraintestinal
+
+lesions in patients with and without APC gene
+
+GENOTYPE ANALYSIS
+Among the 369 families with FAP in the Johns
+
+mutation. Differences in the prevalence of
+extraintestinal manifestations between these
+
+Hopkins Polyposis Registry, an affected member of 51 families was evaluated for mutation of the APC gene after informed
+consent was obtained. The APC gene was analysed in peripheral blood leucocytes by RNAse protection assay or by in vitro
+
+two groups were analysed by x2 test. Statistical significance was considered at p values <0.05.
+Because of differences in age and follow up or exposure time between groups, lesion fre-
+quencies were expressed as rate per person year of exposure, lambda, with 95% confidence
+
+synthesised protein assay, and by cloning and
+sequencing the entire coding region of the APC gene, as described previously.6 13 17 All affected members of a family were assumed to have the same mutation as the analysed affected
+
+limits for each estimated rate. For example, two lesions in patients examined at ages 50 and 25 would yield a rate of 2/(50+25)=2/75=
+0-0267 per person year exposure. Statistical
+significance was considered with non-over-
+
+member.
+
+lapping 95% confidence intervals.
+
+Linkage analysis was performed on one large, informative family in which no APC gene mutation had been detected by the methods described above (none of the other families was
+sufficiently large for linkage analysis). Linkage
+
+The influence of the APC gene mutation site
+on the expression of specific extraintestinal manifestations was analysed by plotting the mutated codon against prevalence of positive patients and rate of each extraintestinal
+
+was based on 12 members of this 18 member three generation family. Markers which flank the APC gene (D5S112, D5S107, D5S82, D5S346, and D5S529) were utilised.
+Ten colorectal cancers, 12 colorectal aden-
+
+manifestation expressed as events/person year, lambda. Multiple logistic regression to evaluate and adjust for potential confounding due to differing follow up and relative's distance from the proband was done.
+
+omas, a glioblastoma multiforme, and a breast The influence of APC gene mutation site on
+carcinoma from 16 FAP patients representing severity of extraintestinal phenotype was all five pedigrees with no identified mutation of analysed by plotting the mutated codon of the the APC gene (including the pedigree in which APC gene against the sum of all extraintestinal
+
+linkage analysis was performed) were evaluated
+for replication errors (RER, microsatellite instability), characteristic of mutations in mis-
+match repair genes. DNA from histopathological sections was used for analysis of simple repeated genomic sequences (micro-
+
+manifestations expressed as all events/person year, lambda, for all seven analysed extraintestinal lesions. Exploratory multiple regression analysis was done to ascertain whether
+combinations of extraintestinal manifestations were associated with mutation site.
+
+satellites).26 Three dinucleotide repeats on
+
+chromosome 18q (D18S55, D18S58, and
+
+D1 8S64) and a polyA tract in the type II Results
+
+transforming growth factor 13 receptor gene were evaluated.31 32 'Me minimum criterion for
+an error in replication for this study was that at least one of the markers tested contained a band in the tumour PCR product that was not found in the corresponding non-neoplastic PCR product.
+
+Among 51 families, germline mutations of the APC gene were found in 42 families (82%) comprising 391 people with FAP. Mutations spanned codons 99 to 2644. Each specific mutation represented a single family except mutations at codon 625 (two families), codon 1061 (three families), and codon 1309 (nine
+
+families). No mutation by RNAse protection
+
+assay was detected in nine FAP families with
+
+EXTRAINTESTINAL PHENOTYPE
+The records of FAP patients in tested kindreds were evaluated for extraintestinal lesions without knowledge of APC gene mutation status. Cutaneous cysts and osteomas were identified by physical examination. Pigmented ocular fundus lesions (congenital hypertrophy of the retinal pigment epithelium) were determined by indirect ophthalmoscopic examination, and occult radio-opaque jaw lesions and odon-
+
+84 affected individuals. In vitro synthesised protein assay performed in six of these pedi-
+grees also revealed no APC gene mutation. There was an excess of cutaneous cysts,
+osteomas, and extraintestinal cancers in the
+group with identified APC gene mutations (p values <0 001, 0-032, and 0-029, respectively). The rate of all extraintestinal lesions was higher in patients with detectable mutations (risk ratio range of 1 2-4-0, Table I). However, after
+
+Extraintestinal phenotype ofAPC gene mutation
+
+523
+
+TABLE I Comparison of rates ofextraintestinal lesions among FAP patients with and
+without identified mutations of the APC gene
+
+Extraintestinal Lesion Cysts Osteomas POFLs Jaw lesions Odontomas Desmoids Extraintestinal Ca
+
+Group
+APC+ APC-
+APC+ APC-
+APC+ APC-
+APC+ APC-
+APC+ APC-
+APC+ APC-
+APC+ APC-
+
+No of patients
+132 35
+114 31
+54 8
+64 17
+64 17
+330 81
+326 81
+
+Events!
+person year
+86/3383 7/994
+43/3135 4/833
+40/1729 4/280
+48/1829 11/495
+11/1829 1/495
+49/11424 3/2761
+34/10948 4/2742
+
+Lambda (95% CI)
+0-025 (0-021-0031) 0-007 (0-003-0-014)
+0-014 (0-010-0-018) 0-004 (0-002-0-013)
+0-023 (0-017-0-031) 0-014(0-005-0-040)
+0-026 (0-020-0-034) 0-022(0-12-0-040)
+0-006(0-003-0-011) 0-002(0-0003-0014)
+0-004(0-003-0-006) 0-001 (0-0003-0-003)
+0-003 (0-002-0-004) 0-0015 (0-0005-0-004)
+
+Risk ratio
+3-6*
+28 16 12 3-0
+20
+
+*Non-overlapping confidence intervals. POFLs=pigmented ocular fundus lesions; Ca=cancer.
+
+accounting for person years of exposure, only the rate of cutaneous cysts distinguished patients with APC gene mutations when confidence limits between the two groups were considered. Adjustment for relative's distance from the proband in multiple logistic regression models found no evidence of significant confounding.
+Among the 475 patients studied, the presence of an extraintestinal manifestation
+increased the likelihood that the person would have an identified APC gene mutation. If an FAP patient was affected by extraintestinal cancer or cutaneous cysts, the conditional probability of detection of an APC gene mutation in the family was 94% and 92%, respectively, compared with 82% of all families in the study (p<005). The presence of
+osteomas (9 1%), POFLs (9 1O%), and desmoids (89%) also indicated a trend towards increased likelihood, but occult radio-opaque jaw lesions (8 1%) and odontomas (79%) did not.
+Linkage analysis was peformed on one large, informative family in which no germline APC gene mutation was identified. Two point lod scores for markers on chromosome 5q21 flanking the APC gene are shown in Table II. Close linkage to this region was detected by the high lod score (51) for D5S346 for recombination fraction values (theta) less than 5%.
+Replication errors characteristic of tumours with mutations in mismatch repair genes were absent in the DNA from neoplasms of all 16 patients representing the five pedigrees in which no germline mutation of the APC gene
+
+mutation could be identified, including the family evaluated by linkage analysis.
+An association between site of APC gene mutation and extraintestinal manifestation (evaluated by both frequency of positivity and person year analysis) was found only for POFLs (Fig 1). Eye lesions were noted with low frequency of positivity for patients with mutations that occurred 5' to codon 541. All patients with mutations in codons 542-1309 were positive for POFLs and then the frequency of eye lesions decreased 3' to codon 1309. Variance of extraintestinal manifestations within pedigrees did not correlate with the relation to the proband.
+The influence of site of APC gene mutation on multiplicity of extraintestinal manifestations is shown in Figure 2. The rate of events/person year (lambda) appeared relatively consistent throughout the gene except for a high rate in patients with mutations in codons 1465, 1546, and 2621 and a dearth of multiplicity of manifestations with mutation in codon 436. Multiple regression analysis of these relations did not reveal significant associations between mutation site and particular combinations of extraintestinal manifestations.
+Discussion This study identified a low frequency of extraintestinal manifestations in patients from FAP families not found to have APC gene mutation. A potential reason for this phenomenon is that some of these individuals have APC mutations which are not detected by current methods and which, at the same time, do not predispose to extraintestinal manifestations. This includes APC mutations in splice sites or intronic regions, mutations that affect the protein product qualitatively and not quantitatively, and mutations that produce subtle modifications in the protein. Alternatively, mutation of another gene could be the
+
+TABLE II Linkage analysis ofchromosome 5q in a family
+without APC gene mutation
+
+Marker
+D5S112 D5S107 D5S82 D5S346 D5S529
+
+Lod scores
+recombination fraction (theta)
+
+000 0 001 0-05 0.1 0-2
+
+0-569 0-543 0 457 - -0895 -1-105 - 0-242 0-646
+5-196 5-106 4-739 - -0577 0-607
+
+0-379 0-184
+0-585
+4-261 0-932
+
+0-272 0-302 0-263 3-235 0-936
+
+0-3
+0-168 0-210 0-060 2-104 0-632
+
+Codons with mutation Figure 1: Association between rate (events/person year, lambda) ofpigmented ocularfundus lesions (POFLs) and site ofcodon mutation of the APC gene. Thefinding of POFLs is strongly associated with mutations in codons 541 to 1309, but this extraintestinal manifestation is uncommon with mutations in more 5' and 3' sites of the gene.
+
+524 Giardiello, Petersen, Piantadosi, Gruber, Traboulsi, Offerhaus, et al
+
+0.20 the gene. However, desmoids did occur in
+
+patients with mutations throughout the gene,
+
+and 95% confidence limits for lambda over-
+
+c>n0.
+
+lapped with other areas. Only one of 11 patients with mutation 3' to codon 1578 had
+
+o0 CL
+
+desmoid tumors.
+
+a) Nugent et al reported that both desmoid
+
++a 0.10
+c a)
+.1 .1
+E 0.05
+co
+I-J
+
+disease and extraintesinal cancer were more
+common in patients with mutation at codon 1309 compared with individuals where knowledge of specific mutation was not available and to people with mutation at seven other sites.35 In our analysis, all extraintestinal manifestations were more frequently found in patients with mutation of the APC gene compared with
+
+those without mutation identified. Also, rates
+
+of desmoids and extraintestinal cancers in
+
+patients with mutations eleswhere in the APC
+
+gene were higher than for 1309 mutation.
+
+We found no clear association between site
+
+Codons with mutation
+
+of APC gene mutation and extraintestinal
+manifestations other than POFLs. However,
+
+Figure 2: Association extraintestinal lesions
+
+between and site
+
+rate (events/person year,
+ofcodon mutation of the
+
+lambda) of multiplicity APC gene. Mutation in
+
+of codons
+
+1465, 1546, and but the rate is low
+
+2621 is associated with a high rate in patients with mutation at codon
+
+of multiplicity 436.
+
+of
+
+extraintestinal
+
+lesions
+
+analysis of the multiplicity of extraintestinal lesions revealed the highest rate with mutations at codons 1465, 1546, and 2621. This is
+
+consistent with another report.30
+
+The molecular basis for differences in FAP
+
+explanation in these families. Justification for this latter possibility is provided by the circumstances of Turcot syndrome: molecular investigation revealed that some patients with the colorectal phenotype ofpolyposis and brain
+tumour were explained by mutations in one of the DNA mismatch repair genes known to
+
+extraintestinal phenotype resulting from specific sites of APC mutation is not known. Some investigators speculate that tumour suppressor activity of the APC gene protein varies with regard to target tissue and length of transcript.36 Alternatively, stability and biological activity ofAPC protein could differ with
+
+cause hereditary non-polyposis colorectal cancer, not by APC gene mutation.26 In our
+
+mutation site. On the other hand, although phenotypic differences seem to be associated
+
+study, replication errors were not found in the DNA of tumours from at least one member of all families without identified APC gene
+mutation. This finding argues against mutation in DNA mismatch repair genes as being responsible for the phenotype of these pedigrees. Additional studies of individuals who appear to have FAP but no identifiable APC gene mutations will, therefore, be of interest.
+Some investigators have suggested
+
+with site of mutation, heterogeneity exists
+within and among families with the same APC
+gene mutation.'8 This heterogeneity probably
+occurs through environmental influences and modifying gene(s), as suggested by the MIN mouse model of FAP which has germline mutation in the mouse homologue ofAPC.3740 Understanding the function of the APC gene in various tissues may eventually explain the
+clinical observations.
+
+genotype-phenotype associations with extraintestinal manifestations27-30 while others have not.'5 16 33 34 Olschwang et al reported that POFLs in FAP patients did not occur with
+mutations in codons 136-302 but did occur with mutations in codons 463-1387.27 Caspari et al and Davies et al extended these observations by noting an absence of POFLs in patients with mutations in codons 1445-1578.2829 Our evaluation, both by frequency and person year analysis, supports the findings that mutations in the 5' and 3' ends of the APC gene do not predispose to POFLs. However, this association was not absolute, since we did find patients with POFLs who had mutations at codons 215 and 1546.
+Caspari et al28 also described a high frequency of desmoid tumours (33/36; 92%) in individuals with mutations of codons 1445-1578. Davies et al made a similar observation.29 Our study identified 12 patients with mutations in this region and five (42%) did have desmoids. In addition, desmoids/
+person year appeared highest in this region of
+
+Our findings concerning the relation of APC
+gene mutations and extraintestinal manifes-
+tations have implications for patient management. Gene testing is supplanting serial endoscopic procedures for identifying at risk
+individuals who have inherited a mutated APC
+gene and will develop FAP.4 The available
+method detects APC gene mutation in ap-
+proximately 80% of FAP pedigrees7 (82% in this study). Our findings show that the
+presence of extraintestinal cancer or cutaneous
+cysts in an FAP pedigree significantly increases the pretest probability that an APC gene
+mutation will be identified in affected
+members. Moreover, the presence of POFLs can guide genetic analysis to reduce costs. The expense of APC gene testing, primarily because of the cost of laboratory reagents, can be a barrier to use by patient and physician. In this regard, finding POFLs in the pedigree allows direction of initial molecular analysis to specific segments of the APC gene (codons 463-1387), thereby reducing initial cost which
+would result if the entire gene was evaluated.
+
+Extraintestinal phenotype ofAPC gene mutation
+
+525
+
+The results of genetic tests can help guide
+surveillance. For example, families with mutations in codons 1465-1546 deserve clinical
+attention directed at their proclivity for
+multiple extraintestinal manifestations. It is clear, however, that extraintestinal lesions can occur with a wide spectrum of APC gene mutations. Lastly, because nearly one fifth of FAP families have no mutation identified with current methods, studies directed at finding mechanisms of germline APC inactivation and
+at other potential genes remain important.
+Supported in part by The Clayton Fund, Cancer Research Foundation of America and NIH grants CA 53801, CA 63721 and CA 62924.
+We thank Ms Linda M Welch for secretarial support and Patti A Longo for laboratory assistance.
+1 Bussey HJR. Familial polyposis coli. Family studies, histopathology, differential diagnosis, and results of treatment. Baltimore, Maryland: Johns Hopkins University Press, 1975.
+2 Nishisho I, Nakamura Y, Miyoshi Y, et al. Mutations of chromosome 5q21 gene in FAP and colorectal cancer patients. Science 1991; 253: 665-9.
+3 Kinzler KW, Nilbert MC, Su LK, et al. Identification of FAP locus genes from chromosome 5q21. Science 1991; 253: 661-5.
+4 Groden J, Thliveris A, Samowitz W, et al. Identification and characterization of the familial adenomatous polyposis coli gene. Cell 1991; 66: 589-600.
+5 Joslyn G, Carlson M, Thliveris A, et al. Identification of deletion mutations and three new genes at the familial polyposis locus. Cell 1991; 66: 600-13.
+6 Miyoshi Y, Ando H, Nagase H, et al. Germ-line mutations of the APC gene in 53 familial adenomatous polyposis patients. Proc Nad Acad Sci 1992; 89: 4452-6.
+7 Nagase H, Miyoshi Y, Horii A, et al. Correlation between the location of germ-line mutations in the APC gene and the number of colorectal polyps in familial adenomatous polyposis patients. Cancer Res 1992; 52: 4055-7.
+8 Stella A, Lonoce A, Resta N, et al. Familial adenomatous polyposis - identification of a new frameshift mutation of the APC gene in an Italian family. Biochem Biophys Res Commun 1992; 184: 1357-63.
+9 Cottrell S, Bicknell D, Kaklamanis L, Bodmer WF. Molecular analysis of APC mutations in familial adenomatous polyposis and sporadic colon carcinomas. Lancet 1992; 340: 629-9.
+10 Fodde R, Vanderluijt R, Wijnen J, et al. Eight novel inactivating germ line mutations at the APC gene identified by denaturing gradient gel electrophoresis. Genomics 1992;
+13: 1162-8. 11 OlschwangS, Laurent-PuigP, GrodenJ, White R,Thomas G.
+Germ-line mutations in the first 14 exons of the adenomatous polyposis coli (APC) gene. AmJHum Genet 1993; 52: 273-9. 12 Paul P, Letteboer T, Coppes M. SSCP detection of APC gene mutations in familial adenomatous polyposis. Am Jf Hum Genet 1992; 51: A67. 13 Nagase H, Miyoshi Y, Horii A, et al. Germ-line mutations of the APC gene in patients with familial adenomatous polyposis: screening of 50 unrelated patients. Am Jf Hum Genet 1992; 51: A39. 14 Wallis Y, MacDonald F, Rindl PM, et al. Germline APC mutation familial adenomatous polyposis in an Indian family. Lancet 1992; 340: 1035. 15 Varesco L, Gismondi V, James R, et al. Identification of APC gene mutations in Italian adenomatous polyposis coli patients by PCR-SSCP analysis. Am Jf Hum Genet 1993; 52: 280-5. 16 Groden J, Gelbert L, Thliveris A, Nelson L, Robertson M, Joslyn G, et al. Mutational analysis of patients with adenomatous polyposis: identical inactivating mutations in unrelated individuals. Am J Hum Genet 1993; 52: 263-72. 17 Powell SM, Petersen GM, Krush AJ, Booker SV, Jen J, Giardiello FM, et al. Molecular diagnosis of familial
+adenomatous polyposis. N Engl Jf Med 1993; 329:
+1982-7.
+18 Giardiello FM, Krush AJ, Petersen GM, Booker SV, Kerr M, Tong LL, et al. Phenotypic variability of familial
+
+adenomatous polyposis in 11 unrelated families with
+identical APC gene mutation. Gastroenterology 1994; 106:
+1542-7. 19 Gardner EJ. Follow-up study of a family group exhibiting
+dominant inheritance for a syndrome including intestinal polyps, osteomas, fibromas and epidermoid cysts. Am J Hum Genet 1962; 14: 376-90. 20 Traboulsi El, Krush AJ, Gardner EJ, Booker SV, Offerhaus GJA, Yardley JH, et al. Pigmented ocular fundus lesions: Prevalence and significance in Gardner syndrome. NEnglJMed 1987; 316: 661-7. 21 Boland CR, Itzkowitz SH, Kim YS. Colonic polyps and the
+gastrointestinal polyposis syndromes. In: Sleisenger MH, Fordtran JS, eds. Gastrointestinal disease: pathophysiology,
+diagnosis, and management. 4th edn. Philadelphia: WB Saunders, 1989: 1500-7. 22 Burt RW. Polyposis syndromes. In: Yamada T, ed. Textbook
+of gastroenterology. Philadelphia: JB Lippincott, 1991:
+1674-95. 23 Haggitt RC, Reid BJ. Hereditary gastrointestinal polyposis
+syndromes. Am _J Surg Pathol 1986; 10: 871-87.
+24 Giardiello FM, Offerhaus GJA, Traboulsi EI, et al. The value of combined phenotypic markers in identifying
+inheritance of familial adenomatous polyposis. Gut 1991;
+32: 1170-4.
+25 Offerhaus GJA, Giardiello FM, Krush AJ, Booker SV,
+Tersmette AC, Kelley CN, et al. The risk of upper
+gastrointestinal cancer in familial adenomatous polyposis. Gastroenterology 1992; 102: 1980-2. 26 Hamilton SR, Liu B, Parsons RD, Papadopolous NC, Jen J, Powell S, et al. The molecular basis of Turcot syndrome. NEnglJMed 1995; 332: 839-47. 27 Olschwang S, Tiret A, Laurent-Puig P, Muleris M, Parc R, Thomas G. Restriction of ocular fundus lesions to a specific subgroup of APC mutations in adenomatous polyposis coli patients. Cell 1993; 75: 959-68. 28 Caspari R, Olschwang S, Friedi W, Mandl M, Boisson C, Boker T, et al. Familial adenomatous polyposis: desmoid tumors and lack of ophthalmic lesions (CHRPE)
+associated with APC mutations beyond codon 1444. Mol Genet 1995; 4: 337-40. 29 Davies DR, Armstrong JG, Thakker N, Homer K, Guy SP, Clancy R, et al. Severe Gardner syndrome in families with mutations restricted to a specific region of the APC gene. Am J Hum Genet 1995; 57: 1151-8.
+30 Dobbie Z, Spycher M, Mary J, Haner M, Guldenschuh I, Hurliman R, et al. Correlation between the development
+of extracolonic manifestations in FAP patients and mutations beyond codon 1403 in the APC gene. J Med
+Genet 1996; 33: 274-80. 31 Jen J, Kim H, Piantadosi S, Liu Z, Levitt R, Sistonen P, et al.
+Allelic loss of chromosome 18q and prognosis in colorectal cancer. NEnglJ7Med 1994; 331: 213-21. 32 Markowitz S, Wang J, Myeroff L, Parsons R, Sun L, Lutterbaugh J, et al. Inactivation of the type II TGF-beta receptor in colorectal cancer cells with microsatellite
+instability. Science 1995; 268: 1336-8. 33 Nagase H, Miyoshi Y, Horii A, Aoki T, Petersen GM,
+Vogelstein B, et al. Screening for germ-line mutations in
+familial adenomatous polyposis patients: 61 new patients and summary of 150 unrelated patients. Hum Mut 1992;
+1: 467-73.
+34 Paul P, Letteboer T, Gelbert L, Groden J, White R, Coppes MJ. Identical APC exon 15 mutations result in
+a variable phenotype in familial adenomatous polyposis.
+Hum Mol Genet 1993; 2: 925-31. 35 Nugent KP, Phillips RKS, Hodgson SV, Cottrell S, Smith-
+Ravin J, Pack K, et al. Phenotypic expression in familial adenomatous polyposis: partial prediction by mutation
+analysis. Gut 1994; 35: 1622-3.
+36 Horii A, Nakatsuru S, Ichii S, Nagase H, Nakamura Y. Multiple forms of the APC gene transcript and their tissue specific expression. Hum Mol Genet 1993; 2: 283-7.
+37 Laird PW, Jackson-Grusby L, Fazeli A, Dickinson SL, Jung WE, Li E, et al. Suppression of intestinal neoplasia by DNA hypomethylation. Cell 1995; 81: 197-205.
+38 Dietrich WF, Lander ES, Smith JS, Moser AR, Gould KA,
+Luongo C, et al. Genetic identification of MOM-1, a major modifier locus affecting MIN-induced intestinal
+neoplasia in mouse. Cell 1993; 75: 631-9. 39 KennedyAR, Beazer-BarclayY, KinzlerKW, Newberne PM.
+Suppression of carcinogenesis in the intestines of Min mice by the soybean-drived Bowman-Birk inhibitor.
+Cancer Res 1996; 56: 679-82.
+40 Jacoby RF, Marshall DJ, Newton MA, Novakovic K, Tutsch K, Cole CE, et al. Chemoprevention of spontaneous intestinal adenomas in the APC-Min mouse by
+the nonsteroidal anti-inflammatory drug piroxicam.
+Cancer Res 1996; 56: 710-4. 41 Petersen GM. Knowledge of the adenomatous polyposis
+coli gene and its clinical application. Ann Med 1994; 26: 205-8.
+
+

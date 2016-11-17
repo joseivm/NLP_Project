@@ -1,0 +1,253 @@
+Available online http://breast-cancer-research.com/content/10/3/208
+
+Review
+Are the so-called low penetrance breast cancer genes, ATM, BRIP1, PALB2 and CHEK2, high risk for women with strong family histories?
+Graham B Byrnes1, Melissa C Southey2 and John L Hopper3
+
+1Epidemiology Methods and Support Group, International Agency for Research on Cancer, 150 cours Albert Thomas, Lyon, France 2Department of Pathology, The University of Melbourne, Victoria 3010, Australia 3Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, The University of Melbourne, Swanston Street, Carlton, Victoria 3053, Australia
+
+Corresponding author: John Hopper, j.hopper@unimelb.edu.au
+
+Published: 5 June 2008
+
+Breast Cancer Research 2008, 10:208 (doi:10.1186/bcr2009)
+
+This article is online at http://breast-cancer-research.com/content/10/3/208
+
+© 2008 BioMed Central Ltd
+
+Abstract
+A woman typically presents for genetic counselling because she has a strong family history and is interested in knowing the probability she will develop disease in the future; that is, her absolute risk. Relative risk for a given factor refers to risk compared with either population average risk (sense a), or risk when not having the factor, with all other factors held constant (sense b). Not understanding that these are three distinct concepts can result in failure to correctly appreciate the consequences of studies on clinical genetic testing. Several studies found that the frequencies of mutations in ATM, BRIP1, PALB2 and CHEK2 were many times greater for cases with a strong family history than for controls. To account for the selected case sampling (ascertainment), a statistical model that assumes that the effect of any measured variant multiplies the effect of unmeasured variants was applied. This multiplicative polygenic model in effect estimated the relative risk in the sense b, not sense a, and found it was in the range of 1.7 to 2.4. The authors concluded that the variants are "low penetrance". They failed to note that their model fits predicted that, for some women, absolute risk may be as high as for BRCA2 mutation carriers. This is because the relative risk multiplies polygenic risk, and the latter is predicted by family history. Therefore, mutation testing of these genes for women with a strong family history, especially if it is of early onset, may be as clinically relevant as it is for BRCA1 and BRCA2.
+Introduction
+When an unaffected woman presents for breast-cancer related genetic counselling it is typically because her family history of the disease is unusually strong. Her primary interest is in knowing the probability that she will develop cancer in the future. That is, she is interested in her absolute risk of disease.
+Epidemiologists use the term `relative risk', as a measure of `increased' risk, when they are referring to either: a woman's risk divided by the risk to an average woman in the population (sense a); or the risk ratio or odds ratio associated with a
+
+particular genetic or environmental risk factor, which is how much having that factor multiplies a woman's risk compared to if they did not have that factor, with all other factors held constant (sense b).
+Not understanding that these are three distinct concepts and measures of risk (absolute risk, relative risk in the sense a, relative risk on the sense b) can result in a failure to correctly appreciate or communicate the consequences of studies on genetic testing in the clinical setting. We shall illustrate this by reference to recently published papers on mutations in ATM, BRIP1 and PALB2, and a similar paper on a founder mutation in CHEK2.
+Studies of familial cases and controls
+At least five papers [1-5] have recently reported on studies of women with breast cancer who have a strong cancer family history not known to be due to germline mutations in BRCA1 or BRCA2 (familial cases; see group A in Figure 1), screening them variously for mutations in ATM, BRIP1 or PALB2, or for the 1100delC mutation in CHEK2. Comparison groups of unaffected women from the general population were similarly screened (controls; see group B+D in Figure 1).
+Each study found that the frequency of mutations for the familial cases was substantially higher than for the controls (Table 1). For ATM, BRIP1 and PALB2, this relative frequency (RF) was higher by about seven-fold or more (though with wide confidence intervals). For the three UK studies [1-3], in total, 31 mutations were found from 2,578 tests of familial cases (1.2%) compared with 4 mutations from 3,686 tests of controls (0.1%), an overall RF of 11-fold. A Finnish study found the c.1592delT PALB2 mutation in 3 of 113 familial cases (2.7%) and 6 of 2,501 controls (0.2%), and again RF
+
+FRR = familial relative risk; MAF = minor allele frequency; RF = relative frequency; RR = relative risk.
+
+Page 1 of 7 (page number not for citation purposes)
+
+Breast Cancer Research Vol 10 No 3 Byrnes et al.
+
+Figure 1
+
+cancer. The question of clinical significance is: what are the `risks' for women found to have these rare variants?
+
+It is not a simple matter to directly interpret the data above. The observed ratios of carriage between cases from multiplecase families and population controls do not estimate relative risks in sense a or b since one does not know the rate of carriage in group C in Figure 1 and the usual Bayes' theorem calculation does not apply.
+
+The proportion of mutation carriers has been measured for women in group A (familial cases) and for women in group B+D (controls). The proportion of mutation carriers is not known for cases without a family history (group C) and, therefore, is not known for women in group A+C. The authors have tried to estimate, in effect, the relative proportion of carriers between groups A+C and B+D, so as to estimate the relative risk associated with having a mutation for the average woman. To do so they have invoked a multiplicative polygenic model. Whatever model is used, however, the absolute risk prediction for women with a strong family history will be about the same. Although the absolute risk prediction for women without a strong family history may well differ depending on the assumptions of the fitted model, in practice this may not matter because only women with a strong family history are likely to be tested for these mutations.
+
+was 11-fold [4]. The CHEK2 1100delC mutation was found in 55 of 1,071 familial cases (5.1%) compared with 18 of 1,620 controls (1.1%) [5]. For each study the authors concluded, we believe correctly, that mutations in the relevant genes were associated with an increased risk of breast
+
+Table 1
+
+Summary of findings of studies of familial cases and controls
+
+Gene
+
+Familial
+
+Controls
+
+RF
+
+ATM [1]
+
+12/443 (2.7%)
+
+2/521 (0.8%)
+
+7.1 (1.6-31)
+
+To try to overcome this problem, in each instance the authors fitted a multiplicative polygenic model [6] (see below). This assumes that there are many genes involved with breast cancer risk and they together determine a woman's polygenic absolute risk. The effect of any single measured genetic variant is then assumed to multiply each woman's polygenic risk by a constant factor, relative risk (RR). RR, therefore, represents the effect of the measured variant on risk averaged over the population, and would be the relative risk estimate one would obtain from the ratio of variant frequency for unselected cases to that for unselected controls.
+Table 1 shows that applying this model led to estimates of RR between 2.0 and 2.4 for the genes ATM, BRIP1, and PALB2 [1-3], and 1.7 for the 1100delC CHEK2 mutation [5]. This relative risk, however, references a particular woman's absolute risk to her individual, unknown polygenic risk, or (approximately) the average carrier's risk to the population average risk. It does not mean that all carriers are at RR times the population average risk. This important point does not appear to have been appreciated.
+The authors of these four papers [1-3,5] have failed to recognise that their analyses predict that mutations in these genes, when detected in women with a strong family history,
+
+p 0.003
+
+RR
+2.4 (1.5-3.8)
+
+p 0.0003
+
+BRIP1 [2]
+
+9/1,212 (0.7%)
+
+2/2,081 (0.1%)
+
+7.7 (1.7-36)
+
+0.002
+
+2.0 (1.2-3.2)
+
+0.01
+
+PALB2 [3]
+
+10/923 (1.1%)
+
+0/1,084 (0.0%)
+
+-
+
+0.0004
+
+2.3 (1.4-3.9)
+
+0.0025
+
+PALB2 [4]
+
+3/113 (2.7%)
+
+6/2,501 (0.2%)
+
+11.1 (2.8-44)
+
+0.005
+
+NA
+
+CHEK2 [5]
+
+55/1,071 (5.1%)
+
+18/1,620 (1.1%)
+
+4.6 (2.7-8)
+
+0.00000
+
+1.7 (1.3-2.2)
+
+0.0001
+
+RF represents the relative frequency of mutations in familial cases versus controls. RR represents the estimated effect of carrying a mutation on the average woman from fitting a multiplicative polygenic model. Confidence intervals for RF and RR are shown in parentheses.
+
+Page 2 of 7 (page number not for citation purposes)
+
+Figure 2
+
+Available online http://breast-cancer-research.com/content/10/3/208 Figure 3
+
+Under the multiplicative polygenic model and the logistic model for lifetime risk of breast cancer, risk is assumed to be due to the multiplicative actions of many `polygenes' that are assumed to have a normal distribution across the population. The relative frequency is indicated by the solid blue line scaled to the left-hand vertical axis. The lifetime risk (cumulative risk to age 75 years) for women in the general population (assumed to be, on average, 11%) increases logistically, as indicated by the solid black line scaled to the right-hand vertical axis. For women with a strong family history, their polygene distribution is shifted to the right by a little more than one standard deviation such that they have, on average, a three-fold increased risk. Their relative frequency is indicated by the dotted red line scaled to the left-hand vertical axis.
+
+Under the multiplicative polygenic model and the logistic model for lifetime risk of breast cancer (Figure 2), for women in the general population the relative frequency as a function of lifetime risk is indicated by the solid blue line. For women with a strong family history, their relative frequency as a function of lifetime risk is indicated by the dashed red line.
+Figure 4
+
+are likely to be associated with a high absolute risk of breast cancer. That is, these gene mutations are associated with a high `penetrance' when detected in this context. This interpretation is clinically important, and would justify testing for these mutations in multiple-case breast cancer families such as those seen by cancer family genetics services.
+
+The reason for carriers with a strong family history being at high absolute risk is that a woman's family history provides an estimate of her polygenic risk. As a group, women with a strong family history will be distributed towards the upper end of the polygenic risk scale (Figures 2 and 3). Multiplying their polygenic risk, which is two if not more times population risk, by the factor RR will leave this group of women at considerable absolute risk. This may even be as high as for women with a BRCA2 mutation (Figure 4, and see below).
+The need for modelling to compensate for ascertainment
+If a risk factor for breast cancer clusters in families, then the breast cancer cases it produces will also tend to cluster in families. It follows that genetic risk factors, which are familial by definition, will be more frequent in women from families with multiple breast cancers through two effects: their association with breast cancer per se; and their association with familial breast cancer in particular.
+
+Under the multiplicative polygenic model and the logistic model for lifetime risk of breast cancer (Figure 2), the distribution of lifetime risk is shown as a function of the cumulative proportion of the population. For the great majority of women in the population (indicated by the solid blue line), their lifetime risk is low (for example, 70% have a lifetime risk below the population average of 11%) and less than 10% have a lifetime risk in excess of 40%. For randomly selected women with a genetic variant associated with, on average, a 2-fold increased risk (indicated by the dashed blue line), the median lifetime risk is about the average population risk and about one-quarter have a lifetime risk in excess of 40%. For women with a strong family history equivalent to a 3-fold increased risk (indicated by the solid red line), nearly 80% are above average population risk and nearly half have a lifetime risk in excess of 40%. For those with a strong family history who also have a genetic variant associated with, on average, a 2-fold increased risk (indicated by the dashed red line), 90% are above population average risk and over 70% have a lifetime risk in excess of 40%.
+Consider a rare mutation whose presence doubles the risk of breast cancer relative to the general population. It will be
+
+Page 3 of 7 (page number not for citation purposes)
+
+Breast Cancer Research Vol 10 No 3 Byrnes et al.
+
+approximately four times more common in women who are affected and have an affected first-degree relative: the ratio is squared [7]. When a study design defines family history by a stronger definition, the relationship between RR and relative frequency of the variants (RF) is likely to be more than a power of two. This is consistent with the pairs of estimates of RF and RR shown for mutations in ATM, BRIP1 and CHEK2 in Table 1.
+Polygenic risk for breast cancer
+There is a second complicating effect of family history. On a population basis, the observed risk to first-degree relatives of women with breast cancer is approximately double that of women without a family history; that is, the familial relative risk (FRR) is approximately 2, even after adjusting for standard environmental risk factors [8,9]. Explaining this via the 50% of genetic material such relatives share requires that the shared familial risk factors must have large risk ratios [10-12]. For example, our calculations (Additional file 1) suggest that for a variant with a minor allele frequency (MAF) of 1% (and therefore present in 2% of women) the per-allele odds ratio would need to be 250 to achieve an FRR of 2, which would dwarf the increased risk associated with any single variant so far detected [13-15]. Variants that are rare (as are all known `high-risk' mutations) would require even higher odds ratios. Therefore, it is widely believed that there is a `polygenic' contribution to breast cancer risk, made up of many common variants of modest risk, which multiply together to produce an individual's total relative risk for the carrier [16]. After allowing for known high risk variants (for which we assumed a total MAF of 0.25% and a typical odds ratio of 20) a multiplicative model would require 250 common variants, each with an odds ratio near 1.24 per allele and a MAF of 30%, to generate an FRR of 2.
+Recent genome-wide scans have identified common genetic markers associated with breast cancer risk [14,15]. The effects of individual markers are small, so that even under the multiplicative polygenic model the combined effect of those markers identified to date explains less than 4% of the polygenic variance [14]. Regardless of the particular mixture of variant numbers and their effect sizes, the overall polygenic risk would need to increase by approximately 4.8-fold per standard deviation in order to explain the observed FRR. Under this model, 43% of all cases would be in the highest 10%, and 63% in the top 20%, of polygenic risk. In comparison, only 2.5% of cases would be expected to carry high-risk variants. Of critical interest is that recalculating the FRR after removing the high-risk variants suggests that the FRR will be only slightly reduced, to 1.93. For comparison, in early onset breast cancer where the FRR is greater, the FRR is found empirically to reduce by only 20% after exclusion of known BRCA1 and BRCA2 mutation carriers [17].
+Since most of the FRR remains after the effects of known `high-risk' breast cancer genes have been discounted, the polygenic risk estimated from family history is largely
+
+independent of the results of testing for specific genetic risk factors. It is reasonable to describe the relationship between the various risk measures as: Absolute risk = (Measured genetic relative risk) × (Polygenic risk estimated from family history). Here absolute risk can be thought of as the cumulative risk at a given age, and the relative risk is in the sense a, and the polygenic risk is centred on the average population risk for that age.
+`Low risk' genes in familial cases: clinically relevant alleles?
+Traditional epidemiology emphasises that the greatest benefits to the population come from interventions that decrease risk factors across the bulk of the population, rather than targeting a small number of individuals at extreme risk. This paradigm depends on the availability of a low-cost intervention with no or minimal negative effects, such as efforts at reducing the prevalence of smoking. However, there are no such interventions addressing breast cancer risk in the population.
+With respect to women at high or increased risk due to known or likely genetic factors, possible options include chemoprevention and prophylactic surgery (oophorectomy and/or mastectomy). Even enhanced surveillance has costs in respect of false positives and the expense of newer radiological techniques appropriate for younger women. There is also potential for enhanced radiation effects of mammography on cancer risks, especially for women with a strong cancer family history who as a group may be genetically more vulnerable to radiation. Detection of the known genetic factors themselves has considerable cost with present technology and the rarity of high-risk mutations in the known susceptibility genes make general population screening impractical.
+Consequently, screening for genetic risk factors, at least for the near future, will continue to typically be available only to those women identified as having a priori high risk due to their personal and/or family history, except perhaps in subpopulations in which founder mutations are frequent. However, these women will be at higher than average risk regardless of the test findings, due to the approximate independence of FRR and known genetic risk factors (see the previous section).
+Moreover, if the multiplicative model applies, genes of modest relative risk will, in fact, dramatically increase the absolute risk in the context of a family history, due to multiplication by the polygenic risk implied by their family history. For example, a relative risk of 2.5 multiplied by the FRR for a single affected first-degree relative would become a 5-fold increase in risk. For a woman with a more severe family history, such as one including early onset disease, the absolute risk for a woman who carries a risk-variant of ATM, BRIP1, PALB2 and CHEK2 may have an absolute lifetime risk approaching 50% or more (Figure 4; in this regard, it is interesting to note the
+
+Page 4 of 7 (page number not for citation purposes)
+
+Available online http://breast-cancer-research.com/content/10/3/208
+
+high lifetime risk estimated from an international populationbased study of a specific mutation (c.7271T>G) in ATM [18] and the recent report of two mutations in PALB2 tracking with disease in multiple-case breast cancer families ascertained in Montreal [19]). This extent of increased risk is comparable to the average increased risk of about 10-fold, and lifetime risk of around 40%, for women who carry a mutation in BRCA2 [20]. Hence, there are immediate implications for genetic counselling, and possible genetic testing for the ATM, PALB2, BRIP1 and CHEK2 genes, of women from families with a strong history of breast cancer found not to carry a germline mutation in BRCA1 or BRCA2.
+If the model is wrong...
+We and others [16] have assumed a multiplicative model and the logistic model for lifetime risk of breast cancer (Additional file 1) to combine the effects of many risk-increasing genetic variants (Figures 2 and 3). This appeared to be the best fit to some available population-based data [21], although the power to distinguish models is limited, equivalent to testing for interaction effects. Many other models are possible, but the most obvious alternative is one where the effects add rather than multiply. The consequences of fitting an additive model would be very different for most women (the relationship between groups C and D in Figure 1); the estimated risk for women without a family history will be greater than if a multiplicative model is assumed; when this larger risk difference is added to the risk implied by family history, the absolute risk for the observed women (who have a strong family history) should be approximately the same as under the multiplicative model.
+That is, for women with a strong family history the conclusion will be little different no matter what model is fitted. This is because, while the effect sizes estimated from the quoted studies of ATM, BRIP1, PALB2 and CHEK2 depend on the model, any fitted model will generally give reasonably good predictions for the observed subset of data on which it was trained. In other words, predictions for women in group A of Figure 1 will be only weakly dependent on the model, since they are observed directly. The implications of model choice are seen mainly in groups C and D, but these women are less likely to present for genetic counselling.
+Discussion
+The studies we have discussed all investigated the role of genetic variants for modifying the risk of breast cancer in women with affected relatives. This selection of women for molecular screening was primarily due to practical issues, but it also coincides with the context in which the information will be most immediately used: in counselling women who are seeking to establish their personal risk of breast cancer given the history of cancer in their relatives.
+The authors of these studies have estimated the multiplicative risk increase associated with having a mutation when all other
+
+factors are held constant. They have shown, but not recognised, that while the implied absolute risk for the average carrier in the population is not substantial, it may be very high for carriers detected through testing women with a strong family history. The same argument can be applied in other settings, such as for carriers of `high-risk' mutations in genes like BRCA1 and BRCA2 [21], and for risks associated with one or more of the common `low-risk' variants identified by recent genome wide association studies [14,15]. Even though they had not studied unselected cases, and in particular had not studied cases without a strong family history (group C in Figure 1), the authors have focused on implications for average women. That is, they have tried to conduct a comparison of mutation frequencies between group A+C and group B+D even though the mutation frequency in group A+C was unknown. To do so it is necessary to invoke models of familial risks to account for the fact that only familial cases had been studied (that is, to make an adjustment for ascertainment; see above). They chose to consider a multiplicative polygenic model [6,16,22]. No matter what genetic models had been fitted, however, the predictions for women with a strong family history will be generally the same provided the models gave reasonable fits. Note that these studies do not have the necessary data to test how good the fit was for women without a strong family history (groups C and D of Figure 1), because they were not included in the cases who underwent testing.
+It is a concern that by highlighting in the abstracts of their papers their model-dependent risk ratio estimates of 2.4 for ATM mutations, 2.0 for BRIP1 mutations, 2.3 for PALB2 mutations, and 1.7 for the CHEK2 mutation, even having in the title of two of these papers the expression `lowpenetrance' [2,5], genetic counsellors may be misled and disregard the significance of ATM, BRIP1, PALB2 and CHEK2 mutations in the setting where they might be found and have considerable consequence. Since counsellors and clinicians typically see only women with a strong family history, the increased risk to an average woman is irrelevant unless interpreted as above in terms of her family history as a surrogate for her polygenic risk status.
+These studies have used data from familial cases to estimate the increase in risks for women in general, most of whom do not have a strong family history of breast cancer. The danger is that the results will be interpreted in the epidemiological sense a above as meaning that carriers are at about twice population risk, whereas they should be interpreted in the sense b as multiplying the polygenic risk implied by family history. The clinical importance of this important work to women who seek genetic counselling is being undersold.
+There is some limited information on the prevalence of these mutations in women with breast cancer who do not have a strong family history (group C in Figure 1), or who are unselected for family history (group A+C), but none for
+
+Page 5 of 7 (page number not for citation purposes)
+
+Breast Cancer Research Vol 10 No 3 Byrnes et al.
+
+unaffected women with a strong family history (group B). A test of the multiplicative model would be to see if the mutation frequency was increased in group A relative to group B by the same degree (as predicted by the fitted polygenic model). One large international case-control study of the 1100delC CHEK2 mutation [23] found the overall prevalence to be 1.9% for cases and 0.7% for controls. Note that the estimated odds ratio, 2.3 (95% confidence interval 1.7 to 3.2), is consistent with the indirect estimate of 1.7 (95% confidence interval 1.3 to 2.2) from the multiplicative polygenic modelling of familial cases and controls, though this of itself does not necessarily justify the model assumptions.
+For PALB2, the Finnish founder mutation was found in 18 of 1,918 (0.9%) cases unselected for family history [4], in between the 3 of 113 (2.7%) familial cases and 6 of 2,501 (0.2%) controls. Similarly, a French-Canadian founder mutation was found in 2 of 356 (0.6%) unselected, but early onset, cases compared with 1 of 50 (2%) familial cases and 0 of 6,442 (0%) newborns [24]. The numbers of PALB2 founder mutation carriers above are too small to make precise or even meaningful estimates of risk from standard casecontrol comparisons, although modified segregation analyses of data from the families of case-carriers can be used to estimate risk for carrier families found from testing unselected cases [25], as has recently been demonstrated for these founder mutations [26]. This also raises the possibility that risks could be mutation specific, and highlights that the published studies are estimating the average risk over all mutations identified in the context of the sampled subjects, so these penetrance estimates may depend on the population, family history, age at onset and other considerations.
+Mutations that are rare in the population, but not uncommon in the familial setting, may be very important for determining some people's risk. The pursuit of common breast cancer risk variants in candidate genes is proving to be frustrating (for example, [13]). The recent genome wide scans of tens of thousands of cases and controls suggest the strengths of association for common risk variants may be very small [13,15]. The pursuit of uncommon variants using case-control designs is problematic due to the need for genotyping even larger numbers of controls, due to their rarity in the population. Nevertheless, the effects of the uncommon but causal variants may be much greater.
+We suggest, therefore, that there is a role for the continuing investigation of uncommon, or rare variants of as yet unquantified effect (sometimes referred to as `unclassified variants'), and perhaps reconsidering candidate genes previously studied for common variants, including those from this new perspective [27], and of linkage analyses of large multiple-case families now shown not to be segregating known high-risk mutations. That is, future understanding of breast cancer susceptibility genes of consequence for
+
+individuals may continue to come from studies of related individuals, given that even very large studies of unrelated cases and controls currently appear to be able to identify only those genetic factors that are associated with little impact on individual risk [14,15].
+In the quest to discover genetic variants that influence disease risk, it is important to remember what risk estimates mean for the individual carrier. Association studies, where cases and controls are screened for genetic variants, usually present findings as multiplicative relative risks; that is, the risk for carriers divided by that for persons similar in every way except carriage of the variant. There are complications if cases are selected due to having a family history because these familial cases may be enriched for carriers due to the variant's effect on risk for both the individual and their relatives. For an individual with high pre-test risk, variants that are `low risk' for the average person may become important. Pre-test risk is highly variable, best predicted by family history and typically elevated in those seeking genetic counselling. We considered women who present for counselling at breast cancer family clinics, typically because of their family history, in the context of recent studies of ATM, BRIP1, PALB2 and CHEK2. We argue that detection of mutations in these genes may be of considerable clinical consequence in terms of absolute breast cancer risk (that is, penetrance) for women with a strong family history.
+Conclusion
+Rather than being universally `low-penetrance', mutations in genes like ATM, BRIP1, PALB2 and CHEK2 that are known to interact with BRCA1 and BRCA2 may be associated with a `high risk' for a subset of women. This subset is likely to be enriched for those with a personal or strong family history of breast cancer, especially if it is of early onset. Therefore, mutation testing of these genes for such women may be as clinically relevant as is mutation testing for BRCA1 and BRCA2.
+Additional files
+The following Additional file(s) for this article are available online: Additional file 1 is a Word document containing calculations, based on a logistic model for lifetime risk of breast cancer, of the FRR resulting from a given number of alleles of specified per-allele odds-ratio and allele frequency. It also contains calculations of the number of SNPs required to produce a typical FRR.
+Competing interests
+The authors declare that they have no competing interests.
+Authors' contributions
+All authors contributed to the framing of the question, interpretation of the published data, and conceptualisation of the conclusions.
+
+Page 6 of 7 (page number not for citation purposes)
+
+Available online http://breast-cancer-research.com/content/10/3/208
+
+Acknowledgements
+This work was supported by National Health and Medical Research Council (Australia) (251533 to GBB, 299955 to JLH) and the Victorian Breast Cancer Research Consortium (VBCRC). Part of the work reported in this article was carried out while GBB and JLH were guests working at the WHO International Agency for Research on Cancer, Lyon, France. JLH is an Australia Fellow of the NHMRC and a Group Leader of the VBCRC.
+References
+1. Renwick A, Thompson D, Seal S, Kelly P, Chagtai T, Ahmed M, North B, Jayatilake H, Barfoot R, Spanova K, McGuffog L, Evans DG, Eccles D; Breast Cancer Susceptibility Collaboration (UK), Easton DF, Stratton MR, Rahman N: ATM mutations that cause ataxia-telangiectasia are breast cancer susceptibility alleles. Nat Genet 2006, 38:873-875.
+2. Seal S, Thompson D, Renwick A, Elliott A, Kelly P, Barfoot R, Chagtai T, Jayatilake H, Ahmed M, Spanova K, North B, McGuffog L, Evans DG, Eccles D; Breast Cancer Susceptibility Collaboration (UK), Easton DF, Stratton MR, Rahman N: Truncating mutations in the Fanconi anemia J gene BRIP1 are low-penetrance breast cancer susceptibility alleles. Nat Genet 2006, 38:12391241.
+3. Rahman N, Seal S, Thompson D, Kelly P, Renwick A, Elliott A, Reid S, Spanova K, Barfoot R, Chagtai T, Jayatilake H, McGuffog L, Hanks S, Evans DG, Eccles D; Breast Cancer Susceptibility Collaboration (UK), Easton DF, Stratton MR: PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat Genet 2006, 39:165-167.
+4. Erkko H, Xia B, Nikkilä J, Schleutker J, Syrjäkoski K, Mannermaa A, Kallioniemi A, Pylkäs K, Karppinen SM, Rapakko K, Miron A, Sheng Q, Li G, Mattila H, Bell DW, Haber DA, Grip M, Reiman M, Jukkola-Vuorinen A, Mustonen A, Kere J, Aaltonen LA, Kosma VM, Kataja V, Soini Y, Drapkin RI, Livingston DM, Winqvist R: A recurrent mutation in PALB2 in Finnish cancer families. Nature 2006, 446:316-319.
+5. The CHEK2-Breast Cancer Consortium: Low-penetrance susceptibility to breast cancer due to CHEK2(*)1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat Genet 2002, 31: 55-59.
+6. Antoniou AC, Pharoah PD, McMullan G, Day NE, Ponder BA, Easton D: Evidence for further breast cancer susceptibility genes in addition to BRCA1 and BRCA2 in a population-based study. Genet Epidemiol 2001, 21:1-18.
+7. Antoniou AC, Easton DF: Polygenic inheritance of breast cancer: Implications for design of association studies. Genet Epidemiol 2003, 25:190-202.
+8. Collaborative Group on Hormonal Factors in Breast Cancer: Familial breast cancer: collaborative reanalysis of individual data from 52 epidemiological studies including 58,209 women with breast cancer and 101,986 women without the disease. Lancet 2001, 358:1389-1399.
+9. Pharoah PD, Day NE, Duffy S, Easton DF, Ponder BA: Family history and the risk of breast cancer: a systematic review and meta-analysis. Int J Cancer 1997, 71:800-809.
+10. Peto J: Genetic predisposition to cancer. In Banbury Report 4: Cancer Incidence in Defined Populations. Edited by Cairns J, Lyon JL, Skolnick M. Cold Spring Harbor: Cold Spring Harbor Laboratory; 1980:203-213.
+11. Hopper JL, Carlin JB: Familial aggregation of a disease consequent upon correlation between relatives in a risk factor measured on a continuous scale. Am J Epidemiol 1992, 136: 1138-1147.
+12. Aalen OO: Modelling the influence of risk factors on familial aggregation of disease. Biometrics 1991, 47:933-945.
+13. Cox A, Dunning AM, Garcia-Closas M, Balasubramanian S, Reed MW, Pooley KA, Scollen S, Baynes C, Ponder BA, Chanock S, Lissowska J, Brinton L, Peplonska B, Southey MC, Hopper JL, McCredie MR, Giles GG, Fletcher O, Johnson N, dos Santos Silva I, Gibson L, Bojesen SE, Nordestgaard BG, Axelsson CK, Torres D, Hamann U, Justenhoven C, Brauch H, Chang-Claude J, Kropp S, et al.: A common coding variant in CASP8 is associated with breast cancer risk. Nat Genet 2007, 39:352-358.
+14. Easton DF, Pooley KA, Dunning AM, Pharoah PD, Thompson D, Ballinger DG, Struewing JP, Morrison J, Field H, Luben R, Wareham N, Ahmed S, Healey CS, Bowman R; SEARCH collab-
+
+orators, Meyer KB, Haiman CA, Kolonel LK, Henderson BE, Le Marchand L, Brennan P, Sangrajrang S, Gaborieau V, Odefrey F, Shen CY, Wu PE, Wang HC, Eccles D, Evans DG, Peto J, et al.: Genome-wide assocation study identifies novel breast cancer
+susceptibility loci. Nature 2007, 447:1087-1093. 15. Hunter DJ, Kraft P, Jacobs KB, Cox DG, Yeager M, Hankinson SE,
+Wacholder S, Wang Z, Welch R, Hutchinson A, Wang J, Yu K, Chatterjee N, Orr N, Willett WC, Colditz GA, Ziegler RG, Berg CD, Buys SS, McCarty CA, Feigelson HS, Calle EE, Thun MJ, Hayes RB, Tucker M, Gerhard DS, Fraumeni JF Jr, Hoover RN, Thomas G, Chanock SJ: A genome-wide association study identifies alleles in FGFR2 associated with risk of sporadic
+postmenopausal breast cancer. Nat Genet 2007, 39:870-874. 16. Pharoah PD, Antoniou A, Bobrow M, Zimmern RL, Easton DF,
+Ponder BA: Polygenic susceptibility to breast cancer and implications for prevention. Nat Genet 2002, 31:33-36. 17. Dite GS, Jenkins MA, Southey MC, Hocking JS, Giles GG, McCredie MR, Venter DJ, Hopper JL: Familial risks, early-onset breast cancer, and BRCA1 and BRCA2 germline mutations. J Natl Cancer Inst 2003, 95:448-457. 18. Bernstein JL, Teraoka S, Southey MC, Jenkins MA, Andrulis IL, Knight JA, John EM, Lapinski R, Wolitzer AL, Whittemore AS, West D, Seminara D, Olson ER, Spurdle AB, Chenevix-Trench G, Giles GG, Hopper JL, Concannon P: Population-based estimates of breast cancer risks associated with ATM gene vari-
+ants c.7271T>G and c.1066-6T>G (IVS10-6T>G) from the
+Breast Cancer Family Registry. Hum Mutat 2006, 27:11221128. 19. Tischkowitz M, Xia B, Sabbaghian N, Reis-Filho JS, Hamel N, Li G, van Beers EH, Li L, Khalil T, Quenneville LA, Omeroglu A, Poll A, Lepage P, Wong N, Nederlof PM, Ashworth A, Tonin PN, Narod SA, Livingston DM, Foulkes WD: Analysis of PALB2/FANCNassociated breast cancer families. Proc Natl Acad Sci USA 2007, 104:6788-6793. 20. Antoniou A, Pharoah PD, Narod S, Risch HA, Eyfjord JE, Hopper JL, Loman N, Olsson H, Johannsson O, Borg A, Pasini B, Radice P, Manoukian S, Eccles DM, Tang N, Olah E, Anton-Culver H, Warner E, Lubinski J, Gronwald J, Gorski B, Tulinius H, Thorlacius S, Eerola H, Nevanlinna H, Syrjäkoski K, Kallioniemi OP, Thompson D, Evans C, Peto J, et al.: Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations
+detected in case series unselected for family history: a com-
+bined analysis of 22 studies. Am J Hum Genet 2003, 72:11171130. 21. Smith A, Moran A, Boyd MC, Bulman M, Shenton A, Smith L, Iddenden R, Woodward ER, Lalloo F, Maher ER, Evans DG: Phenocopies in BRCA1 and BRCA2 families: evidence for modi-
+fier genes and implications for screening. J Med Genet 2007, 44:10-15. 22. Antoniou AC, Pharoah PD, McMullan G, Day NE, Stratton MR, Peto J, Ponder BJ, Easton DF: A comprehensive model for familial breast cancer incorporating BRCA1, BRCA2 and other
+genes. Br J Cancer 2002, 86:76-83. 23. CHEK2 Breast Cancer Case-Control Consortium:
+CHEK2*1100delC and susceptibility to breast cancer: a col-
+laborative analysis involving 10,860 breast cancer cases and
+9,065 controls from 10 studies. Am J Hum Genet 2004, 74: 1175-1182. 24. Foulkes WD, Ghadirian P, Akbari MR, Hamel N, Giroux S, Sabbaghian N, Darnel A, Royer R, Poll A, Fafard E, Robidoux A, Martin G, Bismar TA, Tischkowitz M, Rousseau F, Narod SA: Identification of a novel truncating PALB2 mutation and analysis of its
+contribution to early-onset breast cancer in French-Canadian
+women. Br Cancer Res 2007, 9:R83. 25. Hopper JL, Bishop, DT, Easton DF: Population-based family
+studies in genetic epidemiology. Lancet 2005, 366:1397-1406. 26. Erkko H, Dowty JG, Nikkila J, Syrjäkoski K, Mannermaa A, Pylkäs
+K, Southey MC, Holli K, Kallioniemi A, Jukkola-Vuorinen A, Kataja V, Kosma V-M, Livingston DM, Winqvist R, Hopper JL: Penetrance analysis of the PALB2 c.1592delT founder mutation.
+Clin Cancer Res 2008, in press. 27. Hopper JL, Hayes VM, Spurdle AB, Chenevix-Trench G, Jenkins
+MA, Milne RL, Dite GS, Tesoriero AA, McCredie MR, Giles GG, Southey MC: A protein-truncating mutation in CYP17A1 in three sisters with early-onset breast cancer. Hum Mutat 2005, 26:298-302.
+
+Page 7 of 7 (page number not for citation purposes)
+
+

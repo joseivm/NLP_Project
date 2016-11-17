@@ -1,0 +1,477 @@
+Clinical Outcomes and Correlates of TP53 Mutations and Cancer
+Ana I. Robles and Curtis C. Harris
+Laboratory of Human Carcinogenesis, Center for Cancer Research, National Cancer Institute, National Institutes of Health, Bethesda, Maryland 20892
+Correspondence: harrisc@mail.nih.gov
+
+The initial observation that p53 accumulation might serve as a surrogate biomarker for TP53 mutation has been the cornerstone for vast translational efforts aimed at validating its clinical use for the diagnosis, prognosis, and treatment of cancer. Early on, it was realized that accurate evaluation of p53 status and function could not be achieved through protein-expression analysis only. As our understanding of the p53 pathway has evolved and more sophisticated methods for assessment of p53 functional integrity have become available, the clinical and molecular epidemiological implications of p53 abnormalities in cancers are being revealed. They include diagnostic testing for germline p53 mutations, and the assessment of selected p53 mutations as biomarkers of carcinogen exposure and cancer risk and prognosis. Here, we describe the strengths and limitations of the most frequently used techniques for determination of p53 status in tumors, as well as the most remarkable latest findings relating to its clinical and epidemiological value.
+
+GERMLINE TP53 MUTATIONS AND INHERITED CANCER PREDISPOSITION
+Germline mutations in the TP53 tumor suppressor gene are associated with the Li-Fraumeni multicancer predisposition syndrome (LFS; OMIM #151623). This autosomal dominant syndrome is characterized by a high incidence of early-onset cancers comprising mostly breast cancer, sarcoma, adrenocortical carcinoma (ACC), leukemia, and brain tumors. The similarity between cancer types developed in patients with clinical features of LFS, and those with the highest incidence of somatic mutations in TP53 were instrumental to the discovery of inherited TP53 mutations as the basis for
+
+the syndrome (Malkin et al. 1990). Diagnostic testing for germline TP53 mutations in families with suspected LFS through direct DNA sequencing of exons 2­ 11 has now been validated in a large clinical cohort (Gonzalez et al. 2009). From that study, it has been proposed that childhood ACC and the presence of a family member with one of the "core" cancers, sarcoma, brain tumor, breast cancer, or ACC, are the most likely indicators of a germline TP53 mutation that should prompt a request for diagnostic testing by molecular screening. A detailed analysis of TP53 mutation types in a large cohort of French LFS families has established that missense mutations are the most frequent and are
+
+Editors: Arnold J. Levine and David Lane Additional Perspectives on The p53 Family available at www.cshperspectives.org
+Copyright # 2010 Cold Spring Harbor Laboratory Press; all rights reserved; doi: 10.1101/cshperspect.a001016 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+1
+
+A.I. Robles and C.C. Harris
+
+associated with earlier onset of cancer as compared with loss-of-function mutations (Bougeard et al. 2008). Summary results from this study are depicted in Figure 1A. Although such missense mutations were determined to be transcriptionally inactive based on yeast functional assays, their association with earlier onset of cancers argues in favor of an additional gainof-function oncogenic effect (Sigal and Rotter 2000; Brosh and Rotter 2009). In terms of the codon distribution along the p53 molecule, germline mutations follow a similar pattern to somatic mutations in sporadic cancers, with hotspot mutations being associated mainly with the DNA binding domain (Fig. 1B). One notable exception is the high frequency of codon 337 mutations in LFS families. Single base-pair substitutions at Arg337 have been described in 72 families and 233 individuals with LFS (http:// www-p53.iarc.fr), but are exceedingly rare in sporadic cancers (0.1% single base-pair substitutions). The R337H mutation, predominantly found in LFS families from southern Brazil, is a risk allele for pediatric ACC and is a unique example of tissue-specific predisposing mutation (Figueiredo et al. 2006). In all, much continues to be learned that is allowing better recognition and management of this complex disease.
+COMMON GENETIC VARIANTS OF TP53 AS BIOMARKERS OF CANCER RISK AND OUTCOME
+A common polymorphism at codon 72 of TP53 (rs1042522) results in either proline (p53pro) or arginine ( p53arg). This nonconservative aminoacid change is found in the proline-rich domain and affects certain p53 biochemical properties. p53pro is a strong transcriptional activator, but a poorer inducer of apoptosis than p53arg (Thomas et al. 1999). In addition, p53arg is more susceptible to degradation by the human papillomavirus (HPV) E6 protein (Storey et al. 1998), leading to a controversial hypothesis that the arginine variant could be associated with risk and/or progression of cervical cancer (Ojeda et al. 2003), a finding disputed by additional meta-analysis (Koushik et al. 2004) and a recent large population study
+
+(Koshiol et al. 2009). Several epidemiological studies have reported an association between the presence of a pro/pro genotype and the risk for lung adenocarcinoma development (Weston et al. 1992; Fan et al. 2000; Liu et al. 2001), which has been confirmed by metaanalysis (Matakidou et al. 2003). In a caseonly study of lung cancer, p53pro was also associated with an increased frequency of somatic mutations in TP53 (Mechanic et al. 2005). Homozygous Pro/Pro is more prevalent in African Americans, and is associated in this population, either by itself or within its haplotype block, with worse survival for lung cancer (Mechanic et al. 2007) and colorectal cancer (Katkoori et al. 2009).
+SOMATIC TP53 MUTATIONS
+TP53 is frequently mutated in human cancer and the mutational spectrum can be a molecular link to etiological causes of cancer (Hollstein et al. 1991; Levine et al. 1991; Petitjean et al. 2007). The cancer-associated mutations in TP53 are primarily missense substitutions nonrandomly distributed along the molecule, particularly the central DNA-binding-domain (http://www-p53.iarc.fr). These single aminoacid changes affect p53's transcriptional activity to various degrees. Not all mutations have equal deleterious effect on p53 function and some missense mutants may even acquire new functions (Weisz et al. 2007; Brosh and Rotter 2009). The TP53 mutational spectrum is characterized by the presence of mutations at six discrete hotspot codons within the DNA binding domain of the molecule: Codons 175, 245, 248, 249, 273, and 282 (Fig. 1C). The TP53 mutational pattern has proved to be a clinically relevant "molecular sensor" of genotoxic exposure to environmental carcinogens and endogenous mutagens (Hussain and Harris 1999).
+METHODOLOGIES FOR ASSESSMENT OF P53 STATUS IN CLINICAL AND EPIDEMIOLOGICAL STUDIES
+The need for standardized methods for assessment of p53 mutation status in tumors has
+
+2 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+A
+B
+25
+
+Clinical Implications of TP53 Mutations in Cancer
+
+Mean age of first tumor onset 35
+Missense 30 Other
+25
+20
+
+15
+
+10
+
+5
+0 Index cases (n = 84)
+
+Carriers (n = 116)
+
+Codon distribution/375 germline mutations
+
+20
+
+% single base substitution
+
+15
+
+10
+
+5
+
+% single base substitution
+
+0 0 20 40 60 80 100 120 140 160 180 200 220 240 260 280 300 320 340 360 380
+Codon number
+
+C
+9
+
+Codon distribution/20819 somatic mutations
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0 0 20 40 60 80 100 120 140 160 180 200 220 240 260 280 300 320 340 360 380
+Codon number
+
+Figure 1. The TP53 mutational spectrum in familial and sporadic cancer. (A) Germline TP53 missense mutations result in earlier onset of cancers in LFS ( p ¼ .017 for index cases, and p ¼ .004 for carriers). Mutation spectrum of (B) germline and (C) somatic TP53 mutations. Reproduced from the IARC p53 database (http://www-p53.iarc.fr) using the provided bioinformatics tools (Petitjean et al. 2007). (A, Adapted, with permission, from Bougeard et al. 2008 [# BMJ Group].)
+
+Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+3
+
+A.I. Robles and C.C. Harris
+
+been recognized and guidelines were established as a starting point to develop p53 as a biomarker (Soussi and Beroud 2001).
+Gene Sequencing
+DNA sequencing is the gold standard for identification of TP53 mutations. Gel-based mutation screening assays, such SSCP or PCR-RFLP, are routinely used before sequencing. In this technique, TP53 is amplified and resulting PCR fragments are subjected to enzymatic restriction using an enzyme for which a site is predicted to be created or destroyed by the presence of mutation. The resulting gel profile is used as an indicator for the presence of mutation, and sequencing of that area is undertaken using direct sequencing methods. For small samples, whole-genome amplification can precede exonspecific PCR and sequencing (Lim et al. 2009). Most TP53 mutations identified in tumors are circumscribed to the area encompassing exons 5­ 8 and therefore many translational studies have limited their mutational analysis to this portion of the gene. This has caused bias in the TP53 mutation literature because mutations outside exons 5­ 8 may have been missed. The problem is likely to be solved with more sophisticated targeted high-throughput DNA sequencing strategies that may in the future be used to gather nucleotide-level information about TP53 and other critical genes in clinical samples (Ding et al. 2008). Still, the presence of mutation does not unequivocally indicate that p53 is fully inactive, nor does the absence of it indicate that p53 is functionally proficient. Thus, assessing functional activity of p53 mutants is essential for an accurate indication of clinical relevance.
+Immunohistochemistry (IHC)
+The overexpression and accumulation of p53 protein has been widely used as surrogate for detection of p53 abnormalities in tumors. The principle behind this assay is that mutant p53 is unable to transcriptionally activate MDM2, thus resulting in loss of negative-feedback loop
+
+and accumulation of p53 protein. Surprisingly, p53 protein is not stabilized in nontumor tissues of patients with LFS or mice bearing a TP53 mutation through homologous recombination (gene knockin). So, overexpression of p53 is context-dependent and intimately associated with tumor development. In addition, positive IHC will not recognize null mutations, which comprise nonsense mutations, deletions, insertions, and splicing junction mutations, and account for up to 30% of somatic TP53 mutations. So, as could be expected, IHC is not a good readout for TP53 mutation when the frequency of null mutations is high (Alsner et al. 2008). Importantly, it has been shown that null mutations can be more predictive of outcome than positive IHC (Hashimoto et al. 1999), further casting doubt on the role of IHC in the clinical setting. Moreover, the interpretation of positive p53 immunostaining in early lesions should be done with caution, because it may be a sign of wild-type protein accumulation in response to an inflammatory microenvironment (Hofseth et al. 2003), or even senescence (Collado et al. 2005). The obvious advantage of IHC is that it is a straightforward technique that can be applied on tissue preserved in a similar manner as required for routine histopathological assessment and scored in a routine pathology laboratory. It does not require a priori knowledge or assumptions about the specific mutational event and can be easily incorporated to existing panels of biomarkers for specific subtypes of cancer. The evaluation of MDM2 as well as p53 staining in tumors provides readout for transcriptional activity as well as of functional inactivation in the absence of mutation. This strategy was reported to accurately identify the TP53 status of tumors (Nenutil et al. 2005). When used as part of a panel of biomarkers, p53 IHC may provide important clinical information. For example, p53 IHC in combination with hormone receptor, ERBB2, BCL2 staining, and MYC status can yield a robust global profile that predicts risk of relapse for breast cancer patients undergoing adjuvant therapy and can help inform clinical decisions of the appropriate level of postoperative adjuvant therapy (Bremer et al. 2009).
+
+4 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+Clinical Implications of TP53 Mutations in Cancer
+
+TP53 Mutational Load Assay
+This methodology relies on the existence of specific enzyme restriction sites in the wildtype TP53 sequence that are destroyed by the mutation that is being measured. Upon elimination of the TP53 wild-type sequence through enzymatic digestion, the mutated sequence is enriched by PCR, cloned, and hybridized to oligonucleotides complementary to wild type or mutant sequences in the presence of standards and internal controls to determine mutation frequency. Initially developed to detect codon 249 mutations in cell culture (Aguilar et al. 1993), this method has been adapted for detection and measurement of codon 249 mutations in nontumor tissue of Wilson's disease patients (Hussain et al. 2000b), codon 247 and 248 mutations in noncancerous colon tissue of ulcerative colitis patients (Hussain et al. 2000a), and codon 157 G-to-T transversions in nontumorous lungs of lung cancer patients (Hussain et al. 2001).
+Mass Spectrometry
+Short oligonucleotide mass analysis (SOMA) has been developed for analysis of codon 249 TP53 mutations that are associated with dietary exposure to Aflatoxin B1 (Qian et al. 2002). The high sensitivity of this technique allows detection of specific TP53 mutations present in plasma DNA at low frequency. It is also quantitative, providing a means to correlate cumulative exposures with cancer risk. It requires prior knowledge of the mutation being detected so that recognition patterns of mass spectrometry and standards can be developed.
+Microarray Analysis
+Several versions of spotted oligonucleotide arrays have been developed to increase the sensitivity and specificity of mutation detection, as well as maximize gene coverage (Ahrendt et al. 1999; Fouquet et al. 2004). Among them, the p53 GeneChip (Ahrendt et al. 1999) is designed to detect single base-pair substitutions and single base-pair deletions in the TP53 coding sequence (Grollman et al. 2007). After one round
+
+amplification of TP53 exons 2­11 followed by DNAse I-mediated fragmentation, labeled, fragmented DNA amplicons are hybridized to oligonucleotide probes representing one wildtype, three possible base-pair mutations, and one single base-pair deletion for each nucleotide on the full TP53 coding sequence. The re-engineered Amplichip p53 (Olivier et al. 2009) is now under commercial development.
+Functional Analysis
+Although more than 80% of mutations found in tumors map to the DNA binding domain of the protein and are likely to affect its transcriptional activity, not all TP53 mutations have similarly deleterious effects. Only a fraction of TP53 mutations found in tumors are completely devoid of transcriptional activity and others are partially able to transactivate canonical p53 targets. Besides staining for downstream target genes (Nenutil et al. 2005), the effect of tumor-derived mutants on transcriptional activity can also be determined in yeast (Kato et al. 2003). For example, TP53 mutations were classified as active or inactive based on yeast functional assay and their prognostic and predictive values were evaluated in a large cohort of colorectal carcinoma cases (Iacopetta et al. 2006). Inactive p53 mutants were associated with poor survival only in latestage tumors. The functional class of mutant p53 did not predict benefit from adjuvant chemotherapy.
+Mutations in TP53 as Biomarkers of Exposure to Environmental Carcinogens
+Aflatoxin B1 and 249ser Mutation
+One of the first pieces of evidence that the mutational pattern of TP53 could be used as a molecular fingerprint associating exposure with cancer etiology arose from the finding that hepatocellular carcinomas (HCC) from areas with aflatoxin-contaminated crops bear a specific nucleotide substitution at the third base of codon 249 (AGG to AGT) (Bressac et al. 1991; Hsu et al. 1991). Consistently, the same
+
+Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+5
+
+A.I. Robles and C.C. Harris
+
+mutation was found after exposure of human hepatocytes to aflatoxin B1 in vitro (Aguilar et al. 1993). A comprehensive review of the TP53 mutation spectra in hepatocellular carcinomas from different regions of the world showed that in areas with low aflatoxin exposure, the codon 249 mutation was less prevalent (Montesano et al. 1997). Codon 249 mutation proved to be not only a surrogate end-point marker for aflatoxin exposure, but a dynamic dose-response sensor that reflects the degree of aflatoxin exposure (Stern et al. 2001). This mutation is a biomarker for early cancer detection, because it can be measured in plasma before HCC diagnosis (Jackson et al. 2003), as well as a biomarker of exposure and risk (Kirk et al. 2005), that can synergistically predict the risk for HCC together with hepatitis B virus antigen in serum (Table 1) (Kirk et al. 2005; Hussain et al. 2007). In areas of West Africa with lower aflatoxin exposure, 249ser mutation can still be detected in plasma in HCC patients, and is under development as an early diagnostic marker in the first intervention study of its kind (Szymanska et al. 2004). Lately, the presence of 249ser mutation as a biomarker of exposure to aflatoxin has uncovered a link between aflatoxin exposure and cirrhosis (Kuniholm et al. 2008).
+
+Sunlight and Pyrimidine Dimers
+Exposure to UV-radiation from sunlight is an etiological factor for nonmelanoma skin cancers. In vitro, UV-radiation causes a characteristic
+
+Table 1. Biomarkers of Aflatoxin B1 (AFB1), TP53 mutation, and Hepatitis B Virus (HBV) are synergistic in
+predicting risk of hepatocellular carcinoma (HCC)
+
+Biomarker HBVb
+
+HCC RR (95% CI)a Urinary AFBc1 Serum TP53 mutantd
+
+Minus/Minus
+
+1
+
+Plus/Minus 7 (2­24)
+
+Minus/Plus 3 (1­10)
+
+Plus/Plus
+
+59 (17­212)
+
+1 10 (5­ 20) 13 (5­ 35) 399 (49­ 3272)
+
+aRR: relative risk; CI: confidence interval.
+bHBVSag.
+cUrinary AFB1 biomarker: AFB1, AFP1, AFM1, and AFB1-N7-Gua.
+dTP53 Codon 249ser mutant in serum DNA.
+
+pattern of CC to TT tandem mutations that are also frequently found in the mutational spectrum of TP53 in skin cancers but not internal cancers (Brash et al. 1991). It has been proposed that presence of this mutation can be used as a biomarker of photoprotection against skin cancer (Benjamin et al. 2008).
+Tobacco and G-to-T Transversions
+The dose-dependent association between cigarette smoking and G-to-T transversions in TP53 in lung cancer subjects has long been recognized (Suzuki et al. 1992). A G-to-T transversion at codon 157 of TP53 (GTC to TTC) is frequent in lung cancers from smokers, but not in other types of cancer, including lung cancers from never-smokers (Hainaut and Pfeifer 2001; Vahakangas et al. 2001). The presence of TP53 mutations in plasma DNA is a biomarker of tobacco exposure (Hagiwara et al. 2006).
+SOMATIC TP53 MUTATIONS AS BIOMARKERS OF CANCER RISK IN PREDISPOSING CONDITIONS
+The overrepresentation of C to T transitions in the tumor spectra of TP53 mutations has prompted the proposal that endogenous reactive molecules, such as nitric oxide, may contribute to cancer etiology (Ambs et al. 1997). Nitric oxide is overproduced in chronic inflammatory diseases, such as ulcerative colitis, that are cancer prone and have high TP53 mutational load in nontumor tissues (Hussain et al. 2000a). The interplay of nitric oxide production and TP53 mutation may lead to clonal selection and tumor growth in sporadic colon cancer as well (Ambs et al. 1998; Goodman et al. 2004). Other chronic inflammatory diseases that predispose to cancer, such as hemochromatosis and Wilson disease (Ambs et al. 1999), are also associated with detectable TP53 mutations in nontumor tissue (Hussain et al. 2000b). There would be clear clinical benefit from the availability of sensitive assays that would identify mutations in individuals at risk for cancer before overt tumor development (Olivier et al. 2004). Chronic inflammation and cancer risk
+
+6 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+Clinical Implications of TP53 Mutations in Cancer
+
+is an exiting field for research that may yield early diagnostic and therapeutic opportunities (Hussain and Harris 2007).
+Thus, the presence of TP53 mutations with a specific pattern or representing a plausible biological mechanism can be used clinically to study the etiology of cancers as well as screening tools for cancer predisposition and risk.
+TP53 Abnormalities as Biomarkers of Cancer Prognosis
+A multitude of retrospective studies have associated abnormal p53 protein expression as well as somatic mutation with poor survival or lack of response to therapy. Nonetheless, the clinical significance of p53 status for patient outcome has been (Roth 1999) and continues to be one of the most controversial areas of p53 research (Hoff 2005; Munro et al. 2005). The problem largely stems from the inherent complexity of the p53 pathway, the abundance of mutations in different tumor types and clinical stages, and their disparate effects, as well as lack of randomized prospective studies compounded by heterogeneity in experimental designs, sample types, and techniques. In addition, it would perhaps be na¨ive to expect that a ubiquitously mutated gene would have the same clinical value regardless of context. That being said, there have been encouraging findings regarding survival prediction by TP53 mutations. This is illustrated in Figure 2 using data extracted from the IARC TP53 database and updated with the addition of 20 sequencing-based studies published between 2007 and 2009. For cancers of the breast, head and neck, liver, hematopoietic, and lymphoid systems, a majority of studies show an association of TP53 mutation with worsened survival (Fig. 2). For cancers of the bladder, brain, lung, colon, esophagus, and ovary, about as many studies found an association as did not. For cancers of the pancreas, prostate gland, rectum, and stomach, the number as well as the cumulative number of patients in the respective cohorts reported by each publication were small. The largest patient cohorts have been reported for breast and colorectal carcinomas.
+
+Colorectal Cancer
+Two large meta-analysis reports on the predictive value of p53 abnormalities on outcome of colon cancer show contradictory results regarding response to chemotherapy, but an essentially similar lack of significant effect on survival prediction (Munro et al. 2005; Russo et al. 2005). In contrast, a sequencing-based, prospective study on primary operable colorectal cancer patients undergoing resective surgery showed that specific TP53 mutations were associated with worse prognosis (Bazan et al. 2005). Similarly, a subset of functionally inactive mutations predicted poor survival in late stage colorectal cancers (Iacopetta et al. 2006).
+Breast Cancer
+Breast cancer seems to show the clearest association of TP53 mutation with poor survival in large, prospective, sequence-based studies. The presence of TP53 mutation was an independent predictor of cancer-specific death in a large cohort of women with primary breast cancer and associated with poorest prognosis when combined with the absence of progesterone receptor (Olivier et al. 2006). The overall picture that is emerging from breast cancer indicates that missense mutations that affect DNA binding are particularly deleterious and are associated with the worse survival, whereas nonmissense mutations in the DNA-bindings motifs or null mutations are associated with intermediate reduction of survival compared with no mutations (Olivier et al. 2006; Alsner et al. 2008). Kaplan-Meier survival curves from the paper by Olivier et al. (2006) illustrating this finding are shown in Figure 3. In another large prospective study, TP53 mutation was found to be associated with poor survival as well as "basal-like" and "ERBB2þ" gene expression subgroups, which themselves had very high mortality (Langerod et al. 2007). Missense TP53 mutations also conferred higher risk of recurrence and death compared with wild-type TP53 in women with node-negative breast cancer (Ozcelik et al. 2007). In contrast to the analysis of TP53 mutations, the overall clinical
+
+Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+7
+
+A.I. Robles and C.C. Harris
+
+Number of studies that show TP53 mutation
+
+Not associated with poor survival
+
+Associated with poor survival
+
+10 5 0 5 10 15 20
+
+Bladder
+
+(n = 284)
+
+Brain (n = 751)
+
+Breast
+
+(n = 510)
+
+Bronchus and lung (n = 1167)
+
+Colorectum (n = 1151)
+
+Esophagus (n = 375)
+
+Head & Neck
+
+(n = 380) (n = 318)
+(n = 6283) (n = 1157)
+(n = 1278) (n = 171)
+(n = 839)
+
+Hematopoietic
+
+(n = 350)
+
+Liver
+
+(n = 1368)
+
+Lymph nodes Ovary
+Pancreas Prostate gland
+Stomach
+
+(n = 29) (n = 556)
+(n = 53) (n = 58) (n = 213)
+
+(n = 1158) (n = 716) (n = 71) (n = 98) (n = 62)
+
+Figure 2. Graphical representation of the number of studies that have shown an association or lack of association of TP53 mutation with poor survival. The cumulative number of patients in all cohorts reported in those studies is indicated as n for each cancer type. Data were extracted from the IARC p53 database R13 release (http:// www-p53.iarc.fr) and were updated with 20 new studies appearing in 2006­2009.
+
+value of p53 immunostaining in breast cancer is poor with respect to other clinical parameters, including Her-2 positivity (Soerjomataram et al. 2008). Thus, the routine use of p53 immunostaining is not recommend in clinical practice (Harris et al. 2007).
+Head and Neck Cancers
+A prospective, multicenter trial analyzed TP53 mutation status in squamous-cell carcinoma of the head and neck through p53 GeneChip and found that presence of any TP53 mutation had an adverse effect on survival, but those mutations
+
+that resulted in disrupted DNA binding led to an even worse prognosis (Poeta et al. 2007). In agreement, TP53 mutations in direct DNA contact areas resulted in accelerated tumor progression and reduced therapeutic responsiveness in head and neck squamous cell carcinoma (Erber et al. 1998; Temam et al. 2000).
+Lung Cancer
+Among patients with stage I NSCLC, survival was higher in those with wild-type p53 than in those with mutant p53 (Ahrendt et al. 2003), but TP53 mutations were not associated with
+
+8 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+Clinical Implications of TP53 Mutations in Cancer
+
+1.0 survival, but the effect was modest (de Graeff et al. 2009).
+0.9
+
+Proportion surviving
+
+0.8
+0.7
+0.6
+0.5 p < 0.0001
+0 20 40 60 80 100 120 Time in months
+# at risk: 1492 1357 1208 1030 769 569 410 57 49 40 30 27 23 15 178 145 117 101 71 49 39 65 47 38 27 20 16 12
+Figure 3. Kaplan-Meier survival curves of patients with breast cancer stratified by the type of TP53 gene mutation found in their tumor. Survival of patients without mutation or with a silent mutation within exons 5 to 8 (blue line), with a missense mutation within exons 5 to 8 but outside the DNA binding domains (red line), with a missense mutation in the DNA binding domains (green line), and with a mutation other than missense within exons 5 to 8 (black line). (Reprinted, with permission, from Olivier et al. 2006 [# AACR].)
+the very limited survival of cases with advancedstage NSCLC (Lim et al. 2009). TP53 mutations were, however, found to be significantly associated with recurrence of NSCLC (Ludovini et al. 2008).
+Prostate Cancer
+Abnormal p53 expression in prostate cancer was related to increased risk of disease-specific death as well as the development of distant metastasis at 5 years (Che et al. 2007). Most importantly, this study provided support for using p53 as a marker to stratify patients undergoing androgen deprivation and radiotherapy, by showing that long-term androgen deprivation may significantly improve the cause-specific survival for those with abnormal p53 (Che et al. 2007).
+Ovarian Cancer
+A meta-analysis of 62 studies addressing the prognostic significance of p53 abnormalities using IHC or mutational analysis found that overall p53 aberrant status confers poor
+
+Hematopoietic Cancers
+Although the prevalence of TP53 mutations in chronic lymphocytic leukemia (CLL) is low (,10%), TP53 disruption is frequently observed in CLL through del17p13, and both these abnormalities are predictive of poor survival (Zenz et al. 2008; Rossi et al. 2009). Also, most of TP53 mutations found in CLL cluster within the DNA binding domain of p53.
+Lymphoid Cancers
+An international collaborative study on 477 patients with diffuse large B-cell lymphoma (DLBCL) showed that p53 DNA-binding mutants have a worse effect on overall survival in DLBCL than WT p53 or mutants in other domains (Young et al. 2008).
+Sequencing-based randomized prospective studies have started to uncover the prognostic value of TP53 mutational analysis. Overall, the finding that null mutations have a somewhat intermediate effect on survival gives support to "gain-of-function" properties that may translate into newly acquired transcriptional functions (Weisz et al. 2007).
+TP53 ABNORMALITIES AS BIOMARKERS OF THERAPEUTIC RESPONSE
+The complexity of the data resulting from studies examining various patient cohorts, treatment modalities, and indices of response to therapy is overwhelming. There is no possible generalization of the role of TP53 mutation as a predictor of therapeutic response, perhaps because there is no single answer. There are, however, recent studies that evaluate it in well-defined patient cohorts and treatment modalities. It is under these conditions that evaluation of p53 status, either by IHC or sequencing, yields the most promising results. For example, TP53 mutation is a biomarker of responsiveness to dosedense epirubicin-cyclophosphamide regimen in basal breast cancer (Bertheau et al. 2007),
+
+Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+9
+
+A.I. Robles and C.C. Harris
+
+and to carboplatin/gemcitabine treatment in NSCLC (Cortinovis et al. 2008). These results are encouraging in that they point to specific therapeutic regimens for patients with the worse prognosis. There is no clear picture of the role of TP53 mutation in the response to first-line chemotherapy in colorectal cancer patients (Hoff 2005; Munro et al. 2005; Russo et al. 2005; Iacopetta et al. 2006). However, mutant TP53 is a predictor of better clinical outcome in patients with chemotherapy-refractory metastatic colorectal cancer treated with the antiEGFR antibody cetuximab (Oden-Gangloff et al. 2009). Interestingly, this association was only found in the subset of patients who lack KRAS mutations, because mutant KRAS is a strong predictor of cetuximab resistance in metastatic colorectal cancer (Lievre et al. 2008). This finding suggests that status of p53 may modulate the response of cancers to molecularly targeted drugs, even if the drugs are not designed to target the p53 pathway directly. Thus, TP53 genotyping may be useful for stratification and selection of patients that will most benefit from certain molecularly targeted therapies.
+CONCLUDING REMARKS
+The lack of clear predictive value of TP53 mutations in colorectal cancer compared with breast cancer starts to make sense when looking at the genomic landscapes of those two cancer types (Wood et al. 2007). Although the single most frequently mutated gene found in breast cancer is TP53, there are at least two other mutant genes that are just as prevalent in colon cancer, KRAS, and APC (Fig. 4). The interplay of several driver mutations is likely to have an impact in chemotherapeutic response, in such a way that no single mutational event may be clinically meaningful, but rather an understanding of the compounded effects of several driver mutations may be needed to inform clinical course.
+Technological advances have allowed the unbiased sequencing of the whole genome in individual cancers. As a result, we now have an overall view of the mutational profile of
+
+selected human tumors. This bird's eye view of the genomic landscape of cancers has in part served to reinforce what we already knew, that TP53 is the most frequently mutated gene in human tumors (Wood et al. 2007; Ding et al. 2008). Thus, the tantalizing proposition that evaluation of the p53 status may have prognostic value warrants further analysis.
+Two recent discoveries related to p53 may have significant clinical implications. MicroRNAs are small, evolutionarily conserved noncoding RNAs that exert diverse regulatory activities on mRNA stability and translation (Ambros 2001). They are frequently deleted and/or disregulated in cancer (Calin and Croce 2006) and can be biomarkers of cancerdiagnosis, prognosis, and therapeutic outcome (Bartels and Tsongalis 2009). Certain microRNAs, e.g., mir-34a, b, and c, are transcriptionally transactivated by p53 (Chang et al. 2007; He et al. 2007; Raver-Shapira et al. 2007; Tarasov et al. 2007), whereas others, e.g., mir-125b, negatively regulate its expression (Le et al. 2009). So, it is becoming apparent that not only do TP53 mutations affect its downstream functions, such as apoptosis and senescence, but also epigenetic or mutational changes in related microRNAs need to be considered, because abnormalities in microRNAs, such as methylation of mir-34 (Lujambio et al. 2008) and/or amplification of mir-125b (Bousquet et al. 2008) may affect downstream p53 functions (Fig. 5). In addition, the discovery of p53 isoformvariants arising from alternative splicing and promoter usage may also have clinical implications (Bourdon et al. 2005). These variants can interact with wild-type p53 through either dominant ­ negative or cotransactivating functional modulation. Most importantly, p53 isoforms are expressed in human cancers (Boldrup et al. 2007; Fujita et al. 2009) so that certain isoforms may alter the function of wildtype p53 and complicate the interpretation of nonmutant TP53 and immunohistochemical results in prediction of cancer risk, prognosis, and therapeutic response.
+When we first discussed the clinical consequences of TP53 mutations (Harris and Hollstein 1993), it seemed that widespread translational
+
+10 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+Chrom. 1
+
+A
+APC
+
+TP53 KRAS
+
+Chrom.1
+
+Colorctal cancer Mx38
+B
+TP53
+
+Chrom. 1
+
+Chrom. 1
+
+Breast cancer B3C
+Figure 4. Cancer genome landscapes of typical (A) colorectal or (B) breast tumors. Nonsilent somatic mutations are plotted in two-dimensional space representing chromosomal positions of RefSeq genes. Peaks indicate individual genes mutated at high frequency, with peak height reflecting mutation prevalence. The dots represent genes that were somatically mutated in the individual colorectal (Mx38) or breast (B3C) tumor displayed. The mountain on the right of both landscapes represents TP53 (chromosome 17), and is shared by both breast and colorectal cancers. (Reprinted, with permission, from Wood et al. 2007 [# AAAS].)
+
+c-myc
+
+p53
+Mutation, homozygous deletion
+
+mir-125b Amplification?
+
+mir-34a, b and c Methylation?
+
+Apoptosis
+
+Senescence
+
+Cell cycle arrest
+
+Progenitor differentiation
+
+Figure 5. MicroRNAs are integral to the p53 network and their abnormalities may have clinical implications. MicroRNAs mir-34a, b, and c, are transcriptionally transactivated by p53 and are downstream effectors of p53 function. MicroRNA mir-125b negatively regulates p53 expression. In addition to TP53 mutations and deletions, abnormalities in microRNAs, such as methylation of mir-34 (Lujambio et al. 2008) and/or amplification of mir-125b (Bousquet et al. 2008) may affect downstream p53 functions.
+
+Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+11
+
+A.I. Robles and C.C. Harris
+
+applications for p53 functional analysis and genotyping were within reach. We now know that reliable assessment of the integrity of p53's function in sporadic cancers will require more than immunostaining, and even more than sequencing. It will require a systems biology approach that takes into account the genomic and epigenomic landscapes of cancer.
+REFERENCES
+Aguilar F, Hussain SP, Cerutti P. 1993. Aflatoxin B1 induces the transversion of G­ .T in codon 249 of the p53 tumor suppressor gene in human hepatocytes. Proc Natl Acad Sci 90: 8586­ 8590.
+Ahrendt SA, Halachmi S, Chow JT, Wu L, Halachmi N, Yang SC, Wehage S, Jen J, Sidransky D. 1999. Rapid p53 sequence analysis in primary lung cancer using an oligonucleotide probe array. Proc Natl Acad Sci 96: 7382­ 7387.
+Ahrendt SA, Hu Y, Buta M, McDermott MP, Benoit N, Yang SC, Wu L, Sidransky D. 2003. p53 mutations and survival in stage I non-small-cell lung cancer: Results of a prospective study. J Natl Cancer Inst 95: 961­ 970.
+Alsner J, Jensen V, Kyndi M, Offersen BV, Vu P, BorresenDale AL, Overgaard J. 2008. A comparison between p53 accumulation determined by immunohistochemistry and TP53 mutations as prognostic variables in tumours from breast cancer patients. Acta Oncol 47: 600­ 607.
+Ambros V. 2001. microRNAs: Tiny regulators with great potential. Cell 107: 823­826.
+Ambs S, Hussain SP, Harris CC. 1997. Interactive effects of nitric oxide and the p53 tumor suppressor gene in carcinogenesis and tumor progression. Faseb J 11: 443 ­448.
+Ambs S, Hussain SP, Marrogi AJ, Harris CC. 1999. Cancerprone oxyradical overload disease. IARC Sci Publ 150: 295 ­ 302.
+Ambs S, Merriam WG, Ogunfusika MO, Bennett WP, Ishibe N, Hussain SP, Tzeng EE, Geller DA, Billiar TR, Harris CC. 1998. p53 and vascular endothelial growth factor regulate tumor growth of NOS2-expressing human carcinoma cells. Nat Med 4: 1371­1376.
+Bartels CL, Tsongalis GJ. 2009. MicroRNAs: Novel biomarkers for human cancer. Clin Chem 55: 623 ­631.
+Bazan V, Agnese V, Corsale S, Calo V, Valerio MR, Latteri MA, Vieni S, Grassi N, Cicero G, Dardanoni G, et al. 2005. Specific TP53 and/or Ki-ras mutations as independent predictors of clinical outcome in sporadic colorectal adenocarcinomas: Results of a 5-year Gruppo Oncologico dell'Italia Meridionale (GOIM) prospective study. Ann Oncol 16: 50­ 55.
+Benjamin CL, Ullrich SE, Kripke ML, Ananthaswamy HN. 2008. p53 tumor suppressor gene: A critical molecular target for UV induction and prevention of skin cancer. Photochem Photobiol 84: 55­ 62.
+Bertheau P, Turpin E, Rickman DS, Espie M, de Reynies A, Feugeas JP, Plassa LF, Soliman H, Varna M, de Roquancourt A, et al. 2007. Exquisite sensitivity of
+
+TP53 mutant and basal breast cancers to a dose-dense epirubicin-cyclophosphamide regimen. PLoS Med 4: e90.
+Boldrup L, Bourdon JC, Coates PJ, Sjostrom B, Nylander K. 2007. Expression of p53 isoforms in squamous cell carcinoma of the head and neck. Eur J Cancer 43: 617 ­623.
+Bougeard G, Sesboue R, Baert-Desurmont S, Vasseur S, Martin C, Tinat J, Brugieres L, Chompret A, de Paillerets BB, Stoppa-Lyonnet D, et al. 2008. Molecular basis of the Li-Fraumeni syndrome: An update from the French LFS families. J Med Genet 45: 535­ 538.
+Bourdon JC, Fernandes K, Murray-Zmijewski F, Liu G, Diot A, Xirodimas DP, Saville MK, Lane DP. 2005. p53 isoforms can regulate p53 transcriptional activity. Genes Dev 19: 2122­2137.
+Bousquet M, Quelen C, Rosati R, Mansat-De Mas V, La Starza R, Bastard C, Lippert E, Talmant P, LafagePochitaloff M, Leroux D, et al. 2008. Myeloid cell differentiation arrest by miR-125b-1 in myelodysplastic syndrome and acute myeloid leukemia with the t(2;11) ( p21;q23) translocation. J Exp Med 205: 2499­ 2506.
+Brash DE, Rudolph JA, Simon JA, Lin A, McKenna GJ, Baden HP, Halperin AJ, Ponten J. 1991. A role for sunlight in skin cancer: UV-induced p53 mutations in squamous cell carcinoma. Proc Natl Acad Sci 88: 10124­ 10128.
+Bremer TM, Jacquemier J, Charafe-Jauffret E, Viens P, Birnbaum D, Linke SP. 2009. Prognostic marker profile to assess risk in stage I-III hormone receptor-positive breast cancer patients. Int J Cancer 124: 896­ 904.
+Bressac B, Kew M, Wands J, Ozturk M. 1991. Selective G to T mutations of p53 gene in hepatocellular carcinoma from southern Africa. Nature 350: 429­ 431.
+Brosh R, Rotter V. 2009. When mutants gain new powers: news from the mutant p53 field. Nat Rev Cancer 9: 701 ­713.
+Calin GA, Croce CM. 2006. MicroRNA-cancer connection: The beginning of a new tale. Cancer Res 66: 7390­7394.
+Chang TC, Wentzel EA, Kent OA, Ramachandran K, Mullendore M, Lee KH, Feldmann G, Yamakuchi M, Ferlito M, Lowenstein CJ, et al. 2007. Transactivation of miR-34a by p53 broadly influences gene expression and promotes apoptosis. Mol Cell 26: 745­752.
+Che M, DeSilvio M, Pollack A, Grignon DJ, Venkatesan VM, Hanks GE, Sandler HM. 2007. Prognostic value of abnormal p53 expression in locally advanced prostate cancer treated with androgen deprivation and radiotherapy: A study based on RTOG 9202. Int J Radiat Oncol Biol Phys 69: 1117­ 1123.
+Collado M, Gil J, Efeyan A, Guerra C, Schuhmacher AJ, Barradas M, Benguria A, Zaballos A, Flores JM, Barbacid M, et al. 2005. Tumour biology: Senescence in premalignant tumours. Nature 436: 642.
+Cortinovis DL, Andriani F, Livio A, Fabbri A, Perrone F, Marcomini B, Pilotti S, Mariani L, Bidoli P, Bajetta E, et al. 2008. FHIT and p53 status and response to platinum-based treatment in advanced non-small cell lung cancer. Curr Cancer Drug Targets 8: 342 ­348.
+de Graeff P, Crijns AP, de Jong S, Boezen M, Post WJ, de Vries EG, van der Zee AG, de Bock GH. 2009. Modest effect of p53, EGFR and HER-2/neu on prognosis in
+
+12 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+Clinical Implications of TP53 Mutations in Cancer
+
+epithelial ovarian cancer: A meta-analysis. Br J Cancer 101: 149­ 159.
+Ding L, Getz G, Wheeler DA, Mardis ER, McLellan MD, Cibulskis K, Sougnez C, Greulich H, Muzny DM, Morgan MB, et al. 2008. Somatic mutations affect key pathways in lung adenocarcinoma. Nature 455: 1069­ 1075.
+Erber R, Conradt C, Homann N, Enders C, Finckh M, Dietz A, Weidauer H, Bosch FX. 1998. TP53 DNA contact mutations are selectively associated with allelic loss and have a strong clinical impact in head and neck cancer. Oncogene 16: 1671­ 1679.
+Fan R, Wu MT, Miller D, Wain JC, Kelsey KT, Wiencke JK, Christiani DC. 2000. The p53 codon 72 polymorphism and lung cancer risk. Cancer Epidemiol Biomarkers Prev 9: 1037­ 1042.
+Figueiredo BC, Sandrini R, Zambetti GP, Pereira RM, Cheng C, Liu W, Lacerda L, Pianovski MA, Michalkiewicz E, Jenkins J, et al. 2006. Penetrance of adrenocortical tumours associated with the germline TP53 R337H mutation. J Med Genet 43: 91­96.
+Fouquet C, Antoine M, Tisserand P, Favis R, Wislez M, Commo F, Rabbe N, Carette MF, Milleron B, Barany F, et al. 2004. Rapid and sensitive p53 alteration analysis in biopsies from lung cancer patients using a functional assay and a universal oligonucleotide array: A prospective study. Clin Cancer Res 10: 3479­ 3489.
+Fujita K, Mondal AM, Horikawa I, Nguyen GH, Kumamoto K, Sohn JJ, Bowman ED, Mathe EA, Schetter AJ, Pine SR, et al. 2009. p53 isoforms, D133p53 and p53B are endogenous regulators of replicative cellular senescence. Nat Cell Biol 11: 1135­ 1142.
+Gonzalez KD, Noltner KA, Buzin CH, Gu D, Wen-Fong CY, Nguyen VQ, Han JH, Lowstuter K, Longmate J, Sommer SS, et al. 2009. Beyond Li Fraumeni Syndrome: Clinical characteristics of families with p53 germline mutations. J Clin Oncol 27: 1250­ 1256.
+Goodman JE, Hofseth LJ, Hussain SP, Harris CC. 2004. Nitric oxide and p53 in cancer-prone chronic inflammation and oxyradical overload disease. Environ Mol Mutagen 44: 3 ­9.
+Grollman AP, Shibutani S, Moriya M, Miller F, Wu L, Moll U, Suzuki N, Fernandes A, Rosenquist T, Medverec Z, et al. 2007. Aristolochic acid and the etiology of endemic (Balkan) nephropathy. Proc Natl Acad Sci 104: 12129 ­ 12134.
+Hagiwara N, Mechanic LE, Trivers GE, Cawley HL, Taga M, Bowman ED, Kumamoto K, He P, Bernard M, Doja S, et al. 2006. Quantitative detection of p53 mutations in plasma DNA from tobacco smokers. Cancer Res 66: 8309­ 8317.
+Hainaut P, Pfeifer GP. 2001. Patterns of p53 G­ .T transversions in lung cancers reflect the primary mutagenic signature of DNA-damage by tobacco smoke. Carcinogenesis 22: 367­ 374.
+Harris CC, Hollstein M. 1993. Clinical implications of the p53 tumor-suppressor gene. N Engl J Med 329: 1318­ 1327.
+Harris L, Fritsche H, Mennel R, Norton L, Ravdin P, Taube S, Somerfield MR, Hayes DF, Bast RC Jr. 2007. American Society of Clinical Oncology 2007 update of
+
+recommendations for the use of tumor markers in breast cancer. J Clin Oncol 25: 5287­ 5312.
+Hashimoto T, Tokuchi Y, Hayashi M, Kobayashi Y, Nishida K, Hayashi S, Ishikawa Y, Tsuchiya S, Nakagawa K, Hayashi J, et al. 1999. p53 null mutations undetected by immunohistochemical staining predict a poor outcome with early-stage non-small cell lung carcinomas. Cancer Res 59: 5572­ 5577.
+He L, He X, Lim LP, de Stanchina E, Xuan Z, Liang Y, Xue W, Zender L, Magnus J, Ridzon D, et al. 2007. A microRNA component of the p53 tumour suppressor network. Nature 447: 1130­ 1134.
+Hoff PM. 2005. Is there a role for routine p53 testing in colorectal cancer? J Clin Oncol 23: 7395­7396.
+Hofseth LJ, Saito S, Hussain SP, Espey MG, Miranda KM, Araki Y, Jhappan C, Higashimoto Y, He P, Linke SP, et al. 2003. Nitric oxide-induced cellular stress and p53 activation in chronic inflammation. Proc Natl Acad Sci 100: 143­148.
+Hollstein M, Sidransky D, Vogelstein B, Harris CC. 1991. p53 mutations in human cancers. Science 253: 49­ 53.
+Hsu IC, Metcalf RA, Sun T, Welsh JA, Wang NJ, Harris CC. 1991. Mutational hotspot in the p53 gene in human hepatocellular carcinomas. Nature 350: 427­428.
+Hussain SP, Harris CC. 1999. p53 mutation spectrum and load: The generation of hypotheses linking the exposure of endogenous or exogenous carcinogens to human cancer. Mutat Res 428: 23­32.
+Hussain SP, Harris CC. 2007. Inflammation and cancer: An ancient link with novel potentials. Int J Cancer 121: 2373 ­ 2380.
+Hussain SP, Amstad P, Raja K, Ambs S, Nagashima M, Bennett WP, Shields PG, Ham AJ, Swenberg JA, Marrogi AJ, et al. 2000a. Increased p53 mutation load in noncancerous colon tissue from ulcerative colitis: A cancer-prone chronic inflammatory disease. Cancer Res 60: 3333­3337.
+Hussain SP, Amstad P, Raja K, Sawyer M, Hofseth L, Shields PG, Hewer A, Phillips DH, Ryberg D, Haugen A, et al. 2001. Mutability of p53 hotspot codons to benzo(a)pyrene diol epoxide (BPDE) and the frequency of p53 mutations in nontumorous human lung. Cancer Res 61: 6350­6355.
+Hussain SP, Raja K, Amstad PA, Sawyer M, Trudel LJ, Wogan GN, Hofseth LJ, Shields PG, Billiar TR, Trautwein C, et al. 2000b. Increased p53 mutation load in nontumorous human liver of wilson disease and hemochromatosis: Oxyradical overload diseases. Proc Natl Acad Sci 97: 12770­ 12775.
+Hussain SP, Schwank J, Staib F, Wang XW, Harris CC. 2007. TP53 mutations and hepatocellular carcinoma: Insights into the etiology and pathogenesis of liver cancer. Oncogene 26: 2166­2176.
+Iacopetta B, Russo A, Bazan V, Dardanoni G, Gebbia N, Soussi T, Kerr D, Elsaleh H, Soong R, Kandioler D, et al. 2006. Functional categories of TP53 mutation in colorectal cancer: Results of an International Collaborative Study. Ann Oncol 17: 842­ 847.
+Jackson PE, Kuang SY, Wang JB, Strickland PT, Munoz A, Kensler TW, Qian GS, Groopman JD. 2003. Prospective detection of codon 249 mutations in plasma of
+
+Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+13
+
+A.I. Robles and C.C. Harris
+
+hepatocellular carcinoma patients. Carcinogenesis 24: 1657­ 1663.
+Katkoori VR, Jia X, Shanmugam C, Wan W, Meleth S, Bumpers H, Grizzle WE, Manne U. 2009. Prognostic significance of p53 codon 72 polymorphism differs with race in colorectal adenocarcinoma. Clin Cancer Res 15: 2406­ 2416.
+Kato S, Han SY, Liu W, Otsuka K, Shibata H, Kanamaru R, Ishioka C. 2003. Understanding the functionstructure and function-mutation relationships of p53 tumor suppressor protein by high-resolution missense mutation analysis. Proc Natl Acad Sci 100: 8424­ 8429.
+Kirk GD, Lesi OA, Mendy M, Szymanska K, Whittle H, Goedert JJ, Hainaut P, Montesano R. 2005. 249(ser) TP53 mutation in plasma DNA, hepatitis B viral infection, and risk of hepatocellular carcinoma. Oncogene 24: 5858­5867.
+Koshiol J, Hildesheim A, Gonzalez P, Bratti MC, Porras C, Schiffman M, Herrero R, Rodriguez AC, Wacholder S, Yeager M, et al. 2009. Common genetic variation in TP53 and risk of human papillomavirus persistence and progression to CIN3/cancer revisited. Cancer Epidemiol Biomarkers Prev 18: 1631­1637.
+Koushik A, Platt RW, Franco EL. 2004. p53 codon 72 polymorphism and cervical neoplasia: A meta-analysis review. Cancer Epidemiol Biomarkers Prev 13: 11­22.
+Kuniholm MH, Lesi OA, Mendy M, Akano AO, Sam O, Hall AJ, Whittle H, Bah E, Goedert JJ, Hainaut P, et al. 2008. Aflatoxin exposure and viral hepatitis in the etiology of liver cirrhosis in the Gambia, West Africa. Environ Health Perspect 116: 1553­1557.
+Langerod A, Zhao H, Borgan O, Nesland JM, Bukholm IR, Ikdahl T, Karesen R, Borresen-Dale AL, Jeffrey SS. 2007. TP53 mutation status and gene expression profiles are powerful prognostic markers of breast cancer. Breast Cancer Res 9: R30.
+Le MT, Teh C, Shyh-Chang N, Xie H, Zhou B, Korzh V, Lodish HF, Lim B. 2009. MicroRNA-125b is a novel negative regulator of p53. Genes Dev 23: 862 ­876.
+Levine AJ, Momand J, Finlay CA. 1991. The p53 tumour suppressor gene. Nature 351: 453­ 456.
+Lievre A, Bachet JB, Boige V, Cayre A, Le Corre D, Buc E, Ychou M, Bouche O, Landi B, Louvet C, et al. 2008. KRAS mutations as an independent prognostic factor in patients with advanced colorectal cancer treated with cetuximab. J Clin Oncol 26: 374­ 379.
+Lim EH, Zhang SL, Li JL, Yap WS, Howe TC, Tan BP, Lee YS, Wong D, Khoo KL, Seto KY, et al. 2009. Using whole genome amplification (WGA) of low-volume biopsies to assess the prognostic role of EGFR, KRAS, p53, and CMET mutations in advanced-stage non-small cell lung cancer (NSCLC). J Thorac Oncol 4: 12­21.
+Liu G, Miller DP, Zhou W, Thurston SW, Fan R, Xu LL, Lynch TJ, Wain JC, Su L, Christiani DC. 2001. Differential association of the codon 72 p53 and GSTM1 polymorphisms on histological subtype of nonsmall cell lung carcinoma. Cancer Res 61: 8718­8722.
+Ludovini V, Pistola L, Gregorc V, Floriani I, Rulli E, Piattoni S, Di Carlo L, Semeraro A, Darwish S, Tofanetti FR, et al. 2008. Plasma DNA, microsatellite alterations, and p53 tumor mutations are associated
+
+with disease-free survival in radically resected non-small cell lung cancer patients: A study of the perugia multidisciplinary team for thoracic oncology. J Thorac Oncol 3: 365­ 373.
+Lujambio A, Calin GA, Villanueva A, Ropero S, SanchezCespedes M, Blanco D, Montuenga LM, Rossi S, Nicoloso MS, Faller WJ, et al. 2008. A microRNA DNA methylation signature for human cancer metastasis. Proc Natl Acad Sci 105: 13556­13561.
+Malkin D, Li FP, Strong LC, Fraumeni JFJr, Nelson CE, Kim DH, Kassel J, Gryka MA, Bischoff FZ, Tainsky MA, et al. 1990. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 250: 1233­ 1238.
+Matakidou A, Eisen T, Houlston RS. 2003. TP53 polymorphisms and lung cancer risk: A systematic review and meta-analysis. Mutagenesis 18: 377­ 385.
+Mechanic LE, Bowman ED, Welsh JA, Khan MA, Hagiwara N, Enewold L, Shields PG, Burdette L, Chanock S, Harris CC. 2007. Common genetic variation in TP53 is associated with lung cancer risk and prognosis in African Americans and somatic mutations in lung tumors. Cancer Epidemiol Biomarkers Prev 16: 214 ­ 222.
+Mechanic LE, Marrogi AJ, Welsh JA, Bowman ED, Khan MA, Enewold L, Zheng YL, Chanock S, Shields PG, Harris CC. 2005. Polymorphisms in XPD and TP53 and mutation in human lung cancer. Carcinogenesis 26: 597 ­604.
+Montesano R, Hainaut P, Wild CP. 1997. Hepatocellular carcinoma: From gene to public health. J Natl Cancer Inst 89: 1844 ­ 1851.
+Munro AJ, Lain S, Lane DP. 2005. P53 abnormalities and outcomes in colorectal cancer: A systematic review. Br J Cancer 92: 434 ­444.
+Nenutil R, Smardova J, Pavlova S, Hanzelkova Z, Muller P, Fabian P, Hrstka R, Janotova P, Radina M, Lane DP, et al. 2005. Discriminating functional and non-functional p53 in human tumours by p53 and MDM2 immunohistochemistry. J Pathol 207: 251 ­259.
+Oden-Gangloff A, Di Fiore F, Bibeau F, Lamy A, Bougeard G, Charbonnier F, Blanchard F, Tougeron D, Ychou M, Boissiere F, et al. 2009. TP53 mutations predict disease control in metastatic colorectal cancer treated with cetuximab-based chemotherapy. Br J Cancer 100: 1330 ­ 1335.
+Ojeda JM, Ampuero S, Rojas P, Prado R, Allende JE, Barton SA, Chakraborty R, Rothhammer F. 2003. p53 codon 72 polymorphism and risk of cervical cancer. Biol Res 36: 279 ­283.
+Olivier M, Hussain SP, Caron de Fromentel C, Hainaut P, Harris CC. 2004. TP53 mutation spectra and load: A tool for generating hypotheses on the etiology of cancer. IARC Sci Publ 157: 247­270.
+Olivier M, Langerod A, Carrieri P, Bergh J, Klaar S, Eyfjord J, Theillet C, Rodriguez C, Lidereau R, Bieche I, et al. 2006. The clinical value of somatic TP53 gene mutations in 1,794 patients with breast cancer. Clin Cancer Res 12: 1157 ­ 1167.
+Olivier M, Petitjean A, Marcel V, Petre A, Mounawar M, Plymoth A, de Fromentel CC, Hainaut P. 2009. Recent
+
+14 Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+Clinical Implications of TP53 Mutations in Cancer
+
+advances in p53 research: An interdisciplinary perspective. Cancer Gene Ther 16: 1­12.
+Ozcelik H, Pinnaduwage D, Bull SB, Andrulis IL. 2007. Type of TP53 mutation and ERBB2 amplification affects survival in node-negative breast cancer. Breast Cancer Res Treat 105: 255­ 265.
+Petitjean A, Mathe E, Kato S, Ishioka C, Tavtigian SV, Hainaut P, Olivier M. 2007. Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: Lessons from recent developments in the IARC TP53 database. Hum Mutat 28: 622 ­629.
+Poeta ML, Manola J, Goldwasser MA, Forastiere A, Benoit N, Califano JA, Ridge JA, Goodwin J, Kenady D, Saunders J, et al. 2007. TP53 mutations and survival in squamous-cell carcinoma of the head and neck. N Engl J Med 357: 2552­2561.
+Qian GS, Kuang SY, He X, Groopman JD, Jackson PE. 2002. Sensitivity of electrospray ionization mass spectrometry detection of codon 249 mutations in the p53 gene compared with RFLP. Cancer Epidemiol Biomarkers Prev 11: 1126­ 1129.
+Raver-Shapira N, Marciano E, Meiri E, Spector Y, Rosenfeld N, Moskovits N, Bentwich Z, Oren M. 2007. Transcriptional activation of miR-34a contributes to p53-mediated apoptosis. Mol Cell 26: 731­ 743.
+Rossi D, Cerri M, Deambrogi C, Sozzi E, Cresta S, Rasi S, De Paoli L, Spina V, Gattei V, Capello D, et al. 2009. The prognostic value of TP53 mutations in chronic lymphocytic leukemia is independent of Del17p13: Implications for overall survival and chemorefractoriness. Clin Cancer Res 15: 995­ 1004.
+Roth JA. 1999. p53 prognostication: Paradigm or paradox? Clin Cancer Res 5: 3345.
+Russo A, Bazan V, Iacopetta B, Kerr D, Soussi T, Gebbia N. 2005. The TP53 colorectal cancer international collaborative study on the prognostic and predictive significance of p53 mutation: Influence of tumor site, type of mutation, and adjuvant treatment. J Clin Oncol 23: 7518­ 7528.
+Sigal A, Rotter V. 2000. Oncogenic mutations of the p53 tumor suppressor: The demons of the guardian of the genome. Cancer Res 60: 6788­6793.
+Soerjomataram I, Louwman MW, Ribot JG, Roukema JA, Coebergh JW. 2008. An overview of prognostic factors for long-term survivors of breast cancer. Breast Cancer Res Treat 107: 309­ 330.
+Soussi T, Beroud C. 2001. Assessing TP53 status in human tumours to evaluate clinical outcome. Nat Rev Cancer 1: 233 ­240.
+Stern MC, Umbach DM, Yu MC, London SJ, Zhang ZQ, Taylor JA. 2001. Hepatitis B, aflatoxin B(1), and p53 codon 249 mutation in hepatocellular carcinomas from Guangxi, People's Republic of China, and a meta-analysis of existing studies. Cancer Epidemiol Biomarkers Prev 10: 617 ­ 625.
+
+Storey A, Thomas M, Kalita A, Harwood C, Gardiol D, Mantovani F, Breuer J, Leigh IM, Matlashewski G, Banks L. 1998. Role of a p53 polymorphism in the development of human papillomavirus-associated cancer. Nature 393: 229 ­234.
+Suzuki H, Takahashi T, Kuroishi T, Suyama M, Ariyoshi Y, Takahashi T, Ueda R. 1992. p53 mutations in non-small cell lung cancer in Japan: Association between mutations and smoking. Cancer Res 52: 734­736.
+Szymanska K, Lesi OA, Kirk GD, Sam O, Taniere P, Scoazec JY, Mendy M, Friesen MD, Whittle H, Montesano R, et al. 2004. Ser-249TP53 mutation in tumour and plasma DNA of hepatocellular carcinoma patients from a high incidence area in the Gambia, West Africa. Int J Cancer 110: 374­379.
+Tarasov V, Jung P, Verdoodt B, Lodygin D, Epanchintsev A, Menssen A, Meister G, Hermeking H. 2007. Differential regulation of microRNAs by p53 revealed by massively parallel sequencing: miR-34a is a p53 target that induces apoptosis and G1-arrest. Cell Cycle 6: 1586 ­ 1593.
+Temam S, Flahault A, Perie S, Monceaux G, Coulet F, Callard P, Bernaudin JF, St Guily JL, Fouret P. 2000. p53 gene status as a predictor of tumor response to induction chemotherapy of patients with locoregionally advanced squamous cell carcinomas of the head and neck. J Clin Oncol 18: 385­ 394.
+Thomas M, Kalita A, Labrecque S, Pim D, Banks L, Matlashewski G. 1999. Two polymorphic variants of wild-type p53 differ biochemically and biologically. Mol Cell Biol 19: 1092­ 1100.
+Vahakangas KH, Bennett WP, Castren K, Welsh JA, Khan MA, Blomeke B, Alavanja MC, Harris CC. 2001. p53 and K-ras mutations in lung cancers from former and never-smoking women. Cancer Res 61: 4350­ 4356.
+Weisz L, Oren M, Rotter V. 2007. Transcription regulation by mutant p53. Oncogene 26: 2202­2211.
+Weston A, Perrin LS, Forrester K, Hoover RN, Trump BF, Harris CC, Caporaso NE. 1992. Allelic frequency of a p53 polymorphism in human lung cancer. Cancer Epidemiol Biomarkers Prev 1: 481­ 483.
+Wood LD, Parsons DW, Jones S, Lin J, Sjoblom T, Leary RJ, Shen D, Boca SM, Barber T, Ptak J, et al. 2007. The genomic landscapes of human breast and colorectal cancers. Science 318: 1108­1113.
+Young KH, Leroy K, Moller MB, Colleoni GW, SanchezBeato M, Kerbauy FR, Haioun C, Eickhoff JC, Young AH, Gaulard P, et al. 2008. Structural profiles of TP53 gene mutations predict clinical outcome in diffuse large B-cell lymphoma: an international collaborative study. Blood 112: 3088­ 3098.
+Zenz T, Benner A, Dohner H, Stilgenbauer S. 2008. Chronic lymphocytic leukemia and treatment resistance in cancer: The role of the p53 pathway. Cell Cycle 7: 3810 ­ 3814.
+
+Cite this article as Cold Spring Harb Perspect Biol 2010;2:a001016
+
+15
+
+

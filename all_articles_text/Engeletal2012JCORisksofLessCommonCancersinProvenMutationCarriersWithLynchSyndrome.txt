@@ -1,0 +1,583 @@
+VOLUME 30  NUMBER 35  DECEMBER 10 2012
+JOURNAL OF CLINICAL ONCOLOGY
+
+ORIGINAL REPORT
+
+Author affiliations appear at the end of this article.
+Submitted April 1, 2012; accepted September 5, 2012; published online ahead of print at www.jco.org on October 22, 2012.
+Written on behalf of the German Hereditary Nonpolyposis Colorectal Cancer Consortium and the Netherlands Foundation for the Detection of Hereditary Tumours.
+Supported by the Deutsche Krebshilfe (German Cancer Aid).
+Authors' disclosures of potential conflicts of interest and author contributions are found at the end of this article.
+Corresponding author: Christoph Engel, MD, Institute of Medical Informatics, Statistics and Epidemiology, University of Leipzig, Haertelstrasse 16-18, 04107 Leipzig, Germany; e-mail: christoph .engel@imise.uni-leipzig.de.
+© 2012 by American Society of Clinical Oncology
+0732-183X/12/3035-4409/$20.00
+DOI: 10.1200/JCO.2012.43.2278
+
+Risks of Less Common Cancers in Proven Mutation Carriers With Lynch Syndrome
+Christoph Engel, Markus Loeffler, Verena Steinke, Nils Rahner, Elke Holinski-Feder, Wolfgang Dietmaier, Hans K. Schackert, Heike Goergens, Magnus von Knebel Doeberitz, Timm O. Goecke, Wolff Schmiegel, Reinhard Buettner, Gabriela Moeslein, Tom G.W. Letteboer, Encarna Go´mez García, Frederik J. Hes, Nicoline Hoogerbrugge, Fred H. Menko, Theo A.M. van Os, Rolf H. Sijmons, Anja Wagner, Irma Kluijt, Peter Propping, and Hans F.A. Vasen
+ABSTRACT
+Purpose Patients with Lynch syndrome are at high risk for colon and endometrial cancer, but also at an elevated risk for other less common cancers. The purpose of this retrospective cohort study was to provide risk estimates for these less common cancers in proven carriers of pathogenic mutations in the mismatch repair (MMR) genes MLH1, MSH2, and MSH6. Patients and Methods Data were pooled from the German and Dutch national Lynch syndrome registries. Seven different cancer types were analyzed: stomach, small bowel, urinary bladder, other urothelial, breast, ovarian, and prostate cancer. Age-, sex- and MMR gene­specific cumulative risks (CRs) were calculated using the Kaplan-Meier method. Sex-specific incidence rates were compared with general population incidence rates by calculating standardized incidence ratios (SIRs). Multivariate Cox regression analysis was used to estimate the impact of sex and mutated gene on cancer risk. Results The cohort comprised 2,118 MMR gene mutation carriers (MLH1, n  806; MSH2, n  1,004; MSH6, n  308). All cancers were significantly more frequent than in the general population. The highest risks were found for male small bowel cancer (SIR, 251; 95% CI, 177 to 346; CR at 70 years, 12.0; 95% CI, 5.7 to 18.2). Breast cancer showed an SIR of 1.9 (95% CI, 1.4 to 2.4) and a CR of 14.4 (95% CI, 9.5 to 19.3). MSH2 mutation carriers had a considerably higher risk of developing urothelial cancer than MLH1 or MSH6 carriers. Conclusion The sex- and gene-specific differences of less common cancer risks should be taken into account in cancer surveillance and prevention programs for patients with Lynch syndrome.
+J Clin Oncol 30:4409-4415. © 2012 by American Society of Clinical Oncology
+
+INTRODUCTION
+Lynch syndrome (LS), often also termed hereditary nonpolyposis colorectal cancer (HNPCC), is an autosomal-dominant inherited disorder caused by germline mutations in genes of the DNA mismatch repair (MMR) system.1 Patients affected by this condition are at a considerably increased risk of developing colorectal and endometrial cancer. In addition, other cancers such as carcinomas of the stomach, small bowel, ovaries, biliary tract, urinary tract, and brain and sebaceous tumors are observed more frequently than in the general population.2 Reliable estimates of age-, gene-, and sex-specific risks for these less common cancers are important for the design of appropriate surveillance and prevention programs. Specific surveillance measures
+
+may be narrowed down and tailored according to age, sex, and endangered target organ. Moreover, cancer risks may be considerably different according to the mutated MMR gene, thus making specific recommendations necessary. Several studies have been published giving risk estimates for a variety of extra-colonic, extra-endometrial cancers, including a large collaborative study combining data of 6,041 proven or probable MLH1 and MSH2 mutation carriers from four LS registries.3-13
+In this study we aimed to estimate the risks of less common cancers in patients with a proven mutation in the MMR genes MLH1, MSH2, or MSH6. We were particularly interested in analyzing the risks by sex and mutated MMR gene. Furthermore, we sought to compare the risk estimates with those from the general population. To achieve a sufficient
+
+© 2012 by American Society of Clinical Oncology 4409 Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 5, 2016 from 128.103.149.52
+Copyright © 2012 American Society of Clinical Oncology. All rights reserved.
+
+Engel et al
+
+number of patients for the analysis, the study was conducted as a joint project of two registries from Germany and the Netherlands.
+PATIENTS AND METHODS
+For the present analysis, we pooled data from the registry of the German HNPCC Consortium and the registry of the Netherlands Foundation for the Detection of Hereditary Tumors. The German registry has been collecting data since 1995 and the Dutch registry since 1986. Details about the two registries are described elsewhere.13-16 In these two registries, families and patients are ascertained through clinical criteria based on familial clustering of colorectal cancer or early onset of cancer (Amsterdam criteria and Bethesda guidelines).17-20 Comprehensive data on the tumor spectrum and the age of diagnosis were collected for all members of the families. The index patients of the families underwent a standardized process of genetic counseling, tumor tissue analysis for microsatellite instability and/or immunohistochemical staining of MMR proteins, and mutation analysis of the four major MMR genes MLH1, MHS2, MSH6, and PMS2. PMS2 mutations were too rare to be included in the present analysis. All participants gave their written informed consent at study inclusion. The ethics committees of each participating institution approved the study. A central data quality management process was implemented to ensure high data quality (automated checks for completeness, plausibility, and consistency), raising queries in case of errors.
+The following information on all mutation carriers were queried from the two registries: sex, affected MMR gene, age at last follow-up, and year of birth. For all these individuals, a complete list was generated with all invasive cancer events, including type of cancer and age at diagnosis (total number of noncolonic nonendometrial cancers was 389). The present analysis was restricted only to proven mutation carriers. So-called probable mutation carriers (ie, relatives of a mutation carrier with unknown mutation status but with a history of colorectal or endometrial cancer) were not included to minimize biases attributable to potential phenocopies. The group of mutation carriers comprised the index patients of the families and all relatives who were tested positive for a pathogenic mutation. Ninety percent of cancer diagnoses were confirmed by medical or pathology reports.
+Statistical Analysis Age-dependent cumulative risks (CR) and their 95% CIs were estimated
+using the Kaplan-Meier product-limit method. The log-rank test was used to compare risks between groups (defined by the mutated MMR gene or sex). Multivariate Cox regression modeling was used to estimate the effect of sex (only for cancers affecting both sexes) and mutated MMR gene, adjusted by registry (Germany v Netherlands) and year of birth to account for potential birth cohort effects. Results were presented as hazard ratios (HR) and their 95% CIs. For each individual, the time under risk reached from birth until death, last follow-up, or the cancer of interest, whichever came first. For comparison of risks in mutation carriers with those in the general population, standardized incidence ratios (SIRs) were calculated by dividing the number of observed cases by the number of expected cases. The number of expected cases was calculated by multiplying the age-, sex-, and annual calender year­specific incidence rates for the general population with the corresponding personyears obtained from the study population. Ninety-five percent CIs were calculated assuming a Poisson distribution. Expected cancer numbers were calculated separately for the Dutch and German sample using their countryspecific population incidence rates. Incidence rates for the German general population were obtained from the Saarland Cancer Registry and for the Dutch general population from the Netherlands Cancer Registry. The earliest calender year for which incidence data were available was 1970 for Germany and 1989 for the Netherlands. For earlier years, we used linear extrapolation of incidences from the known calender years.
+All reported P values are two-sided. P values .05 were considered statistically significant. IBM SPSS 20.0.0.1 (SPSS, Chicago, IL) was used for all data analyses.
+
+Table 1. Characteristics of the Study Population
+
+Total
+
+Germany
+
+Netherlands
+
+Characteristic
+
+No. % No. % No. %
+
+All individuals, n
+
+2,118
+
+1,257
+
+861
+
+Sex
+
+1,011 47.7
+
+657 52.3 354 41.1
+
+Male
+
+1,107 52.3
+
+600 47.7 507 58.9
+
+Female
+
+Year of birth
+
+Median
+
+1958
+
+1959
+
+1956
+
+Range
+
+1911-1993
+
+1911-1993
+
+1916-1989
+
+MMR gene
+
+MLH1
+
+806 38.1
+
+483 38.4 323 37.5
+
+MSH2
+
+1,004 47.4
+
+650 51.7 354 41.1
+
+MSH6
+
+308 14.5
+
+124 9.9 184 21.4
+
+Affected with cancer
+
+Colon or rectum
+
+1,050 49.6
+
+824 65.6 226 26.2
+
+Endometrium
+
+177 16.0
+
+102 17.0
+
+75 14.8
+
+Stomach
+
+33 1.6
+
+29 2.3
+
+4 0.5
+
+Small bowel
+
+54 2.5
+
+38 3.0 16 1.9
+
+Urinary bladder
+
+31 1.5
+
+22 1.8
+
+9 1.0
+
+Other urothelium
+
+45 2.1
+
+31 2.5 14 1.6
+
+Breast
+
+50 4.5
+
+26 4.3 24 4.7
+
+Ovary
+
+49 4.4
+
+32 5.3 17 3.4
+
+Prostate
+
+17 1.7
+
+12 2.0
+
+4 1.1
+
+Other cancers
+
+110 5.5
+
+76 6.0 34 3.9
+
+CNS, skin, pancreas, kidney, leukemia, lung, gallbladder, thyroid.
+
+RESULTS
+The study cohort comprised a total of 2,118 individuals with a proven pathogenic mutation in MLH1, MSH2, or MSH6. Table 1 shows the basic characteristics. The proportion of male mutation carriers was significantly higher in the German than in the Dutch cohort (52.3% v 41.1%, respectively; P  .001), whereas the age structure was similar (median year of birth, 1957; P  .34). The distribution of the mutated gene was also significantly different between the two registries (P  .001). MSH6 mutation carriers were more frequent in the Dutch than in the German cohort (21.4% v 9.9%, respectively). The frequency of patients with colorectal cancer was considerably higher in the German than in the Dutch cohort (65.6% v 26.2%).
+Figures 1 and 2 show the age-dependent cumulative risks for the seven cancer types compared by gene and sex (univariate comparison). Table 2 gives information about mean ages at diagnosis, cumulative lifetime risks at 70 years, and SIRs with regard to the general population. Table 3 summarizes the results of multivariate modeling of sex and mutated gene, adjusted for registry and year of birth.
+Among the seven less common cancer types considered in our analysis, small bowel and ovarian cancer showed the earliest mean ages at diagnosis (mean, 46 years for small bowel and 44 years for ovarian cancer). Only cancers of the stomach, small bowel, and the ovaries were observed before the age of 30 years. The highest cumulative lifetime risks were observed for breast cancer (14.4%; 95% CI, 9.5% to 19.3%) and small bowel cancer in men (12.0%; 95% CI, 5.7% to 18.2%). Stomach cancer in female mutation carriers had the lowest lifetime risk (2.6%; 95% CI, 1.1% to 4.1%). Clearly significant risk differences between male and female mutations carriers could only be
+
+4410 © 2012 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 5, 2016 from 128.103.149.52 Copyright © 2012 American Society of Clinical Oncology. All rights reserved.
+
+Cumulative Probability (%)
+
+Cumulative Probability (%)
+
+A 20 Male Female 15 P = .02
+10
+5
+
+Risks of Less Common Cancers in Lynch Syndrome
+B 20 MLH1 MSH2 MSH6 15 Pglobal = .03 PMLH1­MSH2 = .72 10 PMLH1­MSH6 = .01 PMSH2­MSH6 = .005
+5
+
+Cumulative Probability (%)
+
+Cumulative Probability (%)
+
+0 10 20 30 40 50 60 70 80 90
+
+Age at Diagnosis (years)
+C 20 Male Female
+
+D
+
+15 P < .001
+
+10
+
+5
+
+0 10 20 30 40 50 60 70 80 90
+Age at Diagnosis (years)
+20 MLH1 MSH2 MSH6
+15 Pglobal = .01 PMLH1­MSH2 = .81
+10 PMLH1­MSH6 = .004 PMSH2­MSH6 = .003
+5
+
+Cumulative Probability (%)
+
+Cumulative Probability (%)
+
+0 10 20 30 40 50 60 70 80 90
+
+Age at Diagnosis (years)
+E 20 Male
+Female
+
+F
+
+15 P = .08
+
+10
+
+5
+
+0 10 20 30 40 50 60 70 80 90
+Age at Diagnosis (years)
+20 MLH1 MSH2 MSH6
+15 Pglobal < .001 PMLH1­MSH2 < .001
+10 PMLH1­MSH6 = .54 PMSH2­MSH6 = .003
+5
+
+Cumulative Probability (%)
+
+Cumulative Probability (%)
+
+0 10 20 30 40 50 60 70 80 90
+
+Age at Diagnosis (years)
+
+G 20 Male Female
+
+H
+
+15 P = .07
+
+10
+
+5
+
+0 10 20 30 40 50 60 70 80 90
+Age at Diagnosis (years)
+20 MLH1 MSH2 MSH6
+15 Pglobal < .001 PMLH1­MSH2 < .001
+10 PMLH1­MSH6 = .91 PMSH2­MSH6 < .001
+5
+
+0 10 20 30 40 50 60 70 80 90
+Age at Diagnosis (years)
+
+0 10 20 30 40 50 60 70 80 90
+Age at Diagnosis (years)
+
+Fig 1. Age-dependent cumulative risks for (A, B) gastric, (C, D) small bowel, (E, F) urinary bladder, and (G, H) other urothelial cancers, compared by sex (left panels) and by mutated gene (right panels).
+
+www.jco.org
+
+© 2012 by American Society of Clinical Oncology 4411
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 5, 2016 from 128.103.149.52
+
+Copyright © 2012 American Society of Clinical Oncology. All rights reserved.
+
+Engel et al
+
+Cumulative Probability (%)
+
+A 25
+20
+
+MLH1 MSH2 MSH6
+
+15 Pglobal = .83
+
+10
+
+5
+
+0 10 20 30 40 50 60 70 80 90
+
+Age at Diagnosis (years)
+
+B 20
+
+MLH1
+
+MSH2
+
+MSH6 15
+
+Pglobal = .06
+
+10
+
+5
+
+Cumulative Probability (%)
+
+Cumulative Probability (%)
+
+0 10 20 30 40 50 60 70 80 90
+
+Age at Diagnosis (years)
+
+C 30
+
+MLH1
+
+MSH2 25 MSH6
+
+20 Pglobal < .001 PMLH1­MSH2 < .001
+15 PMLH1­MSH6 = .30 PMSH2­MSH6 = .01
+10
+
+5
+
+0 10 20 30 40 50 60 70 80 90
+Age at Diagnosis (years)
+Fig 2. Age-dependent cumulative risks for (A) breast, (B) ovarian and (C) prostate cancer, compared by mutated gene.
+
+observed for small bowel cancer, with a hazard ratio (HR) for male carriers of 2.52 (95% CI, 1.41 to 4.50). Male carriers had a two-fold increased risk for gastric cancer compared with women (HR  2.00; 95% CI, 0.98 to 4.10); however, this difference was borderline nonsignificant in the multivariate analysis (P  .058). Cancers of the urinary tract showed no significant risk differences by sex in the multivariate analysis, even though the risk was estimated to be higher for male carriers.
+Risk differences between MLH1, MSH2, and MSH6 mutation carriers were found for gastric and small bowel cancer, cancers of the urinary tract (urinary bladder and other urothelial cancers), ovarian cancer, and prostate cancer. For stomach and small bowel cancer, MLH1 and MSH2 mutation carriers had similar cumulative risks; however, MSH6 carriers showed a significantly decreased risk com-
+
+Table 2. Mean Ages at Diagnosis, Cumulative Lifetime Risks, and SIRs Compared With the General Population
+
+Male
+
+Female
+
+Organ
+
+% 95% CI % 95% CI
+
+Age at diagnosis, years Stomach Median Range Small bowel Median Range Urinary bladder Median Range Other urothelium Median Range Breast Median Range Ovary Median Range Prostate Median Range
+Cumulative risk at 70 years Stomach Small bowel Urinary bladder Other urothelium Breast Ovary Prostate
+SIR Stomach Small bowel Urinary bladder Other urothelium Breast Ovary Prostate
+
+6.7 12.0
+5.5 9.4
+9.1
+9.8 250.9
+8.5 100.4
+2.5
+
+51 28-78
+46 25-73
+53 34-75
+52 32-73
+--
+--
+59 50-74
+3.1 to 10.3 5.7 to 18.2 2.7 to 8.3 4.6 to 14.1 -- -- 4.4 to 13.8
+6.0 to 14.9 176.7 to 345.9
+5.0 to 13.5 65.0 to 148.2 -- --
+1.4 to 4.0
+
+49 40-58
+46 23-71
+55 43-74
+57 41-74
+52 30-76
+44 26-58
+--
+
+2.6 3.9 3.5 6.0 14.4 8.0
+
+1.1 to 4.1 1.2 to 6.5 1.4 to 5.5 2.9 to 9.1 9.5 to 19.3 5.8 to 10.3 --
+
+7.2 112.2
+16.2 121.8
+1.9 13.6
+
+3.7 to 12.6 65.4 to 179.7
+8.6 to 27.8 74.4 to 188.2
+1.4 to 2.4 10.0 to 17.9
+--
+
+Abbreviation: SIR, standardized incidence ratio.
+
+pared with MLH1 carriers. Regarding urothelial cancer, MSH2 mutation carriers had a considerably higher risk compared with MLH1 and MSH6 mutation carriers. A similar gene-dependent risk pattern was found for prostate cancer, although quantitative risk estimation was not possible in the multivariate analysis. A different pattern was found for ovarian cancer, with comparable risks between MSH2 and MSH6 mutation carriers and a reduced risk for MLH1 mutation carriers.
+All seven cancer types were significantly more frequent and occurred earlier than expected in the general population (Table 2). This was even the case for breast cancer, with an SIR of 1.9 (95% CI, 1.4 to 2.4) and a mean age at diagnosis of 52 years (range, 30 to 76 years). The highest SIRs were found for small bowel cancer and urothelial cancer (SIRs between 100 and 251). There was no significant heterogeneity in cancer risks between the German and Dutch sample except for stomach cancer, for which the risk was significantly lower in the Dutch sample (HR  0.24; 95% CI, 0.08 to 0.67; P  .007).
+
+4412 © 2012 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 5, 2016 from 128.103.149.52 Copyright © 2012 American Society of Clinical Oncology. All rights reserved.
+
+Risks of Less Common Cancers in Lynch Syndrome
+
+Table 3. Association of Sex and Mutated Gene on the Risks of Less Common Cancers: Results of Multivariate Cox Regression Modeling
+
+Variable
+Stomach Male sex MMR gene MSH2 MSH6
+Small bowel Male sex MMR gene
+MSH2 MSH6 Urinary bladder Male sex MMR gene MSH2 MSH6 Other urothelium Male sex MMR gene MSH2 MSH6 Breast MMR gene MSH2 MSH6 Ovary MMR gene MSH2 MSH6 Prostate MMR gene MSH2 MSH6
+
+Hazard Ratio
+2.00 1.03
+
+2.52 1.00 0.11 1.73 5.42 0.57 1.54 8.27 1.05
+0.92 0.77
+2.09 2.59
+ 
+
+95% CI
+0.98 to 4.10 0.52 to 2.06
+
+1.41 to 4.50 0.58 to 1.73 0.02 to 0.83 0.84 to 3.54 1.89 to 15.56 0.06 to 5.18 0.85 to 2.78 2.95 to 23.19 0.19 to 5.78
+0.50 to 1.69 0.34 to 1.76
+1.04 to 4.21 1.11 to 6.05
+ 
+
+P
+.058 .936
+
+.002 .993 .032 .137 .002 .620 .156  .001 .957
+.917 .539
+.040 .027
+ 
+
+NOTE. Female sex and MLH1 gene were reference categories adjusted for registry (Germany v Netherlands) and year of birth.
+Abbreviation: MMR, mismatch repair. No estimation possible.
+
+DISCUSSION
+In this retrospective cohort study, we investigated the risks of less common cancers in patients with LS. We were particularly interested in describing risk differences by sex and mutated MMR gene (MLH1, MSH2, and MSH6). Colorectal cancer and endometrial cancer were not included in this analysis because patients were preferentially ascertained on the basis of the presence of these cancers in their families. Therefore, in retrospective studies, the risks for these cancers are likely to be largely overestimated if the analysis does not account for ascertainment bias.21 Furthermore, we restricted our analysis to individuals with a proven mutation. Many other studies have also included family members with unknown mutation status. These members were assumed to have a mutation if they already had been diagnosed with colorectal or endometrial cancer (so-called probable mutation carriers). However, it cannot be excluded that some of these individuals had only sporadic cancer. Consequently, the inclusion of such individuals into the analysis may lead on the one hand to an underestimation
+
+of less common cancer risks and on the other hand to an overesti-
+mation of colorectal and endometrial cancer risks.
+Gastric cancer risk was significantly increased compared with
+that of the general population (SIR 9.8 for male and 7.2 for female
+mutation carriers). We also found that gastric cancer risk was
+considerably lower in the Dutch than in the German study cohort (HR  0.24). This explains why a separate Dutch study reports only SIRs of 3.8 for male and 2.7 for female individuals.10 However,
+the reason for this risk difference remains unclear, especially because
+age-standardized incidence rates are not largely different between the German and Dutch general population.22 Aarnio et al2 reported an
+SIR of 6.9 in 360 proven and obligate mutation carriers, which is more
+in agreement with our present finding. The cumulative lifetime risks
+for gastric cancer in MLH1 and MSH2 carriers in our study were also in concordance with the figures reported by Watson et al.9 Also in agreement with the study by Watson et al,9 we did not detect a signif-
+icant risk difference for gastric cancer between MLH1 and MSH2 mutation carriers. In contrast to the study of Watson et al,9 we found
+a relevant difference in gastric cancer risk between male and female individuals (HR  2.00), which was significant in the univariate analysis and nearly significant in the multivariate analysis (P  .02 and P  .058, respectively). Barrow et al12 also report significant differ-
+ences between male and female patients.
+Small bowel cancer showed the highest risk increase compared
+with the general population (SIR of 251 for male and 112 for female
+mutation carriers). Cumulative risk figures at age 70 years are higher than reported by others.9,12,23 Male carriers had a significantly higher risk than female carriers (HR  2.5). Small bowel cancer risk was
+significantly lower in MSH6 mutation carriers compared with MLH1
+and MSH2 mutation carriers.
+Bladder cancer was significantly more frequent than expected in
+the general population (SIR of 8.5 for male and 16.2 for female muta-
+tion carriers). MSH2 mutation carriers had a considerably increased
+risk to develop bladder cancer compared with MLH1 and MSH6
+carriers. This is in accordance with two other studies, which also found significantly higher risks in MSH2 mutation carriers.7,9 Our result
+supports the observation that bladder cancer is part of the tumor
+spectrum of LS.
+The risk for ovarian cancer was approximately 14 times higher
+than in the general population, which is consistent with data from Aarnio et al.2 Interestingly, MSH2 and MSH6 carriers had significantly higher risks than MLH1 carriers (HR  2.1 for MSH2 and 2.6 for MSH6, respectively). Watson et al9 have reported previously substan-
+tially higher risks for carriers of MSH2 mutations than for MLH1-
+mutation carriers.
+Our analysis suggests that breast cancer risk is significantly ele-
+vated compared with the general population (SIR of 1.9). There was
+no significant heterogeneity for breast cancer risk between the Ger-
+man and the Dutch registry. There were also no differences in the risks
+between MLH1, MSH2, and MSH6. Most other studies did not show a significantly higher risk for breast cancer.2,9 However, Scott et al6
+reported a significant overrepresentation of breast cancers in MSH2 mutation carriers (SIR  14.77). The lifetime risk for breast cancer
+was approximately 14% in our analysis, which is considerably higher than reported in the study by Watson et al9 (5.4%). In the light of these
+conflicting results regarding breast cancer risks, larger studies are
+required to further investigate whether breast cancer is part of the
+tumor spectrum of LS.
+
+www.jco.org
+
+© 2012 by American Society of Clinical Oncology 4413
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 5, 2016 from 128.103.149.52
+
+Copyright © 2012 American Society of Clinical Oncology. All rights reserved.
+
+Engel et al
+
+The risk of prostate cancer was significantly increased compared with that of the general population (SIR of 2.5). The highest risk was found in carriers of MSH2 mutations. Grindedal et al5 recently reported an even higher risk increase for prostate cancer (SIR of 5.9) in 106 mutation carriers. They reported that prostate cancer was only observed in carriers of MSH2, MSH6, and PMS2 mutations but not in those with MLH1 mutations.
+Pancreatic cancer and other types of cancer could not be included in our analysis because the number of events was too small to yield conclusive risk estimates. However, other studies suggest that the risk of pancreatic cancer is increased in families with LS compared with the general population.4
+In our study, male patients with LS generally had higher risks for gastric, small bowel, and urothelial cancer than female patients. These risk differences might be explained at least in part by different environmental exposures or lifestyles (eg, regarding smoking habits, alcohol consumption, or dietary factors).24 Recently, studies have been published demonstrating an association between smoking or body mass index and colorectal adenoma or cancer risk.25-28 However, studies addressing the possible association between these factors and the less common cancers in LS are not yet available.
+Our study confirms that less common cancers show organspecific risk differences with regard to the mutated MMR gene. The reason for this gene and organ specificity is yet not well understood. The MMR system consists of different MMR proteins interacting with each other to detect and to repair DNA mismatches. It has been proposed that likely several distinct mechanisms contribute to the observed of tissue specificity (eg, cell type­specific mutator targets, specific apoptotic pathways, interactions between the MMR system and environmental factors, and others).29
+Some limitations of our study should be addressed. PMS2 mutation carriers were not included in this study, because their number was far too small to obtain reasonable risk estimates. Another limitation is that retrospective analyses may lead to an overestimation of risks for those types of cancer, which were the basis for selection (ascertainment bias).21 However, most families were identified by clustering or early onset of colorectal or endometrial cancer. Therefore, we believe that risk estimates for the less common noncolonic nonendometrial cancers should not be severely affected. However, the risk estimates from our study may not apply to mutation carriers who were ascertained under different conditions and should therefore be interpreted with caution. To overcome the specific problem of ascertainment bias, data from prospective studies are required. Ideally, to accumulate sufficient data in an acceptable time frame, this problem should be tackled in international collaborative efforts combining data from large national registries. Until results from prospective studies become available, retrospective analyses must be considered as the best available basis for clinical decision making.
+In summary, there is increasing evidence in the literature that the risks of less common cancers in LS depend on sex and the specific mutated MMR gene. These two factors should be taken
+
+into account for specific cancer surveillance strategies. For instance, MSH2 mutation carriers may be included in specific surveillance for urothelial and prostate cancer. In Germany, annual upper GI endoscopy is currently recommended for all patients with LS irrespective of the affected MMR gene. However, this advice could possibly be restricted to patients with MLH1 or MSH2 mutations, as the risk for gastric or small bowel cancer is considerably lower in patients with MSH6 mutations.
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+Although all authors completed the disclosure declaration, the following author(s) and/or an author's immediate family member(s) indicated a financial or other interest that is relevant to the subject matter under consideration in this article. Certain relationships marked with a "U" are those for which no compensation was received; those relationships marked with a "C" were compensated. For a detailed description of the disclosure categories, or for more information about ASCO's conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors. Employment or Leadership Position: Hans K. Schackert, GWT of TU Dresden (C); Heike Goergens, GWT of TU Dresden (C) Consultant or Advisory Role: Hans K. Schackert, Medical Care Unit GmbH of the University Hospital Dresden (C); Heike Goergens, Medical Care Unit of the University Hospital Dresden (C); Wolff Schmiegel, Roche (C), Amgen (C), AstraZeneca (C); Gabriela Moeslein, Bayer HealthCare Pharmaceuticals (C) Stock Ownership: None Honoraria: Hans K. Schackert, onkovis GmbH, Merck Pharma GmbH; Heike Goergens, onkovis GmbH, Merck Pharma GmbH; Wolff Schmiegel, Merck, Roche, Abbott Laboratories, Amgen, Pfizer, Falk, AstraZeneca Research Funding: Wolff Schmiegel, Roche, sanofi-aventis, Pfizer Expert Testimony: None Other Remuneration: Wolff Schmiegel, Roche, Merck, AstraZeneca
+AUTHOR CONTRIBUTIONS
+Conception and design: Christoph Engel, Markus Loeffler, Elke Holinski-Feder, Reinhard Buettner, Gabriela Moeslein, Hans F.A. Vasen Provision of study materials or patients: Wolfgang Dietmaier, Nicoline Hoogerbrugge, Rolf H. Sijmons, Anja Wagner, Irma Kluijt Collection and assembly of data: Christoph Engel, Markus Loeffler, Verena Steinke, Nils Rahner, Wolfgang Dietmaier, Hans K. Schackert, Heike Goergens, Magnus von Knebel Doeberitz, Timm O. Goecke, Wolff Schmiegel, Reinhard Buettner, Gabriela Moeslein, Tom G.W. Letteboer, Encarna Go´ mez García, Frederik J. Hes, Nicoline Hoogerbrugge, Theo A.M. van Os, Rolf H. Sijmons, Anja Wagner, Irma Kluijt, Peter Propping, Hans F.A. Vasen Data analysis and interpretation: Christoph Engel, Markus Loeffler, Wolff Schmiegel, Tom G.W. Letteboer, Fred H. Menko, Hans F.A. Vasen Manuscript writing: All authors Final approval of manuscript: All authors
+
+REFERENCES
+1. Vasen HF: Review article: The Lynch syndrome (hereditary nonpolyposis colorectal cancer). Aliment Pharmacol Ther 26:113-126, 2007 (suppl 2)
+
+2. Aarnio M, Sankila R, Pukkala E, et al: Cancer risk in mutation carriers of DNA-mismatch-repair genes. Int J Cancer 81:214-218, 1999
+3. Bonadona V, Bonaïti B, Olschwang S, et al: Cancer risks associated with germline mutations in MLH1, MSH2, and MSH6 genes in Lynch syndrome. JAMA 305:2304-2310, 2011
+
+4. Kastrinos F, Mukherjee B, Tayob N, et al: Risk of pancreatic cancer in families with Lynch syndrome. JAMA 302:1790-1795, 2009
+5. Grindedal EM, Møller P, Eeles R, et al: Germline mutations in mismatch repair genes associated with prostate cancer. Cancer Epidemiol Biomarkers Prev 18:2460-2467, 2009
+
+4414 © 2012 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 5, 2016 from 128.103.149.52 Copyright © 2012 American Society of Clinical Oncology. All rights reserved.
+
+Risks of Less Common Cancers in Lynch Syndrome
+
+6. Scott RJ, McPhillips M, Meldrum CJ, et al: Hereditary nonpolyposis colorectal cancer in 95 families: Differences and similarities between mutationpositive and mutation-negative kindreds. Am J Hum Genet 68:118-127, 2001
+7. van der Post RS, Kiemeney LA, Ligtenberg MJ, et al: Risk of urothelial bladder cancer in Lynch syndrome is increased, in particular among MSH2 mutation carriers. J Med Genet 47:464-470, 2010
+8. Schulmann K, Engel C, Propping P, et al: Small bowel cancer risk in Lynch syndrome. Gut 57:1629-1630, 2008
+9. Watson P, Vasen HF, Mecklin JP, et al: The risk of extra-colonic, extra-endometrial cancer in the Lynch syndrome. Int J Cancer 123:444-449, 2008
+10. Capelle LG, Van Grieken NC, Lingsma HF, et al: Risk and epidemiological time trends of gastric cancer in Lynch syndrome carriers in the Netherlands. Gastroenterology 138:487-492, 2010
+11. Baglietto L, Lindor NM, Dowty JG, et al: Risks of Lynch syndrome cancers for MSH6 mutation carriers. J Natl Cancer Inst 102:193-201, 2010
+12. Barrow E, Robinson L, Alduaij W, et al: Cumulative lifetime incidence of extracolonic cancers in Lynch syndrome: A report of 121 families with proven mutations. Clin Genet 75:141-149, 2009
+13. Goecke T, Schulmann K, Engel C, et al: Genotype-phenotype comparison of German MLH1 and MSH2 mutation carriers clinically affected with Lynch syndrome: A report by the German HNPCC Consortium. J Clin Oncol 24:4285-4292, 2006
+14. Mangold E, Pagenstecher C, Friedl W, et al: Spectrum and frequencies of mutations in MSH2
+
+and MLH1 identified in 1,721 German families suspected of hereditary nonpolyposis colorectal cancer. Int J Cancer 116:692-702, 2005
+15. Vasen HF, den Hartog Jager FC, Menko FH, et al: Screening for hereditary non-polyposis colorectal cancer: A study of 22 kindreds in The Netherlands. Am J Med 86:278-281, 1989
+16. Vasen HF, Stormorken A, Menko FH, et al: MSH2 mutation carriers are at higher risk of cancer than MLH1 mutation carriers: A study of hereditary nonpolyposis colorectal cancer families. J Clin Oncol 19:4074-4080, 2001
+17. Vasen HF, Mecklin JP, Khan PM, et al: The International Collaborative Group on Hereditary NonPolyposis Colorectal Cancer (ICG-HNPCC). Dis Colon Rectum 34:424-425, 1991
+18. Vasen HF, Watson P, Mecklin JP, et al: New clinical criteria for hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome) proposed by the International Collaborative group on HNPCC. Gastroenterology 116:1453-1456, 1999
+19. Rodriguez-Bigas MA, Boland CR, Hamilton SR, et al: A National Cancer Institute Workshop on Hereditary Nonpolyposis Colorectal Cancer Syndrome: Meeting highlights and Bethesda guidelines. J Natl Cancer Inst 89:1758-1762, 1997
+20. Umar A, Boland CR, Terdiman JP, et al: Revised Bethesda Guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 96:261268, 2004
+21. Carayol J, Khlat M, Maccario J, et al: Hereditary non-polyposis colorectal cancer: Current risks of
+
+colorectal cancer largely overestimated. J Med Genet 39:335-339, 2002
+22. Ferlay J, Parkin DM, Steliarova-Foucher E: Estimates of cancer incidence and mortality in Europe in 2008. Eur J Cancer 46:765-781, 2010
+23. ten Kate GL, Kleibeuker JH, Nagengast FM, et al: Is surveillance of the small bowel indicated for Lynch syndrome families? Gut 56:1198-1201, 2007
+24. Diergaarde B, Braam H, Vasen HF, et al: Environmental factors and colorectal tumor risk in individuals with hereditary nonpolyposis colorectal cancer. Clin Gastroenterol Hepatol 5:736-742, 2007
+25. Winkels RM, Botma A, Van Duijnhoven FJ, et al: Smoking increases the risk for colorectal adenomas in patients with Lynch syndrome. Gastroenterology 142:241-247, 2012
+26. Botma A, Nagengast FM, Braem MG, et al: Body mass index increases risk of colorectal adenomas in men with Lynch syndrome: The GEOLynch cohort study. J Clin Oncol 28:4346-4353, 2010
+27. Pande M, Lynch PM, Hopper JL, et al: Smoking and colorectal cancer in Lynch syndrome: Results from the Colon Cancer Family Registry and the University of Texas M.D. Anderson Cancer Center. Clin Cancer Res 16:1331-1339, 2010
+28. Watson P, Ashwathnarayan R, Lynch HT, et al: Tobacco use and increased colorectal cancer risk in patients with hereditary nonpolyposis colorectal cancer (Lynch syndrome). Arch Intern Med 164: 2429-2431, 2004
+29. Chao EC, Lipkin SM: Molecular models for the tissue specificity of DNA mismatch repair-deficient carcinogenesis. Nucleic Acids Res 34:840-852, 2006
+
+Affiliations Christoph Engel and Markus Loeffler, University of Leipzig, Leipzig; Verena Steinke and Peter Propping, University of Bonn, Bonn; Nils Rahner and Timm O. Goecke University Hospital, Heinrich-Heine-University, Duesseldorf; Elke Holinski-Feder, Klinikum der Universita¨t Mu¨nchen, Center of Medical Genetics, Munich; Wolfgang Dietmaier, University of Regensburg, Regensburg; Hans K. Schackert and Heike Goergens, Technische Universita¨t Dresden, Dresden; Magnus von Knebel Doeberitz, University of Heidelberg, Heidelberg; Wolff Schmiegel, Knappschaftskrankenhaus, Ruhr-University Bochum, Bochum; Reinhard Buettner, University Hospital of Cologne, Cologne; Gabriela Moeslein, HELIOS St Josefs-Hospital, Bochum-Linden, Germany; Tom G.W. Letteboer, University Medical Centre Utrecht, Utrecht; Encarna Go´ mez García, University of Maastricht, Maastricht; Frederik J. Hes and Hans F.A. Vasen, Leiden University Medical Centre, Leiden; Nicoline Hoogerbrugge, Radboud University Nijmegen, Medical Centre, Nijmegen; Fred H. Menko, VU University Medical Centre; Theo A.M. van Os, Academic Medical Center; Irma Kluijt, Family Cancer Clinic, The Netherlands Cancer Institute Antoni van Leeuwenhoek Hospital, Amsterdam; Rolf H. Sijmons, University of Groningen, University Medical Centre Groningen, Groningen; and Anja Wagner, Erasmus Medical Center, Rotterdam, the Netherlands.
+
+
+www.jco.org
+
+© 2012 by American Society of Clinical Oncology 4415
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 5, 2016 from 128.103.149.52
+
+Copyright © 2012 American Society of Clinical Oncology. All rights reserved.
+
+

@@ -1,0 +1,416 @@
+
+
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.7.3501
+
+CHEK2 1100delC Variant and Breast Cancer Risk in Caucasians: A Meta-analysis
+
+RESEARCH ARTICLE
+
+CHEK2 1100delC Variant and Breast Cancer Risk in Caucasians: A Meta-analysis Based on 25 Studies with 29,154 Cases and 37,064 Controls
+Yuan Yang1, Fan Zhang2, Yang Wang2, Sheng-Chun Liu3*
+
+Abstract
+ Links between the CHEK2 1100delC heterozygote and breast cancer risk have been extensively explored. However, both positive and negative associations with this variant have been reported in individual studies. For a detailed assessment of the CHEK2 1100delC heterozygote and breast cancer risk, relevant studies published as recently as May 2012 were identified using PUBMED and EMBASE and selected using a priori defined criteria. The strength of the relationship between the CHEK2 1100delC variant and breast cancer risks was assessed by odds ratios (ORs) under the fixed effects model. A total of 29,154 cases and 37,064 controls from 25 case-control studies were identified in this meta-analysis. The CHEK2 1100delC heterozygote was more frequently detected in cases than in controls (1.34% versus 0.44%). A significant association was found between CHEK2 1100delC heterozygote and breast cancer risk (OR=2.75, 95% CI: [2.25, 3.36]). The ORs and CIs were 2.33 (95% CI: [1.79, 3.05]), 3.72 (95% CI: [2.61, 5.31]) and 2.78 (95% CI: [2.28, 3.39]) respectively in unselected, family, early-onset breast cancer subgroups. The CHEK2 1100delC variant could be a potential factor for increased breast cancer risk in Caucasians. However, more consideration is needed in order to apply it to allele screening or other clinical work.
+Keywords: Breast cancer - CHEK2 - 1100delC variant - meta-analysis
+Asian Pacific J Cancer Prev, 13, 3501-3505
+
+Introduction
+ Breast cancer is one of the most common cancers in the world. It negatively impacts women both physically and psychologically. After the BRCA1 and BRCA2 proteins were cloned and their association with family breast cancer was detected (Miki Y et al., 1994; Wooster R et al., 1995), greater emphasis was placed on the candidate gene of breast cancer. The cell cycle-checkpoint kinase 2 gene, or CHEK2, was widely researched as a strong candidate gene for breast cancer susceptibility (Vahteristo et al., 2002; Sodha et al., 2002; Offit et al., 2003; CHEK2 Breast Cancer Consortium, 2004; Dufault et al., 2004; Friedrichsen et al., 2004; Mateus Pereira et al., 2004; Baeyens et al., 2005; Kleibl et al., 2005; Rashid et al., 2005; Bernstein et al., 2006; Einarsdóttir et al., 2006; Cybulski et al., 2007; Weischer et al., 2007; Zhang et al., 2008; Fletcher et al., 2009; McInerney et al., 2010; Iniesta et al., 2010).  Initially, the CHEK2 1100delC variant was found in women suffering from breast cancer with familial Li-Fraumeni syndrome (Bell et al., 1999). A large study (Meijers-Heijboer et al., 2002) later found the same variant affecting familial breast cancer without the BRCA1 and
+
+BRCA2 mutations. In 2004, CHEK2-Breast Cancer Consortium did a collaborative analysis with 10 studies from 5 western countries, which involved 10 860 breast cancer cases and 9 065 controls (CHEK2 Breast Cancer Consortium, 2004). The Consortium found the frequency of CHEK2 1100delC to be 1.9% and 0.7% in cases and controls respectively, and confirmed that this gene variant could potentially increase the risk of breast cancer. And in 2008, another quantitative synthesis was done by Weischer et al. (2008). Combined with 16 studies, it showed that CHEK2 1100delC heterozygotes rate was 3- to 5-fold higher in breast cancer group than control group.  However, this widely discussed variant of CHEK2 ­ which seemed clearly associated with the predominance of breast cancer in western countries ­ was rarely detected in Asian populations, such as the Chinese (Song et al., 2006), Koreans (Choi, 2008), Japanese (Bell et al., 2007), Singaporeans (Lee and Ang, 2008), Malaysians (Thirthagiri et al., 2009) and South Indians (Rajkumar et al., 2003). With the influx of recent studies concerning these particular findings, a stricter meta-analysis with the recent data is necessary. Our research centers around a meta-analysis of the relationship between this variant of CHEK2 and breast cancer risk in various populations.
+
+1Department of Cardiology, the First Affiliated Hospital, 2School of Public Health and Health Management, 3Department of Endocrine and Breast Surgery, the First Affiliated Hospital, Chongqing Medical University, Chongqing, China *For correspondence: liushengchun1968@126.com
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 3501
+
+Yuan Yang et al
+Materials and Methods
+Search strategy  To identify relevant studies, the terms "CHEK2" or "CHEK2 1100delC", and "breast cancer" or "breast neoplasm" were used in an electronic database search. PUBMED and EMBASE were the relevant databases used; Google Scholar was also used. References of the retrieved articles were also screened for relevant studies. This search strategy was performed iteratively up to and including 20 May 2012.
+Selection criteria  Titles and abstracts of relevant studies were reviewed. The following criteria was used to identify relevant studies: (i) must be population-based or hospital-based; (ii) must be a case-control study; (iii) must provide the size of the samples, distribution of alleles, genotypes, or other critical information that would help to infer the results; (iv) must include the most recent or largest sample population; (v) the publication language was either in English or Chinese. Reviews, editorials, meeting abstracts, and commentaries were excluded from our analysis. We also excluded studies that did not detect the CHEK2 1100delC allele in both cases and controls (Rajkumar et al., 2003; Song et al., 2006; Bell et al., 2007; Choi, 2008; Lee and Ang, 2008; Thirthagiri et al., 2009).
+
+Data extraction  Data were extracted independently by two reviewers (Yang Y. and Zhang F.). The following information was extracted from each article: first author, year of publication, country where each study was conducted, ethnicity of subjects, source of control group (populationbased, hospital-based or mixed controls), matched factors of the control group, deviation from the Hardy-Weinberg Equilibrium (HWE) of the control group, case type (unselected, family and early-onset breast cancers), genotyping method, and the frequencies of genotypes in the case and control groups.
+Statistical analyses  A crude odds ratio (OR) with a 95% confidence interval (CI) for alleles and genotypes was used to assess the strength of association between the CHEK2 1100delC heterozygote and breast cancer risks. The pooled ORs were performed for the allele contrast, additive genetic model, dominant genetic model, and recessive genetic model, respectively. The heterogeneity assumption was assessed by using the Cochran's 2-based Q statistic test and I-squared test. The heterogeneity was considered insignificant when P>0.10 and I2 <50%. If the study lacked heterogeneity, the pooled OR estimate of each study was calculated using the fixed effects model. In other cases, the random effects model was used (Overton and Randall
+
+Table 1. Characteristics of Studies Included in the Meta-analysis
+
+Author or Year
+
+Countryb source of the controls Genotyping
+
+Cancer type
+
+Case Control
+
+study namea
+
+Methodc
+
+Total Hd Total Hd
+
+ABC
+
+2004
+
+ABCFS  2004
+
+Baeyens  2005
+
+Bernstein  2006
+
+Cybulski  2007
+
+Dufault  2004
+
+Einarsdottir  2006
+
+ERGO 
+
+2004
+
+Friedrichsen  2004
+
+Hannover  2004
+
+Heidelberg  2004
+
+Helsinki  2004
+
+Kleibl 
+
+2005
+
+Kuopio  2004
+
+Mateus 2004
+
+Mclnerney  2010
+
+Offit 
+
+2003
+
+PROSPECT  2004
+
+Rashid 
+
+2005
+
+RMOT  2004
+
+Sodha 
+
+2002
+
+UKNCC  2004
+
+Vahteristo  2002
+
+Weischer  2007
+
+Zhang 
+
+2008
+
+
+
+UK
+
+Hospital-based
+
+Australia
+
+population-based
+
+Belgium
+
+Hospital-based
+
+Canada, USA Hospital-based
+
+Poland
+
+Hospital-based
+
+Germany
+
+Hospital-based
+
+Sweden
+
+Hospital-based
+
+Netherlands
+
+population-based
+
+USA
+
+population based
+
+Germany
+
+Hospital-based
+
+Germany
+
+population-based
+
+Finland
+
+Hospital-based
+
+Czech Republic Hospital-based
+
+Finland
+
+Hospital-based
+
+USA
+
+Hospital-based
+
+Ireland
+
+Hospital-based
+
+USA
+
+Hospital-based
+
+Netherlands
+
+Hospital-based
+
+Germany
+
+Hospital-based
+
+Netherlands
+
+Hospital-based
+
+UK Hospital-based
+
+UK population-based
+
+Finland
+
+Hospital-based
+
+Denmark
+
+Hospital-based
+
+Brazil, Pakistan,  Hospital-based
+
+Filipino, Canada
+
+Sequencing
+
+Unselected
+
+Taqman
+
+Early-onset
+
+DHPLC
+
+Mixed
+
+Sequencing
+
+Family
+
+ASO- or RFLP-PCR Mixed
+
+DHPLC
+
+Family
+
+Mass-array
+
+Family
+
+Sequencing
+
+Unselected
+
+Sequencing
+
+Early-onset
+
+Sequencing
+
+Unselected
+
+Sequencing
+
+Unselected
+
+Sequencing
+
+Unselected
+
+DHPLC
+
+Mixed
+
+Sequencing
+
+Unselected
+
+Taqman
+
+Family
+
+Taqman
+
+Family
+
+dHPLC,Sequencing Unselected
+
+Sequencing
+
+Unselected
+
+dHPLC
+
+Mixed
+
+Sequencing
+
+Unselected
+
+CSGE
+
+Family
+
+Taqman
+
+Early-onset
+
+Sequencing
+
+Family
+
+Genescan
+
+Unselected
+
+Sequencing
+
+Mixed
+
+2886 35 374920 1474 10 736 1 178 4 100 0 2281 30 495 1 4554 20 5496 12 516 8 1315 6 1509 19 1334 8
+79 2 460 6 450 6 412 2 985 11 401 1 601 2 650 1 1035 21 1885 26 1046 4 730 2 464 13 447 5 829 9 9594 903 5 1016 1 300 3 1665 5 1066 35 265 0 770 8 417 2 1706 65 184 3 68 3 300 0 564 7 288 1 507 28 942 13 1374 16 4633 22 3009 27 8185 22
+
+aABC, Anglian Breast Cancer Study; ABCFS, Australian Breast Cancer Case-Control Family Study; ERGO, Erasmus Rotterdam
+Health and the Elderly Study; PROSPECT, RMOT: The Rotterdam Medical Oncology Tumorbank; UKNCC, United Kingdom National Case-Control Studies; bUK, United kingdom; USA: United States of America; cDHPLC, denaturing high-performance
+liquid chromatography; ASO, allele-specific oligonucleotide; PCR, Polymerase Chain Reaction; RFLP, Restriction Fragment Length Polymorphism; dH, Heterozygosity
+
+3502 Asian Pacific Journal of Cancer Prevention, Vol 13, 2012
+
+Odds Ratio
+
+
+
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.7.3501
+
+CHEK2 1100delC Variant and Breast Cancer Risk in Caucasians: A Meta-analysis
+
+100.0
+
+75.0
+
+Figure 1. Forest Plot on Association Between CHEK2 1100delC Heterozygosity and Breast Cancer Risk
+C, 1998). Stratification analyses by case type (unselected, family and early-onset breast cancers) were conducted to lower the heterogeneity and retrieve more precise data. The sensitivity analysis was conducted based on the leaveone-out sensitivity procedure. Possible publication bias was tested by the funnel plot.  All statistical tests were conducted with Cochrane Collaboration's Review Manager (Version 5.1). A P value of 0.05 for any test or model was considered to be statistically significant, except where otherwise specified. All statistical tests were two-sided.
+
+50.0
+
+25.0
+
+Figure 2. Forest Plot on Association of CHEK2
+
+1100delC Heterozygosity with Unselected, Family and
+
+Early-onset Breast Cancer Risk
+
+0
+
+Results
+
+Eligible studies  After examining the data according to the eligibility criteria, a total of 25 studies from 16 publications were generated by the search strategy. As shown in Table 1, all of the studies were conducted in Europe, America or South America, with the exception of one study that was composed of mixed ethnicities across several countries (Zhang et al., 2008). These studies were all case-control studies; the majority of which were hospital-based controls that were matched for age and ethnicity. It should be noted that most studies did not specify whether the genotype distribution in the controls was deviated from the HWE or not. The genotype methods were almost sequencing or d-HPLC. All of 29,154 cases and 37,064 controls were involved in this meta-analysis.  Among the cases, 13,875 patients had unselected breast cancer, 7,945 patients had familial breast cancer and 5,802 patients had early-onset breast cancer. The remaining cases were categorized as unclassified.  In total, 391 patients were found with the CHEK2 1100delC heterozygote in 29,154 cases and 164 patients in 37,064 controls. The allele carrier rate was 1.34% and 0.44% in cases and controls, respectively. The allele frequency was approximately three times greater in cases as compared to controls.
+Quantitative synthesis  Overall, the CHEK2 1100delC variant was more frequent in breast cancer patients. By using the fixed
+
+Figure 3. Funnel Plot Made Based on the Total Studies
+effects model, the association between CHEK2 1100delC heterozygote and breast cancer was significant with OR 2.75 (95% CI: [2.25, 3.36]) (Figure 1). In the subgroup analysis, a significant correlation was also found in unselected, familial, early-onset breast cancer. The ORs and CIs were 2.33 (95% CI: [1.79, 3.05]), 3.72 (95% CI: [2.61, 5.31]) and 2.78 (95% CI: [2.28, 3.39]), respectively (Figure 2).
+Sensitivity analysis  The sensitivity analysis was conducted by excluding certain studies, such as one that had none of the minor allele homozygous detected in the control group. We also did the sensitivity analysis by eliminating one study each time. Consequently, the results were not principally altered, although the I-square value for the heterogeneity was reduced in certain cases. This indicates that the results of the meta-analysis are statistically robust.
+Publication bias  Funnel plots were performed to assess the publication bias. The shape of the funnel plot (Figure 3) did not reveal obvious asymmetry, indicating no obvious publication bias.
+
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 3503
+
+6. 56 31
+
+Yuan Yang et al
+
+Discussion
+According to the "World Cancer Report", the breast cancer is responsible for 22.9% of total cancers (excluding non-melanoma skin cancers) in women all over the world. It is estimated that 458,503 deaths were due to breast cancer in 2008 alone, which accounts for 13.7% of cancer deaths in women worldwide (World Cancer Report, 2008). Many candidate genes have been reported to be associated with breast cancer susceptibility, including CHEK2, BRCA1, BRCA2, TP53, CYP19, CASP8, XRCC3, PETN (Baig et al., 2011), and CTLA4 (Zhang et al., 2011). The CHEK2 gene, which encodes G2 checkpoint kinase, has been widely cited for its potential implications in breast cancer susceptibility. Among the various mutations of CHEK2 gene, the 1100delC mutation is the most studied and was first identified in familial Li-Fraumeni syndrome (Bell et al., 1999).
+After our comprehensive analysis, we confirmed the results as the study done by Weischer et al (Weischer et al., 2008), that the variant of CHEK2 1100delC was significantly associated with breast cancer risk, particularly in familial breast cancer cases in non-Asian countries. The patients that carried the CHEK2 1100delC heterozygote could have increased breast cancer susceptibility.
+However, our meta-analysis yielded a few significant differences. Although the rate of heterozygotes in cases and controls were similar, the ORs in the previous study were different. Our study found that the OR was 2.3 and 3.7 in unselected and familial breast cancer, respectively, which was lower than what was detected in the previous study as 2.7 and 4.8. And we did not agree with that it was a good clinical gene for individual woman seeking on the risk of breast cancer. Firstly, this variant heterozygote is very rare in the general population (0.44%). It also occurs at a very low frequency in familial breast cancer patients (1.50%). Furthermore, it is rarely found in Asians (Rajkumar et al., 2003; Song et al., 2006; Bell et al., 2007; Choi, 2008; Lee and Ang, 2008; Thirthagiri et al., 2009). Secondly, in the previous meta-analysis, the cumulative risk of breast cancer at 70 years of age was calculated based on another meta-analysis done in 2007, which estimated the cumulative risk of two other gene heterozygotes, BRCA1 and BRCA2 (Chen and Parmigiani, 2007). Their cumulative risk was found to be 37% while our study discovered the risk to be 29%. It was about half the risk in the BRCA1 (57%) and BRCA2 (49%). However, the frequency of BRCA1 and BRCA2 were 17.10% and 5.5%, respectively, in familial breast cancer (Shih et al., 2002), exactly higher than 0.75% of CHEK2 1100delC.
+According to our study included more cases and more data, the results from our meta-analysis should be deemed as reliable and robust. In order to detect bias among the included studies, we did a sensitivity analysis and publication bias analysis. The heterogeneity was not significant in the total study analysis and subgroup analysis, with an I2 value of lower than 50%. We did subgroup analyses based on the cancer type, unselected, familial and early-onset breast cancer. The OR was highest in familial breast cancer group. This indicates that the
+
+CHEK2 1100delC variant was more significant associated with familial breast cancer.
+However, we did not conduct a subgroup analysis by ethnicity. In our meta-analysis, the data collected originates from western countries. Among one international study (Zhang et al., 2008), we did not use the data (including cases and controls) in Pakistan and Filipino which were Asian countries. Because the results in those two countries showed that no target variant was found in the cases and controls. Similar results were found for the CHEK2 gene in other studies conducted using Asian populations (Rajkumar et al., 2003; Song et al., 2006; Choi, 2008; Bell et al., 2007; Lee and Ang, 2008; Thirthagiri et al., 2009). Therefore, we excluded these studies in our metaanalysis. The CHEK2 gene was expressed differently in other ethnicities so further study is needed to confirm this conclusion.
+We performed a strict meta-analysis on the relationship between CHEK2 1100delC variant and breast cancer risk and achieved robust results. However, a few limitations should be noted. Firstly, the controls were only populationbased in several studies (CHEK2 Breast Cancer Consortium, 2004; Friedrichsen DM et al., 2004), while the remainder were hospital-based. This may not serve as an adequate representation of the general population. Secondly, the baseline controls and cases were matched only on a few common factors and our results were based on unadjusted estimates. A more precise analysis should be conducted based on the adjusted data involving more factors such as menstrual cycle, smoking status, and environmental factors. Thirdly, we did not conduct a subgroup analysis through the pathological classification of breast cancer or menstruation status, because this was not clearly defined in the original studies. Moreover, this meta-analysis did not consider the possibility of SNP-SNP or gene-gene interactions, or the possibility of linkage disequilibrium between polymorphisms. At lastly, more in-depth studies should be conducted to confirm the frequency of this variant in other populations around the world.
+In conclusion, the present study evaluates the association between the CHEK2 1100delC variant and breast cancer risk in Caucasians. It is concluded that carriers of this heterozygote would be at increased risk of breast cancer, familial breast cancer in particular. However, further consideration would be necessary to apply these findings to a clinical setting, such as screening for the allele, and it is crucial to carry out a larger multicenter study to confirm the results.
+Acknowledgements
+This work was supported by the National Natural Science Foundation of China (NSFC 81272265). We would like to thank Lijun Zhang (Chongqing Medical University, Chongqing, China) and Cheng Guo (School of Public Health Sciences, Karolinska Institutet, Stockholm, Sweden) for finding the full-text of relevant articles. We are also greatly thankful to Rechal Tong (University of California, Irvine) for review of an earlier draft of this manuscript.
+
+3504 Asian Pacific Journal of Cancer Prevention, Vol 13, 2012
+
+
+
+DOI:http://dx.doi.org/10.7314/APJCP.2012.13.7.3501
+
+CHEK2 1100delC Variant and Breast Cancer Risk in Caucasians: A Meta-analysis
+
+References
+Baeyens A, Claes K, Willems P, et al (2005). Chromosomal radiosensitivity of breast cancer with a CHEK2 mutation. Cancer Genet Cytogenet, 163, 106-12.
+Baig RM, Mahjabeen I, Sabir M, et al (2011). Genetic changes in the PTEN gene and their association with breast cancer in Pakistan. Asian Pac J Cancer Prev, 12, 2773-8.
+Bell DW, Kim SH, Godwin AK, et al (2007). Genetic and functional analysis of CHEK2 (CHK2) variants in multiethnic cohorts. Int J Cancer, 121, 2661-7.
+Bell DW, Varley JM, Szydlo TE, et al (1999). Heterozygous germ line hCHEK2 mutations in Li-Fraumeni syndrome. Science, 286, 2528-31.
+Bernstein JL, Teraoka SN, John EM, et al (2006). The CHEK2*1100delC allelic variant and risk of breast cancer: Screening results from the Breast Cancer Family Registry. Cancer Epidemiol Biomarkers Prev, 15, 348-52.
+CHEK2 Breast Cancer Consortium (2004). CHEK2*1100delC and susceptibility to breast cancer: A collaborative analysis involving 10,860 breast cancer patient cases and 9,065 controls from 10 studies. Am J Hum Genet, 74, 1175-82.
+Chen S, Parmigiani G (2007). Meta-analysis of BRCA1 and BRCA2 penetrance. J Clin Oncol, 25, 1329-33.
+Choi DH, Cho DY, Lee MH, et al (2008). The CHEK2 1100delC mutation is not present in Korean patients with breast cancer cases tested for BRCA1 and BRCA2 mutation. Breast Cancer Res Treat, 112, 569-73.
+Cybulski C, Wokolorczyk D, Huzarski T, et al (2007). A deletion in CHEK2 of 5,395 bp predisposes to breast cancer in Poland. Breast Cancer Res Treat, 102, 119-22.
+Dufault MR, Betz B, Wappenschmidt B, et al (2004). Limited relevance of the CHEK2 gene in hereditary breast cancer. Int J Cancer, 110, 320-5.
+Einarsdóttir K, Humphreys K, Bonnard C, et al (2006). Linkage disequilibrium mapping of CHEK2: Common variation and breast cancer risk. PLoS Med, 3, e168.
+Fletcher O, Johnson N, Dos Santos Silva I, et al (2009). Family History, Genetic Testing, and Clinical Risk Prediction: Pooled Analysis of CHEK2*1100delC in 1,828 Bilateral Breast Cancers and 7,030 Controls. Cancer Epidemiol Biomarkers Prev, 18, 230-4.
+Friedrichsen DM, Malone KE, Doody DR, et al (2004). Frequency of CHEK2 mutations in a population based, patient case-control study of breast cancer in young women. Breast Cancer Res, 6, R629-35.
+Iniesta MD, Gorin MA, Chien LC, et al (2010). Absence of CHEK2*1100delC mutation in families with hereditary breast cancer in North America. Cancer Genet Cytogenet, 202, 136-40.
+Kleibl Z, Novotny J, Bezdickova D, et al (2005). The CHEK2 c. 1100delC germline mutation rarely contributes to breast cancer development in the Czech Republic. Breast Cancer Res Treat, 90, 165-7.
+Lee AS, Ang P (2008). CHEK2*1100delC screening of Asian women with a family history of breast cancer is unwarranted. J Clin Oncol, 26, 2419 (author reply 2419­20).
+Mateus Pereira LH, Sigurdson AJ, Doody MM, et al (2004). CHEK2:1100delC and female breast cancer in the United States. Int J Cancer, 112, 541-3.
+McInerney NM, Miller N, Rowan A, et al (2010). Evaluation of variants in the CHEK2, BRIP1 and PALB2 genes in an Irish breast cancer cohort. Breast Cancer Res Treat, 121, 203-10.
+Meijers-Heijboer H, van den Ouweland A, Klijn J, et al (2002). Low-penetrance susceptibility to breast cancer due to CHEK2(*)1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat Genet, 31, 55-9.
+
+Miki Y, Swensen J, Shattuck-Eidens D, et al (1994). A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science, 266, 66-71.
+Offit K, Pierce H, Kirchhoff T, et al (2003). Frequency of CHEK2*1100delC in New York breast cancer cases and controls. BMC Med Genet, 4, 1.
+Overton, Randall C (1998). A comparison of fixed-effects and mixed (random-effects) models for meta-analysis tests of moderator variable effects. Psychological Methods, 3, 354-79.
+Rajkumar T, Soumittra N, Nancy NK, et al (2003). BRCA1, BRCA2 and CHEK2 (1100 del C) germline mutations in hereditary breast and ovarian cancer families in South India. Asian Pac J Cancer Prev, 4, 203-8.
+Rashid MU, Jakubowska A, Justenhoven C, et al (2005). German populations with infrequent CHEK2*1100delC and minor associations with early-onset and familial breast cancer. Eur J Cancer, 41, 2896-903.
+Shih HA, Couch FJ, Nathanson KL, et al (2002). BRCA1 and BRCA2 mutation frequency in women evaluated in a breast cancer risk evaluation clinic. J Clin Oncol, 20, 994-9.
+Sodha N, Bullock S, Taylor R, et al (2002). CHEK2 variants in susceptibility to breast cancer and evidence of retention of the wild type allele in tumours. Br J Cancer, 87, 1445-8.
+Song CG, Hu Z, Yuan WT, et al (2006). CHEK2 c. 1100delC may not contribute to genetic background of hereditary breast cancer from Shanghai of China. Zhonghua Yi Xue Yi Chuan Xue Za Zhi, 23, 443-5. (In Chinese)
+Thirthagiri E, Cheong LS,Yip CH, et al (2009). CHEK2*1100delC does not contribute to risk to breast cancer among Malay, Chinese and Indians in Malaysia. Fam Cancer, 8, 355-8.
+Vahteristo P, Bartkova J, Eerola H, et al (2002). A CHEK2 genetic variant contributing to a substantial fraction of familial breast cancer. Am J Hum Genet, 71, 432-8.
+Weischer M, Bojesen SE, Ellervik C, et al (2008). CHEK2*1100delC Genotyping for Clinical Assessment of Breast Cancer Risk: Meta-Analyses of 26,000 Patient Cases and 27,000 Controls. J Clin Oncol, 26, 542-8.
+Weischer M, Bojesen SE, Tybjaerg-Hansen A, et al (2007). Increased risk of breast cancer associated with CHEK2*1100delC. J Clin Oncol, 25, 57-63.
+Wooster R, Bignell G, Lancaster J, et al (1995). Identification of the breast cancer susceptibility gene BRCA2. Nature, 378, 789-92.
+World Cancer Report (2008). International Agency for Research on Cancer. Available at: http://globocan.iarc.fr/factsheets/ populations/factsheet.asp? uno=900.
+Zhang B, Beeghly-Fadiel A, Long J, and Zheng W (2011). Genetic variants associated with breast-cancer risk: comprehensive research synopsis, meta-analysis, and epidemiological evidence. Lancet Oncol, 12, 477-88.
+Zhang S, Phelan CM, Zhang P, et al (2008). Frequency of the CHEK2 1100delC Mutation among Women with Breast Cancer: An International Study. Cancer Res, 68, 2154-7.
+
+Asian Pacific Journal of Cancer Prevention, Vol 13, 2012 3505
+
+

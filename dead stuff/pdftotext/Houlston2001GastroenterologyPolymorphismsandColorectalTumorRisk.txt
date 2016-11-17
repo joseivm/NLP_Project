@@ -1,0 +1,1620 @@
+GASTROENTEROLOGY 2001;121:282­301
+
+Polymorphisms and Colorectal Tumor Risk
+
+RICHARD S. HOULSTON,* and IAN P. M. TOMLINSON
+*Section of Cancer Genetics, Institute of Cancer Research, Surrey; and Molecular and Population Genetics Laboratory, Imperial Cancer Research Fund, London, England
+
+Background & Aims: Increasingly, studies of the relationship between common genetic variants and colorectal tumor risk are being proposed. To assess the evidence that any of these confers a risk, a systematic review and meta-analysis of published studies was undertaken. Methods: Fifty studies of the effect of common alleles of 13 genes on risk were identified. To clarify the impact of individual polymorphisms on risk, pooled analyses were performed. Results: Of the 50 studies identified, significant associations were seen in 16, but only 3 were reported in more than one study. Pooling studies, significant associations were only seen for 3 of the polymorphisms: adenomatosis polyposis coli (APC)-I1307K (odds ratio [OR]  1.58, 95% confidence interval [CI ]: 1.21­2.07); Harvey ras-1 variable number tandem repeat polymorphism (HRAS1-VNTR; OR  2.50, 95% CI: 1.54 ­ 4.05); and methylenetetrahydrofolate reductase (MTHFR)Val/Val (OR  0.76, 95% CI: 0.62­ 0.92). For tumor protein 53 (TP53), N-acetyl transferase 1 (NAT1), NAT2, glutathione-S transferase Mu (GSTM1), glutathione-S transferase Theta (GSTT1), and glutathione-S transferase Pi (GSTP1) polymorphisms, the best estimates are sufficient to exclude a 1.7-fold increase in risk of colorectal cancer. Conclusions: APC-I1307K, HRAS1-VNTR, and MTHFR variants represent the strongest candidates for low penetrance susceptibility alleles identified to date. Although their genotypic risks are modest, their high frequency in the population implies that they may well have considerable impact on colorectal cancer incidence. Determining precise risk estimates associated with other variants and gene-gene and gene-environment interactions will be contingent on further studies with sample sizes larger than typically used to date.
+
+mutations in genes such as adenomatosis polyposis coli (APC), MLH1, and MSH2.4­6 First-degree relatives of colorectal cancer cases have a twofold increase in risk compared with the general population,7 most of which cannot be accounted for by APC, MSH2, or MLH1. Although part of the familial risk of colorectal cancer may be attributable to shared environment, there may be common, low penetrance genetic variants conferring susceptibility to colorectal cancer. Highly penetrant mutations in APC or the mismatch repair genes may cause a substantial proportion of colorectal cancers at young ages, but they are unlikely to be responsible for a high proportion of all cases. However, it is possible that low penetrance polymorphisms could do so.7 It is difficult or impossible to identify such gene polymorphisms by linkage analysis, because the number of affected relative pairs required will be prohibitively large.8 The commonest method for identifying common low penetrance alleles is through association studies. These are based on comparing the frequency of polymorphic genotypes in cases and controls. Alleles positively associated with the disease are analogous to risk factors in epidemiology and may be causally related to disease risk or in linkage disequilibrium with disease-causing variants (i.e., certain haplotype combinations of alleles at different loci occur more frequently than would be expected from random association).
+There are a number of different methods of analyzing the risk associated with a specific variant.9 For simple biallelic polymorphisms, the odds ratio (OR) of colorectal cancer can be derived by comparing allele frequencies in cases and controls. This approach is, however, less
+
+After lung and breast cancer, colorectal cancer is the most common cause of death from malignant disease in Western countries. In England and Wales, there are approximately 30,000 new cases each year resulting in 17,000 deaths.1,2 Worldwide, it has been estimated there are at least half a million new cases of colorectal cancer each year.3 Although about 10% of colorectal cancer cases have some family history of the disease, only 2% to 6% can be ascribed to the rare, highly penetrant
+
+Abbreviations used in this paper: APC, adenomatosis polyposis coli; APO-E, apolipoprotein-E; CI, confidence interval; CYP1A1, cytochrome P450; FAP, familial adenomatous polyposis; GSTM1, glutathione-S transferase Mu; GSTT1, glutathione-S transferase Theta; HRAS1-VNTR, Harvey ras-1 variable number tandem repeat polymorphism; mEPHX, microsomal epoxide hydroxylase; methyl-THF, 5-methyltetrahydrofolate; MTHFR, methylene tetrahydrofolate reductase; NAT, N-acetyl transferase; OR, odds ratio; TNF, tumor necrosis factor; TP53, tumor protein 53.
+© 2001 by the American Gastroenterological Association 0016-5085/01/$35.00
+doi:10.1053/gast.2001.26265
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 283
+
+powerful than a comparison of frequencies of the 3 genotypes among cases and controls using homozygosity of the "wild type allele" as the reference group. Where homozygotes are rare, it is common to combine the heterozygotes and homozygotes together, but this is only appropriate if a dominant model can be presumed. Similarly, combining heterozygotes with wild-type homozygotes is only appropriate if alleles act recessively. For multi-allelic loci, the frequency of certain genotypes can be low and the chi-squared statistics produced from analyses of such tables do not conform well to the asymptotic distribution. It is therefore common to group certain alleles together and analyze as a bi-allelic polymorphism. These groups are ideally defined on the basis of expressed phenotypes.
+Most colorectal cancers develop from normal epithelium through sequentially worsening degrees of adenomatous dysplasia.10 The molecular basis for this sequence is reasonably well established, requiring a series of at least 5 mutations.10,11 Within this pathway, there are a number of different mechanisms by which low penetrance polymorphisms could either contribute directly to tumorigenesis or facilitate the acquisition of mutations, so affecting progression of normal colonic epithelium to carcinoma. The candidate genes that have been evaluated to date can be broadly delineated into those coding for: carcinogen metabolism enzymes, methylation enzymes, DNA repair proteins, microenvironmental modifiers, oncogenes and tumor suppressors, and others. Table 1 details the candidate gene polymorphisms that have been reviewed. For clarity, the position and standard nomenclature of each polymorphism is given.
+Carcinogen Metabolism Genes
+Colonic crypt cells express several of the important xenobiotic metabolizing enzymes. Hence, cancer susceptibility may result from differences in the expression of enzymes involved in the metabolism of aromatic and heterocyclic amines present in food.
+The first and obligatory step in the activation of arylamines is N-hydroxylation by phase-I enzymes that include cytochrome P450A1 (CYP1A1). CYP1A1 is induced by, and acts on, carcinogens found in tobacco smoke.12,13
+The N-acetyl transferases, NAT1 and NAT2, are phase-II metabolizing enzymes detoxifying arylamines, some of which are derived from cooked meat. The action of NATs on these carcinogens can generate electrophilic ions capable of inducing DNA point mutations. The capacity to perform N-acetylation of arylamine chemicals is subject to extensive genetic variation. NAT2 is respon-
+
+sible for inherited interindividual differences in the ability to acetylate certain drugs.12,14 Slow acetylators are homozygous for low-activity alleles, and fast acetylators carry one or more high activity alleles. Variation in NAT1 and NAT2 may influence the local presentation of carcinogens such as arylamines found in cooked meat, to crypt cells. Studies in rats provide some support for this hypothesis, with carcinogen-induced aberrant intestinal crypt formation being highest in rapid acetylators.15
+The glutathione-S transferases are a family of phase-II enzymes responsible for the detoxification of mutagenic electrophiles including polyaromatic hydrocarbons. Homozygotes for null alleles (deletion) of glutathione-S transferase Mu (GSTM1) and glutathione-S transferase Theta (GSTT1) have absent activity of the respective enzyme. DNA adduct formation and rates of somatic mutation have been reported to be increased in carriers of null alleles.12,16
+Other metabolic genes that have been investigated as risk factors for colorectal cancer include microsomal epoxide hydroxylase (mEPHX),17 involved in the detoxification of carcinogenic epoxides and steroidogenesis.18 Two polymorphisms appear to affect enzyme activity.18
+Methylation Genes
+Global and gene-specific anomalies of DNA methylation contribute to loss of proto-oncogene and tumor suppressor expression. In colorectal cancer, this occurs during progression of adenomas to carcinomas.19,20 There is some evidence that DNA methylation can be influenced by manipulating the availability of methyl group donors, such as folate.21 Folate levels are influenced by 2 enzymes: 5,10-methylenetetrahydrofolate reductase (MTHFR) catalyzing the conversion of 5,10-methylene-tetrahydrofolate (required for purine and thymidine synthesis), to 5-methyltetrahydrofolate (methyl-THF), the primary circulatory form of folate necessary for methionine synthesis; and methionine synthetase (MTR) catalyzing transfer of a methyl group from methyl-THF to homocysteine. The Ala667Val polymorphism of MTHFR codes for an enzyme with reduced activity-- homozygotes have about 30% of the normal enzyme activity and decreased levels of methyl-THF.22 Although decreased levels of methyl-THF may adversely affect DNA methylation contributing to carcinogenesis, depletion of methylene-tetrahydrofolate interferes with thymidylate biosynthesis leading to deoxynucleotide pool imbalances. An accumulation of deoxyuridylate DNA and subsequent removal of this abnormal base may "liabilize" DNA to strand breaks.
+
+284 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+Table 1. Polymorphisms Studied as Risk Factors for Colorectal Neoplasia
+
+Class/gene
+
+Nucleotide change
+
+Amino acid change-- nomenclaturea
+
+Effect on function
+
+Carcinogen metabolism CYP1A1 NAT1
+NAT2*
+
+A4889G (exon 7) T6235C (3 UTR) A1088T C559T G560A C190T C97T A72T C341T G590A G857A G191A
+
+Ile462Val None None (NAT1*10) Arg187Stop (NAT1*14) Arg187Gln (NAT1*15) Arg64Trp (NAT1*17) Arg33Stop (NAT1*19) Asp251Val (NAT1*22) Ile114Thr (NAT2*5) Arg197Gln (NAT2*6) Gly286Glu (NAT2*7) Arg64Gln (NAT2*14)
+
+?Increased activity ?None ?Increased activity Low activity allele Low activity allele Low activity allele Low activity allele Low activity allele Low activity allele Low activity allele Low activity allele Low activity allele
+
+GSTM1
+
+Deletion
+
+None (Null)
+
+Absent activity
+
+GSTT1 GSTP1
+mEPHX
+Methylation MTHFR MTR
+Microenvironmental modifiers PLA2G2A
+APO-E
+Tumor suppressors/oncogenes APC
+HRAS1 TP53
+MLH1 Other genes
+TNF- TNF-
+
+Deletion A1578G C2293T Exon 3 T 3 C Exon 4 A 3 G
+C677T A2756G
+Exon 1-5 UTR C 3G Exon 3G 3 C
+T3920A
+G3949C 28-bp VNTR Exon 3 G 3 C Intron 3 16-bp dup Intron 6 G 3 C C2006T (Intron 12)
+380G 3 A 238G 3 A
+
+None (Null) Ile105Val (I105) Ala114Val (V114) Try113His His139Arg
+Ala667Val Asp919Gly
+None None
+Cys112Arg (E4)
+Ileu1307Lys (I1307K) Gln1317Glu (E1317Q)
+None Arg72Pro
+None
+None None
+
+Absent activity Reduced activity
+? Reduced activity ? Increased activity
+Reduced activity
+Unlikely Unlikely
+Altered lipoprotein metabolism
+? Increased somatic Mutation Unknown ? Altered transcription Unknown Unlikely Unlikely
+Unknown
+? Increased basal and Inducible TNF levels
+
+Method of detection
+Creates NcoI site Creates MspI site Allele-specific PCR
+Abolishes KpnI site Abolishes TaqI site Abolishes BamHI site Creates MspI site
+(Metabolism of probe drug [Sulphamethiaszine, Dapsone Isoniazid]) Allele-specific PCR GST activity GST immunoreactivity Allele-specific PCR Creates Alw 261 site Creates AciI site Abolishes EcoRV site Creates RsaI site
+Creates Hinf I site Creates HaeIII site
+SSCP SSCP
+Allele-specific PCR, isoelectric focusing
+ARMS-PCR
+Creates PvuII site Southern blot, PCR Allele-specific PCR
+ARMS-PCR
+Creates NcoI site Creates NcoI site
+
+PCR, polymerase chain reaction; GST, glutathione-S transferase; SSCP, single-strand conformation polymorphism; ARMS, amplification refractory mutation system. aFor NAT2, only changes from the wild-type with functional significance are indicated. The substitutions at positions 191, 341, 590, and 857 are diagnostic for defective NAT2 function and hence, slow acetylator phenotype.
+
+Microenvironmental Modifiers
+Mutation of PLA2G2A, the secretory phospholipase A2 gene, dramatically increases the number of intestinal polyps that develop in the multiple intestinal neoplasia mouse, a murine model for familial adenomatous polyposis (FAP).23 PLA2G2A probably exerts its action by altering the cellular microenvironment within
+
+the intestinal crypt,24,25 possibly through prostaglandin synthesis.
+It is well established that the colonic microenvironment is modified by bile acid excretion.26 Apolipoprotein-E (APO-E) occupies a pivotal role in lipoprotein metabolism as one of the ligands involved in the receptor-mediated uptake of low-density lipoprotein and chy-
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 285
+
+lomicron remnants.27 Three common isoforms of APO-E exist--E2, E3, and E4.26 Chylomicron and very low density lipoprotein clearance is faster and fecal bile acid output lower in individuals with the APO-E4 allele.27
+Oncogenes and Tumor Suppressors
+The HRAS proto-oncogene VNTR minisatellite is located 1 kilobase downstream of H-ras1 and is composed of 30 to 100 units of a 28­base pair consensus sequence. Over 30 alleles of the H-ras-VNTR have been described.28 The 4 most common represent over 90% of alleles and serve as progenitors for rare alleles.28 Rare alleles have been proposed as risk factors for a variety of cancers.28 The basis of a relationship is, however, unclear. The Harvey ras-1 variable number tandem repeat polymorphism (HRAS1-VNTR) has been shown to modulate the expression of nearby genes by interacting with transcriptional regulatory elements, such as the rel/NF-B family of regulatory factors. Alternatively, the association may result from linkage disequilibrium.28
+Truncating APC mutations are responsible for FAP, and defective mismatch repair genes cause hereditary nonpolyposis colorectal cancer.5,6 Polymorphisms in these genes have been identified, but because they are common or they are not predicted to alter protein structure, they have generally been considered to have little pathogenic potential. This may not be the case. Laken et al.29 first drew attention to a possible relationship between the I1307K APC variant and colorectal cancer risk in the Ashkenazi population. I1307K was present in 6% of controls, compared with 10% in colorectal cancer patients. The mutation leads to creation of an A8 tract instead of the normal A3TA4 , possibly increasing the rate of somatic mutation,29 so indirectly conferring susceptibility. Other APC variants that have been proposed as colorectal tumor risk factors include E1317Q.
+Somatic mutations in the tumor suppressor gene p53 are common as a mid-/late-stage event in colorectal cancer.11 Overexpression of tumor protein 53 (TP53) protein induced by genotoxic damage results in G1 cell cycle arrest and induction of repair or apoptosis. Mutations in TP53 that cause the Li-Fraumeni syndrome lead to decreased TP53 activity resulting in defective repair or apoptosis.30 In addition to these types of mutations, a number of polymorphisms of TP53 are recognized, although their functional significance is unknown.
+Although polymorphism in any DNA repair gene is theoretically a potential risk factor for colorectal tumors, components of the mismatch repair machinery are the prime candidates. Many polymorphisms exist in MSH2, MLH1, and MSH6 (http://www.nfdht.nl/database), al-
+
+though in most cases, functional effects are almost entirely unknown and/or alleles are rare.
+Other Genes
+The cytokine tumor necrosis factors beta (TNF) and alpha (TNF) produced by activated macrophages have cytostatic and cytotoxic antitumor activity.31,32 Polymorphic variation in TNF genes has been linked to level of TNF expression and prognosis in gastric and lung cancer.33
+In this systematic review, every effort has been made to ascertain all published studies that have examined the possible effects of polymorphic variation in the genes discussed on the risk of colorectal neoplasia in the context of an epidemiologic study. Although some genes have only been examined once, most have been evaluated as risk factors in several studies, often with discordant findings. Many of the studies are based on small sample sizes; therefore, to derive a more precise estimate of the risk associated with individual polymorphisms, results have been combined wherever possible in a meta-analysis. The underlying basis of meta-analysis is not directly to combine results from studies, but to obtain a relative measure of the observed effect supporting or rejecting a specific hypothesis. An advantage of this statistical procedure is the amalgamation of data collected and analyzed by different methods. The implications of the findings for future research on predisposition to colorectal neoplasia are discussed.
+Methods
+Literature Search
+Published studies that had examined the relationship between polymorphisms and risk of colorectal neoplasia were identified using the electronic database MEDLINE (National Library of Medicine, Washington, DC) for the years 1983­ 1999 inclusive, using the search terms "colorectal_neoplasms" and "polymorphism(s)." A search was also made on individual candidate genes. Additional articles were ascertained through references cited in these publications. Care was taken to include only primary data or data that superseded earlier work. Characteristics of the studies were extracted from published articles and summarized in a consistent manner to aid comparison.
+Statistical Analysis
+ORs associated with individual polymorphisms were extracted from published reports or were computed from crude data. Pooled estimates of ORs were obtained using standard calculating the weighted-average of the logarithm of ORs.34 Studies were analyzed jointly using both a fixed-effects and a random-effects model--if significant heterogeneity between
+
+286 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+studies was present.35 A random-effects model assumes that the studies in question are a random sample of a hypothetical population of studies taking into account within- and between-study variability. In cases in which a polymorphism is associated with distinctive phenotype, the principal analysis combined genotypes by phenotypic class; otherwise, ORs were computed for each genotype. Specific analyses considering confounding factors were not possible because the raw data were not available.
+To ascertain the presence of publication bias, ORs were plotted in order according to the variance of the logOR estimate. Estimates from small studies that have less precision in estimating the underlying OR will scatter widely at the base of the graph, with a narrowing among larger studies. In the absence of publication bias, the plot resembles a symmetrical inverted funnel. Conversely, if there is bias, the funnel plot will be asymmetrical. To reduce the possibility of error in assessing publication by simple visual examination, funnel asymmetry was formally evaluated using the Egger et al.36 regression asymmetry test. This test detects asymmetry by determining whether the intercept deviates significantly from zero in a regression of the standardized effect estimates against their precision. Failure of the standardized effect confidence interval (CI) to include zero indicates asymmetry and provides evidence of publication bias. Statistical manipulations were undertaken using the statistical program STATA version 6.0 (Stata Corporation, College Station TX) utilizing the META37 and METABIAS38 modules.
+In any large, randomly mating population, in which there is no migration, or selection against a particular genotype and the mutation rate remains constant, the proportions of the various genotypes will remain unchanged from one generation to another. To test for population stratification, the distribution of genotypes in controls was tested for a departure from Hardy-Weinberg equilibrium by means of the chi-squared test.
+The power of each study was computed as the probability of detecting an association between genotypes and colorectal cancer at the 0.05 level of significance, assuming a genotypic risk of 2 or 0.5. These estimates were performed on the basis of the method published by Fleiss et al.,39 using the statistical program POWER (Epicenter Software, Pasadena, CA; http:// icarus2.hsc.usc.edu/epicenter/).
+Results
+Individual Studies
+Fifty studies were identified from the literature and are summarized in Table 2. All were essentially of similar design, although a variety of cases and controls have been analyzed. Fewer than 30% of the studies had 80% or greater power to demonstrate a twofold difference in allele frequency between cases and controls. The ORs of colorectal disease associated with the different polymorphisms in individual studies are given in Table
+
+3 along with their corresponding 95% CIs. Where ORs were not reported, they have been derived from the raw data. Polymorphisms in 13 genes have been evaluated as potential colorectal cancer risk factors. Many of the results from different studies are discordant.
+Carcinogen Metabolism Genes
+Variation in CYP1A1 defined by the Ile462Val and T6325C polymorphisms and colorectal cancer has only been evaluated in one small study of in situ cancer to date.50 The risk of colorectal cancer was increased 7.9-fold in Ile462Val carriers, but confidence limits were wide (1.4 ­ 44.4), reflecting the size of the study. No association between colorectal cancer risk and the T6325C polymorphism was observed.
+NAT2 has been as investigated as a colorectal tumor risk factor in 15 studies.40,41,45,51,52,55,58,59,62,67,68,72,76,77,90 In 4 of the studies, NAT2 status was assigned on the basis of acetylator phenotype rather than genotype. The risk of colorectal cancer associated with rapid acetylator status was increased in 9 of the 15 studies, but was only statistically significant in the 3 small studies based on phenotyping.40,41,62 The relationship between NAT2 and colorectal adenoma risk has been examined in 2 studies,58,62 but neither showed a significant association.
+Six studies have examined the relationship between specific allelic variants of NAT1 and risk of colorectal neoplasia.55,59,70,72,81,91 Bell et al.55 reported that possession of the NAT1*10 allele was associated with a 1.92fold increase in risk of colorectal cancer, but this was not confirmed in the studies reported by Chen et al.72 and Yoshioka et al.91 Probst-Hensch et al.59 also found no relationship between the NAT1*10 allele and risk of colorectal adenomas. Lin et al.81 and Hubbart et al.70 examined the relationship between other NAT1 alleles and risk of colorectal cancer. Neither found support for an association between NAT1 genotype defined by NAT1*14/15 alleles and risk of colorectal cancer.
+Twelve studies have examined the relationship between GSTM1 status and colorectal cancer risk,46,48,56,60,61,69,76,78,83­ 85,92 and one study examined colorectal adenoma risk.57 Five studies showed that the GSTM1-deletion conferred an increase in colorectal cancer risk,46,48,61,84,92 but this was only significant in 2 studies.48,92 The study reported by Zhong et al.48 found that the risk of colorectal cancer associated with GSTM1deletion was primarily associated with proximal disease in a subgroup analysis, a finding not confirmed by other studies.56,60,61,69,76 The relationship between GSTM1 status and adenoma risk was examined by Lin et al.57; no relationship was seen.
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 287
+
+Table 2. Studies of Polymorphisms and Colorectal Tumor Risk
+
+Reference
+
+Place of study
+
+Genes studied
+
+Ethnicity
+
+N
+
+Casesa
+
+Lang et al. 198640 Ilett et al. 198741
+
+USA Australia
+
+NAT2
+
+Mixed
+
+43 Male prevalent CRC cases;
+
+mean age 41 (45­75);
+
+65% white
+
+NAT2 (SMZ) Caucasian 49 Prevalent CRC cases
+
+N
+41
+41
+
+Ceccherini-Neilli et al. 198842
+Wyllie et al. 199143
+Klingel et al. 199144
+Ladero et al. 199145
+
+Italy UK Germany Spain
+
+Strange et al. 199346 Rodriguez et al. 199347
+
+UK USA
+
+Krontiris et al. 199328
+
+USA
+
+Zhong et al. 199348
+
+UK
+
+Kawajiri et al. 199349
+Sivaraman et al. 199450 Shibuta et al. 199451 Oda et al. 199452
+
+Japan
+USA Japan Japan
+
+Hall et al. 199453
+Sjalander et al. 199554
+Bell et al. 199555
+Chevenix-Trench et al. 199556
+
+UK Sweden UK Australia
+
+HRAS1-VNTR Caucasian
+
+62
+
+HRAS1-VNTR Caucasian
+
+46
+
+HRAS1-VNTR Caucasian 116
+
+NAT2
+
+Caucasian 109
+
+GSTM1 NAT2
+
+Caucasian Mixed
+
+26 44
+
+HRAS1-VNTR Caucasian
+
+13
+
+GSTM1
+
+Caucasian 196
+
+TP53
+CYP1A1 NAT2 NAT2
+
+Asian
+Asian Asian Asian
+
+84
+23 234
+36
+
+MLH1
+TP53
+NAT1, NAT2
+GSTM1, GSTT1
+
+Caucasian 111 Caucasian 155 Caucasian 202 Caucasian 132
+
+CRC cases
+
+108
+
+Incident CRC cases
+
+49
+
+Unrelated CRC cases (5 with FAP); 50% male
+Prevalent CRC cases (61 colon, 48 rectal); 48% male; mean age 66
+CRC patients
+CRC samples from 2 tissue repositories; mean age 63; 73% white, 27% black
+CRC cases derived from a large cohort of different cancers (mean age 63.9)
+CRC (prevalent) cases from one hospital
+
+122 96 49 28
+652
+225
+
+CRC (prevalent) cases from one center
+In situ CRC cases CRC cases; 53% male Prevalent CRC cases; mean
+age 67.2 (38­81); 44% male CRC cases (32 aged 45, 79 incident cases) CRC cases from one hospital CRC cases; mean age 63
+
+347 59
+329 36
+114 206 112
+
+CRC cases
+
+200
+
+Lin et al. 199557
+
+USA
+
+Probst-Hensch et al. 199558
+Probst-Hensch et al. 199659
+Deakin et al. 199660
+
+UK
+
+GSTM1
+NAT2 NAT1 GSTM1,
+GSTT1
+
+Mixed
+
+447 Distal CRA cases
+
+488
+
+ascertained through 2
+
+Southern Californian
+
+medical centers; aged
+
+50­74; no history of
+
+invasive cancer,
+
+previous bowel surgery,
+
+FAP, or severe
+
+gastrointestinal
+
+symptoms; 64% male;
+
+55% white, 16% black,
+
+17% Hispanic, 10%
+
+Asian, 2% other
+
+Caucasian 252
+
+Unrelated CRC cases from one hospital; mean age 66; 51% male
+
+577
+
+Katoh et al. 199661
+
+Japan
+
+GSTM1, GSTT1
+
+Asian
+
+103 Consecutive CRC cases
+
+126
+
+from 2 hospitals and 1
+
+medical center; mean
+
+age 64.4; 65% male
+
+Controls
+Male hospital patients; mean age 41 (45­75); 78% white
+Hospital patients matched for age, gender, and smoking
+Blood donors
+
+Exposure assessment
+Occupation (no exposure to known carcinogens)
+
+Healthy individuals; no family history of cancer
+Crohn's colitis patients; 38% male
+Healthy individuals; mean age 43; 44% male
+
+Postmortem controls
+Non-cancer colon samples from same source as cases; 21% male; 75% white, 23% black
+Healthy individuals; mean age 50.5 (16.0)
+
+Subjects from a clinical chemistry department and volunteers
+Unrelated healthy individuals; 50% male
+Population controls Healthy volunteers Autopsied controls matched
+for age
+
+Spouse controls
+
+Placental specimens
+
+Age- and sex-matched hospital patients
+"unselected individuals" and "geriatric patients" without cancer or family history of cancer
+Age- and sex-matched clinic patients with normal sigmoidoscopy; 675 male; 55% white, 16% black, 18% Hispanic, 11% Asian, 1% other
+
+Diet, smoking
+
+Hospital patients without malignancy or inflammatory disease from same hospital as cases; mean age 70 years; 48% male
+Medical center screens; free of gastrointestinal symptoms and cancer; mean age 61.9; 57% male
+
+(continued on following page)
+
+288 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+Table 2 (continued). Studies of Polymorphisms and Colorectal Tumor Risk
+
+Reference
+
+Place of study
+
+Genes studied
+
+Ethnicity
+
+N
+
+Casesa
+
+Roberts-Thomson et al. 199662
+
+Australia
+
+NAT2 (SMZ)
+
+Caucasian 110
+
+CRC cases
+
+N
+110
+
+Tomlinson et al. 199663 UK
+
+Chen et al. 199664
+
+USA
+
+Kervinen et al. 199665
+
+Finland
+
+Ma et al. 199766
+
+USA
+
+Hubbart et al. 199767
+
+UK
+
+Welfare et al. 199768 Laken et al. 199729
+
+UK USA
+
+Gertig et al. 199869
+
+USA
+
+Hubbart et al. 199870
+
+UK
+
+Chen et al. 199871
+
+USA
+
+Chen et al. 199872
+
+USA
+
+Harris et al. 199873
+
+Australia
+
+PLA2G2A MTHFR
+
+89
+
+NS
+Caucasian (98%)
+
+80 30 144
+
+APO-E
+
+Caucasian 122
+
+MTHFR
+
+135
+
+Primarily
+
+202
+
+Caucasian
+
+NAT2
+
+Caucasian 275
+
+NAT2 APC
+
+Caucasian (90%)
+Ashkenazim
+
+174 211
+
+GSTM1, GSTT1
+
+Caucasian (98%)
+
+212
+
+NAT1
+
+Caucasian 260
+
+MTHFR, MTR
+
+Primarily
+
+257
+
+Caucasian
+
+NAT1, NAT2
+
+Caucasian (98%)
+
+212
+
+GSTP1
+
+Caucasian 131
+
+CRA cases median age 69 (39­85)
+CRC cases
+CRA cases
+CRC cases; Nested casecontrol study using incident cases from the Health Professionals Follow-up Study; males; aged 40­75
+CRC (incident) cases from 1 hospital; mean age 68; 44% male
+
+80 627
+199
+
+CRA cases (incident); mean age 62; 42% male
+CRC cases (79% colon); nested case-control study using incident cases from the Physicians' Health Study
+CRC (consecutive operable) cases treated in 4 Scottish hospitals; aged 20­95
+CRC patients (incident cases); aged 38­91
+CRC cases (172 cases from single center, mean age 68.1 and 39 others, mean age 59)
+CRC cases; nested casecontrol study using incident cases from the Physicians' Health Study; aged 40­84
+CRC (consecutive operable) cases treated in 3 Scottish hospitals; aged 20­95
+CRA cases; Nested casecontrol study using incident cases from the Nurses' Health Study; females
+CRC cases; Nested casecontrol study using incident cases from the Physicians' Health Study
+CRC cases
+
+326 343 174 766
+343 713
+199
+
+Frayling et al. 199874
+Grosse-Burn et al. 199875
+
+UK France
+
+APC HRAS1-VNTR
+
+?Caucasian 164 Caucasian 142
+
+CRC and CRA cases CRC cases; median age 69
+(24­90)
+
+NS 143
+
+Controls
+Patients with endoscopic/ barium enema proven nonneoplastic gastrointestinal disease; FAP and IBD patients excluded; median age 69 (39­85)
+
+Exposure assessment
+Diet: meat intake
+
+NS
+
+Age-matched controls
+
+Diet (stratified by folate, methionine intake, and alcohol consumption)
+
+Population controls aged 58­ 61 years randomly selected from the same population as cases
+
+Age-matched controls
+Healthy individuals aged 20­ 75 attending routine occupational screening clinics
+Age- and sex-matched population controls
+Individuals undergoing genetic testing for TaySachs disease
+
+Diet (stratified by alcohol and folate intake); smoking, multivitamin, and aspirin use
+Meat consumption, smoking
+
+Age-matched controls
+
+Healthy individuals attending routine occupational screening from same population
+Age-matched controls without CRAs
+Age-matched controls
+
+Diet (stratified by intake of folate, methionine, and alcohol intake); smoking
+Meat intake
+
+"Unselected individuals" (n  100; source: NS) and "geriatric patients" (n  100; mean age 77 years) without cancer or a family history of cancer
+NS
+Individuals ascertained through genetic counseling clinics; median age 32 (5­66); 40% male; no family history of cancer in first-degree relative
+
+(continued on following page)
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 289
+
+Table 2 (continued). Studies of Polymorphisms and Colorectal Tumor Risk
+
+Reference
+
+Place of study
+
+Genes studied
+
+Ethnicity
+
+N
+
+Casesa
+
+Slattery et al. 199876
+
+USA
+
+NAT2
+
+Lee et al. 199877,78
+
+Singapore
+
+GSTM1 GSTM1
+
+NAT2
+
+Mixed Asian
+
+1993 300
+
+CRC cases ascertained within 131 days of diagnosis; FAP and IBD associated cancers excluded; aged 30­79
+91% white, 4% black, 4% Hispanic
+CRC cases (NAT2 analysis restricted to n  216); mean age 47 (26­82); 59% male
+
+Gil and Lehner 199879
+
+Portugal
+
+Park et al. 199880 Lin et al. 199881
+
+Korea USA
+
+Woodage et al. 199882
+
+USA
+
+Zhang et al. 199983
+
+Sweden
+
+NAT2
+TNF- TNF- NAT1
+variants
+APC
+GSTM1, GSTT1
+
+Caucasian
+
+114 Colon cancer cases (unrelated) treated at 1 hospital; mean age 64.2 (11.0); 63% male
+
+Asian
+
+136 CRC cases
+
+Mixed
+
+444 Distal CRA cases ascertained through 2
+
+Southern Californian medical centers; aged 50­74; no history of
+
+invasive cancer, previous bowel surgery, FAP, or severe
+
+gastrointestinal symptoms; 64% male; 55% white, 16% black,
+
+17% Hispanic, 10% Asian, 2% other
+
+Ashkenazim
+
+55 Community survey of 5081 volunteers. Cancer risk
+
+determined by comparing of cancer history in carriers and
+
+noncarriers
+
+Caucasian
+
+99 CRC cases; 58% male
+
+Welfare et al. 199984
+
+UK
+
+Abdel-Rahman et al. 199985
+Harrison et al. 199986
+
+Egypt UK
+
+Gryfe et al. 199987 Slattery et al. 199988
+
+Canada USA
+
+Ma et al. 199989
+
+USA
+
+GSTM1, GSTT1, GSTP1
+GSTM1, GSTT1
+mEPHX
+
+Caucasian Arabic Caucasian
+
+178 CRC (incident) cases; median age 69 (38­91)
+66 CRC (incident cases) cases; mean age 42.8 (15.8); 62% male
+101 CRC (consecutive) cases
+
+APC MTHFR
+MTR
+
+Ashkenazim 404
+
+72
+
+Primarily
+
+1467
+
+Caucasian
+
+95%
+
+356
+
+Caucasian
+
+CRC archival specimens
+CRA cases
+Colon cancer cases aged 30­79 ascertained within 131 days of diagnosis; FAP and IBD associated cancers excluded; 91% white, 4% black, 4% Hispanic
+CRC cases; nested casecontrol study using incident cases from the Physicians' Health Study (n  212) and the Health Professionals Follow-up Study (n  144)
+
+N
+2410
+187 183 201 325 488
+109 178
+55 203 1821
+346
+
+Controls
+Random population controls from same geography as cases
+Undergraduate students and blood donors (NAT2 controls); mean age 27 (18­61); 73% male
+Hospital patients with no history of neoplasms ascertained through a clinical chemistry (GSTM1 controls)
+Individuals from same region as cases undergoing health checks; no history of cancer; mean age 46.4 (19.6)
+Healthy unrelated individuals
+Age- and sex-matched clinic patients with normal sigmoidoscopy; 67% male; 55% white, 16% black, 18% Hispanic, 11% Asian, 1% other
+Random individuals from same geographical region; free of gastrointestinal disease and history of tumors
+Age- and sex-matched individuals
+Age-matched friends of other cancer cases; mean age 34.5 (9.0); 54% male
+Blood donors from same Scottish region as cases; aged 18­65; 50% male
+Random age-matched population controls
+Controls matched on age
+
+Exposure assessment
+Diet and smoking (stratified by smoking and Western diet)
+Diet (stratified by folate, B6, B12, methionine, alcohol, and multivitamin intake); smoking
+Alcohol
+
+(continued on following page)
+
+290 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+Table 2 (continued). Studies of Polymorphisms and Colorectal Tumor Risk
+
+Reference
+
+Place of study
+
+Genes studied
+
+Ethnicity
+
+N
+
+Casesa
+
+130
+
+N
+
+Controls
+
+Park et al. 199990
+
+Korea
+
+Yoshioka et al. 199991
+
+Japan
+
+Gawronska-Szklarz et al. 199992
+
+Poland
+
+MTR
+
+Asian
+
+136
+
+NAT1, NAT2, GSTP1a
+
+Asian
+
+106
+
+GSTM1
+
+Caucasian
+
+28
+
+27
+
+CRC cases randomly selected postoperatively from 1 center; 51% male
+CRC (consecutive) cases from 2 hospitals and 1 medical center; mean age 62.4 (12.0)
+
+325 100
+
+CRC (without clinical features of hereditary tumors); 43% male; mean age 63.8 (9.4)
+CRA cases, 48% male, mean age 60.0 (9.1)
+
+145
+
+Healthy unrelated individuals
+Local medical center screens; no gastrointestinal symptoms, current, or previous diagnosis of cancer; mean age 61.9; 57% male
+Healthy volunteers, 35% male, mean age 41.6 (15.4)
+
+CRC, colorectal cancer; CRA, colorectal adenoma; IBD, inflammatory bowel disease; NS, not stated; ?, probable. aGSTM1 and GSTT1 data detailed in Katoh et al.61
+
+Exposure assessment
+PHS: levels of folate homocysteine, B12
+
+Conflicting findings have also been reported in studies of the relationship between GSTT1 status and colorectal cancer risk. Two studies showed a significant association between deficiency and risk,60,83 but either no relationship was seen or, in 5 other studies, the opposite was seen.56,61,69,84,85 The study by Zhang et al.,83 which showed the largest risk, may be methodologically flawed, as GSTT1 status was determined by analysis of colonic tissue--any contamination by tumor tissue showing allelic loss at GSTT1 would invalidate the findings.
+Three studies have investigated glutathione-S transferase Pi (GSTP1) status defined by the Ile105Val and Ala114Val polymorphisms as risk factors for colorectal cancer.73,84,91 None has shown that either polymorphism confers an increased risk of colorectal cancer.
+Two polymorphisms of mEPHX have been examined in one study.18 mEPHXTyr113His homozygosity was associated with a significant increase in risk of colorectal cancer. The mEPHXHis139Arg polymorphism was not associated with risk of cancer.18 There was, however, evidence of population stratification in the study as the distribution of Tyr113His genotypes shows a departure from Hardy-Weinberg equilibrium.
+Methylation Genes
+Four studies have examined the relationship between the C677T MTHFR polymorphism and colorectal cancer risk.64,66,71,88,90 All showed an inverse relationship between MTHFRVal/Val genotype and colorectal cancer risk, although the relationship was only statistically significant in the study reported by Ma et al.66 The study reported by Ma et al.8 shows borderline departure from
+
+Hardy-Weinberg equilibrium, suggesting the possibility of population stratification. The polymorphism has also been evaluated as a risk factor for colorectal adenomas in one study.71 No difference in the frequency of homozygosity was seen between 257 incident polyp cases and 713 controls in the study reported by Chen et al.71 If an inverse relationship between MTHFRAla/Val genotype and colorectal cancer risk exists, the fact that no relationship was seen with adenomas raises the possibility that its impact is only on late stage tumorigenesis. The 2 studies of the Asp/Gly polymorphism of methionine synthetase have shown no significant association with risk of colorectal cancers or adenomas.71,89
+Oncogene and Tumor-Suppressor Genes
+Five studies have examined the risk of colorectal cancer associated with rare alleles of the HRAS1VNTR.28,42­44,75 Four of the studies were based on Southern blot analysis,28,42­44 whereas the most recently reported by Gosse-Brun et al.75 was polymerase chain reaction­ based. The OR of colorectal cancer was greater than unity in all of studies, but only statistically significant in 2.44,75
+Since the original observation of a relationship between the APC I1307K and colorectal cancer risk made by Laken et al.,29 3 studies have reported a positive relationship between this variant and risk of colorectal neoplasia.74,82,87 Frayling et al.74 have also reported that the E1317Q mutation also confers an increased risk of colorectal tumor. TP53 Arg72Pro, intron-6, and intron-3 polymorphisms have been evaluated in 2 studies--neither found any relationship.49,54
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 291
+
+Table 3. Risks of Colorectal Tumor by Individual Polymorphism and Study
+
+Gene and polymorphism
+
+Type of colorectal Frequency of rare
+
+neoplasm
+
+variant in controls Risk group
+
+Carcinogen metabolizing genes CYP1A1 Ile462Val Sivaraman et al. 199450 CYP1A1 T6235C Sivaraman et al.50 NAT2-rapid acetylator Lang et al.40 Ilett et al.41 Ladero et al.45 Rodriguez et al.47 Shibuta et al.51 Oda et al.52 Bell et al.55 Probst-Hensch et al.58,59
+
+In situ Ca
+In situ Ca
+CRC CRC CRC CRC CRC CRC CRC Distal CRA
+
+0.03
+0.02
+0.32 0.34 0.42 0.46 0.90 0.92 0.45 0.29
+
+Val-carrier
+C-carrier
+Phenotype Phenotype Phenotype Genotype Genotype Genotype Genotype Genotype
+
+Roberts-Thomson et al.62 Hubbard et al.67 Welfare et al.68
+Chen et al.72
+
+CRC CRA CRC All CRC Proximal CC Distal CC Rectal Ca CRC
+
+NS 0.41 0.43
+0.43
+
+Phenotype Genotype Genotype
+Genotype
+
+Slattery et al.76
+
+CC in males
+
+0.41
+
+Genotype
+
+Lee et al.77 Gil & Lechner79 Yoshioka et al.90 NAT1*10 Bell et al.55 Probst-Hensch et al.59
+
+Proximal CC Distal CC
+CC in females Proximal CC
+Distal CC CRC CRC CRC
+CRC Distal CRA
+
+0.38 0.34 0.93
+0.29 0.50
+
+Genotype Genotype Genotype
+T-carrier T-carrier
+
+Chen et al.72
+
+CRC
+
+0.44
+
+T-carrier
+
+Yoshioka et al.91 NAT1*14,15
+Hubbard et al.70 Lin et al.81 NAT1*14, 15, 17, 19, 22 Lin et al.81 GSTM1 deletion Strange et al.46 Zhong et al.48
+Chevenix-Trench et al.56
+Lin et al.57 Deakin et al.60
+Katoh et al.61
+
+CRC
+CRC Distal CRA (Whites)
+Distal CRA (Whites)
+Distal-CRC All CC
+Proximal CC Distal CC CRC Proximal Distal Distal CRC CRC Right-CC Left-CC
+Rectal cancer All CRC
+Proximal CC
+
+0.64 0.04 0.00 0.04 0.41 0.42
+0.51
+NS 0.55
+0.44
+
+T-carrier
+Carrier Carrier Null phenotype Null genotype
+Null genotype
+Null genotype Null genotype
+Null genotype
+
+OR
+7.9
+5.7
+2.48 2.41 1.14 0.96 0.83 1.00 1.12 1.10
+1.8 1.1 0.83 0.95 0.66 0.85 1.42 0.81
+1.0
+1.1 0.9 1.2 1.0 1.1 1.08 1.23 1.52
+1.92 1.04
+0.94
+1.00
+1.35 --
+0.93
+2.32 1.78 3.38 1.66 0.92 0.87 0.94 0.85 0.95 0.79 1.06 1.16 1.53 1.19
+
+95% CI
+1.4­44.4
+0.5­66.3
+1.02­6.03 1.18­4.95 0.66­1.99 0.37­2.49 0.48­1.41 0.19­5.32 0.71­1.79 0.84­1.44
+1.0­3.3 0.6­2.1 0.60­1.15 0.61­1.49 0.29­1.47 0.36­2.0 0.58­3.5 0.53­1.25
+0.8­1.2
+0.8­1.3 0.7­1.2 1.0­1.5 1.0­1.6 0.9­1.5 0.70­1.67 0.78­1.98 0.47­4.96
+1.18­3.15 0.79­1.36
+0.60­1.49
+0.57­1.78
+0.60­3.00
+0.48­1.80
+0.88­6.14 1.21­2.62 1.91­6.00 1.03­2.66 0.59­1.43 0.42­1.80 0.58­1.52 0.65­1.10 0.71­1.28 0.50­1.25 0.63­1.79 0.75­1.81 0.91­2.58 0.61­2.31
+
+Comment
+Adjusted for age, gender, date of sigmoidoscopy, clinic attended, and ethnicity
+Adjusted for age, smoking history, red meat intake, exercise, alcohol intake, and BMI
+Adjusted for age, energy intake, BMI, physical activity, dietary fiber, and smoking
+Adjusted for age, gender, date of sigmoidoscopy, clinic attended, and ethnicity
+Adjusted for age, smoking history, red meat intake, exercise, alcohol intake, and BMI
+Adjusted OR
+(continued on following page)
+
+292 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+Table 3 (continued). Risks of Colorectal Tumor by Individual Polymorphism and Study
+
+Gene and polymorphism
+
+Type of colorectal Frequency of rare
+
+neoplasm
+
+variant in controls Risk group OR 95% CI
+
+Comment
+
+Gertig et al.69
+Slattery et al.76
+Lee et al.78 Zhang et al.83 Welfare et al.84 Abdel-Rahman et al.85 Gawronska-Szklarz et al.92 GSTT1 deletion Chevenix-Trench et al.56
+Deakin et al.60
+Katoh et al.61 Gertig et al.69
+Zhang et al.83 Welfare et al.84 Abdel-Rahman et al.85 GSTP1 Ile105Val Harris et al.73 Welfare et al.84 Yoshioka et al.91 GSTP1 Ala114Val Harris et al.73 Welfare et al.84 MEPHX Try113His Harrison et al.18
+
+Distal CC CRC
+Proximal Distal
+CC in males
+Proximal Distal
+CC in females Proximal Distal CRC CRC CRC CRC CRC CRA
+CRC Proximal
+Distal All CRC Right-sided CC Left-sided CC Rectal Ca
+CRC CRC
+Proximal CRC Distal CRC CRC CRC CRC
+CRC CRC CRC
+CRC CRC
+All CRC
+
+MEPHX His139Arg Harrison et al.18
+Methylation genes MTHFR Ala677Val
+
+Proximal CRC Distal CRC
+All CRC Right-sided CRC Left-sided CRC
+
+0.53
+0.55
+0.49 0.50 0.51 0.67 0.6 0.16 0.19
+0.44 0.23
+0.20 0.17 0.41 0.34 0.33 0.27 0.07 0.1 0.31
+0.15
+
+Null genotype
+Null genotype
+Null genotype Null genotype Null genotype Null genotype Null genotype Null genotype
+
+2.03 0.93­2.66 1.0 0.7­1.5
+0.7 0.4­1.3 1.4 0.8­2.3 1.0 0.8­1.2
+
+1.1 1.0 0.9 1.0 1.0 0.79 0.86 1.04 0.56 2.53 1.73
+
+0.9­1.4 0.7­1.2 0.7­1.1 0.6­1.1 0.7­1.2 0.53­1.16 0.50­1.50 0.67­1.65 0.23­1.3 1.05­6.12 0.73­4.01
+
+Adjusted for age, smoking, BMI, physical activity, and alcohol
+Adjusted for age, energy intake, BMI, physical activity, dietary fiber, and smoking
+
+Null genotype
+Null genotype
+Null genotype Null genotype
+Null genotype Null genotype Null genotype
+
+0.86 0.37 1.03 1.88 1.50 2.33 1.87 1.18 0.8
+
+0.43­1.68 0.08­1.68 0.51­2.10 1.30­2.72 0.84­2.68 1.28­4.24 1.08­3.22 0.70­1.99
+0.5­1.2
+
+0.9 0.6 4.49 1.21 0.85
+
+0.5­1.7 0.3­1.2 2.42­8.34 0.63­2.0 0.37­1.97
+
+Adjusted for age, smoking, BMI, physical activity, and alcohol
+
+Val-carrier Val-carrier Val-carrier
+
+0.93 1.01 1.50
+
+0.56­1.54 0.65­1.60 0.81­2.76
+
+Val-carrier Val-carrier
+
+0.93 0.50­1.77 1.00 0.50­1.90
+
+Tyr/His
+His/His His-carrier
+Tyr/His His/His His-carrier Tyr/His His/His His-carrier
+
+0.83
+3.50 1.14 1.34 3.82 1.62 0.65 3.39 0.97
+
+0.49­1.40
+1.60­7.65 0.70­1.85 0.60­2.98 1.21­12.08 0.75­3.53 0.35­1.20 1.47­7.81 0.56­1.68
+
+Departure from Hardy-Weinberg (P  0.04)
+
+His/Arg Arg/Arg Arg-carrier His/Arg Arg/Arg Arg-carrier His/Arg Arg/Arg Arg-carrier
+
+0.77 2.58 0.86 1.19 7.00 1.50 0.61 0.89 0.62
+
+0.43­1.36 0.63­10.56 0.50­1.49 0.52­2.72 1.51­32.56 0.70­3.21 0.30­1.21
+0­6.40 0.32­1.21
+
+(continued on following page)
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 293
+
+Table 3 (continued). Risks of Colorectal Tumor by Individual Polymorphism and Study
+
+Gene and polymorphism
+
+Type of colorectal Frequency of rare
+
+neoplasm
+
+variant in controls Risk group OR 95% CI
+
+Comment
+
+Chen et al.64 Ma et al.66
+
+CRC 0.34 CRC 0.35
+
+Chen et al.71
+
+CRA 0.32
+
+Slattery et al.88
+Park et al.90 MTR Asp919Gly
+Chen et al.71
+
+Colon cancer Distal cancer
+Proximal cancer CRC
+CRA
+
+0.33
+0.43 0.19
+
+Ma et al.89
+Microenvironmental modifiers APOE Kervinen et al.65
+PLA2G2A-Exon 1 Tomlinson et al.63
+
+CRC (PHS)
+CRC (HPFS)
+All CRC All CRA Proximal CRC Proximal CRA Distal CRC Distal CRA
+CRC
+
+CRA
+
+PLA2G2A-Exon 3 Tomlinson et al.63
+
+CRC
+
+CRA
+
+Tumor suppressors/oncogenes APC-I1307K Laken et al.29
+Frayling et al.74 Woodage et al.82 Gryfe et al.87
+
+All CRC CRC aged 66 yrs CRC aged 66 yrs
+CRC with FH Colorectal neoplasm
+CRC Colorectal neoplasm
+CRC
+
+0.18 0.21 0.18
+0.23
+0.08
+0.06 0.08 ND
+
+Val/Val Val/Val
+Val/Val
+Val/Val Val/Val
+Val/Val Val/Val Gly/Gly
+Asp/Gly Gly/Gly Asp/Gly Gly/Gly
+
+0.57 0.30­1.06 0.45 0.24­0.86 0.46 0.25­0.84
+1.35 0.84­2.17
+0.9 0.7­1.1 1.0 0.7­1.3
+0.8 0.6­1.1 0.87 0.53­1.39
+
+Adjusted for age, family history, and intakes of folate, methionine, and alcohol
+Ala/Ala as reference group Val/Ala and Ala/Ala as reference
+group Adjusted ORs Departure from Hardy-Weinberg
+(P  0.04) Adjusted for age, family history,
+smoking status, BMI, and intakes of folate, methionine, alcohol, fiber, and saturated fat. Val/Ala and Ala/Ala as reference group Ala/Ala as reference group Adjusted for age, BMI, long-term vigorous activity, energy intake, dietary fiber, and current smoking
+Departure from Hardy-Weinberg (P  0.048)
+
+0.66 0.26­1.70
+
+1.04 0.63 0.71 0.53
+
+0.71­1.53 0.24­1.64 0.42­1.20 0.14­1.93
+
+Adjusted for age, family history, smoking status, BMI, and intakes of folate, methionine, alcohol, fiber, and saturated fat. Gly/Asp and Asp/Asp as reference group
+
+APOE4-carrier
+
+0.69 0.58 0.35 0.36 0.90 0.68
+
+0.42­1.13 0.35­0.95 0.14­0.86 0.14­0.89 0.52­1.57 0.39­1.18
+
+1/2 2/2 2-carrier 1/2 2/2 2-carrier
+
+1.02 0.97 1.02 1.78 2.67 1.90
+
+0.46­2.30 0.18­5.16 0.47­2.20 0.57­5.54 0.38­18.73 0.64­5.61
+
+1/2 2/2 2-carrier 1/2 2/2 2-carrier
+
+1.61 0.93 1.19 0.69 2.40 1.06
+
+0.59­4.35 0.13­6.87 0.56­2.83 0.13­3.53 0.32­18.00 0.30­3.79
+
+Carrier
+Carrier Carrier Carrier
+
+1.78 4.76 1.08 5.95 6.60 1.9 1.48
+
+1.05­3.03 2.44­9.29 0.50­2.35 2.37­14.95 1.33­32.82 0.84­4.2 1.08­2.04
+
+Comparison made using published control data82
+
+(continued on following page)
+
+294 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+Table 3 (continued). Risks of Colorectal Tumor by Individual Polymorphism and Study
+
+Gene and polymorphism
+
+Type of colorectal Frequency of rare
+
+neoplasm
+
+variant in controls Risk group OR 95% CI
+
+Comment
+
+APC-E1307Q Frayling et al.74
+MSH22006C 3 T variant Hall et al.53
+TP53 Arg72Pro Kawajiri et al.49
+Sjalander et al.54
+TP53 intron 6 MspI Sjalander et al.54
+TP53 16-bp dupl Sjalander et al.54
+HRAS1-VNTR Ceccherini-Nelli et al.42 Wyllie et al.43 Klingel et al.44 Krontiris et al.28 Gosse-Brun et al.75
+Other genes TNF-­308T A Park et al.80
+TNF- Park et al.80
+
+CRA
+
+Carrier
+
+0.003
+
+9.51 1.90­47.60
+
+CRC
+
+0.12
+
+Het 1.10 0.60­2.02
+
+Hom
+
+----
+
+Carrier
+
+1.13 0.62­2.08
+
+CRC
+
+0.35
+
+Arg/Pro
+
+0.78 0.46­1.30
+
+Pro/Pro
+
+1.68 0.85­3.33
+
+Pro-carrier
+
+0.95 0.59­1.53
+
+CRC
+
+0.29
+
+Arg/Pro
+
+1.30 0.83­2.03 Genotype distribution of
+
+controls--departure from
+
+Hardy-Weinberg (P  0.05)
+
+Pro/Pro
+
+1.25 0.64­2.43
+
+Pro-carrier
+
+1.29 0.85­1.95
+
+CRC
+
+0.15
+
+G/A het
+
+1.09 0.67­1.79
+
+A/A hom
+
+0.50 0.14­1.78
+
+A-carrier
+
+1.00 0.62­1.61
+
+CRC
+
+0.15
+
+A1/A2
+
+0.50 0.29­0.88 Presence of 16-bp duplication
+
+designated by A2 allele
+
+A2/A2
+
+0.49 0.14­1.79
+
+A2-carrier
+
+0.50 0.30­0.85
+
+CRC
+
+0.02
+
+Carrier
+
+1.31 0.29­5.97
+
+CRC
+
+0.02
+
+Carrier
+
+3.95 0.8­19.55
+
+CRC
+
+0.06
+
+Carrier
+
+1.98 1.00­3.92
+
+CRC
+
+0.06
+
+Carrier
+
+2.84 0.95­8.55
+
+CRC
+
+0.01
+
+Carrier
+
+7.36 1.66­32.70
+
+CRC
+
+0.12
+
+TA-het
+
+0.73 0.44­1.21
+
+AA-hom
+
+0.55 0.06­4.96
+
+A-carrier
+
+0.72 0.44­1.19
+
+CRC
+
+0.32
+
+Het 1.74 1.11­2.73
+
+Hom
+
+2.89 1.54­5.42
+
+Carrier
+
+1.94 1.26­2.98
+
+BMI, body mass index; CC, colon cancer; CRA, colorectal adenoma; CRC, colorectal cancer; ND, not determined; bp, base pair(s).
+
+Polymorphic variation in only one mismatch repair gene, MLH1, has been examined to date.53 No association was seen.
+Other Genes
+The 238G 3 A TNF- polymorphism has been shown in one study to be associated with an increased risk of colorectal cancer.80 There was no association with the 308G 3 A TNF- polymorphism.
+Meta-analysis
+For the meta-analysis, data from studies of 11 of the genes were suitable for pooling. The study by Zhang et al.83 was omitted from the meta-analysis of GSTM1 and GSTT1, as in this study colonic tissue was assayed. Table 4 details the studies that were combined for each of the polymorphic variants and the results of each analysis in relation to risk of colorectal cancer. In the
+
+absence of heterogeneity between studies, pooled estimates of risk were based on the fixed-effects model. There were statistically significant associations between colorectal cancer risk and 3 of the polymorphic variants: APC-I1307K (OR  1.58, 95% CI: 1.21­2.07); HRAS1-VNTR rare alleles, and MTHFRVal/Val (OR  0.76, 95% CI: 0.62­ 0.92). There was no obvious evidence from visual diagnostic appraisal or formal analysis of findings for publication bias in these studies. The risk of colorectal cancer associated with rare alleles of the HRAS1-VNTR remained increased if the analysis was restricted to the 4 studies based on Southern analysis.28,42­ 44
+In the pooled analysis, NAT2 rapid acetylator status determined by phenotyping was associated with an increased risk; however, no relationship was seen in the studies based on genotyping. Hence in the combined
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 295
+
+Table 4. Results of Meta-analyses of Polymorphisms and Risk of Colorectal Cancer
+
+Gene/polymorphism
+
+Pooled studies (reference no.)
+
+Risk group
+
+OR 95% CI Significance
+
+Remarks
+
+NAT2
+NAT1*10 GSTM1 deletion
+GSTT1 deletion GSTP1 Ile105Val GSTP1 Ala114Val MTHFR Val677Val
+MTR APC-I1307K HRAS1-VNTR
+TP53 Arg72Pro
+
+40,41,45,61
+
+Rapid acetylatorphenotype
+
+1.70 1.23­2.37
+
+47,51,52,55,67,68,72,76, 77,79,90
+40,41,45,47,51,52,55,61, 67,68,72,76,77,79,90
+55,72,91 48,56,60,61,69,76,78,84,
+85,92 46,48,56,60,61,69,76,78,
+84,85,92 56,60,61,69,83­85,92 73,84,91
+64,66,88,90
+
+Rapid acetylatorgenotype
+Rapid acetylatorgenotype/phenotype
+T-carrier Null genotype
+Null genotype/phenotype
+Null Ile/Val Val-carrier Val-carrier Val/Val
+
+1.03
+1.08
+1.22 1.10
+1.09
+1.16 1.14 0.98 0.98 0.77
+
+0.93­1.14
+0.97­1.19
+0.92­1.63 0.99­1.21
+0.98­1.20
+0.86­1.52 0.76­1.72 0.69­1.40 0.68­1.42 0.64­0.93
+
+89 29,82,87 28,42­44,75 28,42­44
+49,54
+
+Asp/Gly Gly/Gly Carrier
+Carrier (all studies)
+Carrier (alleles defined by Southern blotting)
+Arg/Pro Pro/Pro Pro-carrier
+
+0.92 0.67­1.25 0.59 0.27­1.27 1.61 1.22­2.11
+2.50 1.54­4.05
+2.20 1.32­3.67
+1.05 0.74­1.47 1.44 0.89­2.34 1.13 0.82­1.55
+
+0.001
+0.77
+0.14
+0.17 0.07
+0.11
+0.29 0.52 0.92 0.93 0.006
+0.55 0.19 0.001
+0.0002
+0.001
+0.26 0.14 0.46
+
+Test of heterogeneity 2  3.60; 3 df; P  0.31
+Ala/Ala and Ala/Val genotypes as reference
+Test of heterogeneity 2  2.05; 3 df; P  0.56
+Test of heterogeneity 2  0.48; 2 df; P  0.78 Test of heterogeneity 2  3.52; 4 df; P  0.48 Test of heterogeneity 2  1.26; 3 df; P  0.74
+
+NOTE. Estimates obtained from fixed-effects model. df, degrees of freedom.
+
+analysis, there was no significant evidence for an association. Although there was no statistical evidence for publication bias, this could not be excluded. Combining the 2 studies that examined NAT2 status and risk of colorectal adenomas,58,62 there was no evidence for a relationship (OR  1.08; 95% CI: 0.85­1.39). A minority of studies estimated the risk of colorectal cancer associated with NAT2-rapid acetylator status by site, distinguishing between colon and rectal cancers.68,76,78 Using these studies, the risks of colon and rectal cancers were 1.09 (0.95­1.25; P  0.24) and 1.05 (0.70 ­1.58; P  0.82), respectively.
+There was no evidence from the meta-analysis to indicate that either GSTM1 or GSTT1 deficiency is significantly associated with an increased risk of colorectal cancer. It has, however, been proposed that any association between GSTM1 deficiency and colorectal cancer might be confined to proximal disease.48 There was little evidence from a pooled analysis to support this notion. The cancer risk associated with proximal disease was
+
+1.14 (95% CI: 0.85­1.57, P  0.38), and that with distal disease was 1.14 (95% CI: 0.96 ­1.29, P  0.14). Similarly, there was no evidence to support the postulate that GSTT1 deficiency might confer significant susceptibility to proximal disease, the combined OR being 1.10 (95% CI: 0.72­1.67, P  0.44).
+Interaction Between Polymorphisms
+The possibilities of gene-gene interactions impacting on colorectal cancer risk have been explored in some of the studies of enzymes involved in carcinogen metabolism. A possible gene-gene interaction between NAT1-rapid (defined by the NAT1*10 allele) and NAT2-rapid acetylator status was reported by Bell et al.55 The interaction was associated with a 2.2-fold elevated risk of colorectal cancer, but this was nonsignificant (95% CI: 0.8 ­ 6.1). No support for this notion was seen in the study reported by Chen et al.72 (OR  0.78, CI: 0.48 ­1.27), or in the study of colorectal adenoma risk reported by Probst-Hensch et al.59 (OR  1.11,
+
+296 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+95% CI: 0.79 ­1.56). Similarly, no interaction between NAT1 status, defined by NAT1*14 and NAT1*15 alleles, and NAT2-rapid acetylator status was found by Hubbard et al.70 A possible interaction between GSTM1 and GSTT1 was evaluated in 3 studies reported by Gertig et al.,69 Abdel-Rahman et al.,85 and Deakin et al.60 No interaction between the 2 loci was seen in these studies. Paradoxically, an interaction between NAT2slow acetylator and GSTT1-null status was reported by Welfare et al.84 (OR  2.33, 95% CI: 1.1­5.0).
+Polymorphism-Environment Interaction
+Dietary folate, methionine, and alcohol intake have been associated in some, but not all, epidemiologic studies with risk of colorectal neoplasia.93,94 How these dietary factors might impact on colorectal cancer risk is not well established, but one unifying mechanism is that they act in concert through DNA methylation. Although modest depletion of dietary folate may not be sufficient to cause hypomethylation in vivo, high levels of alcohol might reduce levels of S-adenosyl methionine sufficient to impact on patterns of DNA methylation. There is some support for this from the studies of MTHFRAsp/Val, in which the inverse relationship between homozygosity and cancer risk was not seen in individuals with diets deficient in methionine or rich in alcohol.64,66,88 The adverse effect of alcohol on risk was greater in homozygotes and the protective effect of genotype diminished by folate deficiency. No significant interaction between genotype and folate, methionine, or alcohol intake on polyp formation was, however, seen,71 suggesting any effect on cancer risk is post-adenoma.
+Diets high in animal fat and red meat have been proposed to increase the risk of colorectal neoplasia.95,96 NAT is of particular interest in respect to metabolism of polycyclic amines derived from cooked meats. Positive associations between red meat intake, NAT2 acetylator status, and colorectal neoplasia have been reported in the studies by Lang et al.,40 Chen et al.,72 Probst-Hensch et al.,58 Roberts-Thomson et al.,62 and Welfare et al.68 Other lifestyle factors suggested as risk factors for colorectal neoplasia include cigarette smoking, although the evidence is equivocal.97­99 Higher levels of DNA damage have been observed in individuals with GSTM1 and GSTT1 null genotypes in heavy smokers compared with nonsmokers. There is, however, no evidence to date from the studies of Katoh et al.,61 Gertig et al.,69 or Slattery et al.76 to support an interaction between GSTM1 and GSTT1 and smoking on colorectal cancer risk. Welfare et al.68 purported that there is an interaction between NAT2-status and smoking, but this was not supported by Slattery et al.76
+
+Discussion
+Research into genetic susceptibility to colorectal cancer has, until recently, largely focused on the identification of genes causing dominantly inherited diseases such as FAP, hereditary nonpolyposis colorectal cancer, and, to a lesser extent, Peutz-Jeghers syndrome and juvenile polyposis. Mutations in the genes in their classical guise (resulting in a truncated protein) are associated with a significant risk of colorectal cancer, but carriers in the general population are rare; hence, the overall impact of such mutations on cancer incidence will be small. As opportunities to identify further high penetrance genes diminish, increasing attention is being paid to the possibility that common low penetrance genes might in part determine susceptibility to colorectal cancer.
+Substantial research has been performed evaluating the polymorphisms in a number of genes as low penetrance colorectal tumor susceptibility alleles. Has this all been worthwhile? There is no clear evidence that any is strongly associated with risk of colorectal cancer or adenomas. Of the 24 variants examined to date, few have been reported as statistically significant in more than one study-- defined by a P value of 0.05. Given the issue of multiple testing in many reports, it is clearly advantageous when interpreting any purported association to stipulate low P values, or to replicate findings in independent samples, or ideally both. The issue of if it is appropriate to correct for multiple testing and on what basis this should be undertaken is a thorny issue arousing considerable debate. Boehringer et al.100 have argued that a correction should be based on the number of polymorphisms analyzed in any one gene rather than on the total number of polymorphisms analyzed if more than one gene is evaluated.
+In some studies, the failure to demonstrate a relationship may in part be a consequence of lack of power. It is unlikely that any common predisposition allele will confer much more than a twofold difference in the risk of colorectal tumors. Fewer than 40% of studies had 80% power to show a twofold difference in risk at the 0.05 significance level. To overcome this lack of power, a meta-analysis was undertaken by pooling the data from published studies. There are, however, caveats to this statistical procedure. In any systematic review, publication bias is clearly of great concern. The most common scenario is that negative findings may go unreported. We cannot exclude this possibility for the 3 polymorphisms that seem to confer a risk of colorectal cancer (HRAS1VNTR, MTHFRAla/Val, and APCI1307K). Furthermore, many studies do not describe the ethnicity of cases or
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 297
+
+controls, and it is assumed that each polymorphism is functional with respect to risk in each study population. This is likely to be the case with MTHFR and presumably also, at least in part, with APCI1307K. If, however, the polymorphism is a neutral marker for another variant, the assumption may well not apply, because linkage disequilibrium can be population-dependent. The studies of the risks associated with APCI1307K are unique in this respect, having been performed exclusively in the Ashkenazi population. Another potential issue in combining data relates to designation of individual polymorphisms. In some genes, multiple polymorphisms can be detected by the same assay. This is clearly a problem with microsatellite or minisatellite polymorphisms, such as the HRAS1-VNTR, in which assigning alleles can be problematic. The choice of the cutoff between rare and common alleles is crucial, and allele definition may be different between studies. The low resolution of the Southern blot method used in early studies of the HRAS1-VNTR may have failed to distinguish some rare alleles.101 This, coupled with post hoc analysis of data in studies, suggests that the relationship between rare alleles and risk of colorectal cancer should be revisited.
+Ideally, quality scoring of studies should be used to determine which studies are included in any meta-analysis.102 This was not undertaken because existing scales have not been validated and it is also unclear how they could readily be applied to the published studies of polymorphisms and colorectal tumor risk.103
+If genetic susceptibility to colorectal cancer is mediated through polymorphic variation, it is probable that combinations of genotypes should be more discriminating as risk factors than a single locus genotype, especially if a multiplicative model of interaction operates. Some investigators have performed subgroup analyses; however, in many cases the data were "mined" to detect a significant finding.
+An important lesson from current studies is that greater attention should be paid to design in future studies. It has been argued that in association studies based on genotyping, it is unnecessary to take into account factors such as age or concomitant disease, because they do not influence genotype.104 The age-structure of cases and controls is, however, a source of potential bias, albeit a minor one, because genotypes may display age-dependency. For example, the population frequencies of APO-E genotypes show age-dependency.105 Furthermore, age is relevant to determining the probable exposure to carcinogens. A difference in the ages between cases and controls is therefore a potential source of bias. Considering the issues of concomitant disease, a number of the
+
+studies were based on a comparison of cases and noncolon cancer disease controls. The use of healthy population controls is preferable, because it is conceivable that the polymorphism might confer susceptibility to noncancer diseases.
+The issue of population stratification in case-control studies and resulting false positive results is also of great concern. If population subdivisions exist, it will be possible to find associations between disease and arbitrary markers that are unlinked to causative loci. These associations occur because of population subdivision and nonrandom mating, leading to variation in the marker frequency within the population as a result of founder effects and/or genetic drift. The severity of spurious association becomes an increasing problem with increasing study size. To avoid the problem of such spurious associations, it is essential that any potential confounding effect of population stratification be allowed for in the design and analysis of a study. This requires the identification of subpopulations in terms of factors that can influence both disease and marker allele frequencies. Provided cases and controls are well-matched, differences in the frequency of genotypes will only be seen at predisposition loci. Hence, stratification can be detected by typing a series of unlinked markers chosen from a panel known to exhibit differences in allele frequency between populations.106 The appropriate Bonferroni correction would be required to assess the statistical significance of any putative association. One method of circumventing the problem of occult population stratification is to use family-based controls. The most common approach is the transmission disequilibrium test, which assesses the evidence for preferential transmission of one allele over the other from heterozygous parents.107 To obviate the requirement for parental genotypes, allied statistics based on the use of sibling genotypes have been devised.108,109
+Despite these concerns, it is possible to draw a number of conclusions from the evidence. The APC-I1307K, HRAS1-VNTR rare alleles, and MTHFRAla/Val variants seem to represent the strongest candidates for low penetrance susceptibility alleles of the polymorphisms evaluated to date. Although the genotypic risks associated with these variants are modest, because they are not uncommon, they will have considerable impact on the overall burden of colorectal cancer. For example, APCI1307K may account for up to 6% of all Ashkenazi Jewish colorectal cancer. For polymorphisms of NAT1, NAT2, GSTM1, and GSTT1, the best estimate of risk obtained from the meta-analysis is sufficient to exclude a colorectal cancer risk greater than 1.7-fold. For the remainder--GSTP1, CYP1A1, mEPHX, MTR, and secre-
+
+298 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+tory phospholipase A2 (PLAG2A)--the estimates of risk are too imprecise and, although there is no good evidence to implicate them to date, moderate increases in risk of colorectal cancer cannot be excluded. To derive precise estimates of the risks associated with variants of these genes and to investigate gene-gene and gene-environment interactions will require much larger sample sizes than have been used in published studies.
+The notion that inter-individual differences in colorectal cancer risk may in part be attributable to polymorphic variation is an attractive hypothesis. Alleles of other genes such as the DNA repair genes or other metabolic enzymes represent candidates for future studies. At present, association studies in colorectal cancer are restricted to evaluating polymorphisms in a small number of candidate genes. In the medium term, polymorphisms for all genes will be identified. This, and the introduction of reliable, high-density oligonucleotide arrays (or alternative methods) will allow allelic association studies to be conducted on a genome-wide basis. The detection of low penetrance colorectal cancer susceptibility genes will then only be restricted by the availability of large cohorts of well-characterized cases and controls. The polymorphism studies that have been conducted to date have important lessons for the design and execution of future studies. It is clear that in addition to conducting studies using sample sizes commensurate with the detection of low penetrance polymorphisms, attention should be paid to adequate matching of cases and controls to avoid problems of population stratification and other sources of potential bias.
+References
+1. HMSO. Cancer Statistics. Registrations. England and Wales. London, UK: HMSO, 1989.
+2. HMSO. Mortality Statistics. Cause. England and Wales. London, UK: HMSO, 1992.
+3. Finlay IG, Pickford IR. Colorectal carcinoma. In: Lawson DH, ed. Current medicine. 4th ed. Edinburgh, UK: Churchill Livingstone, 1994:51­ 64.
+4. Burt RW, Bishop DT, Lynch HT, Rozen P, Winawer SJ. Risk and surveillance of individuals with heritable factors for colorectal cancer. WHO Collaborating Centre for the Prevention of Colorectal Cancer. Bull World Health Organ 1990;68:655­ 665.
+5. Jarvinen HJ. Epidemiology of familial adenomatous polyposis in Finland: impact of family screening on the colorectal cancer rate and survival. Gut 1992;33:357­360.
+6. Lynch HT, Smyrk T, Lynch JF. Overview of natural history, pathology, molecular genetics and management of HNPCC (Lynch Syndrome). Int J Cancer 1996;69:38 ­ 43.
+7. Houlston RS, Peto J. Genetics of common cancers. In: Eeles RA, Ponder B, Easton DE, Horwich A, eds. Inherited predisposition to cancer. 1st ed. London, UK: Chapman Hall Medical, 1996:208 ­ 226.
+8. Risch N, Merikangas K. The future of genetic studies of complex human disease. Science 1996;273:1516 ­1517.
+
+9. Sham P. Statistics in human genetics. 1st ed. London, UK: Arnold Publications, 1998.
+10. Fearon ER, Vogelstein B. A genetic model for colorectal tumorigenesis. Cell 1990;61:759 ­767.
+11. Ilyas M, Tomlinson IPM. Genetic pathways in colorectal cancer. Histopathology 1996;28:389 ­399.
+12. Smith G, Stanley LA, Sim E, Strange RC, Wolf CR. Metabolic polymorphisms and cancer susceptibility. Cancer Surv 1995; 25:27­ 65.
+13. Kawajiri K. CYP1A1. In: Vineis P, Malatas N, Lang M, d'Errico A, Caporosa N, Cuzick J, Bofetta P, eds. Metabolic polymorphisms and susceptibility to cancer. Lyon, France: IARC Sci Publ, 1999: 159 ­172.
+14. Hirvonen A. Polymorphic NATs and cancer predisposition. In: Vineis P, Malatas N, Lang M, d'Errico A, Caporosa N, Cuzick J, Bofetta P, eds. Metabolic polymorphisms and susceptibility to cancer. Lyon, France: IARC Sci Publ, 1999:251­270.
+15. Feng Y, Fretland AJ, Rustan TD, Jiang W, Becker WK, Hein DW. Higher frequency of aberrant crypt foci in rapid than slow acetylator inbred rats administered the colon carcinogen 3,2dimethyl-4-aminobiphenyl. Toxicol Appl Pharmacol 1997;147: 56 ­ 62.
+16. Strange RC, Fryer AA. The glutathione S-transferases: influence of polymorphism on cancer susceptibility. In: Vineis P, Malatas N, Lang M, d'Errico A, Caporosa N, Cuzick J, Bofetta P, eds. Metabolic polymorphisms and susceptibility to cancer. Lyon, France: IARC Sci Publ, 1999:231­249.
+17. Wormhoudt LW, Commandeur JN, Vermeulen NP. Genetic polymorphisms of human N-acetyltransferase, cytochrome P450, glutathione-S-transferase, and epoxide hydrolase enzymes: relevance to xenobiotic metabolism and toxicity. Crit Rev Toxicol 1999;29:59 ­124.
+18. Harrison DJ, Hubbard AL, MacMillan J, Wyllie AH, Smith CA. Microsomal epoxide hydrolase gene polymorphism and susceptibility to colon cancer. Br J Cancer 1999;79:168 ­171.
+19. Breivik J, Gaudernack G. Genomic instability, DNA methylation, and natural selection in colorectal carcinogenesis. Semin Cancer Biol 1999;9:245­254.
+20. Toyota M, Ahuja N, Ohe-Toyota M, Herman JG, Baylin SB, Issa JP. CpG island methylator phenotype in colorectal cancer. Proc Natl Acad Sci U S A 1999;96:8681­ 8686.
+21. Kim YI, Pogribny IP, Salomon RN, Choi SW, Smith DE, James SJ, Mason JB. Exon-specific DNA hypomethylation of the p53 gene of rat colon induced by dimethylhydrazine. Modulation by dietary folate. Am J Pathol 1996;149:1129 ­1137.
+22. Jacques PF, Bostom AG, Williams RR, Ellison RC, Eckfeldt JH, Rosenberg IH, Selhub J, Rozen R. Relation between folate status, a common mutation in methylenetetrahydrofolate reductase, and plasma homocysteine concentrations. Circulation 1996;93:7­9.
+23. Cormier RT, Hong KH, Halberg RB, Hawkins TL, Richardson P, Mulherkar R, Dove WF, Lander ES. Secretory phospholipase Pla2g2a confers resistance to intestinal tumorigenesis. Nat Genet 1997;17:88 ­91.
+24. Dragani TA, Manenti G. Mom1 leads the pack. Nat Genet 1997; 17:7­ 8.
+25. Riggins GJ, Markowitz S, Wilson JK, Vogelstein B, Kinzler KW. Absence of secretory phospholipase A2 gene alterations in human colorectal cancer. Cancer Res 1995;55:5184 ­5186.
+26. Reddy BS, Wynder EL. Metabolic epidemiology of colon cancer. Faecal bile acids and neutral sterols in colon cancer patients and patients with adenomaous polyps. Cancer 1977;39:2533­ 2539.
+27. Davignon J, Gregg RE, Sing CF. Apolipoprotein E polymorphism and atherosclerosis. Arteriosclerosis 1988;8:1­21.
+28. Krontiris TG, Devlin B, Karp DD, Robert NJ, Risch N. An associ-
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 299
+
+ation between the risk of cancer and mutations in the HRAS1 minisatellite locus. N Engl J Med 1993;329:517­523. 29. Laken SJ, Petersen GM, Gruber SB, Oddoux C, Ostrer H, Giardiello FM, Hamilton SR, Hampel H, Markowitz A, Klimstra D, Jhanwar S, Winawer S, Offit K, Luce MC, Kinzler KW, Vogelstein B. Familial colorectal cancer in Ashkenazim due to a hypermutable tract in APC. Nat Genet 1997;17:79 ­ 83. 30. Evans SC, Lozano G. The Li-Fraumeni syndrome: an inherited susceptibility to cancer. Mol Med Today 1997;3:390 ­395. 31. Sung SSJ, Bjorndahl JM, Wang CY, Kao HT, Fu SM. Production of tumour necrosis factor/cachectin by human T cell lines and peripheral blood lymphocytes stimulated by phorbol myristrate acetate and anti-CD3 antibody. J Exp Med 1988;167:937­953. 32. Shimura T, Hagihura M, Takebe K, Munkhbat B, Odaka T, Kata H, Nagamachi Y, Tsuji K. The study of tumour necrosis factor beta polymorphism in lung cancer patients. Cancer 1994;73: 1184 ­1188. 33. Shimura T, Hagihura M, Takebe K, Munkhbat B, Odaka T, Kata H, Nagamachi Y, Tsuji K. 10.5kb homozygote of tumour necrosis factor-beta gene is associated with a better prognosis in gastric cancer patients. Cancer 1995;75:1450 ­1453. 34. Breslow NE, Day NE. Statistical methods in cancer research., Vol. 1 & 2. Lyon, France: IARC Sci Publ., 1987. 35. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials1986;7:177­188. 36. Egger M, Smith GD, Schneider M, Minder C. Bias in metaanalysis detected by a simple graphical test. BMJ 1997;315: 629 ­ 634. 37. Sharpe S, Sterne S. META. Stata Technical Bulletin 38 and 42. Available at: http://www.stata.com. 1998. Accessed May 2000. 38. Steichen T. METABIAS. Stata Technical Bulletin 41. Available at: http://www.stata.com. 1998. Accessed May 2000. 39. Fleiss JL, Tytun A, Uray HK. A simple approximation for calculating sample sizes for comparing independent proportions. Biometrics 1980;36:343­346. 40. Lang NP, Chu DZ, Hunter CF, Kendall DC, Flammang TJ, Kadlubar FF. Role of aromatic amine acetyltransferase in human colorectal cancer. Arch Surg 1986;121:1259 ­1261. 41. Ilett KF, David BM, Detchon P, Castleden WM, Kwa R. Acetylation phenotype in colorectal carcinoma. Cancer Res 1987;47: 1466 ­1469. 42. Ceccherini-Nelli L, De Re V, Viel A, Molaro G, Zilli L, Clemente C, Boiocchi M. Ha-ras-1 restriction fragment length polymorphism and susceptibility to colon adenocarcinoma. Br J Cancer 1987; 56:1­5. 43. Wyllie FS, Wynford-Thomas V, Lemoine NR, Williams GT, Williams ED, Wynford-Thomas D. Ha-ras restriction fragment length polymorphisms in colorectal cancer. Br J Cancer 1988;57:135­ 138. 44. Klingel R, Mittelstaedt P, Dippold WG, Meyer zum Buschenfelde KH. Distribution of Ha-ras alleles in patients with colorectal cancer and Crohn's disease. Gut 1991;32:1508 ­1513. 45. Ladero JM, Gonzalez JF, Benitez J, Vargas E, Fernandez MJ, Baki W, Diaz-Rubio M. Acetylator polymorphism in human colorectal carcinoma. Cancer Res 1991;51:2098 ­2100. 46. Strange RC, Matharoo B, Faulder GC, Jones P, Cotton W, Elder JB, Deakin M. The human glutathione S-transferases: a casecontrol study of the incidence of the GST1 0 phenotype in patients with adenocarcinoma. Carcinogenesis 1991;12:25­ 28. 47. Rodriguez JW, Kirlin WG, Ferguson RJ, Doll MA, Gray K, Rustan TD, Lee ME, Kemp K, Urso P, Hein DW. Human acetylator genotype: relationship to colorectal cancer incidence and arylamine N-acetyltransferase expression in colon cytosol. Arch Toxicol 1993;67:445­ 452. 48. Zhong S, Wyllie AH, Barnes D, Wolf CR, Spurr NK. Relationship
+
+between the GSTM1 genetic polymorphism and susceptibility to bladder, breast and colon cancer. Carcinogenesis 1993;14: 1821­1824. 49. Kawajiri K, Nakachi K, Imai K, Watanabe J, Hayashi S. Germ line polymorphisms of p53 and CYP1A1 genes involved in human lung cancer. Carcinogenesis 1993;14:1085­1089. 50. Sivaraman L, Leatham MP, Yee J, Wilkens LR, Lau AF, Le Marchand L. CYP1A1 genetic polymorphisms and in situ colorectal cancer. Cancer Res 1994;54:3692­3695. 51. Shibuta K, Nakashima T, Abe M, Mashimo M, Mori M, Ueo H, Akiyoshi T, Sugimachi K, Suzuki T. Molecular genotyping for N-acetylation polymorphism in Japanese patients with colorectal cancer. Cancer 1994;74:3108 ­3112. 52. Oda Y, Tanaka M, Nakanishi I. Relation between the occurrence of K-ras gene point mutations and genotypes of polymorphic N-acetyltransferase in human colorectal carcinomas. Carcinogenesis 1994;15:1365­1369. 53. Hall NR, Taylor GR, Finan PJ, Kolodner RD, Bodmer WF, Cottrell SE, Frayling I, Bishop DT. Intron splice acceptor site sequence variation in the hereditary non-polyposis colorectal cancer gene hMSH2. Eur J Cancer 1994;30A:1550 ­1552. 54. Sjalander A, Birgander R, Athlin L, Stenling R, Rutegard J, Beckman L, Beckman G. P53 germ line haplotypes associated with increased risk for colorectal cancer. Carcinogenesis 1995;16: 1461­1464. 55. Bell DA, Stephens EA, Castranio T, Umbach DM, Watson M, Deakin M, Elder J, Hendrickse C, Duncan H, Strange RC. Polyadenylation polymorphism in the acetyltransferase 1 gene (NAT1) increases risk of colorectal cancer. Cancer Res 1995; 55:3537­3542. 56. Chenevix-Trench G, Young J, Coggan M, Board P. Glutathione S-transferase M1 and T1 polymorphisms: susceptibility to colon cancer and age of onset. Carcinogenesis 1995;16:1655­1657. 57. Lin HJ, Probst-Hensch NM, Ingles SA, Han CY, Lin BK, Lee DB, Frankl HD, Lee ER, Longnecker MP, Haile RW. Glutathione transferase (GSTM1) null genotype, smoking, and prevalence of colorectal adenomas. Cancer Res 1995;55:1224 ­1226. 58. Probst-Hensch NM, Haile RW, Ingles SA, Longnecker MP, Han CY, Lin BK, Lee DB, Sakamoto GT, Frankl HD, Lee ER, Lin HJ. Acetylation polymorphism and prevalence of colorectal adenomas. Cancer Res 1995;55:2017­2020. 59. Probst-Hensch NM, Haile RW, Li DS, Sakamoto GT, Louie AD, Lin BK, Frankl HD, Lee ER, Lin HJ. Lack of association between the polyadenylation polymorphism in the NAT1 (acetyltransferase 1) gene and colorectal adenomas. Carcinogenesis 1996; 17:2125­2129. 60. Deakin M, Elder J, Hendrickse C, Peckham D, Baldwin D, Pantin C, Wild N, Leopard P, Bell DA, Jones P, Duncan H, Brannigan K, Alldersea J, Fryer AA, Strange RC. Glutathione S-transferase GSTT1 genotypes and susceptibility to cancer: studies of interactions with GSTM1 in lung, oral, gastric and colorectal cancers. Carcinogenesis 1996;17:881­ 884. 61. Katoh T, Nagata N, Kuroda Y, Itoh H, Kawahara A, Kuroki N, Ookuma R, Bell DA. Glutathione S-transferase M1 (GSTM1) and T1 (GSTT1) genetic polymorphism and susceptibility to gastric and colorectal adenocarcinoma. Carcinogenesis 1996;17: 1855­1859. 62. Roberts-Thomson IC, Ryan P, Khoo KK, Hart WJ, McMichael AJ, Butler RN. Diet, acetylator phenotype, and risk of colorectal neoplasia. Lancet 1996;347:1372­1374. 63. Tomlinson IP, Beck NE, Neale K, Bodmer WF. Variants at the secretory phospholipase A2 (PLA2G2A) locus: analysis of associations with familial adenomatous polyposis and sporadic colorectal tumours. Ann Hum Genet 1996;60:369 ­376. 64. Chen J, Giovannucci E, Kelsey K, Rimm EB, Stampfer MJ, Colditz GA, Spiegelman D, Willett WC, Hunter DJ. A methylenetetrahy-
+
+300 HOULSTON AND TOMLINSON
+
+GASTROENTEROLOGY Vol. 121, No. 2
+
+drofolate reductase polymorphism and the risk of colorectal cancer. Cancer Res 1996;56:4862­ 4864. 65. Kervinen K, Sodervik H, Makela J, Lehtola J, Niemi M, Kairaluoma MI, Kesaniemi YA. Is the development of adenoma and carcinoma in proximal colon related to apolipoprotein E phenotype? Gastroenterology 1996;110:1785­1790. 66. Ma J, Stampfer MJ, Giovannucci E, Artigas C, Hunter DJ, Fuchs C, Willett WC, Selhub J, Hennekens CH, Rozen R. Methylenetetrahydrofolate reductase polymorphism, dietary interactions, and risk of colorectal cancer. Cancer Res 1997;57:1098 ­1102. 67. Hubbard AL, Harrison DJ, Moyes C, Wyllie AH, Cunningham C, Mannion E, Smith CA. N-acetyltransferase 2 genotype in colorectal cancer and selective gene retention in cancers with chromosome 8p deletions. Gut 1997;41:229 ­234. 68. Welfare M, Cooper J, Bassendine MF, Daly AK. Relationship between acetylator status, smoking, diet and colorectal cancer risk in the north-east of England. Carcinogenesis 1997;18: 1351­1354. 69. Gertig DM, Stampfer M, Haiman C, Hennekens CH, Kelsey K, Hunter DJ. Glutathione S-transferase GSTM1 and GSTT1 polymorphisms and colorectal cancer risk: a prospective study. Cancer Epidemiol Biomarkers Prev 1998;7:1001­1005. 70. Hubbard AL, Moyes C, Wyllie AH, Smith CA, Harrison DJ. N-acetyl transferase 1: two polymorphisms in coding sequence identified in colorectal cancer patients. Br J Cancer 1998;77:913­916. 71. Chen J, Giovannucci E, Hankinson SE, Ma J, Willett WC, Spiegelman D, Kelsey KT, Hunter DJ. A prospective study of methylenetetrahydrofolate reductase and methionine synthase gene polymorphisms, and risk of colorectal adenoma. Carcinogenesis 1998;19:2129 ­2132. 72. Chen J, Stampfer MJ, Hough HL, Garcia-Closas M, Willett WC, Hennekens CH, Kelsey KT, Hunter DJ. A prospective study of N-acetyltransferase genotype, red meat intake, and risk of colorectal cancer. Cancer Res 1998;58:3307­3311. 73. Harris MJ, Coggan M, Langton L, Wilson SR, Board PG. Polymorphism of the Pi class glutathione S-transferase in normal populations and cancer patients. Pharmacogenetics 1998;8:27­ 31. 74. Frayling IM, Beck NE, Ilyas M, Dove-Edwin I, Goodman P, Pack K, Bell JA, Williams CB, Hodgson SV, Thomas HJ, Talbot IC, Bodmer WF, Tomlinson IP. The APC variants I1307K and E1317Q are associated with colorectal tumors, but not always with a family history. Proc Natl Acad Sci U S A 1998;95:10722­ 10727. 75. Gosse-Brun S, Sauvaigo S, Daver A, Larra F, Kwiatkowski F, Bignon YJ, Bernard-Gallon D. Association between H-ras minisatellite and colorectal cancer risk. Anticancer Res 1998;18: 2611­2616. 76. Slattery ML, Potter JD, Samowitz W, Bigler J, Caan B, Leppert M. NAT2, GSTM1, cigarette smoking and risk of colon cancer. Cancer Epidemiol Biomarkers Prev 1998;7:1079 ­1084. 77. Lee EJD, Zhao B, Seow-Choen F. Relationship between polymorphism of n-acetyltransferase gene and susceptibility to colorectal carcinoma in a chinese population. Pharmacogenetics 1998; 8:513­517. 78. Lee EJD, Zhao B, Seow-Choen F, Balakrishman A, Chan SH. Genetic polymorphism of conjugating enzymes and cancer risk: GSTM1, GSTT1, NAT1 and NAT2. J Toxicol Sci 1998;23(suppl II):140 ­142. 79. Gil JP, Lechner MC. Increased frequency of wild-type arylamineN-acetyltransferase allele NAT2*4 homozygotes in Portugese patients with colorectal cancer. Carcinogenesis 1998;19: 37­ 41. 80. Park KS, Mok JW, Rho SA, Kim JC. Analysis of TNFB and TNFA NcoI RFLP in colorectal cancer. Mol Cells 1998;8:246 ­249. 81. Lin HJ, Probst-Hensch NM, Hughes NC, Sakamoto GT, Louie AD, Kau IH, Lin BK, Lee DB, Lin J, Frankl HD, Lee ER, Hardy S, Grant
+
+DM, Haile RW. Variants of N-acetyltransferase NAT1 and a case-control study of colorectal adenomas. Pharmacogenetics 1998;8:269 ­281. 82. Woodage T, King SM, Wacholder S, Hartge P, Struewing JP, McAdams M, Laken SJ, Tucker MA, Brody LC. The APCI1307K allele and cancer risk in a community-based study of Ashkenazi Jews. Nat Genet 1998;20:62­ 65. 83. Zhang H, Ahmadi A, Arbman G, Zdolsek J, Carstensen J, Nordenskjold B, Soderkvist P, Sun XF. Glutathione S-transferase T1 and M1 genotypes in normal mucosa, transitional mucosa and colorectal adenocarcinoma. Int J Cancer 1999;84:135­138. 84. Welfare M, Monesola Adeokun A, Bassendine MF, Daly AK. Polymorphisms in GSTP1, GSTM1, and GSTT1 and susceptibility to colorectal cancer. Cancer Epidemiol Biomarkers Prev 1999; 8:289 ­292. 85. Abdel-Rahman SZ, Soliman AS, Bondy ML, Wu X, El-Badawy SA, Mahgoub KG, Ismail S, Seifeldin IA, Levin B. Polymorphism of glutathione S-transferase loci GSTM1 and GSTT1 and susceptibility to colorectal cancer in Egypt. Cancer Lett 1999;142:97­ 104. 86. Harrison DJ, Hubbard AL, MacMillan J, Wyllie AH, Smith CA. Microsomal epoxide hydrolase gene polymorphism and susceptibility to colon cancer. Br J Cancer 1999;79:168 ­171. 87. Gryfe R, Di Nicola N, Lal G, Gallinger S, Redston M. Inherited colorectal polyposis and cancer risk of the APC I1307K polymorphism. Am J Hum Genet 1999;64:378 ­384. 88. Slattery ML, Potter JD, Samowitz W, Schaffer D, Leppert M. Methylenetetrahydrofolate reductase, diet, and risk of colon cancer. Cancer Epidemiol Biomarkers Prev 1999;8:513­518. 89. Ma J, Stampfer MJ, Christensen B, Giovannucci E, Hunter DJ, Chen J, Willett WC, Selhub J, Hennekens CH, Gravel R, Rozen R. A polymorphism of the methionine synthase gene: association with plasma folate, vitamin B12, homocyst(e)ine, and colorectal cancer risk. Cancer Epidemiol Biomarkers Prev 1999;8:825­ 829. 90. Park KS, Mok JW, Kim JC. The 677C  T mutation in 5,10methylenetetrahydrofolate reductase and colorectal cancer risk. Genet Test 1999;3:233­236. 91. Yoshioka M, Katoh T, Nakano M, Takasawa S, Nagata N, Itoh H. Glutathione S-transferase (GST) M1, T1, P1, N-acetyltransferase (NAT) 1 and 2 genetic polymorphisms and susceptibility to colorectal cancer. Sangyo Ika Daigaku Zasshi 1999;21:133­ 147. 92. Gawronska-Szklarz B, Lubinski J, Klandy J, Kurzawski G, Bieliki D, Wojcicki M, Sych Z, Musial HD. Polymorphism of GSTM1 gene in patients with colorectal cancer and colonic polyps. Exp Toxicol Pathol 1999;51:321­325. 93. Freudenheim JL, Graham S, Marshall JR, Haughey BP, Cholewinski S, Wilkinson G. Folate intake and carcinogenesis of the colon and rectum. Int J Epidemiol 1991;20:368 ­374. 94. Giovannucci E, Rimm EB, Ascherio A, Stampfer MJ, Colditz GA, Willett WC. Alcohol, low-methionine­low-folate diets, and risk of colon cancer in men. J Natl Cancer Inst 1995;87:265­273. 95. Bingham SA. High-meat diets and cancer risk. Proc Nutr Soc 1999;58:243­248. 96. Giovannucci E, Goldin B. The role of fat, fatty acids, and total energy intake in the etiology of human colon cancer. Am J Clin Nutr 1997;66:1564S­1571S. 97. Newcomb PA, Storer BE, Marcus PM. Cigarette smoking in relation to risk of large bowel cancer in women. Cancer Res 1995;55:4906 ­ 4909. 98. Sturmer T, Glynn RJ, Lee IM, Christen WG, Hennekens CH. Lifetime cigarette smoking and colorectal cancer incidence in the Physicians' Health Study I. J Natl Cancer Inst 2000;92: 1178 ­1181. 99. Tavani A, Gallus S, Negri E, Franceschi S, Talamini R, La Vecchia C. Cigarette smoking and risk of cancers of the colon and
+
+August 2001
+
+POLYMORPHISMS AND COLORECTAL TUMOR RISK 301
+
+rectum: a case-control study from Italy. Eur J Epidemiol 1998; 14:675­ 681. 100. Boehringer S, Epplen JT, Krawczak M. Genetic association studies of bronchial asthma--a need for Bonferroni correction? Hum Genet 2000;107:197. 101. Firgaira FA, Seshadri R, McEvoy CR, Dite GS, Giles GG, McCredie MR, Sothery MC, Venter DJ, Hopper JL. HRAS1 rare minisatellite alleles and breast cancer in Australian women under age forty years. J Natl Cancer Inst 1999;91:2107­2111. 102. Sacks HS, Berrier J, Reitman D, Ancona-Beck VA, Chalmers TC. Meta-analyses of randomized controlled trials. N Engl J Med 1987;316:450 ­ 455. 103. Dickersin K, Berlin JA. Meta-analysis: state-of-science. Epidemiol Rev 1992;4:154 ­176. 104. Wolf CR, Smith CA, Bishop T, Forman D, Gough AC, Spurr NK. CYP2D6 genotyping and the association with lung cancer susceptibility. Pharmacogenetics 1994;4:104 ­106. 105. Davignon J, Gregg RE, Sing CF. Apolipoprotein E polymorphism and atherosclerosis. Arteriosclerosis 1988;8:1­21. 106. Pritchard JK, Rosenberg NA. Use of unlinked genetic markers to
+
+detect population stratification in association studies. Am J Hum Genet 1999;65:220 ­228. 107. Spielman RS, McGinnis RE, Ewens WJ. Transmission test for linkage disequilibrium: the insulin gene region and insulin-dependent diabetes mellitus (IDDM). Am J Hum Genet 1993;52: 506 ­516. 108. Horvath S, Laird NM. A discordant-sibship test for disequilibrium and linkage: no need for parental data. Am J Hum Genet 1998;63:1886 ­1897. 109. Knapp M. The transmission/disequilibrium test and parentalgenotype reconstruction: the reconstruction-combined transmission/disequilibrium test. Am J Hum Genet 1999;64:861­ 870.
+Received December 15, 2000. Accepted April 9, 2001. Address requests for reprints to: Richard S. Houlston, M.D., Section of Cancer Genetics, Institute of Cancer Research, 15, Cotswold Road, Sutton, Surrey SM2 5NG, United Kingdom. e-mail: r.houlston@ICR.AC.UK; fax: (44) 8722-4362.
+
+

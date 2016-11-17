@@ -1,0 +1,302 @@
+IJC
+International Journal of Cancer
+CHEK2 mutations and the risk of papillary thyroid cancer
+Monika Siolek1, Cezary Cybulski2, Danuta Gasior-Perczak3, Artur Kowalik4, Beata Kozak-Klonowska1, Aldona Kowalska3, Malgorzata Chlopek4, Wojciech Kluzniak2, Dominika Wokolorczyk2, Iwona Palyga3, Agnieszka Walczyk3, Katarzyna Lizis-Kolus3, Ping Sun5, Jan Lubinski2, Steven A. Narod5 and Stanislaw Gozdz_1,6
+1 Department of Genetics, Holycross Cancer Centre, Kielce, Poland 2 Department of Genetics and Pathology, International Hereditary Cancer Centre, Pomeranian Medical University, Szczecin, Poland 3 Department of Endocrinology and Nuclear Medicine, Holycross Cancer Centre, Kielce, Poland 4 Department of Molecular Diagnostics, Holycross Cancer Centre, Kielce, Poland 5 Centre for Research on Women's Health, Toronto Ontario, Canada 6 Faculty of Health Sciences, The Jan Kochanowski University, Kielce, Poland
+
+Mutations in the cell cycle checkpoint kinase 2 (CHEK2) tumor suppressor gene are associated with multi-organ cancer susceptibility including cancers of the breast and prostate. A genetic association between thyroid and breast cancer has been suggested, however little is known about the determinants of this association. To characterize the association of CHEK2 mutations with thyroid cancer, we genotyped 468 unselected patients with papillary thyroid cancer and 468 (matched) cancer-free controls for four founder mutations of CHEK2 (1100delC, IVS2 1 1G>A, del5395 and I157T). We compared the family histories reported by patients with a CHEK2 mutation to those of non-carriers. A CHEK2 mutation was seen in 73 of 468 (15.6%) unselected patients with papillary thyroid cancer, compared to 28 of 460 (6.0%) age- and sex-matched controls (OR 3.3; p < 0.0001). A truncating mutation (IVS2 1 1G>A, 1100delC or del5395) was associated with a higher risk of thyroid cancer (OR 5 5.7; p 5 0.006), than was the missense mutation I157T (OR 5 2.8; p 5 0.0001). CHEK2 mutation carriers reported a family history of breast cancer 2.2 times more commonly than non-carriers (16.4% vs.8.1%; p 5 0.05). A CHEK2 mutation was found in seven of 11 women (63%) with multiple primary cancers of the breast and thyroid (OR 5 10; p 5 0.0004). These results suggest that CHEK2 mutations predispose to thyroid cancer, familial aggregations of breast and thyroid cancer and to double primary cancers of the breast and thyroid.
+
+Cancer Genetics
+
+Thyroid cancer is one of the most common cancers in young women.1 The most common type of thyroid cancer is papil-
+lary thyroid cancer, which comprises 80% of all thyroid tumors.2 Approximately 5% of cases of papillary thyroid cancer are familial.3 Epidemiologic data suggests that inherited factors contribute to papillary thyroid cancer.4 A familial
+association between thyroid and breast cancer has been sug-
+gested; a prior history of thyroid cancer is a risk factor for
+breast cancer and vice versa (relative risks in the range of 1.7­12.4).5­11 However, outside of a rare inherited syndrome
+of cancer susceptibility called Cowden syndrome (caused by
+PTEN mutations) in which both breast and thyroid cancer
+risks are increased, the genetic basis for the association between these two cancers has not been established.12
+
+Cell cycle checkpoint kinase 2 (CHEK2) is a key component of the DNA damage pathway.13­16 Four founder alleles of CHEK2 are present in Poland, three of these result in a truncated CHEK2 protein (c.1100delC, c.444 1 1G>A, del5395) and the fourth (c.470T>C) is a missense substitution of an isoleucine for a threonine in exon 3.17 All these alleles were associated with multi-organ cancer susceptibility, including cancers of the breast and thyroid.18­20 In the current study, we wished to better characterize the association between CHEK2 mutations and thyroid cancer. We genotyped 468 unselected patients with papillary thyroid cancer and 468 matched cancer-free controls for four founder mutations of CHEK2. We also explored whether CHEK2 mutations contribute to familial aggregation of breast and thyroid cancers and to cases with double primary cancers of the breast and thyroid.
+
+Key words: CHEK2, CHK2, mutation, thyroid cancer, breast cancer, double primary cancers DOI: 10.1002/ijc.29426 History: Received 7 July 2014; Accepted 17 Dec 2014; Online 12 Jan 2015 Correspondence to: Cezary Cybulski, International Hereditary Cancer Center, Department of Genetics and Pathology, Pomeranian Medical University, ul. Polabska 4, 70-115 Szczecin, Poland, Tel.: 1[00-48-91-466-1532], Fax: 1[00-48-91-466-1533], E-mail: cezarycy@sci.pam.szczecin.pl
+
+Material and Methods
+Patients We studied 468 unselected patients with papillary thyroid cancer (44 men and 424 women; age at onset from 14 to 76 years, mean 48.2 years) diagnosed in a single oncology center, Kielce, Poland between 1999 and 2013. Patients were enrolled between 2010 and 2014 during their control visits in oncology outpatient clinics. Of the 1,554 cases diagnosed between 1999 and 2013 in Kielce, 468 patients (30.1%) had
+
+Int. J. Cancer: 137, 548­552 (2015) VC 2015 UICC
+
+Siolek et al.
+
+549
+
+Cancer Genetics
+
+What's new? Cell cycle checkpoint kinase 2 (CHEK2) is an important component of the DNA damage pathway and a protein frequently mutated in cancer. Here the authors investigated the genetic association between thyroid cancer and CHEK2 founder mutations in Poland. They find evidence that CHEK2 mutations, especially truncations, predispose to papillary thyroid cancer. Interestingly, carriers of CHEK2 mutations had frequent family histories of breast cancer and more than half of women with primary breast and thyroid cancers had CHEK2 mutations, pointing to a possible causative role of these mutations in the aggregation of these cancers.
+
+control visits between 2011 and 2014, and were included in the current study. All patients provided signed informed consent and a blood sample for DNA analysis. The time from diagnosis to blood draw was from 1 month to 14 years. Cases were unselected for age and family history.
+The diagnosis of papillary thyroid cancer was confirmed through histopathological examination. Clinicopathological information was obtained from the medical records, and tumor, lymph nodes, metastasis (TNM) staging was recorded. A family history was taken by the construction of a family tree for all patients. All cancer cases in first- and seconddegree relatives, and their ages of onset, were recorded. The information on age at diagnosis and family history were recorded from all cases at study entry, when blood sample was drawn. A detailed family tree was drawn by a physician. Three hundred thirteen of 468 cases (67%) reported a positive family history of (any) cancer.
+A personal history of cancer at other sites was also collected. Thrity-two of the 468 patients (6.8%) with thyroid cancer had a second primary cancer (prior to or after the thyroid cancer). Twenty-nine women had a primary cancer other than thyroid: breast cancer (11 women), endometrial cancer (four women), skin cancer (three women), cervical cancer (two women), lung cancer (two women), other (seven women). Three men with papillary thyroid cancer had a second tumor (prostate cancer, testicular tumor, pheochromocytoma).
+We studied 468 controls (age range 14­76; mean 48 years). Controls were cancer-free adults seen at the same hospital as the cases, and were matched 1:1 to the cases by sex and age (within 3 years). Controls were selected from two sources. Four hundred twenty-four female controls were selected from a group of women who participated in a mammography screening program in Kielce between 2007 and 2012 and who provided blood sample for DNA analysis between 2007 and 2012 and 44 male controls were selected from a group of men who were counseled in the Department of Genetics in Kielce between 2007 and 2013. The frequency of a CHEK2 mutation (four mutations combined) in the 468 controls (6.0%) was similar to that reported previously in a large series of 8,302 adult controls from Poland (5.8%)21. All patients and control subjects were white.
+Genotyping Mutation analysis for the common mutations in the Polish population was performed as described previously.17,22 In
+
+brief, the CHEK2 del5395 mutation was detected by a multiplex polymerase chain reaction (PCR). The IVS2 1 1G>A and I157T variants were detected by restriction fragment length polymorphism (RFLP) PCR analysis, and the 1100delC mutation was analyzed using an allele specific oligonucleotide (ASO) PCR assay. For samples in which a mutation was detected, DNA sample was sequenced to confirm the presence of the mutation. A positive and negative control was used for each analysis.
+Statistical analysis The frequencies of the four CHEK2 alleles in cases and controls were compared. The four CHEK2 variants were considered separately, and in combination. Odds ratios were used as estimates of relative risk of CHEK2 variants and other related factors. To assess statistical significance, the Fisher exact test or the v2 test or a conditional logistic regression was used where appropriate. All reported p-values were twosided. For all statistical analyses, a p values < 0.05 was considered significant. Subgroups of interest included by age of onset, by family history, by histologic subtype and by age. SAS statistical software was used for the analyses (version 9.3, SAS Institute Inc., Cary, NC).
+Results A CHEK2 mutation (any of four mutations) was seen in 73 of 468 (15.6%) unselected patients with papillary thyroid cancer, compared to 28 of 468 (6.0%) age- and sex-matched controls (OR 3.3; 95% CI 2.0­5.4; p < 0.0001) (Table 1). A CHEK2 mutation was present in 13.6% in 44 men with thyroid cancer and in 15.8% in 424 women with thyroid cancer. A CHEK2 mutation was seen in 14.3% of 244 patients diagnosed at age 50 or below, and in 16.9% of 224 patients with thyroid cancer diagnosed at age above 50.
+Both truncating and missense mutations were associated with increased risks of thyroid cancer. A truncating mutation (IVS2 1 1G>A, 1100delC or del5395) was seen in 17 of 468 (3.6%) unselected cases, compared to 3 of 468 (0.6%) controls (OR 5 5.7, 95%CI 5 1.7­19.3; p 5 0.006). The missense mutation I157T was detected in 60 cases (12.8%), compared to 25 (5.3%) controls (OR 5 2.8; 95% CI 1.7­4.6; p 5 0.0001). A test for homogeneity of the two odds ratios was not significant (p 5 0.2). CHEK2 mutation carriers (n 5 73) and noncarriers (n 5 395) were similar with respect to age of
+
+Int. J. Cancer: 137, 548­552 (2015) VC 2015 UICC
+
+550 Genetic association between thyroid and breast cancer
+
+Cancer Genetics
+
+Table 1. Association of variant alleles in CHEK2 with thyroid cancer risk
+
+Unselected cases (n 5 468) no. (%)
+
+Controls (n 5 468) no. (%)
+
+Any CHEK2 mutation
+
+73 (15.6%)
+
+28 (6.0%)
+
+Any CHEK2 truncating mutation
+
+17 (3.6%)
+
+3 (0.6%)
+
+1100delC
+
+1 (0.2%)
+
+0 (0.0%)
+
+IVS2 1 1G>A
+
+10 (2.1%)
+
+1 (0.2%)
+
+del5395
+
+6 (1.3%)
+
+2 (0.4%)
+
+CHEK2 I157T missense mutation
+
+60 (12.8%)
+
+25 (5.3%)
+
+OR 3.3 5.7 ­ 10.0 3.0 2.8
+
+95% CI 2.0­5.4 1.7­19.3 ­ 1.3­78.1 0.6­14.8 1.7­4.6
+
+CI 5 confidence interval; OR 5 odds ratio. Odds ratios, 95% confidence intervals and p-values were estimated by conditional logistic regression on the 468 matched pairs.
+
+p-value <0.0001 0.006 1.0 0.03 0.2 0.0001
+
+Table 2. Clinical characteristics of thyroid cancers in CHEK2 carriers vs non-carriers
+
+Factor
+
+CHEK2 mutation positive cases (n 5 73)
+
+CHEK2 mutation negative cases (n 5 395)
+
+p-value
+
+Age of diagnosis
+
+Mean (range) 49.5 (17­71)
+
+47.9 (14­76)
+
+0.3
+
+40 16.4% (12/73) 27.1% (107/395) 0.06
+
+41­50
+
+31.5% (23/73) 25.8% (102/395) 0.3
+
+51­60
+
+39.7% (29/73) 31.9% (126/395) 0.2
+
+>60 12.3% (9/73) 15.2% (60/395) 0.6
+
+Staging
+
+pT1 61.1% (41/64) 64.2% (231/360) 1.0
+
+pT2
+
+10.9% (7/64)
+
+9.2% (33/360)
+
+0.6
+
+pT3 18.8% (12/64) 21.4% (77/360) 0.7
+
+pT4
+
+6.2% (4/64)
+
+5.3% (19/360)
+
+0.8
+
+Unknown
+
+12.3% (9/73)
+
+8.9% (35/395)
+
+0.4
+
+Lymph node status
+
+N1 20.0% (4/20) 22.1% (38/172) 1.0
+
+No 80.0% (16/20) 77.9% (134/172) 1.0
+
+Nx 72.6% (53/73) 54.4% (223/395) 0.01
+
+Distant metastases
+
+M1
+
+0.0% (0/5)
+
+8.8% (3/34)
+
+1.0
+
+Mo
+
+100% (5/5)
+
+91.2% (31/34)
+
+1.0
+
+Mx 93.1% (68/73) 91.4% (361/395) 0.8
+
+p-Values for mutation carriers are calculated with respect to noncarriers as reference group.
+
+diagnosis, tumor stage lymph node status and distant metastases (Table 2).
+We compared cancer family histories (in first or second degree relatives) reported by the carriers of a CHEK2 mutation to those reported by the non-carrier cases. A positive family history of any type of cancer was more common in first degree relatives of carriers than in non-carriers (54.8% vs.39.2%; p 5 0.01) and in second degree relatives (54.8% vs 44.6%; p 5 0.1). Looking at specific cancer types, carriers reported more frequently a family history of breast cancer
+
+(16.4% vs 8.1%; p 5 0.05), lymphoma (5.5% vs 1.0%; p 5 0.02) and sarcoma 8.4 (4.1% vs 0.5%; p 5 0.03) compared to non-carriers. Carriers vs. non-carriers also reported more frequently relatives affected with thyroid cancer (6.8% vs. 3.5%; p 5 0.2), prostate cancer (11% vs. 5.8%; p 5 0.1), and endometrial cancer (2.7% vs. 0.8%; p 5 0.2), but for none of these was the difference statistically significant.
+Of the 73 patients with thyroid cancer and a CHEK2 mutation, 12 (16.4%) had (prior or past) diagnosis of another primary cancer (breast cancer--7 women, endometrial cancer--2 women, ovarian cancer--1 woman, skin cancer--1 woman, lung cancer--1 woman), compared to 20 of 395 (5.1%) noncarriers (p 5 0.001) (Table 3). Of 15 different primary cancers seen in patients with papillary thyroid cancer, only breast cancer was seen in significant excess in CHEK2 mutation carriers, compared to non-carriers--seven of 67 women with a CHEK2 mutation (10.4%) was diagnosed with both breast and thyroid cancer versus only four of 357 (1.1%) women who did not carry a CHEK2 mutation (OR 5 10.3; p 5 0.0004).
+Seven of 11 (63%) women with double primary cancers of the breast and thyroid had a mutation (compared to only 6% of 460 healthy controls; OR 5 10; p 5 0.0004).
+Six of 468 (1.3%) patients carried two CHEK2 mutations (four women carried both IVS2 1 1G>A and I157T, and two women carried homozygous I157T mutation) compared to none of 460 controls (p 5 0.03). Characteristic of thyroid cancers in carriers of two CHEK2 mutations was similar to that seen in carriers of single mutations. Carriers of double mutations were diagnosed with thyroid cancer at mean age of 49.8 years (range 19­68 years). Two (33%) reported other primary cancer (lung and skin cancer). Five (83%) were diagnosed with Stage I tumors and one (17%) was diagnosed with Stage III tumor. Four (67%) reported 1st or 2nd degree relative with cancer.
+Discussion The CHEK2 gene encodes the human analogue of the yeast checkpoint kinases Cds1 and Rad53.15 Activation of CHEK2 in response to DNA damage prevents the cell from entering into mitosis. Germline mutations in CHEK2 have been associated with a moderate or low increase in the risk of a range of cancers.20­28 Truncating mutations confer higher risks of
+
+Int. J. Cancer: 137, 548­552 (2015) VC 2015 UICC
+
+Siolek et al.
+
+551
+
+Cancer Genetics
+
+Table 3. Frequency of double primary cancers seen in CHEK2 mutation carriers vs non-carriers
+
+Other primary malignancy
+
+CHEK2 mutation positive patients, N 5 731
+
+CHEK2 mutation negative patients, N 5 3952
+
+Yes (any cancer type)
+
+12/73 (16.4%)
+
+20/395 (5.1%)
+
+Breast cancer
+
+7/67 (10.4%)
+
+4/357 (1.1%)
+
+Endometrial cancer
+
+2/67 (3.0%)
+
+1/357 (0.28%)
+
+Ovarian cancer
+
+1/67 (1.5%)
+
+0/357 (0.0%)
+
+Skin cancer
+
+1/73 (1.4%)
+
+2/395 (0.5%)
+
+Lung cancer
+
+1/73 (1.4%)
+
+1/395 (0.25%)
+
+1Includes 67 women and 6 men with thyroid and a CHEK2 mutation. 2Includes 375 women and 38 men with thyroid cancer and without a CHEK2 mutation.
+
+OR 3.7 10.3 11.9 16.9 2.7 5.4
+
+95% CI 1.7­7.9 2.9­36.2 0.97­122 0.7­420 0.2­30.5 0.3­88.5
+
+p-value 0.001 0.0004 0.07 0.1 0.4 0.3
+
+breast, prostate cancer and stomach cancer (2­3 fold) than does the missense mutation I157T (1.5-fold), but for colon cancer and kidney cancer, only the missense allele appears to be pathogenic.20,28
+In 2004, we studied 173 thyroid cancers patients from a single center in Szczecin.20 Here we extend our initial findings in a new non-overlapping series of 468 patients with thyroid cancer and 460 age- and sex-matched controls from Poland. In the current series, a CHEK2 truncating mutation (1100delC, IVS2 1 1G>A, del5395) was associated with odds ratio of 5.7 (p 5 0.006), and a CHEK2 missense I157T mutation was associated with odds ratio of 2.8 (p 5 0.0001) for thyroid cancer. These odds ratios are similar to those reported in our earlier study. In aggregate, these data provide evidence that both truncating and missense mutations of CHEK2 confer thyroid cancer risk, and that a truncating mutation appears to confer a higher risk than the missense mutation. Of note, the association between the I157T allele and thyroid cancer was also confirmed in a recent study from central Poland of 1,781 patients with papillary thyroid cancer and 2,081 healthy control reported odds ratio of 2.2 (p < 0.0001), but truncating mutations were not analyzed and data on family history and other primary cancers were not provided.29
+CHEK2 mutations are associated with a number of cancers; we found that a positive family history of breast cancer, lymphoma and sarcoma was more common in CHEK2 carriers than in non-carriers and the difference was significant (p < 0.05). Also carriers reported more frequently family history of thyroid cancer, prostate cancer and endometrial cancer. These results further support that CHEK2 is a cancer susceptibility gene associated with increased risk of cancer at several different sites, including breast, prostate, thyroid, colon, kidney, stomach, (low-grade) ovarian, bladder, chronic lymphocytic leukemia, Hodgkin lymphoma and a reduced risk of other cancers (lung and laryngeal cancer).30­36 The current study suggests that the risk of sarcoma and non-Hodgkin lymphoma may also be increased. Of note, CHEK2 mutations were first detected in patients with Li-Fraumeni type families, and in the original studies of CHEK2 mutations and Li-Fraumeni syndrome, cancers of the breast, colon, ovary, endometrium, kidney, stomach were
+
+reported.37 There is increasing evidence that CHEK2 alone does not cause Li-Fraumeni syndrome, however, it might be a factor contributing (in combination with its modifying gene(s)) to individual tumor development in TP53-negative cancer-prone families.38,39
+A genetic association between breast and thyroid cancer has been suggested, however outside PTEN mutations little is known about genetic determinants of this association. A previous study screened coding sequence of PTEN, BRCA1 and BRCA2 genes in 53 women with both breast and thyroid cancer, and only one BRCA1 mutation was detected in the 53 women (2%) and no mutation was seen in PTEN and BRCA2.40 In contrast, in our study, we saw a CHEK2 mutation in 63% of 11 women with thyroid and breast cancer (compared to only 6% of 460 healthy controls; OR 5 10; p 5 0.0004). In addition, CHEK2 carriers reported family history of breast cancer more commonly than non-carriers (16.4% vs 8.1%; OR =2.2; p 5 0.05). This suggests that aggregation of breast and thyroid cancer may be commonly caused by CHEK2 mutations and this association should be sought in other populations. The distribution of CHEK2 mutations (in particular 1100delC and I157T) is world-wide20,32 and these and other CHEK2 variants may be important contributor to thyroid and breast cancer in Poland and elsewhere.
+The major truncating founder mutation of CHEK2 gene is 1100delC, which is seen with the frequency of 0.2%­1.4% in European populations,18­25 but the allele appears to be infrequent in North America.23 In our current study, CHEK2 1100delC mutation was present in only 1 of 468 patients with thyroid cancer, and in none of the 460 controls. In our previous study, this mutation was seen in 1 of 173 patients with thyroid cancer and in 10 of 4,000 controls from Poland.20 When the data from these two studies are combined, the 1100delC mutation was seen in 2 of 641 (0.3%) cases of thyroid cancer and in 10 of 4,460 (0.2%) controls (OR 5 1.4, 95% CI 0.3­6.4, p 5 0.7). Therefore, the risk for papillary thyroid cancer conferred by this particular mutation is uncertain and further studies are needed in this regard.
+Acknowledgement
+Authors thank Daria Zanoza for her help in this study. All authors declare no conflict of interest.
+
+Int. J. Cancer: 137, 548­552 (2015) VC 2015 UICC
+
+552 Genetic association between thyroid and breast cancer
+
+References
+
+1. Preston-Martin S, Franceschi S, Ron E. Thyroid cancer pooled analysis from 14 case­control studies: what have we learned? Cancer Causes Control 2003;14:787­9.
+2. Dong C, Hemminki K. Modification of cancer risks in offspring by sibling and parental cancers from 2,112,616 nuclear families. Int J Cancer 2001;92:144­50.
+3. Pal T, Vogl FD, Chappuis PO, et al. Increased risk for nonmedullary thyroid cancer in the first degree relatives of prevalent cases of nonmedullary thyroid cancer: a hospital-based study. J Clin Endocrinol Metab 2001;86:5307­12.
+4. Manolio TA, Collins FS, Cox NJ, et al. Finding the missing heritability of complex diseases. Nature 2009;461:747­53.
+5. Adjadj E, Rubino C, Shamsaldim A, et al. The risk of multiple primary breast and thyroid carcinomas. Cancer 2003;98:1309­17.
+6. Chen AY, Levy L, Goepfert H, et al. The development of breast carcinoma in women with thyroid carcinoma. Cancer 2001;92:225­31.
+7. Li CI, Rossing MA, Voigt LF, et al. Multiple primary breast and thyroid cancers: role of age at diagnosis and cancer treatments (united states). Cancer Causes Control 2000;11:805­11.
+8. Ronckers CM, McCarron P, Ron E. Thyroid cancer and multiple primary tumors in the SEER cancer registries. Int J Cancer 2005;117:281­8.
+9. Rubino C, de Vathaire F, Dottorini ME, et al. Second primary malignancies in thyroid cancer patients. Br J Cancer 2003;89:1638­44.
+10. Tucker MA, Boice JD, Jr, Hoffman DA. Second cancer following cutaneous melanoma and cancers of the brain, thyroid, connective tissue, bone, and eye in connecticut, 1935­82. Natl Cancer Inst Monogr 1985;68:161­89.
+11. Vassilopoulou-Sellin R, Palmer L, Taylor S, et al. Incidence of breast carcinoma in women with thyroid carcinoma. Cancer 1999;85:696­705.
+12. Ngeow J, Stanuch K, Mester JL, et al. Second malignant neoplasms in patients with cowden syndrome with underlying germline PTEN mutations. J Clin Oncol 2014;32:1818­24.
+13. Chaturvedi P, Eng WK, Zhu Y, et al. Mammalian Chk2 is a downstream effector of the ATMdependent DNA damage checkpoint pathway. Oncogene 1999;18:4047­54.
+14. Matsuoka S, Rotman G, Ogawa A, et al. Ataxia telangiectasia­mutated phosphorylates Chk2 in
+
+vivo and in vitro. Proc Natl Acad Sci USA 2000; 97:10389­94. 15. Bartek J, Lukas J. Chk1 and Chk2 kinases in checkpoint control and cancer. Cancer Cell 2003; 3:421­9. 16. Ahn J, Urist M, Prives C. The Chk2 protein kinase. DNA Repair (Amst) 2004;3:1039­47. 17. Cybulski C, Wokolorczyk D, Huzarski T, et al. A large germline deletion in the Chek2 kinase gene is associated with an increased risk of prostate cancer. J Med Genet 2006;43:863­6. 18. Meijers-Heijboer H, van den Ouwel A, Klijn J, et al. CHEK2-breast cancer consortium. Lowpenetrance susceptibility to breast cancer due to CHEK2(*)1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat Genet 2002;31:55­9. 19. Meijers-Heijboer H, Wijnen J, Vasen H, et al. The CHEK2 1100delC mutation identifies families with a hereditary breast and colorectal cancer phenotype. Am J Hum Genet 2003;72:1308­14. 20. Cybulski C, Gorski B, Huzarski T, et al. CHEK2 is a multiorgan cancer susceptibility gene. Am J Hum Genet 2004;75:1131­1135. 21. Teodorczyk U, Cybulski C, Wokolorczyk D, et al. The risk of gastric cancer in carriers of CHEK2 mutations. Fam Cancer 2013;12:473­8. 22. Cybulski C, Huzarski T, Gorski B, et al. A novel founder CHEK2 mutation is associated with increased prostate cancer risk. Cancer Res 2004; 64:2677­2679. 23. Walsh T, Casadei S, Coats KH, et al. Spectrum of mutations in BRCA1, BRCA2, CHEK2, and TP53 in families at high risk of breast cancer. JAMA 2006;295:1379­1388. 24. Dong X, Wang L, Taniguchi K, et al. Mutations in CHEK2 associated with prostate cancer risk. Am J Hum Genet 2003;72:270­280. 25. Seppala EH, Ikonen T, Mononen N, et al. CHEK2 variants associate with hereditary prostate cancer. Br J Cancer 2003;89:1966­1970. 26. Kleibl Z, Havranek O, Hlavata I, et al. The CHEK2 gene I157T mutation and other alterations in its proximity increase the risk of sporadic colorectal cancer in the czech population. Eur J Cancer 2009;45:618­24. 27. Kilpivaara O, Alhopuro P, Vahteristo P, et al. CHEK2 I157T associates with familial and sporadic colorectal cancer. J Med Genet 2006;43:e34 28. Cybulski C, Wokolorczyk D, Kladny J, et al. Germline CHEK2 mutations and colorectal can-
+
+cer risk: different effects of a missense and truncating mutations? Eur J Hum Genet 2007;15: 237­41. 29. Wojcicka A, Czetwertynska M, Swierniak M, et al. Variants in the ATM-CHEK2-BRCA1 axis determine genetic predisposition and clinical presentation of papillary thyroid carcinoma. Genes Chromosomes Cancer 2014;53: 516­23. 30. Brennan P, McKay J, Moore L, et al. Uncommon CHEK2 mis-sense variant and reduced risk of tobacco-related cancers: case­control study. Hum Mol Genet 2007;16:1794­801. 31. Cybulski C, Masojc B, Oszutowska D, et al. Constitutional CHEK2 mutations are associated with a decreased risk of lung and laryngeal cancers. Carcinogenesis 2008;29:762­5. 32. Wang Y, McKay JD, Rafnar T, et al. Rare variants of large effect in BRCA2 and CHEK2 affect risk of lung cancer. Nat Genet 2014;46:736­41. 33. Szymanska-Pasternak J, Szymanska A, Medrek K, et al. CHEK2 variants predispose to benign, borderline and low-grade invasive ovarian tumors. Gynecol Oncol 2006;102:429­31. 34. Zlowocka E, Cybulski C, Gorski B, et al. Germline mutations in the CHEK2 kinase gene are associated with an increased risk of bladder cancer. Int J Cancer 2008;122:583­6. 35. Rudd MF, Sellick GS, Webb EL, et al. Variants in the ATM-BRCA2-CHEK2 axis predispose to chronic lymphocytic leukemia. Blood 2006;108: 638­44. 36. Havranek O, Spacek M, Hubacek P, et al. Alterations of CHEK2 forkhead-associated domain increase the risk of Hodgkin lymphoma. Neoplasma 2011;58:392­5. 37. Bell DW, Varley JM, Szydlo TE, et al. Heterozygous germ line hCHK2 mutations in Li-Fraumeni syndrome. Science 1999;286:2528­31. 38. Evans DG, Birch JM, Narod SA. Is CHEK2 a cause of the Li-Fraumeni syndrome? J Med Genet 2008;45:63­4. 39. Ruijs MW, Broeks A, Menko FH, et al. The contribution of CHEK2 to the TP53-negative Li-fraumeni phenotype. Hered Cancer Clin Pract 2009;7:4. 40. Pal T, Hamel N, Vesprini D, et al. Double primary cancers of the breast and thyroid in women: molecular analysis and genetic implications. Fam Cancer 2001;1:17­24.
+
+Cancer Genetics
+
+Int. J. Cancer: 137, 548­552 (2015) VC 2015 UICC
+
+

@@ -1,0 +1,558 @@
+1258 CLINICAL AND SYSTEMATIC REVIEWS
+
+nature publishing group
+
+REVIEW
+
+CME
+High Cancer Risk in Peutz­Jeghers Syndrome: A Systematic Review and Surveillance Recommendations
+
+M.G.F. van Lier, MD1, A. Wagner, MD, PhD2, E.M.H. Mathus-Vliegen, MD, PhD3, E.J. Kuipers, MD, PhD1,4, E.W. Steyerberg, PhD5 and M.E. van Leerdam, MD, PhD1
+
+OBJECTIVES:
+
+Peutz­Jeghers syndrome (PJS) is an autosomal dominant inherited disorder associated with increased cancer risk. Surveillance and patient management are, however, hampered by a wide range in cancer risk estimates. We therefore performed a systematic review to assess cancer risks in PJS patients and used these data to develop a surveillance recommendation.
+
+METHODS:
+
+A systematic PubMed search was performed up to February 2009, and all original articles dealing with PJS patients with confirmed cancer diagnoses were included. Data involving cancer frequencies, mean ages at cancer diagnosis, relative risks (RRs), and cumulative risks were collected.
+
+RESULTS:
+
+Twenty-one original articles, 20 cohort studies, and one meta-analysis fulfilled the inclusion criteria. The cohort studies showed some overlap in the patient population and included a total of 1,644 patients; 349 of them developed 384 malignancies at an average age of 42 years. The most common malignancy was colorectal cancer, followed by breast, small bowel, gastric, and pancreatic cancers. The reported lifetime risk for any cancer varied between 37 and 93%, with RRs ranging from 9.9 to 18 in comparison with the general population. Age-related cumulative risks were given for any cancer and gastrointestinal, gynecological, colorectal, pancreatic, and lung cancers.
+
+CONCLUSIONS: PJS patients are markedly at risk for several malignancies, in particular gastrointestinal cancers and breast cancer. On the basis of these elevated risks, a surveillance recommendation is developed to detect malignancies in an early phase and to remove polyps that may be premalignant and may cause complications, so as to improve the outcome.
+
+SUPPLEMENTARY MATERIAL is linked to the online version of the paper at http://www.nature.com/ajg Am J Gastroenterol 2010; 105:1258­1264; doi:10.1038/ajg.2009.725; published online 5 January 2010
+
+INTRODUCTION Peutz­Jeghers Syndrome (PJS) is a rare autosomal dominant inherited disorder, characterized by gastrointestinal hamartomas and mucocutaneous pigmentations. The incidence has been estimated between 1:8,300 and 1:200,000 births (1­4). Jan Peutz, a Dutch physician, was the first to recognize the combination of intestinal polyposis, mucocutaneous pigmentation, and heredity in 1921 (5). Thereafter, Jeghers published a description of the syndrome in 1949 (6), leading to the eponym "Peutz­Jeghers syndrome" (7).
+In 1998, investigators discovered that germline mutations in the serine threonine kinase 11 gene (STK11, also known as LKB1 gene) cause PJS (8,9). STK11 is a serine threonine kinase localized
+
+on chromosome19p13.3 and is designated as a tumor suppressor gene (10). Genetic testing for clinical practice is widely available, and with the currently available techniques, an STK11 germ-line mutation can be found in ~80% of clinically affected PJS families (11). Nevertheless, a second gene locus might still exist (12,13).
+Although the mechanism of carcinogenesis remains debatable, PJS patients carry a considerably increased risk for the development of both gastrointestinal and extra-gastrointestinal malignancies, as summarized in a previous meta-analysis (14). Several surveillance recommendations have been published (2,4,15­22). However, the clinical management of patients is still hampered by the wide range in reported cancer risk estimates, and in our
+
+1Department of Gastroenterology and Hepatology, Erasmus University Medical Center, Rotterdam, The Netherlands; 2Department of Clinical Genetics, Erasmus
+University Medical Center, Rotterdam, The Netherlands; 3Department of Gastroenterology and Hepatology, Academic Medical Center, Amsterdam, The
+Netherlands; 4Department of Internal Medicine, Erasmus University Medical Center, Rotterdam, The Netherlands; 5Department of Public Health, Erasmus University Medical Center, Rotterdam, The Netherlands. Correspondence: M.G.F. van Lier, MD, Department of Gastroenterology and Hepatology, Erasmus University Medical Center, P.O. Box 2040, Rotterdam 3000 CA, The Netherlands. E-mail: m.g.f.vanlier@erasmusmc.nl Received 14 August 2009; accepted 28 November 2009
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 105 | JUNE 2010 www.amjgastro.com
+
+High Cancer Risk in Peutz­Jeghers Syndrome 1259
+
+REVIEW
+
+clinical practice, cancer risks seem lower than reported in the meta-analysis (14). Recently, international collaborations have led to publications on larger cohorts of PJS patients with a focus on their increased cancer risks (23,24). We therefore reviewed literature to assess the risk and onset of malignancies in PJS patients. On the basis of this risk profile, we developed a Dutch surveillance recommendation in collaboration with a national working group.
+METHODS We performed a systematic search on PubMed until February 2009 to identify all English and Dutch literature under the MESH headings and text words of "Peutz­Jeghers syndrome or Peutz" and "neoplasms or neoplasm*or cancer or tumour*or tumor or tumors or carcinom*." One reviewer (M.G.F.vL.) inspected the title and abstract of each electronic citation to identify those manuscripts suitable for this review. The full texts were obtained, and an extensive manual search was conducted using references from all retrieved reports and review articles.
+Cohort studies and meta-analyses reporting cancer risks in PJS were considered eligible, and case reports, review articles, and editorials were excluded. Original manuscripts were included regardless of their research question, if cancer risks could be estimated in patients with Peutz­Jeghers syndrome by fulfilling the following inclusion criteria: (i) PJS diagnosis (either on the basis of clinical criteria or an STK11 mutation), and (ii) confirmation of cancer diagnoses.
+The quality of the included articles was assessed by evaluating the diagnosis of PJS (based on either clinical criteria such as family history, hamartomas, small-bowel polyposis, and pigmentations or based on an STK11 mutation), and the diagnosis of cancer (e.g., by histological confirmation). Two reviewers (M.G.F.vL. and A.W.) abstracted detailed data from the articles that fulfilled our inclusion criteria, and discrepancies were resolved by consensus of the study group. Data extracted included diagnosis of PJS, number of included PJS patients, number of PJS families, sex, age at the end of follow-up, cancer diagnosis, age at cancer diagnosis, outcome measures such as relative cancer risks and cumulative cancer risks, and study design and location of study. We pooled data to calculate cancer frequencies, mean ages at cancer diagnosis, relative risks (RRs), and cumulative risks. We registered those cases in which several publications derived from the same data set. Overlap in patient population was assumed if patients from a single medical center were included in more than one article.
+RESULTS Our search through PubMed identified 1,049 articles. This search in combination with an extensive manual search yielded 21 original articles that met the inclusion criteria (3,14,23­41). These studies, 20 cohort studies, and 1 meta-analysis (14), were published between 1975 and 2007 and are summarized in Supplementary Table 1 online. This table shows that there was considerable overlap in patient populations, caused by two large collaborative
+
+Table 1. Reported cancers and age at diagnosis in 1,644 Peutz­ Jeghers syndrome patients from 20 cohort studies (3, 23­41)
+
+Cancer
+
+No. cancers
+
+Mean age in years
+
+Gastrointestinal
+
+198 42 (n = 69)
+
+Colorectum
+
+80 43 (n =23)
+
+Small intestine (including duodenum)
+
+41
+
+37 (n =18)
+
+Stomach
+
+35 40 (n =14)
+
+Esophagus
+
+3 33 (n =1)
+
+Pancreas
+
+32 52 (n =12)
+
+Biliary tract
+
+7 32 (n =1)
+
+Extragastrointestinal
+
+Breast
+
+59 44 (n = 23)
+
+Uterus
+
+10 43 (n =1)
+
+Ovary
+
+16 35 (n = 8) (including one Sertoli tumor at age 6)
+
+Cervix
+
+14 36 (n = 5)
+
+Testes
+
+3 6 (n =1)
+
+Lung
+
+25 47 (n = 8)
+
+Othera
+
+44 45 (n = 9)
+
+Unknown
+
+15 50 (n =7)
+
+Total
+
+384 42 (n =131)
+
+CRC, colorectal cancer. aOther includes multiple myeloma, leukemia, and thyroid, prostate, liver, gall bladder, kidney, adrenal, nasopharyngeal, bone, and skin cancers. Hearle et al. (23) and Lim et al. (28): gastroesophageal cancers classified as gastric cancer. Scott et al. (30): bowel cancer classified as CRC. Utsunomiya et al. (3): cancer deaths instead of cancer incidence. Spigelman et al. (37): ovarian cancers include one adnexal carcinoma.
+
+studies (23,24) and the meta-analysis (14). Despite the overlap, we chose to report all studies meeting the inclusion criteria as the smaller cohort studies reported on different outcome measures or contained more detailed data than the large collaborative studies and the meta-analysis.
+The definitions for PJS and the methods to confirm the diagnosis of cancer varied between the publications, and STK11 mutation analysis had been performed in only 10 of the 21 studies. In the 20 cohort studies, a total of 1,644 patients were evaluated, and 349 of them developed 384 malignancies at an average age of 42 years. In Table 1 the absolute number of diagnosed cancer cases and the average ages at cancer diagnosis are shown (excluding the metaanalysis). The most frequently reported cancers were colorectal cancer (n = 80) and breast cancer (n = 59), followed by small bowel, stomach, and pancreatic cancer.
+Between the studies, there was some variation in outcome measures. Relative cancer risks were reported in only four publications (14,32,35,39), summarized in Table 2. In these four studies, the RR of any cancer varied between 9.9 and 18. In addition, the RR of any cancer could be calculated from two collaborative studies (23,24), and these RRs at age 60 were 7.3 and 4.8 compared with the general population. RRs of cancer at specific sites were reported in only
+
+© 2010 by the American College of Gastroenterology
+
+The American Journal of GASTROENTEROLOGY
+
+1260 van Lier et al.
+
+REVIEW
+
+Table 2. Relative cancer risks
+
+Site RR Reference(s)
+
+Any cancer
+
+9.9 ­18
+
+(14,32,35,39)
+
+Males
+
+6.2­22
+
+(35,39)
+
+Females
+
+16 ­18.5
+
+(35,39)
+
+GI cancer
+
+50.5 (35)
+
+Males
+
+30.3 (35)
+
+Females
+
+150.9
+
+(35)
+
+Gynecological cancer and breast cancer (females)
+
+20.3
+
+(35)
+
+GI, gastrointestinal (colorectal, small intestinal, gastric, and esophageal cancers); RR, relative risk.
+
+one study (14). Compared with the general population, the RRs were significantly increased for the following malignancies: small intestinal (RR520), gastric (RR213), pancreatic (RR132), colorectal (RR84), ovarian (RR27), lung (RR17), endometrial (RR16), and breast cancer (RR15). In a previous study, Giardiello et al. found a similar RR for pancreatic cancer of 132. They also defined the RRs for any cancer according to age; the relative cancer risk was 5 for PJS patients < 40 years and 23 for patients 40 years (39). In one study, the RRs of cancer mortality were determined on the basis of 66 PJS patients (37). The RR of death from any cancer was 9 (95% CI 4.2­17.3), and the RR of gastrointestinal cancer death was 13 (95% CI 2.7­38). In another study, standardized mortality ratios were determined on the basis of 70 PJS patients, and by the age of 65 years the standardized mortality ratio for all cancers was 9.9 (95% CI 0.4­20.4) and 24.8 (95% CI 0.7­63.6) for gastrointestinal cancer (29).
+Cumulative risks for any cancer were calculated in six studies up to age 60, 65, or 70 (Table 3) (14,23,24,28,29,34). The lowest cumulative cancer risk was reported to be 37% (95% CI 21­61) at age 65 (29), although the same authors reported a cumulative risk for any cancer in PJS at the age of 70 years of 81% in a large collaborative study (28). The percentage of 37% was based on 70 clinical PJS patients regardless of their STK11 mutation status. When only STK11 mutation carriers were taken into account, the cumulative cancer risk was higher: 47% (95% CI 27­73) at the age of 65 years (29). However, in a larger study, cumulative cancer risks were evaluated in patients with and without an STK11 mutation, and there was no statistically significant difference between the two groups (23).
+Four studies reported age-related cumulative cancer risks (any cancer, gastrointestinal cancer, and gynecological cancer), as shown graphically in Figure 1 (23,24,28,34). Cumulative risks for breast cancer ranged from 5 to 8% at age 40, increasing to 45% at 70 years (23,24,28). Two studies reported age-related cumulative risks for colorectal cancer (CRC), pancreatic cancer, and lung cancer, graphically shown in Figure 2 (23,28). One study evaluated differences in cumulative risks between males and females for any cancer, showing that at the age of 70 years males and females carry similar risks for the development of a malignancy (55 and 59%, respectively) (24).
+
+Table 3. Cumulative cancer risks (approaching lifetime risks)
+
+Site
+
+Age (years)
+
+CR
+
+Reference(s)
+
+Any cancer
+
+60 ­ 70
+
+37 ­ 93% (14,23,24,28,29,34)
+
+GI cancer
+
+60 ­ 70
+
+38 ­ 66%
+
+(23,24,28,34)
+
+Gynecological cancer
+
+60 ­ 70
+
+13 ­ 18%
+
+(23,28)
+
+Per origin
+
+Stomach
+
+65 29%
+
+(14)
+
+Small bowel
+
+65 13%
+
+(14)
+
+Colorectum
+
+65 39 ­ 39%
+
+(14,23)
+
+Pancreas
+
+65 ­ 70
+
+11 ­ 36%
+
+(14,23)
+
+Lung
+
+65 ­ 70
+
+7 ­ 17%
+
+(14,23,28)
+
+Breast
+
+60 ­ 70
+
+32 ­ 54%
+
+(14,23,28)
+
+Uterus
+
+65 9%
+
+(14)
+
+Ovary
+
+65 21%
+
+(14)
+
+Cervix
+
+65 10%
+
+(14)
+
+Testes
+
+65 9%
+
+(14)
+
+CR, cumulative risk; GI, gastrointestinal (colorectal, small intestinal, gastric, esophageal, and pancreatic cancers). Westerman et al. (34): GI cancer does not include pancreatic cancer.
+
+Cumulative risk (%)
+
+Cumulative risk any cancer
+100 90 80 70 60 50 40 30 20 10 0
+20 30 40 50 60 70
+Age (years)
+
+Mehenni et al. 2006 Hearle et al. 2006 Lim et al. 2004 Westerman et al. 1998
+
+Cumulative risk (%)
+
+Cumulative risk GI cancer
+100 90 80 70 60 50 40 30 20 10 0
+20 30 40 50 60 70
+Age (years)
+
+Mehenni et al. 2006 Hearle et al. 2006 Lim et al. 2004 Westerman et al. 1998
+
+Cumulative risk (%)
+
+Cumulative risk gynecological cancer
+50
+
+40 30
+
+20
+10
+0 30
+
+40 50 60
+Age (years)
+
+70
+
+Mehenni et al. 2006 Hearle et al. 2006 Lim et al. 2004
+
+Figure 1. Cumulative cancer risks according to age. (a) Cumulative risk of any cancer (23,24,28,34). (b) Cumulative risk of gastrointestinal cancers (23,24,28,34). (c) Cumulative risk of gynecological cancers (23,24,28).
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 105 | JUNE 2010 www.amjgastro.com
+
+High Cancer Risk in Peutz­Jeghers Syndrome 1261
+
+REVIEW
+
+Cumulative risk (%)
+
+Cumulative risk colorectal cancer
+50
+
+40
+
+30
+
+20
+
+10
+
+0 40
+
+50 60
+Age (years)
+
+70
+
+Hearle et al. 2006 Lim et al. 2004
+
+Cumulative risk (%)
+
+Cumulative risk pancreatic cancer
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0 40
+
+50 60
+Age (years)
+
+70
+
+Cumulative risk lung cancer
+20
+
+15
+
+10
+
+5
+
+0 40
+
+50 60
+Age (years)
+
+70
+
+Hearle et al. 2006 Lim et al. 2004
+Hearle et al. 2006 Lim et al. 2004
+
+Cumulative risk (%)
+
+Figure 2. Cumulative cancer risks according to age and origin. (a) Cumulative colorectal cancer risks according to age (23,24). (b) Cumulative pancreatic cancer risks according to age (23,24). (c) Cumulative lung cancer risks according to age (23,24).
+
+DISCUSSION This systematic review confirms that PJS patients carry a high cancer risk already at a young age (14,25,29), which is consistent with the identification of the STK11 gene as a tumor suppressor gene (10). Twenty cohort studies reported on 1,644 patients; 349 of them developed 384 malignancies at an average age of 42 years. The overall risk was most markedly increased for colorectal, breast, small bowel, gastric, and pancreatic cancer. There was overlap in patient populations because of two large collaborative studies (23,24). This might have overestimated the cancer risks. However, when we excluded the cohorts already represented in two collaborative studies, we found similar results (757 different patients; 148 of them developed 163 malignancies at an average age of 42 years). As the exclusion of overlapping studies led to loss of interesting data, we chose to report on all studies fulfilling the inclusion criteria.
+The relative cancer risks varied between 4.8 and 18 compared with the general population, with lifetime cumulative cancer risks up to 93%. The upper limit of these RRs approached the high relative cancer risk reported in the meta-analysis published in 2000, and the upper limit of cumulative risks (93%) was derived from Giardiello's meta-analysis (14). Although the largest included cohort study showed no statistically significant difference in cumulative
+
+cancer risk between patients with and without an STK11 mutation (23), the cancer risk did seem higher for STK11 mutation carriers compared with patients without a mutation in another study (29). In the future, it would be interesting to gain more insight into genotype­phenotype correlations and to investigate whether differences in STK11 mutation types are related to cancer proneness.
+There are some limitations to this systematic review that need to be addressed. First of all, the included studies may be hampered by selection bias; only patients with the most severe phenotypes might have been included, thereby overestimating cancer risk. However, the patients described in the cohort studies were selected systematically and were not recruited because of cancer in the proband; only one proband presented with cancer at the first consultation (36). Moreover, referral bias might have led to overestimation of cancer risks. Only patients with a severe phenotypic expression of the disease (including cancers) might have been referred to specialized centers that subsequently report their data. On the other hand, cancer risks may have been underestimated as they partly depend on the duration of follow-up; some studies reported on relatively young patients at the end of follow-up (27) in whom cancer may still develop. Other studies displayed no data on the age of the included patients or the duration of follow-up (3,23,24). Finally, there were some difficulties in pooling data as different definitions and different end points were used. For example, pancreatic cancer was considered as extra-gastrointestinal cancer in one study (34) but as gastrointestinal cancer in other studies (23,28).
+Assessment of the cancer risk in PJS is difficult for several other reasons; the true incidence of PJS is not known and some cases with an uncomplicated syndrome (e.g., patients without cancer) remain unpublished (publication bias). Furthermore, pseudo-carcinomatous invasion of epithelial cells into the muscularis propria and serosa may be mistaken for an invasive carcinoma, overestimating cancer incidence (42,43). Pseudo-invasion can be distinguished from invasive carcinoma by the lack of cytological atypia. This phenomenon occurs predominantly in the small bowel as it is caused by torsion and infarction of the polyps during bowel obstruction; pseudo-invasion was observed in ~10% of smallbowel polyps in one study (44).
+Nevertheless, cancer risks in PJS patients are very high and come close to other high-risk conditions in which surveillance has been recommended. The upper confidence limit of the breast cancer risk in PJS has, for example, been shown to be as high as the breast cancer risk in patients with BRCA1 or BRCA2 mutations (28). The high cancer risks justify surveillance of PJS patients. However, the optimal surveillance strategy remains to be established, and the wide spectrum of PJS-associated cancers as well as other complications caused by polyposis, such as intussusception, have to be taken into account.
+On the basis of risks of intussusception (45,46) and other polyprelated complications, such as bleeding or anemia early in life, and on the basis of increased cancer risks later in life described in this review, we proposed a new Dutch surveillance recommendation in collaboration with a national working group (Table 4). In this working group, gastroenterologists, internists, clinical geneticists, pediatricians, and gynecologists from the Netherlands are
+
+© 2010 by the American College of Gastroenterology
+
+The American Journal of GASTROENTEROLOGY
+
+1262 van Lier et al.
+
+REVIEW
+
+Table 4. Dutch surveillance recommendations for Peutz­Jeghers syndrome patients
+
+Examination a
+
+Starting age
+
+Interval
+
+History, physical examination (including testicular palpation), and hemoglobin analysis
+
+10 Years
+
+1 Year (pediatrician)
+
+Video capsule endoscopy (VCE) and/or MRI enteroclysisb
+
+10 Years
+
+2­3 Years
+
+Gastroduodenoscopy
+
+20 Years
+
+2­5 Years (depending on findings)
+
+Colonoscopy
+
+25­30 Years 2­5 Years (depending on findings)
+
+MRI and endoscopic ultrasonography (EUS) pancreas
+
+30 Years
+
+1 Year, only in a prospective ongoing trial (61)
+
+Breast exam and breast MRI
+
+25 Years
+
+1 Year
+
+Mammography and breast MRI 30 Years
+
+1 Year c
+
+Pelvix exam, cervical smear, transvaginal ultrasonography, and CA-125
+
+25­30 Years
+
+1 Year
+
+MRI, magnetic resonance imaging. aEarlier and/or more frequently in symptomatic patients/if clinically indicated. bIf VCE shows polyps, it is recommended to perform an MRI enteroclysis to determine the exact localization and size of the polyps. Polyps > 1 cm in diameter are an indication for double-balloon enteroscopy (DBE) with polypectomy. In addition, we recommend intra-operative enteroscopy with polyp removal in every indicated laparotomy, to avoid re-laparotomies. If surgery is indicated a laparoscopic approach is preferred when possible. cMammography and MRI alternately performed every 6 months.
+
+represented. The recommendation was developed on the basis of the literature reviewed here and clinical experience, and solely reflects expert opinion as no controlled trials have been published on the effectiveness of surveillance in PJS. With respect to uncontrolled data, German investigators recently reported that a similar surveillance strategy, as proposed by us, led to the early detection of 50% of all cancers (5/10) diagnosed in 31 PJS patients (47).
+New surveillance and treatment techniques such as video capsule endoscopy, magnetic resonance imaging (MRI) enteroclysis, and double-balloon enteroscopy, which have become widely available, are incorporated into this new surveillance recommendation. This is the main difference between the surveillance recommendations proposed here compared with previously published surveillance guidelines (2,4,15­22). It has been shown that video-capsuleendoscopy and/or MRI are good alternatives to small-bowel follow-through for the detection of small-bowel polyps (48,49), and that double-balloon enteroscopy is clinically useful and safe for therapy of small-bowel polyps in PJS patients (50).
+Another difference between the recommendations presented here and the guideline published by Giardiello et al. in 2006 (22), the latest guideline in print, is that we advocate starting small bowel surveillance at a more regular basis already at a young age (starting at age 10 with 2­3 year intervals, compared with a starting age of 18 years and a baseline examination at age 8). It is generally accepted that surveillance for gastrointestinal cancer is not indicated before the age of 20­25 years (28). However, we recommend starting small intestinal surveillance at a younger
+
+age in view of the morbidity caused by the hamartomas (45,46). "Benign" complications of the polyps, such as bleeding and intussusception, predominate in the first three decades of life, whereas malignant complications become more common thereafter (3). By the removal of large polyps, bleeding and intussusception might be prevented. There is no consensus on the management of small-bowel polyps. In general, polypectomy has been recommended for polyps > 1­1.5 cm and symptomatic small-bowel polyps (2,22,51,52). Furthermore, we propose colonoscopic surveillance from a later starting age than Giardiello et al. (22) (30 years vs. 18 years, respectively) do, as the colorectal cancer risk is low under the age of 30 years (Figure 2).
+A point of discussion is whether the malignancies in the gastrointestinal tract originate from the hamartomas or from coexisting adenomas or normal mucosa (53,54). The location of the gastrointestinal malignancies in PJS patients did not always correlate with the location of the hamartomatous polyps (54). However, a metastasizing duodenal carcinoma arising in a hamartoma was first reported in 1965 (55), and ever since several studies have reported a hamartoma­adenoma­carcinoma sequence (36,56­58). The latter suggests that endoscopic polyp removal could potentially decrease the risk for malignancies. To answer the question whether or not hamartomas are premalignant, further basal research is required and prospective studies should show whether or not the incidence of gastrointestinal malignancies decreases with endoscopic polypectomy. For now, the mechanism of carcinogenesis remains unknown and the primary aim of cancer surveillance is the early detection of malignancies, thereby improving outcome, and perhaps removal of premalignant polyps decreasing the gastrointestinal cancer risk.
+Pancreatic screening seems promising (59­61), but in the Netherlands it is nowadays only performed in light of an ongoing prospective trial (61) as there are still many unanswered questions regarding pancreatic screening. These include whether early detection of (precursor) lesions leads to an improved patient outcome, and also focus on the best way to manage detected lesions. In contrast, the beneficial effect of breast cancer surveillance in highrisk individuals has been established. As breast cancer risk in PJS approaches breast cancer risk in patients with BRCA1 or BRCA2 mutations, breast cancer surveillance is similar (62).
+In addition to ovarian carcinomas, mucinous neoplasms of the ovary and ovarian sex-cord tumors with annular tubules occur frequently in women with PJS (63,64). The latter may cause sexual precocity and infertility and are generally considered benign, but may become malignant. The gynecological surveillance recommendation is therefore also directed at early detection of these lesions. Although the risk for a testicular tumor was not established in this review, annual testicular palpation is recommended in boys as testicular Sertoli cell tumors occur more frequently in PJS and may cause precocious puberty and gynecomasty (65). Annual physical examination of children and hemoglobin analysis may furthermore reveal anemia, raising the suspicion of gastrointestinal hamartomas.
+In conclusion, PJS patients carry a markedly elevated cancer risk concerning mainly gastrointestinal carcinomas and breast cancer. However, cancer risks may be lower than in a previously published
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 105 | JUNE 2010 www.amjgastro.com
+
+High Cancer Risk in Peutz­Jeghers Syndrome 1263
+
+REVIEW
+
+meta-analysis (14). Although the benefits of surveillance remain to be established, surveillance seems justified and therefore we made surveillance and treatment recommendations. The effect of such a surveillance program on cancer incidence, survival as well as costeffectiveness will have to be established in prospective trials. ACKNOWLEDGMENTS We thank all the other members of the Dutch Peutz­Jeghers Working Group responsible for the development of the surveillance recommendations published here: Dr M.A.M.J. Jacobs, gastroenterologist, VU Medical Center, Amsterdam; Dr C.M.F. Kneepkens, pediatric gastroenterologist, VU Medical Center, Amsterdam; Dr J.J. Koornstra, gastroenterologist, UMCG, Groningen; Dr M.A.C. Lubsen-Brandsma, gynecologist, Academic Medical Center, Amsterdam; Dr F.H. Menko, clinical geneticist, VU Medical Center, Amsterdam; M. Pelger, Foundation for the Detection of Hereditary Tumours, Leiden; H.M. Ploeger, Department of Clinical Genetics, VU Medical Center, Amsterdam; Dr H.F.A. Vasen, internist, LUMC, Leiden, and director, Foundation for the Detection of Hereditary Tumours, Leiden.
+CONFLICT OF INTEREST Guarantor of the article: M.G.F. van Lier, MD. Specific author contributions: Data collection (identification of manuscripts suitable for this review, PubMed search and manual search, and data abstraction from the articles), draft writing, and final approval: M.G.F. van Lier, member of the National Peutz­ Jeghers Working Group; data collection (data abstraction from the articles), revising article, and final approval: A. Wagner, member of the National Peutz­Jeghers Working Group; revising article and final approval: E.M.H. Mathus-Vliegen, member of the National Peutz­Jeghers Working Group; study design, revising article, and final approval: E.J. Kuipers; data analysis/interpretation, revising article, and final approval: E.W. Steyerberg; study design, revising article, and final approval: M.E. van Leerdam, member of the National Peutz­Jeghers Working Group. Financial support: None. Potential competing interests: None.
+REFERENCES 1. Finan MC, Ray MK. Gastrointestinal polyposis syndromes. Dermatol Clin
+1989;7:419­34. 2. Allen BA, Terdiman JP. Hereditary polyposis syndromes and hereditary non-
+polyposis colorectal cancer. Best Pract Res Clin Gastroenterol 2003;17:237­58. 3. Utsunomiya J, Gocho H, Miyanaga T et al. Peutz-Jeghers syndrome: its
+natural course and management. Johns Hopkins Med J 1975;136:71­82. 4. Lindor NM, Greene MH. The concise handbook of family cancer syndromes.
+Mayo Familial Cancer Program. J Natl Cancer Inst 1998;90:1039­71. 5. Peutz JLA. Over een zeer merkwaardige, gecombineerde familiaire polypo-
+sis van de slijmliezen van den tractus intestinalis met die van de neuskeelholte en gepaard met eigenaardige pigmentaties van huid en slijmvliezen. Ned Maandschr v Geneesk 1921;10:134­46. 6. Jeghers H, McKusick VA, Katz KH. Generalized intestinal polyposis and melanin spots of the oral mucosa, lips and digits; a syndrome of diagnostic significance. N Engl J Med 1949;241:1031­6. 7. Bruwer A, Bargen JA, Kierland RR. Surface pigmentation and generalized intestinal polyposis; (Peutz-Jeghers syndrome). Proc Staff Meet Mayo Clin 1954;29:168­71.
+
+8. Hemminki A, Markie D, Tomlinson I et al. A serine/threonine kinase gene defective in Peutz-Jeghers syndrome. Nature 1998;391:184­7.
+9. Jenne DE, Reimann H, Nezu J et al. Peutz-Jeghers syndrome is caused by mutations in a novel serine threonine kinase. Nat Genet 1998;18:38­43.
+10. Hezel AF, Bardeesy N. LKB1; linking cell structure and tumor suppression. Oncogene 2008;27:6908­19.
+11. Volikos E, Robinson J, Aittomaki K et al. LKB1 exonic and whole gene deletions are a common cause of Peutz-Jeghers syndrome. J Med Genet 2006;43:e18.
+12. Mehenni H, Gehrig C, Nezu J et al. Loss of LKB1 kinase activity in PeutzJeghers syndrome, and evidence for allelic and locus heterogeneity. Am J Hum Genet 1998;63:1641­50.
+13. Hearle N, Lucassen A, Wang R et al. Mapping of a translocation breakpoint in a Peutz-Jeghers hamartoma to the putative PJS locus at 19q13.4 and mutation analysis of candidate genes in polyp and STK11-negative PJS cases. Genes Chromosomes Cancer 2004;41:163­9.
+14. Giardiello FM, Brensinger JD, Tersmette AC et al. Very high risk of cancer in familial Peutz-Jeghers syndrome. Gastroenterology 2000;119:1447­53.
+15. Tomlinson IP, Houlston RS. Peutz-Jeghers syndrome. J Med Genet 1997;34:1007­11.
+16. Burt RW. Colon cancer screening. Gastroenterology 2000;119:837­53. 17. The Johns Hopkins Guide for Patients and Families: Peutz­Jeghers
+Syndrome. Johns Hopkins University: Baltimore, MD, 2001. 18. McGrath DR, Spigelman AD. Preventive measures in Peutz-Jeghers
+syndrome. Fam Cancer 2001;1:121­5. 19. Dunlop MG. Guidance on gastrointestinal surveillance for hereditary
+non-polyposis colorectal cancer, familial adenomatous polypolis, juvenile polyposis, and Peutz-Jeghers syndrome. Gut 2002;51 (Suppl 5): V21­7. 20. Hinds R, Philp C, Hyer W et al. Complications of childhood Peutz-Jeghers syndrome: implications for pediatric screening. J Pediatr Gastroenterol Nutr 2004;39:219­20. 21. McGarrity TJ, Amos C. Peutz-Jeghers syndrome: clinicopathology and molecular alterations. Cell Mol Life Sci 2006;63:2135­44. 22. Giardiello FM, Trimbath JD. Peutz-Jeghers syndrome and management recommendations. Clin Gastroenterol Hepatol 2006;4:408­15. 23. Hearle N, Schumacher V, Menko FH et al. Frequency and spectrum of cancers in the Peutz-Jeghers syndrome. Clin Cancer Res 2006;12:3209­15. 24. Mehenni H, Resta N, Park JG et al. Cancer risks in LKB1 germline mutation carriers. Gut 2006;55:984­90. 25. Mehenni H, Resta N, Guanti G et al. Molecular and clinical characteristics in 46 families affected with Peutz-Jeghers syndrome. Dig Dis Sci 2007;52:1924­33. 26. Schumacher V, Vogel T, Leube B et al. STK11 genotyping and cancer risk in Peutz-Jeghers syndrome. J Med Genet 2005;42:428­35. 27. Amos CI, Keitheri-Cheteri MB, Sabripour M et al. Genotype-phenotype correlations in Peutz-Jeghers syndrome. J Med Genet 2004;41:327­33. 28. Lim W, Olschwang S, Keller JJ et al. Relative frequency and morphology of cancers in STK11 mutation carriers. Gastroenterology 2004;126:1788­94. 29. Lim W, Hearle N, Shah B et al. Further observations on LKB1/STK11 status and cancer risk in Peutz-Jeghers syndrome. Br J Cancer 2003;89:308­13. 30. Scott RJ, Crooks R, Meldrum CJ et al. Mutation analysis of the STK11/ LKB1 gene and clinical characteristics of an Australian series of Peutz-Jeghers syndrome patients. Clin Genet 2002;62:282­7. 31. Olschwang S, Boisson C, Thomas G. Peutz-Jeghers families unlinked to STK11/LKB1 gene mutations are highly predisposed to primitive biliary adenocarcinoma. J Med Genet 2001;38:356­60. 32. Choi HS, Park YJ, Youk EG et al. Clinical characteristics of Peutz-Jeghers syndrome in Korean polyposis patients. Int J Colorectal Dis 2000;15:35­8. 33. Westerman AM, Entius MM, de Baar E et al. Peutz-Jeghers syndrome: 78year follow-up of the original family. Lancet 1999;353:1211­5. 34. Westerman AM, Entius MM, van Velthuysen M et al. Cancer risk in Peutz­Jeghers syndrome (abstract). Eur J Hepatogastroenterol 1998;10:A42. 35. Boardman LA, Thibodeau SN, Schaid DJ et al. Increased risk for cancer in patients with the Peutz-Jeghers syndrome. Ann Intern Med 1998;128:896­9. 36. Hizawa K, Iida M, Matsumoto T et al. Cancer in Peutz-Jeghers syndrome. Cancer 1993;72:2777­81. 37. Spigelman AD, Murday V, Phillips RK. Cancer and the Peutz-Jeghers syndrome. Gut 1989;30:1588­90. 38. Foley TR, McGarrity TJ, Abt AB. Peutz-Jeghers syndrome: a clinicopathologic survey of the "Harrisburg family" with a 49-year follow-up. Gastroenterology 1988;95:1535­40. 39. Giardiello FM, Welsh SB, Hamilton SR et al. Increased risk of cancer in the Peutz-Jeghers syndrome. N Engl J Med 1987;316:1511­4.
+
+© 2010 by the American College of Gastroenterology
+
+The American Journal of GASTROENTEROLOGY
+
+REVIEW
+
+1264 van Lier et al.
+
+40. Burdick D, Prior JT. Peutz-Jeghers syndrome. A clinicopathologic study of a large family with a 27-year follow-up. Cancer 1982;50:2139­46.
+41. Linos DA, Dozois RR, Dahlin DC et al. Does Peutz-Jeghers syndrome predispose to gastrointestinal malignancy? A later look. Arch Surg 1981;116:1182­4.
+42. Westerman AM, van Velthuysen ML, Bac DJ et al. Malignancy in PeutzJeghers syndrome? The pitfall of pseudo-invasion. J Clin Gastroenterol 1997;25:387­90.
+43. Petersen VC, Sheehan AL, Bryan RL et al. Misplacement of dysplastic epithelium in Peutz-Jeghers polyps: The ultimate diagnostic pitfall? Am J Surg Pathol 2000;24:34­9.
+44. Shepherd NA, Bussey HJ, Jass JR. Epithelial misplacement in Peutz-Jeghers polyps. A diagnostic pitfall. Am J Surg Pathol 1987;11:743­9.
+45. Hearle N, Schumacher V, Menko FH et al. STK11 status and intussusception risk in Peutz-Jeghers syndrome. J Med Genet 2006;43:e41.
+46. van Lier MG, Wagner A, Westerman AM et al. High Cumulative Risk of Intussusceptions in Patients with Peutz-Jeghers syndrome (abstract). Gastroenterology 2009;136:A264.
+47. Salloch H, Reinacher-Schick A, Schulmann K et al. Truncating mutations in Peutz-Jeghers syndrome are associated with more polyps, surgical interventions and cancers. Int J Colorectal Dis 2010;25:97­107.
+48. Caspari R, von Falkenhausen M, Krautmacher C et al. Comparison of capsule endoscopy and magnetic resonance imaging for the detection of polyps of the small intestine in patients with familial adenomatous polyposis or with Peutz-Jeghers' syndrome. Endoscopy 2004;36:1054­9.
+49. Brown G, Fraser C, Schofield G et al. Video capsule endoscopy in peutzjeghers syndrome: a blinded comparison with barium follow-through for detection of small-bowel polyps. Endoscopy 2006;38:385­90.
+50. Gao H, van Lier MG, Poley JW et al. Treatment and surveillance of small bowel polyps using double balloon enteroscopy in patients with PeutzJeghers syndrome (abstract). Gastrointest Endosc 2009;69:AB204.
+51. Choi HS, Park YJ, Park JG. Peutz-Jeghers syndrome: a new understanding. J Korean Med Sci 1999;14:2­7.
+52. McGarrity TJ, Kulin HE, Zaino RJ. Peutz-Jeghers syndrome. Am J Gastroenterol 2000;95:596­604.
+53. Hizawa K, Iida M, Matsumoto T et al. Neoplastic transformation arising in Peutz-Jeghers polyposis. Dis Colon Rectum 1993;36:953­7.
+
+54. Dozois RR, Judd ES, Dahlin DC et al. The Peutz-Jeghers syndrome. Is there a predisposition to the development of intestinal malignancy? Arch Surg 1969;98:509­17.
+55. Williams JP, Knudsen A. Peutz-Jeghers syndrome with metastasizing duodenal carcinoma. Gut 1965;6:179­84.
+56. Perzin KH, Bridge MF. Adenomatous and carcinomatous changes in hamartomatous polyps of the small intestine (Peutz-Jeghers syndrome): report of a case and review of the literature. Cancer 1982;49:971­83.
+57. Gruber SB, Entius MM, Petersen GM et al. Pathogenesis of adenocarcinoma in Peutz-Jeghers syndrome. Cancer Res 1998;58:5267­70.
+58. Wang ZJ, Ellis I, Zauber P et al. Allelic imbalance at the LKB1 (STK11) locus in tumours from patients with Peutz-Jeghers syndrome provides evidence for a hamartoma-(adenoma)-carcinoma sequence. J Pathol 1999;188:9­13.
+59. Brentnall TA. Cancer surveillance of patients from familial pancreatic cancer kindreds. Med Clin North Am 2000;84:707­18.
+60. Canto MI, Goggins M, Hruban RH et al. Screening for early pancreatic neoplasia in high-risk individuals: a prospective controlled study. Clin Gastroenterol Hepatol 2006;4:766­81.
+61. Poley JW, Kluijt I, Gouma DJ et al. The yield of first-time endoscopic ultrasonography in screening individuals at a high risk of developing pancreatic cancer. Am J Gastroenterol 2009;104:2175­81.
+62. Burke W, Daly M, Garber J et al. Recommendations for follow-up care of individuals with an inherited predisposition to cancer. II. BRCA1 and BRCA2. Cancer Genetics Studies Consortium. JAMA 1997;277:997­1003.
+63. Scully RE. Sex cord tumor with annular tubules a distinctive ovarian tumor of the Peutz-Jeghers syndrome. Cancer 1970;25:1107­21.
+64. Hemminki A. The molecular basis and clinical aspects of Peutz-Jeghers syndrome. Cell Mol Life Sci 1999;55:735­50.
+65. Young S, Gooneratne S, Straus FH et al. Feminizing Sertoli cell tumors in boys with Peutz-Jeghers syndrome. Am J Surg Pathol 1995;19:50­8.
+66. Bartholomew LG, Moore CE, Dahlin DC et al. Intestinal polyposis associated with mucocutaneous pigmentation. Surg Gynecol Obstet 1962;115:1­11.
+67. Burdick D, Prior JT, Scanlon GT. Peutz-Jeghers syndrome: a clinical-pathological study of a large family with a 10-year follow-up. Cancer 1963;16:854­67.
+
+The American Journal of GASTROENTEROLOGY
+
+VOLUME 105 | JUNE 2010 www.amjgastro.com
+
+

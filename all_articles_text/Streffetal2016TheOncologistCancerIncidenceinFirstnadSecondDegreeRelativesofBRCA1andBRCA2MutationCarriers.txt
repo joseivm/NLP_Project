@@ -1,0 +1,299 @@
+Published Ahead of Print on June 15, 2016 as 10.1634/theoncologist.2015-0354.
+Breast Cancer
+Cancer Incidence in First- and Second-Degree Relatives of BRCA1 and BRCA2 Mutation Carriers
+HALEY STREFF,a JESSICA PROFATO,b YUANQING YE,c DENISE NEBGEN,d SUSAN K. PETERSON,e CLAIRE SINGLETARY,f,g BANU K. ARUN,b JENNIFER K. LITTONb aGenetic Counseling Program, The University of Texas Graduate School of Biomedical Sciences at Houston, Houston, Texas, USA; Departments of bBreast Medical Oncology, cEpidemiology, dGynecologic Oncology and Reproductive Medicine, and eBehavioral Science, The University of Texas MD Anderson Cancer Center, Houston, Texas, USA; Departments of fPediatrics and gObstetrics, Gynecology, and Reproductive Sciences, The University of Texas Medical School at Houston, Houston, Texas, USA
+Disclosures of potential conflicts of interest may be found at the end of this article. Key Words. BRCA x Genetic counseling x Familial cancers x Breast cancer x Ovarian cancer x Pancreatic cancer
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 5, 2016
+
+ABSTRACT
+Background. Mutations in the BRCA1 and BRCA2 genes are associated with increased risk of breast, ovarian, and several other cancers. The purpose of the present study was to evaluate the incidence of cancer in first- and second-degree relatives of BRCA mutation carriers compared with the general population. Materials and Methods. A total of 1,086 pedigrees of BRCA mutation carriers was obtained from a prospectively maintained, internal review board-approved study of persons referred for clinical genetic counseling at the University of Texas MD Anderson Cancer Center. We identified 9,032 firstand second-degree relatives from 784 pedigrees that had demonstrated a clear indication of parental origin of mutation. Standardized incidence ratios (SIRs) were used to compare the observed incidence of 20 primary cancer sites to the expected incidence of each cancer based on the calculated riskestimates according to each subject's age, sex, and ethnicity.
+
+Results. BRCA1 families had increased SIRs for breast and ovarian cancer (p , .001) and decreased SIRs for kidney, lung, prostate, and thyroid cancer and non-Hodgkin's lymphoma (p , .001). BRCA2 families had increased SIRs for breast, ovarian, and pancreatic cancer (p , .001) and decreased SIRs for kidney, lung, thyroid, and uterine cancer and nonHodgkin's lymphoma (p , .0025). Analysis of only firstdegree relatives (n 5 4,099) identified no decreased SIRs and agreed with the increased SIRs observed in the overall
+study population.
+Conclusion. We have confirmed previous reports of an associ-
+ation between breast, ovarian, and pancreatic cancers with
+BRCA mutations. Additional research to quantify the relative risks of these cancers for BRCA mutation carriers can help tailor recommendations for risk reduction and enhance genetic counseling. The Oncologist 2016;21:1­6
+
+Implications for Practice: BRCA gene mutations have been well described to carry an increased risk of both breast and ovarian cancer. However, the implications and risks of other cancers continues to be investigated. Evaluating the risks for other cancers further is key in identifying and managing risk reduction strategies.
+
+INTRODUCTION
+Hereditary breast and ovarian cancer (HBOC) is caused by germline mutations in the BRCA1 and BRCA2 genes, which are autosomal dominant tumor suppressor genes that help ensure DNA damage in the cell is repaired before cell replication. Since the discovery of the BRCA1 and BRCA2 genes in 1994 and 1995, respectively, considerable research has been completed to analyze the cancer risks associated with these genes [1, 2]. Individuals with a BRCA1 or BRCA2 mutation have up to an 84% lifetime risk of developing breast cancer and up to a 27%­45% lifetime risk of developing
+
+ovarian cancer [3]. However, the lifetime risk of cancers other than breast and ovarian cancer have been inconsistent. The National Comprehensive Cancer Network (NCCN) has put forth specific guidelines for screening and surveillance of breast, ovarian, and prostate cancer and has also recognized the increased risk of pancreatic cancer in all BRCA mutation carriers; however, the risk of other cancers remain debated [4].
+The previous studies investigating the cancer risks other than breast and ovarian in BRCA1 and BRCA2 mutation carriers
+
+Correspondence: Jennifer K. Litton, M.D., Department of Breast Medical Oncology, Clinical Cancer Genetics,The University of Texas MD Anderson Cancer Center, 1515 Holcombe Boulevard, Unit 1354, Houston, Texas 77030, USA. Telephone: 713-792-2817; E-Mail: jlitton@mdanderson. org Received September 4, 2015; accepted for publication March 8, 2016. ©AlphaMed Press 1083-7159/2016/$20.00/0 http://dx.doi.org/ 10.1634/theoncologist.2015-0354
+
+The Oncologist 2016;21:1­6 www.TheOncologist.com
+
+©AlphaMed Press 2016
+
+Published Ahead of Print on June 15, 2016 as 10.1634/theoncologist.2015-0354.
+2 Cancers in Relatives of BRCA Carriers
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 5, 2016
+
+have largely been small, familial studies. One of the larger studies to date, completed by the Breast Cancer Linkage Consortium in 1999 found BRCA2 mutation carriers have an increased risk of prostate and pancreatic cancer and an increased risk of buccal cavity, pharyngeal, stomach, gallbladder, andbile ductcancers and melanoma of theskin [5].Theincreased risk of prostate and pancreatic cancer has been replicated by numerous other studies, and the association between BRCA2 mutations and these cancers is accepted in clinical practice [5­11].
+Numerous reports have debated whether an increased lifetime risk for any cancer beyond breast and ovarian cancer even exists across both sexes and genes [10, 12]. Multiple studies have agreed on a significantly increased risk of pancreatic and prostate cancers in BRCA mutation carriers; however, further information regarding the lifetime risks of these cancers is needed [5, 7, 13, 14]. An increased risk of colon cancer in BRCA mutation carriers has been described, citing relative risks ranging from 0.82 to 4.8 in mutation carriers [15, 16]. In 2014, Mersch et al. [9] completed a large singleinstitution study of the incidence of non-breast and ovarian cancers in more than 1,000 known BRCA mutation carriers from our institution. They found an increased incidence of pancreatic and prostate cancer in BRCA2 mutation carriers and an increased occurrence of melanoma in BRCA1 carriers and cervical cancer in BRCA2 carriers [9].Various other studies have reported an increased risk of melanoma of the skin and cervical, gallbladder, stomach, and uterine cancers; however, these increases have ranged from one- to fourfold, have varied between BRCA1 and BRCA2 mutations, and have been inconsistently reported [5, 7, 10­12].
+The current data demonstrate the inconsistencies regarding the risks of non-breast and ovarian cancers, and the present study aimed to further clarify and characterize the spectrum of cancer risks evident in families with a known BRCA1 or BRCA2 mutation. It is essential to more clearly define the lifetime risks of nonbreast and ovarian cancers associated with HBOC to inform the development of more comprehensive surveillance guidelines and improve the accuracy of risk assessment. We assessed first-degree relatives (FDRs) and second-degree relatives (SDRs) of BRCA mutation carriers to describe the incidence of cancers in families with a BRCA mutation. This large, single-institution cohort study sought to evaluate whether the incidence of cancer other than breast and ovarian cancer was higher in families with a BRCA mutation than in the general population.
+MATERIALS AND METHODS The institutional review board of the University of Texas MD Anderson Cancer Center (MDACC) (approval number, PA130650) and the committee for the protection of human subjects of The University of Texas Health Science Center at Houston (approval number, HSC-GSBS-14-0581) approved the study. The family histories of individuals who had undergone genetic counseling at MDACC from 1997 to 2014 with a confirmed deleterious BRCA1 or BRCA2 mutation were eligible for the present analysis. The family histories included the ethnicity, sex, relation to the proband, age, vital status, and cancer history for all FDRs and SDRs on the affected parental side of the proband. If only an age decade was identified for a relative
+©AlphaMed Press 2016
+
+in the family history, the individual's age was recorded as the middle age for that decade.
+A retrospective medical record review of the pedigrees previously collected during genetic counseling visits with confirmed BRCA mutations was completed for the present study. The parental origin of the mutation was determined by the presence of a breast and/or ovarian cancer in a female firstor second-degree relative diagnosed before age 60 years or a male first- or second-degree relative diagnosed with breast cancer at any age. Pedigrees that did not meet these criteria or had breast and/or ovarian cancers in both paternal and maternal family histories were reviewed by three of us (J.P., J.K.L., D.N.). If a consensus of the parental origin of the mutation could not be determined, the pedigree was excluded from the study. All FDRs and SDRs of the proband on the affected parental side were included in the analysis. Relatives with no reported age or no reported age at the cancer diagnosis were excluded to best account for an individual's contribution of cancer risk to the study population, which was calculated according to 5-year age intervals.
+The incidence of cancers found in the study population was compared with that in the general population as reported by the U.S. Cancer Statistics: 1999­2011 Incidence and Mortality Web-based Report (USCS). The defined reference time frame for the age-specific incidence rates in the USCS was 2007­2011. The report combines cancer registry data from the Centers for Disease Control and Prevention National Program of Cancer Registries and the National Cancer Institute's Surveillance, Epidemiology, and End Results Program. Fifty different cancers were reported in the study population; however, similar or related cancers were grouped together. For example, gum, lip, oral, and throat cancer were grouped into the oral cavity cancer category, and fallopian tube and primary peritoneal cancer were grouped with ovarian cancer. This resulted in 42 cancer types in the study population. The UCSC report included 20 of the 42 cancer types. Cancers not included in the USCS report were excluded from the analysis [17].
+The observed number of cases for each cancer type was calculated based on the study population.The expected number of cases was calculated by multiplying age, sex, ethnicity, and period-specific person-years at risk by the corresponding general population cancer incidence rates.The expected number of cases for each cancer type was the sum of the expected numbers by age, sex, and ethnicity group. Standardized incidence ratios (SIRs) for each cancer type and the corresponding 95% confidence intervals (CIs) were calculated to compare the observed number of cases with the expected number of cases. We also calculated the SIR stratifying by BRCA1 and BRCA2 mutation carrier status and by first- and second-degree relative status.To adjust for multiple comparisons resulting from testing 20 cancersites, p , .0025 (5 .05/20) was consideredstatistically significant.
+RESULTS We identified 1,086 individuals with a deleterious BRCA1 or BRCA2 mutation from 1997 to 2014. Two hundred twenty-five pedigrees were eliminated from the study for numerous reasons, and 77 of the reviewed pedigrees were determined to be duplicates due to another individual in the same family
+OTnhceologist®
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 5, 2016
+
+Streff, Profato, Ye et al.
+
+Published Ahead of Print on June 15, 2016 as 10.1634/theoncologist.2015-0354.
+
+3
+
+Figure 1. Description of the pedigrees of confirmed BRCA1 and BRCA2 mutation carriers seen by genetic counseling at MD Anderson Cancer Center and their identified FDRs and SDRs. *, Undetermined inheritance, 164; missing pedigrees, 15; other genetic conditions, 2; BRCA1 and BRCA2 mutations, 3; and incomplete, 41.
+Abbreviations: FDR, first-degree relatives; SDR, second-degree relatives.
+seeking site-specific testing (Fig. 1). In these cases, the proband of a given pedigree was considered to be the individual who had presented to clinic first, and only the most recent version of a family's pedigree in the database was included in our analysis. A total of 784 unique pedigrees were analyzed (Fig. 1).
+In these 784 pedigrees, 11,462 FDRs and SDRs were reported; however, only 9,032 relatives were included in the analysis (Fig. 1). Detailed demographic characteristics are reported in Table 1.The age of the study population followed a normal distribution curve, with an average age of 45.2 years old (range, 1­104). Most of the population was living at the time the pedigree was collected (6,545; 72%). Male breast cancer, which has a well-described association with BRCA mutations, was not analyzed because it was not included in the USCS report, owing to its low prevalence in the general population. However, 24 cases of male breast cancer were identified in the study population; 12 were in BRCA1 families and 12 were in BRCA2 families (Table 2). The average age at the diagnosis of male breast cancer in the BRCA1 families was 48 years (range, 27­75) and was 64 years (range, 47­75) in the BRCA2 families.
+We found multiple increased and decreased SIRs among the BRCA1 and BRCA2 families (Tables 3, 4; supplemental online Table 1). We observed an increased SIR in BRCA1 families for breast cancer (SIR, 3.37; 95% CI, 3.09­3.67; p , .0001) and ovarian cancer (SIR, 14.31; 95% CI, 12.28­16.58; p , .0001). A trend toward an increasing incidence of pancreatic cancer (SIR, 1.84; 95% CI, 1.24-2.62; p 5 .0030) was also observed in the BRCA1 population; the p value was greater than our cutoff of .0025 but less than the standard p value of.05.The average age at the diagnosis of breast cancer was 46.1 years (range, 24­95), of ovarian cancer was 53.0 years (range, 25­88), and of pancreatic cancer was 58.9 years (range, 24­88). In BRCA2 families, breast (SIR, 3.44; 95% CI, 3.13­3.79; p , .0001), ovarian (SIR, 9.70; 95% CI, 7.77-11.96; p , .0001), and pancreatic (SIR, 2.02; 95% CI, 1.33-2.95; p 5 .0013) cancer had an increased SIR. The average age at the diagnosis of breast cancer was 49.8 years (range, 20­97), of ovarian
+
+cancer was 57.1 years (range, 23­80), and of pancreatic cancer was 62.0 years (range, 29­86). When stratifying the study population by sex, we found an increased SIR for pancreatic cancer (SIR, 2.61; 95% CI, 1.87­3.56; p , .0001) when considering both BRCA1 and BRCA2 mutations in men. Women, however, had an increased SIR only for breast (SIR, 3.41; 95% CI, 3.19-3.63; p , .0001) and ovarian (SIR, 12.37; 95% CI, 10.92-13.96; p , .0001) cancer.
+Several cancers were also observed to have a decreased SIR (p , .0025). In BRCA1 families, the SIR was decreased for kidney, lung, prostate, and thyroid cancer and non-Hodgkin's lymphoma. In BRCA2 families, a decreased SIR for kidney, lung, thyroid, and uterine cancer and non-Hodgkin's lymphoma was observed.
+When considering only FDRs, no decreased SIRs were identified. We found that FDRs of BRCA1 families had an increased SIR for breast (SIR, 4.37; 95% CI, 3.86­4.93; p , .0001), ovarian (SIR, 21.9; 95% CI, 17.59­26.95; p , .0001), and pancreatic (SIR, 3.53; 95% CI, 1.88­6.04; p , .0003) cancer. Similarly, FDRs of BRCA2 families had an increased SIR for breast (SIR, 4.57; 95% CI, 3.98­5.22; p , .0001), ovarian (SIR, 12.61; 95% CI, 9.98-19.53; p , .0001), and pancreatic (SIR, 3.77; 95% CI, 1.95-6.58; p , .0001) cancer, in agreement with previously reported data when SDRs were included and supporting the established cancer risks in HBOC. Additionally, a trend toward an increased incidence of prostate cancer was observed in BRCA2 families (SIR, 1.63; 95% CI, 1.15­2.23, p 5 .0067).
+DISCUSSION The present study aimed to further define the cancers associated with BRCA mutations through analysis of the incidence of cancers in FDRs and SDRs of known BRCA1 and BRCA2 mutation carriers. The results confirm the recognized increased incidence of breast and ovarian cancer in women with a BRCA mutation. Additionally, our results further confirm an association between BRCA mutations and pancreatic cancer.The increased SIRs for breast and ovarian cancer in both BRCA1 and BRCA2 families and for pancreatic cancer in BRCA2 families are consistent with the results from Mersch et al. [9], who examined the incidence of non-breast and ovarian cancers in BRCA mutation-positive individuals. The cohort analyzed in the study by Mersch et al. [9] represent most of the index cases used to obtain the population of FDRs and SDRs in our study.The increased incidence of prostate cancer in BRCA2 mutation carriers found by Mersch et al. [9] was also supported by our findings when analyzing only FDRs in the study population.
+Several studies have investigated the cancer risks for HBOC in cohorts of individuals without confirmed BRCA1 or BRCA2 mutations, similar to this study population. In these studies, increased risks of pancreatic, prostate, and uterine body/ cervical cancer have been reported in cohorts of individuals with unknown BRCA1 mutation carrier status [12]. Our results are consistent with the increased incidence of pancreatic cancer; however, we failed to find an association with prostate cancer or uterine body/cervical cancer. In BRCA2 research, increased risks of breast, ovarian, pancreatic, prostate, bone, and pharyngeal cancer and uveal melanoma have been reported in populations that included unconfirmed BRCA mutation carriers [10, 11]. Excluding bone and pharyngeal cancer and melanoma, we replicated these findings when
+
+www.TheOncologist.com
+
+©AlphaMed Press 2016
+
+Published Ahead of Print on June 15, 2016 as 10.1634/theoncologist.2015-0354.
+4 Cancers in Relatives of BRCA Carriers
+
+Table 1. Demographics of final study population (n 5 9,032)
+
+Variable
+Total (n 5 9,032) Sex
+Male Female Degree of relation FDR SDR Ethnicity White Hispanic Black Asian/Pacific Islander American Indian/Native American
+
+BRCA1, n (%) 5,237 (58)
+2,401 (46) 2,836 (54)
+2,430 (46) 2,807 (54)
+3,679 (70) 912 (17) 462 (9) 163 (3) 21 (1)
+
+Abbreviations: FDR, first-degree relative; SDR, second-degree relative.
+
+BRCA2, n (%) 3,795 (42)
+1,802 (47) 1,993 (53)
+1,669 (44) 2,126 (56)
+2,952 (78) 348 (9) 306 (8) 134 (4) 55 (1)
+
+Total, n (%) 9,032 (100)
+4,203 (47) 4,829 (53)
+4,099 (45) 4,933 (55)
+6,631 (73) 1,260 (14)
+768 (9) 297 (3) 76 (1)
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 5, 2016
+
+Table 2. Demographics of individuals with male breast cancer
+
+Age at Other Age at
+
+Cancer diagnosis cancer diagnosis Degree
+
+Gene type (yr)
+
+diagnoses (yr)
+
+of relation
+
+BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA1 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast BRCA2 Breast
+
+75 32 36 27 60 34 57 47 72 28 53 61 75 58 47 67 61 65 75 62 63 66 74
+
+Sarcoma Breast Breast
+
+53 40 36
+
+Prostate 61
+Prostate 72 Prostate 57
+
+SDR FDR SDR FDR SDR SDR FDR FDR SDR SDR FDR FDR FDR SDR FDR SDR FDR SDR SDR FDR FDR FDR SDR
+
+Abbreviations: FDR, first-degree relative; SDR, second-degree relative.
+
+considering just FDRs. The increased risks of bone and pharyngeal cancer identified by van Asperen et al. [11] have not been replicated to our knowledge. The present study did not analyze bone cancer and found no significant incidence of pharyngeal cancer.
+No cancers that have not been previously associated with BRCA mutations were identified, and relatively few cancers
+©AlphaMed Press 2016
+
+had a significantly increased SIR compared with other reports. However, many of these other studies were based on analysis of confirmed BRCA1 and BRCA2 mutation carriers [6, 7, 9, 13­15]. Because only one half of our study population was assumed to have a BRCA mutation, we expected that the cancers associated with BRCA mutations would not have as great an incidence as they would in a population comprised solely of known mutation carriers. Still, the outcomes of the present study could be more helpful in the development and review of screening protocols for HBOC, because individuals seeking surveillance could be at risk of a known familial mutation but be untested.
+Focusing only on FDRs in the study population was beneficial to account for patient-reported family histories and should provide the most precise and accurate interpretation of the results.The present study relied on the accuracy of the reported family histories, which has been shown to be reduced for distant relatives. Studies examining the accuracy of patient-reported family histories indicate that the site of a cancer diagnosis in FDRs and SDRs is correctly reported in 78%­95% and 53%­67% of cases, respectively [18­20]. When considering only FDRs, the incidence of cancers in the study population aligned almost completely with the previously established cancer associations for BRCA mutations. Furthermore, no decreased SIRs were observed in the population of only FDRs. Studies have suggested that underreporting of cancer is more common than overreporting of cancer in family histories [18, 19, 21, 22]. This could provide an explanation for the number of decreased SIRs observed in the overall study population when SDRs were included in the analysis.
+Although the present study allowed for analysis of a large number of relatives, the data were limited to one time point because this was a retrospective data collection; thus, instances of cancer diagnosed after the date the pedigree was last updated were not included. The incidence data used for analysis was for 2007­2011; therefore, we did not account for changes in cancer incidence over time. However, given that the family history of cancer can evolve over time, the statistical analysis did account for each individual's contribution to the cancer risk of the study population based on ethnicity, sex, and
+OTnhceologist®
+
+Streff, Profato, Ye et al.
+
+Published Ahead of Print on June 15, 2016 as 10.1634/theoncologist.2015-0354.
+
+Table 3. Primary cancer sites with SIR .1.00 and significant p , .0025
+
+Cancer site
+
+Gene
+
+Observed
+
+Expected
+
+Breast
+
+BRCA1
+
+534
+
+158.4
+
+Breast
+
+BRCA2
+
+435
+
+126.1
+
+Ovarian
+
+BRCA1
+
+177
+
+12.4
+
+Ovarian Pancreasa
+
+BRCA2 BRCA1
+
+87 30
+
+9.0 16.3
+
+Pancreas
+
+BRCA2
+
+27
+
+13.3
+
+aTrend (p , .007). Abbreviations: CI, confidence interval; SIR, standardized incidence ratio.
+
+SIR
+3.37 3.45 14.31 9.70 1.84 2.02
+
+95% CI
+3.09­3.67 3.13­3.79 12.28­16.58 7.77­11.96 1.24­2.62 1.33­2.95
+
+Table 4. Primary cancer sites with SIR ,1.00 and significant p , .0025
+
+Cancer site
+
+Gene
+
+Observed
+
+Expected
+
+SIR
+
+95% CI
+
+Kidney Kidney Lung Lung Non-Hodgkin's Non-Hodgkin's Prostate Thyroid Thyroid Uterine
+
+BRCA1 BRCA2 BRCA1 BRCA2 BRCA1 BRCA2 BRCA1 BRCA1 BRCA2 BRCA2
+
+5 6 33 30 8 4 53 8 7 4
+
+23.9 19.2 83.8 70.8 27.8 22.4 91.7 24.9 19.3 16.8
+
+Abbreviations: CI, confidence interval; SIR, standardized incidence ratio.
+
+0.21 0.07­0.49 0.31 0.11­0.68 0.40 0.27­0.55 0.42 0.29­0.61 0.29 0.12­0.57 0.18 0.05­0.46 0.58 0.43­0.76 0.32 0.14­0.63 0.36 0.15­0.75 0.24 0.06­0.61
+
+5
+p value ,.0001 ,.0001 ,.0001 ,.0001
+.0030 .0013
+p value ,.0001
+.0009 ,.0001 ,.0001 ,.0001 ,.0001 ,.0001
+.0002 .0025 .0004
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 5, 2016
+
+age in 5-year intervals. Additionally, the pedigrees were prospectively updated if the proband proactively provided new family history information or clarifications. A prospective study could help reduce this bias and could potentially obtain more accurate current ages and cancer histories. However, knowledge of the family history information could remain vague or ambiguous, regardless of the study design.
+Likewise, environmental exposures and/or surgical decisions in family members are not consistently reported during a family history intake; therefore we were unable to comment on their influence on the results. A collection bias in the population could also have been present, given that a genetic counselor might ask more detailed questions to clarify reports of cancers only related to the syndrome of interest (i.e., breast, ovarian, pancreatic cancer in HBOC). Therefore, cancers without a previous association to HBOC or a hereditary cancer syndrome might have been underreported in the study population. However, a reporting bias toward individuals with any type of cancer could also be present because the affected individuals might be more cognizant of their cancer family history. Additionally, the data should not be generalized to individuals of all ethnicities, given that the study population was predominantly white.
+Further investigation to obtain more specific lifetime relative risks for the cancers associated with HBOC should be considered in the future. Cohorts of known BRCA mutation carriers with their at-risk family members could be used as an unbiased population to better determine these risks and define agespecific incidencerates for more appropriate riskassessments for BRCA families. Furthermore, consideration of the parental origin
+
+of a BRCA mutation to assess for potential imprinting effects should be explored in a future analysis. Additionally, continued work to enhance screening and surveillance guidelines for mutation carriers is indicated, because pancreatic cancer currently does not have well-established surveillance methods and recommendations for prostate cancer screenings have been vague. However, risk reduction data and strategies are still evolving.
+CONCLUSION The use of a cohort of individuals with unknown BRCA mutation status from families with a known BRCA mutation allowed for a large sample size that demonstrated a comprehensive analysis of cancer incidence in HBOC.The findings from the present study support previous reports of an association between BRCA1 and BRCA2 mutations and breast cancer, ovarian cancer, and pancreatic cancer. Analysis of only the FDRs similarly confirmed an association between BRCA1 mutations and breast and ovarian cancer and BRCA2 mutations and breast, ovarian, pancreatic, and prostate cancer. We did not find any cancers to be associated with BRCA mutations that had not been addressed by the NCCN or had not had a previously well-established and accepted association with HBOC. The results of the present study indicate the spectrum of cancers associated with BRCA1 and BRCA2 mutations seems to be welldefined at present.
+ACKNOWLEDGMENT The Clinical Cancer Genetics Database is maintained by The University of Texas Cancer Center Support Grant 5P30CA016672-39.
+
+www.TheOncologist.com
+
+©AlphaMed Press 2016
+
+Downloaded from http://theoncologist.alphamedpress.org/ at Countway Library of Medicine on July 5, 2016
+
+Published Ahead of Print on June 15, 2016 as 10.1634/theoncologist.2015-0354.
+6 Cancers in Relatives of BRCA Carriers
+
+AUTHOR CONTRIBUTIONS
+Conception/design: Haley Streff, Jessica Profato, Yuanqing Ye, Denise Nebgen, Susan K. Peterson, Claire Singletary, Jennifer K. Litton
+Provision of study material or patients: Haley Streff, Jessica Profato, Banu K. Arun, Jennifer K. Litton
+Collection and/or assembly of data: Haley Streff, Jessica Profato, Denise Nebgen, Jennifer K. Litton
+Data analysis and interpretation: Haley Streff, Jessica Profato, Yuanqing Ye, Denise Nebgen, Susan K. Peterson, Claire Singletary, Jennifer K. Litton
+Manuscript writing: Haley Streff, Jessica Profato, Jennifer K. Litton
+
+Final approval of manuscript: Haley Streff, Jessica Profato, Yuanqing Ye, Denise Nebgen, Susan K. Peterson, Claire Singletary, Banu K. Arun, Jennifer K. Litton
+DISCLOSURES Jessica Profato: Personalis, Inc. (C/A); Jennifer K. Litton: Biomarin, Novartis (C/A, RF). The other authors indicated no financial relationships.
+(C/A) Consulting/advisory relationship; (RF) Research funding; (E) Employment; (ET) Expert testimony; (H) Honoraria received; (OI) Ownership interests; (IP) Intellectual property rights/ inventor/patent holder; (SAB) Scientific advisory board
+
+REFERENCES
+
+1. Wooster R, Bignell G, Lancaster J et al. Identification of the breast cancer susceptibility gene BRCA2. Nature 1995;378:789­792.
+2. Miki Y, Swensen J, Shattuck-Eidens D et al. A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science 1994;266: 66­71.
+3. Ford D, Easton DF, Stratton M et al. Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. Am J Hum Genet 1998;62:676­689.
+4. National Comprehensive Cancer Network. Genetic/Familial High-Risk Assessment: Breast and Ovarian, Version 1.2015. Fort Washington, PA: NCCN, 2015.
+5. Breast Cancer Linkage Consortium. Cancer risks in BRCA2 mutation carriers. J Natl Cancer Inst 1999; 91:1310­1316.
+6. Iqbal J, Ragone A, Lubinski J et al. The incidence of pancreatic cancer in BRCA1 and BRCA2 mutation carriers. Br J Cancer 2012;107:2005­2009.
+7. Johannsson O, Loman N, Mo¨ller T et al. Incidence of malignant tumours in relatives of BRCA1 and BRCA2 germline mutation carriers. Eur J Cancer 1999;35:1248­1257.
+8. Lorenzo Bermejo J, Hemminki K. Risk of cancer at sites other than the breast in Swedish families
+
+eligible for BRCA1 or BRCA2 mutation testing. Ann Oncol 2004;15:1834­1841.
+9. Mersch J, Jackson MA, Park M et al. Cancers associated with BRCA1 and BRCA2 mutations other than breast and ovarian. Cancer 2015;121:269­275.
+10. Moran A, O'Hara C, Khan S et al. Risk of cancer other than breast or ovarian in individuals with BRCA1 and BRCA2 mutations. Fam Cancer 2012;11: 235­242.
+11. van Asperen CJ, Brohet RM, Meijers-Heijboer EJ et al. Cancer risks in BRCA2 families: Estimates for sites other than breast and ovary. J Med Genet 2005; 42:711­719.
+12. Thompson D, Easton DF. Cancer incidence in BRCA1 mutation carriers. J Natl Cancer Inst 2002;94: 1358­1365.
+13. Brose MS, Rebbeck TR, Calzone KA et al. Cancer riskestimates for BRCA1 mutation carriers identified in a risk evaluation program. J Natl Cancer Inst 2002; 94:1365­1372.
+14. Noh JM, Choi DH, Baek H et al. Associations between BRCA mutations in high-risk breast cancer patients and familial cancers other than breast or ovary. J Breast Cancer 2012;15:283­287.
+15. Phelan CM, Iqbal J, Lynch HT et al. Incidence of colorectal cancer in BRCA1 and BRCA2 mutation
+
+carriers: Results from a follow-up study. Br J Cancer 2014;110:530­534.
+16. Sopik V, Phelan C, Cybulski C et al. BRCA1 and BRCA2 mutations and the risk for colorectal cancer. Clin Genet 2015;87:411­418.
+17. United States Cancer Statistics. United States Cancer Statistics: 1999­2011 Incidence and Mortality Web-Based Report. Atlanta, GA: U.S. Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute, 2014.
+18. Ziogas A, Anton-Culver H. Validation of family history data in cancer family registries. Am J Prev Med 2003;24:190­198.
+19. Love RR, Evans AM, Josten DM.The accuracy of patient reports of a family historyofcancer. J Chronic Dis 1985;38:289­293.
+20. Schneider KA, DiGianni LM, Patenaude AF et al. Accuracy of cancer family histories: Comparison of two breast cancer syndromes. Genet Test 2004;8: 222­228.
+21. Quillin JM, Ramakrishnan V, Borzelleca J et al. Paternal relatives and family history of breast cancer. Am J Prev Med 2006;31:265­268.
+22. Ozanne EM, O'Connell A, Bouzan C et al. Bias in the reporting of family history: Implications for clinical care. J Genet Couns 2012;21:547­556.
+
+See http://www.TheOncologist.com for supplemental material available online.
+
+©AlphaMed Press 2016
+
+OTnhceologist®
+
+

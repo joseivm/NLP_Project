@@ -1,0 +1,468 @@
+VOLUME 27  NUMBER 8  MARCH 10 2009
+JOURNAL OF CLINICAL ONCOLOGY
+
+ORIGINAL REPORT
+
+From the Departments of Molecular Diagnosis, Molecular Genetics, Clinical Cancer Genetics, and Information Sciences, and the Bioinformatics Group, City of Hope, Duarte, CA.
+Submitted February 11, 2008; accepted October 21, 2008; published online ahead of print at www.jco.org on February 9, 2009.
+S.S.S. and J.N.W. contributed equally as senior authors.
+Terms in blue are defined in the glossary, found at the end of this article and online at www.jco.org.
+Corresponding author: Jeffrey N. Weitzel, MD, Department of Clinical Cancer Genetics, Beckman Research Institute/City of Hope National Medical Center, 1500 E Duarte Rd, Duarte, CA 91010-0269; e-mail: jweitzel@coh.org.
+The Appendix is included in the full-text version of this article, available online at www.jco.org. It is not included in the PDF version (via Adobe® Reader®).
+© 2009 by American Society of Clinical Oncology
+0732-183X/09/2708-1250/$20.00
+DOI: 10.1200/JCO.2008.16.6959
+
+Beyond Li Fraumeni Syndrome: Clinical Characteristics of Families With p53 Germline Mutations
+Kelly D. Gonzalez, Katie A. Noltner, Carolyn H. Buzin, Dongqing Gu, Cindy Y. Wen-Fong, Vu Q. Nguyen, Jennifer H. Han, Katrina Lowstuter, Jeffrey Longmate, Steve S. Sommer, and Jeffrey N. Weitzel
+ABSTRACT
+Purpose A clinical testing cohort was used to gain a broader understanding of the spectrum of tumors associated with germline p53 mutations to aid clinicians in identifying high-risk families.
+Patients and Methods Full sequencing of the coding exons (2 to 11) and associated splice junctions of the p53 gene was performed on 525 consecutive patients whose blood samples were submitted for diagnostic testing. Clinical features of p53 germline carriers in this cohort were characterized, clinical referral schemes based on reported p53-associated family phenotypes were evaluated, and practical mutation prevalence tables were generated.
+Results Mutations were identified in 91 (17%) of 525 patients submitted for testing. All families with a p53 mutation had at least one family member with a sarcoma, breast, brain, or adrenocortical carcinoma (ACC). Every individual with a choroid plexus tumor (eight of eight) and 14 of 21 individuals with a childhood ACC had a mutation regardless of family history. Based on reported personal and family history, 95% of patients (71 of 75) with a mutation met either classic Li Fraumeni syndrome (LFS) or Chompret criteria. A simplified prevalence table provides a concise summary of individual and family characteristics associated with p53 mutations.
+Conclusion This is, to our knowledge, the largest single report of diagnostic testing for germline p53 mutations, yielding practical mutation prevalence tables and suggesting clinical utility of classic LFS and Chompret criteria for identifying a subset of cancer-prone families with p53 germline mutations, with important implications for diagnosis and management.
+J Clin Oncol 27:1250-1256. © 2009 by American Society of Clinical Oncology
+
+INTRODUCTION
+Li Fraumeni syndrome (LFS; OMIM #151623) is an autosomal dominant highly penetrant cancer predisposition syndrome characterized by a variety of early onset tumors. The syndrome, described in 1969 by Li and Fraumeni based on a retrospective analysis of families with childhood rhabdomyosarcoma,1 was characterized by the presence of five cancers: sarcoma, adrenocortical carcinoma (ACC), breast cancer, leukemia, and brain tumors.2,3 LFS is associated with germline mutations in the p53 gene, which codes for a transcription factor implicated in cell proliferation, apoptosis, and genomic stability.4-6 The penetrance of p53-mediated cancer is high and is more pronounced in women than in men (lifetime risk, 93% and 68%, respectively), primarily
+
+due to female breast cancer.7 Females also have an earlier average age of onset (29 years of age in women v 40 years of age in men).8
+Several criteria have been developed to identify families at risk for a germline p53 mutation (Table 1). Classic LFS was based on 24 families.2 More inclusive clinical classification schemes were described by Birch9 and Eeles in 1995 to 1996, which characterized Li Fraumeni­like syndrome (LFL) as having "features of the Li Fraumeni syndrome" but that did not "fulfill the strict definition."9,10 The classic LFS, Birch, and Eeles criteria are generally used in clinical practice. More recently, Chompret at al11,12 developed alternative criteria for identifying patients with p53 germline mutations. The Chompret criteria are more restrictive on the cancer types and ages of onset for the proband, but allow for the possibility of a negative family history (Table 1).
+
+1250 © 2009 by American Society of Clinical Oncology
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 6, 2016 from Copyright © 2009 American So1c5ie5t.y52o.f2C0l8in.8ic5al Oncology. All rights reserved.
+
+Clinical Features and Germline p53 Mutation Prevalence
+
+Table 1. Description of the Established Clinical Classification Schemes for LFS
+
+Classification Scheme
+Classic LFS2 Chompret11,12
+Birch9
+Eeles10
+
+Description
+Proband diagnosed with sarcoma before 45 years of age, and A first-degree relative with cancer before 45 years of age, and Another first- or second-degree relative with any cancer diagnosed under 45 years of age or with sarcoma at any age Proband with sarcoma, brain tumor, breast cancer, or adrenocortical carcinoma before age 36 years, and at least one first- or second-
+degree relative with cancer (other than breast cancer if the proband has breast cancer) under the age of 46 years or a relative with multiple primaries at any age, or a proband with multiple primary tumors, two of which are sarcoma, brain tumor, breast cancer, and/or adrenocortical carcinoma, with the initial cancer occuring before the age of 36 years, regardless of the family history Or, a proband with adrenocortical carcinoma at any age of onset, regardless of the family history Among families that do not conform to classic LFS: Proband with any childhood cancer or sarcoma, brain tumor, or adrenocortical carcionoma diagnosed under 45 years of age, and A first- or second-degree relative with a typical LFS-related cancer (sarcoma, breast cancer, brain tumor, leukemia, or adrenocortical carcinoma) diagnosed at any age, and A first- or second-degree relative in the same genetic lineage with any cancer diagnosed under the age of 60 years Among families that do not conform to classic LFS: Two different tumors that are part of extended LFS in first- or second-degree relatives at any age (sarcoma, breast cancer, brain tumor, leukemia, adrenocortical tumor, melanoma, prostate cancer, and pancreatic cancer)
+
+Abbreviation: LFS, Li Fraumeni syndrome.
+
+Although p53 mutations have been characterized in single institution studies or research cohorts,3,13-18 the performance of the classification criteria or the prevalence of p53 mutations in a clinical testing cohort is unknown. Using family histories and genetic analysis of p53 from the largest cohort evaluated at a single reference laboratory (Clinical Molecular Diagnostic Laboratory [CMDL] at City of Hope Medical Center, Duarte, CA), we present a detailed analysis of the utility of existing clinical classification schemes and provide mutation prevalence tables to aid in the diagnosis of patients with germline p53 mutations.
+PATIENTS AND METHODS
+Genotyping p53 DNA from 525 patient samples, sent to the CMDL at City of Hope, was
+analyzed for p53 mutations extracted from peripheral blood samples and, in rare cases, from processed DNA. All coding exons (2 to 11) and junctions of the p53 gene were analyzed in both directions by direct DNA sequencing using an automated fluorescent sequencer.
+Interpretation of p53 Sequence Changes Truncating mutations were scored as deleterious while missense muta-
+tions were scored as deleterious based on previous reports in the International Agency for Research in Cancer germline and somatic databases,19 evolutionary conservation, and available functional data. CMDL uses the epidiomics approach to molecular diagnosis, in that all cases are interpreted in the context of molecular epidemiology and bioinformatics in order to guide the physician in the age of personalized predictive and preventive medicine.
+Clinical Data Personal and family cancer histories were collected from test request
+forms supplied with the biospecimens. The data collected included tumor type and age of onset for the patients and their family members. Information for affected family members included sex, tumor type, age of onset, number of primary cancers, and relationship to patient tested. Details of germline mutations were provided by the diagnostic laboratory.
+Classification of Patients Sent for p53 Testing In total, 341 of 525 patient samples (75 p53 positive and 266 p53 negative)
+were accompanied by sufficient family history (at least a three generation pedigree including types of cancer and ages of onset) to be classified according
+
+to the following classification schema: classic LFS, Birch, Eeles, and/or Chompret (Table 1). Standard classification criteria were used (International Agency for Research in Cancer; www-p53.iarc.fr), as in previous studies.4,9,14,15,19,20 As necessary to conform to the various schema, proband was designated as either the patient tested or a first- or second-degree relative (based on the type and age of the cancer).
+Data Analysis Sensitivity and specificity were estimated as the respective fractions of all
+classified p53-positive or p53-negative patients for each of the four classification schema: classic LFS, Chompret, Birch, and Eeles. An analysis of the cumulative yield of these schema was also derived in the same order without overlap. Because the data are consecutive referrals to a clinical laboratory, the empirical estimates of the prevalence of p53 mutations in clinical samples were regarded as estimates of the predictive value of the classification schema. The clinical prevalence of p53 mutations was also determined based on types of cancer and ages of onset in the patient and their family members. Fisher's exact tests and rank-sum tests were computed using StatXact (CYTEL Software Corp, Cambridge, MA).
+RESULTS
+Patient Characteristics Characteristics of patients tested are described in Table 2. Muta-
+tions were identified in 91 (17%) of 525 patients tested. The number of patients meeting a given classification scheme is indicated. Many patients met more than one classification scheme. The majority met Chompret and/or Eeles classification (57% and 60%, respectively); 13% of patients did not meet the criteria for any classification scheme. Breast cancer was the most common cancer among patients tested, accounting for 35% of all primary tumors while multiple primary cancers were also found in 35% of patients.
+Performance of Current Classification Schema Among the 341 classified patients, the p53 mutation detection
+rate for patients meeting classic LFS was 56%, with a sensitivity of 40% and a specificity of 91% (Table 3). The Chompret classification detection rate was 36%. The LFL classification (Birch and Eeles), which by definition excludes patients meeting classic LFS, showed detection
+
+www.jco.org
+
+© 2009 by American Society of Clinical Oncology 1251
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 6, 2016 from Copyright © 2009 American So1c5ie5t.y52o.f2C0l8in.8ic5al Oncology. All rights reserved.
+
+Gonzalez et al
+
+Table 2. Patients' Clinical Characteristics
+
+Patients Sent for p53 Germline Testing
+
+Characteristic
+
+No. %
+
+Patients with deleterious mutations No. of families clinically categorized
+Classic Li Fraumeni syndrome2 Chompret11,12 Birch9 Eeles10 Patient's family does not meet any
+clinical classification Average age of onset of first
+primary cancer Cancer type (all primary cancers)
+Breast cancer Sarcoma Brain Adrenocortical carcinoma Other Average number of primary
+cancers  1 primary tumor  2 primary tumors
+
+91/525
+54/341 195/341 101/341 205/341
+45/341
+29.7
+209/596 153/596
+37/596 21/596 176/596
+252/390§ 138/390§
+
+17
+16 57 30 60 13
+35 26
+6 4 30
+65 35
+
+Age of onset was provided for a total of 379 patients. Cancer type was known for a total of 380 patients; there was a total of 596 tumors in these 380 patients. Ten patients sent for testing had no primary cancers. §Total of 390 patients (380 with cancer and 10 without cancer).
+
+rates of 16% and 14%, respectively. Classic LFS and Chompret criteria together conferred a testing sensitivity of 95% and a specificity of 52%. When examining clinical classification based on a hierarchy, only one additional case was identified by each of the LFL criteria (Birch and Eeles).
+p53 Is Associated With a Wide Spectrum of Cancers Some cancer types not typically associated with LFS (eg, cancers
+of the ovary, pancreas, and prostate) were observed in patients with germline p53 mutations (Table 4). This wide spectrum of cancers was also observed among pediatric cancers (Appendix Table A1, online
+
+only). Of the four reported ovarian cancers, one was a germ cell cancer, one a teratoma, while the other two did not specify pathologic subtype. The four core cancers (breast cancer, sarcoma, brain cancer, ACC) accounted for 77% of all associated cancers. The median and average ages of onset of cancer varied with cancer type: ACC and choroid plexus carcinoma were among the earliest while melanoma and prostate cancer were among the latest ages of onset (data not shown).
+Four Core Cancers Help Define "p53-opathy" All p53-positive patients had at least one member of the family
+with sarcoma, brain tumor, breast cancer, or ACC. No p53 mutations (zero of 21) were detected in families where no members have a core cancer under the age of 50 (Table 5). Sarcoma, brain tumor, breast cancer, and ACC were therefore referred to as germline p53 core cancers.
+Choroid Plexus Tumor Is Strongly Associated With Germline p53 Mutations
+Eight patients with choroid plexus tumor (CPC) were referred for sequencing of the p53 gene. These patients all had a negative family history among ancestors and very young ages of onset. An additional individual with four primary cancers who had a grandson with CPC was sent for testing. Among these nine patients, clinical classification was determined only for seven as insufficient family history information was provided for two patients. Three of seven classified patients met the Chompret classification alone, two met both Chompret and Eeles classifications, one met Chompret and classic LFS, and one patient did not meet any classification. All nine patients (100%) had identifiable mutations. Two patients, both meeting only the Chompret classification, had de novo mutations as determined by of absence of the p53 mutation in both biologic parents (data not shown).
+ACC Is a Strong Indicator of a p53 Germline Mutation Of the 21 patients with ACC that were sent for p53 testing, 14 had
+a p53 mutation (67%). All patients with ACC at any age of onset, regardless of family history, meet the Chompret criteria (Table 1). Among the 14 positive patients, seven met Chompret alone; two also met classic LFS, and four also met Eeles. One patient could not be classified due to insufficient family history. None of the patients with ACC met Birch. Three of seven patients, diagnosed with ACC at ages
+
+Table 3. Likelihood of Detecting a Mutation Based on Current Clinical Classification Schemes
+
+Families Meeting Individual Criteria
+
+Cumulative (including all families meeting criteria in previous rows)
+
+With p53 Mutations
+
+With p53 Mutations
+
+Criteria
+Classic LFS2 Chompret11,12 Birch9 Eeles10 Families meeting no criteria
+
+No. of Families No. % No. of Families No. % Sensitivity (%) Specificity (%)
+
+54 195 101§ 205§
+45
+
+30 56 69 35 16 16 29 14
+24
+
+54 199 238 296 341
+
+30 56 71 36 72 30 73 25 75 22
+
+40 95 96 97 100
+
+91 52 38 16
+0
+
+Abbreviation: LFS, Li Fraumeni syndrome. Each category includes patients from the criteria within that row in addition to all patients from the criteria in the previous rows.
+Sensitivity: No. of positive patients meeting criteria/75 total positive patients ( 100). Specificity: 1  (No. of negative patients meeting criteria/266 total negative patients [ 100]). §Does not include families that meet classic LFS.
+
+1252 © 2009 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 6, 2016 from Copyright © 2009 American So1c5ie5t.y52o.f2C0l8in.8ic5al Oncology. All rights reserved.
+
+Clinical Features and Germline p53 Mutation Prevalence
+
+Table 4. Spectrum of Cancers in Patients With Germline p53 Mutations Submitted for Testing
+
+Cancer in Patients With p53 Mutations
+
+All Primary Tumors
+
+Female
+
+Male
+
+No. % No. of Cases Average Age (years) Age Range (years) No. of Cases Average Age (years) Age Range (years)
+
+Breast
+
+44 31.2
+
+Sarcoma
+
+38 27.0
+
+Adrenocortical carcinoma
+
+14 9.9
+
+Choroid plexus tumor
+
+8 5.7
+
+Brain (excluding choroid plexus) 5 3.5
+
+Colon
+
+4 2.8
+
+Leukemia
+
+4 2.8
+
+Lung
+
+4 2.8
+
+Skin (excluding melanoma)
+
+4 2.8
+
+Ovary
+
+4 2.8
+
+Breast (phyllodes)
+
+2 1.4
+
+Adrenal
+
+2 1.4
+
+Lymphoma
+
+2 1.4
+
+Thyroid
+
+2 1.4
+
+Bone
+
+1 0.7
+
+Melanoma
+
+1 0.7
+
+Pancreas
+
+1 0.7
+
+Prostate
+
+1 0.7
+
+Total
+
+141
+
+Total excluding sex-specific cancers§
+
+90
+
+44 25 11
+4 4 4 3 4 2 4 2 2 2 2 1 1 0
+115 65
+
+31.9 26.6 11.5
+1.9 19.8 38.5 36 46.8 41 32.3 18.5
+4.5 12 37.5 29 50
+27.5 24.5
+
+18-51 2-59
+0.5-38 0.3-3
+3-29 15-58 12-69 41-53 40-42 11-53 15-22
+3-6 10-14 37-38
+0.3-69 0.3-69
+
+0 13
+3 4 1 0 1 0 2
+0 0 0 0 0 0 1 1 26 25
+
+20.8 3
+15.3 14 17 39.5
+60 44 21.3 20.4
+
+0.8-46 2-3.5 3-40
+35-44
+0.8-60 0.8-60
+
+Other cancer types in family members under the age of 50 years. Include cancers of the liver, adrenal gland, cervix, esophagus, stomach, abdomen, bone, heart, schwannoma, testis, thymus, and uterus.
+One of the ovarian cancers is a germ cell tumor, one a teratoma; the other two are of unknown type. Total of 141 tumors in 82 patients tested (cancer type only known for 82 of 91 positive patients). §Sex-specific cancers: prostate, ovarian, and breast (male breast cancer has never been reported in Li Fraumeni syndrome).
+
+0.5, 1.33, and 2 years, were confirmed de novo mutation carriers as determined by the absence of the p53 mutation in both biologic parents (data not shown). Of patients with ACC younger than 18 years old, 80% had a p53 mutation (12 of 15), regardless of family history.
+
+Breast Cancer Prevalence Family history plays a major role in whether or not a breast
+cancer patient has a p53 mutation. A patient with invasive breast cancer between ages 30 and 49 years and a family history with no
+
+Table 5. Prevalence of p53 Mutations
+
+Cancer in First- and Second-Degree Relatives Younger Than 50 Years of Age
+
+No Core Cancer in Any Family Members
+
+Only One Family Member
+With at Least One Core Cancer; No
+Cancer in Any Other Relatives
+
+Only One Family Member With at Least One Core Cancer and One or More Family Members With a Non-Core Cancer
+
+Two or More Family Members
+With Core Cancers
+
+Patient Tested
+
+No. % No. % No. %
+
+No. %
+
+No core cancer at any age
+Only one core cancer, occurring at age  40 years
+Only one core cancer, occurring at age  18 and  40 years
+At least one childhood core cancer, occurring at age  18 years
+Two or more core cancers, both occurring at age  40 years
+Two or more core cancers, at least one occurring at age  40 years
+
+0/21 1/18 2/43
+
+0 1/8
+
+13 1/10
+
+6 0/12
+
+0 0/9
+
+5 1/15
+
+7 2/21
+
+10
+
+2/15
+
+13
+
+0
+
+5/24
+
+21
+
+10 16/28 57
+
+16/49 33 5/10 50 5/5 100 3/8 38
+
+0/7 0 0/3 0 2/3 67 0/2 0
+
+3/14 21 2/6
+
+33 1/2
+
+50 7/8 88
+
+Core cancers are adrenocortical carcinoma, breast cancer, brain cancer, and sarcoma. Patients with childhood cancers as well as adult cancers fall into this category.
+
+www.jco.org
+
+© 2009 by American Society of Clinical Oncology 1253
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 6, 2016 from Copyright © 2009 American So1c5ie5t.y52o.f2C0l8in.8ic5al Oncology. All rights reserved.
+
+Gonzalez et al
+
+core cancers had a 0% (zero of 15) chance of having a p53 mutation (Appendix Table A2, online only). In contrast, a patient with breast cancer under age 30 and family history of one or more core cancers in a first- or second-degree relative (one of the core cancers being something other than breast) had a 100% chance (five of five) of having a p53 mutation. Testing of the p53 gene was negative in two patients with bilateral breast cancer and no cancer in first- or second-degree relatives. However, patients with unilateral breast cancer younger than age 30 and no cancer in first- or second-degree relatives had a 7% chance (one of 14) of having a p53 mutation.
+p53 Mutations in Patients With Leukemia Among the 341 classified patients, 18 patients had leukemia.
+Only two of these 18 patients (11%) had a p53 mutation. However, these two patients also had other typical LFS cancers. One patient had breast cancer at age 25 and leukemia at age 27, while the second patient had sarcoma at ages 9 months and 15 years and leukemia at age 17.
+Mutation Prevalence Tables for p53 Mutation prevalence Tables were compiled based on the exten-
+sive clinical data obtained from patient family histories (Tables 5 and A2). The highest mutation frequency (100%) was among patients with childhood cancers with only one family member with at least one core cancer as well as one or more family member with a non-core cancer. Another high mutation prevalence (88%) was among patients with two or more core cancers, at least one at or under the age of 40 and two or more family members with core cancers.
+Germline p53 Mutations Cause Multiple Primary Cancers and Early Onset of Cancer
+Patients submitted for testing who did not have mutations generally had a less dramatic family phenotype. Fifty percent of p53positive patients had more than one primary cancer compared to 32% of p53-negative patients. Patients with two or more primary cancers were significantly more likely to have a mutation (P  .005). The average age of onset of the first cancer among patients with a p53 mutation was 21.9 years of age, versus an average of 31.6 years in patients without a p53 mutation. Among the 75 classified p53-positve patients, the median age of onset of the first cancer was 25 years, significantly younger (35 years, P  .005) than the 266 classified p53-negative patients. The range of onset in the p53-positive patients was 4 months to 49 years.
+Distribution of First Cancer Type and Age of Onset by Sex
+Excluding sex-specific cancers, there was no significant difference in the average age of onset of the first cancer in males versus females in patients with p53 mutations (Table 4). Likewise, excluding sex-specific cancers, the sex ratio of tumors overall was not significantly different. The data suggest that the excess of tumors in females derives overwhelmingly from their predisposition to breast cancer (online-only Appendix, Supplementary Results). Among specific tumor types, ACC was seen more commonly in females (3.7:1, females: males, respectively), a ratio that was significantly different from that found in the general population (approximately 1.4:1, females: males, P  .0375).21
+
+DISCUSSION
+Identifying families with p53 mutations is a daunting task given the wide variety of cancer types associated with LFS. This study is, to our knowledge, the largest reported cohort (525 families) analyzed to date and includes comprehensive personal and family history data on 75 of 91 p53-positive and 266 of 434 p53-negative families. Our data suggests that although classic LFS remains the indicator with the highest predictive value for mutation status, Chompret's classification dramatically improved sensitivity. This report provides mutation prevalence Tables as clinical tools to facilitate the identification of families with p53 germline mutations.
+Because all p53-positive families had at least one member of the family with sarcoma, brain tumor, breast cancer, or ACC younger than the age of 50, these four cancers were confirmed as core cancers. While previous studies indicated that these four cancers were strongly associated with LFS and p53 mutations,3 this study is the first to suggest that families without at least one member with a core cancer are highly unlikely to have a p53 mutation. One important caveat is the ascertainment bias inherent in the analysis of patients referred for genetic testing. Given the published classification schema, most patients sent for testing had a core cancer or at least one family member with a core cancer.
+Previous studies and reviews have reported that approximately 70% to 80% of families meeting classic LFS have p53 mutations.7,22-25 Herein, the detection rate for families meeting classic LFS was somewhat lower (56%). However, we found a higher than anticipated detection rate for the Chompret classification (35% v approximately 20% reported in Chompret et al11). Varley et al22 found that 40% (12 of 30) of patients meeting LFL classification had an identifiable p53 germline mutation. A review on p53 showed about an 8% mutation frequency for Eeles classification and 22% to 40% for Birch.7 In the initial description of the Birch classification, a p53 mutation was detected in 11% of patients.9 The same group indicated in a subsequent analysis that less than 25% of patients meeting the Birch classification had a p53 mutation.26 In the description of patients meeting Eeles classification, approximately 7% of patients had a mutation, based on analysis of 61 patients.10 Evans et al,27 citing their cumulative survey of LFL families to date, have suggested that the LFL classification has a much higher positive predictive value (up to 40% to 50%) than the Chompret criteria. In this study of a series of patients sent for p53 germline testing in a clinical diagnostic laboratory, the positive predictive value of the Chompret criteria (35%) was slightly higher than the combined positive predictive values of the Birch (16%) and Eeles (14%) classifications for LFL. In addition, the cumulative sensitivity of the Chompret plus classic LFS identified 95% of the p53-positive patients, missing only four additional p53-positive patients (one each meeting Birch and Eeles and two meeting no criteria). While the LFL classification, Birch, and Eeles, showed detection rates of 16% and 14%, when examining clinical classification based on a hierarchy, the utility of these classifications diminish as the detection rates drop to 3% and 2%, respectively. Generally, the Chompret classification performs better because it identifies probands with ACC or multiple primary tumors but no family history, which would have been excluded by the other classification schema.
+
+1254 © 2009 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 6, 2016 from Copyright © 2009 American So1c5ie5t.y52o.f2C0l8in.8ic5al Oncology. All rights reserved.
+
+Clinical Features and Germline p53 Mutation Prevalence
+
+Among the 75 individuals with p53 mutations, only two had leukemia (2.7%) and both had multiple primary cancers (one patient was first diagnosed with breast cancer; the other was first diagnosed with two primary sarcomas at 9 months and 15 years). Therefore, the leukemia diagnosis was not necessary to prompt p53 testing for these two patients. Leukemia was initially considered one of the main components of LFS based on an analysis of the first 24 kindreds identified with LFS. These included 52 primary cancers, four of which were leukemia (7.7%).3 The second primary cancer was not considered in the analysis which may introduce a bias given that, as the results herein show, approximately 50% of patients with p53 germline mutations have more than one primary cancer. The contribution of leukemia to LFS was questioned by Birch18 who noted the disease in just seven of 28 families in their cohort. It is unclear from the analysis whether these seven individuals had other primary cancers. Our data show that just 14 leukemias (8.4%) among 167 cancers are in family members of patients with p53 mutations. These data are consistent with the notion of a weak association, although different sampling designs would be necessary to estimate the risk of leukemia associated with p53 mutations.
+There is a strong link between individuals with CPC or ACC, especially those occurring in childhood, and germline p53 mutations. We recommend genetic testing of p53 if an individual meets one of the following criteria: a patient with a CPC or an ACC, or a family meeting classic LFS or Chompret criteria. If the Chompret criteria are modified to include any patient with CPC, regardless of family history, all but one of the positive patients in our series meet classic LFS or Chompret criteria (99%). Given the relatively high detection rate of p53 mutations in this study, p53 germline mutations may be more common than previously appreciated. We estimate that the frequency of p53 germline mutations may be as high as 1 in 20,000 (Appendix Table A3, online only).
+In summary, this study is the first large series of p53 testing for LFS reflective of clinical practice and not biased by specific selec-
+
+tion criteria. We did not select patients on the basis of family history or particular types of tumors. The range of patients submitted for testing varied widely. One limitation of this study is that the data for pathology of the patient's tumor and the family history data were provided by the clinician ordering the genetic testing and, therefore, were not confirmed by the study investigators. This study highlights the potential benefits of critical analysis of diagnostic laboratory testing outcomes, and the importance of adequate clinical information supplied by the healthcare provider. The p53 mutation prevalence tables should prove to be useful tools for clinicians considering the diagnosis of LFS.
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+The author(s) indicated no potential conflicts of interest.
+AUTHOR CONTRIBUTIONS
+Conception and design: Kelly D. Gonzalez, Katie A. Noltner, Carolyn H. Buzin, Steve S. Sommer Administrative support: Jeffrey N. Weitzel Provision of study materials or patients: Kelly D. Gonzalez, Carolyn H. Buzin, Steve S. Sommer, Jeffrey N. Weitzel Collection and assembly of data: Kelly D. Gonzalez, Katie A. Noltner, Carolyn H. Buzin, Vu Q. Nguyen, Steve S. Sommer Data analysis and interpretation: Kelly D. Gonzalez, Katie A. Noltner, Carolyn H. Buzin, Dongqing Gu, Cindy Y. Wen-Fong, Jennifer H. Han, Katrina Lowstuter, Jeffrey Longmate, Steve S. Sommer, Jeffrey N. Weitzel Manuscript writing: Kelly D. Gonzalez, Katie A. Noltner, Carolyn H. Buzin, Dongqing Gu, Katrina Lowstuter, Jeffrey Longmate, Steve S. Sommer, Jeffrey N. Weitzel Final approval of manuscript: Kelly D. Gonzalez, Katie A. Noltner, Carolyn H. Buzin, Dongqing Gu, Vu Q. Nguyen, Katrina Lowstuter, Steve S. Sommer, Jeffrey N. Weitzel
+
+REFERENCES
+1. Li FP, Fraumeni JF Jr: Soft-tissue sarcomas, breast cancer, and other neoplasms: A familial syndrome? Ann Intern Med 71:747-752, 1969
+2. Li FP, Fraumeni JF Jr, Mulvihill JJ, et al: A cancer family syndrome in twenty-four kindreds. Cancer Res 48:5358-5362, 1988
+3. Garber JE, Goldstein AM, Kantor AF, et al: Follow-up study of twenty-four families with LiFraumeni syndrome. Cancer Res 51:6094-6097, 1991
+4. Malkin D, Li FP, Strong LC, et al: Germline p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 250:1233-1238, 1990
+5. Bell DW, Varley JM, Szydlo TE, et al: Heterozygous germ line hCHK2 mutations in LiFraumeni syndrome. Science 286:2528-2531, 1999
+6. Morris SM: A role for p53 in the frequency and mechanism of mutation. Mutat Res 511:45-62, 2002
+7. Nagy R, Sweet K, Eng C: Highly penetrant hereditary cancer syndromes. Oncogene 23:64456470, 2004
+
+8. Hwang SJ, Lozano G, Amos CI, et al: Germline p53 mutations in a cohort with childhood sarcoma: Sex differences in cancer risk. Am J Hum Genet 72:975-983, 2003
+9. Birch JM, Hartley AL, Tricker KJ, et al: Prevalence and diversity of constitutional mutations in the p53 gene among 21 Li-Fraumeni families. Cancer Res 54:1298-1304, 1994
+10. Eeles RA: Germline mutations in the TP53 gene. Cancer Surv 25:101-124, 1995
+11. Chompret A, Abel A, Stoppa-Lyonnet D, et al: Sensitivity and predictive value of criteria for p53 germline mutation screening. J Med Genet 38:43-47, 2001
+12. Chompret A, Brugieres L, Ronsin M, et al: P53 germline mutations in childhood cancers and cancer risk for carrier individuals. Br J Cancer 82:19321937, 2000
+13. Garber JE, Burke EM, Lavally BL, et al: Choroid plexus tumors in the breast cancer-sarcoma syndrome. Cancer 66:2658-2660, 1990
+14. Sedlacek Z, Kodet R, Seemanova E, et al: Two Li-Fraumeni syndrome families with novel germline p53 mutations: Loss of the wild-type p53 allele in only 50% of tumours. Br J Cancer 77:1034-1039, 1998
+
+15. Krutilkova V, Trkova M, Fleitz J, et al: Identification of five new families strengthens the link between childhood choroid plexus carcinoma and germline TP53 mutations. Eur J Cancer 41:15971603, 2005
+16. Varley JM, McGown G, Thorncroft M, et al: Are there low-penetrance TP53 alleles? Evidence from childhood adrenocortical tumors. Am J Hum Genet 65:995-1006, 1999
+17. Wong P, Verselis SJ, Garber JE, et al: Prevalence of early onset colorectal cancer in 397 patients with classic Li-Fraumeni syndrome. Gastroenterology 130:73-79, 2006
+18. Birch JM, Alston RD, McNally RJ, et al: Relative frequency and morphology of cancers in carriers of germline TP53 mutations. Oncogene 20:46214628, 2001
+19. Petitjean A, Mathe E, Kato S, et al: Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: Lessons from recent developments in the IARC TP53 database. Hum Mutat 28:622-629, 2007
+20. Olivier M, Goldgar DE, Sodha N, et al: LiFraumeni and related syndromes: Correlation between tumor type, family structure, and TP53 genotype. Cancer Res 63:6643-6650, 2003
+
+www.jco.org
+
+© 2009 by American Society of Clinical Oncology 1255
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 6, 2016 from Copyright © 2009 American So1c5ie5t.y52o.f2C0l8in.8ic5al Oncology. All rights reserved.
+
+Gonzalez et al
+
+21. Wooten MD, King DK: Adrenal cortical carcinoma: Epidemiology and treatment with mitotane and a review of the literature. Cancer 72:3145-3155, 1993
+22. Varley JM: Germline TP53 mutations and LiFraumeni syndrome. Hum Mutat 21:313-320, 2003
+23. Libe R, Bertherat J: Molecular genetics of adrenocortical tumours, from familial to sporadic
+
+diseases. Eur J Endocrinol 153:477-487, 2005 24. Eng C, Hampel H, de la Chapelle A: Genetic
+testing for cancer predisposition. Annu Rev Med 52:371-400, 2001
+25. Strong LC: General keynote: Hereditary cancer: Lessons from Li-Fraumeni syndrome. Gynecol Oncol 88:S4-S7, 2003
+
+26. Varley JM, Evans DG, Birch JM: Li-Fraumeni syndrome: A molecular and clinical review. Br J Cancer 76:1-14, 1997
+27. Evans DG, Birch JM, Thorneycroft M, et al: Low rate of TP53 germline mutations in breast cancer/ sarcoma families not fulfilling classical criteria for LiFraumeni syndrome. J Med Genet 39:941-944, 2002
+
+
+Acknowledgment We thank Hernanie Dominguez and Wenyan Li for assistance in p53 sequencing and analysis, and Janelle Hilario for assistance with
+the manuscript.
+
+Glossary Terms
+
+Transcription factor: A DNA-binding protein that func-
+tions to initiate, enhance, inhibit, or reduce the transcription of a gene. They act by promoting the formation of the pre-initiation complex (PIC), which recruits and activates RNA polymerase.
+Penetrance: The likelihood that a given gene mutation will
+produce disease. This likelihood is calculated by examining the proportion of people with the particular genetic mutation that show symptoms of disease.
+Missense mutation: A change (mutation) in one nucleotide
+that results in the coding of a different amino acid.
+Germline mutation: An inherited variation in the lineage of
+germ cells. Germline mutations can be passed on to offspring.
+
+Truncating mutation: Any mutation which causes premature
+truncation of the normal protein product. Examples of mutations that can cause truncation are nonsense mutations and out-of-frame deletions, insertions, or indels.
+Apoptosis: Also called programmed cell death, it is a signaling
+pathway that leads to cellular suicide in an organized manner. Several factors and receptors are specific to the apoptotic pathway. The net result is that cells shrink, develop blebs on their surface, and their DNA undergoes fragmentation.
+Autosomal: Any chromosome not related to the sex chromo-
+somes (X or Y). The autosomes are chromosomes 1-22.
+Dominant: A dominant gene refers to the allele that causes a phe-
+notype that is seen in a heterozygous genotype.
+
+1256 © 2009 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at DANA FARBER CANCER INST on October 6, 2016 from Copyright © 2009 American So1c5ie5t.y52o.f2C0l8in.8ic5al Oncology. All rights reserved.
+
+

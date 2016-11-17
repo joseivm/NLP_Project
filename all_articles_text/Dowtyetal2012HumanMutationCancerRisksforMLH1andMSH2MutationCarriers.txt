@@ -1,0 +1,391 @@
+RESEARCH ARTICLE
+Cancer Risks for MLH1 and MSH2 Mutation Carriers
+
+OFFICIAL JOURNAL
+
+James G. Dowty,1  Aung K. Win,1 Daniel D. Buchanan,2 Noralane M. Lindor,3 Finlay A. Macrae,4
+
+www.hgvs.org
+
+Mark Clendenning,2 Yoland C. Antill,5 Stephen N. Thibodeau,6 Graham Casey,7 Steve Gallinger,8 Loic Le Marchand,9
+
+Polly A. Newcomb,10 Robert W. Haile,7 Graeme P. Young,11 Paul A. James,12 Graham G. Giles,13 Shanaka R. Gunawardena,6
+
+Barbara A. Leggett,14 Michael Gattas,15 Alex Boussioutas,12,16 Dennis J. Ahnen,17 John A. Baron,18 Susan Parry,19
+
+Jack Goldblatt,20 Joanne P. Young,2 John L. Hopper,1 and Mark A. Jenkins1
+
+1Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, The University of Melbourne, Parkville, Victoria, Australia; 2Familial Cancer Laboratory, Queensland Institute of Medical Research, Brisbane, Queensland, Australia; 3Department of Medical Genetics, Mayo Clinic, Rochester, Minnesota; 4Department of Colorectal Medicine and Genetics, The Royal Melbourne Hospital, Parkville, Victoria, Australia; 5Familial Cancer Centres, Cabrini Health and Southern Health, Victoria, Australia; 6Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, Minnesota; 7Department of Preventive Medicine, University of Southern California, Los Angeles, California; 8Mount Sinai Hospital, University of Toronto, Toronto, Ontario, Canada; 9University of Hawaii Cancer Research Center, Honolulu, Hawaii; 10Cancer Prevention Program, Fred Hutchinson Cancer Research Center, Seattle, Washington; 11Flinders University Centre for Cancer Prevention and Control, Bedford Park, South Australia, Australia; 12Familial Cancer Centre, Peter MacCallum Cancer Centre, Victoria, Australia; 13Cancer Epidemiology Centre, Cancer Council Victoria, Melbourne, Victoria, Australia; 14Conjoint Gastroenterology Laboratory, Royal Brisbane and Women's Hospital Research Foundation, Clinical Research Centre and Queensland Institute of Medical Research, Brisbane, Queensland, Australia; 15Queensland Clinical Genetics Service, Royal Children's Hospital, Herston, Queensland, Australia; 16Department of Medicine, Royal Melbourne Hospital, University of Melbourne, Parkville, Australia; 17Department of Medicine, University of Colorado School of Medicine and Denver VA Medical Center, Denver, Colorado; 18Department of Medicine, University of North Carolina, Chapel Hill, North Carolina; 19New Zealand Familial Gastrointestinal Cancer Registry, Auckland City Hospital, Auckland, New Zealand; 20Genetic Services and Familial Cancer Program of Western Australia, Perth, School of
+Paediatrics and Child Health, University of Western Australia, Australia
+
+Communicated by David E. Goldgar
+Received 7 August 2012; accepted revised manuscript 3 December 2012. Published online 10 December 2012 in Wiley Online Library (www.wiley.com/humanmutation). DOI: 10.1002/humu.22262
+
+ABSTRACT: We studied 17,576 members of 166 MLH1 and 224 MSH2 mutation-carrying families from the Colon Cancer Family Registry. Average cumulative risks of colorectal cancer (CRC), endometrial cancer (EC), and other cancers for carriers were estimated using modified segregation analysis conditioned on ascertainment criteria. Heterogeneity in risks was investigated using a polygenic risk modifier. Average CRC cumulative risks at the age of 70 years (95% confidence intervals) for MLH1 and MSH2 mutation carriers, respectively, were estimated to be 34% (25%­50%) and 47% (36%­60%) for male carriers and 36% (25%­51%) and 37% (27%­50%) for female carriers. Corresponding EC risks were 18% (9.1%­34%) and
+
+30% (18%­45%). A high level of CRC risk heterogeneity was observed (P < 0.001), with cumulative risks at the age of 70 years estimated to follow U-shaped distributions. For example, 17% of male MSH2 mutation carriers have estimated lifetime risks of 0%­10% and 18% have risks of 90%­100%. Therefore, average risks are similar for the two genes but there is so much individual variation about the average that large proportions of carriers have either very low or very high lifetime cancer risks. Our estimates of CRC and EC cumulative risks for MLH1 and MSH2 mutation carriers are the most precise currently available.
+Hum Mutat 34:490­497, 2013. C 2012 Wiley Periodicals, Inc.
+KEY WORDS: Lynch syndrome; MLH1; MSH2; risk; penetrance; cancer; colorectal cancer; endometrial cancer; segregation analysis; Colon CFR
+
+Additional Supporting Information may be found in the online version of this article. Correspondence to: James G. Dowty, Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, The University of Melbourne, Parkville, Victoria 3010, Australia; E-mail: jdowty@unimelb.edu.au Contract grant sponsors: National Cancer Institute, National Institutes of Health (RFA # CA-95--011); Australasian Colorectal Cancer Family Registry (U01 CA097735); Familial Colorectal Neoplasia Collaborative Group (U01 CA074799) [USC]; Mayo Clinic Cooperative Family Registry for Colon Cancer Studies (U01 CA074800); Ontario Registry for Studies of Familial Colorectal Cancer (U01 CA074783); Seattle Colorectal Cancer Family Registry (U01 CA074794); University of Hawaii Colorectal Cancer Family Registry (U01 CA074806); National Health and Medical Research Council, Australia (1023434, 400160); The Cancer Council of Victoria, Australia (454695).
+
+Introduction
+DNA mismatch repair (MMR) genes encode proteins that detect and repair DNA mismatches that can occur during cell replication [Aaltonen et al., 1994]. A person with a germline mutation in any of the MMR genes MSH2, MLH1, MSH6, or PMS2 (MIM #120436, #609309, #600678, and #600259) has an increased risk of colorectal carcinoma (CRC), endometrial carcinoma (EC), and cancers of the stomach, ovary, ureter, renal pelvis, brain, small bowel, hepatobiliary tract [Umar et al., 2004], and possibly the breast
+
+C 2012 WILEY PERIODICALS, INC.
+
+[Jensen et al., 2010; Lynch et al., 1988; Walsh et al., 2010; Win et al., 2012], prostate [Grindedal et al., 2009; Soravia et al., 2003], and pancreas [Kastrinos et al., 2009]. Carriers of deleterious MMR gene mutations who develop cancers with MMR deficiency are said to have Lynch syndrome (MIM #120435), formerly known as hereditary nonpolyposis colorectal cancer [Jass, 2006]. Lynch syndrome is the most common genetic CRC syndrome [Southey et al., 2005; Wagner et al., 2003; Wijnen et al., 1997] and 70%­85% of Lynch syndrome is caused by mutations in MLH1 or MSH2 [Barnetson et al., 2006; Hampel et al., 2005; Southey et al., 2005].
+Although it is known that carriers of germline mutations in MLH1 and MSH2 have high lifetime cumulative risks (penetrance) of CRC, EC, and other cancers, estimates of these risks are imprecise (see Supp. Tables S1 and S2). It is also not known whether the estimates derived from carriers identified from familial cancer clinics are applicable to carriers sampled without regard to their family histories of cancer. If heritable modifiers of risk exist then carriers with strong family histories of cancer would be expected to carry, on average, more familial disease-causing factors, and hence to have greater cancer risks. However, the amount of variability in cancer risks between carriers has not been previously estimated.
+Precise estimates of the average age-specific cumulative risks for MLH1 and MSH2 mutation carriers are needed for sound genetic counseling of carriers and their relatives, for choosing optimal surveillance strategies for known carriers and for the efficient identification of carriers based on their family histories of cancer using risk prediction models. The extent of variability in these risks is also of biological, epidemiological, and clinical interest. We therefore estimated cancer risks for MLH1 and MSH2 mutation carriers as well as the variability in these risks using one of the largest series of MMR gene mutation-carrying families in the world.
+Materials and Methods
+
+which family members were to be approached for recruitment. Written informed consent was obtained from all study participants and the study protocol was approved at each Colon CFR site.
+Standardized questionnaires were used to collect data on each participant and his or her first- and second-degree relatives, including their sexes, cancer sites and dates of birth, death (if applicable), onset of any cancer, and any prophylactic surgery to the colon, rectum, endometrium, or cervix. Validation was sought for all reported diagnoses of CRC and, at some centers, for all invasive cancers. In this article, hepatobiliary cancer means cancer of the liver, gall bladder, and biliary tract; urinary tract cancer means cancer of the bladder, ureter, renal pelvis, and kidney. Because of a lack of access to pathology reports, we could not differentiate cancers of the renal pelvis from other kidney cancers nor adenocarcinomas of the cervix from squamous cell carcinomas.
+For population-based families, subjects were restricted to probands and their first- and second-degree relatives. For clinicbased families, all available family members were included in the analysis. Five probands with de novo mutations [Win et al., 2011c] (two in MLH1 and three in MSH2) and their families could not be easily included in the segregation analyses so were excluded from all analyses. Families who were recruited through separate probands but found to contain members in common were combined, giving nine families which each had two probands, and these families were treated as clinic-based in the segregation analyses. All ages were truncated at the age of 80 years and subjects for whom sex was unknown were censored at birth. Affected subjects with missing ages at diagnosis (comprising 14% of CRC diagnoses, 8% of EC diagnoses, and 22% of noncolorectal, nonendometrial [NCNE] Lynch cancer diagnoses) were included in the analysis by marginalizing over the missing ages (see section Statistical Methods). Unaffected subjects with missing ages were censored at birth, effectively removing them from the analysis, as their affected statuses were considered to be unreliable.
+
+Subjects
+Subjects were from all families recruited between 1997 and 2010 by the Colon Cancer Family Registry (Colon CFR; see [Newcomb et al., 2007] for a detailed description) in which a deleterious mutation in MLH1 and MSH2 has been identified. All participants who donated blood samples or completed questionnaires gave written, informed, consent for their data and biospecimens to be used in approved Colon CFR projects. The present study has been approved by the Colon CFR Steering Committee (project number C-CP0606­03) and by the institutional human ethics committees of all participating centers.
+Families were recruited via probands who were either recently diagnosed CRC cases ascertained through population-complete cancer registries in the USA (Puget Sound, Washington State; the State of Minnesota; Los Angeles, California; Arizona; Colorado; New Hampshire; North Carolina; and Hawaii), Australia (Victoria), and Canada (Ontario) (population-based recruitment) or were persons from multiple-case families referred to family cancer clinics in Australia (Melbourne, Adelaide, Perth, Brisbane, and Sydney), New Zealand (Auckland), and the USA (Mayo Clinic, Rochester, Minnesota and Cleveland) (clinic-based recruitment). Probands were asked for permission to contact their relatives to seek their enrollment in the Colon CFR. For population-based families, first-degree relatives of probands were recruited at all centers and recruitment was extended to more distant relatives at some centers. For clinic-based families, there were prespecified rules, consistent across centers, governing
+
+Mutation Detection
+Standardized protocols were used to obtain and prepare biospecimens and to conduct all laboratory analyses. Sequence variants in MLH1 and MSH2 were termed "mutations" if they encoded stop codons, large duplications or deletions, frameshift mutations, or one of the missense mutations previously reported in the scientific literature as being pathogenic. Screening for germline mutations in MLH1 and MSH2 (and, at some centers, in MSH6 and PMS2) was performed for all clinic-based probands and for those populationbased probands whose colorectal tumors displayed impaired MMR function, as evidenced by either microsatellite instability or the absence of MMR protein expression in immunohistochemical assays. Mutation testing was performed by Sanger sequencing or denaturing high-pressure liquid chromatography, followed by confirmatory DNA sequencing [Newcomb et al., 2007; Southey et al., 2005]. Large duplications and deletions in MMR genes were detected by multiplex ligation-dependent probe amplification according to the manufacturer's instructions (MRC Holland, Amsterdam, The Netherlands). Each participant who donated a blood sample and was related to a mutation-carrying proband underwent genetic testing for the proband's mutation.
+Statistical Methods
+Mean ages at diagnosis and the corresponding sample standard deviations were calculated for various cancer sites using R version
+
+HUMAN MUTATION, Vol. 34, No. 3, 490­497, 2013
+
+491
+
+2.11.1 [R Development Core Team, 2010]. Probands and cases with missing or imputed ages at diagnosis were excluded from this descriptive analysis.
+Age-specific hazard ratios (HRs), that is, the age-specific cancer incidence for carriers divided by that for the population, were estimated using modified segregation analysis [Antoniou et al., 2001; Lange, 2002] (as described in detail in Supp. Statistical Methods). This analytical method is not subject to population stratification, can be rigorously adjusted for many methods of ascertainment, and uses data on all study participants, whether genotyped or not, thereby maximizing statistical power. Models were fitted by the method of maximum likelihood using MENDEL [Lange et al., 1988] version 3.2 and were appropriately adjusted for the clinic- and population-based ascertainment of study participants using a combination of retrospective likelihood and ascertainment-corrected joint likelihood [Antoniou et al., 2001; Gong et al., 2010; Kraft and Thomas, 2000]. More specifically, a conditional likelihood was maximized where each pedigree's data was conditioned on the proband's genotype, cancer status, and age of onset (for population-based families) or on the proband's genotype and the affected statuses and ages of onset of all family members at the time the proband was found to be a MMR gene mutation carrier (for clinic-based families). HRs and measures of risk heterogeneity were estimated and the corresponding cumulative risks, risk distributions, and 10-year risks were then derived from these estimates (see Supp. Statistical Methods). Individuals were censored at the earliest of death, last known age alive, prophylactic surgery (polypectomy, bowel surgery, or hysterectomy), or the first diagnosis of cancer (as applicable), so the resulting estimates describe risks of first primary cancers for people who have not undergone prophylactic surgery, regardless of whether or not they are undergoing surveillance. Censoring for surgery was site-specific, for example, individuals were still considered to be at risk of CRC following hysterectomy.
+Two different genetic models were used in the modified segregation analyses: a major gene model, in which only genotypes at the relevant MMR gene for each family were modeled, and a mixed model, which incorporated an unmeasured polygene in addition to the major gene [Antoniou et al., 2001; Cannings et al., 1978]. All estimates presented in this article for cumulative risks, 10-year risks, estimates of risk heterogeneity, and HRs for CRC and EC were based on the mixed model. HR estimates for separate NCNE Lynch cancers and non-Lynch syndrome associated cancers were based on the major gene model, as were hypothesis tests for the dependence of cancer risks on sex, gene, country, setting (clinic versus population), mutation category, proband's age at onset, and modeling assumptions. The use of different genetic models for different purposes was necessary because simulation has shown that major gene models are likely to give biased estimates of risk [Gong et al., 2010] but analyses using the mixed model were prohibitively slow to run so could not be used to individually estimate a large number of parameters or to test a large number of hypotheses. Therefore, a major gene model was used for model-building, whereas the final estimates of risk were based on a mixed model.
+HRs for CRC, EC, and NCNE Lynch cancers were estimated simultaneously to allow proper adjustment for CRC-based ascertainment schemes when estimating the risks of non-CRC cancers and to increase power (by helping the model identify likely carriers from the placement of Lynch syndrome-associated cancers within each family). For each site, the age at cancer diagnosis was modeled as a random variable whose hazard was the relevant population incidence multiplied by a site-specific HR. Except when testing for differences in risk by country, HRs were assumed to be independent of country of residence, as would be expected if different population
+
+incidences only occur because of variation in the prevalence of risk factors between countries and if these risk factors and MMR gene mutations all act multiplicatively on the HR. The ages at diagnosis of different family members were assumed to be conditionally independent given genotype, however residual correlation of cancer within families was incorporated in most analyses by including an unmeasured polygene (in addition to the major gene) in the definition of genotype (see Supp. Statistical Methods). As in Ref. Quehenberger et al. (2005), the ages at diagnosis for different cancer sites within the same individual were assumed to be conditionally independent, given genotype, until diagnosis of the first cancer. Missing ages at diagnosis were treated using the standard method for missing data in likelihood-based estimation, namely marginalization (integration) over all missing values before maximizing the likelihood function [Little and Rubin, 2002].
+Results
+Our analyses were based on 17,576 people from 166 families segregating MLH1 mutations and 224 families segregating MSH2 mutations. Forty-eight (29%) of the MLH1 and 64 (29%) of the MSH2 mutation-carrying families were population based. Of all families, 253 (65%) carried a protein-truncating mutation, whereas 137 (35%) carried another type of pathogenic mutation. There were 160 (41%) families from Australasia (Australia and New Zealand combined), 104 (27%) from Canada, and 126 (32%) from USA.
+Mutation-specific testing of those relatives of the probands who had provided blood samples identified an additional 768 carriers and 1128 noncarriers. The number and average ages at diagnosis of the first primary cancers of all cases, other than those of probands and cases with unknown ages at diagnosis, are listed in Table 1. There were almost twice as many extraintestinal Lynch cancers (i.e., Lynch cancers other than those of the colon, rectum, or stomach) in MSH2 mutation-carrying families than in MLH1 mutation-carrying families.
+The estimated average HRs for various cancers are given in Table 2.
+Gene and Sex
+The estimated age-dependent CRC HRs for MSH2 mutation carriers were similar to those for MLH1, with any differences consistent with chance (P = 0.5 for females and P = 0.9 for males). Similarly, no statistically significant difference in EC risks between MLH1 and MSH2 mutation carriers was observed (P = 0.3), although the point estimates for MSH2 were higher (see Table 2). CRC HRs for male MLH1 mutation carriers were higher than those for female carriers (P = 0.01) but no such difference by sex was detected for MSH2 mutation carriers (P = 0.8).
+Mutation Type and Proband's Age at Diagnosis
+Female MLH1 mutation carriers with protein-truncating mutations were estimated to have CRC incidences 0.40 (95% confidence interval [CI] 0.16­0.98; P = 0.03) times those for female MLH1 mutation carriers with other types of mutations. No other differences in risk between families according to the type of mutation were observed for the other five combinations of sex, gene, and site (CRC, EC), raising the possibility that this marginally significant result is spurious.
+For female MLH1 mutation carriers, the estimated CRC incidence varied between families according to the age of diagnosis of the family's proband (a proxy for heritable risk modifiers), being lower
+
+492
+
+HUMAN MUTATION, Vol. 34, No. 3, 490­497, 2013
+
+Table 1. The Number and Average Ages at Diagnosis of First Table 2. Estimated Average Hazard Ratios for First Cancers at
+
+Cancers by Sex, Site, and Gene of the Family's Mutation
+
+Various Sites for MLH1 and MSH2 Mutation Carriersa
+
+MLH1
+
+MSH2
+
+Mean age of
+
+Mean age of
+
+diagnosis
+
+diagnosis
+
+(standard
+
+(standard
+
+Site Sex Number deviation) Number deviation)
+
+Colon or rectum
+Endometrium Brain
+Hepatobiliary systema
+Ovary Small intestine
+Stomach
+Urinary tractb
+Breast
+Cervix Lung
+Pancreas
+Prostate All sites
+
+F M F F M F M F F M F M F M F M F F M F M M M&F
+
+249 345 90 3 3 9 7 26 2 6 18 22 8 10 53 0 20 17 18 4 8 45 963
+
+49.6 (15.9) 269 47.5 (15.1)
+
+44.6 (13.3) 385 47.3 (13.0)
+
+48.1 (11.1)
+
+131
+
+46.8 (8.9)
+
+18.7 (10.0) 15 48.5 (22.6)
+
+8.3 (10.2)
+
+25 36.0 (23.1)
+
+59.3 (14.9) 7 54.6 (19.7)
+
+60.1 (14.8) 13 53.2 (12.3)
+
+48.2 (13.1) 46 48.6 (12.6)
+
+60.0 (9.9)
+
+2 66.5 (10.6)
+
+50.2 (15.4) 5 50.6 (11.5)
+
+57.1 (20.8) 25 53.9 (17.9)
+
+47.5 (14.0) 28 53.0 (12.6)
+
+56.8 (10.8) 17 58.4 (12.7)
+
+45.5 (18.2) 21 56.3 (11.4)
+
+55.4 (13.8) 102 55.4 (14.5)
+
+- 1 78
+
+38.7 (13.7) 42 40.9 (12.0)
+
+63.9 (10.5) 16 62.3 (12.1)
+
+60.4 (12.6) 46 62.2 (11.4)
+
+49.2 (13.8) 12 59.4 (19.1)
+
+61.4 (16.5) 22 56.9 (13.7)
+
+69.6 (10.4) 60 68.6 (11.5)
+
+49.3 (15.6) 1290 50.2 (15.0)
+
+aHepatobiliary system means the liver, gall bladder, and biliary tract. bUrinary tract means the bladder, ureter, renal pelvis, and (due to the limitations of the
+data) kidney other than renal pelvis. This table includes all cases other than probands and cases with unknown ages at
+diagnosis.
+Abbreviations: F, female; M, male; hyphen (-), not estimable.
+
+by a factor of 0.94 (95% CI 0.90­0.98; P < 0.001) for every year of increase in the proband's age at diagnosis. No differences in risk by proband's age were observed for any other combinations of sex, gene, and site.
+
+Hazard ratios, with 95% CIs in parentheses, for carriers of mutations in
+
+MLH1
+
+MSH2
+
+Male carriers CRC at the age of 40 years and younger CRC at the age of 50 years CRC at the age of 60 years and older Brain Hepatobiliary systemb Small intestine Stomach Urinary tractc Lung Prostate Pancreas
+Female carriers CRC at the age of 40 years and younger CRC at the age of 50 years CRC at the age of 60 years and older EC at the age of 40 years and younger EC at the age of 50 years EC at the age of 60 years and older Brain Hepatobiliary systemb Ovary Small intestine Stomach Urinary tractc Breast Cervix Lung Pancreas
+
+183 (102­328) 84.3 (30.9­230) 7.8 (1.5­41.5)
+3.1 (0.14­67.0) 42.5 (10.5­172) 36.0 (18.1­71.8) 1.1 (0.13­9.9) 0.25 (0.01­4.4) 0.79 (0.25­2.5) 2.5 (0.07­85.2)
+45.4 (19.4­106) 74.1 (29.3­187) 37.0 (12.7­108) 43.6 (14.9­128) 11.3 (2.4­52.6) 11.3 (2.4­52.6)d
+14.5 (6.6­31.8) 4.1 (0.18­92.3) 27.7 (9.4­81.4) 5.9 (1.3­27.2) 1.1 (0.47­2.6) 5.5 (1.7­17.7) 5.9 (1.0­34.0)
+
+139 (82.3­236) 134 (66.1­274) 34.6 (11.7­103) 15.7 (7.5­33.1) 9.9 (3.7­26.2) 12.3 (1.3­114) 3.6 (0.64­20.5) 7.9 (3.1­19.8) 0.39 (0.06­2.7) 1.0 (0.47­2.3) 18.1 (8.4­39.0)
+120 (64.3­223) 152 (67.5­344) 18.3 (5.6­59.6) 66.6 (30.2­146) 70.0 (21.7­226) 11.8 (2.0­69.5) 11.1 (3.6­34.8)
+10.5 (4.5­24.5)
+34.9 (14.8­82.4) 21.1 (8.5­52.1) 1.5 (0.71­3.3) 9.7 (3.8­24.8)
+4.7 (1.1­19.6)
+
+aFor example, the incidence of CRC for male MLH1 mutation carriers was estimated
+to be 183 times the population incidence at ages 40 years and younger. bHepatobiliary system means the liver, gall bladder, and biliary tract cUrinary tract means the bladder, ureter, renal pelvis, and (due to the limitations of the
+data) kidney other than renal pelvis. dThis HR was not separately estimable so it was constrained to equal the corresponding
+HR at the age of 50 years.
+Abbreviations: CRC, colorectal cancer; EC, endometrial cancer; CI, confidence interval;
+hyphen (-), not estimable due to the low numbers of cancers.
+
+Setting and Country
+
+No differences were observed between clinic- and populationbased families for either CRC or EC risks except that female MLH1 mutation carriers were estimated to have incidences of CRC, which are 2.2 times (95% CI: 1.2­4.0; P = 0.03) higher in the clinic-based setting.
+No differences between countries were observed for CRC or EC risks except for the CRC risks of female carriers. Female carriers from Canada and USA, respectively, were estimated to have CRC incidences equal to those of carriers from Australasia multiplied by factors (95% CI) of 0.44 (0.22­0.87) and 0.31 (0.14­0.71) for MLH1 (P = 0.01) and 2.2 (0.81­5.8) and 0.85 (0.28­2.6) for MSH2 (P = 0.02).
+Cancer Sites not Currently Included in the Lynch Syndrome Tumor Spectrum
+There was no evidence that male carriers had higher than population levels of cancer risks at any of the non-Lynch syndromeassociated cancer sites considered (listed in Table 2) except that male MSH2 mutation carriers had incidences of pancreatic cancer estimated to be 18.1 times (95% CI: 8.4­39.0; P < 0.001) the population rates. For female MLH1 and MSH2 mutation carriers,
+
+cervical cancer incidences were estimated to be 5.5 (95% CI: 1.7­ 17.7; P = 0.01) and 9.7 (95% CI: 3.8­24.8; P < 0.001) times the population incidences, respectively. No increased risks were observed for MLH1 and MSH2 mutation carriers at any other sites, notably not for breast cancer (P = 0.8 and 0.3, respectively) or prostate cancer (P = 0.7 and 0.9, respectively). The CIs for the HR estimates give likely upper bounds for the true breast and prostate HRs (respectively) of 2.6 and 2.5 for MLH1, and 3.3 and 2.3 for MSH2.
+Risk Heterogeneity
+There was strong evidence for large heterogeneity in the CRC and EC risks about the average risks (P < 0.001), with the standard deviation of the polygenic component of risk estimated to be 1.6 (95% CI: 1.1­2.1) for CRC and 1.2 (95% CI: 0.1­2.2) for EC. Figure 1 illustrates the predicted U-shaped distribution of lifetime risks of CRC. The standard deviation of the polygenic component of CRC risk was also estimated separately for population- and clinic-based families and found to be 1.5 (95% CI: 1.2­1.8) and 2.0 (95% CI: 1.4­2.7) respectively, consistent with no difference between the two settings (P = 0.1).
+
+HUMAN MUTATION, Vol. 34, No. 3, 490­497, 2013
+
+493
+
+Figure 1. The estimated distribution of colorectal cancer (CRC) cu-
+mulative risk at the age of 70 years for each combination of gene and sex. For example, from the leftmost black bar, 17% of male MSH2 mutation carriers are estimated to have a less than 10% chance of developing CRC by age 70 years.
+
+Cumulative Risks and 10-Year Risks
+The estimated average age-specific cumulative risks of CRC, EC, and other cancers for carriers from USA are given in Table 3 and illustrated in Figure 2. It is estimated that 34% (95% CI: 25­50) and 47% (95% CI: 36­60) of male MLH1 and MSH2 mutation carriers (respectively) will be diagnosed with CRC by the age of 70 years. Of all female MLH1 and MSH2 mutation carriers, an estimated 36% (95% CI: 25­51) and 37% (95% CI: 27­50), respectively, will be diagnosed with CRC by the age of 70 years, whereas 18% (95% CI: 9.1­34) and 30% (95% CI: 18­45), respectively, will develop EC. Ten-year risks of cancer for unaffected carriers from USA at various ages are given in Table 4. Corresponding results for carriers from Australasia and Canada are given in Supp. Tables S3­S6 and Figure 2.
+
+Discussion
+
+Our estimates of the average risks of CRC at the age of 70 years are broadly consistent with the estimates of previous studies that have correctly adjusted for ascertainment (see Supp. Table S1). We observed no differences between the CRC HRs for MLH1 and MSH2 mutation carriers, though male carriers had higher CRC HRs than female carriers for MLH1 but not MSH2 (see Table 2). Evidence that CRC and EC risks vary with setting (clinic versus population) was weak or absent, consistent with no difference, perhaps because family cancer clinics tend to genetically test families with histories of cancer which are less severe now than they were in the past. The estimated 10-year risks of CRC for unaffected carriers at various ages were roughly constant from the fifth decade of life onward (see Table 4), suggesting that aggressive surveillance is as important for older mutation carriers as it is for younger ones.
+Despite our study participants being drawn from countries with low population incidences of stomach cancer, we found relatively
+
+Figure 2. Colorectal cancer cumulative risks for males (A) and fe-
+males (B) and endometrial cancer cumulative risks for females (C). Cumulative risks are for MLH1 mutation carriers (unbroken lines), MSH2 mutation carriers (dashed lines) and the general population (dotted lines) living in Australia and New Zealand (light grey), Canada (dark grey), and USA (black).
+
+494
+
+HUMAN MUTATION, Vol. 34, No. 3, 490­497, 2013
+
+Table 3. Estimated Average Cumulative Risks (%) to Various Ages for MLH1 and MSH2 Mutation Carriers Living in the USAa
+
+Average cumulative risks (%), with 95% CIs in parentheses, for cancers of the
+
+Sex
+
+Gene
+
+Age (years)
+
+Colon and rectum (combined)
+
+Endometrium
+
+Ovary
+
+Stomach
+
+Urinary tractb
+
+Males
+
+MLH1
+
+MSH2
+
+Females
+
+MLH1
+
+MSH2
+
+30 40 50 60 70 80 30 40 50 60 70 80 30 40 50 60 70 80 30 40 50 60 70 80
+
+2.8 (1.6­4.7) 11 (6.6­17) 23 (16­33) 31 (22­44) 34 (25­50) 39 (28­58) 2.2 (1.3­3.6) 8.9 (5.6­14) 23 (17­32) 37 (28­49) 47 (36­60) 57 (44­72) 0.7 (0.3­1.6) 3.2 (1.4­6.8) 12 (7.1­21) 24 (16­37) 36 (25­51) 48 (34­65) 1.8 (1.0­3.3) 7.3 (4.3­12) 21 (15­30) 32 (23­44) 37 (27­50) 44 (32­60)
+
+0.5 (0.2­1.4) 2.8 (1.0­7.9) 6.9 (3.5­16) 12 (6.3­23) 18 (9.1­34) 23 (11­43) 0.8 (0.3­1.7) 4.2 (2.0­8.6) 15 (8.7­24) 26 (15­39) 30 (18­45) 34 (20­52)
+
+0.6 (0.3­1.2) 1.2 (0.6­2.7) 3.3 (1.5­7.0) 7.2 (3.4­15) 13 (6.1­26) 20 (9.5­38) 0.4 (0.2­0.9) 0.9 (0.4­2.1) 2.4 (1.0­5.4) 5.3 (2.3­12) 9.5 (4.2­21) 15 (6.5­31)
+
+aSee Supp. Tables S3 and S4 for cumulative risks for carriers living in Australia and Canada. bUrinary tract means the bladder, ureter, renal pelvis, and (due to the limitations of the data) kidney other than renal pelvis.
+Abbreviations: CI, confidence interval; hyphen (-), not applicable.
+
+0.2 (0.08­0.3) 0.7 (0.4­1.5) 2.7 (1.3­5.2) 8.0 (4.1­15) 20 (10­35) 37 (21­60) 0.02 (0.003­0.09) 0.08 (0.01­0.4) 0.3 (0.05­1.5) 0.8 (0.1­4.6) 2.2 (0.4­12) 4.6 (0.8­23) 0.1 (0.04­0.4) 0.5 (0.2­1.4) 1.3 (0.4­3.8) 3.1 (1.1­9.0) 7.5 (2.6­20) 15 (5.5­39) 0.2 (0.07­0.4) 0.6 (0.3­1.4) 1.6 (0.7­3.8) 3.9 (1.7­9.1) 9.3 (4.1­21) 19 (8.5­39)
+
+0.009 (0.001­0.08) 0.04 (0.005­0.4) 0.2 (0.02­1.5) 0.5 (0.06­4.5)
+1.2 (0.1­9.8) 2.0 (0.2­16) 0.06 (0.03­0.2) 0.3 (0.1­0.7) 1.2 (0.5­3.0) 3.6 (1.4­8.8) 7.8 (3.2­19) 13 (5.5­30) 0.04 (0.009­0.2) 0.2 (0.04­0.7) 0.5 (0.1­2.4) 1.4 (0.3­6.1) 2.9 (0.7­13) 5.0 (1.1­21) 0.1 (0.06­0.3) 0.6 (0.2­1.4) 1.8 (0.7­4.5) 4.8 (2.0­11) 10 (4.2­23) 17 (7.1­36)
+
+Table 4. Estimated Average 10-year Risks (%) at Various Ages for MLH1 and MSH2 Mutation Carriers Living in USAa,b
+
+Average 10-year risks (%), with 95% CIs in parentheses, for cancers of the
+
+Sex
+
+Gene
+
+Age (years)
+
+Colon and rectum (combined)
+
+Endometrium
+
+Ovary
+
+Stomach
+
+Urinary tractc
+
+Males
+
+MLH1
+
+MSH2
+
+Females
+
+MLH1
+
+MSH2
+
+30 40 50 60 70 30 40 50 60 70 30 40 50 60 70 30 40 50 60 70
+
+8.4 (5.1­13) 14 (9.2­21) 10 (5.8­19) 4.7 (1.0­16) 7.2 (1.8­21) 6.8 (4.3­11) 16 (11­23) 18 (13­26) 15 (7.7­26) 19 (11­30) 2.5 (1.1­5.2) 9.2 (5.3­17) 14 (8.3­22) 16 (7.7­27) 19 (11­30) 5.6 (3.2­9.3) 15 (10­23) 14 (8.8­21) 7.1 (2.7­16) 11 (4.5­21)
+
+2.3 (0.8­6.4) 4.1 (2.3­9.1) 5.3 (1.3­14) 7.1 (1.9­16) 6.6 (2.0­14) 3.5 (1.6­6.9) 11 (6.3­18) 13 (5.9­22) 5.8 (1.4­16) 5.6 (1.4­14)
+
+0.7 (0.3­1.5) 2.0 (0.9­4.4) 4.1 (1.9­8.8) 6.1 (2.8­13) 7.6 (3.5­16) 0.5 (0.2­1.2) 1.5 (0.6­3.4) 3.0 (1.3­6.8) 4.5 (1.9­10) 5.6 (2.4­13)
+
+0.6 (0.3­1.2) 1.9 (1.0­3.8) 5.5 (2.7­11) 13 (6.6­24) 22 (11­39) 0.06 (0.01­0.3) 0.2 (0.04­1.1) 0.6 (0.1­3.1) 1.4 (0.3­7.3) 2.4 (0.5­13) 0.3 (0.1­1.0) 0.8 (0.3­2.5) 1.9 (0.6­5.5) 4.5 (1.5­13) 8.4 (2.8­23) 0.4 (0.2­1.0) 1.0 (0.4­2.5) 2.4 (1.0­5.5) 5.6 (2.4­13) 10 (4.6­23)
+
+0.03 (0.004­0.3) 0.1 (0.02­1.2) 0.4 (0.04­3.1) 0.7 (0.07­5.6) 0.9 (0.1­7.4) 0.2 (0.09­0.6) 0.9 (0.4­2.2) 2.4 (1.0­5.8) 4.4 (1.8­10) 5.8 (2.4­14) 0.1 (0.03­0.5) 0.4 (0.08­1.5) 0.8 (0.2­3.5) 1.6 (0.4­6.6) 2.2 (0.5­8.7) 0.4 (0.2­1.1) 1.3 (0.5­3.1) 3.0 (1.2­7.2) 5.6 (2.3­13) 7.4 (3.0­17)
+
+aFor example, male MSH2 mutation carriers who are unaffected at the age of 70 years are estimated to have a 19% (95% CI: 11­30) chance of developing CRC before the age of
+80 years. bSee Supp. Tables S5 and S6 for 10-year risks for carriers living in Australia and Canada. cUrinary tract means the bladder, ureter, renal pelvis, and (due to the limitations of the data) kidney other than renal pelvis.
+Abbreviations: CI, confidence interval; hyphen (-), not applicable.
+
+high risks of stomach cancer in MLH1 and, to a lesser extent, MSH2 mutation carriers. Imprecision in these estimates warrants caution but they highlight potential benefits of gastroscopy screening, as suggested by [Capelle et al., 2010]. Differences in the estimated stomach cancer risks between male MLH1 and MSH2 mutation carriers could be due to the differences in the true risks, imprecision in the HR estimates, younger ages at onset for MLH1 mutation carriers,
+
+a higher proportion of MLH1 mutation carriers among the stomach cancer cases than MSH2 mutation carriers or a combination of these.
+We assessed risks at cancer sites not currently part of the Lynch syndrome tumor spectrum and found strong evidence for higher incidences of pancreatic cancer, in agreement with a previous study [Kastrinos et al., 2009], but no evidence for higher incidences of
+
+HUMAN MUTATION, Vol. 34, No. 3, 490­497, 2013
+
+495
+
+breast or prostate cancer (all P > 0.3), although we cannot rule out twofold or threefold increased risks, consistent with [Win et al., 2012] (though this study partly overlaps with the present one). Despite these null results, a number of studies have shown that breast and prostate cancers in carrier families often show signs of MMR deficiency [Grindedal et al., 2009; Jensen et al., 2010; Lynch et al., 1988; Soravia et al., 2003; Walsh et al., 2010], suggesting some increase in risk and a possible role for molecular characteristics of these tumors in predicting carrier status. We also found a higher risk for cervical cancer, although this could be due to the misclassification of adenocarcinomas of the lower uterine segment.
+Using a polygenic model of risk heterogeneity, we found very strong evidence that CRC and EC risks are highly heterogeneous, as has been observed anecdotally by a leading clinician [Henry Lynch, personal communication]. Our estimates of the size of this risk heterogeneity imply that a substantial proportion of mutation carriers are at population-level risk, whereas a significant minority is almost certain to develop CRC. The U-shapes of the histograms of Figure 1 are not likely to be caused by the mixture of countries, settings (clinic versus population), or mutation types (protein-truncating versus all other types) of our study participants because direct tests for differences in CRC risks by these characteristics found weak or no effects, whereas the estimated risk heterogeneity was quite large. Similarly, the risk heterogeneity is not likely to be caused by differences in screening practices between families because the effect of this must be weaker than that of polypectomy which roughly halves the risk [Jarvinen et al., 2000]. The estimated standard deviation for the polygenic component of CRC risk was 1.6, which corresponds to a relative risk of 3.6 associated with having an affected first-degree relative with early-onset disease [Pharoah et al., 2002]. The cause of this risk heterogeneity is unknown but its size is consistent with the existence of approximately 100 modifier SNPs, each with an HR of 1.05 and a minor allele frequency of 50%, acting independently and multiplicatively to alter the CRC risks for carriers. However, it could also be caused by environmental factors that are correlated within families or by mutation-specific penetrances. To date, only a few genetic variants and environmental risk factors have been found to modify the cancer risks of MMR gene mutation carriers [Botma et al., 2010; Campbell et al., 2007; Diergaarde et al., 2007; Felix et al., 2006; Frazier et al., 2001; Kruger et al., 2007; Pande et al., 2008; Pande et al., 2010; Reeves et al., 2008; Talseth-Palmer et al., 2011; Wijnen et al., 2009; Win et al., 2011a; Win et al., 2011b] and these reports have not been replicated by large studies. Large genome-wide association studies of mutation carriers, similar to those carried out for BRCA1 and BRCA2 by the CIMBA consortium [Couch and Wang, 2009], are needed.
+The largest study of cancer risks for MLH1 and MSH2 mutation carriers to date [Bonadona et al., 2011] provided estimates that either agree with our results or are consistent with them. However, our estimates are far more precise, with CIs half as wide, probably because the families of Bonadona et al. were all clinic based whereas our study also included population-based families (which are more informative in penetrance analyses because they require a less stringent adjustment for ascertainment). We also note that the study of Bonadona et al. did not allow for any risk heterogeneity so their estimates are probably downwardly biased [Gong et al., 2010]. For the same reason, the cumulative risks of [Quehenberger et al., 2005] are also likely to be underestimates.
+Our study has several notable strengths. It is one of the largest studies so far to estimate the penetrance of MLH1 and MSH2 mutations and it included population-based families. Standardized questionnaires and protocols were used by the six different study sites
+
+comprising the Colon CFR, ensuring a high degree of homogeneity across sites. Systematic attempts were made to verify all reports of CRC and (at some Colon CFR sites) all cancers, using pathology reports, medical records, corroboration by relatives, cancer registry reports and/or death certificates (where available). Lastly, sophisticated statistical techniques were used which properly adjusted for ascertainment, accounted for residual familial aggregation of disease (thereby avoiding bias) and made use of data on all family members, whether genotyped or not (thereby maximizing statistical power). The main weaknesses of our study are its incomplete validation of cancers and that we could not adequately differentiate between cancers within the same organ. Another weakness, shared by all Lynch syndrome penetrance studies, was the need to either assume noninformative censoring at polypectomy (the approach of our study and most others) or to make somewhat speculative assumptions about CRC risks after polypectomy.
+We have obtained unbiased estimates of CRC and EC penetrance for MLH1 and MSH2 mutation carriers that are more precise than any currently available. These estimates will be useful for genetic counseling, designing optimal surveillance strategies for carriers and as the key ingredient for risk prediction models, which identify likely carriers from their cancer family histories. We have also shown that penetrance varies greatly between carriers, perhaps because of genetic or environmental risk factors, with some mutation carriers at population levels of risk and others almost certain to develop CRC.
+Acknowledgments
+The authors thank all study participants of the Colon CFR and staff for their contributions to this project. The content of this manuscript does not necessarily reflect the views or policies of the National Cancer Institute or any of the collaborating centers in the Cancer Family Registries, nor does mention of trade names, commercial products, or organizations imply endorsement by the US Government or the Cancer Family Registry. Authors had full responsibility for the design of the study, the collection of the data, the analysis and interpretation of the data, the decision to submit the manuscript for publication, and the writing of the manuscript.
+Disclosure statement: The authors declare no conflicts of interest.
+References
+Aaltonen LA, Sankila R, Mecklin JP, Jarvinen H, Pukkala E, Peltomaki P, de la Chapelle A. 1994. A novel approach to estimate the proportion of hereditary nonpolyposis colorectal cancer of total colorectal cancer burden. Cancer Detect Prev 18:57­63.
+Antoniou AC, Pharoah PD, McMullan G, Day NE, Ponder BA, Easton D. 2001. Evidence for further breast cancer susceptibility genes in addition to BRCA1 and BRCA2 in a population-based study. Genet Epidemiol 21:1­18.
+Barnetson RA, Tenesa A, Farrington SM, Nicholl ID, Cetnarskyj R, Porteous ME, Campbell H, Dunlop MG. 2006. Identification and survival of carriers of mutations in DNA mismatch-repair genes in colon cancer. N Engl J Med 354:2751­ 2763.
+Botma A, Nagengast FM, Braem MG, Hendriks JC, Kleibeuker JH, Vasen HF, Kampman E. 2010. Body mass index increases risk of colorectal adenomas in men with Lynch syndrome: the GEOLynch cohort study. J Clin Oncol 28:4346­4353.
+Campbell PT, Edwards L, McLaughlin JR, Green J, Younghusband HB, Woods MO. 2007. Cytochrome P450 17A1 and catechol O-methyltransferase polymorphisms and age at Lynch syndrome colon cancer onset in Newfoundland. Clin Cancer Res 13:3783­3788.
+Cannings C, Thompson E, Skolnick M. 1978. Probability functions on complex pedigrees. Adv Appl Prob 10:26­61.
+Capelle LG, Van Grieken NC, Lingsma HF, Steyerberg EW, Klokman WJ, Bruno MJ, Vasen HF, Kuipers EJ. 2010. Risk and epidemiological time trends of gastric cancer in Lynch syndrome carriers in the Netherlands. Gastroenterology 138:487­ 492.
+
+496
+
+HUMAN MUTATION, Vol. 34, No. 3, 490­497, 2013
+
+Couch F, Wang X. 2009. Genome-wide association studies identify new breast cancer susceptibility genes. Curr Breast Cancer Rep 1:131­138.
+Diergaarde B, Braam H, Vasen HF, Nagengast FM, van Muijen GN, Kok FJ, Kampman E. 2007. Environmental factors and colorectal tumor risk in individuals with hereditary nonpolyposis colorectal cancer. Clin Gastroenterol Hepatol 5:736­ 742.
+Felix R, Bodmer W, Fearnhead NS, van der Merwe L, Goldberg P, Ramesar RS. 2006. GSTM1 and GSTT1 polymorphisms as modifiers of age at diagnosis of hereditary nonpolyposis colorectal cancer (HNPCC) in a homogeneous cohort of individuals carrying a single predisposing mutation. Mutat Res 602:175­181.
+Frazier ML, O'Donnell FT, Kong S, Gu X, Campos I, Luthra R, Lynch PM, Amos CI. 2001. Age-associated risk of cancer among individuals with N-acetyltransferase 2 (NAT2) mutations and mutations in DNA mismatch repair genes. Cancer Res 61:1269­1271.
+Gong G, Hannon N, Whittemore AS. 2010. Estimating gene penetrance from family data. Genet Epidemiol 34:373­381.
+Grindedal EM, Moller P, Eeles R, Stormorken AT, Bowitz-Lothe IM, Landro SM, Clark N, Kvale R, Shanley S, Maehle L. 2009. Germ-line mutations in mismatch repair genes associated with prostate cancer. Cancer Epidemiol Biomarkers Prev 18:2460­2467.
+Hampel H, Frankel WL, Martin E, Arnold M, Khanduja K, Kuebler P, Nakagawa H, Sotamaa K, Prior TW, Westman J, Panescu J, Fix D, et al. 2005. Screening for the Lynch syndrome (hereditary nonpolyposis colorectal cancer). N Engl J Med 352:1851­160.
+Jarvinen HJ, Aarnio M, Mustonen H, Aktan-Collan K, Aaltonen LA, Peltomaki P, De La Chapelle A, Mecklin JP. 2000. Controlled 15-year trial on screening for colorectal cancer in families with hereditary nonpolyposis colorectal cancer. Gastroenterology 118:829­834.
+Jass JR. 2006. Hereditary non-polyposis colorectal cancer: the rise and fall of a confusing term. World J Gastroenterol 12:4943­4950.
+Jensen UB, Sunde L, Timshel S, Halvarsson B, Nissen A, Bernstein I, Nilbert M. 2010. Mismatch repair defective breast cancer in the hereditary nonpolyposis colorectal cancer syndrome. Breast Cancer Res Treat 120:777­782.
+Kastrinos F, Mukherjee B, Tayob N, Wang F, Sparr J, Raymond VM, Bandipalliam P, Stoffel EM, Gruber SB, Syngal S. 2009. Risk of pancreatic cancer in families with Lynch syndrome. JAMA 302:1790­1795.
+Kraft P, Thomas DC. 2000. Bias and efficiency in family-based gene-characterization studies: conditional, prospective, retrospective, and joint likelihoods. Am J Hum Genet 66:1119­1131.
+Kruger S, Engel C, Bier A, Silber AS, Gorgens H, Mangold E, Pagenstecher C, HolinskiFeder E, von Knebel Doeberitz M, Royer-Pokora B, Dechant S, Pox C, et al. 2007. The additive effect of p53 Arg72Pro and RNASEL Arg462Gln genotypes on age of disease onset in Lynch syndrome patients with pathogenic germline mutations in MSH2 or MLH1. Cancer Lett 252:55­64.
+Lange K. 2002. Mathematical and statistical methods for genetic analysis. New York, NY: Springer.
+Lange K, Weeks D, Boehnke M. 1988. Programs for pedigree analysis: MENDEL, FISHER, and dGENE. Genet Epidemiol 5:471­472.
+Little RJA, Rubin DB. 2002. Statistical analysis with missing data. Hoboken, NJ: Wiley. Lynch HT, Watson P, Kriegler M, Lynch JF, Lanspa SJ, Marcus J, Smyrk T, Fitzgibbons
+RJ, Jr., Cristofaro G. 1988. Differential diagnosis of hereditary nonpolyposis colorectal cancer (Lynch syndrome I and Lynch syndrome II). Dis Colon Rectum 31:372­377. Newcomb PA, Baron J, Cotterchio M, Gallinger S, Grove J, Haile R, Hall D, Hopper JL, Jass J, Le Marchand L, Limburg P, Lindor N, et al. 2007. Colon Cancer Family Registry: an international resource for studies of the genetic epidemiology of colon cancer. Cancer Epidemiol Biomarkers Prev 16:2331­2343. Pande M, Amos CI, Osterwisch DR, Chen J, Lynch PM, Broaddus R, Frazier ML. 2008. Genetic variation in genes for the xenobiotic-metabolizing enzymes CYP1A1, EPHX1, GSTM1, GSTT1, and GSTP1 and susceptibility to colorectal cancer in Lynch syndrome. Cancer Epidemiol Biomarkers Prev 17:2393­2401. Pande M, Lynch PM, Hopper JL, Jenkins MA, Gallinger S, Haile RW, LeMarchand L, Lindor NM, Campbell PT, Newcomb PA, Potter JD, Baron JA, et al. 2010. Smoking and colorectal cancer in Lynch syndrome: results from the Colon Cancer Family
+
+Registry and the University of Texas M.D. Anderson Cancer Center. Clin Cancer Res 16:1331­1339. Pharoah PD, Antoniou A, Bobrow M, Zimmern RL, Easton DF, Ponder BA. 2002. Polygenic susceptibility to breast cancer and implications for prevention. Nat Genet 31:33­36. Quehenberger F, Vasen HF, van Houwelingen HC. 2005. Risk of colorectal and endometrial cancer for carriers of mutations of the hMLH1 and hMSH2 gene: correction for ascertainment. J Med Genet 42:491­496. Reeves SG, Rich D, Meldrum CJ, Colyvas K, Kurzawski G, Suchy J, Lubinski J, Scott RJ. 2008. IGF1 is a modifier of disease risk in hereditary non-polyposis colorectal cancer. Int J Cancer 123:1339­1343. Soravia C, van der Klift H, Brundler MA, Blouin JL, Wijnen J, Hutter P, Fodde R, Delozier-Blanchet C. 2003. Prostate cancer is part of the hereditary non-polyposis colorectal cancer (HNPCC) tumor spectrum. Am J Med Genet A 121A:159­162. Southey MC, Jenkins MA, Mead L, Whitty J, Trivett M, Tesoriero AA, Smith LD, Jennings K, Grubb G, Royce SG, Walsh MD, Barker MA, et al. 2005. Use of molecular tumor characteristics to prioritize mismatch repair gene testing in early-onset colorectal cancer. J Clin Oncol 23:6524­6532. Talseth-Palmer BA, Brenne IS, Ashton KA, Evans TJ, McPhillips M, Groombridge C, Suchy J, Kurzawski G, Spigelman A, Lubinski J, Scott RJ. 2011. Colorectal cancer susceptibility loci on chromosome 8q23.3 and 11q23.1 as modifiers for disease expression in Lynch syndrome. J Med Genet 48:279­284. R Development Core Team. 2010. R: a language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing. Umar A, Boland CR, Terdiman JP, Syngal S, de la Chapelle A, Ruschoff J, Fishel R, Lindor NM, Burgart LJ, Hamelin R, Hamilton SR, Hiatt RA, et al. 2004. Revised Bethesda Guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 96:261­268. Wagner A, Barrows A, Wijnen JT, van der Klift H, Franken PF, Verkuijlen P, Nakagawa H, Geugien M, Jaghmohan-Changur S, Breukel C, Meijers-Heijboer H, Morreau H, et al. 2003. Molecular analysis of hereditary nonpolyposis colorectal cancer in the United States: high mutation detection rate among clinically selected families and characterization of an American founder genomic deletion of the MSH2 gene. Am J Hum Genet 72:1088­1100. Walsh MD, Buchanan DD, Cummings MC, Pearson SA, Arnold ST, Clendenning M, Walters R, McKeone DM, Spurdle AB, Hopper JL, Jenkins MA, Phillips KD, et al. 2010. Lynch syndrome-associated breast cancers: clinicopathologic characteristics of a case series from the colon cancer family registry. Clin Cancer Res 16:2214­ 2224. Wijnen J, Khan PM, Vasen H, van der Klift H, Mulder A, van Leeuwen-Cornelisse I, Bakker B, Losekoot M, Moller P, Fodde R. 1997. Hereditary nonpolyposis colorectal cancer families not complying with the Amsterdam criteria show extremely low frequency of mismatch-repair-gene mutations. Am J Hum Genet 61:329­335. Wijnen JT, Brohet RM, van Eijk R, Jagmohan-Changur S, Middeldorp A, Tops CM, van Puijenbroek M, Ausems MG, Gomez Garcia E, Hes FJ, Hoogerbrugge N, Menko FH, et al. 2009. Chromosome 8q23.3 and 11q23.1 variants modify colorectal cancer risk in Lynch syndrome. Gastroenterology 136:131­137. Win AK, Dowty JG, Antill YC, English DR, Baron JA, Young JP, Giles GG, Southey MC, Winship I, Lipton L, Parry S, Thibodeau SN, et al. 2011a. Body mass index in early adulthood and endometrial cancer risk for mismatch repair gene mutation carriers. Obstet Gynecol 117:899­905. Win AK, Dowty JG, English DR, Campbell PT, Young JP, Winship I, Macrae FA, Lipton L, Parry S, Young GP, Buchanan DD, Martinez ME, et al. 2011b. Body mass index in early adulthood and colorectal cancer risk for carriers and non-carriers of germline mutations in DNA mismatch repair genes. Br J Cancer 105:162­169. Win AK, Jenkins MA, Buchanan DD, Clendenning M, Young JP, Giles GG, Goldblatt J, Leggett BA, Hopper JL, Thibodeau SN, Lindor NM. 2011c. Determining the frequency of de novo germline mutations in DNA mismatch repair genes. J Med Genet 48:530­534. Win AK, Young JP, Lindor NM, Tucker KM, Ahnen DJ, Young GP, Buchanan DD, Clendenning M, Giles GG, Winship I, Macrae FA, Goldblatt J, et al. 2012. Colorectal and other cancer risks for carriers and noncarriers from families with a DNA mismatch repair gene mutation: a prospective cohort study. J Clin Oncol 30:958­ 964.
+
+HUMAN MUTATION, Vol. 34, No. 3, 490­497, 2013
+
+497
+
+

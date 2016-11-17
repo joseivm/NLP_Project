@@ -1,0 +1,948 @@
+TRANSLATIONAL RESEARCH
+
+BJD
+British Journal of Dermatology
+
+Characterization of patients at high risk of melanoma in
+Austria*
+C. Muller,1 J. Wendt,1 S. Rauscher,1 S. Burgstaller-Muehlbacher,2 R. Sunder-Plassmann,3 C. Scheurecker,4 E. Richtig,5 I. Fae,6 G. Fischer,6 H. Pehamberger1 and I. Okamoto1
+1Department of Dermatology, 3Clinical Institute for Laboratory Medicine and 6Department of Blood Group Serology and Transfusion Medicine, Medical University of Vienna, Vienna, Austria 2The Scripps Research Institute, La Jolla, CA, U.S.A. 4Department of Dermatology and Venereology, General Hospital Linz, Linz, Austria 5Department of Dermatology and Venereology, Medical University of Graz, Graz, Austria
+
+Linked Comment: Stefanaki and Stratigos. Br J Dermatol 2016; 174:1188­1190
+Summary
+
+Correspondence Ichiro Okamoto. E-mail: ichiro.okamoto@meduniwien.ac.at
+Accepted for publication 14 January 2016
+Funding sources This project was funded by the Anniversary Fund of the Austrian National Bank and the Buergermeister-Fond (grant numbers 13470 and 15079, respectively). The funders were not involved in the study design, data collection, data analysis, manuscript preparation or publication decisions.
+Conflicts of interest None declared.
+*Plain language summary available online
+DOI 10.1111/bjd.14407
+
+Background Risk of melanoma is determined by genetic and exogenous factors. Only a few studies have included both characteristics in a comprehensive multivariable analysis. Objectives To find determinants of patients at high risk of melanoma in Austria, including phenotype, genotype and lifestyle characteristics in comprehensive analyses. Methods In total, 1668 patients with melanoma from the M3 case­control study were studied. Overall, 567 participants were sequenced for CDKN2A, 232 for CDK4, 123 for MITF encoding the variant E318K and 964 for MC1R. Results Patients with melanoma with a positive family history (n = 190, 11Á6%), multiple primary melanomas (n = 261, 15Á7%) and younger age (< 50 years, n = 675, 40Á5%) were defined as being at high risk. All other patients with melanoma were defined as the reference group. We found significant differences between those two groups and between the high-risk subgroups (positive family history, multiple primary melanomas and younger age). Pigmentation phenotype was associated with the high-risk group in general (childhood freckling, odds ratio 1Á46, P = 0Á007; blond/reddish hair colour, odds ratio 1Á43, P = 0Á011). Patients with a positive family history and patients with early-onset disease were similar regarding both their phenotypic characteristics and external factors. Established high-risk mutations in CDKN2A were found in cases with a positive family history (n = 12) or multiple melanomas (n = 2). Moreover, we found three patients carrying the MITF p.E318K variant, two with a CDK4 variant and seven with nonsynonymous MC1R variants with undescribed biological significance, of which four were predicted as damaging. Conclusions Austrian patients could represent a reservoir for novel genetic variants. Further investigation of populations in Central and Eastern Europe might reveal more novel and disease-relevant variants.
+
+What's already known about this topic?
+· Melanoma risk is determined by environmental and genetic risk factors. · The frequency and type of disease-causing gene mutations vary between different
+countries.
+
+1308
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+© 2016 British Association of Dermatologists
+
+Patients at high risk of melanoma in Austria, C. Muller et al. 1309
+What does this study add?
+· This is the first comprehensive description of Austrian patients at high risk of melanoma.
+· The heterogeneity of the different subgroups suggests diverse pathways. · We present functional prediction of MC1R and CDK4 variants with unknown biolog-
+ical significance in high-risk patients, and three novel cases with MITF variants in high-risk patients.
+What is the translational message?
+· Identification of high-risk individuals helps to reduce mortality. · The risk of melanoma is comprised of a complex interplay between genetic and
+environmental factors; however, genetic mutations associated with melanoma might differ from country to country.
+· Knowledge of these mutations and adjustment of criteria for testing could be required for adequate risk assessments.
+
+Melanoma is still one of the most life-threatening types of cancer, with an increasing number of incident cases worldwide.1 Exact knowledge of its cause is the basis for disease prevention, particularly for those at high risk. The risk is determined by a complex interplay of external and genetic factors. In specialized centres, genetic testing is suggested for patients who are regarded as being at high risk.2 CDKN2A is the best-described high-risk melanoma gene, followed by CDK4, which has been described in only a few families worldwide. Additionally, numerous low-risk variants in MC1R modulate the risk, in addition to high-risk mutations. Furthermore, variations in other genes such as MITF and POT1 have been described as being associated with familial melanoma.
+In spite of numerous studies describing phenotypic features or genetic factors separately, there are only a few studies where risk factors were analysed comprehensively.3,4 Here we present for the first time a comprehensive study of established genetic variants and phenotypic and lifestyle characteristics associated with melanoma in a central European population, to improve the knowledge of determinants of patients at high risk of melanoma and the different subgroups.
+Patients and methods
+Patients
+All 1668 histologically confirmed patients with melanoma who were recruited from 2008 to 2015 as part of the M3 case­control study were included.5,6 The participants originated mainly from Vienna, the province of Lower Austria, and Burgenland (Table S1; see Supporting Information). To address a potential selection bias, patients were included from different Austrian hospitals. The data were collected by blood
+
+draw and a questionnaire, as described elsewhere.5 Those with an unavailable pathology report or occult melanoma were not included in this study.
+We categorized cases as high risk when they fulfilled at least one of the following criteria: (i) a positive family history (n = 190); (ii) multiple primary melanomas (n = 261); and (iii) early onset of melanoma (n = 675) (Table 1). All three criteria used for the categorization of high-risk patients were based on the signs for high-risk melanoma genes according to the Genomel Consortium.7 Other patients with one primary melanoma (n = 764), without a positive family history and aged > 50 years at diagnosis were used as the reference group. All of the comparative analyses were performed using the reference group.
+The following patient characteristics were analysed: age at diagnosis, sex, skin reaction to sun exposure, hair and eye colour, childhood freckling, outdoor occupation, solarium use,
+
+Table 1 High-risk subgroups
+
+Positive family history
+Multiple primary melanomas
+Early-onset melanoma (< 50 years)
+
+Positive family history (n = 190)
+­
+44 (23Á2)
+95 (50Á0)
+
+Values are n (%).
+
+Multiple primary melanomas (n = 261)
+44 (16Á9)
+­
+103 (39Á5)
+
+Early-onset melanoma (n = 675)
+95 (14Á1)
+103 (15Á3)
+­
+
+© 2016 British Association of Dermatologists
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+1310 Patients at high risk of melanoma in Austria, C. Muller et al.
+
+suncream use, weeks of holiday in the lifetime, number of sunburns from birth to age 10 years, time spent outdoors at leisure, localization of the primaries, tumour thickness according to Breslow, sentinel lymph node status, distant metastasis and MC1R gene status. In case of multiple primaries, melanoma-specific data always refers to the first primary melanoma.
+Written informed consent was obtained from each participant. This study was approved by the ethics committee of the Medical University of Vienna.
+Statistics
+In the univariable analysis nominal variables were analysed using a v2-test. The continuous variables, represented by mean values and their SDs, were analysed with an independent-sample t-test. High-risk patients and all subgroups were compared with patients with sporadic melanoma. All variables had been adjusted for sex and age in a multivariable analysis, except for the patients with early-onset melanoma. For this subgroup all significant variables of the univariable analysis were included in the multivariable model. All statistical tests were two sided with a significance level of a = 0Á05 and a 95% confidence interval (CI), and were performed using SPSS version 21 (IBM, Armonk, NY, U.S.A.).
+Genotyping
+Sequencing data were available for CDKN2A from 474 participants, for exon 2 of CDK4 from 109 patients and for MC1R from 875 participants, as described previously.6,8 Additionally, 93 new cases were sequenced for CDKN2A, 123 for CDK4 and MITF, and 89 for MC1R. MC1R was analysed in all cases of melanoma (964 in total) as part of an association study.6 Among those 964 patients genotyped for MC1R, 452 high-risk patients and 115 cases of sporadic melanoma were sequenced for CDKN2A. CDK4 and MITF were sequenced in high-risk patients only.
+MC1R variants were classified as variants strongly associated with red hair colour (R), including p.D84E, p.R142H, p.R151C, p.R160W and p.D294H, and variants weakly associated (r), including p.V60L, p.V92M and p.R163Q. The specific sequencing protocols and primers are described in the Supplementary Methods and Table S2 (see Supporting Information).
+Prediction analysis
+The nonsynonymous MC1R variants and the two CDK4 variants have been predicted with different prediction tools, as described before:8 MutationTaster2,9 PolyPhen-2 (Polymorphism Phenotyping-v2, HumDiv and HumVar),10 PROVEAN (Protein Variation Effect Analyzer),11 SIFT (sorts intolerant from tolerant substitutions),12 SNAP2 (screening for non-acceptable polymorphisms-2),13 Panther,14 GERP++,15 phyloP16 and CADD (Combined Annotation Dependent Depletion).17 For MC1R the
+
+Ensembl transcript ID ENST00000555147 was used, and for CDK4 ENST00000257904 was used.
+Results
+Firstly, all characteristics of high-risk patients with melanoma (n = 904) were compared against the reference group (n = 764), as shown in Tables 2 and 3. After adjusting for sex and age, childhood freckling [odds ratio (OR) 1Á46, 95% confidence interval (CI) 1Á11­1Á93, P = 0Á007] blond/reddish hair colour (OR 1Á43, 95% CI 1Á09­1Á88, P = 0Á011) and male sex (OR 1Á40, 95% CI 1Á07­1Á82, P = 0Á013) were associated with high-risk status (Table 2). Melanomas in the highrisk group were less likely to be localized on the head and neck compared with the reference group (P = 0Á005, Table 2). The tumour thickness was lower in high-risk patients (mean 1Á2 vs. 1Á8 mm, P = 0Á001); however, this failed to remain significant in the multivariable model (OR 0Á94, 95% CI 0Á87­1Á02, P = 0Á12). In total, 11Á4% (n = 190) of all patients with melanoma had at least one reported melanoma diagnosis in the family, 15Á7% (n = 261) had multiple primary melanomas and 40Á5% (n = 719) were diagnosed before the age of 50 years. All of the results of the univariable analysis are shown in Table 3.
+We then studied the phenotypic differences between the subgroups of high-risk patients (Table 4). In the multivariable model, blond/reddish hair colour (OR 2Á05, 95% CI 1Á39­ 3Á04, P < 0Á001), childhood freckling (OR 1Á62, 95% CI 1Á10­2Á38, P = 0Á015) and sunburns aged 0­10 years (OR 1Á01, 95% CI 1Á00­1Á03, P = 0Á044) were significantly associated with positive family history. Male sex (OR 1Á75, 95% 95% CI 1Á26­2Á41, P = 0Á001) was significantly associated with multiple primary melanomas. Suncream use (OR 2Á52, 95% CI 1Á79­3Á53, P < 0Á001), solarium use (OR 2Á11, 95% CI 1Á47­3Á02, P < 0Á001), childhood freckling (OR 1Á73, 95% CI 1Á28­2Á33, P < 0Á001), Breslow index (OR 0Á89, 95% CI 0Á81­0Á98, P = 0Á013), outdoor occupation (OR 0Á64, 95% CI 0Á47­0Á87, P = 0Á005) and localization (head and neck as the reference, P = 0Á006 for extremities and P = 0Á019 for trunk) were significantly associated with earlyonset melanoma (Table 4).
+Regarding genetic mutations, 14 patients (2Á5%) carried a disease-causing mutation in CDKN2A. This included 12 of 155 cases (7Á7%) with a positive family history who were tested for CDKN2A. The following established high-risk mutations were found in this study group: p.R24H (11 carriers; two carriers were shared in two families each and cosegregated with melanoma), p.N71T (one carrier), p.G101W (one carrier) and p.V126D (one carrier). Among the CDKN2A high-risk mutation carriers, 12 had another member in the pedigree with melanoma: nine cases were from a family with two cases, two carriers had three further cases, and one carrier had four cases in the pedigree (Table S3; see Supporting Information). In addition to the previously reported cases,8 we found four more participants with the p.A148T mutation, one with the c.150+ 37G>GC variant and one more patient
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+© 2016 British Association of Dermatologists
+
+Patients at high risk of melanoma in Austria, C. Muller et al. 1311
+
+Table 2 Patients' characteristics (univariable and multivariable analysis)
+
+Characteristic
+
+Sporadic (n = 764)
+
+High risk (n = 904)
+
+P-valuea
+
+OR
+
+95% CI
+
+P-valueb
+
+Diagnosis age (years), mean Æ SD Sex Male Female Skin reaction to sun exposure Rather red Rather brown Unknown Hair colour Blond/reddish Black/brown Unknown Eye colour Fair Dark Childhood freckling Yes No Unknown Outdoor occupation Yes No Unknown Solarium use Yes No Unknown Time spent outdoors at leisure >3h <3h Unknown Holiday weeks Mean Æ SD Unknown (n) Sunburns 0­10 years Mean Æ SD Unknown (n) Suncream use Yes No Unknown Multiple primary melanoma Yes No Localization Head/neck Extremities Trunk Breslow index (mm), mean Æ SD Sentinel node Positive Negative Unknown Distant metastasis Yes No MC1R R or r Wild-type
+
+64 Æ 8Á8
+441 (57Á7) 323 (42Á3)
+497 (66Á6) 249 (33Á4)
+18
+237 (31Á1) 525 (68Á9)
+2
+524 (68Á6) 240 (31Á4)
+211 (29Á7) 499 (70Á3)
+54
+224 (40Á6) 328 (59Á4) 212
+105 (14) 645 (86)
+14
+559 (74Á9) 187 (25Á1)
+18
+14 Æ 11Á4 71
+6 Æ 12Á1 24
+457 (61Á1) 291 (38Á9)
+16
+0 764 (100)
+111 (14Á5) 273 (35Á7) 380 (49Á7) 1Á8 Æ 4Á3
+56 (18Á1) 253 (81Á9) 455
+43 (5Á6) 721 (94Á4)
+278 (74Á7) 94 (25Á3)
+
+44 Æ 14Á2
+449 (49Á7) 455 (50Á3)
+653 (74Á2) 227 (25Á8)
+24
+324 (35Á9) 578 (64Á1)
+2
+616 (68Á1) 288 (31Á9)
+376 (43Á4) 490 (56Á6)
+38
+212 (32Á9) 432 (67Á1) 260
+245 (27Á4) 649 (72Á6)
+10
+621 (69Á9) 268 (30Á1)
+15
+13Á4 Æ 11Á1 70
+7Á5 Æ 11Á3 16
+700 (78Á2) 195 (21Á8)
+9
+261 (28Á9) 643 (71Á1)
+85 (9Á4) 348 (38Á5) 471 (52Á1) 1Á2 Æ 1Á5
+63 (20Á6) 243 (79Á4) 598
+61 (6Á7) 843 (93Á3)
+369 (81Á3) 85 (18Á7)
+
+< 0Á001 0Á87 0Á86­0Á89 < 0Á001
+
+0Á001 1Á40 1Á07­1Á82
+
+0Á013
+
+0Á001 1Á22 0Á91­1Á62
+
+0Á19
+
+0Á038 1Á43 1Á09­1Á88
+
+0Á011
+
+0Á85 1Á10 0Á84­1Á45 < 0Á001 1Á46 1Á11­1Á93
+
+0Á49 0Á007
+
+0Á006 0Á90 0Á65­1Á23
+
+0Á50
+
+< 0Á001 1Á02 0Á73­1Á43
+
+0Á89
+
+0Á022 0Á90 0Á67­1Á22
+
+0Á50
+
+0Á34 1Á00 0Á99­1Á01 0Á011 1Á01 0Á99­1Á02 < 0Á001 0Á94 0Á70­1Á26
+
+0Á70 0Á34 0Á67
+
+0Á005
+
+Ref
+
+0Á68 0Á44­1Á05
+
+0Á71 0Á47­1Á08
+
+0Á001 0Á94 0Á87­1Á02
+
+0Á44 1Á15 0Á66­2Á02
+
+0Á083 0Á11 0Á12
+0Á63
+
+0Á35 1Á42 0Á85­2Á37 0Á023 1Á42 0Á89­2Á27
+
+0Á19 0Á14
+
+Values are n (%) unless stated otherwise. OR, odds ratio; CI, confidence interval; Ref, reference value. av2-test for nominal variables and t-test for continuous variables. bMultivariable analysis, adjusted for sex and age. P-values > 0Á05 are significant. The total missing numbers were
+42 for skin reaction to sun exposure, four for hair colour, 92 for childhood freckling, 472 for outdoor occupation, 24 for solarium use, 33
+for time spent outdoors at leisure, 141 for holiday weeks and 40 for sunburns aged 0­10 years.
+
+© 2016 British Association of Dermatologists
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+1312 Patients at high risk of melanoma in Austria, C. Muller et al.
+
+Table 3 Univariable subgroup analysis
+
+Characteristic
+
+Sporadic (n = 764)
+
+Diagnosis age
+
+63Á9 Æ 8Á8
+
+(years),
+
+mean Æ SD
+
+Sex
+
+Male 441 (57Á7)
+
+Female
+
+323 (42Á3)
+
+Skin reaction to sun exposure
+
+Rather red
+
+497 (66Á6)
+
+Rather brown
+
+249 (33Á4)
+
+Unknown
+
+18
+
+Hair colour
+
+Blond/reddish
+
+237 (31Á1)
+
+Black/brown
+
+525 (68Á9)
+
+Unknown
+
+2
+
+Eye colour
+
+Fair 524 (68Á6)
+
+Dark 240 (31Á4)
+
+Childhood freckling
+
+Yes 211 (29Á7)
+
+No 499 (70Á3)
+
+Unknown
+
+54
+
+Outdoor occupation
+
+Yes 224 (40Á6)
+
+No 328 (59Á4)
+
+Unknown
+
+212
+
+Solarium use
+
+Yes 105 (14)
+
+No 645 (86)
+
+Unknown
+
+14
+
+Time spent outdoors at leisure
+
+>3h
+
+559 (74Á9)
+
+<3h
+
+187 (25Á1)
+
+Unknown
+
+18
+
+Holiday weeks
+
+Mean Æ SD
+
+13Á9 Æ 11Á4
+
+Unknown (n)
+
+71
+
+Sunburns 0­10 years
+
+Mean Æ SD
+
+6 Æ 12Á1
+
+Unknown (n)
+
+24
+
+Suncream use
+
+Yes 457 (61Á1)
+
+No 291 (38Á9)
+
+Unknown
+
+16
+
+Localization
+
+Head/neck
+
+111 (14Á5)
+
+Extremities
+
+273 (35Á7)
+
+Trunk
+
+380 (49Á7)
+
+Breslow index (mm), 1Á8 Æ 4Á3
+
+mean Æ SD
+
+Sentinel node
+
+Positive
+
+56 (18Á1)
+
+Negative
+
+253 (81Á9)
+
+Unknown
+
+455
+
+Distant metastasis
+
+Yes 43 (5Á6)
+
+No 721 (94Á4)
+
+Positive family history (n = 190) 48Á8 Æ 15Á1
+101 (53Á2) 89 (46Á8)
+141 (75Á8) 45 (24Á2) 4
+74 (39Á2) 115 (60Á8)
+1
+141 (74Á2) 49 (25Á8)
+81 (44) 103 (56)
+6
+53 (43Á8) 68 (56Á2) 69
+51 (27Á1) 137 (72Á9)
+2
+53 (28Á6) 132 (71Á4)
+5
+14 Æ 11Á3 17
+8Á6 Æ 13Á3 3
+146 (78Á1) 41 (21Á9) 3
+24 (12Á6) 58 (30Á5) 108 (56Á8) 1 Æ 1Á25
+12 (21) 44 (79) 134
+7 (3Á7) 183 (96Á3)
+
+P-valuea < 0Á001
+0Á26 0Á016
+0Á035
+0Á13 < 0Á001
+0Á51 < 0Á001
+0Á2
+0Á88 0Á013 < 0Á001
+0Á22 0Á018 0Á56
+0Á28
+
+Multiple primary melanoma (n = 261)
+54 Æ 15Á6
+162 (62Á1) 99 (37Á9)
+189 (73Á3) 69 (26Á7) 3
+94 (36Á0) 167 (64Á0)
+0
+187 (71Á6) 74 (28Á4)
+92 (37Á2) 155 (62Á8)
+14
+75 (37Á9) 123 (62Á1)
+63
+42 (16Á3) 216 (83Á7)
+3
+194 (75Á2) 64 (24Á8) 3
+14Á5 Æ 12Á3 12
+7Á5 Æ 10Á8 4
+178 (69Á0) 80 (31Á0) 3
+35 (13Á4) 83 (31Á8) 143 (54Á8) 1Á2 Æ 1Á3
+13 (20) 51 (80) 197
+24 (9Á2) 237 (90Á8)
+
+P-valuea < 0Á001
+0Á22 0Á048
+0Á14
+0Á35 0Á028
+0Á51
+0Á37
+0Á93
+0Á55 0Á099 0Á023
+0Á37 0Á02 0Á68
+0Á044
+
+Early-onset melanoma (n = 675)
+38 Æ 8Á3
+288 (42Á7) 387 (57Á3)
+485 (74Á2) 169 (25Á8)
+21
+236 (35Á0) 438 (65Á0)
+1
+449 (66Á5) 226 (33Á5)
+290 (44Á7) 359 (55Á3)
+26
+134 (28Á1) 343 (71Á9) 198
+213 (32Á0) 452 (68Á0)
+10
+449 (67Á7) 214 (32Á3)
+12
+13Á1 Æ 10Á2 58
+7Á5 Æ 10Á8 11
+561 (84Á1) 106 (15Á9)
+8
+44 (6Á5) 284 (42Á1) 347 (51Á4) 1Á2 Æ 1Á6
+48 (20Á7) 184 (79Á3) 443
+41 (6Á1) 634 (93Á9)
+
+P-valuea ­
+< 0Á001 0Á002
+0Á12
+0Á40 < 0Á001 < 0Á001 < 0Á001
+0Á003
+0Á17 0Á016 < 0Á001 < 0Á001 0Á002
+0Á45
+0Á72
+
+(continued)
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+© 2016 British Association of Dermatologists
+
+Patients at high risk of melanoma in Austria, C. Muller et al. 1313
+
+Table 3 (continued)
+
+Characteristic
+
+Sporadic (n = 764)
+
+Positive family
+
+Multiple primary
+
+Early-onset
+
+history (n = 190) P-valuea melanoma (n = 261) P-valuea melanoma (n = 675) P-valuea
+
+MC1R R or r Wild-type
+
+278 (74Á7) 94 (25Á3)
+
+75 (87) 11 (13)
+
+0Á013
+
+103 (78Á6) 28 (21Á4)
+
+0Á37 275 (79Á9) 69 (20Á1)
+
+0Á097
+
+Values are n (%) unless stated otherwise. av2-test for nominal variables and t-test for continuous variables. P-values < 0Á05 are significant.
+
+Table 4 Multivariable subgroup analysis
+
+Characteristic
+Diagnosis age Sex: male Skin reaction to sun exposure: mostly red Hair colour: blond/reddish Eye colour: fair Childhood freckling: yes Outdoor occupation: yes Solarium use: yes Time spent outdoors at leisure: > 3 h Holiday weeks Sunburns at 0­10 years Suncream use: yes Localization Head/neck Extremities Trunk Breslow index Sentinel lymph node: positive Distant metastasis: yes MC1R: R or r
+
+Positive family history (n = 190)
+
+OR 95% CI
+
+P-valuea
+
+0Á88 0Á86­0Á90 < 0Á001
+
+1Á20 0Á83­1Á75
+
+0Á34
+
+1Á35 0Á88­2Á09
+
+0Á17
+
+2Á05 1Á39­3Á04 < 0Á001
+
+1Á20 0Á80­1Á81
+
+0Á38
+
+1Á62 1Á10­2Á38 0Á015
+
+1Á03 0Á65­1Á63
+
+0Á91
+
+1Á27 0Á80­2Á04
+
+0Á32
+
+1 0Á65­1Á53 1Á00
+
+1Á00 0Á99­1Á02
+
+0Á72
+
+1Á01 1Á00­1Á03 0Á044
+
+1Á30 0Á85­2Á01
+
+0Á23
+
+Ref 0Á47 0Á25­0Á88 0Á64 0Á36­1Á14 0Á88 0Á77­1Á01 1Á06 0Á48­2Á35 0Á79 0Á38­1Á64 2Á13 0Á99­4Á60
+
+0Á019 0Á128 0Á068
+0Á89 0Á52 0Á054
+
+Multiple primary melanomas (n = 261)
+
+OR 95% CI
+
+P-valuea
+
+0Á92 0Á91­0Á93 < 0Á001 1Á75 1Á26­2Á41 0Á001 1Á19 0Á85­1Á68 0Á31 1Á34 0Á97­1Á86 0Á078 1Á20 0Á86­1Á68 0Á30 1Á35 0Á97­1Á89 0Á074 0Á89 0Á62­1Á29 0Á55 0Á88 0Á57­1Á36 0Á57 0Á97 0Á68­1Á40 0Á88 1Á00 0Á99­1Á02 0Á83 1Á00 0Á99­1Á02 0Á62 0Á90 0Á64­1Á26 0Á54
+
+Ref 0Á76 0Á46­1Á25 0Á83 0Á52­1Á32 0Á91 0Á82­1Á00 1Á17 0Á57­2Á40 1Á84 1Á05­3Á23 1Á08 0Á63­1Á84
+
+0Á28 0Á43 0Á051 0Á66 0Á032 0Á78
+
+Early-onset melanoma (n = 675)
+
+OR 95% CI
+
+P-valueb
+
+0Á99 0Á73­1Á35 1Á00 0Á72­1Á39
+
+0Á95 0Á99
+
+1Á73 1Á28­2Á33 < 0Á001 0Á64 0Á47­0Á87 0Á005 2Á11 1Á47­3Á02 < 0Á001 0Á74 0Á54­1Á02 0Á067
+
+1Á01 0Á99­1Á02 0Á51 2Á52 1Á79­3Á53 < 0Á001
+
+Ref 2Á09 1Á23­3Á54 1Á85 1Á11­3Á10 0Á89 0Á81­0Á98
+
+0Á006 0Á019 0Á013
+
+OR, odds ratio; CI, confidence interval; Ref, reference value. aMultivariable analysis, adjusted for sex and age. bMultivariable analysis, adjusted for all significant variables of the univariable analysis. P-values < 0Á05 are significant.
+
+each carrying the p.R24P, p.A34V and p.P81R mutations. We also found a patient with a novel synonymous variant p.T93T. No high-risk mutations were found in the reference group.
+Sequencing of CDK4 revealed two variants that had not been described in association with melanoma before. One variant (c.À60C>CG) was located in the 5-untranslated region. The carrier was a 20-year-old male patient diagnosed with a spitzoid melanoma with a tumour thickness of 1Á1 mm. The other variant, p.V154L, was located in exon 4, a protein-coding region. This female patient had a positive family history (father) and a melanoma with 0Á8mm Breslow thickness, excised at the age of 42 years. No further CDK4 mutations, including the known high-risk variants, were found. The p.E318K-causing variant of the MITF gene was detected in three cases, all from the high-risk group (2Á4% of 123 tested participants). High-risk patients more frequently carried red hair MC1R variants (R or r)
+
+compared with the reference group (81Á3% vs. 74Á7%, P = 0Á023). When the subgroups were analysed separately, patients with a positive family history had the highest number of MC1R carriers (86Á2% vs. 74Á7%, P = 0Á022). The most frequent red hair variants were p.R160W for R and p.V60L for r.
+High-risk patients carrying a disease-causing CDKN2A mutation were significantly younger at first melanoma diagnosis (mean 37 years vs. 47 years, P = 0Á019) and were more likely to be female (71% vs. 44Á1%, P = 0Á044) than high-risk wildtype patients in a univariable analysis (Table 5). They had more multiple primary melanomas (mean 2Á6 vs. 1Á7, P = 0Á005) and were more likely to have another family member with melanoma (mean 1Á1 vs. 0Á4, P < 0Á001), which remained significant after adjustment for age and sex: multiple primary melanoma count, OR 1Á64 (95% CI 1Á23­ 2Á20, P = 0Á001) and mean family members with melanoma, OR 3Á81 (95% CI 1Á98­7Á32, P < 0Á001).
+
+© 2016 British Association of Dermatologists
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+1314 Patients at high risk of melanoma in Austria, C. Muller et al.
+
+Table 5 Characteristics of carriers of CDKN2A disease-causing variants compared with wild-type patients (only high-risk patients included)
+
+Characteristic
+Diagnosis age (years), mean Æ SD Sex Male Female Skin reaction to sun exposure Rather red Rather brown Unknown Hair colour Blond/reddish Black/brown Unknown Eye colour Fair Dark Childhood freckling Yes No Unknown Outdoor occupation Yes No Unknown Solarium use Yes No Unknown Time spent outdoors at leisure >3h <3h Unknown Holiday weeks Mean Æ SD Unknown (n) Sunburns 0­10 years Mean Æ SD Unknown (n) Suncream use Yes No Unknown Multiple primary melanoma Yes No Multiple primary melanoma count, mean Æ SD Positive family history Yes No Family members with melanoma, mean Æ SD Localization Head/neck Extremities Trunk Breslow index, mean Æ SD Sentinel node Positive Negative
+
+CDKN2A wild-type (n = 401)
+47 Æ 15Á9
+224 (55Á9) 177 (44Á1)
+284 (72Á6) 107 (27Á4)
+10
+149 (37Á2) 251 (62Á7)
+1
+277 (69Á1) 124 (30Á9)
+159 (41Á3) 226 (58Á7)
+16
+118 (37Á1) 200 (62Á9)
+83
+108 (27Á1) 291 (72Á9)
+2
+289 (73Á5) 104 (26Á5)
+8
+13Á6 Æ 11Á4 22
+6Á8 Æ 10 5
+306 (76Á9) 92 (23Á1) 3
+184 (45Á9) 217 (54Á1) 1Á7 Æ 1Á1
+131 (32Á7) 270 (67Á3) 0Á4 Æ 0Á6
+45 (11Á2) 147 (36Á7) 209 (52Á1) 1Á2 Æ 1Á7
+28 (22Á4) 97 (77Á6)
+
+CDKN2A high risk (n = 14) 37 Æ 11Á9
+4 (29) 10 (71)
+11 (79) 3 (21) 0
+6 (43) 8 (57) 0
+13 (93) 1 (7)
+7 (54) 6 (46) 1
+5 (38) 8 (62) 1
+5 (38) 8 (62) 1
+8 (57) 6 (43) 0
+7Á7 Æ 7Á2 1
+7 Æ 9Á8 0
+12 (86) 2 (14) 0
+9 (64) 5 (36) 2Á6 Æ 1Á7
+12 (86) 2 (14)
+1Á1 Æ 0Á8
+2 (14) 3 (21) 9 (64) 0Á8 Æ 0Á6
+0 4 (100)
+
+P-valuea 0Á019 0Á044 0Á62
+0Á67
+0Á057 0Á37
+0Á92
+0Á365
+0Á18
+0Á065 0Á92 0Á44
+0Á18 0Á005 < 0Á001 < 0Á001
+0Á51 0Á309
+0Á29
+
+Odds ratio 0Á96 0Á41 1Á27
+1Á08
+6Á01 1Á39
+1Á68
+0Á89
+0Á57
+0Á91 1Á00 0Á85
+4Á03 1Á64 15Á48 3Á81
+Ref 0Á23 0Á74 0Á71
+0
+
+95% CI 0Á92­1Á00 0Á12­1Á36 0Á34­4Á73
+0Á36­3Á26
+0Á77­46Á80 0Á45­4Á31
+0Á49­5Á76
+0Á27­2Á93
+0Á19­1Á72
+0Á83­1Á00 0Á95­1Á05 0Á17­4Á25
+1Á23­13Á18 1Á23­2Á20
+3Á33­71Á99 1Á98­7Á32
+0Á035­1Á54 0Á15­3Á74 0Á35­1Á43 NA
+
+P-valueb 0Á052 0Á14 0Á72
+0Á89
+0Á087 0Á57
+0Á41
+0Á85
+0Á32
+0Á044 0Á95 0Á84
+0Á021 0Á001 < 0Á001 < 0Á001
+0Á13 0Á71 0Á33 1Á00
+
+(continued)
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+© 2016 British Association of Dermatologists
+
+Patients at high risk of melanoma in Austria, C. Muller et al. 1315
+
+Table 5 (continued)
+
+Characteristic
+
+CDKN2A wild-type CDKN2A high risk
+
+(n = 401)
+
+(n = 14)
+
+P-valuea Odds ratio 95% CI
+
+P-valueb
+
+Unknown Distant metastasis Yes No MC1R R or r Wild-type
+
+276
+19 (4Á7) 382 (95Á3)
+175 (79Á2) 46 (20Á8)
+
+10
+3 (21) 11 (79)
+10 (91) 1 (9)
+
+0Á006 12Á12
+
+2Á54­57Á77 0Á002
+
+0Á35 3Á15
+
+0Á38­26Á02
+
+0Á29
+
+Values are n (%) unless stated otherwise. CI, confidence interval; Ref, reference value. av2-test for nominal variables and t-test for continuous variables. bMultivariable analysis, adjusted for sex and age. P-values < 0Á05 are significant.
+
+In total, 46 different MC1R variants were found in all participants (Table S4; see Supporting Information). We found seven nonsynonymous variants in MC1R and two variants of CDK4, which, to the best of our knowledge, have not been tested with prediction tools before.18­20 For those variants with unknown biological significance, 10 different prediction tools were applied to estimate their effect. For MC1R, the variant p.Y143C was found in three unrelated patients with melanoma, while the others occurred in only one person each. The prediction scores are listed in Table 6. Four variants (p.C35F, p.Y143C, p.A240T and p.I287N) were predicted to be damaging in > 75% of the used prediction tools. All carriers were classified as high risk, except for one patient carrying p.Y143C (for all phenotype data, see Table S5 in Supporting Information). The CDK4 variant p.V154L was classified as being deleterious by five prediction tools. The other, c.À60 C>CG, was located in a noncoding region and could therefore be predicted with only four tools; one predicted it to be diseasecausing.
+Discussion
+Individuals at high risk of melanoma should be recommended a more stringent skin examination for early recognition and risk-avoiding behaviour.21 As there are different characteristics that define someone as high risk, a more precise description of each subgroup might lead to preventive measures that are better adjusted to individual needs. In this study, we could reveal distinct differences not only between the high-risk and the reference groups, but also between each subgroup. For example, patients with a positive family history were younger on average than the entire study population (49 years, vs. 53 years for the high-risk and reference groups taken together), confirming increased inherited risk. However, positive family history was also associated with childhood freckling and red hair phenotype in a multivariable analysis. These findings support the hypothesis that high-risk individuals were at increased risk due to genetic susceptibility, as both onset of the disease and pigmentation phenotype are genetically determined. Interestingly, melanomas in this group were thinner than in the reference group, which might indicate
+
+that knowledge of disease in the family leads to increased awareness and consequently to earlier consultation of a physician.
+There are no indications for a slower growth of melanomas in patients with a positive family history, either in the literature or in our own study.22 Patients with multiple melanomas were slightly older than patients with a positive family history. After adjustment for age and sex only male sex remained significant as a risk factor compared with the reference group. For patients with early-onset melanoma, similar to the subgroup with a positive family history, both childhood freckling and external factors (solarium use and outdoor occupation) remained significant in a multivariable analysis. The lower numbers of melanomas in the head and neck region in the early-onset subgroup suggest that sun protection during vacation might reduce melanoma risk in addition to general awareness and avoidance of unnecessary ultraviolet exposure.23,24
+Besides these clinical and phenotypic differences, we noticed genetic differences between the subgroups as well. For example, disease-related CDKN2A mutations (and functional MC1R variants) were found mostly in association with a positive family history (12 of 14 carriers, 86%). Therefore, genetic testing seems to be particularly effective in this group. Carriers of high-risk mutations in CDKN2A were more likely to have multiple primary melanomas and were younger. Of the 46 MC1R variants in this population seven have not been analysed with prediction tools before. Four of them were classified as deleterious by  75% of the prediction tools. All of those variants predicted to be deleterious were found in the highrisk group. As shown above, both CDK4 variants were predicted to be damaging. For the MITF p.E318K variant, we added three new carriers to the cases described previously in the literature, all in the high-risk group. The frequency of the MITF variant in our samples (2Á4%) was similar to that in previously reported studies, with a frequency of 1Á7­1Á8%.25,26 Although this variant is known to be associated with renal cell carcinoma, no such case was reported in either our patients or their families.
+The study was limited by the anamnestic assessment of the family history. Therefore the actual number of cases of familial melanoma might be underestimated.
+
+© 2016 British Association of Dermatologists
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+1316 Patients at high risk of melanoma in Austria, C. Muller et al.
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+Table 6 Prediction of the MC1R and CDK4 variants
+
+Variant Amino acid change
+Polyphen2 HumDiv Score Provean HumVar Score Prediction MutationTaster Score Prediction SIFT Effect Score SNAP Prediction Score Expected accuracy Panther Pdeleterious CADD PHRED 12 score GERP++ Score PhyloP Score Summary: deleterious (% of total) High-risk patient
+
+MC1R c.104G>GT p.C35F
+Probably damaging 0Á97
+Possibly damaging 0Á68
+Deleterious
+À5Á399 Disease causing
+Damaging 0
+Neutral À5 53%
+0Á698
+16Á72
+4Á56
+2Á255 9 (90)
+Yes
+
+c.322G>GA p.A108T
+Benign 0
+Benign 0Á01
+Neutral
+À0Á183 Polymorphism
+Tolerated 1
+Neutral À81 93%
+0Á161
+0Á095
+À8Á69
+À1Á7151 0
+Yes
+
+c.428A>AG p.Y143C
+Probably damaging 1
+Probably damaging 0Á99
+Deleterious
+À8Á626 Disease causing
+Damaging 0
+Neutral À12 57%
+0Á980
+25Á7
+4Á81
+1Á77998 9 (90)
+Yes/yes/no
+
+c.466G>GA p.V156M
+Benign 0Á35
+Benign 0Á32
+Neutral
+1Á617 Disease causing
+Tolerated 0Á37
+Neutral À76 87%
+0Á156
+8Á295
+1Á77
+0Á07125 3 (30)
+Yes
+
+c.623T>TC p.V208A
+Benign 0
+Benign 0Á01
+Deleterious
+À3Á096 Polymorphism
+Damaging 0
+Neutral À27 61%
+0Á294
+8Á081
+2Á32
+0Á14892 4 (40)
+No
+
+c.718G>GA p.A240T
+Possibly damaging 0Á65
+Possibly damaging 0Á58
+Deleterious
+À3Á704 Disease causing
+Damaging 0
+Effect 11 59%
+0Á404
+24Á9
+4Á82
+2Á16832 9 (90)
+Yes
+
+c.860T>TA p.I287N
+Probably damaging 1
+Probably damaging 0Á99
+Deleterious
+À5Á957 Disease causing
+Damaging 0
+Effect 62 80%
+0Á798
+31
+5Á27
+1Á93532 10 (100)
+Yes
+
+CDK4 c.11A>AG p.V154L
+Benign 0Á16
+Benign 0Á092
+Deleterious
+Disease causing
+Tolerated 0Á95
+Neutral À95 97%
+0Á131
+18Á95
+4Á66
+2Á55665 5 (50)
+Yes
+
+c.104G>GT
+­ ­
+­ ­ ­
+­ Disease causing
+­ ­
+­ ­ ­
+­
+14Á98
+À3Á79
+À0Á4895 1 (25)
+Yes
+
+© 2016 British Association of Dermatologists
+
+Patients at high risk of melanoma in Austria, C. Muller et al. 1317
+
+To the best of our knowledge, for the first time all established familial melanoma risk genes were assessed combined with exogenous factors in the same patients. In our study, risk in early-onset patients appeared to be determined by environmental factors. The others cases seem to be determined mainly by genetic or other unassessed factors. Sun protection at an early age, particularly during recreational activities, might have prevented melanomas in the early-onset subgroup.
+For the genetic analysis, the majority of disease-related CDKN2A mutation carriers would have been missed in our study if we had tested families with a minimum of three cases. Therefore, our study supports the current recommendation to offer testing to families with two or more affected members.7 We also revealed new nonsynonymous variants in CDK4 and MC1R associated with high-risk patients. Further studies in central and eastern European countries might reveal novel disease-relevant genetic variants.
+Acknowledgments
+We would like to thank all of the participants of the M3 study for their contribution.
+References
+1 Ali Z, Yousaf N, Larkin J. Melanoma epidemiology, biology and prognosis. EJC Suppl 2013; 11:81­91.
+2 Leachman SA, Carucci J, Kohlmann W et al. Selection criteria for genetic assessment of patients with familial melanoma. J Am Acad Dermatol 2009; 61:677.e1­14.
+3 Demenais F, Mohamdi H, Chaudru V et al. Association of MC1R variants and host phenotypes with melanoma risk in CDKN2A mutation carriers: a GenoMEL study. J Natl Cancer Inst 2010; 102:1568­83.
+4 Pedace L, De Simone P, Castori M et al. Clinical features predicting identification of CDKN2A mutations in Italian patients with familial cutaneous melanoma. Cancer Epidemiol 2011; 35:e116­20.
+5 Wendt J, Schanab O, Binder M et al. Site-dependent actinic skin damage as risk factor for melanoma in a central European population. Pigment Cell Melanoma Res 2012; 25:234­42.
+6 Wendt J, Rauscher S, Burgstaller-Muhlbacher S et al. Actinic damage on the back is significantly determined by MC1R variants and previous sun exposure compared with other body sites in a multivariate analysis. Br J Dermatol 2014; 171:622­30.
+7 GenoMEL. Patient information. Having a family history of melanoma. Available at: http://www.genomel.org/info-for-patients/ having-a-family-history-of-melanoma/#contentjump (last accessed 9 February 2016).
+8 Burgstaller-Muehlbacher S, Marko M, Muller C et al. Novel CDKN2A mutations in Austrian melanoma patients. Melanoma Res 2015; 25:412­20.
+9 Schwarz JM, Cooper DN, Schuelke M, Seelow D. MutationTaster2: mutation prediction for the deep-sequencing age. Nat Methods 2014; 11:361­2.
+10 Adzhubei IA, Schmidt S, Peshkin L et al. A method and server for predicting damaging missense mutations. Nat Methods 2010; 7:248­ 9.
+
+11 Choi Y, Sims GE, Murphy S et al. Predicting the functional effect of amino acid substitutions and indels. PLoS ONE 2012; 7:e46688.
+12 Ng PC, Henikoff S. Predicting deleterious amino acid substitutions. Genome Res 2001; 11:863­74.
+13 Bromberg Y, Rost B. SNAP: predict effect of non-synonymous polymorphisms on function. Nucleic Acids Res 2007; 35:3823­35.
+14 Mi H, Muruganujan A, Thomas PD. PANTHER in 2013: modeling the evolution of gene function, and other gene attributes, in the context of phylogenetic trees. Nucleic Acids Res 2013; 41:D377­86.
+15 Davydov EV, Goode DL, Sirota M et al. Identifying a high fraction of the human genome to be under selective constraint using GERP++. PLoS Comput Biol 2010; 6:e1001025.
+16 Pollard KS, Hubisz MJ, Rosenbloom KR, Siepel A. Detection of nonneutral substitution rates on mammalian phylogenies. Genome Res 2010; 20:110­21.
+17 Kircher M, Witten DM, Jain P et al. A general framework for estimating the relative pathogenicity of human genetic variants. Nat Genet 2014; 46:310­15.
+18 Hepp D, Goncalves GL, Freitas TR. Prediction of the damage-associated non-synonymous single nucleotide polymorphisms in the human MC1R gene. PLoS ONE 2015; 10:e0121812.
+19 Hu HH, Benfodda M, Dumaz N et al. A large French case­control study emphasizes the role of rare Mc1R variants in melanoma risk. Biomed Res Int 2014; 2014:925716.
+20 Guida S, Bartolomeo N, Zanna PT et al. Sporadic melanoma in South-Eastern Italy: the impact of melanocortin 1 receptor (MC1R) polymorphism analysis in low-risk people and report of three novel variants. Arch Dermatol Res 2015; 307:495­503.
+21 van der Rhee JI, de Snoo FA, Vasen HF et al. Effectiveness and causes for failure of surveillance of CDKN2A-mutated melanoma families. J Am Acad Dermatol 2011; 65:289­96.
+22 Florell SR, Boucher KM, Garibotti G et al. Population-based analysis of prognostic factors and survival in familial melanoma. J Clin Oncol 2005; 23:7168­77.
+23 Elwood JM, Gallagher RP. Body site distribution of cutaneous malignant melanoma in relationship to patterns of sun exposure. Int J Cancer 1998; 78:276­80.
+24 Chiarugi A, Quaglino P, Crocetti E et al. Melanoma density and relationship with the distribution of melanocytic naevi in an Italian population: a GIPMe study ­ the Italian multidisciplinary group on melanoma. Melanoma Res 2015; 25:80­7.
+25 Bertolotto C, Lesueur F, Giuliano S et al. A SUMOylation-defective MITF germline mutation predisposes to melanoma and renal carcinoma. Nature 2011; 480:94­8.
+26 Yokoyama S, Woods SL, Boyle GM et al. A novel recurrent mutation in MITF predisposes to familial and sporadic melanoma. Nature 2011; 480:99­103.
+Supporting Information
+Additional Supporting Information may be found in the online version of this article at the publisher's website:
+Table S1. Origin of the participants and subgroups in total numbers and percentages.
+Table S2. Sequencing primers. Table S3. CDKN2A, MITF and CDK4 variant carriers. Table S4. All MC1R variants. Table S5. Phenotypes of the predicted MC1R and CDK4 variants.
+
+© 2016 British Association of Dermatologists
+
+British Journal of Dermatology (2016) 174, pp1308­1317
+
+

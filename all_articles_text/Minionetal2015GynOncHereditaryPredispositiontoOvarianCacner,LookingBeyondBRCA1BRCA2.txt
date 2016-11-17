@@ -1,0 +1,403 @@
+Gynecologic Oncology 137 (2015) 86­92
+Contents lists available at ScienceDirect
+Gynecologic Oncology
+journal homepage: www.elsevier.com/locate/ygyno
+
+Hereditary predisposition to ovarian cancer, looking beyond BRCA1/BRCA2
+Lindsey E. Minion a, Jill S. Dolinsky b, Dana M. Chase c, Charles L. Dunlop b,
+Elizabeth C. Chao b,d, Bradley J. Monk c,
+a Dignity Health St. Joseph's Hospital and Medical Center, Phoenix, AZ, United States b Department of Clinical Diagnostics, Ambry Genetics, Aliso Viejo, CA, United States c Division of Gynecologic Oncology, University of Arizona Cancer Center at Dignity Health St. Joseph's Hospital and Medical Center, Phoenix, AZ, United States d Division of Genetics and Genomics, University of California, Irvine School of Medicine, Irvine, CA, United States
+HIGHLIGHTS
+· We demonstrated the diagnostic yield of multi-gene panel testing in HBOC · We examined the contribution of 19 genes in a BRCA1/2 negative population · Genetic panel testing increases diagnostic yield
+
+article info
+Article history: Received 22 November 2014 Accepted 17 January 2015 Available online 23 January 2015
+Keywords: Hereditary BRCA1 BRCA2 Multi-gene Next-generation sequencing Lynch syndrome
+
+abstract
+Objective. Genetic predisposition to ovarian cancer is well documented. With the advent of next generation sequencing, hereditary panel testing provides an efficient method for evaluating multiple genes simultaneously. Therefore, we sought to investigate the contribution of 19 genes identified in the literature as increasing the risk of hereditary breast and ovarian cancer (HBOC) in a BRCA1 and BRCA2 negative population of patients with a personal history of breast and/or ovarian cancer by means of a hereditary cancer panel.
+Methods. Subjects were referred for multi-gene panel testing between February 2012 and March 2014. Clinical data was ascertained from requisition forms. The incidence of pathogenic mutations (including likely pathogenic), and variant of unknown significance were then calculated for each gene and/or patient cohort.
+Results. In this cohort of 911 subjects, panel testing identified 67 mutations. With 7.4% of subjects harboring a mutation on this multi-gene panel, the diagnostic yield was increased, compared to testing for BRCA1 and BRCA2 mutations alone. In the ovarian cancer probands, the most frequently mutated genes were BRIP1 (n = 8; 1.72%) and MSH6 (n = 6; 1.29%). In the breast cancer probands, mutations were most commonly observed in CHEK2 (n = 9; 2.54%), ATM (n = 3; 0.85%), and TP53 (n = 3; 0.85%).
+Conclusions. Although further studies are needed to clarify the exact management of patients with a mutation in each gene, this study highlights information that can be captured with panel testing and provides support for incorporation of panel testing into clinical practice.
+© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Introduction
+Ovarian carcinoma is notable for a lack of effective screening, ambiguous symptoms, and highest mortality among gynecologic malignancies. The late-stages of presentation have hampered modern efforts to improve morbidity and mortality associated with this disease [1,2]. However, insight into genetic susceptibility for ovarian cancer
+ Corresponding author at: Department of Obstetrics and Gynecology, University of Arizona Cancer Center, Creighton University School of Medicine at Dignity Health St. Joseph's Hospital and Medical Center, 500 West Thomas Road, Suite 600, Phoenix, AZ 85013, United States. Fax: +1 602 798 0807.
+E-mail address: Bradley.monk@chw.edu (B.J. Monk).
+
+has revolutionized care by providing an opportunity for risk-reducing surgery in women with a known predisposition to disease [3,4].
+Familial ovarian carcinoma has been described in the context of a hereditary breast and ovarian cancer (HBOC) syndrome. Inherited in an autosomal dominant fashion, HBOC is characterized by a young age of onset, multiple primaries, bilateral breast cancer, and family history of 1st- or 2nd-degree kin with similar diagnoses [5]. Current estimates predict the incidence of ovarian and breast carcinoma in United States to be 21,980 and 232,670, respectively [6]. Of these ovarian cases, about 20­25% are thought to be a result of a hereditary predisposition, while 5­7% of breast carcinoma is thought to be hereditary [7,8]. Historically, known genetic causes of HBOC have largely been explained by germline mutations in the BRCA1 and BRCA2 (BRCA1/2) genes, with an estimated risk of ovarian carcinoma from 30­62% in individuals with
+
+http://dx.doi.org/10.1016/j.ygyno.2015.01.537 0090-8258/© 2015 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+L.E. Minion et al. / Gynecologic Oncology 137 (2015) 86­92
+
+87
+
+mutations [9­12]. A small contribution of hereditary ovarian carcinoma risk has also been attributed to MLH1, MSH2, MSH6, and PMS2, the mismatch repair (MMR) or Lynch genes [13,14].
+Literature supports that BRCA1/2 genes are responsible for the majority of known cause of HBOC and MMR genes are responsible for an additional proportion of hereditary ovarian cancer, while the remaining hereditary risks are accounted for by several other genes as well as proportion that is as yet unexplained [15]. Through the understanding of other genetic hereditary syndromes (including Li­Fraumeni, Cowden, and Peutz­Jegher syndromes), and homologous recombination (HR) pathway genes, in which BRCA1/2 interact, several additional genes contributing to the HBOC phenotype have been identified and well described in the literature [13­33]. Historically, testing many genes for a single proband has been laborious and cost prohibitive. Thus, testing was commonly restricted to more commonly mutated genes that best fit the patient's clinical history. However, the advent of next generation sequencing technology has made it possible for clinicians to order a single test, evaluating multiple genes simultaneously, in a cost effective and time efficient fashion, enabling a more complete genetic evaluation. Such testing has been clinically available since 2012; however, limited literature exists assessing the value of multi-gene panel testing in cohorts of patients with breast and/or ovarian carcinoma. Therefore, we sought to investigate the contribution of 19 genes identified in the literature as increasing the risk of hereditary breast and/or ovarian cancer in a BRCA1/2 negative population of patients with a personal history of breast and/or ovarian cancer by means of a next generation sequencing panel.
+Materials & methods
+Participants
+Subjects were referred for multi-gene panel testing with OvaNext (Ambry Genetics, Aliso Viejo, CA) between February 2012 and March 2014. For this retrospective cohort study, all identifying information was removed from the database and the subjects were assigned codes. This study was conducted in accordance with all regulations set for by the Institutional Review Board of Dignity Health at St. Joseph's Hospital and Medical Center, Phoenix, AZ. Inclusion criteria included: personal history of breast and/or ovarian, fallopian, or primary peritoneal cancer. Exclusion criteria included: male gender or mutation(s) or likely pathogenic variant(s) identified in BRCA1/2 gene(s). From test requisition forms self-identified demographic data, and self-identified personal and family histories of cancer were extracted.
+Genetic panel
+
+50×. Additionally, bi-directional Sanger sequencing was performed to confirm all variant calls, other than known previously defined benign and likely benign alterations. To detect large deletions and duplications, a targeted chromosomal microarray with increased probe density in regions of interest was completed (Aglient, Santa Clara, CA).
+Initial data processing and base calling, including extraction of cluster intensities, was done using RTA 1.12.4 (HiSeq Control Software 1.4.5). Sequence quality filtering was executed with the Illumina CASAVA software (ver 1.8.2 Illumina, Hayward, CA). Sequence fragments were aligned to the reference human genome (GRCh37) and variant calls were generated using CASAVA. A minimum quality threshold of Q30 was applied which translates to an accuracy of N99.9% for called bases and mean coverage was N 300×.
+Annotated variants were then analyzed to determine the likelihood of pathogenicity and classified into five tiers based on the recommendations of the American College of Medical Genetics and Genomics [34]. Alterations were classified in the following categories: pathogenic mutation, variant likely pathogenic, variant of unknown significance (VUS), variant likely benign, and benign based on a previously described multifactorial algorithm [35].
+Data analysis
+The incidence of pathogenic mutations (including likely pathogenic), and VUS were then calculated for each gene. The incidence of mutations and VUS were compared across cohorts based on demographic and clinical history information.
+Genes were grouped in four categories: HR pathway/moderately penetrant (ATM, BARD1, CHEK2, MRE11A, NBN, PALB2, RAD50, RAD51C), Lynch syndrome genes (MLH1, MSH2, MSH6, PMS2, EPCAM), other highly penetrant (CDH1, PTEN, STK11, TP53), and other moderate risk (MUTYH). Monoallelic MUTYH mutation carriers were not included in the mutation positive cohort.
+Results
+A total of 1187 subjects were referred for multi-gene testing. After applying exclusion criteria the cohort included 911 subjects. The following subjects were excluded from data analysis: 10 males, 26 females with an identified BRCA1/2 mutation and 240 females without a personal history of breast or ovarian cancer. Demographic details for the 911 subjects are provided in Table 1. There were a total of 466 subjects with a personal history of ovarian cancer, 353 subjects had a personal history of breast cancer, and 92 had personal histories of both breast and ovarian cancer.
+
+The following 21 genes were analyzed and included for all subjects: ATM, BARD1, BRCA1, BRCA2, BRIP1, CDH1, CHEK2, EPCAM, MLH1, MRE11A, MSH2, MSH6, MUTYH, NBN, PALB2, PMS2, PTEN, RAD50, RAD51C, STK11, and TP53 [13­33].
+Mutation identification and analysis
+Genetic testing was completed in Ambry's laboratory using the following protocol. Genomic deoxyribonucleic acid was isolated from subject's whole blood or saliva samples using the QIAsymphony instrument (Qiagen, Valencia, CA) according to manufacturer's protocols. Deoxyribonucleic acid was quantified using a spectrophotometer (Nanodrop, Thermoscientific, Pittsburgh, PA or Infinite F200, TECAN, San Jose, CA). Genomic deoxyribonucleic acid was then combined with primer pairs in micro-droplets designed to the specified targets for each gene to complete sequence enrichment (Raindance Thunderstorm Technologies, Billerica, MA). Using Illumina HiSeq technology (Illumina, San Diego, CA) enriched libraries were applied to the solid surface flow cell for clonal amplification and sequencing. Sanger sequencing was performed for any region with insufficient depth of coverage, defined as
+
+Mutations identified in this cohort
+Of the 911 subjects negative for a BRCA1/2 mutation, 7.4% (n = 67) had a pathogenic or likely pathogenic mutation (collectively referred to as mutation herein) in a gene other than BRCA1/2 (Table 3, Fig. 1). Thirty subjects (6.44%) with ovarian cancer had a mutation, 26 (7.37%) subjects with breast cancer had a mutation, and 11 (11.96%) subjects
+
+Table 1 Subject Demographics: Ethnicity of distribution of subjects.
+
+Ethnicity
+White Unknown Ashkenazi Jewish Hispanic African American/Black Mixed Ethnicity Asian Middle Eastern Total
+
+N
+688 90 54 24 18 17 15 5
+911
+
+%
+75.52 9.88 5.93 2.63 1.98 1.87 1.65 0.55 100
+
+88 L.E. Minion et al. / Gynecologic Oncology 137 (2015) 86­92
+
+Table 2 Subject age at time of malignancy diagnoses.
+
+Breast cancer cohort
+
+Ovarian cancer cohort
+
+Breast & ovarian cancer cohort
+
+Pos Neg
+
+Total cohort Pos
+
+Neg
+
+Total cohort Pos
+
+Neg Total cohort
+
+N = 26 N = 237 N = 353
+
+N = 30 N = 292 N = 466
+
+N = 11 N = 56 N = 92
+
+Breast cancer age at Dx
+
+Ovarian cancer age at Dx
+
+Breast cancer age at Dx
+
+Mean Median Age range Std dev Age at Dx provided
+(total N)
+
+48 46 27­75 13.3 26
+
+52 51 22­92 12.1 230
+
+55 53 22­92 9.98 340
+
+53 50 26­78 15.1 29
+
+55 56 ­85 13.6 282
+
+55 56 17­85 14 447
+
+57 54 45­75 9.9 10
+
+55 53 36­76 10.7 53
+
+55 54 28­76 10.4 88
+
+Dx = diagnosis, Std dev = standard deviation, Pos = positive mutation status, Neg = negative mutation status.
+
+Pos Neg Total cohort N = 11 N = 56 N = 92
+
+Ovarian cancer age at Dx
+
+58 59 41­72 9.5 11
+
+57 58 27­87 14.4 53
+
+57 61 26­87 13.7 88
+
+with both breast and ovarian cancer had a mutation. One individual with ovarian cancer harbored both an ATM and MSH6 mutation. One individual with breast cancer had 2 CHEK2 mutations. Mutations were identified in all genes on the panel with the exceptions of MSH2 and STK11 in this cohort.
+In the ovarian cancer cohort (n = 466), among the HR pathway/ moderately penetrant genes, mutations were seen most frequently in BRIP1 (n = 8; 1.71%), ATM (n = 4; 0.86%), and RAD51C (n = 3; 0.64%). Mutations were also identified in CHEK2 in 2 individuals and a NBN, PALB2, RAD50, and MRE11A mutation was identified in 1 individual per gene. Among Lynch syndromes mismatch repair genes (MLH1, MSH2, MSH6, PMS2, EPCAM), 8 mutations were identified (1.72% of the cohort) with MSH6 mutations being the most common, accounting for 75% (n = 6) of all Lynch mutations in the ovarian cancer only cohort. Among the other highly penetrant genes, 2 individuals with ovarian cancer had PTEN alterations while no alterations were identified in TP53, CDH1, or STK11.
+
+Table 3 Mutations observed by personal cancer history. Positives by gene & cancer history.
+
+Total Total positive Total positive Total positive
+
+positive with ovarian with breast with breast and
+
+cancer
+
+cancer
+
+ovarian cancer
+
+BRCA Pathway/Moderate Risk
+
+BRIP1
+
+10
+
+CHEK2
+
+16
+
+ATM
+
+7
+
+RAD51C
+
+3
+
+NBN
+
+4
+
+PALB2
+
+4
+
+RAD50
+
+2
+
+MRE11A
+
+1
+
+BARD1
+
+2
+
+Total
+
+49
+
+8 2 4a 3 1 1 1 1 0 21
+
+1 9 3 0 2 2 1 0 2 20
+
+1 5b 0 0 1 1 0 0 0 8
+
+Lynch Genes MSH6 MLH1 PMS2 MSH2 Total
+
+10 6a 22 10 00
+13 8a
+
+2 0 0 0 2
+
+2 0 1 0 3
+
+Other Highly Penetrant PTEN TP53 CDH1 STK11 Total Total Individuals
+
+2 3 1 0 6 67a
+
+2 0 0 0 2 30a
+
+0 3 1 0 4 26
+
+0 0 0 0 0 11
+
+Other Moderate Risk
+
+Individuals with a
+
+16
+
+9
+
+4
+
+3b
+
+monoallelic MUTYH
+
+mutation
+
+a 1 individual has both an MSH6 and ATM mutation. b 1 individual has 2 CHEK2 mutations and a MUTYH mutation, counted once in CHEK2
+count.
+
+In the breast cancer only cohort (n = 353), among the BRCA pathway/ moderately penetrant genes, mutations were most commonly observed in CHEK2 (n = 9; 2.55%), and ATM (n = 3; 0.85%). Interestingly, only 1 individual with breast cancer only carried a BRIP1 mutation, despite the high frequency of BRIP1 mutations in the ovarian cancer only cohort. Mutations were also identified in NBN (n = 2), PALB2 (n = 2), BARD1 (n = 2), and RAD50 (n = 1). Of note, 2 individuals with breast cancer only had a BARD1 mutation while no individuals from the ovarian only cohort had a BARD1 mutation. Among Lynch syndromes mismatch repair genes only 2 mutations were identified in the breast only cohort, both of which were in MSH6. Among the other highly penetrant genes, 3 individuals with breast cancer had TP53 alterations and 1 had a CDH1 mutation, while no alterations were identified in PTEN or STK11.
+Among probands with breast and ovarian cancer, at least 1 in 7 of those BRCA1/2 negative patients had a mutation in another breast and ovarian cancer susceptibility gene. Eleven (11.96%) subjects in this cohort had a mutation, including 5 with a mutation in CHEK2, 1 with a BRIP1 mutation, 1 with a NBN mutation, 1 with a PALB2 mutation, 2 with a MSH6 mutation, and 1 with a PMS2 mutation.
+Variants of unknown significance
+At least one VUS was identified in more than 1 in every 4 subjects (259/911; 28.43%) (Fig. 2). This includes 12 individuals who also carried a mutation. Thus, 12/67 (17.91%) of individuals with a positive test result also carried at least one VUS. Of the 911 subjects, 43 carried two or more VUS (4.72%), including 2 individuals with three VUS, and 1 individual with four VUS. When a VUS was present, the vast majority (84.77%; 217/256) had just one VUS.
+When considering ethnicity, VUS rates are highest among Middle Eastern probands (80% with one or more VUS) followed by Asian probands (53.3% with one or more VUS) and Black probands (44.4% with one or more VUS). Rates of more than one VUS were highest among Middle Easterners and Blacks (40.00% and 22.2% with two or more VUS, respectively). VUS rates were lowest among Whites (27.18%) and those with ethnicity unknown/not reported (22.22%).
+Negative mutation findings and age of onset
+Five hundred and eighty-six subjects (64.32%) did not have any significant or inconclusive genetic test results, including 237 probands with breast cancer, 293 probands with ovarian cancer, and 56 probands with breast and ovarian cancer. The age of onset among subjects negative for a reportable finding was slightly older compared to those with a mutation, though there was no significant difference in age of onset among any of the subgroups. In the breast cancer only cohort, the average age of diagnosis among negative probands was 52 compared to 48 for positive probands (p = 0.07). In the ovarian cancer only cohort the average age of ovarian cancer diagnosis was 55 among negative probands and 53 among positive probands (p = 0.37). In the breast and ovarian cancer cohorts,
+
+L.E. Minion et al. / Gynecologic Oncology 137 (2015) 86­92
+AC
+
+89
+
+BD
+
+Fig. 1. Mutation distribution: A. Full Cohort, B. Ovarian Cohort, C. Breast and Ovarian Cohort, and D. Breast Cohort.
+
+however, age of onset was slightly older among positive individuals compared to those negative for a mutation, though the total number of subjects available to compare in this group is small (p = 0.72 for breast cancer age of onset, p = 0.97 for ovarian cancer age of onset) (Table 2).
+Family history
+Consistent across all cohorts, N90% of probands reported at least one relative with cancer, with 93% of negative probands reporting a family history of cancer, and 98% of positive probands reporting a family history of cancer in at least one relative (p = 0.19). Among these relatives, 77.5%
+
+of positive probands reported cancer of any kind in at least one 1st degree relative, and 72.7% of negative probands reported cancer in at least one 1st- degree relative. Thus, the vast majority of individuals with breast or ovarian cancer referred for OvaNext testing had a family history of cancer, the majority of which included cancer in a 1st- degree relative (Table 4A).
+Results were analyzed more specifically regarding breast and ovarian cancer history among 1st and 2nd-degree relatives. Probands positive for a pathogenic alteration and those negative for a reportable finding were compared, subdividing by the probands' histories of breast and ovarian cancer, breast cancer only, or ovarian cancer only (Table 4B).
+
+Fig. 2. Variants of unknown significance (VUS) percentage observed by gene.
+
+90 L.E. Minion et al. / Gynecologic Oncology 137 (2015) 86­92
+
+Table 4A Family histories: Subjects that report a family history of malignancy and history of affected first-degree family member.
+
+Mutation positive Mutation negative
+
+(n = 67)
+
+(n = 585)
+
+n%
+
+n%
+
+1 or more 1st degree relative with cancer 54 1 or more relative affected with cancer 65
+
+80.6 97.0
+
+426 72.8 542 92.6
+
+Discussion
+Using a hereditary cancer multi-gene panel, we evaluated the contribution of 19 additional genes that increase susceptibility to ovarian cancer among women negative for BRCA1/2, with a personal history of breast or ovarian cancer [20]. This yielded the identification of 67 additional mutations not in BRCA1/2. With 7.4% of patients harboring a mutation on this multi-gene panel, this increases the diagnostic yield of genetic testing substantially compared to testing for BRCA1/2 mutations alone.
+The majority of mutations (72%) were identified in the HR pathway/ moderately penetrant breast and ovarian cancer genes in the HR pathway. Remaining mutations were identified in Lynch syndrome genes and other highly penetrant genes with established National Comprehensive Cancer Network or consortium management guidelines.
+The most common mutations identified in subjects with ovarian cancer were in BRIP1 (n = 9). BRIP1, a member of the HR pathway, interacts directly with BRCA1 and along with several other proteins creating a macro-protein theorized to be involved in DNA repair during replication [19,36]. Rafnar et al., found when evaluating an Icelandic HBOC population that BRIP1 demonstrates tumor suppressive effects and mutations in the gene increased risk of ovarian cancer with an odds ratio of 8.13. The findings in this cohort of subjects confirm reports of BRIP1 mutations demonstrated in other series of patients with ovarian carcinoma [15,30]. Reviewing family histories of probands with a BRIP1 mutation, 4 subjects (44.4%) had a family history of ovarian cancer in a 1st- or 2nd-degree relative, compared to 29.3% of ovarian cancer probands negative for a reportable finding of a family history of ovarian cancer (Tables 4A and 4B). Proband and family history frequencies of ovarian cancer among BRIP1 mutation carriers suggest that BRIP1 has a higher penetrance for ovarian cancer compared to other genes on this panel.
+Verifying that deficiencies in HR pathway are central in ovarian carcinogenesis, the ovarian cohort demonstrated mutations in other HR genes including CHEK2, ATM, NBN, PALB2, RAD51C, RAD50, and MRE11A (n = 29). In fact, the majority of mutations (71.43%) were found in genes in this pathway.
+In reviewing the MMR genes in subjects with a personal history of ovarian or breast and ovarian carcinoma, an overall mutation frequency of 1.97% (11/558) was observed. This was even higher than the frequency previously reported (0.5%) [15], with nearly 1 in 50 individuals with ovarian carcinoma in this cohort harboring a mutation in an MMR gene, although a selection bias may exist given that this cohort was referred for multi-gene panel testing that included MMR genes. Furthermore, seven family histories did not meet Amsterdam II or Bethesda criteria for Lynch syndrome testing, yet the proband did
+
+harbor a mutation in a MMR gene. These criteria have proven ineffective with gynecologic malignancy, and some patients with MMR mutation may be missed if genetic testing for MMR genes is limited to those individuals who meet an established set of criteria for Lynch syndrome genetic testing. These results suggest that expansion of Lynch syndrome testing criteria should be considered, particularly for probands and families presenting predominantly with ovarian cancer.
+Interestingly, an additional 10 patients that did meet Amsterdam II or Bethesda criteria did not harbor a MMR mutation, but in fact had a mutation in another gene on this hereditary cancer panel with mutations found in: CHEK2, MRE11A, BRIP1, RAD51C, and (monoallelic) MUTYH. The personal and family histories among these additional cases did not contain additional features that would be indicative of a hereditary breast and ovarian cancer susceptibility, which may have led a clinician to consider additional testing for these genes.
+These findings demonstrated that MMR genes are implicated in a small fraction of ovarian carcinoma and nearly 1 in 50 referred for a hereditary cancer panel genetic testing. However phenotypic assessment alone does not accurately guide a clinician in ordering gene specific testing, and in some cases testing of additional genes may be warranted even when a family meets clinical criteria for Lynch syndrome. Thus, this data suggests that simultaneous testing with multi-gene panels provides an efficient means of evaluating MMR and other ovarian carcinoma susceptibility genes.
+Several individuals with breast cancer only in our cohort also had a mutation in an MMR gene (n = 2), however only one family met criteria for Lynch testing. A proband not meeting criteria had invasive ductal carcinoma diagnosed at age 49 with no suggestion of Lynch syndrome, such as family member with endometrial or colorectal cancer, reported in her family history. There is conflicting evidence regarding the risk for breast cancer in individuals with MMR mutations, with results herein contributing further to the perplexing question regarding breast cancer susceptibility and Lynch syndrome. As more multi-gene panel testing is performed clinically and in research settings, more clarity should surface regarding the correlation between breast cancer risk and Lynch syndrome.
+In assessing the mutations identified in other highly penetrant genes with established management guidelines, interestingly 2 individuals with ovarian cancer had a PTEN alteration, which are of interest as the risk for ovarian carcinoma is not commonly associated with mutations in PTEN. Mutations in TP53 and CDH1 were identified in breast cancer probands only, which is consistent with established predispositions for these genes, and no alterations were identified in STK11 in the entire cohort. This trend has been observed in other panel testing as well, where mutations in STK11 have been limited to individuals with clinical features suggestive of Peutz­Jegher syndrome, which is in contrast to mutations in TP53, CDH1, and PTEN [39]. Data has been emerging in these latter genes (TP53, CDH1, PTEN) suggesting that, much like Lynch findings in this cohort, individuals with mutations identified on multigene panel testing in these genes do not necessarily have expected clinical features of the related genetic syndrome.
+While panel testing is more likely to provide a more complete capture of an individual's genetic landscape, there are several unanswered questions and areas of future research. As the number of genes tested increases, the likelihood of detecting VUS increases as well.
+
+Table 4B Family histories: Subjects that report a family history of malignancy and history of affected first-degree or second-degree family member.
+
+Ovarian cancer probands (+/- breast cancer)
+
+Mutation positive (N = 41)
+
+Negative (N = 348)
+
+Breast cancer probands (+/- ovarian cancer)
+
+Mutation positive (N = 37)
+
+Negative (N = 293)
+
+N%
+
+N%
+
+N%
+
+N%
+
+1 or more relative with ovarian cancer
+
+12 29.3
+
+71 20.4
+
+9 24.3
+
+96 32.8
+
+1 or more relative with breast cancer
+
+14 34.1 146 42.0 21 56.8 191 65.2
+
+1 or more relative with breast cancer at age b50
+
+6 14.6
+
+45 12.9
+
+6 16.2 104 35.5
+
+L.E. Minion et al. / Gynecologic Oncology 137 (2015) 86­92
+
+91
+
+Although these results are not negative per se, data is lacking as to the clinical impact. These results may be confusing and unsettling to patients as the implications to the proband and her family remains unclear. Furthermore, if individuals underwent testing based on family history alone, without a personal history of breast or ovarian cancer, it remains to be clarified whether risk-reduction surgery would be appropriate for patients with mutations in all genes on the panel. Data is needed regarding incidence, penetrance, and age-adjusted risks to determine these practice guidelines. To quantify these important measures that will steer practice guidelines, particularly given the rarity of pathogenic mutations in many of these genes, large-scale data sharing between laboratories, clinicians, and researchers is imperative. Until this information is discovered on a population level, clinicians and patients alike will be faced with positive results lacking established management. Both parties maybe prompted to proceed with unnecessary additional evaluation (for example pelvic ultrasound and CA-125 screening for ovarian cancer, and MRI for breast cancer), testing of family members or unwarranted risk-reducing surgery. These steps would add to patient concern and financial cost. Further data will help to support or refute the extent in which additional preventive screening and management strategies are warranted for individuals with mutations in moderate penetrance genes. Furthermore, it will provide clarity regarding actual risks for family members considering testing for a known pathogenic mutation identified in the proband.
+Although further studies are needed to clarify management of each mutation, this study highlights the information that can be captured with panel testing and merits further review for incorporation in clinical practice. Next generation sequencing is inarguably a cost-effective and time-efficient strategy for testing many genes simultaneously. As more data emerges regarding penetrance and age-adjusted risks through nationwide and international data sharing initiatives such as those led by PROMPT (The Prospective Registry of MultiPlex Testing) and ENIGMA (Evidence-based Network for the Interpretation of Germline Mutant Alleles), the long term impact on reduction in cost of medical care and morbidity/mortality also can be assessed. Furthermore, age of onset of breast or ovarian cancer, and family history of breast or ovarian cancer did not vary significantly among subjects positive for a mutation and those without any reportable findings. Thus, this data does not support the utility of severity of family history or age of onset of cancer to refer HBOC patients for multi-gene panel testing.
+As these questions are being answered in future studies, a more complete genetic understanding is providing opportunities for translation and treatment planning. BRCA mutation carriers with ovarian carcinoma are noted to have a better prognosis, and clinical response to platinum therapy is providing patients and families with prognostic information specific to their mutation. Moreover, targeted therapies are underdevelopment that exploit the defect in HR, inhibiting poly(ADP-ribose)polymerase (PARP), and creating a lethal submission of DNA repair by interrupting base excision repair. BRCA mutations confer sensitivity to PARP inhibitors and it has been suggested that this sensitivity may extend to other FA-BRCA (HR) genes as well [37­40].
+This population of probands was referred nationwide for testing, making our data set large and generalizable to patient cohorts with a history of breast or ovarian cancer. However, our study has several limitations, including a potential selection bias as all subjects were referred for genetic testing and not recruited at random. Additionally, demographic and clinical history data was limited to reported information on test requisition forms without direct review of patient medical records. Therefore, personal and family histories could be incomplete, or underreported for all affected family members.
+Here we have evaluated the contribution of 19 genes in a BRCA1/2 negative population with a personal history of breast and/or ovarian cancer. Multi-gene panels provide an efficient means of capturing a genetic diagnosis; this study highlights information that can be captured with panel testing and suggests a role for incorporation in clinical practice.
+
+Conflict of interest statement
+Dr. Elizabeth Chao, Jill Dolinsky, and Charles Dunlop are employed by Ambry Genetics. Drs. Bradley Monk, Dana Chase and Lindsey Minion have nothing to disclose.
+Acknowledgment
+The authors would like to thank Daniele A. Sumner, BA for her assistance in editing the manuscript. The authors would also like to thank Madison Brawer for her assistance in compiling this data, and would like to thank all referring clinicians who contributed valuable clinical histories on patients referred for testing. The authors are solely responsible for the content and preparation.
+References
+[1] Siegel R, Naishadham N, Jemal A. Cancer statistics, 2013. CA Cancer J Clin Jan 2013; 63(1):11­30.
+[2] Coleman RL, Monk BJ, Sood AK, Herzog TJ. Latest research and treatment of advanced-stage epithelial ovarian cancer. Nat Rev Clin Oncol Apr 2013;10(4): 211­24.
+[3] Kauff ND, Satagopan JM, Robson ME, Scheuler L, Hensley M, Clifford AH, et al. Riskreducing salpingo-oophorectomy in women with a BRCA1 or BRCA2 mutation. N Engl J Med May 23 2002;346(21):1609­15.
+[4] Rebbeck TR, Kauff ND, Domchek SM. Meta-analysis of risk reduction estimates associated with risk-reduction salpingo-oophorectomy in BRCA1 or BRCA2 mutation carriers. J Natl Cancer Inst Jan 21 2009;101(2):80­7.
+[5] Nelson HD, Huffman LH, Fu R, Harris EL, U.S. Preventive Task Force. Genetic risk assessment and BRCA mutation testing for breast and ovarian cancer susceptibility: systematic evidence review for the U.S. Preventive Services Task Force. Ann Intern Med Sep 6 2005;143(5):362­79.
+[6] American Cancer Society. Facts and Figs. http://www.cancer.org/acs/groups/ content/@research/documents/webcontent/acspc-042151.pdf; 2014.
+[7] Weisman SW, Weiss SM, Newlin AC. Genetic testing by cancer site ovary. Cancer J Jul­Aug 2012;18(4):320­7.
+[8] Van der Groep P, Van der Wall E, Van Diest PJ. Pathology of hereditary breast cancer. Cell Oncol Apr 2011;34(2):71­88.
+[9] Miki Y, Swensen J, Shattuck-Eidens D, Futreal A, Harshman K, Tavtigian S, et al. A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science Oct 7 1994;266(5182):66­71.
+[10] Wooster R, Bignell G, Lancaster J, Collins N, Gregory S, Gumbs C, et al. Identification of the breast cancer susceptibility gene BRCA2. Nature Dec 21­28 1995;378(6559): 789­92.
+[11] National Comprehensive Cancer Network Clinical Practice Guidelines in Oncology. Genetic/familial High-Risk Assessment: Breast and Ovarian (version 4.2013). http://www.nccn.org/professionals/physician_gls/pdf/genetics_screening.pdf. (Accessed February 22,2014).
+[12] Antoniou A, Pharoah PD, Narod S, Risch HA, Eyfjord JE, Hopper JL, et al. Average risk of breast and ovarian cancer associated with BRCA1 and BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies. Am J Hum Genet May 2003;72(5):1117­30.
+[13] Lu KH, Daniels M. Endometrial and ovarian cancer in women with Lynch syndrome: update in screening and prevention. Fam Cancer Jun 2013;12(2):273­7.
+[14] Dunlop MG, Farrington SM, Carothers AD, Wyllie AH, Sharp L, Burn J, et al. Cancer risk associated with germline DNA mismatch repair gene mutations. Hum Mol Genet Jan 1997;6(1):105­10.
+[15] Walsh T, Casadei S, Lee MK, Pennil CC, Nord AS, Thornton AM, et al. Mutations in 12 genes for inherited ovarian, fallopian tube, and peritoneal carcinoma identified by massively parallel sequencing. Proc Natl Acad Sci U S A Nov 1 2011;108(44): 18032­7.
+[16] Meindl A, Hellbrand K, Wiek C, Erven V, Wappenschmidt B, Niederacher D, et al. Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet May 2010;42(5):410­4.
+[17] Kurian AW, Hare EE, Mills MA, Kingham KE, McPherson L, Whittemore AS. Clinical evaluation of multiple-gene sequencing panel for hereditary cancer risk assessment. J Clin Oncol Jul 1 2014;32(19):2001­9.
+[18] Rafnar T, Gudbjartsson DF, Sulem P, Jonasdottir A, Sigurdsson A, Jonasdottir A, et al. Mutations in BRIP1 confer high risk of ovarian cancer. Nat Genet Oct 2 2011;43(11): 1104­7.
+[19] Walsh T, Casadei S, Coats KH, Swisher E, Stray SM, Higgins J, et al. Spectrum of mutations in BRCA1, BRCA2, CHEK2, and TP53 in families at high risk of breast cancer. JAMA Mar 22 2006;295(12):1379­88.
+[20] Coulet F, Fajac A, Colas C, Eyries M, Dion-Miniere A, Rouzier R, et al. Germline RAD51C mutations in ovarian cancer susceptibility. Clin Genet Apr 2013;83(4): 332­6.
+[21] Damiola F, Pertesi M, Oliver J, Calvez-Kelm FL, Voegele C, Young EL, et al. Rare key functional domain missense substitutions in MRE11A, RAD50, and NBN contribute to breast cancer susceptibility: results from a Breast Cancer Family Registry case­ control mutation-screening study. Breast Cancer Res Jun 3 2014;16(3):R58.
+[22] D'Andrea AD. Susceptibility pathways in Fanconi's anemia and breast cancer. N Engl J Med May 20 2010;362(20):1909­19.
+
+92 L.E. Minion et al. / Gynecologic Oncology 137 (2015) 86­92
+
+[23] Antoniou AC, Casadei S, Heikkinen T, Barrowdale D, Pylkas K, Roberts J, et al. Breastcancer risk in families with mutations in PALB2. N Engl J Med Aug 7 2014;371(6): 497­506.
+[24] Kuusisto KM, Bebel A, Vihinen M, Schleutker J, Sallinen SL. Screening for BRCA1, BRCA2, CHEK2, PLAB2, BRIP1, RAD50, and CDH1 mutations in high-risk Finnish BRCA1/2-founder mutations-negative breast and/or ovarian cancer individuals. Breast Cancer Res Feb 28 2011;13(1):R20.
+[25] Thorstenson YR, Roxas A, Kroiss R, Jenkins MA, Yu KM, Bachrich T, et al. Contributions of ATM mutations to familial breast and ovarian cancer. Cancer Res Jun 15 2003; 63(12):3325­33.
+[26] Pennington KP, Walsh T, Harrell MI, Lee MK, Pennil CC, Rendi MH, et al. Germline and somatic mutations in homologous recombination genes predict platinum response and survival in ovarian, fallopian tube, and peritoneal carcinomas. Clin Cancer Res Feb 1 2014;20(3):764­75.
+[27] Casadei S, Norquist BM, Stray S, Mandell JB, Lee MK, Stamatoyannopoulos JA, et al. Contribution of inherited mutations in the BRCA2-interacting protein PALB2 to familial breast cancer. Cancer Res Mar 15 2011;71(6):2222­9.
+[28] Pelttari LM, Heikkinen T, Thompson D, Kallioniemi A, Schleutker J, Holli K, et al. RAD51C is a susceptibility gene for ovarian cancer. Hum Mol Genet Aug 15 2011; 20(16):3278­88.
+[29] Pennington KP, Swisher EM. Hereditary ovarian cancer: beyond the usual suspects. Gynecol Oncol Feb 2012;124(2):347­53.
+[30] Baysal BE, DeLoia JA, Willett-Brozick JE, Goodman MT, Brady MF, Modugno F, et al. Analysis of CHEK2 gene for ovarian cancer susceptibility. Gynecol Oncol Oct 2004; 95(1):62­9.
+[31] Castera L, Krieger S, Rousselin A, Legros A, Baumann JJ, Bruet O, et al. Nextgeneration sequencing for the diagnosis of hereditary breast and ovarian cancer using genomic capture targeting multiple candidate genes. Eur J Hum Genet Nov 2014;22(11):1305­13.
+
+[32] Kanchi KL, Johnson KJ, Lu C, McLellan MD, Leiserson MDM, Wendl MC, et al. Integrated analysis of germline and somatic variants in ovarian cancer. Nat Commun 2014;5:3156.
+[33] D'Andrea AD, Grompe M. The Fanconi anaemia/BRCA pathway. Nat Rev Cancer Jan 2003;3(1):23­34.
+[34] Richards CS, Bale S, Bellissimo DB, Das S, Grody WW, Hegde MR, et al. ACMG recommendations for standards for interpretation and reporting of sequence variations: revisions 2007. Genet Med Apr 2008;10(4):294­300.
+[35] LaDuca H, Stuenkel AJ, Dolinshky JS, Keiles SK, Tandy S, Pesaran T, et al. Utilization of multigene panels in hereditary cancer predisposition testing: analysis of more than 2,000 patients. Genet Med Apr 2014;24.
+[36] Tan DSP, Rothermundt C, Thomas K, Bancroft E, Eeles R, Shanely S, et al. "BRCA" syndrome in ovarian cancer: a case­control study describing the clinical features and outcome of patients with epithelial ovarian cancer associated with BRCA1 and BRCA2 mutations. J Clin Oncol Dec 1 2008;26(34):5530­6.
+[37] Pennington KP, Walsh T, Harrell M, et al. Germline and somatic mutations in homologous recombination genes predict platinum response and survival in ovarian, fallopian tube and peritoneal carcinomas. Clin Cancer Res Feb 1 2014;20(3):764­75.
+[38] Chong HK, Wang T, Lu HM, Seider S, Lu H, Keiles S, Chao EC, et al. The validation and clinical implementation of BRCAplus: a comprehensive high-risk breast cancer assay. PLoS One May 15 2014;9(5):e97408.
+[39] Konstantinopoulos PA, Spentzos D, Karlan B, Taniguchi T, Founzilas E, Fancoeur N, et al. Gene expression profile of BRCAness that correlates with responsiveness to chemotherapy and with outcome in patients with epithelial ovarian cancer. J Clin Oncol Aug 1 2010;28(22):3555­61.
+[40] Wysham WZ, Mhawech-Faucegila P, Li H, Hays L, Syriac S, Skrepnik T, et al. BRCAness profile of sporadic ovarian cancer predicts disease recurrence. PLoS One 2012;7(1):e30042.
+
+

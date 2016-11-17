@@ -1,0 +1,632 @@
+ORIGINAL CONTRIBUTION
+
+Cancer Risks Associated With Germline Mutations in MLH1, MSH2, and MSH6 Genes in Lynch Syndrome
+
+Vale´rie Bonadona, MD, PhD Bernard Bona¨iti, MSc Sylviane Olschwang, MD, PhD Sophie Grandjouan, MD Laetitia Huiart, MD Michel Longy, MD, PhD Rosine Guimbaud, MD Bruno Buecher, MD, PhD Yves-Jean Bignon, MD, PhD Olivier Caron, MD Chrystelle Colas, MD Catherine Noguès, MD Sophie Lejeune-Dumoulin, MD Laurence Olivier-Faivre, MD, PhD Florence Polycarpe-Osaer, MD Tan Dat Nguyen, MD Franc¸oise Desseigne, MD Jean-Christophe Saurin, MD, PhD Pascaline Berthet, MD Dominique Leroux, MD, PhD Jacqueline Duffour, MD Sylvie Manouvrier, MD, PhD Thierry Fre´bourg, MD, PhD Hagay Sobol, MD, PhD Christine Lasset, MD, PhD Catherine Bonai¨ti-Pellie´, MD, PhD for the French Cancer Genetics
+TNetwork HE LYNCH SYNDROME, ALSO known as hereditary nonpolyposis colorectal cancer syndrome, accounts for 3% to 5% of all colorectal cancers and is an autosomal dominant cancer-susceptibility disorder caused by germline mutations in 4 mismatch repair (MMR) genes.
+For editorial comment see p 2351.
+
+Context Providing accurate estimates of cancer risks is a major challenge in the clinical management of Lynch syndrome.
+
+Objective To estimate the age-specific cumulative risks of developing various tumors using a large series of families with mutations of the MLH1, MSH2, and MSH6 genes.
+
+Design, Setting, and Participants Families with Lynch syndrome enrolled between January 1, 2006, and December 31, 2009, from 40 French cancer genetics clinics participating in the ERISCAM (Estimation des Risques de Cancer chez les porteurs de mutation des gènes MMR) study; 537 families with segregating mutated genes (248 with MLH1; 256 with MSH2; and 33 with MSH6) were analyzed.
+
+Main Outcome Measure Age-specific cumulative cancer risks estimated using the genotype restricted likelihood (GRL) method accounting for ascertainment bias.
+
+Results Significant differences in estimated cumulative cancer risk were found between the 3 mutated genes (P=.01). The estimated cumulative risks of colorectal cancer by age 70 years were 41% (95% confidence intervals [CI], 25%-70%) for MLH1 mutation carriers, 48% (95% CI, 30%-77%) for MSH2, and 12% (95% CI, 8%22%) for MSH6. For endometrial cancer, corresponding risks were 54% (95% CI, 20%80%), 21% (95% CI, 8%-77%), and 16% (95% CI, 8%-32%). For ovarian cancer, they were 20% (95% CI, 1%-65%), 24% (95% CI, 3%-52%), and 1% (95% CI, 0%-3%). The estimated cumulative risks by age 40 years did not exceed 2% (95% CI, 0%-7%) for endometrial cancer nor 1% (95% CI, 0%-3%) for ovarian cancer, irrespective of the gene. The estimated lifetime risks for other tumor types did not exceed 3% with any of the gene mutations.
+
+Conclusions MSH6 mutations are associated with markedly lower cancer risks than MLH1 or MSH2 mutations. Lifetime ovarian and endometrial cancer risks associated with MLH1 or MSH2 mutations were high but do not increase appreciably until after the age of 40 years.
+
+JAMA. 2011;305(22):2304-2310
+
+www.jama.com
+
+Nearly 90% are located in MLH1 and MSH2 and approximately 10% in MSH6 and PMS2.1 Carriers of MMR gene mutations are at high risk of early-onset colorectal and endometrial cancer. The Lynch syndrome spectrum also includes tumors of the ovaries, small bowel, urothelium, biliary tract, and stomach.1,2 Lynch syndrome is generally suspected if there is familial aggregation of Lynch syndrome­associated cancers using criteria such as Amsterdam II or Bethesda3,4 or a tumor phenotype showing high DNA microsatellite instabil-
+
+ity.5 The diagnosis is based on the finding of an MMR gene mutation.
+Management guidelines have been developed for MMR mutations carriers, but among issues remaining to be addressed are the optimal age for starting colonoscopy or for considering gynecological risk-reducing surgery.6-8
+Author Affiliations are listed at the end of this article. Corresponding Author: Christine Lasset, MD, PhD, Prevention and Genetics Epidemiology Unit, Centre Le´ on Be´ rard, 28 rue Lae¨ nnec 69373, Lyon, Cedex 08, France (lasset@lyon.fnclcc.fr).
+
+2304 JAMA, June 8, 2011--Vol 305, No. 22
+
+©2011 American Medical Association. All rights reserved.
+
+Downloaded From: http://jama.jamanetwork.com/ by a Harvard University User on 06/24/2016
+
+CANCER RISKS WITH MLH1, MSH2, AND MSH6 GENES
+
+Having more accurate knowledge of the age-dependent cancer risks associated with MMR gene mutations would help in improving preventive strategies. These risks are still not well established and have generally been overestimated. Indeed, studies based on recruitment through cancer genetics clinics have not usually corrected for the selection bias caused by an overrepresentation of families with multiple cases of cancer in the data set.9 The use of more appropriate methods has yielded lower estimates, but studies have been too small to allow the risks associated with each MMR gene to be reliably and accurately determined.10-13
+We estimated the specific cancer risks associated with mutations in MLH1, MSH2, and MSH6 genes by analyzing a large nationwide sample of families with Lynch syndrome using methods that account for ascertainment bias.
+METHODS
+Recruitment of Families
+Since 1991 in France, patients suspected of having Lynch syndrome have been referred for genetic counseling at cancer genetics clinics, and MMR gene screening has been offered when their families met the Amsterdam I or II or other less stringent criteria.7 All French cancer genetics clinics agreed to participate in the nationwide ERISCAM (Estimation des Risques de Cancer chez les porteurs de mutation des gènes MMR) study, conducted under the leadership of the French Cancer Genetics Network. Data collection involved 2 steps.
+First, the anonymous pedigrees of all families in which the proband carried a pathogenic MMR germline mutation were collected. Families informative for the analysis were selected if the genotypic status of at least 1 relative of the proband was known (see "Statistical Analysis").
+Second, for all members of these informative families, the following data were collected: sex, year of birth, age at last follow-up, or death and history
+
+of cancer (tumor site, age at diagnosis) if applicable. When possible, cancer diagnoses were confirmed by medical or pathology report. When medical files were not available (many had been destroyed 20 years after the diagnosis, as permitted by French law), diagnoses were judged highly probable based on medical history obtained through an interview of the proband. Data were also collected on mutation status if tested, on modalities of colonoscopic surveillance, and whether any colorectal or gynecological surgery had been performed. These data were obtained in each center from the proband's records and supplemented when possible by self-administered questionnaires completed by the probands and their relatives.
+All participants undergoing genetic testing gave signed informed consent. Ethical and legal aspects of the study were approved by the French National Committees for personal data protection in medical research.
+Molecular Screening
+Molecular analysis of the MMR genes was performed in 15 French laboratories that have participated since 2003 in a collaborative network to standardize the techniques used and to provide expertise in the unclassified variants in MMR genes. Systematic screening for point mutations in the MSH2 (RefSeq NM_000251), MLH1 (RefSeq NM_000249), and MSH6 (RefSeq NM_000179) genes using DNA sequencing was performed on DNA from each proband. Complementary searches for large genomic rearrangements in these genes were performed by multiplex ligation-dependent probe amplification or quantitative multiplex polymerase chain reaction of short fluorescent fragments according to the results of tumor phenotype (microsatellite instability status or immunohistochemistry analysis of the MMR proteins). All mutations detected in the study were second evaluated (S.O. and Qing Wang, MD, PhD, Centre Le´on Be´rard, Lyon) to assign their pathogenicity. This was mainly relevant for the
+
+classification of variants of uncertain significance on the basis of functional assays, in silico models, segregation data, and microsatellite instability status of the tumors.
+Statistical Analysis
+Because mutation carriers are most often detected in families with multiple cases of cancer, a correction is necessary when estimating age-specific cumulative cancer risks. This was achieved by using the genotyperestricted likelihood (GRL) method, a maximum likelihood parametric method providing unbiased penetrance estimates irrespective of the criteria used for family selection.14 The GRL uses all available information in families in which 1 or several mutation carriers are identified by calculating a likelihood conditioned on the phenotypes of all family members (retrospective likelihood). Family members who are not genotyped are useful for risk analysis through their probability of being a carrier, whatever their phenotype. The likelihood is also conditioned on the proband being a carrier because genotypes are available in relatives only if a mutation has been detected in the proband. This correction implies that families are informative only if at least 1 family member other than the proband has been tested for the mutation.10 We applied the extended version of the GRL method taking into account the possibility of multiple trait phenotypes, as proposed by Bona¨iti et al15 using the GENERISK software.
+For the estimation of colorectal cancer risks, unaffected individuals were censored at the time of first colonoscopy, if applicable, because colonoscopy screening is known to reduce the risk of colorectal cancer.16 For endometrial and ovarian cancer risks, women were censored at the time of hysterectomy or oophorectomy, respectively, if applicable. Parameters for noncarriers were fixed according to the agespecific cancer incidence in the French population.17 The 95% confidence intervals (CIs) were computed with the bootstrap method.
+
+©2011 American Medical Association. All rights reserved.
+
+JAMA, June 8, 2011--Vol 305, No. 22 2305
+
+Downloaded From: http://jama.jamanetwork.com/ by a Harvard University User on 06/24/2016
+
+CANCER RISKS WITH MLH1, MSH2, AND MSH6 GENES
+
+Analyses were conducted separately for MSH2, MLH1, and MSH6 genes and for men and women. Homogeneity was assessed using a likelihood ratio test with an a priori 5% threshold of significance (2-sided).
+RESULTS
+Study Population
+Forty centers participated in the ERISCAM study. Of 1052 eligible families recruited during 2006, 537 were informative for the analysis (248 with MLH1, 256 with MSH2, and 33 with MSH6 mutations) and were included in this study between January 1, 2007, and December 31, 2009. The characteristics of the families and mutations are summarized in TABLE 1. Amsterdam I or II
+
+criteria were fulfilled by 52.3% of the families. Microsatellite instability status was known for 30.7% of families and identified as high DNA microsatellite instability for 26.8%. A total of 303 mutations (127 with MLH1, 151 with MSH2, and 25 with MSH6) were identified (eTable 1, available at http://www.jama .com); 211 mutations (69.6%) were found in a single family, 16 (5.3%) in 5 or more families, and the most frequent mutation (MLH1, c.1852_1854del; p.Lys618del) in 30 families (5.5%). Overall, 18 mutations (detected in 35 families) were classified as variants of uncertain significance.
+The characteristics of the 10 283 family members included in the study according to mutation and cancer status are
+
+Table 1. Characteristics of Families With Lynch Syndrome Recruited for the Study No. (%) of Pedigrees
+
+Total (N = 537)
+
+Pedigrees, %
+
+Recruitment criteria Complete Amsterdam I or II criteria
+
+281 (52.3)
+
+Incomplete Amsterdam criteria
+
+208 (38.7)
+
+Isolated early-onset CRC
+
+25 (4.7)
+
+Multiple primary tumors
+
+16 (3.0)
+
+Other
+
+7 (1.3)
+
+Tumor microsatellite instability status High
+
+144 (26.8)
+
+Low or stable
+
+21 (3.9)
+
+Not done or undetermined
+
+372 (69.3)
+
+Tumor immunohistochemistry analysis MLH1
+
+Not expressed
+
+52 (9.7)
+
+Expressed
+
+88 (16.4)
+
+Not done or undetermined
+
+397 (73.9)
+
+MSH2
+
+Not expressed
+
+56 (10.4)
+
+Expressed
+
+86 (16.0)
+
+Not done or undetermined
+
+395 (73.6)
+
+MSH6
+
+Not expressed
+
+54 (10.1)
+
+Expressed
+
+46 (8.6)
+
+Not done or undetermined
+
+437 (81.4)
+
+Type of mutations Large genomic rearrangements
+
+59 (11.0)
+
+Non-sense
+
+129 (24.0)
+
+Frameshift
+
+147 (27.4)
+
+Splice site Missense and in-frame small deletiona
+
+90 (16.8) 112 (20.8)
+
+Aa Vbabrrieavniat toiof nu:nCceRrCta,incosliogrneifcictaalnccaen: c3e5r.(17 MLH1, 17 MSH2, 1 MSH6).
+
+MLH1 (n = 248)
+46.2
+143 (57.7) 87 (35.1) 11 (4.4) 4 (1.6) 3 (1.2)
+65 (26.2) 5 (2.0)
+178 (71.8)
+49 (19.8) 12 (4.8) 187 (75.4)
+3 (1.2) 58 (23.4) 187 (75.4)
+5 (2.0) 37 (14.9) 206 (83.1)
+12 (4.8) 60 (24.2) 56 (22.6) 47 (19.0) 73 (29.4)
+
+MSH2 (n = 256)
+47.7
+123 (48.0) 107 (41.8)
+12 (4.7) 12 (4.7)
+2 (0.8)
+68 (26.5) 9 (3.5)
+179 (69.9)
+3 (1.2) 61 (23.8) 192 (75.0)
+52 (20.3) 14 (5.5) 190 (74.2)
+38 (14.8) 8 (3.2)
+210 (82.0)
+47 (18.4) 60 (23.4) 70 (27.3) 41 (16.0) 38 (14.9)
+
+MSH6 (n = 33)
+6.1
+15 (45.5) 14 (42.4)
+2 (6.1) 0 2 (6.1)
+11 (33.3) 7 (21.2)
+15 (45.5)
+0 15 (45.5) 18 (54.5)
+1 (3.0) 14 (42.4) 18 (54.6)
+11 (33.3) 1 (3.0)
+21 (63.7)
+0 9 (27.3) 21 (63.6) 2 (6.1) 1 (3.0)
+
+described in eTable 2. Sixty-three percent of the cancer cases were confirmed by medical or pathology reports. The rates were 50.9% for colorectal cancer, 83.9% for endometrial cancer, and 82.3% for ovarian cancers. As shown in TABLE 2, Lynch syndrome­associated cancers were observed in 1787 patients, with 231 patients affected by multiple primary tumors. Compared with families with the MSH6 mutation, younger ages at diagnosis were observed among families carrying MLH1 and MSH2 gene mutations (P = .001).
+Penetrance Estimates
+The cumulative risks of Lynch syndrome­associated cancer for men by age 50 years was estimated to be 18% (95% CI, 12%-27%) and 45% (95% CI, 32%59%) by age 70 years. For women, it was estimated to be 19% (95% CI, 14%28%) by age 50 years and 54% (95% CI, 41%-70%) by age 70 years. There was no significant difference according to sex (P=.87). By age 70 years, these risks were similar for MLH1 and MSH2 mutation carriers but significantly lower for those with MSH6 gene mutations: 59% (95% CI, 44%-79%) for MLH1, 57% (95% CI, 38%-78%) for MSH2, and 25% (95% CI, 17%-41%) for MSH6 (P=.01).
+The penetrance curves for colorectal cancer in men and women and for endometrial and ovarian cancer are shown in the FIGURE. The estimated cumulative colorectal cancer risks by age 70 years were 38% (95% CI, 25%59%) for men and 31% (95% CI, 19%50%) for women. These risks were 33% (95% CI, 16%-57%) for endometrial cancer and 9% (95% CI, 4%-31%) for ovarian cancer.
+Age-specific cumulative risks for each main Lynch syndrome­associated cancer according to the gene involved are provided in TABLE 3 (for details, see eTables 3 and 4 available at http://www .jama.com) For colorectal cancer, the estimated cumulative risks by age 70 years were 41% (95% CI, 25%-70%) for MLH1 mutation carriers, 48% (95% CI, 30%-77%) for MSH2, and 12% (95% CI, 8%-22%) for MSH6. The estimated cumulative risks in carriers did not begin
+
+2306 JAMA, June 8, 2011--Vol 305, No. 22
+
+©2011 American Medical Association. All rights reserved.
+
+Downloaded From: http://jama.jamanetwork.com/ by a Harvard University User on 06/24/2016
+
+CANCER RISKS WITH MLH1, MSH2, AND MSH6 GENES
+
+Table 2. Characteristics of Tumors According to the Mutated Mismatch Repair Gene Tumor Localization in Affected Individualsa
+
+Colorectum Endometrium
+
+(n = 1582)
+
+(n = 182)
+
+Ovary (n = 82)
+
+Stomach Small Bowel
+
+(n = 65)
+
+(n = 69)
+
+Age at onset, median (range), y
+
+45 (15-95) 49 (26-87) 44 (20-58) 52 (24-81) 51 (29-71)
+
+No. of mutation carriers/ No. of genotyped individuals
+
+772/782
+
+108/109
+
+51/51
+
+13/14
+
+43/43
+
+MLH1
+
+No. of individualsa 814
+
+72
+
+31
+
+37
+
+37
+
+Age at onset,
+
+45 (15-90)
+
+median (range), y
+
+49 (26-75)
+
+45 (34-58)
+
+52 (24-81)
+
+47 (20-90)
+
+MSH2
+
+No. of individualsa 697
+
+87
+
+44
+
+26
+
+29
+
+Age at onset,
+
+44 (16-95)
+
+median (range), y
+
+48 (27-69)
+
+43 (20-58)
+
+52 (30-79)
+
+48 (29-71)
+
+MSH6
+
+No. of individualsa
+
+71
+
+23
+
+7
+
+2
+
+3
+
+Age at onset,
+
+54 (24-85)
+
+median (range), y
+
+55 (40-87)
+
+46 (39-55)
+
+63 (45-81)
+
+54 (40-73)
+
+a Indicates the number of affected individuals belonging to a given family with mismatch repair gene mutations.
+
+Urothelium (n = 46)
+55 (30-82) 31/31
+4 60 (37-67)
+37 54 (37-82)
+5 65 (30-75)
+
+Hereditary
+
+Nonpolyposis
+
+Colorectal Cancer
+
+Biliary Tract
+
+Spectrum
+
+(n = 10)
+
+(n = 1787)
+
+54 (28-97)
+
+45 (15-97)
+
+4/4 844/856
+
+5 50 (39-64)
+5 57 (28-97)
+0
+
+885 44 (15-90)
+804 44 (16-97)
+98 55 (24-87)
+
+to increase until age 30 years, irrespective of gene mutation.
+For endometrial cancer, the estimated cumulative risks by age 70 years were 54% (95% CI, 20%-80%) for MLH1, 21% (95% CI, 8%-77%) for MSH2, and 16% (95% CI, 8%-32%) for MSH6. By age 40 years, the estimated cumulative risk did not exceed 2%, irrespective of gene mutation.
+For ovarian cancer, the estimated cumulative risks by age 70 years were 20% (95% CI, 1%-65%) for MLH1, 24% (95% CI, 3%-52%) for MSH2, and 1% (95% CI, 0%-3%) for MSH6. By age 40 years, the estimated cumulative risk did not exceed 1%, irrespective of gene mutation.
+For other Lynch syndrome­associated cancers, the estimated cumulative risks by age 70 years did not exceed 3% overall and were consistently lower among families with the MSH6 mutations than in those carrying the other gene mutations (TABLE 4).
+COMMENT
+Using a method that corrects for selection bias, this nationwide study of 537 French families with Lynch syndrome provides age-specific cumulative estimates of the cancer risks associated with each of the 3 main MMR gene mutations and for various tumor sites.
+
+Cumulative Cancer Risk, % Cumulative Cancer Risk, %
+
+Figure. Cumulative Risks of Cancer by Age for All Genes
+
+Colorectal cancer 80 70 Men
+Women 60
+50
+40
+30
+20
+10
+0
+20 30 40 50 60 70 80 Age, y
+
+Endometrial and ovarian cancer 80 70 Endometrium
+Ovary 60
+50
+40
+30
+20
+10
+0
+20 30 40 50 60 70 Age, y
+
+80
+
+See eTable 3 (available at http:www.jama.com) for the number of affected individuals and the number of family members contributing to the likelihood for risk estimation. Error bars indicate 95% confidence intervals.
+
+Our findings confirm that MSH6 mutation carriers have markedly lower cancer risks overall than MLH1 or MSH2 mutation carriers. The risks of colorectal cancer are of the same magnitude in MLH1 and MSH2 mutation carriers, whereas the former have a slightly higher risk of endometrial cancer. We have also shown that the cumulative risk for ovarian cancer among MLH1 and MSH2 mutation carriers is high by the age of 70 years but does not increase appreciably until after the age of 40 years.
+
+Colorectal Cancer
+We provide evidence that the penetrance of colorectal cancer among patients with Lynch syndrome is lower than previously reported in studies that did not properly correct for selection bias18-27 (eTable 5, available at http://www.jama .com). Studies taking ascertainment bias fully into account report risks similar to ours, with ranges between 27% and 45% for men, and between 22% and 38% for women10-13 (eTable 5).
+Our estimates were markedly lower among MSH6 mutation carriers than
+
+©2011 American Medical Association. All rights reserved.
+
+JAMA, June 8, 2011--Vol 305, No. 22 2307
+
+Downloaded From: http://jama.jamanetwork.com/ by a Harvard University User on 06/24/2016
+
+CANCER RISKS WITH MLH1, MSH2, AND MSH6 GENES
+
+Table 3. Age-Specific Cumulative Risks of Colorectal Cancer, Endometrial Cancer, and Ovarian Cancer According to Gene for Mismatch Repair Mutation Carriersa
+Cumulative Risk, % (95% Confidence Interval)
+
+Colorectal Cancer
+
+Endometrial Cancer
+
+Ovarian Cancer
+
+Carriers
+
+Carriers
+
+Carriers
+
+Age,
+
+y All
+
+MLH1
+
+MSH2
+
+MSH6
+
+All
+
+MLH1 MSH2 MSH6 All MLH1 MSH2
+
+20 0 (0-1)
+
+0 (0-1)
+
+0 (0-1)
+
+0
+
+0
+
+0
+
+0
+
+00
+
+0
+
+0
+
+30 2 (1-3)
+
+1 (0-3)
+
+2 (1-5)
+
+0 (0-1)
+
+0 (0-1)
+
+0 (0-1)
+
+0 (0-1)
+
+0
+
+0
+
+0
+
+0 (0-1)
+
+40 5 (3-8)
+
+6 (3-11) 8 (4-13) 1 (0-3)
+
+2 (1-4)
+
+1 (0-4)
+
+2 (0-7)
+
+1 (0-2) 1 (0-1)
+
+0 (0-2)
+
+1 (0-3)
+
+50 13 (9-19) 14 (8-27) 20 (13-30) 3 (2-6)
+
+8 (4-15) 9 (3-19)
+
+8 (3-21) 3 (1-8) 3 (1-5)
+
+4 (0-11) 4 (1-9)
+
+60 24 (17-35) 28 (16-49) 36 (23-54) 6 (4-12) 23 (12-38) 32 (12-55) 18 (8-53) 9 (5-19) 7 (2-21) 15 (1-45) 11 (2-28)
+
+70 35 (25-49) 41 (25-70) 48 (30-77) 12 (8-22) 34 (16-58) 54 (20-80) 21 (8-77) 16 (8-32) 8 (2-37) 20 (1-65) 24 (3-52)
+
+80 42 (30-60) 49 (29-85) 52 (31-90) 18 (13-30) 35 (17-60) 57 (22-82) 21 (9-82) 17 (8-47) 8 (2-39) 20 (1-66) 38 (3-81)
+
+a See eTable 3 (available at http:www.jama.com) for the number of affected individuals and the number of family members contributing to the likelihood for risk estimation.
+
+MSH6 0 0 0 0 (0-1) 1 (0-2) 1 (0-3) 1 (0-3)
+
+Table 4. Cumulative Risks of Other Hereditary Nonpolyposis Colorectal Cancer Localizations According to the Mutated Genea
+Cumulative Cancer Risk at 70 Years, % (95% Confidence Interval)
+
+Localization
+
+MLH1
+
+MSH2
+
+MSH6
+
+Total
+
+Stomach
+
+6 (0.2-17)
+
+0.2 (0-10)
+
+0
+
+0.7 (0.08-4.4)
+
+Urothelium
+
+0.2 (0-2.6)
+
+2.2 (0.6-8)
+
+0.7 (0-2.1)
+
+1.9 (0.3-5.3)
+
+Small bowel
+
+0.4 (0.1-3)
+
+1.1 (0-5)
+
+0 0.6 (0.1-1.3)
+
+Biliary tract
+
+1.9 (0-15)
+
+0.02 (0-0.2)
+
+0
+
+0.6 (0.07-2.5)
+
+a See eTable 4 (available at http:www.jama.com) for the number of affected individuals and the number of family members contributing to the likelihood for risk estimation.
+
+among carriers of other relevant mutations. To our knowledge, the only other large study to have looked at this population of MSH6 mutation carriers involved 113 families and reported findings that were close to ours with estimated risks for colorectal cancer by age 70 years of 22% (95% CI, 14%-32%) for men and 10% (95% CI, 5%-17%) for women.28 Both studies found that colorectal cancer risk by age 50 years is similar to lifetime risk estimated for the general population.29
+To date, colonoscopy every 1 to 2 years starting at age 20 to 25 years has generally been recommended for patients with Lynch syndrome, whatever the mutated MMR gene involved.7,8 Our findings support this recommendation for MLH1 or MSH2 mutation carriers but clearly indicate that endoscopic surveillance should be postponed until age 30 or 35 years for MSH6 mutation carriers, as was suggested by Lindor et al.6 Prospective cohorts of MSH6 mutation carriers should be examined to confirm the efficiency of this screening strategy.
+
+Gynecological Cancers
+The estimated cumulative risk by age 70 years for endometrial cancer was similar to the 32% to 42% rates reported in studies correcting for selection bias11,13,26 (eTable 5 available at http://www.jama .com). In our series, MLH1 mutation carriers showed substantially higher risks of developing endometrial cancer by age 70 years than carriers of MSH2 gene mutations, which is similar to the findings of Quehenberger et al13 (66% and 22%, respectively).
+For MSH6 mutation carriers, Baglietto et al28 reported an estimated risk of endometrial cancer by age 70 years of 26%, which is slightly higher than what we found.
+In our study, the estimated cumulative risks by age 70 years for ovarian cancer for MLH1 or MSH2 mutation carriers were higher than those previously reported: 2 studies showed risks of 12%21 and 4% to 6%2 for MLH1 mutations and of 8% to 12%2 for MSH2 mutations. In these studies, cases did not seem to be censored at the date of gynecological sur-
+
+gery, which could have led to an underestimate of the risks. When this censoring was not performed in our data set, estimated risks for ovarian cancer were close to 8% to 15% (data not shown). In addition, we found that the risk of developing ovarian cancer by age 40 years seemed not to exceed 2% to 3%, which is similar to the estimated risk for ovarian cancer for BRCA1 mutation carriers.30
+These results contribute new complementary data to the discussion of preventive gynecological care. Clinical guidelines state that prophylactic gynecological surgery should be considered in women with Lynch syndrome.6,8 Screening for the early detection of gynecological cancers has not proven effective, especially for ovarian cancer. In contrast, prophylactic hysterectomy and bilateral salpingo-oophorectomy have been associated with reducing gynecological cancer risks in these women.31,32 Our findings should help in identifying more precisely the target population for surgery and address the issue of optimum age. For MLH1 or MSH2 mutation carriers, given the bad prognosis of ovarian cancer, bilateral oophorectomy should be considered. However, after discussion about risks and adverse effects with the women concerned, surgery could justifiably be postponed until age 40 years as was recommended for BRCA1 mutation carriers.33 Given the elevated risk of endometrial cancer, this could reasonably be accompanied by hysterectomy. Before the age of 40 years, the benefits of preventive surgery might not
+
+2308 JAMA, June 8, 2011--Vol 305, No. 22
+
+©2011 American Medical Association. All rights reserved.
+
+Downloaded From: http://jama.jamanetwork.com/ by a Harvard University User on 06/24/2016
+
+CANCER RISKS WITH MLH1, MSH2, AND MSH6 GENES
+
+outweigh the risks of inducing a premature menopause and definitive infertility. For MSH6 mutation carriers, our data suggest that the role of prophylactic gynecological surgery is more debatable because the risk of ovarian cancer by age 70 years was close to the lifetime risk estimated for the general population.29
+Other Tumors
+Finally, our relatively powerful estimates of the cumulative risks by age 70 years for other rare Lynch syndrome­associated cancers do not exceed 3% and do not support any specific screening recommendation. However, the higher risk of stomach cancer (up to 6%) in MLH1 mutation carriers should be a cause for concern, especially since one recent study reported similar elevated cumulative risks of 4% and 7% by age 70 years for MLH1 and MSH2 mutation carriers, respectively.34 The issue of gastric surveillance should be addressed. Because MMR mutations might also confer risks of developing less common tumors such as pancreatic cancer,35 further analyses are warranted to estimate risk of this and other cancers.
+Strengths and Limitations
+The major strength of our study is the large sample size, especially the high number of families identified with MLH1 or MSH2 mutations (248 and 256, respectively). This allowed us to calculate cancer risk estimates for each MMR gene and each tumor of the Lynch syndrome spectrum. Another strength is that the statistical method used corrects for selection bias due to recruitment of families with multiple cases of cancer. Furthermore, the extended version of the ascertainment-adjusted GRL method simultaneously takes into account various traits for the phenotype, ie, the different tumors of the Lynch syndrome spectrum, and eliminates the bias induced by analyzing each trait separately that should lead to an underestimate of the risks.15 However, the trade off when using a retrospective likelihood is the rather wide CIs. This is especially apparent in the older age groups because many family members had not reached old age and when they did were seldom geno-
+
+typed. However, risk estimates for people younger than 50 years were more precise and should provide more relevant clinical information. Because our study was based on recruitment through cancer genetics clinics and even though we corrected for the ascertainment bias, the estimated risks we found might not reflect the average risks for the MMR mutation carriers in the population as a whole if there is heterogeneity in these risks. A prospective study would partly overcome these problems, but population-based studies are difficult to organize due to the low frequency of colorectal cancer associated with the MMR genes. Efforts should be made to better recognize families in which there is suspicion of Lynch syndrome and to refer them to cancer genetics clinics.36 However, our current estimates are relevant to the genetic counseling of members of multiple-case cancer families of the kind typically seen in clinical practice. In addition, the mutational spectrum in the MMR genes was quite heterogeneous in our study. As only 5.3% of the mutations were identified in 5 or more families without any strong indication for a founder effect, the estimated cancer risks should not be particular to the French population.
+Another issue might be due to misclassifications. As was the case in similar studies, we were not able to confirm all cancer diagnoses.12,13,26,28 This was mainly due to the retrospective design and the inaccessibility of the older medical or histological reports. Nevertheless, the rates of confirmed diagnoses before age 40 years were 85.7% for endometrial and 90.5% for ovarian cancers. Any potential misclassification would be unlikely to produce differential biases and to substantially modify our results, especially for estimates of cumulative risk by 40 years. Finally, 5.9% of pathologic mutations were reclassified as variants of uncertain significance. Therefore, a complementary analysis, which included only the 502 families with clearly pathogenic mutations, allowed us to verify that results did not change (eTables 6 and 7, available at http://www.jama.com).
+
+CONCLUSIONS This analysis of a nationwide series of 537 families with Lynch syndrome provides age- and gene-specific risk estimates for each tumor of the spectrum. The results should help clarify the phenotypic differences between MSH6, MLH1, or MSH2 mutation carriers and highlight the clinical significance of the risk of gynecological (and especially ovarian) cancers.
+Author Affiliations: Universite´ Lyon 1, Centre National de la Recherche Scientifique (CNRS) UMR 5558, Villeurbanne (Drs Bonadona and Lasset); Centre Le´ on Be´ rard, Lyon (Drs Bonadona, Desseigne, and Lasset); Institut National de la Sante et de la Recherche Medicale (INSERM), U669, Villejuif (Mr Bonai¨ti and Dr Bonai¨ti-Pellie´ );Institut National de la Recherche Agronomique (INRA)­GABI, Jouy-en-Josas (Mr Bonai¨ti);Institut Paoli-Calmettes, Marseille (Drs Olschwang, Huiart, and Sobol); INSERM, U891, Marseille (Dr Olschwang and Sobol); Assistance PubliqueHopitaux de Paris (APHP) Cochin, Paris (Dr Grandjouan); INSERM UMR 912, Marseille (Dr Huiart); Institut Bergonie´ , Bordeaux (Dr Longy); Institut Claudius Regaud and Centre Hospitalier Universitaire (CHU) Toulouse (Dr Guimbaud), Toulouse; CHU, Nantes (Dr Buecher); Centre Jean Perrin, Clermont-Ferrand (Dr Bignon); Institut Gustave Roussy, Villejuif (Dr Caron); APHP Groupe Hospitalier de la Pitie´ -Salpe´ trière, INSERM UMRS 938, and Universite´ Pierre et Marie Curie (Dr Colas), Paris; Institut Curie, Ho^ pital Rene´ Huguenin, Saint-Cloud (Dr Noguès); Centre Hospitalier Re´ gional Universitaire (CHRU), and Universite´ Lille 2 (Drs Lejeune-Dumoulin and Manouvrier), Lille; Ho^ pital d'Enfants, Dijon (Dr Olivier-Faivre); Centre Paul Strauss, Strasbourg (Dr Polycarpe-Osaer); Institut Jean Godinot, Reims (Dr Nguyen); Hopital Edouard Herriot, Lyon (Dr Saurin); Centre Franc¸ ois Baclesse, Caen (Dr Berthet); CHU de Grenoble, Grenoble (Dr Leroux); Centre Val d'Aurelle, Montpellier (Dr Dufour); INSERM, U614, Rouen; and CHU, Rouen (Dr Fre´ bourg); Universite´ de la Me´ diterrane´ e, Aix-Marseille II, Marseille (Dr Sobol); and Universite´ Paris-Sud, Villejuif (Dr Bonai¨ti-Pellie´ ), France. Other members of the French Cancer Genetics Network who participated in this study are listed in the Appendix. Author Contributions: Dr Lasset had full access to all of the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analysis. Drs Lasset and Bonai¨ti-Pellie´ contributed equally to this article. Study concept and design: Bonadona, Olschwang, Lasset, Bonai¨ti-Pellie´ . Acquisition of data: Bonadona, Olschwang, Grandjouan¸ Huiart, Longy, Guimbaud, Buecher, Bignon, Caron, Colas, Noguès, Lejeune-Dumoulin, Olivier-Faivre, Polycarpe-Osaer, Nguyen, Desseigne, Saurin, Berthet, Leroux, Duffour, Manouvrier, Fre´ bourg, Sobol, Lasset, Bonai¨ti-Pellie´ . Analysis and interpretation of data: Bonadona, Bonai¨ti, Lasset, Bonai¨ti-Pellie´ . Drafting of the manuscript: Bonadona, Bonai¨ti, Lasset, Bonai¨ti-Pellie´ . Critical revision of the manuscript for important intellectual content: Bonadona, Olschwang, Grandjouan, Huiart, Longy, Guimbaud, Buecher, Bignon, Caron, Colas, Noguès, Olivier-Faivre, Polycarpe-Osaer, Desseigne, Saurin, Berthet, Leroux, Duffour, Manouvrier, Fre´ bourg, Lasset. Statistical analysis: Bonadona, Bonai¨ti, Lasset, Bonai¨ti-Pellie´ . Obtained funding: Bonai¨ti-Pellie´ .
+
+©2011 American Medical Association. All rights reserved.
+
+JAMA, June 8, 2011--Vol 305, No. 22 2309
+
+Downloaded From: http://jama.jamanetwork.com/ by a Harvard University User on 06/24/2016
+
+CANCER RISKS WITH MLH1, MSH2, AND MSH6 GENES
+
+Administrative, technical, or material support: Sobol, Lasset, Bonai¨ti-Pellie´ . Study supervision: Lasset, Bonai¨ti-Pellie´ . Conflict of Interest Disclosures: All authors have completed and submitted the ICMJE Form for Disclosure of Potential Conflicts of Interest and none were reported. Study Participants: The following members of the French Cancer Genetics Network participated in this study: Ste´ phanie Baert-Desurmont and Ste´ phane Be´ zieau, CHU Nantes; Dominique Bonneau, CHU Anger; Franc¸oise Bonnet, Institut Bergonie´ , Bordeaux; Brigitte Bressac-de-Paillerets, Institut Gustave Roussy, Villejuif; Marie-Pierre Buisine, CHRU Lille; Jean Chiesa, CHU N^imes; Agnès Chompret, Institut Gustave Roussy, Villejuif; Marie-Agnès Collonge-Rame, CHU Besanc¸ on; Florence Coulet, APHP, GH Pitie´ -Salpe´ trière; Isabelle Coupier, CHU Montpellier; Capucine Delnatte, Centre Rene´ Gauducheau, Nantes; Hèlène Dreyfus, CHU Grenoble et Institut Sainte Catherine, Avignon; Catherine Dugast, Centre Eugène Marquis et CHU Rennes; Franc¸ois Eisinger, Institut Paoli Calmettes, Marseille; Emmanuelle Fourme, Institut Curie, Ho^ pital Rene´ Huguenin, Saint Cloud; Marion Gauthier-Villars, Institut Curie, Paris; Paul Gesta, CH Niort; Brigitte Gil-
+
+bert, CHU Poitiers; Sophie Giraud, CHU Lyon; Philippe Jonveaux, CHU Nancy; Pierre Laurent-Puig, APHP, GH HEGP-Broussais, Paris; Jean-Marc Limacher, CH Colmar; Christine Maugard, CHU Strasbourg; Ghislaine Plessis, CHU Caen; Fabienne Prieur, CHU Saint Etienne; Pascal Pujol, CHU Montpellier; Etienne Rouleau, Institut Curie, Hopital Rene´ Huguenin, Saint Cloud; Nicolas Sevenet, Institut Bergonie´ , Bordeaux; Florent Soubrier, APHP, GH Pitie´ Salpe´ trière, Paris; Dominique Stoppa-Lyonnet, Institut Curie, Paris; Christine Toulas, Institut Claudius Regaud, Toulouse; Nancy Uhrhammer, Centre Jean Perrin, Clermont-Ferrand; Laurence Venat-Bouvet, CHU Limoges; and Qing Wang, Centre Le´ on Be´ rard, Lyon, France. Funding/Support: This work was supported by the Fondation de France. Role of the Sponsor: The sponsor had no role in the design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation, review, or approval of the manuscript. Online-Only Material: eTables 1 through 7 are available at http://www.jama.com. Additional Contributions: We thank Emeline Yhuel, BSc, INSERM U335, Villejuif, France, who received fi-
+
+nancial compensation for her help in data collection. We also thank Souria Aissaoui, MSc, Hospices Civils de Lyon; Aurelie Bisacchi, CHU Grenoble; Ce´ cile Cassini, MSc, CHU Dijon; Laetitia Cerlo, Institut Claudius Regaud, Toulouse; Edith Chipoulet, MSc, Institut Claudius Regaud, Toulouse; Audrey Combes, MSc, Centre Val d'Aurelle, Montpellier; Emilie Consolino, MSc, Institut Gustave Roussy, Villejuif; Adeline Contrain, MSc, Institut Paoli-Calmettes, Marseille; Fanny Coron, MSc, CHU Dijon; Emilie Favard, MSc, CH Niort; Audrey Gallard, Centre Rene´ Gauducheau, Nantes; Sandrine Handallou, MSc, Centre Le´ on Be´ rard, Lyon; Caroline Lalet, Institut Bergonie´ , Bordeaux; David Malka, MD, PhD, Institut Gustave Roussy, Villejuif; Marylise Manche-The´ venot, Institut Curie, Ho^ pital Rene´ Huguenin, Saint-Cloud; Ce´ line de Moncuit, RN, GH Pite´ -Salpe´ trière, Paris; Virginie Nicolas, MSc, CHRU Lille; Charlène Rambaud, MSc, CHU Dijon; Vincent Ronin, MSc, Centre Le´ on Be´ rard, Lyon, France, for their help in data collection, and we thank Marie Dominique Reynaud and Thioro Seye for technical assistance. These individuals did not receive financial compensation for their contributions. Rob Stepney, MA, MSc, PhD, medical writer, Charlbury, England, provided paid assistance for editing the manuscript.
+
+REFERENCES 1. Lynch HT, de la Chapelle A. Hereditary colorectal cancer. N Engl J Med. 2003;348(10):919-932. 2. Watson P, Vasen HF, Mecklin JP, et al. The risk of extra-colonic, extra-endometrial cancer in the Lynch syndrome. Int J Cancer. 2008;123(2):444-449. 3. Vasen HF, Watson P, Mecklin JP, Lynch HT. New clinical criteria for hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome) proposed by the International Collaborative group on HNPCC. Gastroenterology. 1999;116(6):1453-1456. 4. Rodriguez-Bigas MA, Boland CR, Hamilton SR, et al. A National Cancer Institute Workshop on Hereditary Nonpolyposis Colorectal Cancer Syndrome: meeting highlights and Bethesda guidelines. J Natl Cancer Inst. 1997;23(89):1758-1762. 5. Terdiman JP, Gum JR Jr, Conrad PG, et al. Efficient detection of hereditary nonpolyposis colorectal cancer gene carriers by screening for tumor microsatellite instability before germline genetic testing. Gastroenterology. 2001;120(1):21-30. 6. Lindor NM, Petersen GM, Hadley DW, et al. Recommendations for the care of individuals with an inherited predisposition to Lynch syndrome: a systematic review. JAMA. 2006;296(12):1507-1517. 7. Olschwang S, Bonai¨ti C, Feingold J, et al. Identification and management of HNPCC syndrome (hereditary non polyposis colon cancer), hereditary predisposition to colorectal and endometrial adenocarcinomas [in French]. Bull Cancer. 2004; 91(4):303-315. 8. Vasen HF, Mo¨ slein G, Alonso A, et al. Guidelines for the clinical management of Lynch syndrome (hereditary non-polyposis cancer). J Med Genet. 2007; 44(6):353-362. 9. Carayol J, Khlat M, Maccario J, Bonai¨ti-Pellie´ C. Hereditary non-polyposis colorectal cancer: current risks of colorectal cancer largely overestimated. J Med Genet. 2002;39(5):335-339. 10. Alarcon F, Lasset C, Carayol J, et al. Estimating cancer risk in HNPCC by the GRL method. Eur J Hum Genet. 2007;15(8):831-836. 11. Dunlop MG, Farrington SM, Carothers AD, et al. Cancer risk associated with germline DNA mismatch repair gene mutations. Hum Mol Genet. 1997; 6(1):105-110. 12. Jenkins MA, Baglietto L, Dowty JG, et al. Cancer risks for mismatch repair gene mutation carriers: a population-based early onset case-family study. Clin Gastroenterol Hepatol. 2006;4(4):489-498. 13. Quehenberger F, Vasen HF, van Houwelingen HC. Risk of colorectal and endometrial cancer for car-
+
+riers of mutations of the hMLH1 and hMSH2 gene: correction for ascertainment. J Med Genet. 2005; 42(6):491-496. 14. Carayol J, Bonai¨ti-Pellie´ C. Estimating penetrance from family data using a retrospective likelihood when ascertainment depends on genotype and age of onset. Genet Epidemiol. 2004;27(2):109117. 15. Bona¨iti B, Bonadona V, Perdry H, Andrieu N, Bonai¨ti-Pellie´ C. Estimating penetrance from multiple case families: Extension of the "genotype-restricted likelihood" (GRL) method. Eur J Hum Genet. 2011; 19(2):173-179. 16. Ja¨ rvinen HJ, Aarnio M, Mustonen H, et al. Controlled 15-year trial on screening for colorectal cancer in families with hereditary nonpolyposis colorectal cancer. Gastroenterology. 2000;118(5):829834. 17. de-Vathaire F, ed. Estimation de l'incidence des Cancers en France 1983-1987. Paris, France: Editions INSERM; 1996. 18. Aarnio M, Sankila R, Pukkala E, et al. Cancer risk in mutation carriers of DNA-mismatch-repair genes. Int J Cancer. 1999;81(2):214-218. 19. Vasen HF, Stormorken A, Menko FH, et al. MSH2 mutation carriers are at higher risk of cancer than MLH1 mutation carriers: a study of hereditary nonpolyposis colorectal cancer families. J Clin Oncol. 2001;19 (20):4074-4080. 20. Green J, O'Driscoll M, Barnes A, et al. Impact of gender and parent of origin on the phenotypic expression of hereditary nonpolyposis colorectal cancer in a large Newfoundland kindred with a common MSH2 mutation. Dis Colon Rectum. 2002;45(9): 1223-1232. 21. Hendriks YM, Wagner A, Morreau H, et al. Cancer risk in hereditary nonpolyposis colorectal cancer due to MSH6 mutations: impact on counseling and surveillance. Gastroenterology. 2004;127(1):1725. 22. Plaschke J, Engel C, Kru¨ ger S, et al. Lower incidence of colorectal cancer and later age of disease onset in 27 families with pathogenic MSH6 germline mutations compared with families with MLH1 or MSH2 mutations: the German Hereditary Nonpolyposis Colorectal Cancer Consortium. J Clin Oncol. 2004; 22(22):4486-4494. 23. Hampel H, Stephens JA, Pukkala E, et al. Cancer risk in hereditary nonpolyposis colorectal cancer syndrome: later age of onset. Gastroenterology. 2005; 129(2):415-421.
+
+24. Barrow E, Alduaij W, Robinson L, et al. Colorectal cancer in HNPCC: cumulative lifetime incidence, survival and tumour distribution: a report of 121 families with proven mutations. Clin Genet. 2008;74 (3):233-242. 25. Choi YH, Cotterchio M, McKeown-Eyssen G, et al. Penetrance of colorectal cancer among MLH1 /MSH2 carriers participating in the colorectal cancer familial registry in Ontario. Hered Cancer Clin Pract. 2009;7(1):14. 26. Stoffel E, Mukherjee B, Raymond VM, et al. Calculation of risk of colorectal and endometrial cancer among patients with Lynch syndrome. Gastroenterology. 2009;137(5):1621-1627. 27. Barrow E, Robinson L, Alduaij W, et al. Cumulative lifetime incidence of extracolonic cancers in Lynch syndrome: a report of 121 families with proven mutations. Clin Genet. 2009;75(2):141-149. 28. Baglietto L, Lindor NM, Dowty JG, et al; Dutch Lynch Syndrome Study Group. Risks of Lynch syndrome cancers for MSH6 mutation carriers. J Natl Cancer Inst. 2010;102(3):193-201. 29. Belot A, Grosclaude P, Bossard N, et al. Cancer incidence and mortality in France over the period 1980-2005. Rev Epidemiol Sante Publique. 2008; 56(3):159-175. 30. Chen S, Parmigiani G. Meta-analysis of BRCA1 and BRCA2 penetrance. J Clin Oncol. 2007;25 (11):1329-1333. 31. Offit K, Kauff ND. Reducing the risk of gynecologic cancer in the Lynch syndrome. N Engl J Med. 2006;354(3):293-295. 32. Schmeler KM, Lynch HT, Chen LM, et al. Prophylactic surgery to reduce the risk of gynecologic cancers in the Lynch syndrome. N Engl J Med. 2006; 354(3):261-269. 33. Kauff ND, Barakat RR. Risk-reducing salpingooophorectomy in patients with germline mutations in BRCA1 or BRCA2. J Clin Oncol. 2007;25(20): 2921-2927. 34. Capelle LG, Van Grieken NCT, Lingsma HF, et al. Risk and epidemiological time trends of gastric cancer in Lynch syndrome carriers in the Netherlands. Gastroenterology. 2010;138(2):487-492. 35. Kastrinos F, Mukherjee B, Tayob N, et al. Risk of pancreatic cancer in families with Lynch syndrome. JAMA. 2009;302(16):1790-1795. 36. Vasen HFA, Mo¨ slein G, Alonso A, et al. Recommendations to improve identification of hereditary and familial colorectal cancer in Europe. Fam Cancer. 2010; 9(2):109-115.
+
+2310 JAMA, June 8, 2011--Vol 305, No. 22
+
+©2011 American Medical Association. All rights reserved.
+
+Downloaded From: http://jama.jamanetwork.com/ by a Harvard University User on 06/24/2016
+
+

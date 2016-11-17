@@ -1,0 +1,303 @@
+Proc. Natl. Acad. Sci. USA Vol. 95, pp. 10722­10727, September 1998 Genetics
+
+The APC variants I1307K and E1317Q are associated with colorectal tumors, but not always with a family history
+IAN M. FRAYLING*, NICHOLAS E. BECK, MOHAMMAD ILYAS, ISIS DOVE-EDWIN*, PETER GOODMAN, KEVIN PACK*, JENNIFER A. BELL, CHRISTOPHER B. WILLIAMS§, SHIRLEY V. HODGSON¶, HUW J. W. THOMAS*, IAN C. TALBOT*, WALTER F. BODMER, AND IAN P. M. TOMLINSON**
+*Colorectal Cancer Unit, Imperial Cancer Research Fund, Kennedy­Galton Centre for Medical Genetics, §Wolfson Unit for Endoscopy, St. Mark's and Northwick Park Hospitals National Health Service Trust, Harrow, HA1 3UJ, United Kingdom; Cancer and Immunogenetics Laboratory, Imperial Cancer Research Fund, Institute of Molecular Medicine, John Radcliffe Hospital, Oxford, OX3 9DS, United Kingdom; ¶Department of Clinical Genetics, Guy's Hospital, St. Thomas's Street, London, SE1 9RT, United Kingdom; and Tumor Genetics Group, Nuffield Department of Clinical Medicine, Wellcome Trust Centre for Human Genetics, Windmill Road, Headington, Oxford, United Kingdom, and Molecular and Population Genetics Laboratory, Imperial Cancer Research Fund, P.O. Box 123, Lincoln's Inn Fields, London, WC2A 3PX, United Kingdom
+Contributed by Walter F. Bodmer, July 6, 1998
+
+ABSTRACT Classical familial adenomatous polyposis (FAP) is a high-penetrance autosomal dominant disease that predisposes to hundreds or thousands of colorectal adenomas and carcinoma and that results from truncating mutations in the APC gene. A variant of FAP is attenuated adenomatous polyposis coli, which results from germ-line mutations in the 5 and 3 regions of the APC gene. Attenuated adenomatous polyposis coli patients have ``multiple'' colorectal adenomas (typically fewer than 100) without the f lorid phenotype of classical FAP. Another group of patients with multiple adenomas has no mutations in the APC gene, and their phenotype probably results from variation at a locus, or loci, elsewhere in the genome. Recently, however, a missense variant of APC (I1307K) was described that confers an increased risk of colorectal tumors, including multiple adenomas, in Ashkenazim. We have studied a set of 164 patients with multiple colorectal adenomas andor carcinoma and analyzed codons 1263­1377 (exon 15G) of the APC gene for germ-line variants. Three patients with the I1307K allele were detected, each of Ashkenazi descent. Four patients had a germ-line E1317Q missense variant of APC that was not present in controls; one of these individuals had an unusually large number of metaplastic polyps of the colorectum. There is increasing evidence that there exist germ-line variants of the APC gene that predispose to the development of multiple colorectal adenomas and carcinoma, but without the f lorid phenotype of classical FAP, and possibly with importance for colorectal cancer risk in the general population. Familial adenomatous polyposis (FAP) is a disease with autosomal-dominant inheritance that predisposes to carcinoma of the colorectum, stomach, duodenum, and thyroid. The classical variant of FAP comprises hundreds or thousands of colorectal adenomas, often accompanied by extracolonic features such as adenomas elsewhere in the gastrointestinal tract, congenital hypertrophy of the retinal pigment epithelium, abdominal desmoid tumors, and epidermoid cysts. Classical FAP is caused by high-penetrance germ-line mutations in the APC gene (1). These mutations almost always produce a truncated protein and are spread between codons 168 (exon 4) and 1680 (exon 15), but do not occur outside this interval (2).
+There exists a set of patients with ``multiple'' colorectal adenomas (generally fewer than 100), but without the florid phenotype of classical FAP, frequently without accompanying extracolonic features and often with a poorly described family
+
+history of colon adenomas or cancer. The phenotype of some of these patients can be accounted for by so-called attenuated adenomatous polyposis coli, which results from germ-line mutations in the 5 and 3 regions of the APC gene (3­5). Other patients with multiple adenomas have no mutations in the APC gene, and their phenotype probably results from variation at a locus, or loci, elsewhere in the genome (6). Recently, a missense variant of APC (3920T 3 A; I1307K) has been described that confers an increased risk of colorectal tumors, suggested to be through an increased tendency to somatic mutation at the APC locus (7). This APC variant allele was observed in 6% of Ashkenazi controls, 10% of Ashkenazi colorectal cancer cases, and 28% of Ashkenazim colorectal cancer cases who also had a family history of colorectal cancer, but in no non-Ashkenazi individuals. It therefore is possible that the contribution of germ-line APC variants to colorectal cancer has been underestimated.
+We have studied a set of 164 patients with multiple colorectal adenomas andor colorectal cancer, some of whom also had a family history of colorectal tumors. We have analyzed codons 1263­1377 (exon 15G) of the APC gene for germ-line variants, including the previously described I1307K variant.
+MATERIALS AND METHODS Subjects. Peripheral venous blood samples were obtained from non-Ashkenazi British control subjects and patients with adenomas or carcinomas, having first obtained informed consent for their use in research, under local ethics committee approval. Genomic DNA was extracted as described (8). Under local ethics committee approval and direction, the Ashkenazi Jewish control group was constituted from anonymized DNA samples collected for a previous gene frequency study, from unrelated, but otherwise unselected, Ashkenazi individuals living in North London. The 164 patients were ascertained on the basis of either (i) having developed multiple colorectal adenomas, with or without a family history of related tumors, but without the classical phenotype of FAP, or (ii) having developed colorectal cancer. They comprised three groups: Group 1 had 38 patients with three or more colorectal adenomas referred to genetics clinics (34 had presented symptomatically, 4 were found to have polyps by surveillance colonoscopy); Group 2 had 96 patients followed up for colorectal polyps and who had developed at least five adenomas; and Group 3 had 30 patients with
+
+The publication costs of this article were defrayed in part by page charge payment. This article must therefore be hereby marked ``advertisement'' in accordance with 18 U.S.C. §1734 solely to indicate this fact. © 1998 by The National Academy of Sciences 0027-8424989510722-6$2.000 PNAS is available online at www.pnas.org.
+
+Abbreviations: ARMS, amplification refractory mutation system; FAP, familial adenomatous polyposis; MP, metaplastic polyps; RFLP, restriction fragment length polymorphism; SSCP, single-strand conformation polymorphism. **To whom reprint requests should be addressed. e-mail: tomlinso@
+icrf.icnet.uk.
+
+10722
+
+Genetics: Frayling et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998) 10723
+
+colorectal cancer, either below the age of 50 years and without a family history, or at any age and with a family history of colorectal tumors. The clinical presentation of the cases was symptomatic, except for four individuals in Group 1 who presented with their family history and were found to have polyps during surveillance colonoscopy. The subjects in Group 3 were unselected with respect to colorectal polyps. Information about the number, site, and type of colorectal tumors was obtained from patients' records and pathology reports. The histopathology of the colorectal tumors in the APC 15G variant gene carriers was reviewed, with the pathologist (I.C.T.) unaware of the subjects' carrier status.
+Family histories from subjects in Groups 1 and 3 were obtained by interview and confirmed wherever possible by hospital records or death certificates. A comprehensive family history had not been routinely sought by interview in Group 2, but patients in this group had been invited to return a postal questionnaire inquiring about a family history of cancer or polyps of any sort.
+Details of patients' ethnic origins, including their personal professed religion and place of birth of their parents, were obtained retrospectively from their hospital records. Subjects in the Ashkenazi Jewish control group from London had been asked directly about their ethnic origin. The non-Ashkenazi British control group were collected originally for an HLA allele frequency study.
+Single-Strand Conformation Polymorphism (SSCP) Analysis. PCR primers for amplification of APC exon 15 region G and SSCP conditions, including DNA detection by silverstaining, have been described previously (9), as have the other PCR reagents (8). The region of APC scanned by this technique comprises nucleotides 3791­4131 (codons 1263­1377).
+Amplification Refractory Mutation System (ARMS) PCR Analysis. The I1307K allele was tested by using an ARMS PCR assay (10). The oligonucleotide primers were designed with the aid of OLIGO software (version 4.1; MedProbe, Oslo, Norway). Two forward primers were used, one specific for the wild-type allele of a T at nucleotide 3920 (CTAATACCCTGCAAATAGCAGAAGA), and the second specific for the I1307K allele (CTAATACCCTGCAAATAGCAGAAGT); in both primers the penultimate base was a deliberate mismatch to improve the specificity conferred by the most 3 base. These primers were used in separate PCRs, each utilizing the same common reverse primer (TGAGTGGGGTCTCCTGAACATA). All primers were used at a concentration of 0.125 M; otherwise, PCR reagents were as described (8). Thermal cycling was: 95°C  5 min, followed by 30 cycles of [94°C  1 min, 56°C  1 min, 72°C  1 min], with a final extension step of 72°C  1 min. For any given individual, the wild-type and I1307K ARMS PCRs were performed simultaneously in two separate
+
+tubes, which were placed in adjacent wells in the thermal cycler (Omnigene, Hybaid, Teddington, U.K.). The PCR products were analyzed by electrophoresis in 2% (wtvol) agarose (Seakem LE, Flowgen, Lichfield, U.K.), with care being taken to run out wild-type and I1307K reactions in separate rows of wells on the same gel to avoid carry over. The assay was validated on each occasion by analysis of control samples, one known to be homozygous wild type, the other heterozygous for I1307K. For every sample analyzed, the wild-type reaction gave the predicted 255-bp band.
+Restriction Fragment Length Polymorphism (RFLP) Analysis. The E1317Q variant, detected initially by SSCP analysis, was tested for in the subjects of Group 3 by means of an RFLP present within the I1307K ARMS PCR amplicon. The E1317 (wild type) allele was digestible with PvuII, to generate 204and 51-bp fragments, but the Q1317 allele was indigestible. Four microliters of the wild-type PCR product from the I1307K ARMS test therefore was digested with PvuII (Promega) according to the manufacturer's recommendations and analyzed by electrophoresis in 3% (wtvol) agarose gel. Undigested and digested PCR products from the same individual were run out in adjacent lanes. The two E1317Q carriers detected by SSCP, and confirmed by sequencing, were included as positive controls. Each sample was tested in duplicate, both PCRs and digests on separate occasions.
+Confirmation of APC 15G Variants by DNA Sequencing. For all patients with possible APC variants detected by the SSCP, ARMS, or RFLP analyses, APC exon 15 PCR products (region 15.3, comprising codons 1262­1628) were generated as described previously (8). These, together with region 15.3 PCR products from homozygous wild-type control individuals, then were used as templates for sequencing. This was carried out by using the exon 15G primers (both forward and reverse) as used for SSCP, and the ABI Ready Reaction Dye Terminator Cycle Sequencing kit, as per the manufacturer's instructions, with the products being analyzed on an ABI Prism 377XL DNA sequencer (Perkin­Elmer).
+Genotyping. Patients carrying the I1307K and E1317Q alleles were genotyped at four markers flanking APC: D5S299, D5S82, D5S346, and MCC (11­13); APC is located between D5S82 and D5S346. Fluorescent dye-labeled PCR primers were used, with electrophoresis on an ABI Prism 377XL DNA sequencer and subsequent analysis using GENESCAN 2.1 software (Perkin­Elmer).
+RESULTS The clinicopathological and family history data for the cases in the three patient groups are summarized in Table 1. No individual had features of classical FAP, but attenuated ad-
+
+Table 1. Summary of clinical data for patients with adenomas referred to genetics clinics (Group 1), under adenoma follow-up (Group 2), or presenting with colorectal cancer (Group 3)
+
+No. of Mean age at Mean subjects presentation, follow-up,
+
+Colorectal tumors
+
+Group (males) years (SD) years (SD) Carcinomas* Adenomas
+
+MP
+
+Family history of
+gastrointestinal tumors
+
+Number of relatives affected with gastrointestinal tumors§
+1st degree 2nd degree 3rd degree
+
+1 38 (21) 50.8 (14.5) 8.3 (8.8) 24 (16)
+
+24 (3­100) 0 (0­100)¶ 63.2% (24/38) 41: 1.7 (1.5) 18: 0.8 (1.0) 12: 0.5 (0.8)
+
+2 96 (74) 56.7 (7.7) 10.9 (5.0)
+
+9 (9)
+
+6 (5­35)
+
+NA 34.3% (24/70) 30: 1.4 (0.5) 11: 2.0 (0.9) NA
+
+3 30 (14) 44.1 (12.2)
+
+NA
+
+30 (30)
+
+0 (0­5) 0 (0­45)** 63.3% (19/30) 29: 1.0 (1.1) 15: 0.5 (0.9) 1: 0.03 (0.2)
+
+NA, data not available. *Total number of colorectal cancers, with number of affected individuals in parentheses. Median, with range in parentheses. Shown as percentage of patients with a family history (of adenomas or carcinomas of the oesophagus, stomach, duodenum, or colorectum) and given as a proportion of the total in each group from whom data were available, numbers in parentheses. §Shown as total number: followed by mean, with SD in parentheses. ¶Seventeen patients (50%) had no MP; of those who did have MP, median  5.5, with interquartile range of 1.75­11.25. Tumors present at diagnosis, as follow-up data were not uniformly available. **Only three patients reported to have MP: one, 1 polyp; the second, 2 polyps; and the third, 45 polyps.
+
+10724 Genetics: Frayling et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998)
+
+enomatous polyposis coli had not been excluded on molecular grounds. SSCP analysis of Groups 1 and 2 detected APC 15G bandshifts in two unrelated cases in Group 2 (2-80 and 2-82). Sequencing showed both of these to result from a missense variant (GAA 3 CAA) at codon 1317 in which glutamine is substituted for glutamic acid (3949G 3 C; E1317Q). No other germ-line variants were detected in Groups 1 or 2 by SSCP. RFLP analysis of Group 3 showed that two more unrelated individuals were E1317Q carriers (3-02 and 3-22). This allele was present as a heterozygote with the wild-type allele in all these four cases. There was no known common ancestry between these patients; all were of British origin and none was from an Ashkenazi background.
+The two E1317Q carriers in Group 2 presented with rectal bleeding and had adenomas throughout the colorectum, while the two in Group 3 both had presented with carcinomas; their clinical histories are summarized in Table 2. Subject 2­82 had 17 metaplastic polyps (MP) found incidentally at colonoscopy, which compares with 5 MP in 2­80 (data on MP were not systematically available from the patients in Group 2, but the median number of MP in Group 1, among those who had them, was 5.5: Table 1). Subject 3­02 had presented with a rectal cancer at age 39 years (Duke's stage C2; 2123 nodes positive), with no polyps being noted, and only one adenoma being found in 14 years of follow-up. She had also had a solitary liver metastasis resected at age 40 years. Subject 3­22 had presented with a sigmoid cancer, also at age 39 years, and in 15 years of
+
+follow-up she had developed an additional three adenomas and one metaplastic polyp.
+The family histories of the E1317Q carriers varied. Subject 2­80's sister was reported to have died from rectal cancer (at an unknown age), but 2­82 had no known family history of colorectal or associated cancers. The father of 3­02 had died from a gastric cancer in his 50s, while the father of 3­22 had died from a rectal cancer at age 53 years. None of the E1317Q carriers had a known family history of colorectal adenomas, and there were no other notable clinicopathological or family features to distinguish the E1317Q patients. The E1317Q variant was not present in 80 non-Ashkenazi British controls.
+An ARMS PCR was used to test for the I1307K variant, since it was suspected that this sequence change might not be detected when using the SSCP conditions employed (Fig. 1). These suspicions proved well founded, since three individuals with the I1307K allele (as heterozygote with the ``wild type'') were detected in Groups 1 and 2 while using the ARMS PCR (confirmed on sequencing). Each of the three I1307K carriers (1­14, 2­33, and 2­49) was of Ashkenazi descent. No individual in Group 3 was found to have I1307K, and none was of Ashkenazi origin. The clinical histories of the three patients with the I1307K allele are also shown in Table 2; all had adenomas throughout the colorectum, and none had clinical features that distinguished them from the other patients studied (Table 2). As with the E1317Q carriers, the associated family histories varied: 1­14 had an extensive family history of
+
+Table 2. Clinical and pathological histories of the individuals carrying APC 11307K or E1317Q
+
+APC
+
+Age, Total polyps
+
+variant Subject Sex years Adenomas MP
+
+Rectum
+
+Tumors found at each colonoscopy, by site and type
+Descending Splenic Transverse Hepatic Ascending Sigmoid colon colon flexure colon flexure colon Caecum
+
+E1317Q 2-80 M 59
+62 66 69 E1317Q 2-82 M 48 49 56 E1317Q 3-02 F 39 40 45 49 53 E1317Q 3-22 F 39 45 48 51 54 I1307K 1-14 M 39 I1307K 2-33 M 57 65 69 73 I1307K 2-49 M 63 70 74 77
+
+6 3 mT, moTV, MP(2)
+
+mT, moTV
+
+mT
+
+sTV, MP
+
+85
+
+mT(2), MP(2)
+
+16 5
+
+mT
+
+mT(4)
+
+mT(3)§
+
+24 5
+
+mT mT mT(5) mT
+
+2
+
+4 mT, MP
+
+sT, MP(3)
+
+3 12
+
+mT, MP(3)
+
+MP MP
+
+MP
+
+MP(2)
+
+6 17 MP(3)
+
+mT(2), MP MP
+
+mT
+
+0 0 Carcinoma
+
+00
+
+10
+
+mT
+
+10
+
+10
+
+00
+
+Carcinoma
+
+1 1 MP
+
+mT
+
+21
+
+mT
+
+31
+
+mT
+
+31
+
+3 1 mT
+
+MP
+
+mT mT
+
+3 0 mT(2), mTV
+
+5 0 mT
+
+mT
+
+6
+
+2 mT, MP
+
+MP
+
+6 2 Nil
+
+10
+
+sT/TV¶
+
+50
+
+moTV
+
+mT mS
+
+mT
+
+5 0 Nil
+
+17 0
+
+mT(4)
+
+mT(3)
+
+mT(2),
+
+mS(2),
+
+mTV
+
+*Age at which colonoscopies were performed. Cumulative totals to age shown. Tumors shown by histology. Adenomas, histological grade: m, mild dysplasia; mo, moderate dysplasia; s, severe dysplasia; and type: T, tubular; TV, tubulovillous; S, serrated. MP, metaplastic polyps. If more than one polyp are of the same type, the total is shown in parentheses. Nil, colorectum clear of tumors at colonoscopy. §One microadenoma also noted in mucosal biopsy of the caecum. ¶Reported by the referring hospital as: ``Pedunculated `malignant' polyp at 22 cm snared and removed''; no other details were available. Thereafter, annual rigid sigmoidoscopies were carried out until age 70 years, when, after rectal bleeding, a colonoscopy was performed with findings as shown.
+
+Genetics: Frayling et al.
+FIG. 1. ARMS PCR analysis for APC I1307K. Agarose gel electrophoresis of ARMS PCR products. The upper row (4 I) shows I1307-specific (wild-type) PCR products, and the lower row (K 3) shows K1307-specific products at 255 bp. In any given numbered lane the products in the two rows are from the same individual; lanes labeled ``M'' are 100-bp ladder DNA marker. Lanes 1­4, 6, and 7 are from I1307K-negative individuals; lanes 5 and 8 are from I1307Kcarrying patients 2­33 and 2­49, respectively; lane 9 is an I1307Kpositive control; lanes 10 and 11 are from E1317Q-carrying patients 2­80 and 2­82, respectively; and lane 12 is a known homozygous, wild-type negative control. colorectal and other tumors (Fig. 2), 2­33 reported that his mother had developed colon cancer (at unknown age), and 2­49 had no known family history of colorectal tumors. Of the 164 patients tested for I1307K, ethnic origin was known for 124 individuals, 8 of whom were of Ashkenazi origin. Thus, we estimate that approximately 37.5% of Ashkenazim with multiple adenomas carry the I1307K allele. The frequency of I1307K among the 98 Ashkenazi controls from North London was 8.1%.
+DISCUSSION There is increasing evidence that there exist germ-line variants of the APC gene that predispose to the development of multiple colorectal adenomas and carcinoma, but without the florid phenotype of classical FAP and possibly with incomplete penetrance. We have found the I1307K variant of APC in 3 of 134 patients with multiple colorectal adenomas, and all 3 patients were of Ashkenazi Jewish origin. I1307K is rare or absent outside this ethnic group. Thus, we did not find it in 30 non-Ashkenazi British individuals with colorectal carcinomas either affected at a young age andor with a family history. The mode of action of the I1307K allele was suggested by Laken et al. (7) to be somatic hypermutability. However, a direct effect of the variant remains at least as likely, since it results in a charge change in a critical, functional part of the APC molecule. The I-to-K substitution is in a region that bisects the -catenin-binding sites and that is involved in binding to at least two other proteins. Thus, the substitution could give rise to a mild dominant-negative effect, therefore reducing the amount of available functional APC protein enough to sub-
+
+Proc. Natl. Acad. Sci. USA 95 (1998) 10725 stantially increase the risk of polyp formation. Strong dominant-negative effects resulting from mutations that truncate the APC protein in this region probably account for the mutation cluster region originally described by Nagase and Nakamura (14). We were unable to test for cosegregation of I1307K with disease in the two families suitable for study, and the extent of family history of colorectal tumors varied greatly in the three patients we detected with I1307K. Thus, although a family history of colorectal tumors may be a predictor of I1307K carriers, I1307K is not restricted to this group (7, 15). The reasons for this could, to a large extent, be ascertainment bias but could also include inaccurate recall by patients, asymptomatic disease, lack of screening by colonoscopy, and most probably, as an explanation that covers many of these possibilities, imperfect penetrance of the I1307K allele. Our estimate of I1307K frequency in unselected North London Ashkenazim (8.1%) is similar to that found in the United States (7, 15).
+We have also found that an E1317Q APC variant is present in a subset of patients with colorectal adenomas or carcinoma, being found in 2 of 134 multiple adenoma patients and 2 of 30 colorectal cancer patients, but in none of 80 controls. One of the multiple adenoma patients carrying E1317Q also had a large number of MP. The E1317Q variant has been reported previously in a family of unknown ethnic origin with colon cancer, by White et al. (16) in Edinburgh. The variant did not, however, entirely cosegregate with disease (or disease severity) in this family, as only two of the four sibs with colon cancer carried E1317Q. While the presence or absence of colorectal adenomas or MP was not commented on, they did find that none of the 133 control individuals that they tested carried E1317Q and the two cancers in the E1317Q carriers both had lost the wild-type allele (16). If we combine the control data of White et al. with ours, giving a total of 213 controls, none of whom were found to carry E1317Q, then our finding of E1317Q in 4 of 164 individuals affected with colorectal carcinoma or adenomas is significant (P  0.035; Fisher's Exact test, two-sided). Petrukhin et al. (15) have reported E1317Q in Ashkenazi breastovarian cancer families, but did not observe the variant to segregate with colorectal cancer (or breastovarian tumors). Therefore, overall the data suggest that the E1317Q allele contributes to a predisposition to colorectal adenomas and carcinoma, but with low and variable penetrance.
+No tumor material was available from our patients with the E1317Q variant, but the DNA sequence change (CAGCTGAAGAT 3 CAGCTCAAGAT) does not appear to introduce an obvious hypermutable site as the I1307K change does. The E1317Q variant substitutes an uncharged hydrophilic amino acid for an acidic hydrophilic amino acid, which may be sufficient to affect the structure or function of the APC protein. This substitution therefore may affect colorectal adenoma predisposition by the same mechanisms suggested above for I1307K. We cannot, however, rule out the possibility that the E1317Q variant is actually in tight linkage disequilibrium with another, pathogenic APC variant, but this seems unlikely to be the case.
+Further work is necessary to determine the best way of identifying I1307K and E1317Q carriers on clinical grounds and to calculate the risks of colorectal adenomas and carcinomas associated with each of these APC variants. Our data show that carriers of both I1307K and E1317Q can develop tumors throughout the colorectum, and, therefore, surveillance should be by colonoscopy, though the frequency of such examinations currently must be empirical. Our data suggesting that some carriers of E1317Q may also have a tendency to develop multiple MP of the colorectum are intriguing, but require confirmation in a larger sample size. There is evidence that MP are associated with carcinoma, and families have been
+
+10726 Genetics: Frayling et al.
+
+Proc. Natl. Acad. Sci. USA 95 (1998)
+
+FIG. 2. Pedigree of APC I1307K-carrying individual 1­14. Symbols: solid, individuals affected with gastrointestinal cancers; half-solid, other cancers (not smoking related); quarter-solid, smoking-related cancers; central dot, colorectal adenoma(s); N, no tumors found at colonoscopy. Generations are given on the left in roman numerals. Beneath the symbols are given individual numbers, by generations. Below the individual numbers are given the known tumor type(s) (carcinomas unless otherwise specified) or other cause of death affecting that individual and the age at diagnosis, when known (including any colonoscopy results; nil, no tumors found). Shown below the diagnoses, in parentheses, is the age at death. The proband (individual IV.5; patient 1­14) is indicated with an arrow and is a heterozygous carrier of APC I1307K. Individuals IV.4 and IV.5 have had one surveillance colonoscopy, while IV.2 has had three, commencing at age 48 years; other individuals in generation IV whose phenotypes are unknown have been omitted for clarity. II.7 and II.8 were first cousins through I.2.
+
+described in which tendencies to MP are segregating; perhaps these families carry E1317Q or other APC variants (17, 18).
+Low-penetrance variants such as I1307K and E1317Q will not usually give rise to families containing multiple cases of colorectal carcinomas. Thus, in a prospective screen for such mutations one would expect the majority of individuals identified with adenomas or carcinomas to be sporadic or to have, at most, one or two affected relatives. On the other hand, if screening is by ascertainment of families, then these clearly will include a significantly increased frequency of such variants. This form of ascertainment bias presumably explains the assumption by Laken et al. (7) that the I1307K variant makes a major contribution to familial colorectal carcinomas.
+The existence of the I1307K and E1317Q APC variants raises the possibility that there exists in the population many other variants at subpolymorphic frequencies with a signifi-
+
+cant, but imperfectly penetrant, effect on the incidence of colorectal adenomas and carcinomas. Preliminary haplotype analysis using closely linked CA-repeat markers suggests that both these mutations have a common origin (Table 3). Their selective disadvantage will be very small because of the low penetrance with respect to significant disease. Thus, mutations of this sort could easily increase in a population because of random genetic drift, in much the same way that occasional recessive mutations do, such as the common cystic fibrosis deletion (F508), which is found particularly in Northern European populations. Theoretical population genetic considerations suggest that at a locus such as APC, which is relatively large, there may at any given time exist a number of selectively neutral or near-neutral variants, the collective frequency of which could amount to a few percent. A subset of these, such as the two we have discussed in this paper that result in amino
+
+Table 3. Genotypes of I1307K and E1317Q carriers at loci flanking APC
+
+Locus* D5S299 D5S82 APC D5S346 MCC
+
+Map Distance,
+cM
+3 4 0.5 0.5
+
+2-80 160178 138140
+100118 168174
+
+2-82 178178 138148
+100116 174
+
+E1317Q 3-02
+160182 138146 E1317Q
+100 168174
+
+3-22 160 138146
+90100 168170
+
+*Listed centromeric (D5S299) to telomeric (D5S346). From GDB data. Alleles given as sizes in bp. §Not possible to determine shared alleles.
+
+Shared --§ 138
+100 --§
+
+1-14 182184 138140
+100114 168
+
+I1307K
+
+2-33 176178
+
+2-49 178188
+
+138148 138146
+
+I1307K
+
+100112 100112
+
+168174
+
+168
+
+Shared --§ 138
+100 168
+
+Genetics: Frayling et al. acid substitutions with significant functional consequences, then will give rise to a contribution to inherited colorectal cancer or adenoma susceptibility. Individual variants may achieve relatively high frequencies, particularly in isolated populations (as I1307K has done in the Ashkenazi Jews). The overall contribution to colorectal cancer of subpolymorphic APC variants may be quite significant and comparable to that associated with mutations with a more severe effect and therefore much stronger selective disadvantage.
+Genetic susceptibility associated with such subpolymorphic variation could be difficult to find by testing for population associations between disease and alleles at polymorphic sites (see, e.g., ref. 19). The reason for this is that the contribution of any single variant to the overall variation in susceptibility attributable to any one locus may be much too small. This category of genetic susceptibility therefore may best be identified by direct association between a disease and variants detected in a candidate gene already identified as functionally relevant. Should it prove possible to reduce substantially the risk of colorectal cancer in I1307K and E1317Q carriers by appropriate surveillance with removal of adenomas, then, if further evidence accrues that additional APC variants exist that predispose to cancer, there is a case for offering population-wide screening for APC mutations. The type of subpolymorphic, tumor-predisposing variation that may exist at APC may be found quite generally in a wide range of disease-causing genes and represents a new facet of the study of multifactorial disease inheritance.
+We are grateful to Drs. Wendy Atkin, Eamonn Sheridan, and Julian Walters for providing patients' samples and useful discussions, and Dr. Rob Edwards for statistical advice. Dr. Bert Vogelstein kindly supplied control DNA from an individual with the APC I1307K variant. We also thank Dr. Julia Bodmer for supplying the non-Jewish British control samples. Kay Neale, Sheila Goff, Margaret Stevens, and Steven Rumbles gave invaluable help with searching for patient data and records. The work of the late Dr. H. J. R. Bussey on families with ``Excessive Multiple Adenomas'' and that of other clinicians from St. Mark's Hospital is gratefully acknowledged. This work was supported by the Imperial Cancer Research Fund and the Jane Ashley Trust (to I.P.M.T.).
+
+Proc. Natl. Acad. Sci. USA 95 (1998) 10727 1. Beroud, C. & Soussi, T. (1996) Nucleic Acids Res. 24, 121­124. 2. Miyoshi, Y., Nagase, H., Ando, H., Horii, A., Ichii, S., Nakatsuru,
+S., Aoki, T., Miki, Y., Mori, T. & Nakamura, Y. (1992) Hum. Mol. Genet. 1, 229­233. 3. Spirio, L., Olschwang, S., Groden, J., Robertson, M., Samowitz, W., Joslyn, G., Gelbert, L., Thliveris, A., Carlson, M., Otterud, B., et al. (1993) Cell 75, 951­957. 4. Friedl, W., Meuschel, S., Caspari, R., Lamberti, C., Krieger, S., Sengteller, M. & Propping, P. (1996) Hum. Genet. 97, 579­584. 5. van der Luijt, R. B., Meera Khan, P., Vasen, H. F. A., Breukel, C., Tops, C. M. J., Scott, R. J. & Fodde, R. (1996) Hum. Genet. 98, 727­734. 6. Beck, N. E., Tomlinson, I. P. M., Homfray, T. F. R., Frayling, I. M., Hodgson, S. V. & Bodmer, W. F. (1997) Gut 41, 335­338. 7. Laken, S. J., Petersen, G. M., Gruber, S. B., Oddoux, C., Ostrer, H., Giardello, F. M., Hamilton, S. R., Hampel, H., Markowitz, A., Klimstra, D., et al. (1997) Nat. Genet. 17, 79­83. 8. Frayling, I. M. & Rowan, A. J. (1996) in Molecular Diagnosis of Genetic Diseases, ed. Elles, R. (Totowa, New York), pp. 63­98. 9. Armstrong, J. A., Davies, D. R., Guy, S. P., Frayling, I. M. & Evans, D. G. R. (1997) Hum. Mutat. 10, 376­380. 10. Newton, C. R., Graham, A., Heptinstall, L. E., Powell, S. J., Summers, C., Kalsheker, N. & Smith, J. C. (1989) Nucleic Acids Res. 17, 2503­2516. 11. Breukel, C., Tops, C., van Leeuwen, C., van der Klift, H., Nakamura, Y., Fodde, R. & Khan, P. M. (1991) Nucleic Acids Res. 19, 5804. 12. Spirio, L., Nelson, L., Ward, K., Burt, R., White, R. & Leppert, M. (1993) Am. J. Hum. Genet. 52, 286­296. 13. van Leeuwen, C., Tops, C., Breukel, C., van der Klift, H., Fodde, R. & Khan, P. M. (1991) Nucleic Acids Res. 19, 5805. 14. Nagase, H. & Nakamura, Y. (1993) Hum. Mutat. 2, 425­434. 15. Petrukhin, L., Dangel, J. E., Vanderveer, L., Costalas, J., Bellacosa, A., Grana, G., Daly, M. & Godwin, A. K. (1997) Cancer Res. 57, 5480­5484. 16. White, S., Bubb, V. J. & Wyllie, A. H. (1996) Genes Chromosomes Cancer 15, 122­128. 17. Sasajima, K., Yamanaka, Y., Inokuchi, K., Takizawa, T., Ujihara, Y., Ide, Y., Onda, M. & Takubo, K. (1993) Cancer 71, 672­676. 18. Jass, J. R., Cottier, D. S., Pokos, V., Parry, S. & Winship, I. M. (1997) Pathology 29, 28­33. 19. Tomlinson, I. P. M. & Bodmer, W. F. (1995) Trends Genet. 11, 493­ 498.
+
+

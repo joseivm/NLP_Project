@@ -1,0 +1,473 @@
+American Journal of Epidemiology © The Author 2013. Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg School of Public Health. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+Human Genome Epidemiology (HuGE) Review
+
+Vol. 177, No. 11 DOI: 10.1093/aje/kws382 Advance Access publication:
+April 10, 2013
+
+APC Polymorphisms and the Risk of Colorectal Neoplasia: A HuGE Review and Meta-Analysis
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+Jing Liang, Chunqing Lin, Fulan Hu, Fan Wang, Lin Zhu, Xiaoping Yao, Yibaina Wang, and Yashuang Zhao*
+* Correspondence to Dr. Yashuang Zhao, Department of Epidemiology, Public Health College, Harbin Medical University, 157 Baojian Street, Nangang District, Harbin, Heilongjiang Province, China (e-mail: zhao_yashuang@263.net).
+Initially submitted January 20, 2012; accepted for publication September 11, 2012.
+Adenomatous polyposis coli gene (APC) polymorphisms may influence the risk for colorectal neoplasia. However, results thus far have been inconclusive. We performed a systematic literature search of the Medline, Embase, Cochrane Collaboration, and HuGE databases and reviewed the references of pertinent articles through May 2012. Odds ratios with 95% confidence intervals were used to estimate the association between 3 APC polymorphisms (D1822V, E1317Q, and I1307K) and colorectal neoplasia. In total, 40 studies from 1997 to 2010 were included in this meta-analysis, and individuals with the D1822V variant homozygote VV genotype had a slight decrease in the risk for colorectal neoplasia compared with the wild-type homozygote DD genotype (pooled odds ratio = 0.87, 95% confidence interval: 0.77, 0.99). There was a small association between the APC E1317Q polymorphism and a risk for colorectal neoplasia (variant vs. wild-type: pooled odds ratio = 1.41, 95% confidence interval: 1.14, 1.76), particularly for colorectal adenomas (variant vs. wild-type: odds ratio = 2.89, 95% confidence interval: 1.83, 4.56). Compared with those who carried the wild-type I1307K, Ashkenazi Jews who carried the I1307K variant were at a significantly increased risk for colorectal neoplasia, with a pooled odds ratio of 2.17 (95% confidence interval: 1.64, 2.86). Our study suggests that APC is a candidate gene for colorectal neoplasia susceptibility.
+APC gene; colorectal cancer; epidemiology; genetics; genome, human; meta-analysis; polymorphism
+Abbreviations: APC, adenomatous polyposis coli gene; CI, confidence interval; OR, odds ratio.
+
+Editor's note: This article also appears on the Web site of the Human Genome Epidemiology Network (http://www. hugenet.org.uk/index.html).
+Colorectal cancer is the third most common cancer and the fourth most frequent cause of cancer death worldwide (1). Colorectal cancer is a multifactorial disease that involves both environmental and genetic factors (2). The adenomatous polyposis coli gene (APC) was identified in 1991, is located at 5q21-q22, and contains 15 exons; it plays a key role in the early stages of human colorectal tumorigenesis (3). Its tumor-suppressing activity is believed to be based on the regulation of the intracellular -catenin level within the
+
+wingless signal transduction pathway (the Wnt signaling pathway) (4). A mutation in APC promotes the accumulation of -catenin, which results in aberrant cellular proliferation, leading to the beginning stages of colorectal cancer (5). APC germ-line mutations lead to the hereditary colorectal cancer syndrome, familial adenomatous polyposis (6, 7).
+Epidemiologic and biological data have suggested that within a given population, various single-nucleotide polymorphisms could be responsible for an increased risk of colorectal cancer development. Several putative low-penetrance susceptibility alleles of APC have been investigated in individuals and populations with an elevated risk of colorectal neoplasia (6­8). The common polymorphisms in APC, which result in amino acid changes, may have functional
+
+1169
+
+Am J Epidemiol. 2013;177(11):1169­1179
+
+1170 Liang et al.
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+significance, leading to dysregulation in many cancers, particularly in colorectal tumors. However, unlike the wellcharacterized pathogenic germ-line mutations in APC that are found in familial adenomatous polyposis, the consequences of common allele variants in APC as they relate to colorectal adenomas and cancer risk are less clear (9). At least 12 single-nucleotide polymorphisms have been identified, with 8 of them being in exon 15. Three of them are responsible for amino acid substitutions (10).
+D1822V, which results in an aspartate (D) to valine (V) change at codon 1822 (rs459552) due to an A-to-T transversion, is the most common APC variant that has been described (10); this transversion is located close to the fifth -catenin binding region. Recently, several studies have investigated the role of D1822V polymorphisms on the risk of colorectal cancers. However, the results of these studies remain inconsistent, and no meta-analysis has been published until now.
+E1317Q results in a missense glutamic acid (E) to glutamine (Q) variant at codon 1317. A meta-analysis of 8 studies of the association between E1307Q and colorectal adenoma or cancer risk was published in 2006 (11) and found no association between E1317Q and colorectal cancer ( pooled odds ratio (OR) = 1.35, 95% confidence interval (CI): 0.92, 1.97). Unfortunately, in this meta-analysis published in 2006, 3 published articles about the relationship between E1317Q and colorectal adenoma or cancer risk were not included (12­14). Since then, 5 inconsistent studies have been published (15­19). Therefore, the association between the E1317Q polymorphism and the risk of colorectal neoplasia is still unclear, and it is important to clarify this association.
+The I1307K APC variant, which is an isoleucine (I) to lysine (K) substitution at codon 1307, was found in 6.1% of American Jews of European (Ashkenazi) origin and in a remarkably high proportion of Ashkenazi colorectal cancer patients (10.4%) (20). However, the results of these studies on the prevalence of I1307K in Israeli Jews from various ethnic origins (non-Ashkenazi, such as Asia- and Africaborn Jews) and non-Jewish colorectal cancer patients and the association between I1307K and the risk for colorectal neoplasia are inconsistent and need clarification through a meta-analysis.
+Both environmental and genetic factors and their interaction have been implicated in the occurrence of colorectal cancer (21). Of the environmental factors, obesity, high fat intake, lack of physical activity, hormone replacement therapy use, and a lack of protective factors, such as dietary fruit and vegetables, have consistently been associated with a greater risk of colorectal cancer (22, 23). In the presence of high fat intake, which is a cancer promoter, the production of diacylglycerol may increase. High concentrations of diacylglycerol promote greater activation of protein kinase C, which can activate the Wnt signaling pathway and thereby promote cancer growth (24).
+Therefore, we performed a meta-analysis that was based on published studies to comprehensively assess the association between the main APC polymorphisms and potential interactions with environmental factors and the risk for colorectal neoplasia.
+
+MATERIALS AND METHODS
+Primary search strategy
+We conducted a systematic literature search in the Medline, Embase, Cochrane Collaboration, and HuGE databases through May 2012 by using the following keywords: colorectal cancer; colorectal carcinoma; colorectal neoplasia; colorectal tumor; colorectal adenoma; D1822V; I1307K; E1317Q; and polymorphism. The references in the retrieved studies were also reviewed.
+Criteria for inclusion and exclusion
+All published original papers were screened. Studies performed in humans, regardless of sample size, were included if they met the following criteria: 1) the study investigated the association between at least 1 of the 3 polymorphisms of APC (D1822V, E1317Q, or I1307K) and the risk of colorectal neoplasia; 2) the study reported the genotypic frequencies of the I1307K polymorphisms in unrelated colorectal neoplasia patients and unrelated individual controls; and 3) the genotype distribution of the control population was in Hardy-Weinberg equilibrium. Moreover, for articles that had the same population or repeated data, the most recent or the largest sample was included; if the population of 1 article was the same as others but the sample was not the same, then a merged sample was included.
+Data extraction
+Two reviewers independently searched the literature, extracted data, and conferred over any difference until a consensus was reached for each item. Information was collected from each article, including the first author, year of publication, country (and subjects' ethnicity), tumor type, selection criteria and characteristics of cases and controls, genotype frequency, matching condition, odds ratio, and corresponding 95% confidence interval.
+Quality score assessment and Venice criteria
+The 2 reviewers (J.L. and C.Q.L) independently assessed the quality of the studies selected by using the quality assessment score developed for genetic association studies (25), which is based on both traditional epidemiologic considerations and genetic issues (26). Total scores ranged from 0 (worst) to 12 (best). In this meta-analysis, we also used the "Venice criteria" to assess the cumulative evidence of the associations (27). The evidence level is categorized as strong, moderate, or weak. Any differences were adjudicated by the reviewer (F.L.H.).
+Statistical analysis
+Odds ratios were used to evaluate the associations between APC polymorphisms and the risk of colorectal neoplasia. Pooled odds ratios and 95% confidence intervals were calculated by using Comprehensive Meta-Analysis, version 2, software (Biostat, Inc., Englewood, New Jersey) with a 2-tailed -value of 0.05 (28). We chose a threshold of
+Am J Epidemiol. 2013;177(11):1169­1179
+
+APC Polymorphisms and the Risk of Colorectal Neoplasia 1171
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+at least 4 studies before performing a meta-analysis for subgroups.
+For D1822V, we compared the risk of colorectal neoplasia in the DV heterozygote and the variant homozygote VV with the wild-type DD homozygote. In addition, we evaluated the interaction of fat intake and the D1822V polymorphisms for the risk of colorectal neoplasia by using SAS, version 9.1, software (SAS Institute, Inc., Cary, North Carolina).
+For E1317Q and I1307K, we compared the frequency of variant carriers with that of wild-type carriers in the case and control groups to evaluate the associations between the 2 APC polymorphisms and the colorectal neoplasm risk. Specifically, for I1307K, the pooled frequency of variation was calculated.
+Heterogeneity between the studies was measured by I2. If the I2 was less than 50%, the estimated odds ratio or frequency and its confidence interval were calculated by using a fixed-effect model. Otherwise, a random-effect model was used. A sensitivity analysis was conducted by sequentially omitting individual studies. We also conducted a cumulative meta-analysis to evaluate the trend of summary odds ratios (and 95% CIs) by the year of publication. Publication biases were investigated by using a funnel plot, which was the main graphical method that was used. To supplement the funnel plot approach, the rank correlation method, as suggested by Begg and Mazumdar (29), and the linear regression approach, as proposed by Egger et al. (30), were adopted. If a publication bias existed, the trim and fill method (31) was used to produce an adjusted pooled odds ratio and 95% confidence interval. Hardy-Weinberg equilibrium was assessed by using the 2 test.
+RESULTS
+Characteristics of the studies analyzed
+Sixty-three of 474 studies were identified from the Medline, Embase, Cochrane Collaboration, and HuGE databases as primary candidates, all of which were published in English. Eleven studies were excluded because of a lack of variation or genotypic frequency for cases and controls. Eight studies were excluded because the data for estimating the odds ratio and 95% confidence interval were insufficient. Furthermore, 4 studies were duplicates. Finally, 40 studies qualified for this meta-analysis (Table 1). The results of cumulative evidence showed a characterization of "strong evidence" for D1822V and "moderate evidence" for E1317Q and I1307K in this meta-analysis (Web Table 1, available at http://aje.oxfordjournals.org/). Figure 1 shows a flowchart representing the overall search and selection Q2 process.
+Of the 40 studies, 10 articles reporting 13 sets of data examined the association between the D1822V APC polymorphism and colorectal neoplasia risk and included 9,868 cases and 10,930 controls (10, 16­18, 24, 32­36). Fifteen articles reported the association between the E1317Q APC polymorphism and colorectal neoplasia risk and included 9,069 cases and 11,341 controls (11­19, 37­42). Twentyfour articles reported the association between the I1307K
+Am J Epidemiol. 2013;177(11):1169­1179
+
+APC polymorphism and colorectal neoplasia risk and the frequencies of the I1307K variation in different ethnicities (13, 14, 16, 19, 20, 37, 43­59). Five articles examined both E1317Q and I1307K, 2 articles studied D1822V and E1317Q, and 1 article addressed D1822V, E1317Q, and I1307K simultaneously. For D1822V, no significant differences in genotype distribution in the population were observed, and the genotypes were under Hardy-Weinberg equilibrium (P <0.05). However, for the other 2 singlenucleotide polymorphisms (E1317Q and I1307K), the data of genotype distributions were presented only as wild-type and variant rather than as 3 separate genotypes in the included studies, and they are insufficient to properly evaluate Hardy-Weinberg equilibrium.
+Quantitative synthesis
+Table 2 and Web Figure 1 display the pooled associations between the 3 APC polymorphisms and colorectal neoplasia risk.
+APC D1822V. Individuals with the variant homozygous VV genotype had a slightly lower risk for colorectal cancer compared with the wild-type homozygous DD genotype (for VV vs. DD, pooled OR = 0.87, 95% CI: 0.77, 0.99) (I2 = 0.00%). Individuals carrying the heterozygous DV genotype or DV plus VV genotypes had no statistically significant reduction in colorectal neoplasia risk (for DV + VV vs. DD, pooled OR = 0.98, 95% CI: 0.92, 1.04) (I2 = 12.05%) compared with the DD genotype (for DV vs. DD, pooled OR = 0.99, 95% CI: 0.93, 1.05) (I2 = 21.60%).
+APC E1317Q. The colorectal neoplasia risk was slightly elevated in E1317Q carriers compared with the wild-type carriers (pooled OR = 1.41, 95% CI: 1.14, 1.76) (I2 = 36.43%), particularly for colorectal adenomas (pooled OR = 2.89, 95% CI: 1.83, 4.56), but not in colorectal cancer ( pooled OR = 1.21, 95% CI: 0.95, 1.53).
+APC I1307K. Ashkenazi Jewish patients who carried the I1307K variation had a significantly increased risk of colorectal cancer. Overall, the pooled odds ratio for the association between the I1307K polymorphism and colorectal neoplasia was 2.17 (95% CI: 1.64, 2.86) (I2 = 0.00%), but I1307K appeared to confer no additional risk for colorectal neoplasia in non-Ashkenazi Jewish cases ( pooled OR = 1.36, 95% CI: 0.59, 3.13) (I2 = 0.00%). Significant differences in the variation rates were found among the different racial descents. The prevalence was significantly higher among Ashkenazi Jewish cases (pooled prevalence = 11.80%, 95% CI: 10.72, 12.99) than in non-Ashkenazi Jewish cases (pooled prevalence = 2.88%, 95% CI: 1.78, 4.62) or nonJewish cases (pooled prevalence = 0.92%, 95% CI: 0.51, 1.66) (P < 0.01). The details are shown in Table 3.
+Sensitivity analysis
+Sensitivity analyses were performed to assess the effects of each individual study on the pooled odds ratio for each analysis by sequentially removing individual studies. The results suggested that omitting each individual study had no significant influence on the pooled odds ratios for the associations between D1822V, E1317Q, and I1307K and
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+1172 Liang et al. Am J Epidemiol. 2013;177(11):1169­1179
+
+Table 1. Characteristics of Included Studies That Investigated the Association Between APCa Polymorphisms and Colorectal Neoplasia Risk
+
+APCa Variant
+D1822V D1822V D1822V D1822V D1822V D1822V D1822V D1822V D1822V D1822V D1822V D1822V D1822V E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q E1317Q I1307K I1307K I1307K
+
+First Author, Year (Reference No.)
+Tranah, 2005 (32) Tranah, 2005 (32) Theodoratou, 2008 (17) Slattery, 2001 (34) Menendez, 2004 (33) Chen, 2006 (10) Picelli, 2010 (36) Guerreiro, 2007 (24) Cleary, 2008 (18) Bougatef, 2009 (16) Tranah, 2005 (32) Tranah, 2005 (32) Wong, 2010 (35) Hall, 2009 (15) Hahnloser, 2003 (39) Hall, 2009 (15) Theodoratou, 2008 (17) Cleary, 2008 (18) Bougatef, 2009 (16) Rozek, 2006 (11) Fidder, 2005 (37) Kapitanovic, 2004 (13) Zhou, 2004 (12) Figer, 2001 (14) Popat, 2000 (41) Hahnloser, 2003 (39) Hall, 2009 (15) Azzopardi, 2008 (19) Hahnloser, 2003 (39) Gismondi, 2002 (40) Fearnhead, 2004 (38) Lamlum, 2000 (42) Frayling, 1998 (58) Rozen, 2002 (47) Rozen, 2002 (47)
+
+Study Design
+Nested case-control Nested case-control Population case-control Population case-control Hospital case-control Population case-control Population case-control Hospital case-control Population case-control Population case-control Nested case-control Nested case-control Nested case-control Hospital case-control Population case-control Hospital case-control Population case-control Population case-control Population case-control Population case-control Hospital case-control Population case-control Hospital case-control Population case-control Population case-control Population case-control Population case-control Population case-control Population case-control Nested case-control Population case-control Population case-control Population case-control Population case-control
+
+Country or Region (Ethnicity)
+United States United States Scotland United States Spain Taiwan Sweden Portugal Canada Tunisia United States United States United States Israel United States Israel Scotland Canada Tunisia Israel Israel Croatia Sweden Israel England United States Israel North America United States Italy England England England (Ashkenazim) Israel (Ashkenazim) Israel (non-Ashkenazim)
+
+Caseb
+112/63/13 172/80/15 1,617/968/119 978/546/66 224/108/14 64/10/0 1,033/616/105 128/59/9 606/311/54 32/12/4 301/206/24 226/134/14 455/271/31 443/15 594/14 231/6 2,678/68 954/17 48/0 1,944/26 532/6 73/0 182/1 81/4 362/2 368/9 212/9 467/13 226/5 180/2 121/3 157/7 5/3 226/23 60/0
+
+Controlb
+269/169/25 263/143/31 1,625/933/138 1,197/647/101 197/84/16 78/2/0 937/607/97 127/66/7 548/347/59 46/15/2 303/185/38 437/251/34 462/251/33 1,420/11 668/11 1,420/11 2,676/61 936/18 63/0 1,971/23 435/5 50/0 188/0 146/2 288/2 668/11 1,420/11 958/11 668/11 233/2 474/6 501/2 90/8 182/12 196/3
+
+Tumor Type
+Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal adenoma Colorectal adenoma Colorectal adenoma Colorectal neoplasia Colorectal neoplasia Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal adenoma Colorectal adenoma Colorectal adenoma Colorectal adenoma Colorectal adenoma Colorectal adenoma Colorectal neoplasia Colorectal neoplasia Colorectal neoplasia
+Table continues
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+APC Polymorphisms and the Risk of Colorectal Neoplasia 1173 Am J Epidemiol. 2013;177(11):1169­1179
+
+Table 1. Continued
+
+APCa Variant
+
+First Author, Year (Reference No.)
+
+Study Design
+
+Country or Region (Ethnicity)
+
+Caseb
+
+Controlb
+
+I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K I1307K
+
+Dundar, 2007 (43) Stern, 2001 (48) Gryfe, 1999 (55) Zauber, 2005 (59) Laken, 1997 (20) Woodage, 1998 (56) Fidder, 2005 (37) Fidder, 2005 (37) Shtoyerman-Chen, 2001 (49) Shtoyerman-Chen, 2001 (49) Drucker, 2000 (53) Drucker, 2000 (53) Figer, 2001 (14, 50) Figer, 2001 (14, 50) Rennert, 2005 (44) Rennert, 2005 (44) Locker, 2004 (45) Prior, 1999 (54) Kapitanovic, 2004 (13) Evertsson, 2001 (51) Bougatef, 2009 (16) Lothe, 1998 (57) Guo, 2004 (46) Azzopardi, 2008 (19) Syngal, 2000 (52)
+
+Case series Case series Case series Case series Population case-control Population case-control Hospital case-control Hospital case-control Population case-control Population case-control Population case-control Population case-control Case series Case series Case series Case series Case series Case series Case series Case series Case series Case series Case series Population case-control Case series
+
+Turkey (non-Jews) Canada (Ashkenazim) Canada (Ashkenazim) United States (Ashkenazim) United States (Ashkenazim) United States (Ashkenazim) Israel (Ashkenazim) Israel (non-Ashkenazim) Israel (Ashkenazim) Israel (non-Ashkenazim) Israel (Ashkenazim) Israel (non-Ashkenazim) Israel (Ashkenazim) Israel (non-Ashkenazim) Israel (Ashkenazim) Israel (non-Ashkenazim) United States (Ashkenazim) Multinational, mixedc (non-Jews) Croatia (non-Jews) Sweden (non-Jews) Tunisia (non-Jews) Norway (non-Jews) Singapore, mixedc (non-Jews) North America (non-Jews) United States (Ashkenazim)
+
+26/30 36/8 428/48 375/54 189/22 48/7 287/35 161/4 198/29 120/2 59/12 35/3 166/23 78/2 562/71 179/5 189/26 345/0 73/0 194/0 47/1 209/1 178/0 474/6 139/22
+
+719/47 4,593/355 247/13 148/3 140/8 366/4 181/17 180/9
+960/9
+
+a APC, adenomatous polyposis coli gene. b Three values indicate wild-type homozygote/heterozygote/variant homozygote; 2 values indicate wild-type homozygote/heterozygote + variant homozygote. c Subjects from 2 or more races or ethnic backgrounds.
+
+Tumor Type
+Colorectal neoplasia Colorectal neoplasia Colorectal neoplasia Colorectal neoplasia Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal cancer Colorectal adenoma Colorectal adenoma
+
+1174 Liang et al.
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+Figure 1. Flow chart of study selection.
+
+colorectal neoplasia. However, for the pooled variation frequency of I1307K in non-Jewish patients, 1 study showed a higher carrier rate, with a total of 30 I1307K variations in 56 patients (53.60%) in the Turkish population, which increased the pooled variation frequency (1.15%) in nonJewish patients with large heterogeneity (I2 = 94.56%). After removing this study, the pooled variation prevalence was 0.92% in non-Jewish patients and no heterogeneity was present (I2 = 0.00%).
+Cumulative meta-analysis
+In the cumulative meta-analysis for the codon 1822 variant (VV vs. DD), codon 1317 variant, and codon 1307 variant, the pooled odds ratios tended toward more stability
+
+and toward significant associations as more data accumulated over time. Particularly for the codon 1317 variant, the results show that the combined results of 2 large trials by Theodoratou et al. (17) and Rozek et al. (11) decreased the confidence interval and increased the accuracy of estimates. The details are shown in Web Figure 2.
+Publication bias
+The graphical funnel plots for associations between codon 1822 variants (DV vs. DD and VV vs. DD), codon 1317 variants (variant carriers vs. wild-type carriers), and codon 1307 variants (variant carriers vs. wild-type carriers in Ashkenazi Jews or non-Ashkenazi Jews) and the risk of colorectal neoplasia are shown in Web Figure 3. Publication
+Am J Epidemiol. 2013;177(11):1169­1179
+
+APC Polymorphisms and the Risk of Colorectal Neoplasia 1175
+
+Table 2. Pooled Associations Between the APCa Polymorphism and the Risk of Colorectal Neoplasia
+
+Comparison Type
+Codon1822 DV + VV vs. DD DV vs. DD VV vs. DD
+Codon1317 Variant vs. wild-type Variant vs. wild-type in colorectal cancer Variant vs. wild-type in colorectal adenoma
+Codon1307 Variant vs. wild-type in Ashkenazi Jews Variant vs. wild-type in non-Ashkenazi Jews
+
+No. of Studies
+13 13 13
+16 12
+6
+7 4
+
+Pooled OR
+
+Pooled 95% CI
+
+P Value for z Test
+
+Heterogeneity I 2 (%) P Value Model
+
+0.98 0.92, 1.04 0.99 0.93, 1.05 0.87 0.77, 0.99
+
+0.45 12.05 0.32 0.72 21.60 0.23 0.04 0.00 0.90
+
+Fixed Fixed Fixed
+
+1.41 1.14, 1.76 1.21 0.95, 1.53
+
+<0.01 0.09
+
+36.43 0.00
+
+0.07 0.49
+
+2.89 1.83, 4.56 <0.01 36.49 0.16
+
+Fixed Fixed
+Fixed
+
+2.17 1.64, 2.86 <0.01 1.36 0.59, 3.13 0.47
+
+0.00 0.57 0.00 0.89
+
+Fixed Fixed
+
+Abbreviations: CI, confidence interval; OR, odds ratio.
+a APC, adenomatous polyposis coli gene. b Based on Egger's linear regression approach. c Based on Begg's rank correlation method.
+
+Publication Eggerb
+
+Bias
+
+P Value
+
+No 0.28 No 0.26 No 0.42
+No 0.14 No 0.10
+No 0.93
+
+No 0.06 No 0.08
+
+Beggc P Value
+0.67 0.25 0.43
+0.30 0.28 1.00
+0.13 0.31
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+bias was detected only in the variant allele frequency of I1307K in Ashkenazi Jews by using Egger's linear regression approach and Begg's rank correlation method. The adjusted allele frequency of I1307K was 11.39% (95% CI: 10.11, 12.80), which was calculated by using the trim and fill method. The details are shown in Tables 2 and 3.
+Gene-fat intake interaction
+In this meta-analysis, we also investigated the effect of interactions between dietary fat intake (including total fat, saturated fat, polyunsaturated fat, and monounsaturated fat) and the D1822V polymorphisms on the risk of colorectal neoplasia. In some of these studies, the data for the APC genotype at codon 1822 were considered to be wild-type or heterozygote plus variant homozygote rather than 3 separate genotypes; therefore, we can calculate the odds ratios of the D1822V polymorphisms only in the dominant model for different fat intake statuses (fat intake status: lowest level or highest level). As indicated in Table 4, no positive interaction between fat intake and D1822V polymorphisms was found for the risk of colorectal cancer.
+DISCUSSION
+For the D1822V APC polymorphism, individuals with the variant homozygous VV genotype had a 13% decreased risk of colorectal neoplasia compared with those with the wildtype homozygous DD genotype. However, we set a threshold of at least 4 studies before performing a meta-analysis for subgroups, and the number of adenoma studies for the D1822V polymorphism failed to meet the standard; therefore,
+Am J Epidemiol. 2013;177(11):1169­1179
+
+there were not enough data to analyze the relationships between colorectal adenoma and cancer separately.
+We investigated the effect of interactions between dietary fat intake (including total fat, saturated fat, polyunsaturated fat, and monounsaturated fat) and the D1822V polymorphisms on the risk of colorectal neoplasia. However, no statistically significant positive interactions were observed in this meta-analysis between fat intake and the D1822V polymorphism. This result may be related to the data for the APC genotype at codon 1822 being given as wild-type and heterozygote plus variant homozygote rather than as 3 separate genotypes. Therefore, the given data for genotypes are not enough to evaluate the interaction of fat intake with the D1822V polymorphism on cancer risk. Another important point is that no standardized tool is available for fat intake measurement; therefore, a wide range of dietary fat components was assessed across the included studies. We removed the intermediate level and defined only 2 levels (the highest vs. the lowest) of fat according to the studies in our metaanalysis, which increased the difficulty in assessing geneenvironment interactions. Larger and more rigorous studies that provide genotype data separately are necessary to further evaluate the interactions between APC polymorphisms, fat intake, and other environmental factors and colorectal neoplasia.
+For the APC E1317Q polymorphism, we observed that colorectal neoplasia risk was 41% higher in E1317Q carriers compared with noncarriers. In contrast, Rozek et al. (11) found no association between E1317Q and colorectal neoplasia, with a pooled odds ratio of 1.35. Discrepancies were detected in the conclusions of these 2 meta-analyses, but our meta-analysis study may complement and extend the results
+
+1176 Liang et al. Am J Epidemiol. 2013;177(11):1169­1179
+
+Table 3. Pooled Variant Frequency of I1307K in Different Ethnicity Groups
+
+Ethnicity of Cases
+Ashkenazi Jewish Non-Ashkenazi
+Jewish Non-Jewish
+
+No. of Studies
+14 6
+9
+
+Pooled Variation Rate, %
+11.80 2.88
+0.92
+
+Pooled 95% CI
+10.72, 12.99 1.78, 4.62
+0.51, 1.66
+
+P Value for z Test
+0.00 0.00
+0.00
+
+Heterogeneity I 2 (%) P Value Model
+
+2.08 0.00
+
+0.43 0.47
+
+Fixed Fixed
+
+0.00 0.66
+
+Fixed
+
+Publication Bias
+Yes No
+No
+
+Eggera P Value
+0.01 0.53
+0.07
+
+Abbreviation: CI, confidence interval.
+a Based on Egger's linear regression approach. b Based on Begg's rank correlation method. c Number of studies removed and filled to identify and correct for funnel plot asymmetry arising from publication bias.
+d The trim and fill method provides an estimated intervention effect "adjusted" for the publication bias (based on the filled studies).
+
+Beggb P Value
+0.04 0.45
+0.39
+
+No. of Trim and Fillc
+4 0
+0
+
+Adjusted Variation Rate, %d
+11.39
+
+Adjusted 95% CI
+10.11, 12.80
+
+Table 4. The Effect of Interaction Between Fat Intake and D1822V Polymorphism on Colorectal Neoplasia
+
+Gene × Environment Interaction (DV +
+VV vs. DD)
+D1822V × total fat
+D1822V × saturated fat
+D1822V × polyunsaturated fat
+
+No. of Studies
+6 4 4
+
+Sample Size
+6,823 4,611 4,770
+
+Person Exposing to Environmental Factors
+
+P Value
+
+OR 95% CI
+
+for z I 2, %
+
+Test
+
+1.17 1.03, 1.32 0.01 31.86
+
+1.05 0.91,1.22 0.50 9.35
+
+1.13 0.98,1.32 0.09 0.00
+
+OR 1.23 0.93 1.08
+
+Person With Interest Genotype
+
+95% CI
+
+P Value for z Test
+
+1.07, 1.42 0.00
+
+0.78, 1.10 0.38
+
+0.90, 1.27 0.40
+
+I 2, % 20.46 29.62 15.19
+
+Person With Combining Effect of Both Genetic Variants and
+Environmental Factors
+
+P Value
+
+OR 95% CI
+
+for Z
+
+I 2, %
+
+test
+
+1.01 0.81, 1.27 0.91 52.90b
+
+1.34 0.74, 2.42 0.33 87.53b
+
+1.19 1.00, 1.41 0.05 12.56
+
+Person With Interaction of Genetic Variant and Environmental Factor
+
+P Value
+
+OR 95% CI
+
+for z
+
+I 2, %
+
+Test
+
+1.37 0.98, 1.93 0.07 59.86a
+
+0.81 0.34, 1.96 0.64 90.45a
+
+1.20 0.74, 1.97 0.46 70.70a
+
+Abbreviations: CI, confidence interval; OR, odds ratio. a Random effects model.
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+APC Polymorphisms and the Risk of Colorectal Neoplasia 1177
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+of the previous study by Rozek et al. (11). In our meta-analysis, when stratified by neoplasia type, the adenoma risk was significantly elevated in E1317Q carriers ( pooled OR = 2.89, 95% CI: 1.83, 4.56), but the colorectal cancer risk was not significantly increased ( pooled OR = 1.21, 95% CI: 0.95, 1.53). The concept of an adenoma cancer sequence is gaining increasing evidence as an important factor in the development of colorectal cancers. It is highly probable that most colorectal cancers arise in adenomas. Adenomas were generally solitary, small, and of various types. The increased magnitude of adenoma risk compared with colorectal cancer may be because the E1317Q variant may result in adenoma rather than cancer.
+Odds ratios for the association between I1307K and colorectal neoplasia and the prevalence of the I1307K polymorphism in patients are inconsistent (13, 14, 16, 19, 20, 37, 43­60). In this meta-analysis, we first summarized the pooled odds ratios for the association between the variant of I1307K and colorectal neoplasia in Ashkenazi Jews, which was 2.17. This finding complements and extends the results of previous studies that showed that Ashkenazi Jews who carry the I1307K variation are at significantly increased risk for colorectal neoplasia. Significant differences in I1307K variation rates were also found in people of different ethnicities. The prevalence of I1307K in non-Ashkenazi patients ( pooled prevalence = 2.88%) and non-Jewish patients ( pooled prevalence = 0.92%) was lower compared with the prevalence in Ashkenazi patients ( pooled prevalence = 11.80%) (P < 0.01). However, there was no statistically significant difference in the prevalence of I1307K between non-Ashkenazi Jews and non-Jews (P = 0.44). Therefore, the I1307K allele of APC has a high prevalence only in the Ashkenazi Jewish population. The differences in the ethnic occurrence rates of the I1307K variation may account for the propensity of colorectal cancer in Ashkenazi Jews (49).
+Quality scores for all of the included studies ranged from 5 to 12. For E1317Q and I1307K, the data for genotype distributions were presented as wild-type and heterozygote plus variant homozygote rather than as 3 separate genotypes; therefore, the data for the genotype distributions are insufficient to properly evaluate Hardy-Weinberg equilibrium, and the quality score of the test for Hardy-Weinberg equilibrium is 0. The quality score of articles reporting on these 2 singlenucleotide polymorphisms (E1317Q and I1307K) is lower compared with that of articles reporting on D1822V. The limitation of quality assessments is that they assign lower scores to studies that do not report what was performed ( poor reporting) than to studies that clearly had inappropriate study design or analysis ( poor quality). Poor reporting is not distinguished from poor quality. The cumulative evidence on genetic associations is characterized as "strong evidence" (D1822V) and "moderate evidence" (E1317Q and I1307K), which reflects only the higher level of available evidence in this meta-analysis.
+A systematic review and meta-analysis of the association between APC polymorphisms and colorectal neoplasia risk is statistically more powerful than any single study. The individual sample sizes of a single study are too small to explore the subtle associations between polymorphisms and cancer risk, but the pooled odds ratios generated from 40 studies
+Am J Epidemiol. 2013;177(11):1169­1179
+
+significantly increase the statistical power. Moreover, in our meta-analysis, no obvious heterogeneity between studies was detected, and the results of the sensitivity analysis and cumulative analysis support the stability of the results. Thus, these considerations effectively support the reliability of this meta-analysis.
+However, the limitations of this meta-analysis should be considered. First, of the 40 included studies, not enough studies provided genotype data separately. Second, too few studies were published to yield stable results on the interaction of fat intake with the D1822V polymorphism on colorectal neoplasia, and no studies were available on the interaction of other environmental factors with APC singlenucleotide polymorphisms on colorectal neoplasia risk. The third limitation is that all of the studies were case-control studies and therefore subject to recall bias and selection bias, which we cannot rule out.
+Despite these limitations, the results of this meta-analysis provide a more complete and systematic picture of the role of these 3 APC polymorphisms in the risk of colorectal neoplasia and may provide genetic insight into possible strategies for the prevention of colorectal neoplasia. Meanwhile, our results are statistically robust and yield important conclusions.
+Additional large-scale, well-designed studies with sufficient data on the genotypic and polymorphism frequency along with environmental factors and different types of neoplasia will be required to further clarify the role of these APC polymorphisms in colorectal neoplasia.
+ACKNOWLEDGMENTS
+Author affiliations: The Department of Epidemiology, Public Health College, Harbin Medical University, Harbin, Heilongjiang Province, China (Jing Liang, Chunqing Lin, Fulan Hu, Fan Wang, Lin Zhu, Xiaoping Yao, Yibaina Wang, and Yashuang Zhao).
+Conflict of interest: none declared.
+REFERENCES
+1. Jemal A, Siegel R, Xu J, et al. Cancer statistics. CA Cancer J Clin. 2010;60(5):277­300.
+2. Grogan L, Kirsch IR. Genetic testing for cancer risk assessment: a review. Oncologist. 1997;2(4):208­222.
+3. Groden J, Thliveris A, Samowitz W, et al. Identification and characterization of the familial adenomatous polyposis coli gene. Cell. 1991;66(3):589­600.
+4. Fodde R, Smits R, Clevers H. APC, signal transduction and genetic instability in colorectal cancer. Nat Rev Cancer. 2001;1(1):55­67.
+5. Korinek V, Barker N, Morin PJ, et al. Constitutive transcriptional activation by a beta-catenin-Tcf complex in APC-/- colon carcinoma. Science. 1997;275(5307):1784­1787.
+6. Miyoshi Y, Nagase H, Ando H, et al. Somatic mutations of the APC gene in colorectal tumors: mutation cluster region in the APC gene. Hum Mol Genet. 1992;1(4):229­233.
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+1178 Liang et al.
+
+7. Nagase H, Nakamura Y. Mutations of the APC (adenomatous polyposis coli) gene. Hum Mutat. 1993;2(6):425­434.
+8. Houlston RS, Tomlinson IP. Polymorphisms and colorectal tumor risk. Gastroenterology. 2001;121(2):282­301.
+9. Egan JB, Jacobs ET, Martinez ME, et al. Presence of a TA
+haplotype in the APC gene containing the common 1822 polymorphism and colorectal adenoma. Cancer Res. 2008; 68(14):6006­6013. 10. Chen SP, Tsai ST, Jao SW, et al. Single nucleotide polymorphisms of the APC gene and colorectal cancer risk: a case-control study in Taiwan. BMC Cancer. 2006;6:83.
+11. Rozek LS, Rennert G, Gruber SB. APC E1317Q is not associated with colorectal cancer in a population-based case-
+control study in Northern Israel. Cancer Epidemiol Biomarkers Prev. 2006;15(11):2325­2327. 12. Zhou XL, Eriksson U, Werelius B, et al. Definition of candidate low risk APC alleles in a Swedish population. Int J Cancer. 2004;110(4):550­557. 13. Kapitanovic S, Cacev T, Radosevic S, et al. APC gene loss of heterozygosity, mutations, E1317Q, and I1307K germ-line variants in sporadic colon cancer in Croatia. Exp Mol Pathol. 2004;77(3):193­200. 14. Figer A, Irmin L, Geva R, et al. Genetic analysis of the APC
+gene regions involved in attenuated APC phenotype in Israeli patients with early onset and familial colorectal cancer. Br J Cancer. 2001;85(4):523­526. 15. Hall MJ, Liberman E, Dulkart O, et al. Risk of colorectal neoplasia associated with the adenomatous polyposis coli E1317Q variant. Ann Oncol. 2009;20(9):1517­1521. 16. Bougatef K, Marrakchi R, Ouerhani S, et al. No evidence of the APC D1822V missense variant's pathogenicity in Tunisian patients with sporadic colorectal cancer. Pathol Biol (Paris). 2009;57(3):e67­e71. 17. Theodoratou E, Campbell H, Tenesa A, et al. Modification of the associations between lifestyle, dietary factors and colorectal cancer risk by APC variants. Carcinogenesis. 2008;29(9):1774­1780. 18. Cleary SP, Kim H, Croitoru ME, et al. Missense polymorphisms in the adenomatous polyposis coli gene and
+colorectal cancer risk. Dis Colon Rectum. 2008;51(10): 1467­1473; discussion 73­74. 19. Azzopardi D, Dallosso AR, Eliason K, et al. Multiple rare nonsynonymous variants in the adenomatous polyposis coli gene predispose to colorectal adenomas. Cancer Res. 2008; 68(2):358­363. 20. Laken SJ, Petersen GM, Gruber SB, et al. Familial colorectal
+cancer in Ashkenazim due to a hypermutable tract in APC. Nat Genet. 1997;17(1):79­83. 21. Campos FG, Logullo Waitzberg AG, Kiss DR, et al. Diet and
+colorectal cancer: current evidence for etiology and prevention. Nutr Hosp. 2005;20(1):18­25. 22. Slattery ML, Boucher KM, Caan BJ, et al. Eating patterns and risk of colon cancer. Am J Epidemiol. 1998;148(1):4­16. 23. Turner F, Smith G, Sachse C, et al. Vegetable, fruit and meat
+consumption and potential risk modifying genes in relation to colorectal cancer. Int J Cancer. 2004;112(2):259­264. 24. Guerreiro CS, Cravo ML, Brito M, et al. The D1822VAPC polymorphism interacts with fat, calcium, and fiber intakes in modulating the risk of colorectal cancer in Portuguese persons. Am J Clin Nutr. 2007;85(6):1592­1597. 25. Thakkinstian A, McEvoy M, Minelli C, et al. Systematic review and meta-analysis of the association between  2-adrenoceptor polymorphisms and asthma: a HuGE review. Am J Epidemiol. 2005;162(3):201­211.
+
+26. Attia J, Thakkinstian A, D'Este C. Meta-analyses of molecular association studies: methodologic lessons for genetic epidemiology. J Clin Epidemiol. 2003;56(4):297­303.
+27. Ioannidis JP, Boffetta P, Little J, et al. Assessment of cumulative evidence on genetic associations: interim guidelines. Int J Epidemiol. 2008;37(1):120­132.
+28. Bax L, Yu LM, Ikeda N, et al. Development and validation of MIX: comprehensive free software for meta-analysis of causal research data. BMC Med Res Methodol. 2006;6:50.
+29. Begg CB, Mazumdar M. Operating characteristics of a rank correlation test for publication bias. Biometrics. 1994; 50(4):1088­1101.
+30. Egger M, Davey Smith G, Schneider M, et al. Bias in metaanalysis detected by a simple, graphical test. BMJ. 1997; 315(7109):629­634.
+31. Duval S, Tweedie R. Trim and fill: a simple funnel-plot-based method of testing and adjusting for publication bias in metaanalysis. Biometrics. 2000;56(2):455­463.
+32. Tranah GJ, Giovannucci E, Ma J, et al. APC Asp1822Val and Gly2502Ser polymorphisms and risk of colorectal cancer and adenoma. Cancer Epidemiol Biomarkers Prev. 2005;14(4): 863­870.
+33. Menendez M, Gonzalez S, Blanco I, et al. Colorectal cancer risk and the APC D1822V variant. Int J Cancer. 2004; 112(1):161­163.
+34. Slattery ML, Samowitz W, Ballard L, et al. A molecular variant of the APC gene at codon 1822: its association with diet, lifestyle, and risk of colon cancer. Cancer Res. 2001; 61(3):1000­1004.
+35. Wong HL, Peters U, Hayes RB, et al. Polymorphisms in the adenomatous polyposis coli (APC) gene and advanced colorectal adenoma risk. Eur J Cancer. 2010;46(13): 2457­2466.
+36. Picelli S, Zajac P, Zhou XL, et al. Common variants in human CRC genes as low-risk alleles. Eur J Cancer. 2010;46(6): 1041­1048.
+37. Fidder HH, Figer A, Geva R, et al. Genetic analyses in consecutive Israeli Jewish colorectal cancer patients. Am J Gastroenterol. 2005;100(6):1376­1380.
+38. Fearnhead NS, Wilding JL, Winney B, et al. Multiple rare variants in different genes account for multifactorial inherited susceptibility to colorectal adenomas. Proc Natl Acad Sci U S A. 2004;101(45):15992­15997.
+39. Hahnloser D, Petersen GM, Rabe K, et al. The APC E1317Q variant in adenomatous polyps and colorectal cancers. Cancer Epidemiol Biomarkers Prev. 2003;12(10):1023­1028.
+40. Gismondi V, Bonelli L, Sciallero S, et al. Prevalence of the E1317Q variant of the APC gene in Italian patients with colorectal adenomas. Genet Test. 2002;6(4):313­317.
+41. Popat S, Stone J, Coleman G, et al. Prevalence of the APC E1317Q variant in colorectal cancer patients. Cancer Lett. 2000;149(1­2):203­206.
+42. Lamlum H, Al Tassan N, Jaeger E, et al. Germline APC variants in patients with multiple colorectal adenomas, with evidence for the particular importance of E1317Q. Hum Mol Genet. 2000;9(15):2215­2221.
+43. Dundar M, Caglayan AO, Saatci C, et al. How the I1307K adenomatous polyposis coli gene variant contributes in the assessment of risk of colorectal cancer, but not stomach cancer, in a Turkish population. Cancer Genet Cytogenet. 2007;177(2):95­97.
+44. Rennert G, Almog R, Tomsho LP, et al. Colorectal polyps in carriers of the APC I1307K polymorphism. Dis Colon Rectum. 2005;48(12):2317­2321.
+
+Am J Epidemiol. 2013;177(11):1169­1179
+
+APC Polymorphisms and the Risk of Colorectal Neoplasia 1179
+
+45. Locker GY, Lynch HT. Genetic factors and colorectal cancer in Ashkenazi Jews. Fam Cancer. 2004;3(3-4): 215­221.
+46. Guo J, Lim R, Soo R, et al. APC I1307K and the E1317Q variants are not present in Chinese colorectal cancer patients. Genet Med. 2004;6(4):237­238.
+47. Rozen P, Naiman T, Strul H, et al. Clinical and screening implications of the I1307K adenomatous polyposis coli gene variant in Israeli Ashkenazi Jews with familial colorectal neoplasia. Evidence for a founder effect. Cancer. 2002; 94(10):2561­2568.
+48. Stern HS, Viertelhausen S, Hunter AG, et al. APC I1307K increases risk of transition from polyp to colorectal carcinoma in Ashkenazi Jews. Gastroenterology. 2001;120(2):392­400.
+49. Shtoyerman-Chen R, Friedman E, Figer A, et al. The I1307K APC polymorphism: prevalence in non-Ashkenazi Jews and evidence for a founder effect. Genet Test. 2001;5(2): 141­146.
+50. Figer A, Shtoyerman-Chen R, Tamir A, et al. Phenotypic characteristics of colorectal cancer in I1307K APC germline mutation carriers compared with sporadic cases. Br J Cancer. 2001;85(9):1368­1371.
+51. Evertsson S, Lindblom A, Sun XF. APC I1307K and E1317Q variants are rare or do not occur in Swedish colorectal cancer patients. Eur J Cancer. 2001;37(4):499­502.
+52. Syngal S, Schrag D, Falchuk M, et al. Phenotypic characteristics associated with the APC gene I1307K mutation in Ashkenazi Jewish patients with colorectal polyps. JAMA. 2000;284(7):857­860.
+
+53. Drucker L, Shpilberg O, Neumann A, et al. Adenomatous
+polyposis coli I1307K mutation in Jewish patients with
+different ethnicity: prevalence and phenotype. Cancer. 2000;88(4):755­760. 54. Prior TW, Chadwick RB, Papp AC, et al. The I1307K
+polymorphism of the APC gene in colorectal cancer. Gastroenterology. 1999;116(1):58­63. 55. Gryfe R, Di Nicola N, Lal G, et al. Inherited colorectal
+polyposis and cancer risk of the APC I1307K polymorphism. Am J Hum Genet. 1999;64(2):378­384. 56. Woodage T, King SM, Wacholder S, et al. The APC I1307K
+allele and cancer risk in a community-based study of Ashkenazi Jews. Nat Genet. 1998;20(1):62­65. 57. Lothe RA, Hektoen M, Johnsen H, et al. The APC gene
+I1307K variant is rare in Norwegian patients with familial and
+sporadic colorectal or breast cancer. Cancer Res. 1998; 58(14):2923­2924. 58. Frayling IM, Beck NE, Ilyas M, et al. The APC variants
+I1307K and E1317Q are associated with colorectal tumors, but
+not always with a family history. Proc Natl Acad Sci U S A. 1998;95(18):10722­10727. 59. Zauber NP, Sabbath-Solitare M, Marotta S, et al. Clinical and genetic findings in an Ashkenazi Jewish population with colorectal neoplasms. Cancer. 2005;104(4):719­729. 60. Michils G, Tejpar S, Fryns JP, et al. Pathogenic mutations and rare variants of the APC gene identified in 75 Belgian patients with familial adenomatous polyposis by fluorescent enzymatic mutation detection (EMD). Eur J Hum Genet. 2002;10(9): 505­510.
+
+Downloaded from http://aje.oxfordjournals.org/ at Baruj Benacerraf Library on July 7, 2016
+
+Am J Epidemiol. 2013;177(11):1169­1179
+
+

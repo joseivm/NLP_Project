@@ -1,0 +1,1397 @@
+Pergamon
+
+European Journal of Cancer, Vol. 35, No. 8, pp. 1248±1257, 1999 # 1999 Elsevier Science Ltd. All rights reserved. Printed in Great Britain 0959-8049/99/$ - see front matter
+
+PII: S0959-8049(99)00135-5
+
+Original Paper
+Incidence of Malignant Tumours in Relatives of BRCA1 and BRCA2 Germline Mutation Carriers
+
+O. Johannsson,1* N. Loman,1* T. MoÈ ller,2 U. KristoVersson,3 AÊ . Borg1 and H. Olsson1
+1Department of Oncology; 2Regional Tumour Registry; and 3Clinical Genetics, University Hospital Lund, S-221 85 Lund, Sweden
+We investigated cancer incidence between 1958 and 1995 in 1873 individuals belonging to 29 consecutively identi®ed BRCA1 and 20 BRCA2 associated families from Southern Sweden using data from parish and local tax authorities, as well as the Swedish Cancer Registry, Cause of Death Registry and Census Registry. 150 malignant tumours were analysed from 1145 relatives in the BRCA1 families and 87 tumours were analysed from 728 relatives in the BRCA2 families. After excluding index cases which led to the mutation analysis, the incidence for all malignant tumours was signi®cantly increased for both BRCA1- standardised morbidity rate, SMR, 1.98, 95% con®dence interval (CI) 1.59±2.45; P 0.0001 and BRCA2- (SMR 1.79, 95% CI 1.35±2.31; P 0.0001) associated family members. For women in BRCA1-associated families, the incidence of breast cancer (SMR 3.76, 95% CI 2.29±5.80, P 0.0001), ovarian cancer (SMR 15.49, 95% CI 9.46±23.92, P 0.0001), stomach cancer (SMR 5.86, 95% CI 1.60±15.01, P = 0.005) were signi®cantly increased. Amongst men only invasive squamous cell cancer of the skin was signi®cantly increased (SMR 6.02, 95% CI 1.96±14.05, P = 0.002). In BRCA2 associated families, female breast cancer (SMR 3.03, 95% CI 1.61±5.18, P = 0.0005) was increased after exclusion of index cases. If these were included, ovarian cancer (SMR 5.16, 95% CI 1.89±11.24, P = 0.001), invasive cervical cancer (SMR 4.21, 95% CI 1.15±10.79, P = 0.016), male breast cancer (SMR 290.52, 95% CI 125.42±572.43, P 0.0001), and prostate cancer (SMR 2.21, 95% CI 0.89±4.56, P = 0.042) were signi®cantly increased. The increased risk for ovarian cancer in BRCA2 related families were limited to the cases leading to mutation analysis. Our data suggest that apart from breast and ovarian cancer, the incidence of other cancer types do not appear to be greatly increased in BRCA1- and BRCA2-associated families and does not warrant speci®c clinical follow-up in carriers. # 1999 Elsevier Science Ltd. All rights reserved.
+Key words: breast cancer, ovarian cancer, male breast cancer, BRCA1, BRCA2, hereditary cancer, cancer incidence Eur J Cancer, Vol. 35, No. 8, pp. 1248±1257, 1999
+
+INTRODUCTION Germline mutations in the BRCA1 and BRCA2 genes are thought to cause the great majority of inherited breast and ovarian cancer [1]. The risk of developing other cancer types may also be increased. For BRCA1 the risk for cancer of the colon [2] and prostate [2, 3] have been reported as being signi®cantly increased, leading to the suggestion that these cancer types should be considered when decisions regarding surveillance are taken [4]. For BRCA2, risk of pancreatic,
+* To be considered joint ®rst authors. Correspondence to O. Johannsson, e-mail: oskar.johannsson@onk.lu.se Received 14 Dec. 1998; revised 6 May 1999; accepted 23 May 1999.
+
+stomach, uterus and prostate cancer, as well as hepatomas, melanoma of the skin and rarer forms such as ocular melanoma have been reported to be increased in epidemiological studies or been associated with germline mutations in tumour specimens [5±14].
+As most of these studies have been gathered from families identi®ed and evaluated for research purposes during the search for the BRCA1 and BRCA2 genes and, therefore, by design represented by large multicase families, the application of this data for patients identi®ed from the general population has been questioned. Indeed, the overall cumulative lifetime risk of breast cancer among carriers of a BRCA1 mutation, reported to be approximately 85% [1, 15, 16] has in a more
+
+1248
+
+BRCA1 and BRCA2 Tumour Incidence
+
+1249
+
+recent study on families not collected for the purpose of ®nding the two genes been estimated to be lower [17]. Furthermore, most of the available data used to estimate risk for other malignancies in BRCA1-associated families is based on linkage studies of high risk families, suggesting that these data may also be not fully representative for patients identi®ed from the general population. In addition, since BRCA1 germline mutations have not been found in all families believed to be linked to BRCA1 and, conversely, found in some believed not to be linked [1, 18±20], the use of data from linkage analysis of high risk families may lead to erroneous estimates. As the identi®cation of carriers of BRCA1 and BRCA2 germline mutations is becoming more commonplace in a clinical setting, it is of great importance to reconsider what tumour types other than breast and ovarian cancer might require clinical follow-up, surveillance or prophylactic measures, in order to decrease cancer morbidity in these families. We, therefore, performed a study on the incidence of malignant tumours among family members belonging to Swedish BRCA1- and BRCA2-associated kindreds.
+PATIENTS AND METHODS Study population and mutation analysis (Tables 1 and 2): from October 1994 to the end of July 1997 a total of 29
+
+BRCA1 and 20 BRCA2 germline mutation carrying probands residing within the South Swedish healthcare region were identi®ed. These were identi®ed based on diVerent criteria:
+(a) Patients with a family history of breast and/or ovarian cancer identi®ed by clinicians from the Departments of Oncology and Clinical Genetics at the joint Oncogenetic outpatient clinic at the University Hospital of Lund or as research families collected at the department of Oncology. To be considered for BRCA1/ BRCA2 mutation analysis, the family had to encompass at least 3 ®rst degree relatives aVected with breast or ovarian cancer whereof at least one was diagnosed before the age of 50 years, or 2 ®rst degree relatives whereof at least 1 was diagnosed before the age of 40 years. Patients with breast or ovarian cancer before the age of 30 years were also considered for mutation analysis. In addition, families with a case of male breast cancer was considered for BRCA2 mutation screening The family members thus identi®ed were classi®ed as index patients.
+(a)1 Individuals from two families originally collected for BRCA1 linkage studies in 1993±1994. For this study
+
+Table 1. Characteristics of BRCA1 related families
+
+Family
+Lund 1 Lund 3 Lund 8 Lund 9 Lund 24 Lund 30 Lund 33 Lund 36 Lund 44 Lund 49 Lund 54 Lund 56 Lund 66 Lund 79 Lund 85 Lund 93 Lund 107 Lund 133 Lund 134 Lund 141 Lund 149 Lund 166 Lund 171 Lund 193 Lund 212 Lund 223 Lund 263 Lund 264 Lund 265
+SUM
+
+Mutation
+Lod 1,56 2594delC 1201del11 C1806T 3166ins5
+T300G G5272-1C C1806T 3166ins5 1675delA 2401delAA C1806T 1201del11 1201del11 2594delC 2594delC 2594delC G1177A 3166ins5 2594delC 3166ins5 1675delA 2594delC 1049delG C1806T C1806T 3829delT C1806T 1201del11
+
+Individuals (relatives)*
+105 (74) 79 (73) 33 (23) 86 (62) 49 (38) 78 (53) 59 (42) 9 (3) 39 (27) 71 (57) 27 (19) 79 (58) 14 (8) 39 (28) 34 (24)
+196 (138) 89 (63)
+172 (121) 129 (93)
+55 (35) 7 (4)
+33 (17) 46 (32)
+8 (6) 18 (11) 13 (9)
+9 (7) 8 (6) 10 (9)
+1594 (1145)
+
+Selection criteriony
+(a)1 (a)1 (a) (b) (a) (b) (a) (a) (a) (a) (a) (a) (a) (a) (a) (a) (a) (b) (b) (a) (a) (a) (a) (a) (a) (a) (b) (b) (b)
+
+Branch 1 excluded
+m m f f f f f m f m m m f f f f m m f f f f f f f f f f f
+
+Reason for exclusion 1
+f linkage f linkage m (MC) m (MC) m (MC) m (MC) m (MC) f (MC) m (MC) no early onset BC/OC f (MC) f (MC) m (MC) m (MC) m (MC) m (MC) no early onset BC/OC f (MC) m (MC) m (MC) m (MC) m (MC) m (MC) m (MC) m (MC) m (MC) m (MC) m (MC) m (MC)
+
+Branch 2 excluded
+pgf pgf pgf mgf mgf mgm mgf mgf mgf
+f pgf mgf mgf mgf mgf mgf
+f pgm mgf
+mgm mgf mgf mgf
+mgf mgf mgf mgm
+
+Reason for exclusion 2
+pgm linkage pgm linkage pgm (BC) mgm (BC) mgm (OC) mgf (MC) mgm (MC) mgm (MC) mgm (MC) no early onset BC/OC pgm + 2sisters(BC) mgm sisters (BC/OC) mgm (MC) mgm (MC) mgm (MC) mgm (MC) no early onset BC/OC
+pgf (MC) (BC/OC) among relatives of mgm
+mgm (MC) (BC/OC) among relatives of mgm
+mgm (MC) mgm (early onset BC)
+mgm + 2 sisters (BC) (BC/OV) among relatives of mgm
+mgm + 2 sisters (OC) (BC/OC) among relatives of mgm
+
+*Total number of individuals in the family, number of relatives in brackets. (DiVerence refers to number of spouses.) y(a) Family identi®ed in the Oncogenetic reception, at least 3 aVected ®rst degree relatives with breast or ovarian cancer whereof at least one diagnosed before the age of 50, or 2 ®rst degree relatives whereof one diagnosed before age 40, or a single case of breast or ovarian cancer diagnosed before the age of 30. (a)1 The same criteria as (a), but originally collected for linkage study. (b) Family identi®ed through population based study in Southern Sweden of early onset breast cancer ( = 40) 1990±1995. (c) Family identi®ed among consecutive cases of male breast cancer. (d) Family identi®ed among consecutive cases of epithelial ovarian cancer. m, mother of proband; f, father of proband; mgm, maternal grandmother of proband; mgf, maternal grandfather of proband; pgf, paternal grandfather; pgm, paternal grandmother; BC, breast cancer; OC, ovarian cancer; MC, mutation carrier.
+
+1250
+
+O. Johannsson et al.
+
+Table 2. Family characteristics of BRCA2 related families
+
+Family
+
+Mutation
+
+Individuals (relatives)*
+
+Selection criteriony
+
+Branch 1 excluded
+
+Reason for exclusion 1
+
+Branch 2 excluded
+
+Reason for exclusion 2
+
+Lund 10 4486delG
+
+41 (34)
+
+a
+
+m
+
+f (MC)
+
+pgm (BC/OC) among relatives
+
+of pgf
+
+Lund 11 4486delG
+
+18 (11) b, ful®ls criteria of a
+
+f
+
+m (MC)
+
+pgf (BC/OC) in pgf + 2 of her
+
+4 sisters and mother.
+
+Lund 29 2024del5 162 (112) b, ful®ls criteria of a
+
+mgf
+
+mgm (MC)
+
+Lund 46
+
+A3058T
+
+84 (61)
+
+a
+
+f m (MC)
+
+Lund 53 4265delCT
+
+1 (1)
+
+a Both parents No data available
+
+Lund 91 5392delAG 17 (12)
+
+a
+
+Both parents
+
+Immigrant
+
+Lund 119 5445del5 275 (194) b, ful®ls criteria of a
+
+m
+
+f (MC)
+
+Lund 131 9636delT
+
+28 (20)
+
+a (+ cz)
+
+Lund 146 C7786T
+
+50 (35)
+
+a
+
+f m bilateral (BC)
+
+age 30 years
+
+Lund 175 9808delCC 30 (22)
+
+a
+
+f m (MC)
+
+Lund 225 C6293G
+
+9 (7)
+
+a
+
+Lund 237 C7180T
+
+14 (11)
+
+a
+
+Lund 292 6503delTT
+
+21 (15)
+
+c
+
+Lund 293 9326insA
+
+15 (10)
+
+c
+
+Lund 294 4486delG
+
+47 (33)
+
+c
+
+Lund 295 4486delG
+
+30 (22)
+
+c
+
+Lund 296 4486delG
+
+48 (37)
+
+c
+
+Lund 297 G4186T
+
+50 (35)
+
+c
+
+Lund 304 4079delGT 67 (49)
+
+d
+
+Lund 305 6174del5
+
+10 (7)
+
+d
+
+Both parents
+
+Immigrant
+
+SUM
+
+1017 (728)
+
+*Total number of individuals in the family, number of relatives in brackets. (DiVerence refers to number of spouses.) y(a) Identi®ed in the Oncogenetic reception, at least 3 aVected ®rst degree relatives with breast or ovarian cancer whereof at least 1 diagnosed before the age of 50, or 2 ®rst degree relatives whereof one diagnosed before age 40, or a single case of breast or ovarian cancer diagnosed before the age of 30 years. (b) Identi®ed through population based study in Southern Sweden of early onset breast cancer ( = 40) 1990±1995. (c) Identi®ed among consecutive cases of male breast cancer. (d) Identi®ed among consecutive cases of ovarian cancer. zThis family was identi®ed after oncogenetic counseling of a woman whose father and mother had had breast cancer aged 64 and 46 years respectively. m, mother of proband; f, father of proband; mgm, maternal grandmother of proband; mgf, maternal grandfather of proband; pgf, paternal grandfather; pgm, paternal grandmother; BC, breast cancer; OC, ovarian cancer; MC, mutation carrier.
+
+the proband and those of her ®rst degree relatives diagnosed with breast cancer before the age of 50 years were classi®ed as index patients. In one of these families (Lund 3) a BRCA1 germline mutation was later identi®ed (2594delC). (a + a1: 27 BRCA1 related families, 12 BRCA2 related families). (b) Breast cancer patients participating in an ongoing population based study of the frequency of BRCA1 and BRCA2 germline carriers among all early onset breast cancer cases (age 40 years at diagnosis) in Southern Sweden in 1990±1995 (n = 264). In this study 232 (88%) of the total population were included. (7 individuals with BRCA1 mutations where the family of 1 did not ful®l the criteria in (a), 3 individuals with BRCA2 mutation where the families all ful®lled the criteria in (a) were included in the present study.) (c) Male breast cancer cases tested positive for BRCA2 mutations. These men were identi®ed in a hospitalbased material of 35 cases collected in 1971±1989 and consisting of approximately 42% of all male breast cancers in Southern Sweden during the period (6 individuals, none of whose family ful®lled the criteria in (a) [21]. One other male breast cancer case (131) was included in the study, but he was identi®ed according to the criteria in (a) based on breast cancer
+
+in a man and his mother at ages 64 years and 46 years, respectively. (d) Ovarian cancer cases tested positive for BRCA2 germline mutations. These women were identi®ed in a hospital-based material of 37 cases of epithelial ovarian cancer (2 individuals, none of whose families ful®lled the criteria in (a)).
+All cases in the population based sample (b) and the hospital based samples (c) and (d) were screened for germline mutations in BRCA1 and BRCA2, sample (b) or BRCA2 only samples (c) and (d), irrespective of the family history.
+The index patients are those patients that helped in identifying the family and leading to its participation in mutation analyses. The study population consisted of identi®ed relatives to these index individuals (see pedigree expansion). In the families identi®ed according to (c) or (d), and in the family in (b) that did not ful®l the criteria in (a), only the proband was classi®ed as the index patient. The index patients in group (a), according to the de®nitions above, were identi®ed due to a clustering of cancer cases within the family. This clustering can be due to the mutation identi®ed or be due to some other modifying factor (genetic or environmental) that theoretically may only apply for this branch of the family. In order to minimise this eVect, the calculations in the study were performed twice, ®rst including the index patients and then a second time after excluding them.
+
+BRCA1 and BRCA2 Tumour Incidence
+
+1251
+
+Furthermore, in order to avoid unnecessary dilution of nonmutation carriers, branches that were judged or proved not to harbour the mutation were excluded. These exclusions and motives for them are listed in Tables 1 and 2.
+The methods used to identify BRCA1 and BRCA2 germline mutations have been previously described [21±23].
+Pedigree expansion All information provided by the probands regarding family
+size and cancer incidence was controlled. Extensive pedigrees were constructed by means of contacting the local parish or the local revenue authorities that keep the local census registries. By these means, spouses, children/siblings and parents of probands were identi®ed. In the next round, children of these were identi®ed, as well as grandparents, grandparents siblings and great-grandparents and then their children, spouses and grandchildren. In this manner the families were traced back to the generation born in the mid 19th century, most often 1850±1870. Though it is possible to trace the families further back, this was not performed, as this would have led to an underestimation of tumours as hospital and cause of death records are only available for those that survived into this century. This would add diYculties in judging which branch of the family harbours the mutation. More importantly, the Central Cancer Registry for the whole of Sweden was not established until 1958. Therefore, in order to obtain a homogenous sample, only those family members alive in and after 1958 and not born later than 1995, and only those tumours that occurred in the Registers between 1958 and the end of 1995 were included in the statistical studies. For immigrants to Sweden, only those branches of the families that reside within Sweden were entered into the study. This applied to 3 BRCA2-associated families (91, 293 and 305). In only 1 family (53) information was not provided due to lack of information at the local parish register. Families were expanded on both parental and maternal sides. For the purpose of this study, only the side of the family believed or proved to harbour the BRCA1 and BRCA2 mutation was used for analyses. In most cases this was possible due to veri®ed mutations in relatives of the index individual. However, when nobody was tested outside the index group, we based our assumptions of the origin of the mutation on the prevalence of breast and/or ovarian cancer at young age within a branch of the family. There were doubts on the origin of the mutation in branches of 2 BRCA1 families. In each instance both branches were excluded from the analyses. In the BRCA2-related families identi®ed through cases of male breast cancer, the origin of the mutation was unclear due to lack of positive hereditary history for breast cancer of the index person in six out of seven cases. Therefore, for all families of male breast cancer probands both main branches of the pedigree were included in the study in order not to overlook possible repeatedly occurring tumour types. As we were prohibited from contacting distant family members other than those the proband was willing to establish contact with ®rst, only a limited number of living family members have to date been analysed for mutations. Similarly, due to ethical limitations on the ascertainment of a germline mutation in a deceased individual, where informed consent could not be obtained, we could not use stored pathological specimens from cancer or non-cancer tissue to establish or verify the presence of a BRCA1 or BRCA2 mutation, unless permission by close (®rst degree) relatives was given. This makes
+
+it impossible at present to estimate de®nite cancer risk for mutation carriers and non-carriers within the families. The rates observed, therefore, apply for the branch of the family as a whole (mutation carriers and non-mutation carriers together) compared with spouses and the general population.
+In the sample, 1386 out of 2599 individuals (relatives and spouses) were born before 1961 (53.3%), in these individuals 294 out of 302 tumours (97.4%) occurred.
+Statistical analysis All family members and spouses thus identi®ed and alive
+on 1 January 1958 were followed from then onwards in the population-based Census Registry (to 30 November 1997 and the Swedish Cancer Registries to 31 December 1995). The entry date January 1, 1958 is the date when the Swedish Cancer registry was established and the closure date re¯ects that national cancer incidence data are currently only available nationwide until the end of December 1995. The vital status and residence was determined until end of December 1995. Tumours occurring in these families before or after the study period were not included. The same applies to cases known to us through case- or pathological reports that were not identi®ed in the national cancer registry. This occurred if either the case had never been reported to the cancer registry or the person identi®cation number was insuYcient or wrong. These cases where excluded in order to avoid a selection bias favouring a higher cancer incidence among individuals in the families compared with the general population. Each individual could have more than one tumour registered, but only the ®rst two diagnoses were entered into the analysis due to limitations in the software used. Only malignant tumours were included. Observed versus expected tumours were calculated for the various tumour types using age-, gender-, and calendar-year speci®c reference data from the whole of Sweden. The calculation used the person-years method, classifying individuals into 5-year age groups and single calendar years as the unit cell size. 21 subjects were lost to follow-up due to emigration. Cause-speci®c standardised morbidity rates (SMR) and 95% con®dence intervals (CI) were calculated. P values were calculated using the Poisson distribution or the Chi-square distribution if the expected values were greater than 10. P values 0.05 were considered signi®cant. All tests were two-tailed.
+RESULTS BRCA1
+In all, 176 malignant tumours occurred among 1145 relatives (549 males and 596 women) in the BRCA1 families. 13 of these occurred prior to 1958 or after 1995. Another 7 were not identi®ed in the Central Cancer Registry, and 3 cancers were known to have occurred in individuals that had emigrated from Sweden during the study period. Furthermore, as only the ®rst two cancer diagnoses were used three tumours (two ovarian cancers and one breast cancer) were not included. Thus, 150 tumours from 128 individuals (22 men and 106 women) were entered into the analysis. Of these 128 individuals, 106 (19 men and 87 women) had one tumour diagnosis, 3 men and 19 women had two or more tumour diagnoses.
+Ovarian cancer was found in all but 5 families, 2 of whom contained tumours that might have been ovarian cancers, i.e. a patient in family 66 diagnosed with abdominal dissemination (including the ovaries) of a cancer classi®ed as a stomach
+
+1252
+
+O. Johannsson et al.
+
+Table 3. Tumour incidence among 596 females (14 361.6 person-years) belonging to BRCA1-associated families (539 women or 12 709.4 person-years when index cases were excluded)
+
+All Index excluded
+
+ICD-7
+
+Type
+
+Obs. Exp. SMR 95% CI
+
+140±209 All Malignant tumours 125 23.75 5.26 4.38±6.27
+
+151
+
+Stomach
+
+4 0.77 5.16 1.41±13.22
+
+153
+
+Large bowel
+
+1 1.52 0.66 0.02±3.66
+
+154
+
+Rectum
+
+3 0.73 4.12 0.85±12.03
+
+157
+
+Pancreas
+
+2 0.56 3.58 0.43±12.94
+
+162
+
+Lung
+
+2 0.72 2.76 0.33±9.97
+
+170
+
+Breast
+
+60 6.26 9.59 7.32±12.35
+
+172
+
+Uterine body
+
+1 1.39 0.72 0.02±4.0
+
+175
+
+Ovary
+
+43 1.52 28.38 20.54±38.23
+
+176
+
+Vulva
+
+1 0.19 5.39 0.14±30.0
+
+190
+
+Melanoma
+
+2 0.90 2.22 0.27±8.01
+
+191
+
+Skin
+
+1 0.4 2.36 0.06±13.13
+
+193
+
+CNS
+
+1 1.19 0.84 0.02±4.67
+
+P value Obs. Exp. SMR 95% CI
+
+0.0001 59 20.47 2.88 2.19±3.72
+
+0.008
+
+4 0.68 5.86 1.60±15.01
+
+1.0 1 1.34 0.75 0.02±4.17
+
+0.038
+
+3 0.64 4.71 0.97±13.77
+
+0.108
+
+2 0.49 4.06 0.49±14.67
+
+0.165
+
+2 0.63 3.19 0.39±11.53
+
+0.0001 20 5.32 3.76 2.29±5.80
+
+1.0 0 1.19 0 0±3.09
+
+0.0001 20 1.29 15.49 9.46±23.92
+
+0.169
+
+1 0.16 6.18 0.16±34.45
+
+0.228
+
+2 0.76 2.62 0.32±9.47
+
+0.346
+
+1 0.37 2.72 0.07±15.15
+
+1.0 1 1.04 0.96 0.02±5.34
+
+P value
+0.0001 0.005 1.0 0.027 0.088 0.131 0.0001 0.636 0.0001 0.149 0.178 0.308 1.0
+
+Note: Only ICD sites for tumours found among BRCA1-associated family members are shown. Obs., observed number of cases; Exp., Expected number of cases; SMR, standardised morbidity ratio; CI, con®dence interval; CNS, central nervous system.
+
+cancer, though it was suggested in the pathological record that it might have originated in the ovaries. The same applies to the three tumours of unknown origin. In all cases these were abdominal disseminated tumours where ovarian origin was suggested, among other possibilities. Though no formal cluster analysis was performed there is little to suggest any signi®cant clustering of other tumour types within individual families or germline mutation. The only tumours found in more than 1 individual of the same family were breast and ovarian cancer, apart from two cases of skin cancer in family 79 and two cases of prostate cancer in family 171. Interestingly, four out of six stomach cancers occurred in individuals from 4 separate families that shared the same Swedish BRCA1 founder germline mutation, 2594delC.
+In Tables 3±5, observed versus expected cancer cases are represented and the calculated SMR values shown. For women belonging to BRCA1 associated families (Table 3) there was a signi®cant excess of all cancers (125 observed (obs.) versus 23.75 expected (exp.), SMR 5.26, P 0.0001). With regard to individual tumour types, there was a signi®cant increase in breast cancer (60 obs. versus 6.26 exp.;
+
+SMR 9.59, P 0.0001) and ovarian cancer (43 obs. versus 1.52 exp.; SMR 28.38, P 0.0001), as well as stomach cancer (4 obs. versus 0.77 exp.; SMR 5.16, P = 0.008) and rectal cancer (3 obs. versus 0.73 exp.; SMR 4.12, P = 0.038). These tumour types all remained signi®cantly increased when the index cases are excluded from the analyses (Table 3). Among men (Table 4), there was a non-signi®cant increase in the incidence of all cancers (25 obs. versus 22.87 exp; SMR 1.09, P = 0.401). However, among the individual tumour types, there was a signi®cant increase in invasive skin cancer (invasive squamous cell carcinomas, median age at diagnosis 82 years) (5 obs. versus 0.83 exp.; SMR 6.02, P = 0.002). Analysing both sexes together did not reveal additional tumour types with increased risk (Table 5). Among spouses (data not shown), there was no signi®cant increase in cancer overall or among individual tumour types.
+BRCA2 In all, 100 malignant tumours occurred among the 728
+relatives (383 males and 345 females) belonging to the BRCA2 associated families. The tumours occurred in 42
+
+Table 4. Tumour incidence among 549 males (12 713.7 person-years) belonging to BRCA1-associated families
+
+ICD-7
+
+Type
+
+Obs.
+
+Exp.
+
+SMR
+
+95% CI
+
+P value
+
+140±209
+
+All malignant tumours
+
+25
+
+22.87
+
+1.09
+
+0.71±1.61
+
+0.401
+
+151
+
+Stomach
+
+2
+
+1.40 1.43 0.17±5.15
+
+0.409
+
+153
+
+Large bowel
+
+2
+
+1.55 1.29 0.16±4.65
+
+0.671
+
+154
+
+Rectum
+
+1
+
+1.04 0.96 0.02±5.36
+
+0.96
+
+155
+
+Gallbladder
+
+1 0.24 4.14 0.10±23.08 0.214
+
+157
+
+Pancreas
+
+1
+
+0.76 1.32 0.03±7.34
+
+0.532
+
+162
+
+Lung
+
+4
+
+2.17 1.84
+
+0.5±4.72
+
+0.175
+
+177
+
+Prostate
+
+5
+
+4.28 1.17 0.38±2.72
+
+0.626
+
+181
+
+Urinary bladder
+
+1
+
+1.46
+
+0.68
+
+0.02±3.81
+
+1.0
+
+191
+
+Skin
+
+5 0.83 6.02 1.96±14.05 0.002
+
+201
+
+Hodgkin's disease
+
+1
+
+0.30
+
+3.29
+
+0.08±18.34
+
+0.262
+
+204
+
+Acute leukaemia
+
+1
+
+0.53
+
+1.88
+
+0.05±10.50
+
+0.412
+
+204.1
+
+Chronic lymphatic leukaemia 1 0.25 4.08 0.10±22.74 0.217
+
+Note: Only ICD sites for tumors found among. BRCA1 associated family members are shown. Obs., observed number of cases; Exp., expected number of cases; SMR, standardised morbidity ratio; CI, con®dence interval.
+
+BRCA1 and BRCA2 Tumour Incidence
+
+1253
+
+Table 5. Tumour incidence among 1145 individuals (27 075.3 person-years) belonging to BRCA1-associated families (1086 individuals or 25 385.1 after exclusion of the index cases)
+
+All Index excluded
+
+ICD-7
+
+Type
+
+Obs. Exp. SMR 95% CI
+
+140±209
+
+All malignant tumours
+
+150 46.62 3.22 2.72±3.78
+
+151
+
+Stomach
+
+6 2.18 2.76 1.01±6.00
+
+153
+
+Large bowel
+
+3 3.08 0.98 0.20±2.85
+
+154
+
+Rectum
+
+4 1.77 2.26 0.62±5.79
+
+155
+
+Gallbladder
+
+1 0.67 1.49 0.04±8.30
+
+157
+
+Pancreas
+
+3 1.32 2.28 0.47±6.65
+
+162
+
+Lung
+
+6 2.90 2.07 0.76±4.51
+
+170
+
+Breast
+
+60 6.30 9.53 7.27±12.27
+
+172
+
+Uterine body
+
+1 1.39 0.72 0.02±4.00
+
+175
+
+Ovary
+
+43 1.52 28.38 20.54±38.23
+
+176
+
+Vulva
+
+1 0.19 5.39 0.14±30.00
+
+177
+
+Prostate
+
+5 4.28 1.17 0.38±2.72
+
+181
+
+Urinary bladder
+
+1 1.92 0.52 0.01±2.90
+
+190
+
+Melanoma
+
+2 1.63 1.23 0.15±4.43
+
+191
+
+Skin
+
+6 1.25 4.78 1.75±10.41
+
+193
+
+CNS
+
+1 2.26 0.44 0.01±2.46
+
+201
+
+Hodgkin's disease
+
+1 0.52 1.91 0.05±10.66
+
+204
+
+Acute leukaemia
+
+1 0.99 1.01 0.03±5.62
+
+204 Chronic lymphatic leukaemia 1 0.36 2.79 0.07±15.56
+
+P value Obs. Exp. SMR 95% CI
+
+0.0001 86 43.33 1.98 1.59±2.45
+
+0.024
+
+6 2.08 2.88 1.06±6.27
+
+1.0 3 2.89 1.04 0.21±3.04
+
+0.21
+
+4 1.68 2.38 0.65±6.10
+
+0.489
+
+1 0.62 1.61 0.04±8.99
+
+0.147
+
+3 1.25 2.40 0.49±7.01
+
+0.074
+
+6 2.80 2.15 0.79±4.67
+
+0.0001 20 5.36 3.73 2.28±5.76
+
+1.0 0 1.19
+
+0.0001 20 1.29 15.49 9.46±23.92
+
+0.1695 1 0.16 6.18 0.16±34.45
+
+0.626
+
+5 4.28 1.17 0.38±2.72
+
+1.0 1 1.86 0.54 0.01±2.99
+
+0.681
+
+2 1.49 1.34 0.16±4.85
+
+0.002
+
+6 1.20 5.01 1.84±10.90
+
+0.734
+
+1 2.11 0.47 0.01±2.64
+
+0.407
+
+1 0.49 2.03 0.05±11.33
+
+0.629
+
+1 0.95 1.05 0.03±5.85
+
+0.301
+
+1 0.35 2.90 0.07±16.14
+
+P value
+0.0001 0.020 0.768 0.180 0.462 0.132 0.064 0.0001
+0.0001 0.149 0.626 1.0 0.664 0.001 0.730 0.388 0.614 0.292
+
+Note: Only ICD sites for tumours found among BRCA1 associated family members are shown. Obs., observed number of cases; Exp., expected number of cases; SMR, standardised morbidity ratio; CI, con®dence interval; CNS, central nervous system.
+
+men and 55 women, of whom 38 men and 49 women had a single tumour, 4 men and 5 women had two tumours 1 women had four separate tumours. Of the 100 tumours, 87 were available for analyses. Excluded were six tumours not identi®ed in the Central Cancer Registry, two tumours (a stomach and a pancreatic cancer) diagnosed as the third and fourth tumour of a woman previously aVected by bilateral breast cancer and, ®nally, ®ve tumours diagnosed prior to 1958 or after 1995.
+Apart from breast cancer, only a limited number of tumour types occurred more than once in individual families and
+
+none more than twice. These tumours were prostate and cervical cancer in family 119, ovarian cancer in family 175 and 304, melanoma in family 46 and urinary bladder cancer in family 296 (two tumours in the same individual). The occurrence of ovarian cancer was not restricted to the ovarian cancer cluster region (OCCR) in exon 11 of the BRCA2 gene. In Tables 6±8 observed versus expected cancer cases are represented and the calculated SMR values shown. For women belonging to BRCA2-associated families (Table 6), there was a signi®cant excess of all cancers (55 obs. versus 19.06 exp.; SMR 2.89, P 0.0001). With regard to individual
+
+Table 6. Tumour incidence among 345 women (8472.8 person-years) belonging to BRCA2-associated families (318 women or 7710.5 person-years when index cases were excluded)
+
+All Index excluded
+
+ICD-7
+
+Type
+
+Obs. Exp. SMR 95% CI P value Obs. Exp. SMR 95% CI P value
+
+140±209 All malignant tumours
+
+55 19.06 2.89 2.17±3.76
+
+150
+
+Oesophagus
+
+1 0.09 11.01 0.28±61.34
+
+151
+
+Stomach
+
+1 0.73 1.37 0.03±7.64
+
+152
+
+Duodenum
+
+1 0.08 13.29 0.34±74.06
+
+153
+
+Large bowel
+
+2 1.35 1.48 0.18±5.34
+
+157
+
+Pancreas
+
+1 0.52 1.93 0.05±10.73
+
+162
+
+Lung
+
+1 0.62 1.61 0.04±8.97
+
+170
+
+Breast
+
+29 4.90 5.91 3.96±8.49
+
+171
+
+Cervix
+
+4 0.95 4.21 1.15±10.79
+
+172
+
+Uterine body
+
+1 1.13 0.89 0.02±4.94
+
+175
+
+Ovary
+
+6 1.16 5.16 1.89±11.24
+
+176
+
+Vulva
+
+1 0.16 6.09 0.15±33.91
+
+180
+
+Renal
+
+1 0.51 1.97 0.05±10.96
+
+190
+
+Melanoma
+
+2 0.62 3.21 0.39±11.60
+
+200 Non-Hodgkin's lymphoma 1 0.45 2.22 0.06±12.38
+
+0.0001 32 16.97 1.89 1.29±2.66 0.0009
+
+0.087
+
+1 0.08 11.91 0.30±66.37 0.081
+
+0.518
+
+1 0.68 1.48 0.04±8.24 0.491
+
+0.072
+
+1 0.07 14.29 0.4±82.5 0.065
+
+0.391
+
+2 1.23 1.63 0.20±5.89 0.347
+
+0.405
+
+1 0.47 2.12 0.05±11.79 0.377
+
+0.463
+
+1 0.55 1.82 0.05±10.15 0.423
+
+0.0001 13 4.29 3.03 1.61±5.18 0.0005
+
+0.016
+
+3 0.82 3.65 0.75±10.66 0.051
+
+1.0 1 0.99 1.01 0.03±5.63 0.628
+
+0.001
+
+1 1.02 0.98 0.02±5.47 1.0
+
+0.152
+
+1 0.15 6.73 0.17±37.50 0.138
+
+0.399
+
+1 0.46 2.19 0.06±12.18 0.367
+
+0.129
+
+1 0.54 1.84 0.05±10.24 0.419
+
+0.362
+
+1 0.40 2.49 0.06±13.88 0.331
+
+Note: Only ICD sites for tumours found among BRCA2-associated family members are shown. Obs., observed number of cases; Exp., expected number of cases; SMR, standardised morbidity ratio; CI, con®dence interval.
+
+1254
+
+O. Johannsson et al.
+
+Table 7. Tumour incidence among 383 males (8300.7 person-years) belonging to BRCA2-associated families (366 or 8075.3 personyears when index excluded)
+
+All Index excluded
+
+ICD-7
+
+Type
+
+Obs. Exp. SMR
+
+95% CI
+
+140-209 All malignant tumours
+
+32 15.94 2.01 1.37±2.83
+
+141
+
+Oral cavity
+
+1 0.13 7.46 0.19±41.55
+
+151
+
+Stomach
+
+2 1.11 1.79 0.22±6.48
+
+153
+
+Large bowel
+
+1 1.10 0.91 0.02±5.06
+
+154
+
+Rectum
+
+1 0.74 1.35 0.03±7.53
+
+162
+
+Lung
+
+2 1.41 1.42 0.17±5.11
+
+163
+
+Pleura
+
+1 0.07 13.76 0.35±76.69
+
+170
+
+Breast
+
+8 0.03 290.52 125.42±572.43
+
+177
+
+Prostate
+
+7 3.16 2.21 0.89±4.56
+
+181
+
+Urinary bladder
+
+2 0.97 2.06 0.25±7.43
+
+190
+
+Melanoma
+
+1 0.48 2.07 0.05±11.51
+
+192
+
+Retinoblastoma
+
+1 0.06 16.64 0.41±89.94
+
+193
+
+CNS
+
+2 0.70 2.88 0.35±10.39
+
+200 Non-Hodgkin's lymphoma 1 0.51 1.94 0.05±10.83
+
+203
+
+Multiple myeloma
+
+1 0.22 4.51 0.11±25.15
+
+204
+
+Acute leukaemia
+
+1 0.35 2.84 0.07±15.83
+
+P value Obs. Exp. SMR 95% CI P value
+
+0.0001 25 14.97 1.67 1.08±2.47 0.014
+
+0.125
+
+1 0.12 8.05 0.20±44.85 0.117
+
+0.306
+
+2 1.07 1.88 0.23±6.78 0.288
+
+1.0 1 1.03 0.97 0.02±5.38 1.0
+
+0.523
+
+1 0.69 1.44 0.04±8.05 0.499
+
+0.412
+
+2 1.30 1.53 0.19±5.54 0.375
+
+0.070
+
+1 0.08 14.7 0.4±81.6 0.066
+
+0.0001 0 0.03
+
+0.042
+
+7 2.97 2.36 0.95±4.86 0.032
+
+0.254
+
+2 0.90 2.22 0.27±8.03 0.227
+
+0.383
+
+1 0.45 2.23 0.06±12.42 0.361
+
+0.060
+
+1 0.06 3.0 0.4±93.6 0.058
+
+0.154
+
+2 0.66 3.04 0.37±10.96 0.142
+
+0.402
+
+1 0.48 2.08 0.05±11.61 0.381
+
+0.199
+
+1 0.21 4.84 0.12±26.99 0.187
+
+0.297
+
+1 0.34 2.93 0.07±16.32 0.289
+
+Note: Only ICD sites for tumours found among BRCA2 associated family members are shown. Obs., observed number of cases; Exp., expected number of cases; SMR, standardised morbidity ratio; CI, con®dence interval; CNS, central nervous system.
+
+tumour types, there was a signi®cant increase in breast cancer (29 obs. versus 4.9 exp.; SMR 5.91, P 0.0001), ovarian cancer (6 obs. versus 1.16 exp.; SMR 5.16, P = 0.001) and cervical cancer (4 obs. versus 0.95 exp.; SMR 4.21, P = 0.0016). After exclusion of the index cases SMR remained signi®cantly increased only for all tumours and
+
+breast cancer (Table 6). For males (Table 7), there was an overall excess of all tumours (32 obs. versus 15.94 exp.; SMR 2.01, P 0.0001). With regard to individual tumours, only breast cancer was signi®cantly increased (8 obs. versus 0.03 exp.; SMR 290.52, P 0.0001). After exclusion of the index cases, this excess disappeared. The incidence of prostate
+
+Table 8. Tumour incidence among 728 individuals (16 773.5 person-years) belonging to BRCA2-associated families (684 individuals or 15 785.8 person-year after exclusion of the index cases)
+
+All Index excluded
+
+ICD-7
+
+Type
+
+Obs. Exp. SMR 95%CI P value Obs. Exp. SMR 95% CI P value
+
+140±209 All malignant tumours
+
+87 35
+
+2.49 1.99±3.07
+
+141
+
+Oral cavity
+
+1 0.24 4.17 0.11±23.26
+
+150
+
+Oesophagus
+
+1 0.28 3.58 0.09±19.93
+
+151
+
+Stomach
+
+3 1.84 1.63 0.34±4.75
+
+152
+
+Duodenum
+
+1 0.16 6.31 0.16±35.18
+
+153
+
+Large bowel
+
+3 2.45 1.22 0.25±3.57
+
+154
+
+Rectum
+
+1 1.38 0.72 0.02±4.03
+
+157
+
+Pancreas
+
+1 1.05 0.95 0.02±5.32
+
+162
+
+Lung
+
+3 2.03 1.48 0.30±4.31
+
+163
+
+Pleura
+
+1 0.12 8.21 0.21±45.73
+
+170
+
+Breast
+
+37 4.93 7.50 5.28±10.34
+
+171
+
+Cervix
+
+4 0.95 4.21 1.15±10.79
+
+172
+
+Uterine body
+
+1 1.13 0.89 0.02±4.94
+
+175
+
+Ovary
+
+6 1.16 5.16 1.89±11.23
+
+176
+
+Vulva
+
+1 0.16 6.09 0.15±33.91
+
+177
+
+Prostate
+
+7 3.16 2.21 0.89±4.56
+
+180
+
+Renal
+
+1 1.14 0.88 0.02±4.88
+
+181
+
+Urinary bladder
+
+2 1.38 1.45 0.18±5.24
+
+192
+
+Retinoblastoma
+
+1 0.12 8.28 0.21±46.15
+
+190
+
+Melanoma
+
+2 1.11 2.71 0.56±7.92
+
+193
+
+CNS
+
+2 1.53 1.31 0.16±4.73
+
+200 Non-Hodgkin's lymphoma 2 0.96 2.07 0.25±7.49
+
+203
+
+Multiple melanoma
+
+1 0.42 2.36 0.06±13.15
+
+204
+
+Acute leukemia
+
+1 0.65 1.54 0.04±8.59
+
+0.0001 57 31.92 1.79 1.35±2.31
+
+0.213
+
+1 0.22 4.55 0.12±25.34
+
+0.244
+
+1 0.26 3.85 0.10±21.45
+
+0.439
+
+3 1.74 1.72 0.36±5.04
+
+0.146
+
+1 0.14 6.90 0.2±38.6
+
+0.741
+
+3 2.26 1.33 0.27±3.88
+
+1.0 1 1.27 0.79 0.02±4.38
+
+1.0 1 0.97 1.03 0.03±5.76
+
+0.463
+
+3 1.85 1.62 0.33±4.73
+
+0.115
+
+1 0.11 8.9
+
+0.2±49.5
+
+0.0001 14 4.32 3.24 1.77±5.44
+
+0.016
+
+3 0.82 3.65 0.75±10.66
+
+1.0 1 0.99 1.01 0.03±5.63
+
+0.001
+
+1 1.02 0.98 0.02±5.47
+
+0.152
+
+1 0.15 6.73 0.17±37.50
+
+0.042
+
+7 2.97 2.36 0.95±4.86
+
+1.0 1 1.05 0.96 0.02±5.33
+
+0.401
+
+2 1.27 1.58 0.19±5.70
+
+0.114
+
+1 0.11 8.9
+
+0.2±49.5
+
+0.101
+
+2 0.99 2.01 0.24±7.28
+
+0.668
+
+2 1.40 1.42 0.17±5.15
+
+0.251
+
+2 0.88 2.27 0.27±8.20
+
+0.345
+
+1 0.39 2.58 0.07±14.36
+
+0.477
+
+1 0.62 1.62 0.04±9.03
+
+0.0001 0.197 0.229 0.254 0.134 0.497 1.0 0.620 0.440 0.106 0.0002 0.051 0.628 1.0 0.138 0.032 1.0 0.362 0.1065 0.262 0.409 0.221 0.322 0.460
+
+Note: Only ICD sites for tumours found among BRCA2-associated family members are shown. Obs., observed number of cases; Exp., expected number of cases; SMR, standardised morbidity ratio; CI, con®dence interval; CNS, central nervous system.
+
+BRCA1 and BRCA2 Tumour Incidence
+
+1255
+
+cancer was borderline signi®cantly high (7 obs. versus 3.16 exp.; SMR 2.21, CI = 0.89±4.56; P = 0.042), more so when the index cases were excluded (7 obs. versus 2.97 exp.; SMR 2.36, CI = 0.95±4.86; P = 0.032). Analysing both sexes together did not reveal additional tumour types with increased risk (Table 8). There is no signi®cant increase of any tumour type in the spouses overall or for individual tumour types (data not shown).
+DISCUSSION For south Swedish BRCA1 and BRCA2 families, only a limited number of cancer types occurred in excess of that expected. Thus for BRCA1, it was not unexpected that the incidence of breast and ovarian cancer would be greatly increased. The study supports the fact that an increased risk exists for these tumour types, after the exclusion of the index cases for women belonging to BRCA1-associated families, as well as female breast cancer in BRCA2-associated families, as has been suggested by previous studies on high risk families [2, 7, 10, 13, 15±17]. However, in the BRCA1 families, the reported excess of colon and prostate cancer was not observed [2]. It must be stressed that though our study was small, it is of similar size to that of Ford and associates [2] and we believe that if any major excess risk for these tumour types existed, we would have seen indications thereof. As both stomach and, to a lesser degree, rectal cancers had increased SMR values, we cannot exclude that there may exist a small increment in risk for gastrointestinal tumours, at least among females. These observations are based on a limited number of tumours. Until further studies are available, we believe it to be doubtful whether individuals belonging to BRCA1 families should be informed of a possible increased risk for gastrointestinal tumours and thus be subjected to a possibly unnecessary, expensive surveillance and increased psychosocial burden. Furthermore, from our review of the clinical and pathological records it now appears that the classi®cation of some of the stomach cancers may be erroneous. Some may have been primary ovarian cancers, rather than stomach cancers with metastases to the ovaries. It is interesting that four of these tumours occurred in families sharing the same germline mutation (2594delC) for which the risk of ovarian cancer appears greater than that for breast cancer (15 cases versus 10). The median and mean ages of the four cases of stomach cancer that occurred in women in BRCA1-related families were 72 and 71.4 years, respectively. The risk of male breast cancer has been reported as increased with BRCA1 mutations [1]. Not a single case was observed in our BRCA1-associated families suggesting that the risk increment, if true, is low. However, the sample of male breast cancer cases, from which BRCA2 mutation carriers were included in the study, was not screened for BRCA1 mutations. With regard to the increased frequency of skin cancer observed in the males, these were non-fatal cancers diagnosed late in life. No childhood tumour was found. In conclusion, tumour predisposition in BRCA1-associated families appears to be restricted to adult females with an increased incidence of breast and ovarian cancer, and to a far lesser degree stomach cancer and rectal cancers in females, as well as skin cancer in males. Thus, we believe, that currently, surveillance of family members belonging to BRCA1 families should focus on the two organs that the present and past studies have found excessive incidences of cancer in, i.e. the breast and ovaries.
+
+The situation is more complex for BRCA2. Only a limited number of studies have tried to assess the risk for cancer types other than breast and ovarian cancers [5±7, 9±14]. Similarly to observations made in those studies, we found the risk of cancer to vary greatly between individual families. Whereas breast cancer was the dominating tumour type in the majority of families, there were some families where a large number of diVerent tumours occurred (Family 46 with cases of colon, lung, breast cancer (4), malignant melanoma (2) and retinoblastoma; and family 119 with cases of head and neck cancer, gastrointestinal cancersÐstomach and duodenum, cancers of prostate, cervix, breast (3), kidney, lymphoma and glioma), supporting observations that BRCA2 may in some cases predispose to a multitude of diVerent tumours [6, 7, 11, 13, 14].
+Perhaps more interestingly, it appears that the incidence of cancer diVers by the sex of the proband. In the 7 families with a male breast cancer proband (families 131, 292±297), only a single female breast cancer was found [21]. Conversely, there was not a single male breast cancer case in any of the families of female probands. This observation may be spurious, as we know of two cases of male cancer in family 91 in relatives of a female proband. These males belong to a Danish branch of the family not included in the study. Nevertheless, in male proband families, 19 of the 25 tumours occurred in males, whilst in female proband families, 63 of 77 tumours occurred in females. This might be due to the in¯uence of the proposed BRCA2 modifying factors [1]. 6 of the 7 male proband families were identi®ed from a study of a population-based tumour collection [21], whereas 11 of the 14 of the female proband families where identi®ed by family history, suggesting that the tumour incidence may re¯ect tumour incidence in population-based non-high risk families, as suggested by recent studies on Ashkenazi Jews [17], rather than a gender speci®c modifying factor. A similar `lack' of tumours among female relatives of male breast cancer patients has however been noted in Icelandic BRCA2 families [11].
+Whilst the incidence of ovarian cancer was clearly increased in BRCA2-associated families when the index cases were included, this was not so when they were excluded. This may re¯ect a selection bias and indicate that the risk of ovarian cancer was less than previously proposed. Nevertheless, we do not believe that surveillance for ovarian cancer is unnecessary in BRCA2-associated families, though it may be proposed that the role of or need for prophylactic operations may be less than in BRCA1-associated families. As is the case for BRCA1, we suspect that ovarian cancer may occur outside the ovaries proper in BRCA2 germline mutation carriers. In family 10 a case of peritoneal carcinomatosis occurred in a woman aged 70 years, that in the pathological report was judged to be ovarian-like cancer derived from the peritoneum. To our knowledge, no such cases have previously been reported in a BRCA2-associated family.
+The increased incidence of pancreatic cancer reported in some studies [10±13] was not observed in this study. As pancreatic cancer is also a tumour type where germline and somatic mutations of BRCA2 have been reported [9], this is puzzling. It may be that there was a lack of an internal or external modifying risk factor that prevents the increased risk observed in other studies, or, conversely, there was perhaps an early onset diagnosis of other fatal tumours preventing the subsequent onset of pancreatic cancer occurring. A case in family 10 could support this hypothesis. In this family, a woman, diagnosed with bilateral, non-fatal breast cancer at
+
+1256
+
+O. Johannsson et al.
+
+the age of 71 years and 75 years as well as a simultaneous gastric carcinoma at 75 years, was diagnosed at post mortem at the age of 76 years with a fourth malignant tumour, a pancreatic cancer. As only the ®rst two tumours of an individual were included in the statistical study, these cases were not included in the risk estimations. Furthermore, in family 304, a case of peritoneal cancer occurred in 1 individual at the age of 66 years that was coded as a tumour of unknown origin (ICD-7 199) in the cancer registry. Review of the tumour and pathological records suggest that this was most likely a pancreatic cancer. For these reasons it cannot be ruled out that there was an underestimation of the risk for pancreatic cancer in the BRCA2-families in this study.
+An increased frequency of laryngeal cancer reported in at least one study [13] was not seen in this study. However, prostate and cervical cancer were frequent, as has been described previously [6, 7, 10, 11, 13]. No case of ocular melanoma was observed. A single childhood tumour, a unilateral retinoblastoma, occurred. In conclusion, the incidence of breast cancer and, to a lesser degree, ovarian cancer and cervical cancer was increased in adult women belonging to BRCA2-associated families, whilst among adult men prostate cancer was frequent.
+The use of expanded pedigrees without mutation testing of individuals from all branches can be questioned. It obviously can lead to an overestimation of incidence of breast and ovarian cancer when a branch of a family is selected because of the prevalence of these malignancies. In the majority of families the choice of family branch was obvious based on veri®ed mutations of relatives or the pattern in the pedigree. In some cases, the situation was less obvious. Here we chose to exclude both branches in the BRCA1-related cases. On the contrary, we included both branches in the BRCA2-related cases were the index case was male breast cancer. We did so because, in the BRCA1-related cases, these problems occurred in early branches of the families leaving a signi®cant number of relatives with a close relation to the proband. In the BRCA2-related families this approach would leave us with only relatives in the same and younger generations as the proband, and thus a risk for underestimation of recurrent non breast- or ovarian tumour types among relatives in preceding generations.
+Sporadic cases are included in this study along with hereditary ones, since only a minority of the patients with tumours were tested for BRCA1 or BRCA2 mutations. It should be pointed out that the study is limited in that no subdivision into carriers and non-carriers was performed and, therefore, gene penetrance data cannot be estimated. The great majority of the study groups are still young. Therefore, it is likely that changes in the tumour spectra will occur upon follow-up of this group, barring the eVects of any major preventative eVort. It is possible that some of the subtypes of cancers observed may have preferentially occurred among carriers of a mutated gene, yet have been obscured by a low/normal rate among non-carriers. No studies to our knowledge have shown a divergence from chance allocation of being a carrier or non-carrier of a BRCA1/BRCA2 mutation among the oVspring of a mutation-carrier. Considering the rates observed it is thus unlikely, even if all cases of a certain subtype occurred in mutation-carriers, that the risk of cancers other than for breast and ovarian cancer are of importance for clinical follow-up. An exception may be the observation of four out of six BRCA1 stomach cancers being associated with the same
+
+germline mutation, though this awaits veri®cation in addi-
+tional families and after gene mutation analysis.
+In conclusion, whilst other tumour types may occur in
+BRCA1- and BRCA2-associated families, our study does not
+detect any clinically obvious signi®cantly increased risks for
+tumours other than breast and ovarian cancer among women
+in families with germline mutations in BRCA1 or BRCA2. In
+our opinion it may, therefore, be appropriate to restrict clin-
+ical follow-up and surveillance in these families to the
+increased risk for these cancers.
+1. Ford D, Easton DF, Stratton M, et al. Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. Am J Hum Genet 1998, 62, 676±689.
+2. Ford D, Easton DF, Bishop DT, Narod SA, Goldgar DE. Consortium BCL. Risks of cancer in BRCA1-mutation carriers. Lancet 1994, 343, 692±695.
+3. Arason A, BarkadoÂ ttir RB, Egilsson V. Linkage analysis of chromosome 17q markers and breast-ovarian cancer in Iclandic families, and possible relationship to prostatic cancer. Am J Hum Genet 1993, 52, 711±717.
+4. Burke W, Petersen G, Lynch P, et al. Recommendations for follow-up care of individuals with an inherited predisposition to cancer. JAMA 1997, 227, 915±919.
+5. Goldgar DE, Neuhausen SL, Steele L, et al. A 45-year follow-up of kindred 107 and the search for BRCA2. J Natl Cancer Inst Monogr 1995, 17, 15±19.
+6. Gudmundsson J, Johannesdottir G, Bergthorsson JT, et al. Different tumor types from BRCA2 carriers show wild-type chromosome deletion on 13q12-q13. Cancer Res 1995, 55, 4830± 4832.
+7. Tonin P, Ghadirian P, Phelan C, et al. A large multisitic cancer family linked to BRCA2. J Med Genet 1995, 32, 982±984.
+8. Katagiri T, Nakamura Y, Miki Y. Mutations in the BRCA2 gene in hepatocellular carcinomas. Cancer Res 1996, 56, 4475± 4557.
+9. Goggins M, Schutte M, Lu J, et al. Germline BRCA2 gene mutations in patients with apparently sporadic pancreatic carcinomas. Cancer Res 1996, 56, 5360±5364.
+10. Tonin P, Weber B, OYt K, et al. Frequency of recurrent BRCA1 and BRCA2 mutations in Ashkenazi Jewish breast cancer families. Nature Med 1996, 2, 1179±1183.
+11. Thorlacius S, Olafsdottir G, Jonasson L, et al. A single BRCA2 mutation in male and female breast cancer families from Iceland with varied cancer phenotypes. Nat Genet 1996, 13, 117±119.
+12. Phelan CM, Lancaster JM, Tonin P, et al. Mutation analysis of the BRCA2 gene in 49 sitespeci®c breast cancer families. Nat Genet 1996, 13, 120±122.
+13. Easton DF, Steele L, Fields P, et al. Cancer risks in two large breast cancer families linked to BRCA2 on chromosome 13q1213. Am J Hum Genet 1997, 61, 120±128.
+14. Nelson NJ. BRCA1/2 carriers. J Natl Cancer Inst 1998, 90, 189± 190.
+15. Easton DF, Bishop DT, Ford D, Crockford GP. Consortium BCL. Genetic linkage analysis in familial breast and ovarian cancer: results from 214 families. The Breast Cancer Linkage Consortium. Am J Hum Genet 1993, 52, 678±701.
+16. Easton DF, Ford D, Bishop DT. Consortium BCL. Breast and ovarian cancer incidence in BRCA1-mutation carriers. Am J Hum Genet 1995, 56, 265±271.
+17. Struewing JP, Hartge P, Wacholder S, et al. The risk of cancer associated with speci®c mutations of BRCA1 and BRCA2 among Ashkenazi Jews. N Engl J Med 1997, 336, 1401±1408.
+18. Friedman LS, Szabo CI, Ostermeyer EA, et al. Novel inherited mutations and variable expressivity of BRCA1 alleles, including the founder mutation 185del AG in Ashkenazi Jewish families. Am J Hum Genet 1995, 57, 1284±1297.
+19. Stoppa-Lyonnet D, Fricker JP, Essioux L, et al. Segregation of two BRCA1 mutations in a single family. Am J Hum Genet 1996, 59, 479±481.
+20. Liede A, Tonin PN, Sun CC, et al. Is hereditary site-speci®c ovarian cancer a distinct genetic condition? Am J Med Genet 1998, 75, 55±58.
+
+BRCA1 and BRCA2 Tumour Incidence
+
+1257
+
+21. Haraldsson K, Loman N, Johannsson O, Olsson H, Borg AÊ . BRCA2 germline mutations are frequent in male breast cancer patients without a family history of the disease. Cancer Res 1998, 58, 1367±1371.
+22. Johannsson OT, Idvall I, Anderson C, Borg AÊ , Egilsson V, Olsson H. Tumour biological features of BRCA1-induced breast and ovarian cancer. Eur J Cancer 1997, 33, 362±371.
+23. HaÊkansson S, Johannsson O, Johansson U, et al. Moderate frequency of BRCA1 and BRCA2 germ-line mutation in Scandi-
+
+navian familial breast cancer. Am J Hum Genet 1997, 60, 1068± 1078.
+AcknowledgementsÐFinancial support for this study was provided by grants from the Swedish Cancer Society; CTRF Foundation, Stockholm; Mrs Bertha Kamprad Foundation; Medical Faculty of Lund University, Lund; Gunnar, Arvid and Elisabeth Nilsson Foundation, Helsingborg, Sweden; and the Nordic Cancer Union, Copenhagen, Denmark.
+
+

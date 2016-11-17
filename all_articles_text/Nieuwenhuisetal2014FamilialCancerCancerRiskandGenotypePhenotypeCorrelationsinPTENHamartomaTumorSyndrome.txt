@@ -1,0 +1,315 @@
+Familial Cancer (2014) 13:57­63 DOI 10.1007/s10689-013-9674-3
+ORIGINAL ARTICLE
+
+Cancer risk and genotype­phenotype correlations in PTEN hamartoma tumor syndrome
+Marry H. Nieuwenhuis · C. Marleen Kets · Maureen Murphy-Ryan · Helger G. Yntema · D. Gareth Evans · Chrystelle Colas · Pal Møller · Frederik J. Hes · Shirley V. Hodgson · Maran J. W. Olderode-Berends · Stefan Aretz · Karl Heinimann · Encarna B. Go´mez Garc´ia · Fiona Douglas · Allan Spigelman · Susanne Timshel · Noralane M. Lindor · Hans F. A. Vasen
+
+Published online: 11 August 2013 Ó Springer Science+Business Media Dordrecht 2013
+
+Abstract Patients with germline PTEN mutations are at high risk of developing benign and malignant tumours. We aimed to evaluate the cumulative risk of several types of cancer and of dysplastic cerebellar gangliocytoma (Lhermitte-Duclos disease, LDD). In addition, genotype­phenotype correlations in PTEN hamartoma tumour syndrome (PHTS) were assessed. Data on patients with PTEN mutations were collected from clinical genetic centres in Western Europe, Australia, and the USA. The cumulative risk of developing cancers of the breast, thyroid, endometrium,
+Noralane M. Lindor formerly with Medical Genetics, Mayo Clinic, Rochester, MN, USA.
+M. H. Nieuwenhuis (&) Á H. F. A. Vasen The Netherlands Foundation for the Detection of Hereditary Tumors, Rijnsburgerweg 10, Poortgebouw Zuid, 2333 AA Leiden, The Netherlands e-mail: m.nieuwenhuis@stoet.nl; marrynieuwenhuis@gmail.com
+H. F. A. Vasen e-mail: hfavasen@stoet.nl
+C. M. Kets Á H. G. Yntema Department of Human Genetics, Radboud University Nijmegen Medical Centre, Nijmegen, The Netherlands
+M. Murphy-Ryan Mayo Medical School, Rochester, MN, USA
+D. G. Evans Department of Genetic Medicine, St. Mary's Hospital, Manchester, UK
+C. Colas Laboratoire d' Oncoge´ne´tique et Angioge´ne´tique Mole´culaire, Groupe Hospitalier Pitie´-Salpe^trie`re, Assistance PubliqueHopitaux de Paris, Universite´ Pierre et Marie Curie, Paris, France
+
+skin, kidneys, colorectum, and lungs, and also LDD was calculated by Kaplan­Meier methods. Associations between mutations and cancer were assessed by Chi square means. A total of 180 germline PTEN mutation carriers, 81 males (45 %), from nine countries were included. The cumulative risk of developing any cancer and/or LDD at age 60 was 56 % for males and 87 % for females (p = 0.001). Females had significant higher risks of developing breast cancer, thyroid cancer, and LDD than males. The only genotype­ phenotype correlation identified was a lower frequency of thyroid cancer in patients with missense mutations (p = 0.014). In conclusion, PHTS patients, particularly females, have a substantial risk of developing one or more
+P. Møller Section of Cancer Genetics, The Norwegian Radium Hospital, Oslo University Hospital, Oslo, Norway
+F. J. Hes Department of Clinical Genetics, Leiden University Medical Centre, Leiden, The Netherlands
+S. V. Hodgson Department of Clinical Genetics, St Georges, University of London, London, UK
+M. J. W. Olderode-Berends Department of Genetics, University Medical Centre Groningen, Groningen, The Netherlands
+S. Aretz Institute of Human Genetics, University Hospital Bonn, Bonn, Germany
+K. Heinimann Research Group Human Genetics, Department of Biomedicine, University Children's Hospital, University of Basel, Basel, Switzerland
+
+123
+
+58 M. H. Nieuwenhuis et al.
+
+tumours from a broad tumour spectrum. Major genotype­ phenotype associations could not be identified.
+Keywords PTEN phosphohydrolase Á Multiple hamartoma syndrome Á Neoplasms
+Introduction
+PTEN hamartoma tumor syndrome (PHTS) is the collective term for clinical syndromes caused by germline mutations in the tumor suppressor phosphatase and tensin homologue, situated on chromosome 10 (PTEN). These syndromes include Cowden syndrome, Lhermitte-Duclos disease (LDD), Bannayan-Riley-Ruvalcaba syndrome, and Proteus (-like) syndrome, and although they appear to be different disease entities, they share overlapping characteristics including hamartomatous tumours [1]. The tumors observed in PHTS derive from all embryonic layers. Recently, a risk of 89 % for any cancer diagnosis was found, with particularly high risks of carcinomas of the breast, thyroid, endometrium, kidney, colorectum, and cerebellar gangliocytoma (Lhermitte-Duclos disease) [3, 4]. Expression of the clinical features is variable [2].
+The functional role of the PTEN gene has been partially elucidated. In many types of (sporadic) human cancers, somatic PTEN mutations have been identified [5]. PTEN appears to act as a tumor suppressor gene by counteracting the PI3K/Akt signalling network, an important cancer promoting pathway. Furthermore, PTEN is involved in maintaining genomic stability, DNA repair, stem cell self-renewal, cellular senescence, and cell migration/metastasis [6].
+Several studies have assessed the possibility of genotype­phenotype correlations in PTEN mutation carriers, but such associations were not demonstrated [2, 7]. One study found that specific germline mutations in mouse models did have a strong influence on the variable
+
+predisposition to cancer, however [8]. Furthermore, recent studies using mouse models and human clinical data have provided support for the idea that PTEN protein dosage may influence the PHTS phenotype [9, 10].
+The aim of the current study was to assess the cumulative risk of developing cancer in a large international cohort of patients with PTEN mutations, and to evaluate if specific cancer types were associated with certain mutations (i.e. genotype­phenotype associations).
+Methods
+Patients
+Clinical genetic centres from United Kingdom, France, Norway, Germany, Switzerland, USA (Rochester, MN), Australia, Denmark, and The Netherlands contributed to this study by providing data on patients with a proven germline mutation in the PTEN gene. Information was obtained on several variables including gender, date of birth, date of last contact, result of PTEN mutation testing, number of affected relatives, ethnicity, and the year of diagnosis of clinical symptoms. The involved geneticists were asked to report tumours and other relevant findings in PTEN mutation carriers.
+Statistical analysis
+Patient characteristics were analysed and delineated. Cumulative cancer risks were calculated by Kaplan­Meier methods, with observation time from date of birth to date of tumour diagnosis, date of death, or date of last observation, whichever came first. Differences between males and females were assessed by the log rank test.
+Univariate analyses were performed to predict the effect and classify the mutation. The frequency of tumours was
+
+E. B. Go´mez Garc´ia Department of Clinical Genetics, University Hospital Maastricht, Maastricht, The Netherlands
+F. Douglas Institute of Human Genetics, Newcastle University, Newcastle upon Tyne, UK
+A. Spigelman UNSW St Vincent's Clinical School, Sydney, Australia
+A. Spigelman Hunter Family Cancer Service, Newcastle upon Tyne, NSW, Australia
+A. Spigelman St Vincent's Hereditary Cancer Service, Sydney, Australia
+123
+
+S. Timshel Danish HNPCC Register, Department of Gastroenterology, Hvidovre University Hospital, Copenhagen University, Copenhagen, Denmark
+N. M. Lindor The Department of Health Science Research, Mayo Clinic, Scottsdale, AZ, USA
+H. F. A. Vasen Department of Gastroenterology and Hepatology, Leiden University Medical Centre, Leiden, The Netherlands
+
+PTEN hamartoma tumor syndrome
+
+59
+
+compared for both groups by the Chi square test. Statistical analysis was performed by using, PASW version 18.0 (SPSS, Chicago, Illinois, USA). The threshold of statistical significance was set at p \0.05.
+Classification of mutations
+All mutations were reviewed and classified by a clinical molecular geneticist (HGY). Only variants that are classified as likely to be pathogenic according to the guidelines of the CMGS and VKGL (British and Dutch molecular genetic societies), are included as mutations in this paper (see http://www.cmgs.org/BPGs/pdfs%20current%20bpgs/ UV%20GUIDELINES%20ratified.pdf).
+These criteria include among others the Grantham score, SIFT and PolyPhen analysis, splice site analysis, and analysis of frequency of the mutation in the population.
+The location of mutations in the two key PTEN domains were reported: either the protein tyrosine phosphatase domain (exons 2­6) or the C2 calcium lipid binding region domain (exons 6­8). Mutations in the other domains (PDZbinding domain (amino acids 401­403) and the carboxyterminal region (amino acids 351­400) were grouped into an ``other mutations group''. The PTEN mutations were considered to be deleterious based upon the type of the mutation (nonsense, frameshift, splice site, missense, deletions) [11]. Subgroups were formed based on the type of the mutation, existing literature, location in a domain, and prediction of nonsense-mediated decay (NMD). NMD is a quality-control mechanism that selectively degrades mRNAs harbouring premature termination (nonsense) codons and thereby these mutations do not lead to aberrant PTEN protein formation but haploinsufficiency. For mutations that have not been described and were not predicted to lead to NMD, an in silico-based method (Alamut software) was used to assess the effect of the mutation (http://www.interactivebiosoftware.com/alamut/doc/1.5/ index.html).
+
+cumulative risk of 80 % at age 60. Mental retardation, including developmental delay and learning difficulties, was reported in 31 patients (17.2 %).
+Mutations
+Data on 119 families were available. All patients tested positively for a germline PTEN gene mutation. A total of 92 different mutations were identified in 114 families. Five families were known to have a mutation, but no information was available. The most frequent mutation was exon 5, c.388C[T, resulting in p.Arg130X, which was found in seven families. Mutations in exon 8, c.1003C[T resulting in p.Arg335X and exon 2, c.144C[A resulting in p.Asn48Lys, occurred in four families. All other mutations were found less frequently.
+Figure 1 shows the distribution of mutations. The molecular genetic defect was reported for 107 families and included 40 missense mutations (37.4 %), 29 nonsense mutations (27.1 %), 17 splice site mutations (15.9 %), 14 frameshift mutations (13.1 %), and 7 deletions (6.5 %).
+A total of 62 (63.9 %) families had a mutation in the protein tyrosine phosphatase domain (exons 2­6), and 35 (36.1 %) families had mutations in the C2 calcium lipid binding region (exons 6­9). One large deletion included both domains, and precise data on domain location were missing in 21 families.
+Sixty-one (53.5 % of 114 families, complete data on 5 families missing) of the families had a mutation that was predicted to lead to nonsense-mediated decay (NMD).
+Cumulative risk of cancer and/or Lhermitte-Duclos disease (LDD)
+A total of 56 patients had developed a malignant tumour and/ or LDD; 35 patients had one tumour, 14 patients had two
+
+Results
+
+Clinical characteristics
+
+A total of 180 patients with mutations (81 males, 45 %), born between the years 1928 and 2008 were included. The mean age at the date of last contact was 32 years (range 1­73 years). Fifty-four patients (30 %) were younger than 18 years at the end of the observation time. The majority of patients had macrocephaly, which was reported in 150 patients (83.3 %). Benign mucocutaneous lesions (including trichilemmomas, papillomatous papules, and acral keratoses) were reported in 83 patients (46.1 %), with a
+
+Fig. 1 Distribution of PTEN mutations
+
+123
+
+60 M. H. Nieuwenhuis et al.
+
+Fig. 2 Cumulative risk of developing cancer and/or LhermitteDuclos disease in PTEN mutation carriers
+
+tumours, and in 7 patients three metachronous or synchronous tumours were reported. Figure 2 shows the cumulative risk of developing cancer and/or LDD. Females had a significantly higher risk of developing cancer and/or LDD than males (log rank test, p value 0.001). At the age of 60 years, males and females had respectively a five- and seven-fold increased risk of developing cancer compared with the general population (data extracted from the Globocan Database of the World Health Organization [12]).
+Table 1 displays the cumulative risk (up to age 60 years) of developing different tumour types for males and females separately. No breast cancers were observed in males. Six of the twenty-four patients (25 %) with breast cancer had bilateral tumours. Beside the 17 patients with Lhermitte-Duclos disease (LDD), 19 patients had other abnormal findings at brain imaging, including pineal gland tumor, meningioma, microgyria, abnormalities of the white matter, cavernous hemangioma, cysts, and vestibular schwannoma. Benign thyroid lesions were reported in 80 patients (44.4 %), at a mean age of 33 years (range
+
+Table 1 Frequency and cumulative risk (up to age 60 years) of cancer and Lhermitte-Duclos disease (LDD) in a cohort of 180 PTEN mutation carriers, separately presented and compared for males and females
+One male patient developed lung cancer at age 68 Not included in this table: two males with seminoma at age 25 and a cancer of unknown primary origin at age 33; five basalioma cases, 2 squamous cell carcinoma cases
+
+Cancer type
+
+N
+
+Any cancer and/or LDD
+
+Male
+
+14/81
+
+Female
+
+42/99
+
+Breast cancer
+
+Male
+
+0/81
+
+Female
+
+24/99
+
+Thyroid cancer
+
+Male
+
+2/81
+
+Female
+
+12/99
+
+LDD
+
+Male
+
+3/81
+
+Female
+
+14/99
+
+Melanoma
+
+Male
+
+1/81
+
+Female
+
+0/99
+
+Endometrial cancer
+
+Female
+
+7/99
+
+Colorectal cancer
+
+Male
+
+2/81
+
+Female
+
+2/99
+
+Renal cancer
+
+Male
+
+2/81
+
+Female
+
+2/99
+
+Lung cancer
+
+Male
+
+1/81
+
+Female
+
+2/99
+
+123
+
+Cumulative risk
+
+Age 30 (%)
+
+Age 40 (%)
+
+9 14.4 17.7 42.3
+­­ 6.1 20.4
+2.3 5.7 6.5 14.3
+2.3 2.3 5.3 12.3
+2.3 2.3 ­­
+1.6 6.5
+­­ ­­
+2.3 2.3 ­ 2.4
+­­ ­­
+
+Age 50 (%)
+27 73.2
+­ 54.2
+5.7 19.6
+11 23
+2.3 ­
+20.7
+­ ­
+2.3 2.4
+­ 2.5
+
+Age 60 (%)
+55.7 86.6
+­ 67.3
+5.7 24.9
+11 43.5
+2.3 ­
+20.7
+20 16.7
+2.3 8.5
+­ 12.2
+
+Log rank test p value
+0.001
+0.000
+0.043
+0.048
+0.219
+­ 0.531
+0.697
+0.634
+
+PTEN hamartoma tumor syndrome
+
+61
+
+5­63 years). At age 40, the cumulative risk of benign thyroid lesions was 50 % (figure not shown). Breast cancer, thyroid cancer, and LDD often occurred together, but no specific combination of three tumours was seen twice. All patients who developed colorectal cancer (n = 4) or renal cancer (n = 4) also had syn- or metachronous cancers.
+Genotype­phenotype correlations
+To evaluate genotype­phenotype associations, the PTEN gene was divided into domains as described in the Methods section. The frequency of occurrence of several tumours was compared between patients with mutations leading to NMD and non-NMD mutations. In both groups, similar cancer frequencies were found. Comparison of cancer frequencies in the protein tyrosine phosphatase domain (exons 2­6) with the C2 calcium lipid binding region domain (exons 6­8) also showed no significant genotype­phenotype correlations. Analysis of missense versus other mutations showed a positive correlation between non-missense mutations and thyroid cancer (p = 0.014, Table 2). Excluding the mutations with unknown pathogenicity did not influence the results.
+Discussion
+The present international cohort study shows that female PTEN mutation carriers have an approximately eight times increased risk of developing cancer and/LDD, compared to the general population. Male patients showed a five-fold increased risk of developing cancer and/or LDD, compared with the healthy population. Nearly 40 % of the patients developed two or three pathologically different tumours. Beside the well-known tumour spectrum in PTEN mutation carriers, including breast cancer, thyroid cancer, endometrial cancer, and cerebellar gangliocytoma (LDD), several patients developed skin cancer, renal cancer, and colorectal cancer. No evident associations between PTEN mutation site or mutation type and the phenotypic expression could be identified, except a positive correlation between nonmissense mutations and thyroid cancer.
+As Cowden syndrome is the most frequent and best characterized syndrome of the disease entities of PHTS, most previous studies focused on this syndrome. One of these reported a cumulative risk at age 70 of 89 % for any cancer diagnosis in patients with Cowden syndrome [3] which is similar to the risk of 87 % at age 70 observed in the present analysis. That study also reported that males had fewer cancers diagnosed than female patients, and that males in particular had cancers not associated with Cowden syndrome, including melanoma, squamous cell cancer, renal cancer, lung cancer, and testicular seminoma [3]. Another
+
+Table 2 Frequency of cancer in the patients with missense versus non-missense mutations
+
+Cancer type
+
+Missense mutations
+
+Other mutations
+
+p value Chi square test
+
+Any cancer Yes 16 No 55
+Breast cancer Yes 6 No 65
+LDD Yes 3 No 68
+Thyroid cancer Yes 1 No 70
+Endometrial cancer Yes 4 No 29
+Skin cancer Yes 5 No 66
+Renal cancer Yes 3 No 68
+Colorectal cancer Yes 2 No 69
+Lung cancer Yes 0 No 71
+
+31 64
+16 79
+10 85
+11 84
+2 54
+3 92
+1 94
+2 93
+3 92
+
+* Fisher's exact test if one variable is \5 Bold value indicates p \0.05
+
+0.153 0.115 0.156* 0.014* 0.189* 0.289* 0.314* 1.00* 0.261*
+
+study, including 46 patients meeting clinical PHTS criteria, also reported a much wider tumour spectrum including ovarian cancer, vaginal adenocarcinoma, broncheoalveolar adenocarcinoma, and neuroendocrine tumours [7]. A third study, including 368 PTEN mutation carriers, also observed a broad spectrum of malignant tumours in PTEN mutation carriers, including colorectal cancer, renal cancer, and melanoma [4]. Moreover, that study found a higher cumulative risk of breast cancer and endometrial cancer than was assumed previously [4]. Our study confirms that cancers of the skin, kidney, colorectum, lung, and seminoma occur in patients with PHTS in addition to the characteristic tumor spectrum. However, the frequency of skin cancer (including one case of melanoma, age 27 and several cases of basalioma of which the youngest patient was 23 years), lung cancer, and seminoma seemed not to be significantly different from the general population, if compared with cumulative risks as
+
+123
+
+62 M. H. Nieuwenhuis et al.
+
+reported in the Globocan Database [12]. The risk of colorectal cancer and renal cancer was clearly increased.
+Females had significantly higher cancer risks than males in this study, as observed previously [3]. In part, this is due to the typical female cancers, breast and endometrial cancer. However, females were also at higher risk of thyroid cancer and LDD. Remarkably, we and others did not find increased risk of prostate cancer in males, despite the fact that somatic deletions of PTEN are common in human prostate cancers [13].
+Although LDD is not a malignancy by histological definition, this tumour causes serious problems, including headaches and other symptoms of increased intracranial pressure, cerebellar ataxia, visual disturbances, and cranial nerve palsies [14]. Therefore, we also assessed LDD in the present study and calculated a substantial detection rate (20 %) of LDD and other cerebral abnormalities at brain scanning. This may even be an underestimate, as brain examinations in most cases will have been performed because of symptoms. A previous study assessing the frequency of asymptomatic LDD showed abnormal brain scans in 35 % of patients with Cowden syndrome, including LDD, hemangiomas, and vascular malformations [15]. As the majority of findings are of benign nature it is questionable whether screening of the brain is indicated in all patients with PHTS. It seems to be appropriate to perform brain imaging on clinical indication, as identification of these disorders may explain clinical symptoms. On the other hand, non-symptomatic abnormalities such as hemangiomas and vascular malformations may cause acute bleeding or seizures [15]. Whether serious consequences of these abnormalities can be prevented by early detection needs careful assessment. Also, further studies are needed to answer the question of whether and when surgery is indicated for LDD.
+The distribution of germline mutations in the PTEN gene in our cohort resembles roughly that as described in previous studies [5, 10]. Studies in mouse models, and recently also in humans, show that a lower PTEN dosage is correlated with increasing tumour susceptibility [9, 10]. Despite several investigations into an association between certain PTEN mutations and the phenotype of PHTS we could not demonstrate any such correlation, except a lower frequency of thyroid cancer in patients with missense mutations, compared with non-missense mutations. The clinical value of this finding appears to be limited. Our findings concerning genotype­phenotype correlations are in accordance with most previous studies on this topic [2, 7, 16].
+Germline PTEN mutations cause PHTS, but somatic PTEN mutations are also frequently found in sporadic tumours. Interestingly, there is overlap between common tumours of the PHTS spectrum and sporadic tumours with
+
+frequent PTEN mutations, suggesting that PTEN mutations are an etiological factor in these tumour types [11]. It is evident that PTEN plays an important role in tumorigenesis, and appears to interact with multiple other genes [17].
+As germline PTEN mutations are rare (estimated incidence at least 1:200,000) [1], calculation of cancer risks is complicated due to the small numbers of PHTS patients available to study. The present study included a considerable cohort of mutation carriers from nine Western countries. By inclusion of all mutation carriers, even asymptomatic children, the risk of ascertainment bias was reduced. However, as symptomatic patients are usually referred for genetic counselling, we realize that some extent of ascertainment bias can not be excluded. Furthermore, there may be preferential ascertainment of family branches with affected family members. In general, the clinical geneticists reported complete data. In some cases, it was not clear whether the characteristic was missing or that no information was available. Therefore, the risks presented in this study are minimal risks, A shortcoming of this study is that detailed information on PTEN mutations was missing in some cases, although we assume that more information would not have changed the results significantly, since information was available for the majority of patients.
+Current guidelines include strategies to detect cancers of the breast, thyroid, endometrium, and colorectum in a timely manner [18]. We agree with Tan et al. [4] that clinical guidelines should be changed according to the results of the recent studies, including the present study. Patients and physicians should be aware of the risk of tumours other than those in the well-known Cowden tumour spectrum and screening protocols could be changed to incorporate these. Future studies should also focus on the development of agents that inhibit the PI3K/Akt/mTOR pathway for potential treatment for this condition [19­21].
+In conclusion, our study confirms that PHTS patients have a substantially increased risk of developing several types of cancer, compared with the general population, more pronounced in women than in men. At present, no evident association of mutation site and cancer risk has been found.
+Conflict of interest The authors declare that they have no conflict of interest.
+References
+1. Eng C (2011) PTEN Hamartoma tumor syndrome (PHTS). In: Pagon RA, Bird TD, Dolan CR, Stephens K, (eds) GeneReviews [Internet]. Seattle (WA): University of Washington, Seattle; 1993­2001 Nov 29 [updated 2011 Jul 21]
+2. Lachlan KL, Lucassen AM, Bunyan D, Temple IK (2007) Cowden syndrome and Bannayan-Riley-Ruvalcaba syndrome represent one condition with variable expression and age-related
+
+123
+
+PTEN hamartoma tumor syndrome
+
+63
+
+penetrance: results of a clinical study of PTEN mutation carriers. J Med Genet 44:579­585 3. Riegert-Johnson DL, Gleeson FC, Roberts M, Tholen K, Youngborg L, Bullock M, Boardman LA (2010) Cancer and Lhermitte-Duclos disease are common in Cowden syndrome patients. Hered Cancer Clin Pract 8:6 4. Tan MH, Mester JL, Ngeow J, Rybicki LA, Orloff MS, Eng C (2010) Lifetime cancer risks in individuals with germline PTEN mutations. Clin Cancer Res 18:400­407 5. Bonneau D, Longy M (2000) Mutations of the human PTEN gene. Hum Mut 16:109­122 6. Zhang S, Yu D (2010) PI (3) king apart PTEN's role in cancer. Clin Cancer Res 16:4325­4330 7. Patnaik MM, Raza SS, Khambatta S, Stanich PP, Goetz MP (2010) Oncophenotypic review and clinical correlates of phosphatase and tensin homolog on chromosome 10 hamartoma tumor syndrome. J Clin Oncol 28:e767­e768 8. Wang H, Karikomi M, Naidu S, Rajmohan R, Caserta E, Chen HZ, Rawahneh M, Moffitt J, Stephens JA, Fernandez SA, Weinstein M, Wang D, Sadee W, La Perle K, Stromberg P, Rosol TJ, Eng C, Ostrowski MC, Leone G (2010) Allele-specific tumor spectrum in Pten knockin mice. Proc Natl Acad Sci USA 107:5142­5147 9. Alimonti A, Carracedo A, Clohessy JG, Trotman LC, Nardella C, Egia A, Salmena L, Sampieri K, Haveman WJ, Brogi E, Richardson AL, Zhang J, Pandolfi PP (2010) Subtle variations in Pten dose determine cancer susceptibility. Nat Genet 42:454­458 10. Tan MH, Mester J, Peterson C, Yang Y, Chen JL, Rybicki LA, Milas K, Pederson H, Remzi B, Orloff MS, Eng C (2011) A clinical scoring system for selection of patients for PTEN mutation testing is proposed on the basis of a prospective study of 3042 probands. Am J Hum Genet 88:42­56 11. Hollander MC, Blumenthal GM, Dennis PA (2011) PTEN loss in the continuum of common cancers, rare syndromes and mouse models. Nat Rev Cancer 11:289­301
+
+12. http://globocan.iarc.fr/ 13. Vlietstra RJ, van Alewijk DC, Hermans KG, van Steenbrugge GJ,
+Trapman J (1998) Frequent inactivation of PTEN in prostate cancer cell lines and xenografts. Cancer Res 58:2720­2723 14. Nowak DA, Trost HA (2002) Lhermitte-Duclos disease (dysplastic cerebellar gangliocytoma): a malformation, hamartoma, or neoplasm? Acta Neurol Scand 105:137­145 15. Lok C, Viseux V, Avril MF, Richard MA, Gondry-Jouet C, Deramond H, Desfossez-Tribout C, Courtade S, Delaunay M, Piette F, Legars D, Dreno B, Sa¨iag P, Longy M, Lorette G, Laroche L, Caux F, Cancerology Group of the French Society of Dermatology (2005) Brain magnetic resonance imaging in patients with Cowden syndrome. Medicine (Baltimore) 84:129­ 136 16. Laury AR, Bongiovanni M, Tille JC, Kozakewich H, Nose´ V (2011) Thyroid pathology in PTEN-hamartoma tumor syndrome: characteristic findings of a distinct entity. Thyroid 21:135­144 17. Orloff MS, Eng C (2008) Genetic and phenotypic heterogeneity in the PTEN hamartoma tumour syndrome. Oncogene 41:5387­ 5397 18. www.nccn.org, Clinical practice guidelines in oncology: genetic/ familial high-risk assessment: breast and ovarian, version 1.2011 19. LoPicollo J, Ballas MS, Dennis PA (2007) PTEN hamartomatous tumor syndromes (PHTS): rare syndromes with great relevance to common cancers and targeted drug development. Crit Rev Oncol Hematol 63:203­214 20. Iacobas I, Burrows PE, Adams DM, Sutton VR, Hollier LH, Chintagumpala MM (2011) Oral rapamycin in the treatment of patients with hamartoma syndromes and PTEN mutation. Pediatr Blood Cancer 57:321­323 21. Zhou XP, Marsh DJ, Morrison CD, Chaudhury AR, Maxwell M, Reifenberger G, Eng C (2003) Germline inactivation of PTEN and dysregulation of the phophoinositol-3-kinase/Akt pathway cause human Lhermitte-Duclos disease in adults. Am J Hum Genet 73:1191­1198
+
+123
+
+

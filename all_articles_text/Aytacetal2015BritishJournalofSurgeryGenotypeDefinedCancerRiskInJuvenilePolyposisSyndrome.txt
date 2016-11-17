@@ -1,0 +1,191 @@
+Original article
+Genotype-defined cancer risk in juvenile polyposis syndrome
+E. Aytac1, B. Sulu1, B. Heald2,3, M. O'Malley1, L. LaGuardia1, F. H. Remzi1, M. F. Kalady1,3, C. A. Burke3,4 and J. M. Church1
+1Department of Colorectal Surgery, 2Genomic Medicine Institute, 3Taussig Cancer Institute and 4Department of Gastroenterology and Hepatology, Sanford R. Weiss, M.D. Center for Hereditary Colorectal Neoplasia, Digestive Disease Institute, Cleveland Clinic, Cleveland, Ohio, USA
+Correspondence to: Dr J. M. Church, Department of Colorectal Surgery, Cleveland Clinic Foundation, 9500 Euclid Avenue A30, Cleveland, Ohio 44195, USA (e-mail: churchj@ccf.org)
+Background: Germline mutations in SMAD4 and BMPR1A disrupt the transforming growth factor  signal transduction pathway, and are associated with juvenile polyposis syndrome. The effect of genotype on the pattern of disease in this syndrome is unknown. This study evaluated the differential impact of SMAD4 and BMPR1A gene mutations on cancer risk and oncological phenotype in patients with juvenile polyposis syndrome. Methods: Patients with juvenile polyposis syndrome and germline SMAD4 or BMPR1A mutations were identified from a prospectively maintained institutional registry. Medical records were reviewed and the clinical patterns of disease were analysed. Results: Thirty-five patients had germline mutations in either BMPR1A (8 patients) or SMAD4 (27). Median follow-up was 11 years. Colonic phenotype was similar between patients with SMAD4 and BMPR1A mutations, whereas SMAD4 mutations were associated with larger polyp numbers (number of patients with 50 or more gastric polyps: 14 versus 0 respectively). The numbers of patients with rectal polyps was comparable between BMPR1A and SMAD4 mutation carriers (5 versus 17). No patient was diagnosed with cancer in the BMPR1A group, whereas four men with a SMAD4 mutation developed gastrointestinal (3) or extraintestinal (1) cancer. The gastrointestinal cancer risk in patients with juvenile polyposis syndrome and a SMAD4 mutation was 11 per cent (3 of 27). Conclusion: The SMAD4 genotype is associated with a more aggressive upper gastrointestinal malignancy risk in juvenile polyposis syndrome.
+Preliminary results presented to the Annual Meeting of the American Society of Colon and Rectal Surgeons, Hollywood, Florida, USA, May 2014; published in abstract form as Dis Colon Rectum 2014; 57: e136­e137
+Paper accepted 2 October 2014 Published online 12 November 2014 in Wiley Online Library (www.bjs.co.uk). DOI: 10.1002/bjs.9693
+
+Introduction
+Juvenile polyposis syndrome (JPS) is a clinically and genetically heterogeneous condition characterized by predisposition to hamartomatous polyps in the gastrointestinal tract1. Polyps can be found in the stomach, small intestine, colon and rectum2. In the majority of patients with JPS, germline mutations in one of two genes involved in the transforming growth factor (TGF)  signal transduction pathway can be identified: SMAD4 or BMPR1A (bone morphogenetic protein receptor type Ia)3­5. In addition to intestinal hamartomatous polyposis, approximately 20 per cent of affected patients have congenital anomalies, including heart defects, cleft lip or palate and malrotation6. Hereditary haemorrhagic telangiectasia (HHT) is usually
+
+seen only in patients with JPS who have a SMAD4 mutation7, and has been described as the JPS­HHT overlap syndrome8. Epistaxis and asthma are the most common symptoms in patients with JPS­HHT overlap9. Recent reports9,10 showed an association between mutations in
+SMAD4 and BMPR1A and gastrointestinal cancer, as well
+as profuse polyposis. The cumulative lifetime risk of gas-
+trointestinal cancer in patients with JPS varies between 9 and 50 per cent10,11. However, little is known about the way
+in which gastrointestinal phenotype, cancer development
+and oncological outcomes vary according to genotype in patients with JPS12. This study investigated the impact
+of genotype on cancer risk and oncological phenotype
+in patients with JPS with a SMAD4 or BMPR1A gene
+mutation.
+
+© 2014 BJS Society Ltd Published by John Wiley & Sons Ltd
+
+BJS 2015; 102: 114­118
+
+Genotype and cancer risk in juvenile polyposis
+
+115
+
+Methods
+After obtaining approval from the institutional review board (IRB), patients with JPS were identified from the IRB-approved, prospectively maintained David G. Jagelman Inherited Colorectal Cancer Registries in the Sanford R. Weiss, M.D. Center for Hereditary Colorectal Neoplasia. Only patients who had either a SMAD4 or BMPR1A mutation were included. Patients who had not undergone genetic testing or in whom no germline mutation could be identified were excluded. Medical records were reviewed to obtain information on cancer history, patient characteristics, operations, and gastric and colonic polyp counts. The development of cancer and dysplastic gastrointestinal polyps in any part of the body was noted. Colorectal and gastric polyposis phenotype was graded (less than 50 polyps, 50 or more polyps) based on the highest polyp number detected during surveillance.
+In the authors' clinical practice, intervals of endoscopic surveillance vary between 1 and 3 years according to disease phenotype. Genetic testing is recommended to all patients at the time of genetic counselling. Total colectomy with ileorectal anastomosis is warranted if severe colonic polyposis with mild rectal involvement (20 or fewer polyps) is present. When the whole colon and rectum is severely affected, total proctocolectomy with ileal pouch­anal anastomosis (IPAA) is indicated7.
+Statistical analysis
+Continuous data are reported as median (range). Comparisons of SMAD4 and BMPR1A groups were performed using 2 or Fisher's exact tests for categorical data, and the Wilcoxon rank sum test for quantitative data. A level of  = 005 was used to establish statistical significance of individual P values.
+Results
+Thirty-five patients with JPS had either a BMPR1A (8) or SMAD4 (27) mutation. All patients except one with a SMAD4 mutation had the clinical characteristics of JPS13.
+
+The patient with no clinical signs of JPS had a family history of JPS­HHT overlap syndrome. His genetic test was performed at age 3 years and he had been under surveillance for 6 years. He had been diagnosed with an intrapulmonary shunt, suggesting an arteriovenous malformation.
+Four patients in the BMPR1A group were related to two families and 20 patients in the SMAD4 group were related to six families. The other patients were not related. Median age at the time of diagnosis was 17 (3­65) years. Overall median follow-up after diagnosis of JPS was 11 (1­33) years. Age, sex, family history and follow-up were comparable between the genotypes (Table 1).
+Disease phenotype
+Colonic phenotype was similar between the BMPR1A and SMAD4 genotypes (3 versus 14 patients respectively with at least 50 polyps, 5 versus 11 patients with 1­49 polyps, 0 versus 1 patient with no polyps, 0 versus 1 patient with unknown gastrointestinal phenotype; P = 0683), as was the number of patients with rectal polyps (5 versus 17 respectively; P > 0999). However, SMAD4 mutations were associated with higher gastric polyp numbers (0 versus 14 patients in BMPR1A and SMAD4 groups respectively with at least 50 polyps, 5 versus 9 patients with 1­49 polyps, 0 versus 1 patient with no polyps, 3 versus 3 patients with unknown gastrointestinal phenotype; P = 0041).
+The numbers of tubular (3 versus 7 in BMPR1A and SMAD4 groups; P = 0661) and tubulovillous (0 versus 3 respectively; P > 0999) adenomas removed endoscopically during follow-up were similar between the groups. High-grade dysplasia was rare, found in one patient in each genotype group (P = 0410).
+In addition to routine lower gastrointestinal tract endoscopy, 13 capsule endoscopies, two push enteroscopies and one balloon enteroscopy were performed. Small bowel juvenile polyps were diagnosed in 14 patients with SMAD4 and two with BMPR1A mutations (P = 0244). Locations of the small bowel polyps were: duodenum (7 patients; range 02­25 cm), jejunum (1 patient; multiple, range 05­07 cm), ileum (3 patients; range 02­08 cm) and unknown location (4 patients; size unknown). One patient
+
+Table 1 Demographic and disease data
+
+Overall (n = 35)
+
+BMPR1A (n = 8)
+
+SMAD4 (n = 27)
+
+Age at time of diagnosis (years)* Sex ratio (F : M) Family history of JPS Follow-up after diagnosis (years)* Cancer-related death
+
+17 (3­65) 14 : 21 29
+11 (1­33) 3
+
+18 (12­20) 4:4 5
+6 (1­23) 0
+
+17 (3­65) 10 : 17 24
+11 (1­33) 3
+
+*Values are median (range). JPS, juvenile polyposis syndrome. Fisher's exact test, except Wilcoxon rank sum test.
+
+P
+0925 0511 0117 0193 > 0999
+
+© 2014 BJS Society Ltd Published by John Wiley & Sons Ltd
+
+www.bjs.co.uk
+
+BJS 2015; 102: 114­118
+
+116 E. Aytac, B. Sulu, B. Heald, M. O'Malley, L. LaGuardia, F. H. Remzi et al.
+
+Table 2 Primary and secondary operations for polyps
+
+No gastrointestinal surgery* Primary colorectal operation
+RP-IPAA Subtotal/total colectomy Segmental colectomy Total gastrectomy Secondary colorectal operation RP-IPAA Transanal excision
+
+Overall (n = 35)
+11
+5 13
+2 7
+3 1
+
+BMPR1A (n = 8)
+3
+3 2 0 0
+0 0
+
+SMAD4 (n = 27)
+8
+2 11
+2 7
+3 1
+
+P§ 0686 0102
+0166 ­
+
+*One patient with a SMAD4 mutation underwent orchidectomy and right frontal mass excision, but no gastrointestinal resection. Three patients had total gastrectomy and colonic resection. Low rectal polyp excision for low-grade dysplasia with coexisting neuroendocrine tumour. RP-IPAA, restorative proctocolectomy with ileal pouch­anal anastomosis. §Fisher's exact test.
+
+Table 3 Patient characteristics and follow-up of SMAD4 mutation carriers with cancer
+
+No. of patients*
+
+Age at time of cancer diagnosis (years) Follow-up (years)
+After diagnosis of JPS After diagnosis of cancer Additional gastrointestinal disorder Ulcerative colitis Operations before diagnosis of cancer Subtotal colectomy Ileocolectomy Types and stages of cancer Rectal neuroendocrine tumour (T2; G1 in WHO 2010
+classification) and gastric adenocarcinoma (stage IV) Gastric carcinoma (stage IV) Small bowel adenocarcinoma (stage IV) Testicular tumour (stage I) and oligoastrocytoma (WHO grade II) Operations performed with curative intent Partial-thickness transanal local excision Right orchidectomy and complete excision of oligoastrocytoma Palliative surgery Small bowel resection and omentectomy
+
+38 (29­70) 15 (2­33)
+2 (1­3) 1 2 1 1
+1 1 1
+1 1
+1
+
+*Unless indicated otherwise; values are median (range). JPS, juvenile polyposis syndrome; WHO, World Health Organization. No patient with a BMPR1A mutation was diagnosed with cancer.
+
+had small bowel polyps in both the duodenum (02 cm) and jejunum (05 cm). One patient was diagnosed with a juvenile polyp located at the cricopharyngeus (11 cm).
+
+Operations
+The number of operations performed was comparable between patients with BMPR1A and SMAD4 mutations (Table 2). Most patients underwent a restorative
+
+proctocolectomy or a subtotal/total colectomy to control colonic polyposis. In two patients with a SMAD4 mutation a right colectomy and a transverse colectomy were performed for tubulovillous adenomas that could not be excised endoscopically. Total gastrectomy was carried out in seven patients with a SMAD4 mutation, but no patient with a BMPR1A mutation. Indications for gastrectomy were chronic anaemia (3), severe polyposis (3) and dysplasia (1). One patient in the BMPR1A group underwent adhesiolysis and a small bowel resection 7 years after IPAA surgery owing to adhesive bowel disease.
+Cancer phenotype
+No patient with a BMPR1A mutation was diagnosed with cancer, but four men with a SMAD4 mutation developed cancer (Table 3). Two parents were followed up at an outside clinic until the diagnosis of cancer, whereas the others were under surveillance in the authors' institution. The gastrointestinal cancer risk in patients with JPS and a SMAD4 mutation was 11 per cent (3 of 27).
+Discussion
+Previous studies have shown that JPS carries a 50 per cent cumulative lifetime risk of developing colorectal and/or gastric cancer11,14. An association between colorectal cancer and BMPR1A mutation has been shown by the St Vincent's Hospital Group in Dublin4 and others15. The present study did not confirm these findings, because patients had successful prophylaxis and surveillance; here, extracolonic cancers were found only in patients with a SMAD4 mutation. This is in keeping with a generally more severe upper gastrointestinal polyp phenotype associated with a germline SMAD4 but not with a germline BMPR1A mutation.
+
+© 2014 BJS Society Ltd Published by John Wiley & Sons Ltd
+
+www.bjs.co.uk
+
+BJS 2015; 102: 114­118
+
+Genotype and cancer risk in juvenile polyposis
+
+117
+
+BMPR1A mediates the growth-suppressing TGF- signal transduction pathway, a key intermediary of which is SMAD44,5,16. The importance of SMAD4 in preventing carcinogenesis was first suggested by Vogelstein and colleagues17­19 in 1988; although there are some reports to the contrary20, it is suggested that an allelic imbalance at the SMAD4/DPC4 gene locus may play a key role in the progression of sporadic colorectal carcinoma21. It is not surprising, therefore, that adenomatous polyps can occur in patients with JPS5,22,23, or that 8 per cent of polyps sent to pathology from patients with JPS are dysplastic12. There are no high-quality trials of polyp surveillance in JPS24, but there are some reports of reduced incidence25 and mortality26 from colorectal cancer following polypectomy. The present data show equivalence of colorectal polyposis between the two major JPS genotypes.
+As with familial adenomatous polyposis, the small intestine is at risk of cancer in JPS. Polyps and cancer can originate from the small bowel or ileal pouch in patients who have undergone gastrectomy or IPAA27­29. Complete small bowel imaging is not part of routine surveillance in JPS12. The authors generally reserve use of small bowel studies for patients who are symptomatic during surveillance. Although one patient with a SMAD4 mutation developed a small bowel cancer in this series, this is not enough to make any comment about differences in small bowel cancer risk associated with genotype.
+The main finding of the present study was the predominance of severe gastric polyposis in SMAD4 mutation carriers. This translated into gastric cancer in two patients and a disproportionate incidence of gastrectomy among SMAD4 mutation carriers. Considering the similar findings of previous studies12 reporting increased risk of gastric polyposis and tendency for gastric cancer development in patients with JPS and SMAD4 mutation, one implication of the present study is that upper gastrointestinal surveillance may be tailored according to genotype. This is already the case for HHT7,12. When indicated by profuse, uncontrollable or rapidly increasing polyposis, prophylactic or therapeutic total gastrectomy and total proctocolectomy may eliminate the risk of gastric and colorectal cancer. This is extreme, and it does not totally eliminate cancer risk.
+Limitations of this study include its retrospective nature and small patient numbers. However, it has been shown that judicious surgery and effective surveillance can prevent colorectal cancer over a median follow-up of 11 years. This allows extracolonic cancers to develop; five such tumours are reported here, all of which were found in SMAD4 mutation carriers who also had more severe gastric polyposis.
+
+Acknowledgements
+This study was supported by the Ed and Joey Story Endowed Chair in Colorectal Surgery. Disclosure: The authors declare no conflict of interest.
+References
+1 Chow E, Macrae F. A review of juvenile polyposis syndrome. J Gastroenterol Hepatol 2005; 20: 1634­1640.
+2 Desai DC, Neale KF, Talbot IC, Hodgson SV, Phillips RK. Juvenile polyposis. Br J Surg 1995; 82: 14­17.
+3 Oncel M, Church JM, Remzi FH, Fazio VW. Colonic surgery in patients with juvenile polyposis syndrome: a case series. Dis Colon Rectum 2005; 48: 49­56.
+4 O'Riordan JM, O'Donoghue D, Green A, Keegan D, Hawkes LA, Payne SJ et al. Hereditary mixed polyposis syndrome due to a BMPR1A mutation. Colorectal Dis 2010; 12: 570­573.
+5 Jass JR. Colorectal polyposes: from phenotype to diagnosis. Pathol Res Pract 2008; 204: 431­447.
+6 Desai DC, Murday V, Phillips RK, Neale KF, Milla P, Hodgson SV. A survey of phenotypic features in juvenile polyposis. J Med Genet 1998; 35: 476­481.
+7 O'Malley M, LaGuardia L, Kalady MF, Parambil J, Heald B, Eng C et al. The prevalence of hereditary hemorrhagic telangiectasia in juvenile polyposis syndrome. Dis Colon Rectum 2012; 55: 886­892.
+8 Gallione CJ, Repetto GM, Legius E, Rustgi AK, Schelley SL, Tejpar S et al. A combined syndrome of juvenile polyposis and hereditary haemorrhagic telangiectasia associated with mutations in MADH4 (SMAD4). Lancet 2004; 363: 852­859.
+9 Iyer NK, Burke CA, Leach BH, Parambil JG. SMAD4 mutation and the combined syndrome of juvenile polyposis syndrome and hereditary haemorrhagic telangiectasia. Thorax 2010; 65: 745­746.
+10 Howe JR, Roth S, Ringold JC, Summers RW, Järvinen HJ, Sistonen P et al. Mutations in the SMAD4/DPC4 gene in juvenile polyposis. Science 1998; 280: 1086­1088.
+11 Coburn MC, Pricolo VE, DeLuca FG, Bland KI. Malignant potential in intestinal juvenile polyposis syndromes. Ann Surg Oncol 1995; 2: 386­391.
+12 Latchford AR, Neale K, Phillips RK, Clark SK. Juvenile polyposis syndrome: a study of genotype, phenotype, and long-term outcome. Dis Colon Rectum 2012; 55: 1038­1043.
+13 Brosens LA, Langeveld D, van Hattem WA, Giardiello FM, Offerhaus GJ. Juvenile polyposis syndrome. World J Gastroenterol 2011; 17: 4839­4844.
+14 Howe JR, Mitros FA, Summers RW. The risk of gastrointestinal carcinoma in familial juvenile polyposis. Ann Surg Oncol 1998; 5: 751­756.
+15 Ando T, Sugai T, Habano W, Jiao YF, Suzuki K. Analysis of SMAD4/DPC4 gene alterations in multiploid colorectal carcinomas. J Gastroenterol 2005; 40: 708­715.
+
+© 2014 BJS Society Ltd Published by John Wiley & Sons Ltd
+
+www.bjs.co.uk
+
+BJS 2015; 102: 114­118
+
+118 E. Aytac, B. Sulu, B. Heald, M. O'Malley, L. LaGuardia, F. H. Remzi et al.
+
+16 Zhou XP, Woodford-Richens K, Lehtonen R, Kurose K, Aldred M, Hampel H et al. Germline mutations in BMPR1A/ALK3 cause a subset of cases of juvenile polyposis syndrome and of Cowden and Bannayan­Riley­Ruvalcaba syndromes. Am J Hum Genet 2001; 69: 704­711.
+17 Vogelstein B, Fearon ER, Hamilton SR, Kern SE, Preisinger AC, Leppert M et al. Genetic alterations during colorectal-tumor development. N Engl J Med 1988; 319: 525 ­ 532.
+18 Thiagalingam S, Lengauer C, Leach FS, Schutte M, Hahn SA, Overhauser J et al. Evaluation of candidate tumour suppressor genes on chromosome 18 in colorectal cancers. Nat Genet 1996; 13: 343­346.
+19 Riggins GJ, Kinzler KW, Vogelstein B, Thiagalingam S. Frequency of Smad gene mutations in human cancers. Cancer Res 1997; 57: 2578­2580.
+20 Miyaki M, Kuroki T. Role of Smad4 (DPC4) inactivation in human cancer. Biochem Biophys Res Commun 2003; 306: 799 ­ 804.
+21 Roth S, Laiho P, Salovaara R, Launonen V, Aaltonen LA. No SMAD4 hypermethylation in colorectal cancer. Br J Cancer 2000; 83: 1015­1019.
+22 Brazowski E, Rozen P, Misonzhnick-Bedny F, Gitstein G. Characteristics of familial juvenile polyps expressing cyclooxygenase-2. Am J Gastroenterol 2005; 100: 130­138.
+23 Hood B, Bigler S, Bishop P, Liu H, Ahmad N, Renault M et al. Juvenile polyps and juvenile polyp syndromes in
+
+children: a clinical and endoscopic survey. Clin Pediatr (Phila) 2011; 50: 910­915. 24 Lieberman DA, Rex DK, Winawer SJ, Giardiello FM, Johnson DA, Levin TR; United States Multi-Society Task Force on Colorectal Cancer. Guidelines for colonoscopy surveillance after screening and polypectomy: a consensus update by the US Multi-Society Task Force on Colorectal Cancer. Gastroenterology 2012; 143: 844­857. 25 Winawer SJ, Zauber AG, Ho MN, O'Brien MJ, Gottlieb LS, Sternberg SS et al. Prevention of colorectal cancer by colonoscopic polypectomy. The National Polyp Study Workgroup. N Engl J Med 1993; 329: 1977­1981. 26 Zauber AG, Winawer SJ, O'Brien MJ, Lansdorp-Vogelaar I, van Ballegooijen M, Hankey BF et al. Colonoscopic polypectomy and long-term prevention of colorectal-cancer deaths. N Engl J Med 2012; 366: 687­696. 27 Ynson ML, Senatore F, Dasanu CA. What are the latest pharmacotherapy options for small bowel adenocarcinoma? Expert Opin Pharmacother 2014; 15: 745­748. 28 Haselkorn T, Whittemore AS, Lilienfeld DE. Incidence of small bowel cancer in the United States and worldwide: geographic, temporal, and racial differences. Cancer Causes Control 2005; 16: 781­787. 29 Sene A, Thomas PE, Gautam V, Andrews NJ, McMahon RF, Taylor TV. Juvenile polyp in an ileoanal J pouch following restorative proctocolectomy for juvenile polyposis coli. Br J Surg 1989; 76: 801.
+
+© 2014 BJS Society Ltd Published by John Wiley & Sons Ltd
+
+www.bjs.co.uk
+
+BJS 2015; 102: 114­118
+
+

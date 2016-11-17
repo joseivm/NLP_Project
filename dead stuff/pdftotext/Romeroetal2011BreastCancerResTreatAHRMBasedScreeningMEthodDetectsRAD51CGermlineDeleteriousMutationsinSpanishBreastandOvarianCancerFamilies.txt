@@ -1,0 +1,310 @@
+Breast Cancer Res Treat (2011) 129:939­946 DOI 10.1007/s10549-011-1543-x
+EPIDEMIOLOGY
+A HRM-based screening method detects RAD51C germ-line deleterious mutations in Spanish breast and ovarian cancer families
+Atocha Romero · Pedro Pe´rez-Segura · Alicia Tosar · Jose´ A´ ngel Garc´ia-Saenz · Eduardo D´iaz-Rubio · Trinidad Calde´s · Miguel de la Hoya
+
+Received: 27 January 2011 / Accepted: 20 April 2011 / Published online: 3 May 2011 Ó Springer Science+Business Media, LLC. 2011
+
+Abstract The RAD51C gene has been recently proposed as a high-penetrance breast and ovarian cancer gene. However, early replication studies have failed to confirm the finding. Thus, further studies in larger cohorts should be conducted in order to clarify the role of RAD51C as a cancer susceptibility gene. Here, we describe a high-resolution melting analysis (HRMA)-based method developed for presequence screening of RAD51C sequence variants. We have screened RAD51C sequence variants by HRMA in 492 breast cancer patients with family history of breast and/or ovarian cancer that were previously tested negative for BRCA1/2. All variants were confirmed by direct sequencing. We have detected 12 different RAD51C germline sequence variants, including eight transitions, two transversion, and two indels (insA, and delT). All these variants generated melting profiles which differ from wild type homozygous controls. Interestingly, we have identified one clearly pathogenic mutation (c.774delT) in the subset of 101 breast and ovarian cancer families, supporting that RAD51C is a human breast and ovarian cancer susceptibility gene.
+Electronic supplementary material The online version of this article (doi:10.1007/s10549-011-1543-x) contains supplementary material, which is available to authorized users.
+A. Romero Á A. Tosar Á E. D´iaz-Rubio Á T. Calde´s (&) Á M. de la Hoya (&) Laboratorio de Oncolog´ia Molecular, Planta baja sur. Hospital Cl´inico San Carlos, c/Mart´in Lagos s/n, 28040 Madrid, Spain e-mail: tcaldes.hcsc@salud.madrid.org
+M. de la Hoya e-mail: mdhoya@hotmail.com
+P. Pe´rez-Segura Á J. A´ . Garc´ia-Saenz Á E. D´iaz-Rubio Servicio de Oncolog´ia Me´dica, Hospital Cl´inico San Carlos, Madrid, Spain
+
+Keywords RAD51C Á HRM Á Hereditary breast and ovarian cancer Á Germ-line mutation
+Introduction
+Family history is a well-established risk factor for breast cancer development. Germ-line deleterious mutations in the breast cancer susceptibility genes BRCA1 (OMIM 113705) and BRCA2 (OMIM 600185) explain approximately one-half of all hereditary breast cancer cases attending familial cancer clinics. The risk of breast cancer in TP53 (OMIM 191770) and PTEN (OMIM 601728) mutation carriers is very high. However, germ-line alterations in these genes do not cause hereditary breast cancer syndrome, but Li-Fraumeni syndrome and Cowden disease [1, 2]. Other breast cancer susceptibility genes such as CHEK2 (OMIM 604373), BRIP1 (OMIM 605882), and PALB2 (OMIM 610355) are considered moderate penetrance genes not causing hereditary syndromes [3­5]. Nevertheless, the proportion of breast cancer families that can be explained by these genes is very low. Numerous studies have been conducted in order to identify breast cancer hereditary syndrome genes others than BRCA1/2, although with little success [6, 7].
+Recently, Meindl et al. identified biallelic RAD51C mutations in a Fanconi anemia-like disorder [8]. Since monoallelic mutations in some Fanconi anemia (FA) genes increase breast cancer risk, [4, 5] the authors investigated whether monalleic mutations in RAD51C confer such phenotype. For that purpose, they screened RAD51C germline nucleotide alterations in 1,100 unrelated affected women from pedigrees with hereditary breast and/ovarian cancer that were previously negative for mutations in BRCA1/2, identifying deleterious mutations segregating in
+
+123
+
+940 Breast Cancer Res Treat (2011) 129:939­946
+
+six families [9]. Their data suggest that RAD51C might be a truly high-penetrance breast and ovarian cancer gene resembling BRCA1/2 in that nearly complete segregation is observed. Interestingly, they identified all deleterious mutations in the subset of 480 families with both breast and ovarian cancer cases [9]. Two replication studies were soon published [10, 11]. Both failed to identify clearly deleterious RAD51C germ-line alterations. Thus, further studies in larger cohorts of different ethnicities should be conducted to best characterize the role of RAD51C as a breast/ ovarian cancer susceptibility gene. Moreover, in order to estimate the risk conferred by this gene, and thus the clinical implications of carrying a germ-line mutation, it is mandatory to identify a large number of RAD51C families. To facilitate these studies, we have developed a RAD51C presequence screening method based on high resolution melting analysis (HRMA).
+In the present study, we describe the method, and we report the identification of a novel RAD51C deleterious mutation (c.774delT, p.Arg258fs) in one out of 492 Spanish breast and/or ovarian cancer families investigated, thus replicating previous findings by Meindl et al. [9].
+Materials and methods
+Study population and DNA samples
+492 unrelated women attending the familial cancer clinic at Hospital Clinico San Carlos, Madrid, Spain from 1998 to 2010, who were referred for BRCA1 and BRCA2 genetic testing due to a personal and family history of breast and/or ovarian cancer compatible with a hereditary syndrome. Most women reported Spanish ancestry, although various other ancestries are also present in our cohort. The cohort included:
+­ Women diagnosed of breast cancer at age 35 or younger with no family history (N = 34). Most of these women were selected for genetic testing because of their limited family structures [12].
+­ Women diagnosed of breast and/or ovarian cancer at age 50 or younger, with one first degree relative diagnosed of breast and/or ovarian cancer at any age (N = 168). In 34 of these families, at least one ovarian cancer case was present.
+­ Women diagnosed of breast and/or ovarian cancer at age 50 or younger, with a minimum of two additional breast and/or ovarian cancer cases diagnosed at any age in two generations of the same parental branch (N = 290). In 67 of these families, at least one ovarian cancer was present.
+After comprehensive BRCA1 and BRCA2 genetic testing (full coding sequence, intron/exon boundaries, and genomic
+
+rearrangements), all 492 women were considered negative for the presence of germ-line mutations [13­15].
+DNA was obtained from blood leukocytes with MagNA Pure LC Total Nucleic Acid Extraction kit and a MagNA Pure LC instrument (Roche Diagnostics, Penzberg, Germany). All samples were diluted with deionised water to a final concentration of 25 ng/ll.
+The study was approved by the Ethics Committee of Hospital Clinico San Carlos, Madrid and all patients signed an informed consent to participate in the study.
+HRMA-based RAD51C presequence screening
+RAD51C specific primers were designed with Primer3 software with default settings [16]. We designed amplicons in the 150­250 bp size range, as amplicons of this size are expected to perform well in HRMA-based presequence screening [17]. Our method targets the 9 RAD51C coding exons present in Ensemble transcript ID INST00000337432 (1,131 bp of coding sequence) plus the corresponding exon/intron boundaries. We used GRCh37 (Ensemble release 60) as the reference sequence for the RAD51C genomic region (GRCh37:17:56769334: 56812303:1). To avoid primers overlapping polymorphic sites, we imported from dbSNP 131 all SNPs and indels reported in CEU population (May 2010).
+Initially, 12 RAD51C specific amplicons were designed. For exons 1, 4, 6, 7, 8, and 9 we used single amplicons, while exons 2, 3, and 5 were divided into two overlapping fragments in order to obtain PCR products of the desired size. In silico primers specificity was checked with Basic Local Alignment Search Tool (BLAST) form NCBI [18].
+PCR amplification and high resolution melting analysis (HRMA) were carried out in a LightCycler 480 Instrument (Roche Diagnostics, Penzberg, Germany) with a 96-well thermal block. All assays were performed in 20 ll final volume reaction. Optimal PCR annealing temperatures (Ta) and MgCl2 concentrations were evaluated for each amplicon. In optimal conditions, agarose gel electrophoresis revealed the presence of a single PCR product of the expected size and no primer-dimmers. Direct sequencing confirmed specificity. In brief, optimal PCR reactions contained 25 ng of genomic DNA, forward and reverse HPLC purified primers 0.5 lM each, 3 mM MgCl2 (6 mM for amplicon 9), and 19 LightCycler 480 High Resolution Melting Master Mix (Roche Diagnostics, Penzberg, Germany). Thermal cycling consisted of an initial 10-min hold at 95°C, followed by 10-second hold at 95°C, 10-second hold at the indicated Ta (Table 1), and 10-second hold at 72°C for 45 cycles. Finally, heteroduplexes were generated by adding a step at 95°C for 1 min and cooling the reaction to 40°C (Ramp rate of 2.2°C/s).
+
+123
+
+Breast Cancer Res Treat (2011) 129:939­946
+
+941
+
+Table 1 RAD51C HRM primers Exon Amplicon Forward primer
+
+Reverse primer
+
+Size (bp) Ta (cycles)a
+
+11 2 2A
+2B 3 3A
+3B 44 5 5A
+5B 66 77 88 99
+
+CCGGGGTTAGCAGGTGAG TGTTTCTCCACTCCTAGCATCA TGCTGGTACATCTGAGTCACAC TCATGATTTGGTTGTTTGTCATC GCAGTTGGCAGTAGATGTGC TGCCAATACATCCAAACAGG AACAAATCTAATATTATCTCTTCTGTA GGATGGTATTGCTTTTCCATT ATGGGGTTTCACAATCTTGG CCAAGTCAGTAAGGCCATATACA AATGAGTTTGGTCATCTGAACTTTT TCAGTCTTCAAATGTTCTTAAAGC
+
+AGGCGAGAGAACGAAGA GCTCCTGCTCAAGAAGTTCC CCCACCCTTAAAAGGAGAACA AATGCAGGCAGTAGCAAGGT AGGTCTCAGATGGGCACAAA CTTGGTTAGTTACATTTCAGTAGTCTG TGATTATTTGCAAGGCTGAT TCAGGCAAACGCTATTTTGA TCAATGAGAATCAAATGAAAGAGA CCACAGGACTAGCTCTAAGAAACC CCGCCCATCAATATCAAAAT CCACTTGTACACATTGATTTCACA
+
+247 253 212 163 236 221 155 206 225 195 182 222
+
+a Optimal annealing temperature (number of PCR cycles)
+
+60 (45) 62 (25) ? 58 (20) 60 (45) 65 (45) 65 (45) 60 (45) 60 (45) 62 (25) ? 58 (20) 60 (15) ? 55 (30) 62 (45) 60 (45) 60 (45)
+
+HRMA was performed in a 65 to 95°C melting gradient with a ramp rate of 0.04°C/s and continuous acquisition mode set at 25 acquisitions/°C, regardless of the amplicon analyzed. Melting curves were analyzed with LightCycler 480 Software version 1.5 which automatically normalized the melting curves. Temperatures at where initial and final fluorescence is set, which are used to normalize data, were checked by visualizing Melting Curves. Manual inspection of Normalized Melting Curves suggested that RAD51C amplicons performed well in HRM (Supplemental Data Figure 1). The only exception was amplicon 5A, for which a high dispersion was observed among samples (Supplemental Data Figure 2A). In our experience with HRMA, such dispersion is characteristic of microsatellite-containing fragments. Although Amplicon 5A does not contain any obvious microsatellite, we observed 3 short poly(dT) tracts clustered together at the 30 end of intron 4 (Supplemental Data Figure 2). To avoid these repetitive sequences, we designed a new forward primer closer to exon 5. The new Amplicon 5A performed well and dispersion was suppressed (Supplemental Data Figure 2B). As shown in Supplemental Data Figure 1, amplicon 9 contains 3 melting domains, a circumstance which may decrease sensitivity [17]. All primer sequences are detailed in Table 1.
+Samples were screened by direct comparison of the Normalized and Temp-Shifted Melting Curves. All samples with curves that differed in shape and/or melting temperature were considered as potential variant carriers and were directly sequenced for confirmation.
+Sequencing
+Samples were sequenced using the Big Dye Terminator v1.1 Cycle Sequencing Reaction kit (Applied Biosystems, Foster City, CA) according to the manufacturer's protocol.
+
+All sequence variants are named according to Human Genoma Variation Society (HGVS) nomenclature, using Ensemble transcript ID ENST00000337432 as a reference sequence.
+In silico predictions
+The severity of RAD51 missense changes was analyzed with PolyPhen [19]. Splice site analysis was performed with Human Splicing Finder [20]. In both cases, default settings were used.
+Results
+We have performed HRM-based RAD51C mutation scanning in 492 breast and/or ovarian patients attending the familial cancer clinic of our Hospital. In total, we have detected 12 different RAD51C germ-line sequence variants (Table 2), including 8 transitions (2 G[A, 3 A[G, and 3 T[C), two transversion (1 C[A, and 1 G[T),and two indels (insA, and delT). All sequence variants generated melting profiles which differ from wt homozygous controls both in melting temperature (Tm) and shape (Fig. 1, Supplemental Data Figures 1, 2, and 3). Moreover, if two or more variants were located in the same amplicon, different heterozygous genotypes produced clearly distinguishable melting profiles (Supplemental Data Figures 1 and 3). Amplicon 6 is of particular interest to show sensitivity and specificity of the assay. This amplicon permitted us to genotype the c.904?34T[C variant (rs28363318), since homozygous genotypes are easily discriminated (Supplemental Data Figure 3A). This variant is a common SNP in CEU population (MAF = 0.33). Genotype frequencies
+
+123
+
+942 Breast Cancer Res Treat (2011) 129:939­946
+
+Table 2 Germ-line RAD51C sequence variants identified in 492 Spanish breast and/or ovarian cancer families
+
+Location
+
+Sequence variant Nucleotide
+
+Protein
+
+Effect
+
+Previously described?a
+
+N
+
+Family phenotypeb
+
+Ex 1 Ex 1 Ex 1 IVS 1 Ex 2 Ex 3 IVS 3 Ex 4 Ex 5 Ex 6 Ex 6 IVS 6
+
+c.89C[A c.106G[A
+
+p.Ala30Glu p.Glu36Lys
+
+Unknown Unknown
+
+Novel Novel
+
+1 BC 1 BC
+
+c.134A[G
+
+p.Glu45Gly
+
+Unknown
+
+Novel
+
+1 BC
+
+c.146-67 dupA
+c.376G[A c.428A[G c.572-17G[T c.586T[C
+
+Intronic p.Ala126Thr p.Gln143Arg Intronic p.Leu196Leu
+
+Unknown Unknown Unknown Unknown Unknown
+
+Novel rs61758784 Novel novel Novel
+
+1 2d 1 4 1
+
+BOC BC BC BC BC
+
+c.774delT
+
+p.Arg258fs
+
+Deleterious
+
+Novel
+
+1 BOC
+
+c.859A[G c.869T[C c.904?34T[C
+
+p.Thr287Ala p.Ile290Thr Intronic
+
+Unknown Unknown Neutral
+
+rs28363317
+
+15
+
+BC/BOC
+
+Novel
+
+1 BC
+
+rs28363318 312 BC/BOC
+
+a dbSNP 130 (accessed 16/12/2010) and/or bibliography [9­11] b Breast cancer only (BC), at least one ovarian cancer (BOC) c Minor allele frequency not displayed for singletons d Carry c.572-17G[T e No frequency data
+
+MAFc This study
+0.002 0.004 0.015 0.390
+
+CEU
+­ ­ ­ ­ n.d.e ­ ­ ­ ­ 0.017 ­ 0.33
+
+were consistent with Hardy­Weinberg equilibrium (data not shown), supporting calling accuracy. Moreover, a second SNP (rs28363317) is detected with this amplicon. Heterozygous genotypes and double heterozygous genotypes are easily discriminated from each other (Supplemental Data Figure 3B). Finally, a new RAD51C variant was identified (c.869T[C), despite the presence of the two polymorphisms (Supplemental Data Figure 3C).
+Among the 12 RAD51C sequence variants identified in this study, nine represent novel changes, eight of them observed only once (i.e., singletons) (Table 2). With the exception of c.774delT (p.Arg258fs), a clearly deleterious mutation leading to frame-shift and premature protein termination, these novel variants should be considered of uncertain clinical significance. The c.774delT deleterious mutation was identified in a woman diagnosed of breast cancer at age 38. A moderated history of breast and ovarian cancer was observed both in the paternal and maternal branches (Fig. 1). Her father was Peruvian and her mother Swedish. We could genotype both parents. The mother, healthy at age 70, carried the mutation.
+We have identified in dbSNP130 (accessed 16/12/2010) 15 RAD51C sequence variants located in the region targeted by our assay. The scientific literature [9­11] reports 13 additional variants located in this region, most of them singletons. Only 3 of these 28 previously reported variants (rs61758784, rs28363317, and rs28363318) have MAF [0.005 in European ancestry populations (Table 3). We have detected all 3 variants in our cohort, supporting the sensitivity of the HRMA assay.
+
+Discussion
+The study by Meindl et al. [9] supporting a role for RAD51C in human breast and ovarian cancer susceptibility was conducted in 1,100 breast/ovarian families from Germany. Soon, replication studies conducted in 92 families recruited in Chicago, [10] and 480 families from Canada (100 patients reported to be Jewish, 152 French­ Canadian, and 202 of various other ethnic origins) [11] were reported. None of these two replication studies was able to confirm RAD51C as a breast and ovarian cancer susceptibility gene, as they did not detect any obvious deleterious mutation. In all three studies, RAD51C mutation screening was performed by direct sequencing.
+Based on its low cost, high-throughput, nondestructive nature, sensitivity, and specificity, HRMA is an increasingly popular technology to screen individuals for sequence variants [21­24]. In the present manuscript, we report the development of a HRMA-based presequence screening method which might facilitate large RAD51C mutation scanning efforts. Such studies are mandatory to assess the mutational frequency of this gene in different populations, as well as the clinical implications of carrying a RAD51C germ-line mutation.
+Overall, the RAD51C HRMA method we have developed seems to perform well, although the possibility exists that certain RAD51C variants are not detected. In particular, we should be cautious with exon 9 analysis since, in fragments contain more than two melting domains chances increase that not all variants are detected.
+
+123
+
+Breast Cancer Res Treat (2011) 129:939­946
+A
+43 y BC 40y
+B
+
+943
+
+41 y OC 36y
+C
+
+70 y 73 y 71 y 63 y 60 y
+
+c.774delT
+
+PC 63y OC 58y
+
+39 y
+BC 36y c.774delT
+
+Ovarian cancer Breast cancer Prostate cancer Glioma Colorectal cancer
+
+Fig. 1 Identification of a RAD51C-related breast/ovarian cancer family. a The RAD51C-related pedigree identified in this study. Both the index case (indicated by an arrow) and her mother carry the germ-
+
+line mutation. Nobody else has been tested. b RAD51C c.774delT detection by HRMA. c Sequence characterization of the germ-line mutation
+
+We have tested our method by conducting a search for RAD51C germ-line mutations in 492 breast and/or ovarian cancer patients with a family history of breast/ovarian cancer but without any BRCA1/2 mutation detected after comprehensive screening. Of these, only 101 patients have a family history of both breast and ovarian cancer, including 34 patients with only one affected female relative. The data is relevant since RAD51C was initially described by Meindl et al. as a predisposing gene for breast and ovarian cancer families but not for breast only families.
+Overall, we have identified one clearly deleterious mutation (c.774delT) in 492 families (0.2%). Meindl et al. identified 3 such mutations (c.224_225insA, 525_526insC, and c.145?1G[T) in 1,100 families (0.3%). As noted, Meindl et al. found all 3 mutations in the subset of 480 families with at least one ovarian cancer (0.6%), suggesting that RAD51C is an ovarian cancer susceptibility gene. Similarly, we have found the c.774delT mutation in the subset of 101 breast and ovary cancer families (1%). However, the mutation has not been tested in the ovarian cancer case, so the possibility of a phenocopy does exist.
+
+A combination of functional analysis permitted Meindl et al. [9] to identify 3 additional pathogenic mutations (c.904?5G[T, p.Gly125Val, and Leu138Phe), all of them in families with at least one ovarian cancer reported. We have detected ten variants that should be considered of uncertain significance (Table 2). Two variant, p.Ala126Thr and p.Thr287Ala, might be benign, as suggested by lack of association with cancer in case/control studies [9]. The remaining eight variants represent novel findings. At present, we cannot rule out that some of these variants represent true RAD51C deleterious mutations. In particular, p.Ala30Glu and p.Gln143Arg may have some clinical relevance, as they target evolutionally conserved residues (supplemental table 1). The p.Ala30Glu was identified in a breast cancer female, but diverse cancer cases were observed both in the maternal and parental branches. Interestingly, the p.Gln143Arg (a putative pathogenic mutation) was identified in a breast cancer only family (supplemental figure 4). Further studies are required to determine in what extent RAD51C mutations might occur in this type of families.
+
+123
+
+944 Breast Cancer Res Treat (2011) 129:939­946
+
+Table 3 Identification of RAD51C variants previously reported in other studies
+
+Amplicon Sequence variant
+
+MAFa
+
+CEUb YRIb CHBb PDR90b
+
+1 2A
+2B 3A/3B
+3B 4 5A/5B 5B 6
+7 8 9
+
+c.7G[A c.34C[T (rs28910276) c.145?1G[T c.146-8A[G c.150T[G (rs1127858) c.186A[G (rs28363303) c.195A[G (rs45511291)
+c.224_225insA
+c.374G[T c.376G[A (rs61758784) c.414G[C c.431T[C (rs28363307) c.453G[A (rs45553636) c.459T[G (rs74885602) c.475G[A c.485G[A (rs35151472) c.506T[C
+c.525_526insC
+Not reported
+c.745C[T (rs28363311) c.790G[A c.791G[T c.837?39C[G (rs34554540) c.859A[G (rs28363317) c.900A[T (rs78702006) c.904?5G[T c.904?34T[C (rs28363318)
+Not reported
+Not reported
+c.1097G[A c.*25C[G (rs28363336)
+
+­ 0.005 ­ ­ n.r n.r n.r ­ ­ n.r ­ n.r n.r 0.07e ­ n.r ­ ­
+n.r ­ ­ n.r. 0.015 n.r. ­ 0.33
+­ ­
+
+­ \0.005 ­ ­ n.r n.r n.r ­ ­ n.r ­ n.r. n.r. n.r ­ n.r ­ ­
+n.r ­ ­ n.r. \0.005 n.r. ­ 0.20
+­ ­
+
+­ \0.005 ­ ­ n.r n.r ­ ­ ­ n.r ­ n.r n.r. n.r ­ n.r ­ ­
+n.r ­ ­ n.r. \0.005 0.011 ­ n.r.
+­ ­
+
+­ \0.005 ­ ­ n.r 0.006 ­ ­ ­ n.r ­ 0.006 n.r. n.r ­ n.r ­ ­
+0.007 ­ ­ n.r. 0.006 n.r. ­ 0.19
+­ 0.028
+
+n.r. not reported a Minor allele frequency in healthy controls or (Breast/Ovarian cases) b db SNP131 (December 2010) c Singleton variants d Jewish specific e N = 30 individuals from pilot 1 CEU-The 1000 genomes project
+
+[ref 9]
+(1)c ­ (1)c ­ ­ ­ ­ (1)c (1)c 0.006(0.007) (1)c ­ ­ ­ (1)c ­ (1)c (1)c
+­ 0.003(0.005) (1)c ­ 0.007(0.006) ­ (1)c ­
+(1)c ­
+
+[ref 10]
+­ ­ ­ ­ ­ (1)c (1)c ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­
+­ ­ ­ ­ (0.022) ­ ­ (0.37)
+­ ­
+
+[ref 11]
+­ ­ ­ 0.031(0.015)d ­ ­ ­ ­ ­ (0.003) ­ ­ ­ ­ ­ ­ ­ ­
+­ ­ ­ ­ (0.004) ­ ­ ­
+­ ­
+
+This study
+­ ­ ­ ­ ­ ­ ­ ­ ­ (0.002) ­ ­ ­ ­ ­ ­ ­ ­
+­ ­ ­ ­ (0.015) ­ ­ (0.39)
+­ ­
+
+Interestingly, the only RAD51C clear deleterious mutation that we have found was of Swedish origin (a genetic background very uncommon in the Spanish population and not represented by any other individual in our cohort), so that the detection of a deleterious mutation may represent serendipity finding in an otherwise RAD51C negative Spanish cohort. It will be interesting to investigate the prevalence of RAD51C c.774delT in Swedish breast/ovarian families.
+
+The c.774delT mutation was identified in a pedigree with breast, ovarian, and prostate cancer (at present, the mutation status is unknown both in the women diagnosed of ovarian cancer and the male with prostate cancer). In the six RAD51C families reported by Meindl, apart from breast and ovarian cancer, other malignancies such as lung, kidney, pancreatic, and colon cancer were apparent. However, prostate cancer was not present in any of these six families. Only the identification of a much larger set of RAD51C
+
+123
+
+Breast Cancer Res Treat (2011) 129:939­946
+
+945
+
+families will permit to characterize the cancer spectrum associated with these mutations.
+In conclusion, we have developed a HRMA-based RAD51C presequence screening method. The method has permitted us to genotype previously described SNPs and to identify nine novel RAD51C germ-line variants, including a clearly deleterious mutation identified in a breast and ovarian cancer family, thus replicating for the first time previous findings by Meindl et al. We hope that this method will help laboratories worldwide to explore the role of RAD51C germ-line mutations in cancer susceptibility.
+Acknowledgments We wish to thank the patients and their families for their cooperation. This study was supported by research grants FIS 09/00859 and RTICC 06/0020/0021, Instituto de Salud Carlos III (FEDER), Spanish Ministry of Science and Innovation. The study was also supported by Fundacion Mutua Madrilen~a research grant FMMA-08.
+Conflict of interests None.
+References
+1. Gonzalez KD, Noltner KA, Buzin CH, Gu D, Wen-Fong CY, Nguyen VQ, Han JH, Lowstuter K, Longmate J, Sommer SS, Weitzel JN (2009) Beyond Li Fraumeni syndrome: clinical characteristics of families with p53 germline mutations. J Clin Oncol 27:1250­1256
+2. Liaw D, Marsh DJ, Li J, Dahia PL, Wang SI, Zheng Z, Bose S, Call KM, Tsou HC, Peacocke M, Eng C, Parsons R (1997) Germline mutations of the PTEN gene in Cowden disease, an inherited breast and thyroid cancer syndrome. Nat Genet 16:64­67
+3. Meijers-Heijboer H, van den Ouweland A, Klijn J, Wasielewski M, de Snoo A, Oldenburg R, Hollestelle A, Houben M, Crepin E, van Veghel-Plandsoen M, Elstrodt F, van Duijn C, Bartels C, Meijers C, Schutte M, McGuffog L, Thompson D, Easton D, Sodha N, Seal S, Barfoot R, Mangion J, Chang-Claude J, Eccles D, Eeles R, Evans DG, Houlston R, Murday V, Narod S, Peretz T, Peto J, Phelan C, Zhang HX, Szabo C, Devilee P, Goldgar D, Futreal PA, Nathanson KL, Weber B, Rahman N, Stratton MR (2002) CHEK2-Breast cancer consortium. Low-penetrance susceptibility to breast cancer due to CHEK2(*)1100delC in noncarriers of BRCA1 or BRCA2 mutations. Nat Genet 31:55­59
+4. Seal S, Thompson D, Renwick A, Elliott A, Kelly P, Barfoot R, Chagtai T, Jayatilake H, Ahmed M, Spanova K, North B, McGuffog L, Evans DG, Eccles D, Breast Cancer Susceptibility Collaboration (UK), Easton DF, Stratton MR, Rahman N (2006) Truncating mutations in the Fanconi anemia J gene BRP1 are low-penetrance breast cancer susceptibility alleles. Nat Genet 38:1239­1241
+5. Rahman N, Seal S, Thompson D, Kelly P, Renwick A, Elliott A, Reid S, Spanova K, Barfoot R, Chagtai T, Jayatilake H, McGuffog L, Hanks S, Evans DG, Eccles D, Breast Cancer Susceptibility Collaboration (UK), Easton DF, Stratton MR (2007) PALB2 which encodes a BRCA2-interacting protein is a breast cancer susceptibility gene. Nat Genet 39:165­167
+6. Bergman A, Abel F, Behboudi A, Yhr M, Mattsson J, Svensson JH, Karlsson P, Nordling M (2008) No germline mutations in
+
+supposed tumour suppressor genes SAFB1, SAFB2 in familial breast cancer with linkage to 19p. BMC Med Genet 9:108 7. Oldenburg RA, Kroeze-Jansema KH, Houwing-Duistermaat JJ, Bayley JP, Dambrot C, van Asperen CJ, van den Ouweland AM, Bakker B, van Beers EH, Nederlof PM, Vasen H, Hoogerbrugge N, Cornelisse CJ, Meijers-Heijboer H, Devilee P (2008) Genomewide linkage scan in Dutch hereditary non-BRCA1/2 breast cancer families identifies 9q21­22 as a putative breast cancer susceptibility locus. Genes Chromosomes Cancer 47:947­956 8. Vaz F, Hanenberg H, Schuster B, Barker K, Wiek C, Erven V, Neveling K, Endt D, Kesterton I, Autore F, Fraternali F, Freund M, Hartmann L, Grimwade D, Roberts RG, Schaal H, Mohammed S, Rahman N, Schindler D, Mathew CG (2010) Mutation of the RAD51C gene in a Fanconi anemia-like disorder. Nat Genet 42:406­409 9. Meindl A, Hellebrand H, Wiek C, Erven V, Wappenschmidt B, Niederacher D, Freund M, Lichtner P, Hartmann L, Schaal H, Ramser J, Honisch E, Kubisch C, Wichmann HE, Kast K, Deissler H, Engel C, Mu¨ller-Myhsok B, Neveling K, Kiechle M, Mathew CG, Schindler D, Schmutzler RK, Hanenberg H (2010) Germline mutations in breast, ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 42:410­414 10. Zheng Y, Zhang J, Hope K, Niu Q, Huo D, Olopade OI (2010) Screening RAD51C nucleotide alterations in patients with a family history of breast, ovarian cancer. Breast Cancer Res Treat 124:857­861 11. Akbari MR, Tonin P, Foulkes WD, Ghadirian P, Tischkowitz M, Narod SA (2010) RAD51C germline mutations in breast, ovarian cancer patients. Breast Cancer Res 12:404 12. Weitzel JN, Lagos VI, Cullinane CA, Gambol PJ, Culver JO, Blazer KR, Palomares MR, Lowstuter KJ, MacDonald DJ (2007) Limited family structure, BRCA gene mutation status in single cases of breast cancer. JAMA 297:2587­2595 13. D´iez O, Osorio A, Dura´n M, Martinez-Ferrandis JI, De la Hoya M, Salazar R, Vega A, Campos B, Rodr´iguez-Lo´pez R, Velasco E, Chaves J, D´iaz-Rubio E, Jesu´sCruz J, Torres M, Esteban E, Cervantes A, Alonso C, San Roma´n JM, Gonza´lez-Sarmiento R, Miner C, Carracedo A, Eugenia Armengod M, Calde´s T, Ben´itez J, Baiget M (2003) Analysis of BRCA1 and BRCA2 genes in Spanish breast/ovarian cancer patients: a high proportion of mutations unique to Spain and evidence of founder effects. Hum Mutat 22:301 14. Gutie´rrez-Enr´iquez S, de la Hoya M, Mart´inez-Bouzas C, Sanchez de Abajo A, Ramo´n y Cajal T, Llort G, Blanco I, Beristain E, D´iaz-Rubio E, Alonso C, Tejada MI, Calde´s T, Diez O (2007) Screening for large rearrangements of the BRCA2 gene in Spanish families with breast/ovarian cancer. Breast Cancer Res Treat 103:103­107 15. De la Hoya M, Gutie´rrez-Enr´iquez S, Velasco E, Osorio A, de Sanchez Abajo A, Vega A, Salazar R, Esteban E, Llort G, Gonzalez-Sarmiento R, Carracedo A, Ben´itez J, Miner C, D´iez O, D´iaz-Rubio E, Caldes T (2006) Genomic rearrangements at the BRCA1 locus in Spanish families with breast/ovarian ca´ncer. Clin Chem 52:1480­1485 16. Rozen Steve, Skaletsky HJ (2000) Primer3 on the WWW for general users and for biologist programmers. In: Krawetz S, Misener S (eds) Bioinformatics methods and protocols: methods in molecular biology. Humana Press, Totowa, pp 365­386 17. Vossen RH, Aten E, Roos A, den Dunnen JT (2009) High-resolution melting analysis (HRMA): more than just sequence variant screening. Hum Mutat 30:860­866 18. Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ (1990) Basic local alignment search tool. J Mol Biol 215:403­410 19. Adzhubei IA, Schmidt S, Peshkin L, Ramensky VE, Gerasimova A, Bork P, Kondrashov AS, Sunyaev SR (2010) A method and
+
+123
+
+946 Breast Cancer Res Treat (2011) 129:939­946
+
+server for predicting damaging missense mutations. Nat Methods 7:248­249 20. Desmet FO, Hamroun D, Lalande M, Collod-Beroud G, Claustres M, Beroud C (2009) Human splicing finder: an online bioinformatics tool to predict splicing signals. Nucleic Acid Res 37:e67 21. Krypuy M, Ahmed AA, Etemadmoghadam D, Hyland SJ, Australian Ovarian Cancer Study Group, De Fazio A, Fox SB, Brenton JD, Bowtell DD, Dobrovic A (2007) High resolution melting for mutation scanning of TP53 exons 5­8. BMC Cancer 7:168 22. Bastien R, Lewis TB, Hawkes JE, Quackenbush JF, Robbins TC, Palazzo J, Perou CM, Bernard PS (2008) High-throughput
+
+amplicon scanning of the TP53 gene in breast cancer using highresolution fluorescent melting curve analyses and automatic mutation calling. Hum Mutat 29:757­764 23. Millat G, Chanavat V, Rodriguez-Lafrasse C, Rousson R (2009) Rapid sensitive and inexpensive detection of SCN5A genetic variations by high resolution melting analysis. Clin Biochem 42:491­499 24. Takano EA, Mitchell G, Fox SB, Dobrovic A (2008) Rapid detection of carriers with BRCA1 and BRCA2 mutations using high resolution melting analysis. BMC Cancer 8:59
+
+123
+
+

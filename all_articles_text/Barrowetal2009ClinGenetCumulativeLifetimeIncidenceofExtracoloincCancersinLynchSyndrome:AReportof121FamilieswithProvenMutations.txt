@@ -1,0 +1,581 @@
+Clin Genet 2009: 75: 141­149 Printed in Singapore. All rights reserved
+Original Article
+
+# 2009 The Authors Journal compilation # 2009 Blackwell Munksgaard
+CLINICAL GENETICS doi: 10.1111/j.1399-0004.2008.01125.x
+
+Cumulative lifetime incidence of extracolonic cancers in Lynch syndrome: a report of 121 families with proven mutations
+
+Barrow E, Robinson L, Alduaij W, Shenton A, Clancy T, Lalloo F, Hill J, Evans DG. Cumulative lifetime incidence of extracolonic cancers in Lynch syndrome: a report of 121 families with proven mutations. Clin Genet 2009: 75: 141­149. # Blackwell Munksgaard, 2009
+Lynch syndrome or hereditary non-polyposis colorectal cancer is caused by mutations of DNA mismatch repair (MMR) genes. The extracolonic tumour spectrum includes endometrial, ovarian, gastric, small bowel, pancreatic, hepatobiliary, brain, and urothelial neoplasms. Families were referred on the basis of clinical criteria. Tumour immunohistochemistry and microsatellite testing were performed. Appropriate patients underwent sequencing of relevant exons of the MMR genes. Proven and obligate mutation carriers and first-degree relatives (FDRs) with a Lynch syndrome spectrum cancer were considered mutation carriers, as were a proportion of untested, unaffected FDRs based on the proportion of unaffected relatives testing positive in each age group. Kaplan­Meier analysis of risk to 70 years was calculated. One hundred and eighty-four Lynch syndrome spectrum extracolonic cancers in 839 proven, obligate, or assumed mutation carriers were analysed. Cumulative risk for females of an extracolonic tumour is 47.4% (95% CI 43.9­50.8). The risk to males is 26.5% (95% CI 22.6­30.4). There was no reduction in gynaecological malignancies due to gynaecological screening (examination, transvaginal ultrasound scan, hysteroscopy and endometrial biopsy). Males have a higher risk of gastric cancer than females (p ¼ 0.0003). Gastric cancer risk in those born after 1935 does not justify surveillance. These penetrance estimates have been corrected for ascertainment bias and are appropriate for those referred to a high-risk clinic.
+
+E Barrowa, L Robinsonb,*, W Alduaijb,*, A Shentonb, T Clancyb, F Lalloob, J Hilla and DG Evansb
+aDepartment of General Surgery, Manchester Royal Infirmary, Manchester, UK, and bMedical Genetics Research Group and Regional Genetics Service, St Mary's Hospital, University of Manchester and Central Manchester and Manchester Children's University Hospitals NHS Trust, Manchester, UK
+*These authors have contributed equally to this work.
+Excerpts from this article were presented at The Association of Coloproctology of Great Britain and Ireland 2008 Annual Meeting on the 2 July 2008.
+Key words: DNA mismatch repair ­ hereditary non-polyposis colorectal cancer ­ Kaplan-Meiers analysis ­ Lynch syndrome ­ multiple primary neoplasms ­ statistical bias
+Corresponding author: Emma Barrow, Research Office, Department of Clinical Genetics, St Mary's Hospital, Hathersage Road, Manchester M13 9WL, UK. Tel.: 0161 276 6080; fax: 0161 276 6145; e-mail: emma.barrow@doctors.org.uk
+Received 26 June 2008, revised and accepted for publication 6 October 2008
+
+Lynch syndrome or hereditary non-polyposis colorectal cancer (CRC) is an inherited cancer predisposition syndrome accounting for around 4% of all incident CRCs (1). This autosomal dominant condition is characterized by early age of cancer onset (mean age 45 years), proximal predominance of CRC, excess of synchronous and
+
+metachronous tumours, and an extracolonic tumour spectrum that includes endometrial, ovarian, gastric, small bowel, pancreas, hepatobiliary, brain and urothelial neoplasms (2, 3).
+Lynch syndrome is caused by inactivating mutations of DNA mismatch repair (MMR) genes, MLH1, MSH2, and MSH6 (2). These mutations
+
+141
+
+Barrow et al.
+result in the production of a faulty or truncated protein, which impairs the ability of the MMR system to recognize and repair DNA mismatches (4). In tumour tissue, DNA microsatellite instability reflects the impaired MMR function. MLH1 and MSH2 mutations account for almost 90% of all mutations, with MSH6 mutations causing the remaining 10% (2).
+In Lynch syndrome, the risks of developing CRC and extracolonic cancers within the disease spectrum are many orders of magnitude greater than that of the general population. The cumulative lifetime risks vary according to gender and gene mutation. Males have a significantly higher cumulative CRC risk than females (5­9). Dependent on the ascertainment criteria, the lifetime risks of CRC for men with known germline mutations vary between 28.5% and 100% (5­13). For women, there is a 23.7% to 63% cumulative lifetime risk of CRC (5­13).
+A number of previous studies have examined the cumulative risks of extracolonic cancers in known mutation carriers (5­9, 11­15). There are a number of common findings:
+(1) The cumulative risk of extracolonic cancer is higher for MSH2 compared with MLH1 mutation carriers (7, 8). This reaches significance in one study (7).
+(2) In the majority of studies, for females, the cumulative lifetime risk of endometrial cancer is equal or greater to the cumulative risk of CRC (5, 6, 11, 12). The cumulative risk of endometrial cancer is particularly high in MSH6 mutation carriers (71%) comparative to the CRC risk (30%) (9). In MSH2 mutation carriers, the endometrial cancer risk remains high at 37% but is surpassed by the CRC risk (39­55%) (7, 8).
+The majority of these previous studies examined known mutation carriers identified through cancer registries or high-risk clinics on the basis of Amsterdam and Bethesda criteria (3, 16). While these provide large numbers of mutation carriers for risk stratification, the mode of ascertainment can lead to bias. Analysis of this group with highly penetrant alleles results in an overestimation of the cumulative cancer risks. Families with small sibships, few cancer cases, non-paternity, adoption, and insufficient pedigree information may be excluded. Additionally, early analyses of cumulative cancer risks based on Amsterdam Criteria I (17) are biased against extracolonic tumours.
+Published cancer registry data on cumulative extracolonic tumour risks in Lynch syndrome have to date been from the Netherlands, Finland,
+142
+
+Germany and the USA (6­9, 11, 12, 14, 15). The cumulative tumour risks in Lynch syndrome in these populations may not be applicable worldwide due to founder effects. This is particularly noticeable in the Finnish population due to a single MLH1 mutation in exon 16 [in frame 165-kb deletion (6, 18)]. To date, the only UK study into cumulative tumour risks was the populationbased study by Dunlop et al. in 1997 with a total of 67 mutation carriers (5).
+The Manchester Regional Genetics Service receives referrals of families with clustered CRC and extracolonic cancers from a population of 4.5 million within the North West of England. This study reports a large data set of Lynch syndrome families with proven pathogenic germline mutations in which cumulative extracolonic cancer risks have been assessed. This information is valuable in genetic counselling and in the assessment and development of screening protocols for the UK Lynch syndrome population.
+Materials and methods
+Families from the North West of England fulfilling Amsterdam or Bethesda criteria were referred by their general practitioner, colorectal surgeon, gastroenterologist or oncologist to the Manchester Regional Genetics Service. Full pedigree information was obtained, and tumour site and diagnosis were confirmed from Cancer Registration data, hospital records or death certificate. Tumour tissue was acquired from family members with prior CRC or extracolonic tumours within the Lynch syndrome spectrum. The tumour samples were subjected to microsatellite instability (MSI) analysis and/or immunohistochemical screening for the MMR proteins as appropriate. From 1996 onwards, mutation analysis was performed for Amsterdam criteria-positive or Bethesda criteria-positive and MSI-high index patients. This involved screening of all exons of MLH1, MSH2, and more latterly MSH6 with sequencing and multiple ligation-dependant probe amplification. In cases of proven germline MMR mutation in the index case, mutation analysis was offered to relatives.
+Mutations were assessed for pathogenicity against the InSiGHT database (http://www. insight-group.org). Families with proven pathogenic mutations were entered on the Lynch syndrome database prospectively. Demographic data, dates and results of genetic testing, dates and results of screening (colonoscopic or gynaecological), and dates and details of colorectal and extracolonic cancers were entered for probands
+
+and relatives. Age at diagnosis was assessed from Cancer Registration data, and age at follow up taken as 1 September 2007 or at date of death. Vital status and dates of death were obtained from Cancer Registration as of 1 September 2007, hospital records or from death certification. Surveillance was performed and documented from the time of diagnosis to 1 September 2007.
+All mutation carriers were offered colonoscopic screening in line with British Society of Gastroenterology (BSG) guidelines (19). Females were offered gynaecological screening (examination, transvaginal ultrasound scan, hysteroscopy and endometrial biopsy) in line with recommendations from the International Collaborative Group for Hereditary Non-Polyposis CRC (20).
+The following groups were regarded as mutation carriers:
+(1) Proven mutation carriers: Individuals with a pathogenic mutation on germline mutation analysis.
+(2) Obligate mutation carriers: Due to their position in the pedigree in relation to relatives testing positive for a mutation.
+(3) Putative mutation carriers: First-degree relatives (FDRs) of a proven mutation carrier with a Lynch syndrome-related cancer were considered mutation carriers. The cancers included within the Lynch syndrome spectrum were colorectal (only 2/125 of tested FDRs with CRC were negative for the family gene mutation), endometrial, ovarian, gastric, brain [primary central nervous system (CNS) only, cerebral metastases excluded], biliary, small bowel, and sebaceous adenocarcinoma (only 1/60 tested FDRs with noncolorectal Lynch syndrome spectrum cancers were negative for the family mutation ­ gastric cancer aged 51 years).
+(4) Assumed mutation carriers: half of the untested FDRs with non-Lynch syndrome spectrum cancers were assigned mutation carrier status on a 50:50 basis sequentially by familial gene mutation and age at diagnosis. Additionally, a proportion of untested, unaffected FDRs with no cancers were assigned mutation carrier status, based on the proportion of unaffected relatives who tested positive of the total number of individuals actually tested for each age group. The number of untested, unaffected FDRs assigned mutation carrier status is summarized in Table 1.
+Data were transferred to SPSS 11.5 for analysis. The cumulative extracolonic tumour risk was ascertained by Kaplan­Meier analysis. Comparison
+
+Incidence of extracolonic cancers in Lynch syndrome
+between the cumulative incidence was made by the log rank test. A p-value ,0.05 was considered to be significant. The cumulative tumour risk was calculated at age 70 years as this allowed direct comparison with the majority of the previous literature (5, 6, 8, 9, 11, 15). For the penetrance analysis of cumulative lifetime extracolonic cancer risk, index cases were excluded from the analysis.
+Results
+One hundred and twenty-one Lynch syndrome families with proven pathogenic germline mutations (51 MLH1, 59 MSH2, and 11 MSH6 families) were used in the analysis.
+Table 2 shows the numbers of mutation carriers (proven, obligate, and assumed) used for analysis. In total, 282 extracolonic cancers occurred in the group analysed, and these are detailed in Table 3. One hundred and eighty-four of these cancers were within the Lynch syndrome spectrum (biliary, brain, endometrial, gastric, ovarian, pancreas, small bowel, or upper urothelial).
+Cumulative lifetime incidence of extracolonic tumours
+The cumulative incidences at age 70 years are shown in Table 4; comparison is made with the previous literature. The Kaplan­Meier analyses are shown in Fig. 1.
+Overall, the cumulative lifetime risk to a MMR mutation carrier of a Lynch syndrome spectrum extracolonic neoplasm is 37.5% (95% CI 34.9­ 40.1). The cumulative lifetime risk to women of an extracolonic tumour is 47.4% (95% CI 43.9­ 50.8). The cumulative risk to males of an extracolonic tumour is 26.5% (95% CI 22.6­30.4). This difference is significant (log rank p , 0.0001). There was no significant difference in the cumulative lifetime risk of Lynch syndrome spectrum extracolonic cancers for MLH1, MSH2, and MSH6 mutation carriers.
+Females with MSH6 mutations have a higher cumulative lifetime incidence of endometrial cancer than MLH1/MSH2 mutation carriers, but this did not reach significance. There was no significant difference in the cumulative incidence of ovarian cancer between the different mutation carriers.
+All female mutation carriers were offered gynaecological screening (examination, transvaginal ultrasound scan, hysteroscopy and endometrial biopsy) in line with recommendations from the International Collaborative Group for Hereditary
+
+143
+
+Barrow et al.
+
+Table 1. Proportion of unaffected first-degree relatives (FDRs) testing positive for specific gene mutations and number of untested unaffected FDRs assigned carrier status by decade
+
+Age (years)
+
+Number of unaffected FDRs testing positive for specific gene mutations as a proportion of the total tested (%)
+
+MLH1
+
+MSH2
+
+MSH6
+
+Number of untested unaffected FDRs assigned mutation carrier status by decade (%)
+
+MLH1
+
+MSH2
+
+MSH6
+
+18­29 30­39 40­49 50­59 601 Total
+
+8/17 (47) 13/28 (46)
+7/33 (21) 1/10 (10)
+1/5 (20) 30/93 (32)
+
+11/20 (55) 18/34 (53)
+9/24 (38) 8/13 (62) 1/16 (6) 47/107 (44)
+
+None tested 1/1 (100) 0/1 (0) 0/1 (0) 0/2 (0) 1/5 (20)
+
+18/38 (47) 12/26 (46)
+5/26 (19) 1/12 (8) 11/55 (20) 47/157 (30)
+
+24/43 (56) 19/36 (53) 14/36 (39) 18/29 (62)
+5/90 (6) 80/234 (34)
+
+0/2 (0) 6/6 (100) 0/16 (0) 0/5 (0) 0/6 (0) 6/35 (17)
+
+Non-Polyposis CRC (20). Gynaecological screening after family ascertainment may have decreased the endometrial and ovarian cancer incidence in this series. Overall, female mutation carriers have a cumulative lifetime incidence of gynaecological cancers (endometrial and ovarian) of 32.5% (95% CI 29.1­35.9). To estimate the effect of surveillance on the cumulative risks quoted, the Kaplan­Meier analyses were recalculated, censoring at the date of family ascertainment. Prior to family ascertainment, the cumulative lifetime risk of gynaecological malignancies for female mutation carriers was essentially unchanged of 31.6% (95% CI 28.2­ 35.0). The annual incidence of gynaecological malignancies was also calculated for the two time periods: (i) 1 January 1980 to time of family ascertainment and (ii) time of family ascertainment to last follow up. This again confirmed that the annual incidence of gynaecological malignancies in mutation carriers was similar from 0.6% prior to family ascertainment to 0.7% after family ascertainment.
+CRC diagnoses were also recorded on the Lynch syndrome database. The full cumulative risk analyses for these have been reported (21). Males with Lynch syndrome had a cumulative incidence of CRC to age 70 years of 54.3% (95% CI 50.7­ 57.8). Females had a cumulative risk of CRC to age 70 years of 46.3% (95% CI 42.8­49.9) (log rank p ¼ 0.02). To estimate the effects of competing CRC mortality on the extracolonic cancer incidence, the cases were censored at time of CRC diagnosis. The overall risk for both male and female mutation carriers to age 70 years of extracolonic malignancies of the Lynch syndrome spectrum dropped to 29.9% (95% CI 26.9­32.9). In female mutation carriers, when cases were censored at time of CRC diagnosis, the cumulative extracolonic cancer incidence dropped to 36.8% (95% CI 32.8­ 40.8). In male mutation carriers, the incidence dropped less markedly to 22.4% (95% CI 26.9­32.9).
+Males with any germline mutation have a significantly higher cumulative risk of gastric cancer
+144
+
+than females (log rank p ¼ 0.0003; Fig. 1). However, on further analysis of the data, 23/25 of the gastric cancer cases were born prior to 1935. For those born subsequent to this, the cumulative incidence is significantly lower (Fig. 1).
+Males compared with females and MLH1 compared with MSH2 mutation carriers had a higher cumulative lifetime incidence of small bowel cancers, but this did not reach significance in either case. MSH2 mutation carriers had a significantly higher cumulative lifetime risk of brain tumours (primary CNS only, cerebral metastases excluded) (log rank p ¼ 0.05; Fig. 1).
+Twenty-five breast cancers occurred within our population group. The inclusion of breast cancer within the Lynch syndrome spectrum is controversial (22, 23). Assigning mutation carrier status to all FDRs with breast cancer (as with the other Lynch syndrome spectrum cancers in this study) would lead to an overestimation of cancer risk. Another method of calculating actuarial breast cancer risk must be employed, that is beyond the realms of this study. However, Kaplan­Meier analysis of cumulative risk of breast cancer in the proven female mutation carriers was estimated. For positive and obligate MLH1 mutation carriers, the cumulative risk to age 70 years was 18.2% (95% CI 11.9­24.5). For
+
+Table 2. Lynch syndrome data set and mutation carriers for analysis
+
+MLH1 MSH2 MSH6 Total
+
+Total families on database 51
+
+59 11
+
+Total family members on 580 743 97
+
+database
+
+Proven mutation carriers 105 133 11
+
+Obligate mutation carriers 39 46 5
+
+Putative mutation carriers 135 164 32
+
+Assumed mutation carriers 61 100
+
+8
+
+Total mutation carriers for 340 443 56
+
+analysis
+
+121 1420
+249 90
+331 169 839
+
+Table 3. Total extracolonic cancers diagnosed in cohort
+
+Cancer
+
+Number of cases
+
+Adrenal Biliary Bladder Brain Breast Cervix Endometrial Gastric Primary liver Lung Lymphoma Myeloma Oesophagus Oropharyngeal Ovarian Pancreas Prostate Renal Retinoblastoma Sebaceous adenocarcinoma Skin other Small bowel Spinal Thyroid Unknown Upper urothelial
+
+1 4 8 10 25 5 86 29 4 11 1 1 3 2 24 2 6 11 1 2 11 15 1 1 3 15
+
+Total
+
+282
+
+positive and obligate MSH2 mutation carriers, the cumulative risk to age 70 years was 1.5% (95% CI 0­3.0).
+The Kaplan­Meier analyses for the other Lynch syndrome spectrum tumours are not illustrated due to the small numbers of tumours. Table 5 shows the cumulative risk to age 70 years as a multiple of population risk where this information is available (24).
+
+Mean age of onset of extracolonic cancers
+The mean age of onset of endometrial, ovarian, breast, gastric and brain tumours is shown in Table 5. There were too few cases of the other Lynch syndrome spectrum tumours to make any conclusions regarding age of onset.
+
+Discussion
+This study reports the cumulative incidences of extracolonic cancers within the Lynch syndrome spectrum in the second largest data set of families with proven germline MMR mutations to date.
+Gynaecological malignancies comprise the largest proportion of the Lynch syndrome spectrum tumours. It is therefore unsurprising that this study demonstrated that females have a signifi-
+
+Incidence of extracolonic cancers in Lynch syndrome
+cantly higher cumulative lifetime incidence of extracolonic cancers than males (p , 0.0001). A trend towards this has been noted by a previous smaller study (7) but reached significance only in MSH2 mutation carriers. Our study demonstrated significance with mutations in all the three genes.
+The higher cumulative incidence of extracolonic cancers in females is largely accounted for by the increased incidence of endometrial cancer and in part the increased incidence of ovarian cancer. The risk of endometrial cancer is particularly high in MSH6 mutation carriers. Overall, these findings give a slightly lower risk of endometrial cancer than previously reported (5­9, 11, 12, 14). This may due to the method utilized for allocating mutation carrier status reducing ascertainment bias. However, in keeping with previous reports (9), this study demonstrates a particularly high cumulative endometrial cancer risk in MSH6 mutation carriers. For females, the cumulative risk of CRC at age 70 years is 50.2% for MLH1, 47.7% for MSH2 and 18.3% for MSH6. This can be compared with a cumulative incidence of endometrial cancer of 29.2%, 24.4% and 48.8%, respectively. These findings have implications for the surveillance and prophylaxis of endometrial cancer, particularly in MSH6 mutation carriers.
+Gynaecological surveillance did not seem to alter the cumulative risks or annual incidence of gynaecological malignancies before and after family ascertainment. An almost equal number of gynaecological malignancies occurred before (60 years) and after (56 years) family ascertainment, so this should be a genuine finding. There is current limited evidence that gynaecological screening reduces morbidity (25).
+Only two prior studies have assessed the cumulative incidence of all Lynch syndrome spectrum tumours in proven germline mutation carriers (6, 8). The findings are comparable to our results, particularly in relation to the risks of biliary and ovarian tumours. The risk of an upper urothelial tumour was lower in this study than previous reports (6, 8). We did not find any significantly greater increase in urothelial tumour risk in MSH2 mutation carriers as has been previously reported (8). The risk of small bowel tumours in this study was lower than that has been previously reported (8). The specific cumulative incidence of pancreatic neoplasia in Lynch syndrome has not been previously reported. This study found a low cumulative risk across all gene mutations.
+The cumulative incidence of gastric cancer to age 70 years of 9.4% (95% CI 7.5­11.3) was similar to that previously reported (6, 8). A higher risk in MLH1 mutation carriers in this study was not significant, although the risk for males was
+
+145
+
+Barrow et al. 146
+
+Table 4. Cumulative extracolonic tumour risk in Lynch syndrome: previous published literature and our reporta
+
+Study
+
+Selection Country criteria
+
+CUM age No families
+
+Gene No mutation carriers mutation
+
+CUM
+
+CUM
+
+CUM
+
+CUM
+
+extracolonic extracolonic endometrial CUM
+
+extracolonic male
+
+female
+
+female
+
+gastric
+
+CUM biliary tract
+
+CUM CUM urinary ovarian tract female
+
+CUM brain
+
+CUM small bowel
+
+CUM Pancreas
+
+Aarnio et al. (14) Dunlop et al. (5)
+Lin et al. (7) Aarni et al. (6) Vasen et al. (8, 23)
+
+Finland AC (cancer
+
+80
+
+registry)
+
+Scotland Mutation carriers 70
+
+(population study
+
+CRC ,35 years)
+
+America Mutation carriers 60
+
+(cancer registry)
+
+Finland Mutation carriers 70
+
+(cancer registry)
+
+Holland Mutation carriers 70
+
+(cancer registry
+
+Hendriks et al. (9) Plaschke et al. (15)
+
+Holland Mutation carriers (cancer registry)
+Germany Mutation carriers (cancer registry)
+
+70 70
+
+Hampel et al. (11)
+
+Finland
+
+Quehenberger Holland et al. (12)
+
+Carayol et al. (13) This study
+
+England
+
+Mutation carriers 70 (cancer registry and population study) Mutation carriers 80 (cancer registry BUT corrected for ascertainment) Simulated study 79
+Mutation carriers 70 (cancer registry)
+
+40
+
+293 putative
+
+Combined
+
+6 (1 MLH1, 5 MSH2)
+
+67 positive
+
+Combined
+
+105 positive/obligate MLH1
+
+11%
+
+(56 MLH1, 49 MSH2) MSH2
+
+48%
+
+50 (47 MLH1, 360 positive/obligate
+
+3 MSH2)
+
+79 (34 MLH1,
+
+MLH1
+
+40 MSH2,
+
+MSH2
+
+5 MSH6)
+
+20 MSH6
+
+146 positive/obligate MSH6
+
+all MSH6
+
+183 (27 MSH6, 1974 carriers/FDRs/ MLH1/MSH2 37%
+
+156 MLH1/MSH2) SDRs (398 MSH6, MSH6
+
+33%
+
+1578 MLH1/MSH2)
+
+45 cancer
+
+277 cancer registry Combined
+
+registry,
+
+and 144 population
+
+25 population study all positive/
+
+study
+
+obligate
+
+84 (39 MLH1, 397 positive
+
+Combined
+
+45 MSH2)
+
+5% 34%
+33%
+
+19% 69%
+22%
+
+43%
+42%
+19% 36% 60%
+25% 37%
+71%
+
+19%
+
+18% 10% 9%
+
+13%
+2.1% 4.3%
+
+2%
+
+4%
+1.3% 12%
+
+12%
+3.4% 10.4%
+
+3.7% 1.2%
+
+7.2% 4.5%
+
+54% 45.6%
+
+13.5%
+
+121(51 MLH1, 59 MSH2, 11 MSH6)
+
+839 positive, obligate, putative or assumed carriers
+
+Combined
+
+60%
+
+65%
+
+Combined MLH1 MSH2 MSH6
+
+37.5% (34.9­40.1) 38.5% (34.3­42.7) 35.5% (32.0-39.0) 43.1% (33.7­52.6)
+
+26.5% (22.6­30.4) 29.7% (22.7­36.7) 23.8% (18.9­28.8) 28.4% (14.4­42.4)
+
+47.4% (43.9­50.8) 44.8% (39.5­50.1) 47.8% (43.0­52.6) 53.9% (41.7­65.9)
+
+28.2%
+
+9.4% 1.4% 3.2% 6.1%
+
+3.4% 2.5% 0.4%
+
+(24.9­31.5) (7.5­11.3) (0.6­2.2) (2.2­4.3) (4.5­7.8) (2.1­4.6) (1.6-3.3) (0­0.8)
+
+29.2%
+
+10.9% 3.0% 2.8% 5.5%
+
+0.3% 4.5% 0%
+
+(24.0­34.5) (7.7­14.1) (1.2­4.9) (1.2­4.4) (3.0­8.1) (0­0.6) (2.7­6.4)
+
+24.4%
+
+7.8%
+
+0.4% 4.1% 7.5%
+
+6.3% 1.3% 0.7%
+
+(20.3­28.6) (5.4­10.1) (0­0.8) (2.5­5.7) (5.0­10.0) (4.0­8.7) (0.5­2.1) (0­1.4)
+
+48.8% 10.4% 0% 0% 0%
+
+0% 0% 0%
+
+(35.1­62.4) (3.4­17.3)
+
+CRC, colorectal cancer; CUM, cumulative lifetime risk; FDRs, first-degree relatives; SDRs, second-degree relatives. a95% CI in parentheses.
+
+(a)
+0.20
+0.15
+
+Gastric cancer male vs female (log rank p<0.001)
+Sex F M F-censored M-censored
+
+Incidence of extracolonic cancers in Lynch syndrome
+
+(b) Gastric cancer pre 1935 vs post 1935 (log rank p=0.048)
+
+0.20 0.15
+
+Date of birth Pre 1935
+Post 1935
+Pre 1935 - censored Post 1935 - censored
+
+Risk of gastric cancer Risk of gastric cancer
+
+0.10
+
+0.10
+
+0.05
+
+0.05
+
+0.00 0.00
+
+20.00
+
+40.00
+
+60.00
+
+Age
+
+80.00 100.00
+
+0.00 0.00
+
+20.00
+
+40.00 60.00 Age
+
+80.00 100.00
+
+(c) Brain cancer MLH1 vs MSH2 (log rank p=0.049)
+
+0.20 0.15
+
+Germline mutation MLH1 MSH2 MLH1-censored MSH2-censored
+
+Risk of brain cancer
+
+0.10
+
+0.05
+
+0.00
+
+0.00
+
+20.00 40.00 60.00 80.00 100.00
+
+Age
+
+Fig. 1. (a­c) Kaplan­Meier graphs: cumulative incidence-specific extracolonic tumours.
+
+significantly higher than that for females. However, further analysis of these cases revealed that less than 10% of the mutation carriers with gastric cancer were born after 1935. The cumulative risk for this latter group was only 2.0% to age 70 years (95% CI 0.5­3.6). This is only 0.5% above population risk (24). The decreasing incidence of gastric cancer over time may mean that the overall cumulative incidence and the difference between the sexes may not be applicable to the current population. It is therefore difficult to make recommendations for endoscopic surveillance for gastric neoplasms. Indeed, if other studies confirm this decrease in risk from 1935, then gastric screening is probably not now indicated.
+The overall cumulative risk of CNS tumours in this study was similar to that found in the Finnish study by Aarnio et al. (6) and higher than that found by the Dutch group (8). This study found
+
+a significantly higher risk of CNS tumours in MSH2 compared with MLH1 mutation carriers. The higher proportion of MSH2 mutation carriers suffering from CNS tumours in this study is unexpected, as in prior reports, and CNS tumours have been related to MLH1 and PMS2 mutations, particularly in recessive form (26, 27).
+The inclusion of breast cancer within the Lynch syndrome spectrum of tumours is controversial, including the relative risk in MLH1 and MSH2 mutation carriers. Scott et al. found that breast cancer incidence was higher in MLH1 mutation carriers but not in MSH2 mutation carriers (22). This was contradicted by Vasen et al. who did not found an increased risk (23). In our study group, the proven and obligate MLH1 mutation carriers have double the population risk (the UK population risk is 7.5­8% at age 70 years), while the risk for MSH2 mutation carriers is low. However,
+147
+
+Barrow et al. 148
+
+Table 5. Multiple of population risk for mutation carriers for Lynch syndrome spectrum cancers and mean age of onset of tumoursa
+
+Females Population cumulative lifetime risk
+
+Multiple of population risk
+
+Mean age of onset of tumours in mutation carriers (years)
+
+Males Population cumulative lifetime risk
+
+Multiple of population risk
+
+Mean age of onset of tumours in mutation carriers (years)
+
+Cancer type
+
+MLH1
+
+MSH2
+
+MSH6
+
+MLH1 MSH2
+
+MSH6
+
+Endometrial Ovarian Gastric Brain Biliary
+
+1.4% to age 74 (24) 1.0% to age 74 (24) 0.6% to age 74 (24) 0.5% to age 74 (24) 0.2% to age 74 (24)
+
+213 risk 6.13 risk 8.83 risk 1.43 risk 133 risk
+
+173 risk 7.53 risk 4.03 risk 163 risk 4.53 risk
+
+353 risk 7.53 risk n/a n/a n/a
+
+49.1 (47.2­51.0) 43.3 (38.4­48.2) 61.4 (57.9­64.8) 49.9 (28.9­70.8) 49.7 (31.7­67.7)
+
+1.5% to age 74 (24) 123 risk 8.13 risk 163 risk 56.1 (52.3­60.0)
+
+0.7% to age 74 (24) n/a
+
+7.13 risk n/a
+
+55.5 (9.1­101.9)
+
+0.2% to age 74 (24) n/a n/a
+
+n/a n/a
+
+n/a, 1 reported cancers in study group. a95% CI in parentheses.
+
+including only positive and obligate mutation carriers in the analysis may lead to an overestimation of the breast cancer risk, and these figures should be interpreted with caution. More rigorous methods of assessing breast cancer risk for mutation carriers must be employed before breast screening protocols are considered for this group.
+As an aid to the assessment and development of screening protocols, Table 5 illustrates the cumulative cancer risks to age 70 years as a multiple of population risk [where these data are available (24)]. The mean age of onset of the different tumour types is also shown. These data show the relative risks of different tumour types for each of the MMR genes, stratified for gender. While the confidence intervals for the less common tumour types are large due to the size of the data set, for endometrial, ovarian, breast and gastric tumours, the standard error is smaller and the findings in keeping with previous published reports. These data, in combination with past and future reports, may enable the development of specific screening regimens dependent on gene mutation and gender.
+Guidelines for the screening of extracolonic malignancies in Lynch syndrome were established at a European Workshop in 2006 (28). The available evidence on surveillance for endometrial cancer in Lynch syndrome was reviewed. It was concluded that surveillance by annual gynaecological examination, transvaginal ultrasound and aspiration biopsy commencing at age 30­35 years may result in the detection of premalignant lesions and early endometrial cancers (28), although the evidence for this is limited (25).
+There is poor evidence that transvaginal ultrasound and CA-125 estimation detect early ovarian tumours (25).
+Prophylactic hysterectomy and bilateral salpingooopherectomy after the completion of childbearing for females with Lynch syndrome prevent all ovarian and endometrial cancers developing (29). Due to the failure of detection of ovarian cancers by surveillance, and the high risk of endometrial cancers, particularly for MSH6 mutation carriers, this may be an appropriate option for women after the completion of childbearing as it substantially reduces site-specific cancers (28).
+Current screening recommendations for extracolonic tumours from the International Collaborative Group for Hereditary Non-Polyposis CRC (20) and the European Workshop (28) are as follows:
+(1) Gynaecologic examination, transvaginal ultrasound scan, hysteroscopy and endometrial biopsy and CA-125 from age 30­35 years performed every 1­2 years (20, 28).
+
+(2) If familial gastric cancers are present (20) or in a country with a high incidence of gastric cancer (28), gastroscopy from age 30­35 years performed every 1­2 years.
+(3) If familial cancers of the kidney, ureter, and bladder are present, screening should be performed every 1­2 years with ultrasound, cystoscopy, urine cytology, and urinalysis (20, 28).
+(4) If familial biliary tract cancers are present, transabdominal hepatobiliary ultrasound and liver function tests should be performed every 1­2 years, beginning at age 30 years (20).
+On the basis of the cumulative cancer risks found in this study, for the UK population, these screening guidelines and ages of intervention are appropriate. Due to the low cumulative incidence of gastric cancer in mutation carriers born after 1935, gastric screening is probably not now indicated.
+References
+1. Barnetson RA, Tenesa A, Farrington SM et al. Identification and survival of carriers of mutations in DNA mismatchrepair genes in colon cancer. N Engl J Med 2006: 354: 2751­2763.
+2. Lynch HT, de la Chapelle A. Hereditary colorectal cancer. N Engl J Med 2003: 348: 919­932.
+3. Vasen HF, Watson P, Mecklin JP, Lynch HT. New clinical criteria for hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome) proposed by the International Collaborative group on HNPCC. Gastroenterology 1999: 116: 1453­1456.
+4. Lynch HT, Smyrk T. Hereditary nonpolyposis colorectal cancer (Lynch syndrome). An updated review. Cancer 1996: 78: 1149­1167.
+5. Dunlop MG, Farrington SM, Carothers AD et al. Cancer risk associated with germline DNA mismatch repair gene mutations. Hum Mol Genet 1997: 6: 105­110.
+6. Aarnio M, Sankila R, Pukkala E et al. Cancer risk in mutation carriers of DNA-mismatch-repair genes. Int J Cancer 1999: 81: 214­218.
+7. Lin KM, Shashidharan M, Thorson AG et al. Cumulative incidence of colorectal and extracolonic cancers in MLH1 and MSH2 mutation carriers of hereditary nonpolyposis colorectal cancer. J Gastrointest Surg 1998: 2: 67­71.
+8. Vasen HF, Stormorken A, Menko FH et al. MSH2 mutation carriers are at higher risk of cancer than MLH1 mutation carriers: a study of hereditary nonpolyposis colorectal cancer families. J Clin Oncol 2001: 19: 4074­4080.
+9. Hendriks YM, Wagner A, Morreau H et al. Cancer risk in hereditary nonpolyposis colorectal cancer due to MSH6 mutations: impact on counseling and surveillance. Gastroenterology 2004: 127: 17­25.
+10. Voskuil DW, Vasen HF, Kampman E, van't Veer P. Colorectal cancer risk in HNPCC families: development during lifetime and in successive generations. National Collaborative Group on HNPCC. Int J Cancer 1997: 72: 205­209.
+11. Hampel H, Stephens JA, Pukkala E et al. Cancer risk in hereditary nonpolyposis colorectal cancer syndrome: later age of onset. Gastroenterology 2005: 129: 415­421.
+12. Quehenberger F, Vasen HF, van Houwelingen HC. Risk of colorectal and endometrial cancer for carriers of mutations
+
+Incidence of extracolonic cancers in Lynch syndrome
+of the hMLH1 and hMSH2 gene: correction for ascertainment. J Med Genet 2005: 42: 491­496. 13. Carayol J, Khlat M, Maccario J, Bonaiti-Pellie C. Hereditary non-polyposis colorectal cancer: current risks of colorectal cancer largely overestimated. J Med Genet 2002: 39: 335­339. 14. Aarnio M, Mecklin JP, Aaltonen LA, Nystrom-Lahti M, Jarvinen HJ. Life-time risk of different cancers in hereditary non-polyposis colorectal cancer (HNPCC) syndrome. Int J Cancer 1995: 64: 430­433. 15. Plaschke J, Engel C, Kruger S et al. Lower incidence of colorectal cancer and later age of disease onset in 27 families with pathogenic MSH6 germline mutations compared with families with MLH1 or MSH2 mutations: the German Hereditary Nonpolyposis Colorectal Cancer Consortium. J Clin Oncol 2004: 22: 4486­4494. 16. Umar A, Boland CR, Terdiman JP et al. Revised Bethesda Guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 2004: 96: 261­268. 17. Vasen HF, Mecklin JP, Khan PM, Lynch HT. The International Collaborative Group on Hereditary NonPolyposis Colorectal Cancer (ICG-HNPCC). Dis Colon Rectum 1991: 34: 424­425. 18. Nystrom-Lahti M, Wu Y, Moisio AL et al. DNA mismatch repair gene mutations in 55 kindreds with verified or putative hereditary non-polyposis colorectal cancer. Hum Mol Genet 1996: 5: 763­769. 19. Dunlop MG. Guidance on gastrointestinal surveillance for hereditary non-polyposis colorectal cancer, familial adenomatous polypolis, juvenile polyposis, and Peutz-Jeghers syndrome. Gut 2002: 51 (Suppl. 5): V21­V27. 20. Thorson AG, Knezetic JA, Lynch HT. A century of progress in hereditary nonpolyposis colorectal cancer (Lynch syndrome). Dis Colon Rectum 1999: 42: 1­9. 21. Barrow E, Alduaij W, Robinson L et al. Colorectal cancer in HNPCC: cumulative lifetime incidence, survival and tumour distribution. A report of 121 families with proven mutations. Clin Genet 2008: 74: 275­285. 22. Scott RJ, McPhillips M, Meldrum CJ et al. Hereditary nonpolyposis colorectal cancer in 95 families: differences and similarities between mutation-positive and mutationnegative kindreds. Am J Hum Genet 2001: 68: 118­127. 23. Vasen HF, Morreau H, Nortier JW. Is breast cancer part of the tumor spectrum of hereditary nonpolyposis colorectal cancer? Am J Hum Genet 2001: 68: 1533­1535. 24. Fitzpatrick D, Gavin A, Middleton R, Catney D. Cancer in Northern Ireland 1993­2001: a comprehensive report. In: Fitzpatrick, Gavin, Middleton, Catney, eds. Northern Ireland Cancer Registry, Belfast, 2004. 25. Lindor NM, Petersen GM, Hadley DW et al. Recommendations for the care of individuals with an inherited predisposition to Lynch syndrome: a systematic review. JAMA 2006: 296: 1507­1517. 26. Felton KE, Gilchrist DM, Andrew SE. Constitutive deficiency in DNA mismatch repair: is it time for Lynch III? Clin Genet 2007: 71: 499­500. 27. Agostini M, Tibiletti MG, Lucci-Cordisco E et al. Two PMS2 mutations in a Turcot syndrome family with small bowel cancers. Am J Gastroenterol 2005: 100: 1886­1891. 28. Vasen HF, Moslein G, Alonso A et al. Guidelines for the clinical management of Lynch syndrome (hereditary nonpolyposis cancer). J Med Genet 2007: 44: 353­362. 29. Schmeler KM, Lynch HT, Chen LM et al. Prophylactic surgery to reduce the risk of gynecologic cancers in the Lynch syndrome. N Engl J Med 2006: 354: 261­269.
+
+149
+
+

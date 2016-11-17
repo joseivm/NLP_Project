@@ -1,0 +1,294 @@
+Breast Cancer Res Treat (2011) 130:1003­1010 DOI 10.1007/s10549-011-1677-x
+EPIDEMIOLOGY
+Further evidence for the contribution of the RAD51C gene in hereditary breast and ovarian cancer susceptibility
+Mikko Vuorela · Katri Pylka¨s · Jaana M. Hartikainen · Karin Sundfeldt · Annika Lindblom · Anna von Wachenfeldt Wa¨ppling · Maria Haanpa¨a¨ · Ulla Puistola · Annika Rosengren · Maarit Anttila · Veli-Matti Kosma · Arto Mannermaa · Robert Winqvist
+
+Received: 27 May 2011 / Accepted: 23 June 2011 / Published online: 13 July 2011 Ó Springer Science+Business Media, LLC. 2011
+
+Abstract RAD51C, a RAD51 paralogue involved in homologous recombination, is a recently established Fanconi anemia and breast cancer predisposing factor. In the initial report, RAD51C mutations were shown to confer a high risk for both breast and ovarian tumors, but most of the replication studies published so far have failed to identify any additional susceptibility alleles. Here, we report a full mutation screening of the RAD51C gene in 147 Finnish familial breast cancer cases and in 232 unselected ovarian cancer cases originating from Finland and Sweden. In addition, in order to resolve whether common RAD51C SNPs are risk factors for breast cancer, we genotyped five tagging single nucleotide polymorphisms, rs12946522,
+Mikko Vuorela and Katri Pylka¨s contributed equally to this work.
+M. Vuorela Á K. Pylka¨s Á M. Haanpa¨a¨ Á R. Winqvist (&) Laboratory of Cancer Genetics, Department of Clinical Genetics and Biocenter Oulu, University of Oulu, Oulu University Hospital, P.O. Box 5000, 90014 Oulu, Finland e-mail: robert.winqvist@oulu.fi
+J. M. Hartikainen Á V.-M. Kosma Á A. Mannermaa Department of Pathology and Forensic Medicine, School of Medicine, Institute of Clinical Medicine, University of Eastern Finland, 70211 Kuopio, Finland
+J. M. Hartikainen Á V.-M. Kosma Á A. Mannermaa Department of Clinical Pathology, Kuopio University Hospital, 70211 Kuopio, Finland
+K. Sundfeldt Department of Obstetrics and Gynecology, Institute of Clinical Sciences, Sahlgrenska Academy at Gothenburg University, Gothenburg, Sweden
+A. Lindblom Department of Molecular Medicine and Surgery, Karolinska Institutet, 171 76 Stockholm, Sweden
+
+rs304270, rs304283, rs17222691, and rs28363312, all located within the gene, from 993 Finnish breast cancer cases and 871 controls for cancer associated variants. Whereas, none of the studied common SNPs associated with breast cancer susceptibility, mutation analysis revealed two clearly pathogenic alterations. RAD51C c.-13_14del27 was observed in one familial breast cancer case and c.774delT in one unselected ovarian cancer case, thus confirming that RAD51C mutations are implicated in breast and ovarian cancer predisposition, although their overall frequency seems to be low. Independent identification of the very recently reported RAD51C c.774delT mutation in yet another patient originating from Sweden suggests that it might be a recurrent mutation in that population and should be studied further. The reliable estimation of the clinical implications of
+A. von Wachenfeldt Wa¨ppling Department of Oncology-Pathology, Karolinska University Hospital, Karolinska Institutet, 171 76 Stockholm, Sweden
+U. Puistola Department of Obstetrics and Gynecology, University of Oulu, Oulu University Hospital, P.O. Box 5000, 90014 Oulu, Finland
+A. Rosengren Intergene Biobank, Department of Molecular and Clinical Medicine, Institute of Medicine, Sahlgrenska Academy, University of Gothenburg, Gothenburg, Sweden
+M. Anttila Department of Obstetrics and Gynecology, University of Eastern Finland, Kuopio University Hospital, 70211 Kuopio, Finland
+
+123
+
+1004
+
+Breast Cancer Res Treat (2011) 130:1003­1010
+
+carrying a defective RAD51C allele still requires the identification of additional mutation positive families.
+Keywords RAD51C Á Hereditary breast and ovarian cancer susceptibility Á Germline mutation
+Introduction
+The presence of a family history is the most important risk factor for the development of breast cancer, with the firstdegree relatives having approximately a twofold increased risk over the general population. However, \25% of familial breast cancer is explained by inherited mutations in the known susceptibility genes, such as BRCA1, BRCA2, and PALB2 [1, 2]. The rest of the cases are suggested to be explained by common low risk variants, although the data from large multiple case families strongly suggest that there might still be a few additional high penetrance genes to be identified [1]. Most of the genes connected to familial breast cancer are involved in the repair of DNA doublestrand breaks through homologous recombination (HR) [3]. Mutations in three of these genes, BRCA2, BRIP1 and PALB2, are also associated with Fanconi anemia (FA) [4, 5], establishing a strong link between breast cancer susceptibility and the FA pathway. This link is further reinforced by the identification of the newest player RAD51C, a RAD51 paralogue involved in HR, in both of these hereditary conditions. Biallelic RAD51C mutations have recently been identified in FA patients (FANCO) and subsequently monoallelic mutations have been found to confer an increased risk for breast cancer [6, 7].
+RAD51C is part of a machinery composed of altogether five RAD51 paralogues (RAD51B, RAD51C, RAD51D, XRCC2, and XRCC3) that ensures the timely and precise loading of RAD51, the key protein in the HR pathway mediating homologous pairing of DNA sequences and strand exchange, at the sites of DNA damage. The RAD51 paralogues interact with each other and form two different subcomplexes. RAD51C is thought to play a central role in these associations, as it is the only one of the paralogues which is part of both complexes [8, 9]. In addition to promoting RAD51 assembly, RAD51C is important for processing HR intermediates late in the DNA repair as it participates in branch migration and resolving of Holliday junctions [10]. From the FA network perspective, RAD51C is located downstream of the classical part of the pathway, the core FA complex (FANCA, -B, -C, -E, -F, -G, -L, and -M proteins) and the I-D2 complex (FANCD2 and -I proteins), which is analogous to BRCA2 (FANCD1), BRIP1 (FANCJ), and PALB2 (FANCN) [6, 11]. RAD51C defective cells show impaired RAD51 foci formation after DNA damage and are hypersensitive to DNA cross-linking
+
+agents, which is a hallmark of FA. The clinical phenotype of RAD51C defected patients, however, differs in some features from the other mutations in this part of the pathway, as the patients lack hematological abnormalities and malignancies. The affected family members do show some of the severe congenital abnormalities, such as imperforate anus and cystic kidneys with renal failure, also described in BRCA2 and PALB2 defective FA patients [6].
+Being among the most recently identified genes in the downstream part of the FA pathway, it is conceivable that monoallelic mutations in RAD51C could explain some of the BRCA1/BRCA2 mutation negative breast cancer families. Indeed, six monoallelic dominant RAD51C mutations were subsequently identified in 480 German families displaying both breast and ovarian tumors. Curiously, RAD51C mutations were not observed in families with breast cancer only [7]. As regards ovarian cancer occurrence the RAD51C families thus show major similarities with the families carrying BRCA1 and BRCA2 mutations, whereas families segregating mutations in the PALB2 and BRIP1 genes lack this feature [2, 12]. Moreover, as the RAD51C families showed apparently complete segregation of the mutation with the cancer phenotype, the penetrance of the RAD51C mutations was predicted to be at least comparable to that of BRCA1 and BRCA2 mutations. In order to get more information on RAD51C's contribution to cancer susceptibility, we performed a sequence analysis of the gene for germline mutations in 147 BRCA1/2 mutation negative familial breast cancer cases and in 232 ovarian cancer patients unselected for a family history of cancer, and genotyped five tagging single nucleotide polymorphisms (tagSNPs) from 993 breast cancer cases and 871 controls for cancer associated variants in the RAD51C gene region. Two deleterious RAD51C mutations, c.-13_14del27 and c.774delT, were identified, thus confirming the contribution of RAD51C defects to breast and ovarian cancer susceptibility.
+Materials and methods
+Patients and controls
+Affected index cases of 147 breast, or breast and ovarian cancer families were sequenced for RAD51C mutations. All these families originated from Northern Finland and were negative for Finnish BRCA1/2 and PALB2 founder mutations. The tested 11 BRCA1/2 founder mutations account for the majority of all mutations in these genes in Finnish population [2, 13]. Ninety-nine of the families were considered as high risk families: 74 of these families had three or more cases of breast, or breast and ovarian cancer in first- or second-degree relatives and 25 had two
+
+123
+
+Breast Cancer Res Treat (2011) 130:1003­1010
+
+1005
+
+cases of breast, or breast and ovarian cancer in first- or second-degree relatives, of which at least one had early disease onset (B35 years), bilateral breast cancer, or multiple primary tumors including breast or ovarian cancer. Forty-eight of studied families displayed moderate disease susceptibility with two cases of breast, or breast and ovarian cancer in first- or second-degree relatives, or one case showing strong indication of hereditary predisposition to disease (multiple primary tumors including breast cancer at young age, altogether four index cases). Of the studied 147 families, 112 (76.2%) were with breast cancer only, and 35 families (23.8%) showed both breast and ovarian cancer. All of the patient samples have been collected at the Oulu University Hospital with their informed consent.
+An additional breast cancer cohort of altogether 993 patients unselected for family history of cancer was used for the c.-13_14del27 and T287A genotyping, and tagSNP analysis. This cohort consisted of 542 Northern Finnish breast cancer cases diagnosed at the Oulu University Hospital between the years 2000 and 2007, and of 451 prospective breast cancer cases from the province of Northern Savo in Eastern Finland, diagnosed at the Kuopio University Hospital between April 1990 and December 1995 [14]. A total of 871 Finnish healthy females were used as controls. Of these 507 were anonymous cancer-free female Northern Finnish Red Cross blood donors (age C45 years), and 364 were control subjects from the province of Northern Savo in Eastern Finland, who were age and area-of-residence matched, selected from the National Population Register during the same time period as the Kuopio unselected breast cancer patient material. The presence of the c.-13_14del27 allele was also tested in an unselected ovarian cancer cohort of 332 patients diagnosed at the Oulu University Hospital.
+For the confirmation of RAD51C contribution to ovarian cancer susceptibility, a cohort of 232 ovarian cancer patients unselected for a family history of the disease was comprehensively screened for mutations in this gene. The study set included 204 Swedish patients diagnosed at the Sahlgrenska University Hospital in Gothenburg, and 28 Finnish patients diagnosed at the Kuopio University Hospital. Approval to perform the study was obtained from the Ethical Boards of the involved University Hospital Health Care Districts.
+RAD51C mutation analyses
+
+available databases. Intronic primers were designed using Primer3 software. Homologous sequences were identified by BLAT search and these were avoided in the designing process. PCR primers and reaction conditions are available on request. All identified variants were confirmed by re-sequencing original DNA in both directions. Sequence data was analyzed using Codon Code Aligner (CodonCode Corporation, Dedham, MA) and MEGA4 [15] analysis software.
+Study for the occurrence of two RAD51C sequence alterations c.-13_14del27 and T287A (rs28363317) observed in genomic sequencing as well as the genotyping of five tagSNPs (rs12946522, rs304270, rs304283, rs17222691, and rs28363312) for the association analysis was carried out in an unselected breast cancer patient cohort and in healthy female controls by using MassARRAYÒ (Sequenom Inc., San Diego, CA) and iPLEXÒ Gold (Sequenom, Inc.) on a 384-well plate format. TagSNPs were selected using the HapMap Genome Browser release 2 (Phase 3, NCBI build 36, bdSNP b126) as of May 28, 2010 (http://hapmap.ncbi. nlm.nih.gov/cgi-perl/gbrowse/hapmap3r2_B36/). TagSNPs for region chr17:54118611­54173040 were picked out for the CEU population using the Tagger multimarker algorithm with r2 cutoff at 0.8 and minor allele frequency (MAF) cutoff at 0.05. MassARRAY mass spectrometer (Sequenom, Inc.) was used for spectra acquisitions from the SpetroCHIP. Data analysis and genotype calling were done using TyperAnalyzer Software version 4.0.3.18 (Sequenom, Inc.). Each 384-well plate contained a minimum of eight non-template controls. For the c.-13_14del27 change DNA from one heterozygous mutation carrier and for T287A DNA from two heterozygous carriers were used as positive controls on each plate. For quality control, duplicate analysis was done for 6.5% of the Oulu samples and for 6.7% of the Kuopio samples. All primer sequences are available on request.
+Statistical analyses
+Carrier frequencies between cases and controls were compared using Fisher's exact test (two-sided) (PASW Statistics 18.0 for Windows, SPSS Inc., Chicago, IL). For tagSNP data, the overall association as well as the HardyWeinberg equilibrium, allele specific P, OR, and CI were computed using Cochran-Armitage trend test.
+
+Genomic sequencing (ABI3130xl Genetic Analyzer, Applied Biosystems, Carlsbad, CA) of 147 familial breast cancer cases and High-Resolution Melt (HRM) analysis (CFX96, Bio-Rad, Hercules, CA) of the 232 unselected ovarian cancer cases was performed based on sequence information (NC_000017.10, NM_058216.1) obtained from publicly
+
+Results
+Sequencing of RAD51C in index cases of 147 breast, or breast­ovarian cancer families revealed two sequence alterations: one leading to a single amino acid change (T287A) and one to a 27 base pair (bp) deletion in exon 1
+
+123
+
+1006
+A
+
+c. 1-13_ c. 14del27 M10R
+
+A126T
+
+1
+B
+WT
+
+Walker A 50 100 150
+RAD51C Exon1 ATG (start of translation)
+
+Breast Cancer Res Treat (2011) 130:1003­1010
+
+=ATP binding site =multimer (BRC) interface
+
+E191K
+
+c.774delT G264S T287A
+
+NLS
+
+Walker B 200 250
+
+300
+
+RAD51C Exon5 WT
+
+350 376
+
+c.1-13_c.14del27
+
+c.774delT
+
+Fig. 1 a Schematic diagram of the RAD51C protein showing predicted functional domains and the sites of the observed sequence changes. Putative NLS (nuclear localization signal), (NP_478123.1,
+
+[23]). b Sequence characterization of the observed germline mutations c.-13_14del27 and c.774delT of RAD51C
+
+Table 1 Observed sequence changes in the RAD51C gene in familial breast cancer patients
+
+Location Nucleotide change Effect on protein Novelty
+
+Carrier frequency
+
+P (OR; 95% CI)b
+
+Familial Br Unselected Br Controls
+
+Ex1 c.-13_14del27 No transcriptiona Novel
+
+1/147
+
+Ex6 c.859A[G
+
+T287A
+
+rs28363317 2/147
+
+0/990 0/984
+
+0/852 2/860
+
+0.147 (NA) 0.104 (5.9; 0.8­42.0)
+
+Br breast cancer, NA not available, OR odds ratio, CI confidence interval a Based on FPROM human promoter prediction software and HMM-based gene structure prediction software, FGENESH b Fisher's Exact Test, familial Br cases vs. controls
+
+(Fig. 1, Table 1). The T287A missense variant (rs28363317, [7]) was observed in two familial cancer index cases diagnosed with breast cancer, and was considered a benign alteration based on its prevalence in the healthy controls (2/860, P = 0.104) and absence from the unselected breast cancer cohort (0/984). The other alteration, c.-13_14del27 leading to a 27 bp deletion of the sequence around the translation initiation site, was observed in the index case of one family (Fig. 2). According to FPROM human promoter prediction software (Softberry, Inc., Mt. Kisco, NY) this deletion transfers the transcription start site 95 nucleotides downstream compared to that of the wild type allele, and all sequences needed for reliable predictions for this exon made by HMM-based gene structure prediction software,
+
+FGENESH (Softberry, Inc., Mt. Kisco, NY), are abolished. Based on bioinformatics, the observed 27 bp deletion thus produces a null allele, and is pathogenic. The index of the family with the RAD51C c.-13_14del27 allele was diagnosed with breast cancer at the age of 53 years, but she also developed leukemia 1 year after the first primary cancer. Her mother had breast cancer at the age of 69, and similarly, was also diagnosed with leukemia at the age of 76 years. Although this family showed very strong genetic predisposition to cancer, breast and ovarian in particular, the segregation of the mutation with the disease phenotype could not be demonstrated because of the lack of suitable specimens from deceased individuals. In addition to 852 healthy controls, the prevalence of RAD51C c.-13_14del27 was tested in
+
+123
+
+Breast Cancer Res Treat (2011) 130:1003­1010
+
+1007
+
+Fig. 2 Pedigree of breast
+
+cancer patient carrying the
+
+RAD51C c.-13_14del27 allele.
+
+Black circles represent patients
+
+with breast or ovarian cancer;
+
+other cancer types are marked
+
+with gray. Arrow points to the
+
+index patient. Br breast cancer, Bone bone cancer, Es esophagus
+
+Br 69y Ov 37y Leu 76y
+
+Pro
+
+cancer, Leu leukemia,
+
+Ov ovarian cancer, Neck neck tumor, Pro prostate cancer, Sp spinocellular carcinoma. If known, age at diagnosis or the time of monitoring is shown
+
+Pro,
+Bone
+67y -
+
+4 Ov 47y Sp 57y -
+
+Br 52y Leu 53y
++
+
+Ov 60y
+
+26y 47y -
+
+28y
+
+Neck 2y
+
+Br 73y
+
+Es
+
+Ov 39y Br 49y Br 67y --
+
+Leu
+
+Leu <4y
+
+990 unselected breast cancer cases and 332 ovarian cancer cases but no additional carriers were identified.
+Besides screening the entire gene for rare deleterious mutations, we also investigated whether common SNPs in RAD51C associate with breast cancer susceptibility. The allele distribution of five RAD51C tagSNPs, rs12946522, rs304270, rs304283, rs17222691, and rs28363312, locating within the gene was compared between 993 unselected breast cancer cases and 871 geographically matched unaffected controls. There was no evidence of a statistically significant association for any of these tagSNPs with breast cancer risk, although two of them, rs12946522 and rs17222691, in strong linkage disequilibrium suggested a borderline significant association with cancer susceptibility--a finding that needs to be confirmed by further studies with larger sample set (Table 2).
+Based on the strong indication that RAD51C mutations predispose not only for breast, but also for ovarian cancer, an additional ovarian cancer cohort (n = 232) unselected for a family history of the disease was comprehensively screened for RAD51C mutations by using the HRM prescreening method. This revealed several alterations (Fig. 1, Table 3): five amino acid changes, one intronic variant, and one frameshift mutation. All sequence alterations were observed in ovarian cancer patients originating
+
+Table 2 Association of five RAD51C tagSNPs with breast cancer
+
+TagSNP
+
+Minor allele MAF cases MAF controls P valuea
+
+rs12946522 rs304270 rs304283 rs17222691 rs28363312
+
+G G T T A
+
+0.26 0.33 0.27 0.28 0.09
+
+a Cochran-Armitage trend test
+
+0.23 0.34 0.26 0.25 0.09
+
+0.071 0.369 0.944 0.078 0.969
+
+from Sweden (n = 204). Three of the observed changes were novel ones and two of them, M10R and E191K, led to amino acid substitutions. Both affected residues showed evolutional conservation among mammals and zebra fish. The M10R change was observed in a patient diagnosed with ovarian cancer at the age of 80 years and was shown to have a deleterious effect on the protein by two different predictive algorithms. Also, E191K was considered possibly damaging by PolyPhen. It was observed in two index patients, both showing a clear indication for hereditary predisposition to cancer: the other carrier had been diagnosed with both breast and ovarian cancer at the age of 43 and 50 years, respectively, and the other was diagnosed with ovarian cancer at the age of 36 years. However, to reliably demonstrate the pathological nature of the M10R and E191K missense alterations, functional analyses would be required. Until then both remain missense alterations of uncertain clinical significance. Of the other four previously reported changes one, c.774delT, had a clearly deleterious effect on the protein as it led to a frameshift and protein truncation, and was considered pathogenic. The c.774delT carrier had been diagnosed with ovarian cancer at the age of 61 years. Both of her parents and also one sibling had been diagnosed with cancer but, unfortunately, no additional details of the type of cancer or of the age at malignancy diagnosis were available.
+Discussion
+RAD51C is an integral part of the DNA double-strand break repair through HR, and was recently established as a FA and breast cancer predisposing factor [5]. This study provides further evidence that germline defects in RAD51C are implicated in cancer predisposition, as two clearly deleterious mutations, c.-13_14del27 and c.774delT, were
+
+123
+
+1008
+
+Breast Cancer Res Treat (2011) 130:1003­1010
+
+Table 3 Observed sequence changes in the RAD51C gene in unselected ovarian cancer patients
+
+Location Nucleotide change Effect on protein SIFT
+
+PolyPhen
+
+Novelty Na MAFb
+
+This study CEU
+
+Ex1 Ex2 Ex3 IVS3 Ex5 Ex5 Ex6
+
+c.29T[G c.376G[A c.571G[A c.571-17G[T c.774delT c.790G[A c.859A[G
+
+M10R A126T E191K Intronicd R258fs G264Se T287A
+
+Not tolerated Tolerated Tolerated ­ ­ Tolerated Tolerated
+
+Probably damaging Benign Possibly damaging ­ ­ Benign Probably damaging
+
+Novel rs61758784 Novel Novel [22] [7] rs28363317
+
+1/232 2/232 2/232 2/232 1/232 2/232 4/232
+
+0.004 0.004 0.004
+0.004 0.009
+
+­ n.d.c ­ ­ ­ ­ 0.017
+
+Used predictive algorithms: NNSplice Software (http://www.fruitfly.org/seq_tools/splice.html), SIFT (http://sift.jcvi.org/), PolyPhen (http:// genetics.bwh.harvard.edu/pph/) a All changes observed in patients originating from Sweden (n = 204) b Minor allele frequency not displayed for singletons c No frequency data d No effect on splicing consensus sequences (NNSplice Software), always observed together with c.376G[A e Amino acid change G264S is suggested to be associated with malignancies in the subgroup of BC/OC families by Meindl et al. [7]
+
+identified in the studied cohorts. In contrast, none of the common SNPs within RAD51C associated with cancer susceptibility, indicating that these are not major breast cancer risk factors, at least not in the studied population.
+RAD51C c.-13_14del27 was observed in one of the 147 familial breast cancer cases. Similarly to the initial report by Meindl et al. [7], this family had a history of both breast and ovarian cancer. The RAD51C c.-13_14del27 family also had exceptionally high prevalence of leukemia cases, although the co-segregation of the RAD51C mutation with these could not be confirmed. The index herself developed leukemia 1 year after breast cancer diagnosis, suggesting a possible treatment association. Interestingly, a similar association with leukemia and treatment-associated leukemia has previously been suggested for BRCA1 and BRCA2 mutations [16]. The prevalence of RAD51C c.-13_14del27 mutation was also tested in 990 geographically matched breast and 332 ovarian cancer patients unselected for a family history of the disease, but additional carriers were not observed. This indicates that RAD51C c.-13_14del27 is a very rare, or even a private mutation rather than a common Finnish founder alteration that would explain a more significant fraction of breast or ovarian cancer susceptibility in our population.
+Of the currently studied 147 families, 35 displayed both breast and ovarian cancer, and the frequency of RAD51C mutations in them (1/35, 2.9%) was comparable to that reported previously (6/480, 1.25%) [7], although the number of this subset of families in this study was relatively small. Correspondingly, no RAD51C mutations were observed in the families with breast cancer only, which underlines the connection between RAD51C defects and predisposition to ovarian cancer. This was
+
+further strengthened by the identification of another deleterious alteration, RAD51C c.774delT, in the subsequently analyzed ovarian cancer cohort of 232 patients unselected for a family history of the disease, the identified mutation carrier originating from Sweden. The screening of the ovarian cancer cohort also revealed two missense mutations, M10R and E191K, with potential clinical relevance, as they targeted evolutionally conserved residues and were predicted to have damaging effects on the protein.
+The other replication studies published to date have, quite unexpectedly, failed to identify any clearly pathogenic mutations in RAD51C [17­21], with the exception of the study by Romero et al. [22] who reported a single deleterious RAD51C alteration in one Spanish breast and ovarian cancer family. Curiously, the reported alteration, c.774delT, was the same as independently observed in our study. To make things even more interesting, the Spanish mutation positive breast cancer patient inherited the c.774delT allele from her Swedish mother, who was still healthy at the age of 70 years. Altogether this data strongly suggests that c.774delT is a recurrent Swedish mutation, and should be studied further in this population. The identification of additional RAD51C mutation positive families would also provide the means for more reliable cancer risk assessments.
+Although the initial report implied that RAD51C is a very promising candidate to fulfill the expectations set up for breast­ovarian cancer susceptibility gene 3 or ``BRCA3'' (as already referred in OMIM) in regards of disease penetrance and cancer spectrum, the current evidence [17­22, this study] indicate that mutations in this gene are significantly much rarer than those occurring in BRCA1 and BRCA2. Overall, the results of the current RAD51C mutation analysis
+
+123
+
+Breast Cancer Res Treat (2011) 130:1003­1010
+
+1009
+
+and numerous previous studies [3, 7] further support the idea that rare gene variants, with either moderate or potentially even high disease penetrance, are important components of familial breast cancer. Indeed, virtually all breast cancer susceptibility genes identified to date are related to fundamental processes in cellular proliferation and DNA integrity control. The natural selection maintains the frequency of these alleles low as biallelic mutations in most of these genes have severe consequences, these individuals being either non-viable or having reduced fertility. It is likely that more of these rare breast cancer predisposing alleles will be found; the genes involved in the FA/BRCA pathway evidently being the most plausible candidates for harboring such mutations. It is possible that these, yet unidentified, rare alleles are limited in their geographical occurrence and each accounts only for a small fraction of the families. This will make their identification, and also subsequent confirmation of their pathological nature, even more challenging.
+Acknowledgments We thank Dr. Aki Mustonen, Dr. Jaakko Ignatius, Dr. Karolina Partheen, nurses Kari Mononen and Outi Kajula for their help in sample and data collection, and Meeri Otsukka for technical assistance and help in patient contacts. Jenni Nikkila¨ and Szilivia Solyom are acknowledged for their technical assistance. This study was financially supported by (RW) the Finnish Cancer Foundation, the Sigrid Juse´lius Foundation, the Academy of Finland, the University of Oulu, and the Oulu University Hospital; (KS) the Swedish Cancer Foundation, the King Gustav V Jubile´e Clinic Cancer Research Foundation and the Gothenburg Medical Society; (AL) the Swedish Cancer Society.
+Conflict of interest statement None.
+References
+1. Antoniou AC, Pharoah PD, McMullan G, Day NE, Stratton MR, Peto J, Ponder BJ, Easton DF (2002) A comprehensive model for familial breast cancer incorporating BRCA1, BRCA2 and other genes. Br J Cancer 86:76­83
+2. Erkko H, Xia B, Nikkila¨ J, Schleutker J, Syrja¨koski K, Mannermaa A, Kallioniemi A, Pylka¨s K, Karppinen SM, Rapakko K, Miron A, Sheng Q, Li G, Mattila H, Bell DW, Haber DA, Grip M, Reiman M, Jukkola-Vuorinen A, Mustonen A, Kere J, Aaltonen LA, Kosma VM, Kataja V, Soini Y, Drapkin RI, Livingston DM, Winqvist R (2007) A recurrent mutation in PALB2 in Finnish cancer families. Nature 446:316­319
+3. Walsh T, King MC (2007) Ten genes for inherited breast cancer. Cancer Cell 11:103­105
+4. Howlett NG, Taniguchi T, Olson S, Ox B, Waisfisz Q, De DieSmulders C, Persky N, Grompe M, Joenje H, Pals G, Ikeda H, Fox EA, D'Andrea AD (2002) Biallelic inactivation of BRCA2 in Fanconi anemia. Science 297:606­609
+5. Levy-Lahad E (2010) Fanconi anemia and breast cancer susceptibility meet again. Nat Genet 42:368­369
+6. Vaz F, Hanenberg H, Schuster B, Barker K, Wiek C, Erven V, Neveling K, Endt D, Kesterton I, Autore F, Fraternali F, Freund M, Hartmann L, Grimwade D, Roberts RG, Schaal H, Mohammed S, Rahman N, Schindler D, Mathew CG (2010) Mutation of
+
+the RAD51C gene in a Fanconi anemia-like disorder. Nat Genet 42:406­409 7. Meindl A, Hellebrand H, Wiek C, Erven V, Wappenschmidt B, Niederacher D, Freund M, Lichtner P, Hartmann L, Schaal H, Ramser J, Honisch E, Kubisch C, Wichmann HE, Kast K, Deissler H, Engel C, Muller-Myhsok B, Neveling K, Kiechle M, Mathew CG, Schindler D, Schmutzler RK, Hanenberg H (2010) Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 42:410­414 8. Masson JY, Stasiak AZ, Stasiak A, Benson FE, West SC (2001) Complex formation by the human RAD51C and XRCC3 recombination repair proteins. Proc Natl Acad Sci USA 98: 8440­8446 9. Masson JY, Tarsounas MC, Stasiak AZ, Stasiak A, Shah R, McIlwraith MJ, Benson FE, West SC (2001) Identification and purification of two distinct complexes containing the five RAD51 paralogs. Genes Dev 15:3296­3307 10. Liu Y, Masson JY, Shah R, O'Regan P, West SC (2004) RAD51C is required for Holliday junction processing in mammalian cells. Science 303:243­246 11. Moldovan GL, D'Andrea AD (2009) How the Fanconi anemia pathway guards the genome. Annu Rev Genet 43:223­249 12. Seal S, Thompson D, Renwick A, Elliott A, Kelly P, Barfoot R, Chagtai T, Jayatilake H, Ahmed M, Spanova K, North B, McGuffog L, Evans DG, Eccles D, Breast Cancer Susceptibility Collaboration (UK), Easton DF, Stratton MR, Rahman N (2006) Truncating mutations in the Fanconi anemia J gene BRIP1 are low-penetrance breast cancer susceptibility alleles. Nat Genet 38:1239­1241 13. Huusko P, Pa¨a¨kko¨nen K, Launonen V, Po¨yho¨nen M, Blanco G, Kauppila A, Puistola U, Kiviniemi H, Kujala M, Leisti J, Winqvist R (1998) Evidence of founder mutations in Finnish BRCA1 and BRCA2 families. Am J Hum Genet 62:1544­1548 14. Hartikainen JM, Tuhkanen H, Kataja V, Eskelinen M, Uusitupa M, Kosma VM, Mannermaa A (2006) Refinement of the 22q12­ q13 breast cancer-associated region: evidence of TMPRSS6 as a candidate gene in an eastern Finnish population. Clin Cancer Res 12:1454­1462 15. Kumar S, Nei M, Dudley J, Tamura K (2008) MEGA: a biologistcentric software for evolutionary analysis of DNA and protein sequences. Brief Bioinform 9:299­306 16. Shih HA, Nathanson KL, Seal S, Collins N, Stratton MR, Rebbeck TR, Weber BL (2000) BRCA1 and BRCA2 mutations in breast cancer families with multiple primary cancers. Clin Cancer Res 6:4259­4264 17. Akbari MR, Tonin P, Foulkes WD, Ghadirian P, Tischkowitz M, Narod SA (2010) RAD51C germline mutations in breast and ovarian cancer patients. Breast Cancer Res 12:404 18. Zheng Y, Zhang J, Hope K, Niu Q, Huo D, Olopade OI (2010) Screening RAD51C nucleotide alterations in patients with a family history of breast and ovarian cancer. Breast Cancer Res Treat 124:857­861 19. Silvestri V, Rizzolo P, Falchetti M, Zanna I, Masala G, Palli D, Ottini L (2011) Mutation screening of RAD51C in male breast cancer patients. Breast Cancer Res 13:404 20. Wong MW, Nordfors C, Mossman D Pecenpetelovska G, AveryKiejda KA, Talseth-Palmer B, Bowden NA, Scott RJ (2011) BRIP1, PALB2, and RAD51C mutation analysis reveals their relative importance as genetic susceptibility factors for breast cancer. Breast Cancer Res Treat 127:853­859 21. Pang Z, Yao L, Zhang J, Ouyang T, Li J, Wang T, Fan Z, Fan T, Lin B, Xie Y (2011) RAD51C germline mutations in Chinese women with familial breast cancer. Breast Cancer Res Treat [Epub ahead of print]
+
+123
+
+1010
+
+Breast Cancer Res Treat (2011) 130:1003­1010
+
+22. Romero A, Perez-Segura P, Tosar A Garcia-Saenz JA, DiazRubio E, Caldes T, de la Hoya M (2011) A HRM-based screening method detects RAD51C germ-line deleterious mutations in Spanish breast and ovarian cancer families. Breast Cancer Res Treat [Epub ahead of print]
+
+23. French CA, Tambini CE, Thacker J (2003) Identification of functional domains in the RAD51L2 (RAD51C) protein and its requirement for gene conversion. J Biol Chem 278:45445­45450
+
+123
+
+

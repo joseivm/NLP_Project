@@ -1,0 +1,482 @@
+joTuhernneawl
+
+england of medicine
+
+established in 1812
+
+August 7, 2014
+
+vol. 371 no. 6
+
+Breast-Cancer Risk in Families with Mutations in PALB2
+A.C. Antoniou, S. Casadei, T. Heikkinen, D. Barrowdale, K. Pylkäs, J. Roberts, A. Lee, D. Subramanian, K. De Leeneer, F. Fostira, E. Tomiak, S.L. Neuhausen, Z.L. Teo, S. Khan, K. Aittomäki, J.S. Moilanen, C. Turnbull, S. Seal, A. Mannermaa, A. Kallioniemi, G.J. Lindeman, S.S. Buys, I.L. Andrulis, P. Radice, C. Tondini, S. Manoukian,
+A.E. Toland, P. Miron, J.N. Weitzel, S.M. Domchek, B. Poppe, K.B.M. Claes, D. Yannoukakos, P. Concannon, J.L. Bernstein, P.A. James, D.F. Easton, D.E. Goldgar, J.L. Hopper, N. Rahman, P. Peterlongo, H. Nevanlinna,
+M.-C. King, F.J. Couch, M.C. Southey, R. Winqvist, W.D. Foulkes, and M. Tischkowitz
+
+abstr act
+
+BACKGROUND Germline loss-of-function mutations in PALB2 are known to confer a predisposition to breast cancer. However, the lifetime risk of breast cancer that is conferred by such mutations remains unknown.
+METHODS We analyzed the risk of breast cancer among 362 members of 154 families who had deleterious truncating, splice, or deletion mutations in PALB2. The age-specific breast-cancer risk for mutation carriers was estimated with the use of a modified segregation-analysis approach that allowed for the effects of PALB2 genotype and residual familial aggregation.
+
+The authors' full names, academic degrees, and affiliations are listed in the Appendix. Address reprint requests to Dr. Tischkowitz at the Department of Medical Genetics, Box 134, Level 6, Addenbrooke's Treatment Centre, Addenbrooke's Hospital, Hills Rd., Cambridge CB2 0QQ, United Kingdom, or at mdt33@cam.ac.uk.
+N Engl J Med 2014;371:497-506. DOI: 10.1056/NEJMoa1400382
+Copyright © 2014 Massachusetts Medical Society.
+
+RESULTS The risk of breast cancer for female PALB2 mutation carriers, as compared with the general population, was eight to nine times as high among those younger than 40 years of age, six to eight times as high among those 40 to 60 years of age, and five times as high among those older than 60 years of age. The estimated cumulative risk of breast cancer among female mutation carriers was 14% (95% confidence interval [CI], 9 to 20) by 50 years of age and 35% (95% CI, 26 to 46) by 70 years of age. Breast-cancer risk was also significantly influenced by birth cohort (P < 0.001) and by other familial factors (P = 0.04). The absolute breast-cancer risk for PALB2 female mutation carriers by 70 years of age ranged from 33% (95% CI, 25 to 44) for those with no family history of breast cancer to 58% (95% CI, 50 to 66) for those with two or more first-degree relatives with breast cancer at 50 years of age.
+
+CONCLUSIONS Loss-of-function mutations in PALB2 are an important cause of hereditary breast cancer, with respect both to the frequency of cancer-predisposing mutations and to the risk associated with them. Our data suggest the breast-cancer risk for PALB2 mutation carriers may overlap with that for BRCA2 mutation carriers. (Funded by the European Research Council and others.)
+
+n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+497
+
+The new england journal of medicine
+
+PALB2 (partner and localizer of BRCA2) was originally identified as a BRCA2-interacting protein that is crucial for key BRCA2 genome caretaker functions1,2; it was subsequently also shown to interact with BRCA1.3 Biallelic germline loss-of-function mutations in PALB2 (also known as FANCN) cause Fanconi's anemia, whereas monoallelic loss-of-function mutations are associated with an increased risk of breast cancer and pancreatic cancer.4 Previous studies of familial breast cancer have yielded estimates of risk in association with loss-of-function mutations in PALB2 that are two to four times as high as the risk among non­mutation carriers.5-7 In Finland, the PALB2 c.1592delT founder mutation was identified in approximately 1% of women with breast cancer who were not selected on the basis of a positive family history6 and was associated with a risk of breast cancer that was increased by a factor of six, which is similar to the risk among carriers of deleterious BRCA2 variants in the same country.8 In Canada, the PALB2 c.2323CT (p.Glu775X) founder mutation was detected in approximately 0.5% of FrenchCanadian women with early-onset breast cancer who were not selected on the basis of a positive family history.9 PALB2 loss-of-function mutations have now been observed in persons from many countries and are found in 0.6 to 3.9% of families with a history of breast cancer, depending on the population.
+Clinical testing for genes that confer a predisposition to breast cancer has been revolutionized by next-generation sequencing. Multigene panels that allow relatively inexpensive and rapid genetic profiling are now in widespread use. However, the usefulness of this technology for medical follow-up is limited by incomplete information on breast-cancer risk, even for welldocumented genes. To obtain more precise and robust estimates of the cancer risk associated with loss-of-function mutations in PALB2, we collected data on mutation carriers and their relatives from multiple centers worldwide. The goal of our study was to estimate the risk of breast cancer associated with inherited loss-offunction mutations in PALB2 on the basis of family data for mutation carriers from many locales, across multiple generations, and with differing family histories of cancer.
+
+Methods
+Families Families were identified through 14 participating research centers. Families were eligible for inclusion if at least one family member with breast cancer who tested negative for BRCA1 and BRCA2 mutations had a loss-of-function mutation in PALB2. Some families were ascertained through clinics for patients at high risk for breast cancer, and others were ascertained through screening of patients with breast cancer who were not selected on the basis of a positive family history. In instances in which PALB2 testing was performed on a research basis, this was done with local institutional-review-board approval; family data were made anonymous before analysis for this project. Informed consent was obtained from participants in accordance with institutional-reviewboard policies and local practices at each participating center. Families with PALB2 missense variants or with variants of uncertain pathogenicity were excluded from the study. The lists of participating centers and ascertainment criteria are provided in Table S1 in the Supplementary Appendix, available with the full text of this article at NEJM.org.
+Statistical Analysis The inheritance patterns of disease and genotypes in families were used to estimate the cancer risk conferred by PALB2 loss-of-function mutations, with the use of modified complex-segregationanalysis methods.10,11 Pedigree likelihoods were constructed with the use of the pedigree-analysis software Mendel, version 3.3,12 and a maximumlikelihood approach was used to obtain parameter estimates.
+For the main analysis, the phenotype of each female family member was defined by her age at breast-cancer diagnosis or, if she was unaffected, her age at last follow-up. Women were followed from 20 years of age until the age at diagnosis of breast, ovarian, or other cancer, age at death, age at last follow-up, or 80 years of age, whichever occurred first. For the analysis of breast-cancer risk, only women with a diagnosis of breast cancer (before a diagnosis of any other cancer) were assumed to be affected (see the Methods section in the Supplementary Appendix).
+
+498 n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+Breast-Cancer Risk and Mutations in PALB2
+
+We used two main models of genetic suscep-
+
+tibility: a single-gene model in which all familial
+
+aggregation of breast cancer was assumed to be
+
+due to the PALB2 loss-of-function mutations and
+
+a model in which genetic susceptibility to breast
+
+cancer was due to PALB2 loss-of-function muta-
+
+tions and to a residual component representing
+
+other familial effects. Under each model, the in-
+
+cidence of breast cancer for person i was depen-
+
+dent on the underlying PALB2 genotype and
+
+polygenotype (i.e., the genotype under the poly-
+
+genic model) through a model of the form
+
+mdwei(iilttle)hit=aoeluric0to(otau)msePpxAPpoLAnB[L2eBn(2mtt),guviaa+tsarPstiauii]on,mntw;;ehdgPeiitr=oeis1gbitfeho=ren0ocrfareomrsrriiadpeluerlysarslodoffinasas--
+
+tributed with mean 0 is the age-specific log
+
+arenldatvivaerirainskceforRc2;ararniedrs(ot)f
+
+a deleterious PALB2 variant relative to the base-
+
+line ods
+
+breast-cancer section in the
+
+Sinucpipdleenmcee,nta0(rty)
+
+(see the MethAppendix). For
+
+all models allowing for a residual familial com-
+
+ponent, we constrained the sum of the variance
+
+in breast-cancer risk due to PALB2 mutations and
+
+the residual estimates of
+
+variance, the total
+
+faRm2,itlioalagbrreeaeswt-citahnecxertevranrai-l
+
+adwneatcsaeia,lsesluPs2me,wefdohletlrooew.b11ienTeghqeuthatolettoaplr1of.ac6me6d,iulairavelavlduaeersieacsnrticibmee,datePi2nd,
+
+in previous breast-cancer segregation analyses.13,14
+
+Because families were ascertained in multiple
+
+ways, failure to adjust for the methods of ascer-
+
+tainment could have led to a biased estimation of
+
+cancer risk. To adjust for ascertainment, we used
+
+an ascertainment assumption­free approach15-17
+
+in which we evaluated each family separately.
+
+This involved dividing the data for each family
+
+into two components, one containing all the data
+
+potentially relevant to the and the other containing all
+
+tahsecedrattaainnmoternetlev(Fa1n)t,
+
+mtootdheeledastcheertacionnmdietniotn(aFl2)l.ikFeolirhoeoacdh,
+
+family, we L, as being
+
+epqroubaal bitloityPo(Ff 1o,bF2s)e/Prv(Fin1)g,
+
+where all data
+
+iPn(Ft1h,eF2p)edisigrtehee,
+
+arenldevPa(nFt1)tois
+
+the probability ascertainment
+
+of in
+
+observing only data the pedigree (Table
+
+S2 in the Supplementary Appendix).
+
+Specifically, for families identified through
+
+screening for PALB2 mutations in population-
+
+based series of breast-cancer cases, we modeled
+
+the conditional likelihood of observing the phe-
+
+notypes and genotypes in the families, given the PALB2 mutation status, disease status, and age at diagnosis only of the index patient. For families identified through multiple affected members, we maximized the likelihood of observing the phenotypes and genotypes in the family, given all the disease phenotypes and the mutation status of the index family member. Family data contributed information to the analysis only if PALB2 was genotyped in at least one family member in addition to the index patient. With this approach to adjustment for the method of ascertainment, 21 families that were ascertained through multiple affected members and in which no additional family members had been genotyped were excluded from the analysis. At some study centers, recruitment of families with multiple affected members was based on narrower criteria -- for example, phenotypes of first-degree relatives or of first-degree and second-degree relatives only (Table S1 in the Supplementary Appendix). For these families, ascertainment adjustment was based on maximizing the likelihood of observing the phenotypes and genotypes in the family, given the disease phenotypes of relatives included in the ascertainment and the mutation status of the index family member.
+Model parameters were expressed as the natural logarithm of the ratio of cancer incidence in PALB2 mutation carriers relative to baseline cancer incidence. Parameters were estimated with the use of the maximum-likelihood method, and variances were obtained from the observed information matrix. All statistical tests were twosided. A P value of 0.05 or less was considered to indicate statistical significance.
+Results
+Families Information was available from 175 families with at least one member who had breast cancer and a germline loss-of-function mutation in PALB2. After adjustment for ascertainment, 154 families were eligible for analysis. These 154 families included 311 women with PALB2 mutations, of whom 229 had breast cancer (Table 1), and 51 men with PALB2 mutations, of whom 7 had breast cancer. Among the 154 families, there were 48 different loss-of-function mutations in PALB2 (Fig. 1A, and Table S3 in the Supplementary Appendix).
+
+n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+499
+
+The new england journal of medicine
+
+Table 1. Breast and Ovarian Cancer among Female PALB2 Mutation Carriers and Noncarriers and Untested Females, According to Age at Diagnosis or Data Censoring.
+
+Age Group
+<20 yr 20­29 yr 30­39 yr 40­49 yr 50­59 yr 60­69 yr 70­79 yr 80 yr Total
+
+PALB2 Mutation Carriers Breast Ovarian
+Unaffected Cancer Cancer*
+1 00 4 70 2 50 0 15 84 1 23 55 4 14 24 1 12 7 2 11 2 0 82 229 8
+
+Tested Noncarriers Breast Ovarian
+Unaffected Cancer Cancer* number of women
+1 00 6 00 24 5 0 22 10 3 30 10 3 18 6 0 11 1 0 13 0 0 125 32 6
+
+Untested Breast
+Unaffected Cancer
+
+172 170 218 235 321 364 315 436 2231
+
+0 8 32 81 62 61 34 3 281
+
+Ovarian Cancer*
+0 0 1 3 8 6 7 0 25
+
+* This category includes all diagnosed cases of ovarian cancer (including those diagnosed after a breast-cancer diagnosis).
+
+Risk of Cancer Calculated under Different Models
+The risk of breast cancer for PALB2 mutation carriers was increased by a factor of 9.47 (95% CI, 7.16 to 12.57), as compared with the breastcancer incidence in the general population of the United Kingdom between 1993 and 1997, under a single-gene model of constant relative risk across all ages (Table S4 in the Supplementary Appendix). The corresponding mean cumulative risk of breast cancer by 70 years of age was estimated to be 47.5% (95% CI, 38.6 to 57.4). It initially appeared that the relative risk of breast cancer among PALB2 mutation carriers was higher at younger ages, with a relative risk of 17.6 for mutation carriers 20 to 39 years of age, as compared with a relative risk of 8.7 for those 40 to 79 years of age; however, models allowing for age-specific relative-risk parameters did not fit the data significantly better than the model with a constant relative risk (P = 0.07).
+Models that accounted for residual familial aggregation of breast cancer, in addition to the aggregation attributable to PALB2 loss-of-function mutations, provided a better fit to the data (Table S5 in the Supplementary Appendix). Moreover, a model including a background effect of familial factors on PALB2 mutation­associated risk provided a significantly better fit (P = 0.04) than did a model without modification of this risk (see
+
+the Supplementary Appendix). Such familial factors could include genetic, environmental, or lifestyle variables that are correlated among relatives.
+We fitted models in which parameters were expressed in terms of the risk for breast cancer in PALB2 mutation carriers relative to the baseline incidence (i.e., for non­mutation carriers with no residual familial component) and were assumed either to be constant with age or to vary with each decade of age (Table S5 in the Supplementary Appendix). When this relative-risk parameter was constant, it was estimated to be 9.07 (95% CI, 5.72 to 14.39). This model provided the best fit to the data. A model in which the risk relative to the baseline incidence was allowed to vary with age did not provide a significant improvement over the model with a constant relative risk (P = 0.40) (Table S5 in the Supplementary Appendix).
+Age-specific estimates of risk among PALB2 mutation carriers, over all background familial effects and risk ratios relative to population incidences under the best-fitting model, are summarized in Table 2. For PALB2 mutation carriers, the annual breast-cancer incidence increased with age, from 0.01% per year at 20 to 24 years of age to 1.60% per year at 50 to 54 years of age, then leveled off at approximately 1.4% per year thereafter. The relative risk associated with PALB2, averaged over all mutation carriers, was 8 to 9 up
+
+500 n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+Breast-Cancer Risk and Mutations in PALB2 A PALB2 Gene Structure and Mutations
+
+c.48GA c.72del (2) c.156del c.172_175del (4) c.196CT (2) c.229del c.451CT c.509_510del (4) c.757_758del (2) c.886del c.956_962del c.1027CT (8) c.1037_1041del c.1108CT c.1240CT (2) c.1314del c.1431del c.1571CG c.1591_1600del c.1592del (44) c.1653TA c.2074CT c.2167_2168del (2) c.2257CT (3) c.2323CT (7) c.2386GT (2) c.2515-1GT c.2521del c.2686dup c.2718GA c.2787_2788del cc..22883345-+11GGCT (2) c.2888del c.2919_2920del c.2982dup c.3022del c.3113GA (25) c.3116del (5) c.3201+1GC c.3323del (2) c.3423_3426del c.3426dup c.3456dup c.3497_3498del c.3504_3505del c.3549CA; CG (5)
+
+del 5340
+
+Exons 1 2 3
+
+4
+
+5 6 7 8 9 10 11 12 13
+
+Loss-of-Function Mutations
+Frameshift Nonsense Splice Genomic deletion
+
+Functional Domains
+
+Oligomerization and DNA damage localization [1­160]
+RAD51 interaction [1­200] BRCA1 interaction [1­319]
+
+KEAP1 interaction [88­94]
+MRG15 interaction [611­764]
+BRCA2, RAD51, and Pol interaction [853­1186]
+
+Mean Cumulative Risk of Breast Cancer (%)
+
+B Breast-Cancer Risk for Female PALB2 Mutation Carriers
+55 50 45 40 35 30 25 20 15 10 5 0
+0 20 30 40 50 60 70
+Age (yr)
+
+Structural Motifs Coiled-coil [9­42] Extended ETGE motif [88­94] Chromatin association motif [395­446] WD40-like repeats [853­1186]
+95% CI Mean 5% CI
+80
+
+Figure 1. Loss-of-Function PALB2 Germline Mutations in Relation to Functional Domains and Structural Motifs of the PALB2 Protein, and Cumulative Breast-Cancer Risk for Female Mutation Carriers.
+Panel A is a schematic representation of the PALB2 gene together with all deleterious variants reported in this study, superimposed on the exonic structure of the gene, with functional domains and structural motifs indicated. The number of families with a certain allele is shown in parentheses after the mutation; no such number is given for mutations present only in single families. Numbers in square brackets after functional domains and structural motifs denote amino acid positions. Note that the KEAP1 interaction functional domain is an extended ETGE motif. Panel B shows the mean cumulative risk of breast cancer for female PALB2 mutation carriers and associated confidence intervals.
+
+to 40 years of age, 6 to 8 between 40 and 60 Using the same approach, we estimated that
+
+years of age, and approximately 5 at 60 years of the relative risk of ovarian cancer among PALB2
+
+age or older (Table 2, and Fig. S1 in the Supple- mutation carriers was 2.31 (95% CI, 0.77 to 6.97;
+
+mentary Appendix). The cumulative risk of breast P = 0.18). The relative risk of breast cancer for
+
+cancer for female PALB2 mutation carriers was male PALB2 mutation carriers, as compared with
+
+estimated to be 14% (95% CI, 9 to 20) by 50 years the male breast-cancer incidence in the general
+
+of age and 35% (95% CI, 26 to 46) by 70 years of population, was estimated to be 8.30 (95% CI,
+
+age (Fig. 1B).
+
+0.77 to 88.56; P = 0.08). The risk of breast cancer
+
+n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+501
+
+The new england journal of medicine
+
+Table 2. Estimated Age-Specific Relative Risk of Breast Cancer for Female PALB2 Mutation Carriers under the Most Parsimonious Model.*
+
+Table 3. Estimated Relative Risk of Breast Cancer for Female PALB2 Mutation Carriers in Earlier and Later Birth Cohorts.
+
+Age Group
+20­24 yr 25­29 yr 30­34 yr 35­39 yr 40­44 yr 45­49 yr 50­54 yr 55­59 yr 60­64 yr 65­69 yr 70­74 yr 75­79 yr
+
+Annual Mean Breast-Cancer
+Incidence % 0.01 0.07 0.23 0.50 0.85 1.27 1.60 1.45 1.47 1.19 1.34 1.34
+
+Mean Relative Risk (95% CI)
+9.01 (5.70­14.16) 8.97 (5.68­14.08) 8.85 (5.63­13.78) 8.54 (5.51­13.08) 8.02 (5.29­11.95) 7.31 (4.98­10.55) 6.55 (4.60­9.18) 5.92 (4.27­8.10) 5.45 (4.00­7.33) 5.10 (3.80­6.76) 4.82 (3.63­6.33) 4.56 (3.48­5.95)
+
+* The most parsimonious model allows for a constant risk ratio relative to the baseline breast-cancer incidence (applicable to those without a mutation and with no residual component) and equal residual and modifying variances.
+ Values are the estimated mean breast-cancer incidence over all background familial effects.
+ Relative risks are for the comparison of the mean breastcancer incidence among PALB2 mutation carriers (over all background familial effects) with the age-specific breast-cancer incidence in the U.K. population from 1993 to 1997.
+
+among female PALB2 mutation carriers was not significantly changed by including ovarian cancer or male breast cancer in the model.
+Hormone-Receptor and HER2 Status Breast-cancer estrogen-receptor status was available for 129 affected PALB2 mutation carriers, and the tumors in 95 of the 129 (74%) were estrogen-receptor­positive; this frequency is similar to that seen among patients with BRCA2 mutations18 or with sporadic breast cancer. Additional information on progesterone-receptor and HER2 status was available for a total of 63 affected PALB2 mutation carriers, 19 (30%) of whom had an estrogen-receptor­negative, progesteronereceptor­negative, and HER2-negative (triple-negative) phenotype, as compared with a frequency of triple-negative status that ranges from 12 to 17% among unselected patients with breast cancer.19
+
+Year of Birth Before 1940 1940­1959 In 1960 or later
+
+Relative Risk (95% Floated CI)* 1.00 (0.59­1.69) 2.84 (1.64­4.93) 6.29 (2.81­14.10)
+
+* Floated CIs allow for comparisons of the relative-risk estimates across all categories without the need to define a reference category. P < 0.001 for heterogeneity, from the comparison of the model allowing for a single relativerisk parameter and the model with cohort-specific parameters.
+
+Birth Cohort and Country of Residence We evaluated whether birth cohort or country of residence affected breast-cancer risk among PALB2 mutation carriers. Carriers were divided into cohorts born before 1940, between 1940 and 1959, and in 1960 or later (Table 3). The relative risk of breast cancer among PALB2 mutation carriers increased significantly as birth cohort became more recent (P < 0.001). In contrast, we did not find evidence of differences in the relativerisk estimates for PALB2 mutation carriers according to country of residence (P = 0.11) (Table S6 in the Supplementary Appendix).
+Familial Variance In our analyses, we assumed that the total familial variance was approximately 1.66, on the basis of previous estimates from breast-cancer segregation analyses.13,14 This is equivalent to a risk of breast cancer for first-degree relatives of patients with breast cancer that is approximately 2.3 times as high as that in the general population, in line with estimates from large epidemiologic studies.20 When the total familial variance was assumed to be 1.2, equivalent to an approximate familial relative risk of 1.8 for first-degree relatives, the mean breast-cancer risk for female PALB2 mutation carriers by 70 years of age was estimated to be 36.9%. When the familial variance was assumed to be 2.0, equivalent to an approximate familial relative risk of 2.7, the corresponding mean breastcancer risk was estimated to be 34.3%. Therefore, the mean penetrance estimates were not sensitive to assumptions about the total familial variance, provided these were in line with observed patterns of familial relative risks of breast cancer.
+
+502 n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+Breast-Cancer Risk and Mutations in PALB2
+
+Table 4. Risk of Breast Cancer for Female PALB2 Mutation Carriers, According to Family History of Breast Cancer.
+
+Age
+30 yr 35 yr 40 yr 45 yr 50 yr 55 yr 60 yr 65 yr 70 yr 75 yr 80 yr
+
+Mean Estimate without Family History Taken into Account
+0.4 (0.3­0.7) 2 (1.0­2.4) 4 (3­6) 8 (5­12) 14 (9­20) 20 (14­28) 26 (19­35) 31 (23­42) 35 (26­46) 40 (30­51) 44 (34­55)
+
+Cumulative Risk (95% CI)
+
+Mother Unaffected at 50 Yr
+
+Sister and
+
+of Age, Maternal
+
+Mother with Mother with
+
+Grandmother Unaffected Breast Cancer at Breast Cancer
+
+at 70 Yr of Age*
+
+35 Yr of Age* at 50 Yr of Age*
+
+Mother and Maternal Grandmother with Breast Cancer at 50 Yr of Age*
+
+percent
+
+0.3 (0.2­0.6)
+
+0.8 (0.5­1.1) 0.9 (0.6­1.2)
+
+0.7 (0.5­1.0)
+
+1 (0.9­2.2)
+
+3 (2­4)
+
+3 (2­4)
+
+3 (2­4)
+
+3 (2­5)
+
+7 (5­10)
+
+8 (6­11)
+
+7 (5­9)
+
+7 (5­11)
+
+14 (9­20)
+
+16 (12­21)
+
+13 (10­18)
+
+13 (8­18)
+
+23 (16­31)
+
+27 (21­33)
+
+22 (17­29)
+
+19 (13­26)
+
+33 (24­43)
+
+38 (30­45)
+
+32 (25­40)
+
+24 (18­33)
+
+40 (31­51)
+
+46 (38­54)
+
+40 (32­48)
+
+29 (22­39)
+
+47 (37­58)
+
+53 (45­61)
+
+46 (38­55)
+
+33 (25­44)
+
+52 (41­63)
+
+58 (50­66)
+
+51 (42­60)
+
+38 (28­48)
+
+57 (46­68)
+
+63 (55­71)
+
+56 (47­65)
+
+41 (32­53)
+
+61 (50­72)
+
+67 (59­75)
+
+61 (51­69)
+
+* Data are predicted breast-cancer risks obtained from the most parsimonious model, which allows for the residual familial aggregation effects in PALB2 mutation carriers and noncarriers.
+
+Discussion As clinical genetic testing for breast-cancer risk increasingly includes other genes in addition to BRCA1 and BRCA2, it is important to have robust risk estimates for women who carry loss-of-function mutations in genes such as PALB2. We estimated the risk of breast cancer for PALB2 mutation carriers, using data from 154 families with 362 members who had loss-of-function mutations in this gene. Under the best-fitting model, which included a residual familial component, the mean risk of breast cancer for female PALB2 mutation carriers by 70 years of age was estimated to be 35% (95% CI, 26 to 46). Models that allowed for a residual familial component influencing risk fit the data significantly better than did models without a modifying component, which suggests that breast-cancer risk for PALB2 mutation carriers is modified by other genetic or environmental factors that cluster in families, as shown previously for BRCA1 and BRCA2.10,21-23 Thus, the results suggest that no single set of penetrance estimates applies to all PALB2 mutation carriers; the risk of breast cancer associated with PALB2 will also depend on genotypes at other modifying loci or on other familial factors.24 Until such modifiers
+
+of risk are identified, our model allows for PALB2-associated breast-cancer risk to be computed on the basis of both genotype and family history.
+The cumulative risk estimates for female PALB2 mutation carriers, calculated with the use of different assumptions about family history of breast cancer, are shown in Table 4. By 70 years of age, breast-cancer risk ranged from 33% (95% CI, 25 to 44) for a female carrier with no affected relatives to 58% (95% CI, 50 to 66) for a female carrier with two first-degree relatives who had breast cancer diagnosed by 50 years of age. Such differences in risk are consistent with previous observations,25 and it is possible that family history and PALB2 genotype should be considered together in determining the risk level and appropriate management.
+On the basis of our mean risk estimates and an assumed PALB2 mutation carrier frequency of 0.08% (see the Supplementary Appendix), PALB2 loss-of-function mutations are estimated to account for approximately 2.4% of the familial aggregation of breast cancer. However, this estimate is very imprecise, since it depends critically on the assumed PALB2 mutation frequency, for which data are currently scarce. Moreover, PALB2 mutation frequency, and therefore the contribution of
+
+n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+503
+
+The new england journal of medicine
+
+such mutations to familial aggregation, varies widely across populations.
+In contrast, a consistent finding across populations is that breast-cancer risk among PALB2 mutation carriers is significantly higher for women from more recent birth cohorts, a finding that has also been reported for carriers of loss-offunction mutations in BRCA1 and BRCA2.26-28 Even though we used calendar period­specific and cohort-specific incidences in our analyses, thus allowing for changes in breast-cancer incidence over time, this observation may be partly accounted for by changes in surveillance methods, specifically for women with a strong family history of breast cancer. Although it appeared that there were differences in the PALB2-associated relative risks of breast cancer according to country, these differences were not significant in the present sample. Future large studies of PALB2 mutation carriers, ideally including prospective cohorts, will be needed to further characterize cancer risks conferred by PALB2 mutations, to assess the role of factors such as lifestyle and hormone use on the breast-cancer risk of PALB2 mutation carriers, and to investigate differences according to country of origin or specific PALB2 mutations.
+Our analysis included both families that were carefully selected through screening of families with multiple members who had breast cancer and families identified through population-based studies of patients with breast cancer. All our analyses were corrected for the methods of ascertainment, in order to preclude bias in risk estimates caused by the inclusion of families with multiple cases. We recognize the variation and uncertainty in modes of ascertainment of families among different centers. Modeling likelihood as conditional on family history will reduce bias but can reduce the precision of estimates. It is expected that inclusion of data from more carrier families over time will improve precision.
+The large number of families and confirmed PALB2 mutation carriers in our study offers additional precision in estimating breast-cancer risk. Loss-of-function mutations in PALB2 confer a higher risk of breast cancer than do loss-of-function mutations in other genes for which there are good risk estimates, notably CHEK2 1100delC29 and ATM.30-32 On the basis of our estimates, the breast-cancer risk for a PALB2 mutation carrier,
+
+even in the absence of a family history of breast cancer, would be classified as high according to various guidelines.33,34 This level of risk may justify adding PALB2 to genetic testing for BRCA1 and BRCA2.
+On the basis of our estimates of risk, women with loss-of-function mutations in PALB2 should be studied to determine whether enhanced surveillance for breast cancer, in line with that offered to women with mutations in BRCA2, can influence outcomes. Risk-reducing surgical options could also be tested. We found a nonsignificant increase, by a factor of 2.3, in the risk of ovarian cancer for PALB2 carriers. The question of whether loss-of-function mutations in PALB2 confer a predisposition to ovarian cancer will require larger studies to address. We also estimated that the risk of breast cancer for male PALB2 mutation carriers is increased by a factor of 8, which is consistent with previous reports,7,35,36 but the confidence interval for this estimate was very large. PALB2 loss-of-function mutations have been shown to confer a predisposition to pancreatic cancer,37,38 but the lifetime risk in carriers has yet to be quantified.
+Our study includes most of the reported families with PALB2 mutation carriers, as well as many not previously reported, but it is still based on small numbers. Because of the widespread availability of multigene panels and whole-exome sequencing, screening for inherited loss-of-function mutations in PALB2 has begun to enter clinical practice. As families with PALB2 mutations are identified, it will be valuable to collect family history and other data for future analysis, in order to refine estimates of the cancer risks for PALB2 mutation carriers.
+Supported by grants from the European Union Seventh Framework Program (2007­2013)/European Research Council (310018, to Dr. Tischkowitz); Cancer Research UK (C12292/ A11174, to Dr. Antoniou); the National Institutes of Health (R01CA175716, to Drs. Casadei and King; CA128978, CA116167, and CA116201, to Dr. Couch; and RFA CA-06-503, UM1 CA164920, RFA CA-06-503, U01 CA69467, U01 CA69417, U01 CA69398, U01 CA69631, U01 CA69446, and U01 CA69638, to Drs. Teo, Southey, Andrulis, Goldgar, and Hopper); the Academy of Finland (122715, to Dr. Winqvist; 250083, to Dr. Pylkäs; Center of Excellence 251314, to Dr. Winqvist; and 266528, to Dr. Nevanlinna); the Finnish Cancer Foundation (to Dr. Winqvist and to Dr. Nevanlinna); the Sigrid Jusélius Foundation (to Dr. Winqvist and to Dr. Nevanlinna); the University of Oulu, the University of Oulu Support Foundation and Biocenter Oulu, and the special Finnish Government EVO funds for Oulu University Hospital­based research activities (to Dr. Winqvist); the Helsinki University Central Hospital Research Fund and the Nordic Can-
+
+504 n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+Breast-Cancer Risk and Mutations in PALB2
+
+cer Union (to Dr. Nevanlinna); the Fund for Scientific Research Flanders (G.A044.10, to Dr. Claes); Ghent University (BOF10/ GOA/019, to Dr. De Leeneer); the European Union European Social Fund and Greek national funds through the operational program "Education and Lifelong Learning" of the National Strategic Reference Framework Research Funding Program, General Secretariat for Research and Technology (to Dr. Yannoukakos); Ohio State Comprehensive Cancer Center and the Stefanie Spielman Fund for Breast Cancer Research (to Dr. Toland); the National Cancer Institute (RC4A153828, to Dr. Weitzel; and CA083178, CA097397, CA114236, and CA129639, to Drs. Concannon and Bernstein); Susan G. Komen (to Drs. Domchek and Foulkes); Associazione Italiana per la Ricerca sul Cancro (IG 4017, to Drs. Manoukian and Peterlongo); Fondazione Istituto di Ricovero e Cura a Carattere Scientifico Istituto Nazionale Tumori (to Dr. Peterlongo); and National Health and Medical Research Council Australia (APP1029974), the Victorian Cancer Agency (CTTS07, EOI09_50), and the Victorian Breast Cancer Research Consortium (to Dr. Southey).
+Dr. Goldgar reports being listed on patents related to a chro-
+
+mosome 17q­linked breast and ovarian cancer susceptibility gene (US 6,162,897, US 5,753,441, US 5,747,282, and US 5,710,001), all licensed to Myriad Genetics. Dr. Couch reports being listed on patents related to a chromosome 13­linked breast cancer susceptibility gene (US 5,837,492 and US 6,033,857), both licensed to Myriad Genetics. No other potential conflict of interest relevant to this article was reported.
+Disclosure forms provided by the authors are available with the full text of this article at NEJM.org.
+We thank Tom Walsh, Xianshu Wang, and Steven Hart for their contribution to the PALB2 mutation screening; Carl Blomqvist, Virpi Palola, Arja Jukkola-Vuorinen, Mervi Grip, Outi Kajula, Meeri Otsukka, Leena Keskitalo, Annika Väntänen, Tom Van Maerken, Robert Pilarski, Janet Olson, Bernardo Bonanni, Monica Barile, Bernard Peissel, Liliana Varesco, Heather Thorne, Eveline Niedermayr, and all the kConFab research nurses and staff for assistance with the accrual of study participants and collection of data; the families for participation in the study; and the members of the PALB2 Interest Group for their comments and suggestions.
+
+Appendix The authors' full names and academic degrees are as follows: Antonis C. Antoniou, Ph.D., Silvia Casadei, Ph.D., Tuomas Heikkinen, Ph.D., Daniel Barrowdale, B.Sc., Katri Pylkäs, Ph.D., Jonathan Roberts, B.Sc., Andrew Lee, Ph.D., Deepak Subramanian, M.B., B.Chir., Kim De Leeneer, Ph.D., Florentia Fostira, Ph.D., Eva Tomiak, M.D., Susan L. Neuhausen, Ph.D., Zhi L. Teo, Ph.D., Sofia Khan, Ph.D., Kristiina Aittomäki, M.D., Ph.D., Jukka S. Moilanen, M.D., Ph.D., Clare Turnbull, M.D., Ph.D., Sheila Seal, M.I.Biol., Arto Mannermaa, Ph.D., Anne Kallioniemi, M.D., Ph.D., Geoffrey J. Lindeman, F.R.A.C.P., Ph.D., Saundra S. Buys, M.D., Irene L. Andrulis, Ph.D., Paolo Radice, Ph.D., Carlo Tondini, M.D., Siranoush Manoukian, M.D., Amanda E. Toland, Ph.D., Penelope Miron, Ph.D., Jeffrey N. Weitzel, M.D., Susan M. Domchek, M.D., Bruce Poppe, M.D., Ph.D., Kathleen B.M. Claes, Ph.D., Drakoulis Yannoukakos, Ph.D., Patrick Concannon, Ph.D., Jonine L. Bernstein, Ph.D., Paul A. James, M.B., Ch.B., Ph.D., Douglas F. Easton, Ph.D., David E. Goldgar, Ph.D., John L. Hopper, Ph.D., Nazneen Rahman, M.D., Ph.D., Paolo Peterlongo, Ph.D., Heli Nevanlinna, Ph.D., Mary-Claire King, Ph.D., Fergus J. Couch, Ph.D., Melissa C. Southey, Ph.D., Robert Winqvist, Ph.D., William D. Foulkes, M.B., B.S., Ph.D., and Marc Tischkowitz, M.D., Ph.D.
+The authors' affiliations are as follows: Departments of Public Health and Primary Care (A.C.A., D.B., A.L., D.F.E.) and Oncology (D.F.E.), Centre for Cancer Genetic Epidemiology, Department of Oncology (D.F.E.), and Department of Medical Genetics and National Institute for Health Research Cambridge Biomedical Research Centre (M.T.), University of Cambridge, and the Department of Clinical Genetics, East Anglian Regional Genetics Service, Addenbrooke's Hospital (J.R., D.S., M.T.), Cambridge, and the Oncogenetics Team, Institute of Cancer Research and Royal Marsden National Health Service Foundation Trust, London (C.T., S.S., N.R.) -- all in the United Kingdom; the Division of Medical Genetics, Department of Medicine, University of Washington, Seattle (S.C., M.-C.K.); the Department of Obstetrics and Gynecology, University of Helsinki and Helsinki University Central Hospital (T.H., S.K., H.N.), and the Department of Clinical Genetics, Helsinki University Central Hospital (K.A.), Helsinki, the Laboratory of Cancer Genetics and Tumor Biology, Department of Clinical Chemistry and Biocenter Oulu, University of Oulu, and the Laboratory of Cancer Genetics and Tumor Biology, Northern Finland Laboratory Center NordLab, Oulu University Hospital (K.P., R.W.), and the Department of Clinical Genetics, University of Oulu and Oulu University Hospital (J.S.M.), Oulu, Biocenter Kuopio and Cancer Center of Eastern Finland, University of Eastern Finland, Kuopio (A.M.), and the Institute of Biomedical Technology­Cancer Genomics, University of Tampere, Tampere (A.K.) -- all in Finland; the Center for Medical Genetics, Ghent University Hospital, Ghent, Belgium (K.D.L., B.P., K.B.M.C.); the Molecular Diagnostics Laboratory, Institute of Nuclear and Radiologic Sciences and Technology, Energy and Safety, National Center for Scientific Research Demokritos, Athens (F.F., D.Y.); the Department of Genetics, Eastern Ontario Regional Genetics Program, Children's Hospital of Eastern Ontario, Ottawa (E.T.), Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto (I.L.A.), and the Program in Cancer Genetics, Departments of Human Genetics and Oncology, Lady Davis Institute, and Research Institute, McGill University Health Centre, McGill University, Montreal (W.D.F.) -- all in Canada; the Department of Population Sciences, Beckman Research Institute (S.L.N.), and the Division of Clinical Cancer Genetics (J.N.W.), City of Hope, Duarte, CA; the Genetic Epidemiology Laboratory, Department of Pathology, University of Melbourne (Z.L.T., M.C.S.), Familial Cancer Centre, Royal Melbourne Hospital (G.J.L.), and Stem Cells and Cancer Division, Walter and Eliza Hall Institute of Medical Research (G.J.L.), Parkville, and the Familial Cancer Centre, Peter MacCallum Cancer Centre (P.A.J.), and the Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, University of Melbourne (J.L.H.), Melbourne -- all in Australia; the Huntsman Cancer Institute, University of Utah School of Medicine, Salt Lake City (S.S.B., D.E.G.); the Unit of Molecular Bases of Genetic Risk and Genetic Testing (P.R.) and the Unit of Medical Genetics (S.M.), Department of Preventive and Predictive Medicine, Fondazione Istituto di Ricovero e Cura a Carattere Scientifico, Istituto Nazionale dei Tumori Milano, and Istituto di Oncologia Molecolare della Fondazione Italiana Ricerca sul Cancro (P.P.), Milan, and the Unit of Medical Oncology, Azienda Ospedaliera Papa Giovanni XXIII, Bergamo (C.T.) -- all in Italy; the Department of Molecular Virology, Immunology and Medical Genetics, Ohio State University, Columbus (A.E.T.), and Department of Genetics and Genome Sciences, Case Western Reserve University Medical School, Cleveland (P.M.); Basser Research Center, Abramson Cancer Center, University of Pennsylvania, Philadelphia (S.M.D.); the Genetics Institute and Department of Pathology, Immunology and Laboratory Medicine, University of Florida, Gainesville (P.C.); the Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer Center, New York (J.L.B.); and the Departments of Health Sciences Research and Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN (F.J.C.).
+
+n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+505
+
+Breast-Cancer Risk and Mutations in PALB2
+
+References 1. Xia B, Sheng Q, Nakanishi K, et al. Control of BRCA2 cellular and clinical functions by a nuclear partner, PALB2. Mol Cell 2006;22:719-29. 2. Sy SM, Huen MS, Zhu Y, Chen J. PALB2 regulates recombinational repair through chromatin association and oligomerization. J Biol Chem 2009;284:1830210. 3. Zhang F, Ma J, Wu J, et al. PALB2 links BRCA1 and BRCA2 in the DNA-damage response. Curr Biol 2009;19:524-9. 4. Tischkowitz M, Xia B. PALB2/FANCN: recombining cancer and Fanconi anemia. Cancer Res 2010;70:7353-9. 5. Casadei S, Norquist BM, Walsh T, et al. Contribution of inherited mutations in the BRCA2-interacting protein PALB2 to familial breast cancer. Cancer Res 2011; 71:2222-9. 6. Erkko H, Xia B, Nikkilä J, et al. A recurrent mutation in PALB2 in Finnish cancer families. Nature 2007;446:316-9. 7. Rahman N, Seal S, Thompson D, et al. PALB2, which encodes a BRCA2-interacting protein, is a breast cancer susceptibility gene. Nat Genet 2007;39:165-7. 8. Erkko H, Dowty JG, Nikkilä J, et al. Penetrance analysis of the PALB2 c.1592delT founder mutation. Clin Cancer Res 2008;14:4667-71. 9. Foulkes WD, Ghadirian P, Akbari MR, et al. Identification of a novel truncating PALB2 mutation and analysis of its contribution to early-onset breast cancer in French-Canadian women. Breast Cancer Res 2007;9:R83. 10. Antoniou AC, Cunningham AP, Peto J, et al. The BOADICEA model of genetic susceptibility to breast and ovarian cancers: updates and extensions. Br J Cancer 2008;98:1457-66. 11. Barnes DR, Barrowdale D, Beesley J, et al. Estimating single nucleotide polymorphism associations using pedigree data: applications to breast cancer. Br J Cancer 2013;108:2610-22. 12. Lange K, Weeks D, Boehnke M. Programs for pedigree analysis: MENDEL, FISHER, and dGENE. Genet Epidemiol 1988;5:471-2. 13. Antoniou AC, Pharoah PD, McMullan G, Day NE, Ponder BA, Easton D. Evidence for further breast cancer susceptibility genes in addition to BRCA1 and BRCA2 in a population-based study. Genet Epidemiol 2001;21:1-18. 14. Pharoah PD, Antoniou A, Bobrow M, Zimmern RL, Easton DF, Ponder BA. Poly-
+
+genic susceptibility to breast cancer and implications for prevention. Nat Genet 2002;31:33-6. 15. Cannings C, Thompson EA. Ascertainment in the sequential sampling of pedigrees. Clin Genet 1977;12:208-12. 16. Ewens WJ, Shute NC. A resolution of the ascertainment sampling problem. I. Theory. Theor Popul Biol 1986;30:388412. 17. Shute NC, Ewens WJ. A resolution of the ascertainment sampling problem. III. Pedigrees. Am J Hum Genet 1988;43:38795. 18. Honrado E, Benítez J, Palacios J. Histopathology of BRCA1- and BRCA2-associated breast cancer. Crit Rev Oncol Hematol 2006;59:27-39. 19. Foulkes WD, Smith IE, Reis-Filho JS. Triple-negative breast cancer. N Engl J Med 2010;363:1938-48. 20. Collaborative Group on Hormonal Factors in Breast Cancer. Familial breast cancer: collaborative reanalysis of individual data from 52 epidemiological studies including 58,209 women with breast cancer and 101,986 women without the disease. Lancet 2001;358:1389-99. 21. Begg CB, Haile RW, Borg A, et al. Variation of breast cancer risk among BRCA1/2 carriers. JAMA 2008;299:194201. 22. Begg CB. On the use of familial aggregation in population-based case probands for calculating penetrance. J Natl Cancer Inst 2002;94:1221-6. 23. Levy-Lahad E, Lahad A, Eisenberg S, et al. A single nucleotide polymorphism in the RAD51 gene modifies cancer risk in BRCA2 but not BRCA1 carriers. Proc Natl Acad Sci U S A 2001;98:3232-6. 24. Byrnes GB, Southey MC, Hopper JL. Are the so-called low penetrance breast cancer genes, ATM, BRIP1, PALB2 and CHEK2, high risk for women with strong family histories? Breast Cancer Res 2008; 10:208. 25. Heikkinen T, Kärkkäinen H, Aaltonen K, et al. The breast cancer susceptibility mutation PALB2 1592delT is associated with an aggressive tumor phenotype. Clin Cancer Res 2009;15:3214-22. 26. Foulkes WD, Brunet JS, Wong N, Goffin J, Chappuis PO. Change in the penetrance of founder BRCA1/2 mutations? A retrospective cohort study. J Med Genet 2002;39:407-9. 27. Antoniou A, Pharoah PD, Narod S, et al. Average risks of breast and ovarian
+
+cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies. Am J Hum Genet 2003;72:1117-30. 28. King MC, Marks JH, Mandell JB. Breast and ovarian cancer risks due to inherited mutations in BRCA1 and BRCA2. Science 2003;302:643-6. 29. Weischer M, Bojesen SE, Ellervik C, Tybjaerg-Hansen A, Nordestgaard BG. CHEK2*1100delC genotyping for clinical assessment of breast cancer risk: metaanalyses of 26,000 patient cases and 27,000 controls. J Clin Oncol 2008;26:5428. 30. Olsen JH, Hahnemann JM, BørresenDale AL, et al. Breast and other cancers in 1445 blood relatives of 75 Nordic patients with ataxia telangiectasia. Br J Cancer 2005;93:260-5. 31. Thompson D, Duedal S, Kirner J, et al. Cancer risks and mortality in heterozygous ATM mutation carriers. J Natl Cancer Inst 2005;97:813-22. 32. Renwick A, Thompson D, Seal S, et al. ATM mutations that cause ataxia-telangiectasia are breast cancer susceptibility alleles. Nat Genet 2006;38:873-5. 33. Murphy CD, Lee JM, Drohan B, et al. The American Cancer Society guidelines for breast screening with magnetic resonance imaging: an argument for genetic testing. Cancer 2008;113:3116-20. 34. Evans DG, Graham J, O'Connell S, Arnold S, Fitzsimmons D. Familial breast cancer: summary of updated NICE guidance. BMJ 2013;346:f3829. 35. Blanco A, de la Hoya M, Balmaña J, et al. Detection of a large rearrangement in PALB2 in Spanish breast cancer families with male breast cancer. Breast Cancer Res Treat 2012;132:307-15. 36. Ding YC, Steele L, Kuan CJ, Greilac S, Neuhausen SL. Mutations in BRCA2 and PALB2 in male breast cancer cases from the United States. Breast Cancer Res Treat 2011;126:771-8. 37. Jones S, Hruban RH, Kamiyama M, et al. Exomic sequencing identifies PALB2 as a pancreatic cancer susceptibility gene. Science 2009;324:217. 38. Tischkowitz MD, Sabbaghian N, Hamel N, et al. Analysis of the gene coding for the BRCA2-interacting protein PALB2 in familial and sporadic pancreatic cancer. Gastroenterology 2009;137:11836.
+Copyright © 2014 Massachusetts Medical Society.
+
+POSTING PRESENTATIONS FROM MEDICAL MEETINGS ONLINE
+Online posting of an audio or video recording of an oral presentation at a medical meeting, with selected slides from the presentation, is not considered
+prior publication. Authors should feel free to call or send e-mail to the Journal's Editorial Offices if there are any questions about this policy.
+506 n engl j med 371;6 nejm.org August 7, 2014
+The New England Journal of Medicine Downloaded from nejm.org at MGH on March 14, 2016. For personal use only. No other uses without permission.
+Copyright © 2014 Massachusetts Medical Society. All rights reserved.
+
+

@@ -1,0 +1,265 @@
+Tumor Biol. (2014) 35:10723­10729 DOI 10.1007/s13277-014-2346-6
+RESEARCH ARTICLE
+NBS1 Glu185Gln polymorphism and susceptibility to urinary system cancer: a meta-analysis
+Ying Zhang & Yu-Shan Huang & Wen-Qian Lin & Shao-Dan Zhang & Qi-Wen Li & Ye-Zhu Hu & Rong-Liang Zheng & Tao Tang & Xi-Zhao Li & Xiao-Hui Zheng
+
+Received: 4 June 2014 / Accepted: 10 July 2014 / Published online: 30 July 2014 # International Society of Oncology and BioMarkers (ISOBM) 2014
+
+Abstract A number of studies have investigated the association between the NBS1 Glu185Gln (rs1805794, 8360 G>C) polymorphism and risk for urinary system cancer including bladder cancer, prostate cancer, and renal cell cancer; however, the findings are conflicting. We conducted a meta-analysis focusing on eight published studies with 3,542 cases and 4,210 controls to derive a more precise evaluation of the relationship between the NBS1 Glu185Gln polymorphism and urinary system cancer susceptibility. Overall, the NBS1 Glu185Gln polymorphism was significantly related to
+Ying Zhang and Yu-Shan Huang contributed equally to this work and should be considered as co-first authors.
+Y. Zhang (*) : S.<D. Zhang : Y.<Z. Hu : X.<Z. Li : X.<H. Zheng
+State Key Laboratory of Oncology in South China, Blood Transfusion Department, Collaborative Innovation Center for Cancer Medicine, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong 510060, China e-mail: zhangying1@sysucc.org.cn
+Y.<S. Huang Department of Molecular Pathology, Guangzhou Kingmed Center for Clinical Laboratory, Guangzhou, Guangdong 510330, China
+W.<Q. Lin Department of Anesthesiology, State Key Laboratory of Oncology on Southern China, Cancer Center, Sun Yat-Sen University, Guangzhou, Guangdong 510060, China
+Q.<W. Li Department of Radiation Oncology, State Key Laboratory of Oncology in South China, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong 510060, China
+R.<L. Zheng Department of Nuclear Medicine, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong 510060, China
+T. Tang Department of Molecular Diagnostics, Sun Yat-Sen University Cancer Center, Guangzhou, Guangdong 510060, China
+
+increased risk for urinary system cancer (homozygous model: odds ratio (OR)=1.23, 95 % confidence interval (95 % CI)= 1.05­1.44, p=0.011; heterozygous model: OR=1.14, 95 % CI=1.04­1.26, p=0.008; dominant model: OR=1.16, 95 % CI=1.05­1.27, p=0.002; and Gln vs. Glu: OR=1.12, 95 % CI=1.04­1.20, p=0.002) and further stratification analysis indicated an increased risk for bladder cancer (heterozygous model: OR=1.13, 95 % CI=1.02­1.26, p=0.022; dominant model: OR=1.14, 95 % CI=1.03­1.26, p=0.014; and Gln vs. Glu: OR=1.09, 95 % CI=1.01­1.18, p=0.023) and Caucasian populations (homozygous model: OR=1.33, 95 % CI=1.11­ 1.59, p=0.002; heterozygous model: OR=1.16, 95 % CI= 1.04­1.30, p=0.009; dominant model: OR=1.19, 95 % CI= 1.07­1.32, p=0.001; and Gln vs. Glu: OR=1.15, 95 % CI= 1.06­1.25, p<0.001). Despite some limitations, this metaanalysis established some solid statistical evidence for the association between NBS1 Glu185Gln polymorphism and increased risk for urinary system cancer, especially for bladder cancer, but more well-designed prospective studies are needed to further verify our findings.
+Keywords NBS1 . Glu185Gln . Urinary system cancer . Meta-analysis
+Background
+Cancer is a kind of commonly encountered disease which severely threatens people's health and life. Based on the GLOBOCAN 2008, an estimated about 12.7 million new cancer cases and 7.6 million cancer-related deaths occurred in 2008 [1]. DNA damage may lead to increase the risk for cancer [2]. However, DNA damage would be caused by environmental factors including UV, ionizing radiation, cigarette smoke, and dietary factors and mostly by endogenous mutagens such as water, reactive oxygen species, and
+
+10724
+
+Tumor Biol. (2014) 35:10723­10729
+
+chemical agents [2, 3]. DNA double-strand breaks (DSBs) are the most destructive form of DNA damage; if defectively repaired or unrepaired, it will cause genomic breakage and thus leading to carcinogenesis [4, 5], while these serious harms are counteracted by two different pathways in the repair of DSBs: homologous recombination and nonhomologous end-joining [6, 7]. The MRE-RAD50-NBS1 complex (MRN), as an initial step to recognize DSBs, plays an important role in the two DSBs repair pathways [8, 9]. Nijmegen breakage syndrome 1 (NBS1) is a component and the key regulator of MRN complex. If DSBs are generated, NBS1 promotes the assembly of MRN complex, activates its function to recognize the site of DSBs and finally, repairs the damage [10­12].
+Human NBS1 gene is mapped on chromosome 8q21and comprises about 50 kb encoding 754 amino acids protein [13, 14]. Studies in animal suggested that heterozygous NBS1 knockout mice developed tumors affecting the liver, lung, prostate, lymphomas, and mammary gland [15, 16]. In addition, there is growing evidence that variants in the NBS1 gene contribute to the increased risk of human cancer [17, 18]. There are at least 106 reported coding SNPs in the NBS1 gene (http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?locusId= 4683). Among all these NBS1 coding SNPs, Glu185Gln (rs1805794, 8360 G>C), which is the common polymorphism, has been investigated in relation to several types of cancer [18­23], including urinary system cancer such as bladder cancer [24­29], prostate cancer [30], and renal cell cancer [31]. However, the findings remain inconclusive. Hence, to provide an updated, more precise estimation of the association between NBS1 Glu185Gln polymorphism and risk for urinary system cancer, a metaanalysis with all eligible case­control studies was conducted.
+Material and methods
+Identification and eligibility of relevant studies
+We performed a comprehensive literature search in MEDLINE, EMBASE, and Chinese Biomedical (CBM) database using the following search terms: "NBS1 or NBN," "polymorphism or variant," and "cancer or tumor or carcinoma or neoplasm" (prior to February 28, 2014). No language restriction was imposed. Furthermore, additional studies were screened manually for all eligible original publications, review articles, and other relevant studies.
+Inclusion criteria in this final analysis were as follows: (1) evaluating the association between the NBS1 Glu185Gln polymorphism and urinary system cancer risk, (2) using a case­control design, (3) sufficient data for estimating odds ratio (OR) with their 95 % confidence interval (95 % CI), (4) no overlapping data or same subjects, and (5) genotype
+
+frequencies in the controls must be in Hardy­Weinberg equilibrium (HWE).
+Data extraction
+Data were extracted from all the publications independently by two investigators for compliance with the inclusion criteria mentioned above. For any disagreement, a final consensus was reached on all items after a discussion between the two investigators. The following data was collected from each study: first authors, year of publication, country of origin, ethnicity, cancer type, control source (hospital-based or population-based), and numbers of cases and controls with the NBS1 Glu185Gln polymorphism.
+Statistical analysis
+The strength of the association between the NBS1 Glu185Gln polymorphism and urinary system cancer risk was measured by crude ORs with their corresponding 95 % CIs. The pooled ORs were performed for homozygous model (CC vs. GG), heterozygous model (GC vs. GG), recessive model (CC vs. GC+GG), and dominant models (GC+CC vs. GG) as well as allele comparison (C vs. G). Heterogeneity was assessed by using chi-square-based Q test. A p value >0.10 for the Q test indicated a lack of heterogeneity among studies, so we chose the fixed-effects model (the Mantel­Haenszel method) [32]. Otherwise, the random-effects model (the DerSimonian and Laird method) was applied [33]. Additionally, the betweenstudies heterogeneity was also calculated with I2 statistics; the higher score suggests the greater degree of heterogeneity [34]. Subgroup analyses were performed by cancer type, ethnicity, control source, and sample size (<500 and 500). A potential publication bias was verified by the funnel plot, in which the standard error of log (OR) for each investigation was plotted against its log (OR). We assessed the asymmetry of the funnel plot by Egger's linear regression test (p<0.05 indicated a significant publication bias) [35]. Statistical analysis was performed using STATA (version 11.0; Stata Corporation, College Station, TX). All p values were two-sided and p<0.05 was considered significant.
+Results
+Study characteristics
+As shown in Fig. 1, a total of 131 articles were found using the literature search terms. Based on our inclusion criteria, only 10 studies were preliminarily identified after each abstracts and full texts were assessed. Among them, one was excluded for no case­control studies [36].
+
+Tumor Biol. (2014) 35:10723­10729
+Fig. 1 Flow diagram of included studies
+
+10725
+
+Another one did not contain the NBS1 Glu185Gln polymorphism for further evaluation [17]. Finally, eight publications were included in this meta-analysis (Table 1).
+There were six publications focusing on bladder cancer [24­29], one for prostate cancer [30] and one for renal cell cancer [31]. We combined these types of cancer into urinary system cancer. Overall, eight studies of 3,542 cases and 4,210 controls were included in this final meta-analysis evaluating the association between the NBS1 Glu185Gln polymorphism and risk for urinary system cancer. There were seven studies on Caucasians and one study on mixed ethnicity. As for source of control, four were population-based, three were hospital-based, and one was mixed. Of all studies, five studies with sample size less than 500 and three studies with sample size no less than 500.
+
+Meta-analysis results
+As listed in Table 2 and Fig. 2, the overall data showed that there was a significant association between the NBS1 Glu185Gln polymorphism and risk for urinary system cancer (homozygous model: OR=1.23, 95 % CI=1.05­1.44, p= 0.011; heterozygous model: OR=1.14, 95 % CI=1.04­1.26, p=0.008; dominant model: OR=1.16, 95 % CI=1.05­1.27, p=0.002; and Gln vs. Glu: OR=1.12, 95 % CI=1.04­1.20, p=0.002). In the subgroup analysis by cancer type, a statistically significant increased risk was found for bladder cancer (heterozygous model: OR=1.13, 95 % CI=1.02­1.26, p=0.022; dominant model: OR=1.14, 95 % CI=1.03­ 1.26, p=0.014; and Gln vs. Glu: OR=1.09, 95 % CI=
+
+Table 1 Characteristics of studies included in the meta-analysis Surname Year Country Ethnicity Cancer type Control source No. of cases
+
+No. of controls
+
+MAF
+
+All GG GC CC All GG GC CC
+
+Sanyal
+
+2004 Sweden Caucasian Bladder
+
+Broberg
+
+2005 Sweden Caucasian Bladder
+
+Wu 2006 USA Caucasian Bladder
+
+Hebbring 2006 Finland Caucasian Prostate
+
+Matullo
+
+2006 Italy
+
+Caucasian Bladder
+
+Figueroa 2007 Spain Caucasian Bladder
+
+Choudhury 2008 UK
+
+Mixed
+
+Bladder
+
+Margulis 2008 USA Caucasian Renal cell
+
+HB PB HB PB PB HB HB/PB PB
+
+299 114 140 45 278 116 134 28 0.34 61 21 36 4 154 63 67 24 0.37 604 254 283 67 595 282 259 54 0.31 321 112 157 52 200 89 79 32 0.36 101 43 47 11 842 404 350 88 0.31 1,086 516 449 121 1,020 511 407 102 0.30 748 347 332 69 788 375 330 83 0.31 322 137 142 43 333 152 160 21 0.30
+
+HB hospital-based, PB population-based, MAF minor allele frequency
+
+10726
+
+Table 2 Meta-analysis of the association between Glu185Gln polymorphism and urinary system cancer
+
+Variables
+
+N
+
+Homozygous
+
+Heterozygous
+
+Recessive
+
+Dominant
+
+Allele
+
+CC vs. GG
+
+GC vs. GG
+
+CC vs. (GC+GG)
+
+(GC+CC) vs. GG
+
+C vs. G
+
+OR (95 % CI) Phet I2 (%) OR (95 % CI) Phet I2 (%) OR (95 % CI) Phet I2 (%) OR (95 % CI) Phet I2 (%) OR (95 % CI) Phet I2 (%)
+
+All 8 (3,542/4,210) 1.23 (1.05­1.44) 0.125 38.2
+
+Cancer type
+
+Bladder 6 (2,899/3,677) 1.15 (0.97­1.37) 0.276 20.9
+
+Prostate 1 (321/200) 1.29 (0.77­2.17) ­ ­
+
+Renal cell 1 (322/333) 2.27 (1.28­4.02) ­ ­
+
+Ethnicity
+
+Caucasian 7 (2,794/3,422) 1.33(1.11­1.59) 0.276 20.1
+
+Mixed
+
+1 (748/788) 0.90(0.63­1.28) ­ ­
+
+Control source
+
+HB 3 (1,989/1,893) 1.30(1.05­1.61) 0.536 0.0
+
+PB 4 (805/1529) 1.40(1.02­1.93) 0.108 50.7
+
+HB/PB
+
+1 (748/788) 0.90(0.63­1.28) ­ ­
+
+Sample size
+
+<500
+
+5 (1,104/1,807) 1.46(1.11­1.92) 0.178 36.4
+
+500
+
+3 (2,438/2,403) 1.12(0.93­1.37) 0.264 24.9
+
+1.14(1.04­1.26) 0.581 0.0
+1.13(1.02­1.26) 0.829 0.0 1.58(1.07­2.33) ­ ­ 0.99(0.71­1.36) ­ ­
+1.16(1.04­1.30) 0.497 0.0 1.09(0.88­1.34) ­ ­
+1.12(0.98­1.29) 0.747 0.0 1.25(1.02­1.53) 0.251 26.8 1.09 (0.88­1.34) ­ ­
+1.20(1.00­1.43) 0.320 14.8 1.12(0.99­1.26) 0.749 0.0
+
+1.16(0.91­1.47) 0.038 52.9
+1.08(0.86­1.36) 0.154 37.8 1.02(0.63­1.64) ­ ­ 2.29(1.33­3.95) ­ ­
+1.23(0.95­1.59) 0.074 47.8 0.86(0.62­1.21) ­ ­
+1.23(1.00­1.51) 0.513 0.0 1.10(0.60­1.99) 0.017 70.5 0.86(0.62­1.21) ­ ­
+1.22(0.78­1.91) 0.028 63.4 1.07(0.87­1.31) 0.308 15.1
+
+1.16(1.05­1.27) 0.806 0.0
+1.14(1.03­1.26) 0.891 0.0 1.50(1.04­2.15) ­ ­ 1.13(0.83­1.54) ­ ­
+1.19(1.07­1.32) 0.858 0.0 1.05(0.86­1.28) ­ ­
+1.16(1.02­1.31) 0.740 0.0 1.27(1.05­1.54) 0.722 0.0 1.05(0.86­1.28) ­ ­
+1.24(1.05­1.47) 0.819 0.0 1.12(1.00­1.25) 0.548 0.0
+
+1.12(1.04­1.20) 0.637 0.0
+1.09(1.01­1.18) 0.652 0.0 1.23(0.95­1.59) ­ ­ 1.26(1.00­1.59) ­ ­
+1.15(1.06­1.25) 0.871 0.0 1.00(0.86­1.16) ­ ­
+1.14(1.03­1.25) 0.672 0.0 1.19(1.03­1.37) 0.701 0.0 1.00(0.86­1.16) ­ ­
+1.19(1.06­1.35) 0.839 0.0 1.08(0.99­1.18) 0.342 6.7
+
+Tumor Biol. (2014) 35:10723­10729
+
+HB hospital-based, PB population-based Statistically significant associations are shown in italics
+
+Tumor Biol. (2014) 35:10723­10729
+
+10727
+
+Fig. 2 Forest plot for urinary system cancer risk associated with the NBS1 Glu185Gln polymorphism by dominant model. For each study, the estimates of OR and its 95 % CI are plotted with a box and a horizontal line. White diamond pooled ORs and its 95 % CIs
+
+1.01­1.18, p=0.023), Caucasian (homozygous model: OR=1.33, 95 % CI=1.11­1.59, p=0.002; heterozygous model: OR=1.16, 95 % CI=1.04­1.30, p=0.009; dominant model: OR=1.19, 95 % CI=1.07­1.32, p=0.001; and Gln vs. Glu: OR=1.15, 95 % CI=1.06­1.25, p<0.001), hospital-based studies (homozygous model: OR=1.30, 95 % CI=1.05­1.61, p=0.017; recessive model: OR=1.23, 95 % CI=1.00­1.51, p=0.048; dominant model: OR=1.16, 95 % CI=1.02­1.31, p=0.025; and Gln vs. Glu: OR=1.14, 95 % CI=1.03­1.25, p= 0.009), population-based studies (homozygous model: OR=1.40, 95 % CI=1.02­1.93, p=0.035; heterozygous model: OR=1.25, 95 % CI=1.02­1.53, p=0.034; dominant model: OR=1.27, 95 % CI=1.05­1.54, p=0.015; and Gln vs. Glu: OR=1.19, 95 % CI=1.03­1.37, p= 0.017), studies with sample size less than 500 (homozygous model: OR=1.46, 95 % CI=1.11­1.92, p=0.006; heterozygous model: OR=1.20, 95 % CI=1.00­1.43, p= 0.045; dominant model: OR=1.24, 95 % CI=1.05­1.47, p=0.011; and Gln vs. Glu: OR=1.19, 95 % CI=1.06­ 1.35, p=0.005), and with no less than 500 (dominant model: OR=1.12, 95 % CI=1.00­1.25, p=0.049).
+
+Heterogeneity and sensitivity analyses
+There was no significant between-study heterogeneity evaluating the association between the NBS1 Glu185Gln polymorphism and risk for urinary system cancer in homozygous model (p=0.125), heterozygous model (p=0.581), dominant model (p=0.806), and allele comparing (p=0.637), except for recessive model (p=0.038). The leave-one-out sensitivity analysis indicated that no single investigation had changed the pooled ORs qualitatively.
+Publication bias
+Begg's funnel plots and Egger's test were used to assess the publication bias of literatures. The shapes of the funnel plots did not reveal any obvious asymmetry. The Egger's test suggested no significant publication bias (p=0.859 for homozygous model, p=0.141 for heterozygous model, p= 0.909 for recessive model, p=0.102 for dominant model, and p=0.515 for allele comparing). These results indicated that the publication bias is unlikely to affect the finding of the meta-analysis.
+
+10728
+
+Tumor Biol. (2014) 35:10723­10729
+
+Discussion
+Human NBS1 gene is mapped on chromosome 8q21and comprises about 50 kb encoding 754 amino acids protein [13, 14]. NBS1 is a component and the key regulator of MRE-RAD50NBS1 complex (MRN) which recognize the sites of doublestrand breaks (DSBs) and repair them [8, 9]. Mutation and variants in the NBS1 gene have been reported to contribute the increased risk of urinary system cancer. However, the findings remain inconclusive. Hence, an updated meta-analysis of all eligible case­control studies was conducted.
+In the current meta-analysis, eight eligible case­control studies with 3,542 cases and 4,210 controls were selected to evaluate the association between the NBS1 Glu185Gln polymorphism and urinary system cancer risk. We found that Glu185Gln polymorphism was significantly related to increased risk for urinary system cancer in the homozygous, heterozygous, dominant, and allele comparing models. From further stratification analysis, the association was also identified in bladder cancer risk and Caucasian ethnicity.
+To the best of our knowledge, there is no meta-analysis that has assessed the relationship between the NBS1 Glu185Gln polymorphism and urinary system cancer risk. In a reported meta-analysis, He et al. [37] focused on testing the association between the NBS1 Glu185Gln polymorphism and all kinds of cancer risk. The results of their meta-analysis showed no significant association between the NBS1 Glu185Gln polymorphism and overall cancer risk. Interestingly, after pooling data sets into urinary system cancer, significant association between the NBS1 Glu185Gln polymorphism and increased risk for urinary system cancer was observed (seven studies). However, as for bladder cancer, the authors found that there was no significant association between the NBS1 Glu185Gln polymorphism and bladder cancer (four studies). Similarly, no significant association was also observed in another metaanalysis (three studies) [38]. He et al. put one study as two based on unselected and familial prostate cancer. Our update meta-analysis included all of these studies in the previous two studies. We further confirmed that the NBS1 Glu185Gln polymorphism increase the risk of urinary system cancer. Notably, we found that the NBS1 Glu185Gln polymorphism was associated with bladder cancer risk. Therefore, there is some new insight to understand the mechanisms of the development of urinary system cancer, especially for bladder cancer. In addition, sample sizes should be enlarged to further investigate the role of this polymorphism.
+For Caucasians, we also found a significant association between the NBS1 Glu185Gln polymorphism and Caucasians. However, most of the reported case­control studies focused on Caucasian populations. Non-Caucasians populations, due to fewer studies, were not involved in this meta-analysis. This single Caucasians ethnicity can lead to one-sidedness of the
+
+overall results. In the future studies, more ethnicity populations should be collected to make sure of this association.
+Several limitations in the current meta-analysis should be acknowledged. First, the number of reported publications was not sufficiently large for a comprehensive investigation, especially for the subgroup analysis of prostate cancer and renal cell cancer, which may have attenuated the statistical power. Second, there is lacking of original data to adjust estimates of ORs among gene­gene and gene­environment. For example, individual's age, sex, and smoking and drinking status do have effect on the role of the NBS1 Glu185Gln polymorphism. Third, most of the studies were conducted in Caucasians. In order to elucidate whether the ethnicity can modify the role of Glu185Gln polymorphism, non-Caucasian populations should be engaged to investigate.
+Fourthly, we just selected the literatures from MEDLINE, EMBASE, and Chinese Biomedical (CBM), which may miss other relevant articles. In conclusion, this meta-analysis suggested that the NBS1 Glu185Gln polymorphism was associated with increased risk of urinary system cancer. Moreover, this polymorphism appealed to contribute to the increased risk of bladder cancer and Caucasian populations. Nevertheless, more well-designed prospective studies are needed to further verify our findings.
+Conflict of interest None
+References
+1. Jemal A et al. Global cancer statistics. CA Cancer J Clin. 2011;61(2): 69­90.
+2. Mohrenweiser HW, Wilson 3rd DM, Jones IM. Challenges and complexities in estimating both the functional impact and the disease risk associated with the extensive genetic variation in human DNA repair genes. Mutat Res. 2003;526(1­2):93­125.
+3. Wood RD et al. Human DNA repair genes. Science. 2001;291(5507): 1284­9.
+4. Kuschel B et al. Variants in DNA double-strand break repair genes and breast cancer susceptibility. Hum Mol Genet. 2002;11(12):1399­ 407.
+5. Khanna KK, Jackson SP. DNA double-strand breaks: signaling, repair and the cancer connection. Nat Genet. 2001;27(3):247­54.
+6. van Gent DC, Hoeijmakers JH, Kanaar R. Chromosomal stability and the DNA double-stranded break connection. Nat Rev Genet. 2001;2(3):196­206.
+7. Yang L et al. A functional polymorphism at microRNA-629-binding site in the 3-untranslated region of NBS1 gene confers an increased risk of lung cancer in southern and eastern Chinese population. Carcinogenesis. 2012;33(2):338­47.
+8. Jackson SP. Sensing and repairing DNA double-strand breaks. Carcinogenesis. 2002;23(5):687­96.
+9. Lu J et al. Polymorphisms and haplotypes of the NBS1 gene are associated with risk of sporadic breast cancer in non-Hispanic white women <or=55 years. Carcinogenesis. 2006;27(11):2209­16.
+10. Kobayashi J et al. NBS1 and its functional role in the DNA damage response. DNA Repair (Amst). 2004;3(8­9):855­61.
+
+Tumor Biol. (2014) 35:10723­10729
+
+10729
+
+11. Matsuura S et al. Nijmegen breakage syndrome and DNA double strand break repair by NBS1 complex. Adv Biophys. 2004;38(Complete):65­80.
+12. Paull TT, Lee JH. The Mre11/Rad50/Nbs1 complex and its role as a DNA double-strand break sensor for ATM. Cell Cycle. 2005;4(6): 737­40.
+13. Matsuura S et al. Positional cloning of the gene for Nijmegen breakage syndrome. Nat Genet. 1998;19(2):179­81.
+14. Varon R et al. Nibrin, a novel DNA double-strand break repair protein, is mutated in Nijmegen breakage syndrome. Cell. 1998;93(3):467­76.
+15. Dumon-Jones Vet al. Nbn heterozygosity renders mice susceptible to tumor formation and ionizing radiation-induced tumorigenesis. Cancer Res. 2003;63(21):7263­9.
+16. Zhang Y, Zhou J, Lim CU. The role of NBS1 in DNA double strand break repair, telomere stability, and cell cycle checkpoint control. Cell Res. 2006;16(1):45­54.
+17. Park SL et al. Associations between NBS1 polymorphisms, haplotypes and smoking-related cancers. Carcinogenesis. 2010;31(7): 1264­71.
+18. Smith TR et al. Polygenic model of DNA repair genetic polymorphisms in human breast cancer risk. Carcinogenesis. 2008;29(11): 2132­8.
+19. Auranen A et al. Polymorphisms in DNA repair genes and epithelial ovarian cancer risk. Int J Cancer. 2005;117(4):611­8.
+20. Loizidou MA et al. Genetic variation in genes interacting with BRCA1/2 and risk of breast cancer in the Cypriot population. Breast Cancer Res Treat. 2010;121(1):147­56.
+21. Silva SN et al. Breast cancer risk and common single nucleotide polymorphisms in homologous recombination DNA repair pathway genes XRCC2, XRCC3, NBS1 and RAD51. Cancer Epidemiol. 2010;34(1):85­92.
+22. Zienolddiny S et al. Polymorphisms of DNA repair genes and risk of non-small cell lung cancer. Carcinogenesis. 2006;27(3):560­7.
+23. Lan Q et al. Smoky coal exposure, NBS1 polymorphisms, p53 protein accumulation, and lung cancer risk in Xuan Wei. China Lung Cancer. 2005;49(3):317­23.
+
+24. Sanyal S et al. Polymorphisms in DNA repair and metabolic genes in bladder cancer. Carcinogenesis. 2004;25(5):729­34.
+25. Figueroa JD et al. Evaluation of genetic variation in the double-strand break repair pathway and bladder cancer risk. Carcinogenesis. 2007;28(8):1788­93.
+26. Choudhury A et al. Analysis of variants in DNA damage signalling genes in bladder cancer. BMC Med Genet. 2008;9:69.
+27. Broberg K et al. Constitutional short telomeres are strong genetic susceptibility markers for bladder cancer. Carcinogenesis. 2005;26(7):1263­71.
+28. Wu X et al. Bladder cancer predisposition: a multigenic approach to DNA-repair and cell-cycle-control genes. Am J Hum Genet. 2006;78(3):464­79.
+29. Matullo G et al. DNA repair polymorphisms and cancer risk in nonsmokers in a cohort study. Carcinogenesis. 2006;27(5):997­1007.
+30. Hebbring SJ et al. Role of the Nijmegen breakage syndrome 1 gene in familial and sporadic prostate cancer. Cancer Epidemiol Biomarkers Prev. 2006;15(5):935­8.
+31. Margulis V et al. Genetic susceptibility to renal cell carcinoma: the role of DNA double-strand break repair pathway. Cancer Epidemiol Biomarkers Prev. 2008;17(9):2366­73.
+32. Mantel N, Haenszel W. Statistical aspects of the analysis of data from retrospective studies of disease. J Natl Cancer Inst. 1959;22(4):719­ 48.
+33. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials. 1986;7(3):177­88.
+34. Higgins JP, Thompson SG. Quantifying heterogeneity in a metaanalysis. Stat Med. 2002;21(11):1539­58.
+35. Egger M et al. Bias in meta-analysis detected by a simple, graphical test. BMJ. 1997;315(7109):629­34.
+36. Silva J et al. DNA repair system and prostate cancer progression: the role of NBS1 polymorphism (rs1805794). DNA Cell Biol. 2012;31(7):1182­6.
+37. He YZ et al. NBS1 Glu185Gln polymorphism and cancer risk: update on current evidence. Tumour Biol. 2014;35(1):675­87.
+38. Lu M et al. Association between the NBS1 E185Q polymorphism and cancer risk: a meta-analysis. BMC Cancer. 2009;9:124.
+
+

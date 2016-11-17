@@ -1,0 +1,529 @@
+The Journal of Molecular Diagnostics, Vol. 18, No. 4, July 2016
+
+jmd.amjpathol.org
+
+Detection of Germline Mutation in Hereditary Breast and/or Ovarian Cancers by Next-Generation Sequencing on a Four-Gene Panel
+Ava Kwong,*yz Vivian Y. Shin,* Chun H. Au,x Fian B.F. Law,zx Dona N. Ho,x Bui K. Ip,x Anthony T.C. Wong,x Silvia S. Lau,{ Rene M.Y. To,x Gigi Choy,x James M. Ford,k Edmond S.K. Ma,zx and Tsun L. Chanzx
+
+From the Department of Surgery,* The University of Hong Kong, Hong Kong, People's Republic of China; the Departments of Surgery,y Molecular Pathology,x and Medical Physics and Research,{ Hong Kong Sanatorium & Hospital, Hong Kong, People's Republic of China; the Hong Kong Hereditary Breast Cancer Family Registry,z Hong Kong, People's Republic of China; and the Department of Medicine (Oncology),k Stanford University School of
+Medicine, Stanford, California
+
+Accepted for publication March 21, 2016.
+Address correspondence to Ava Kwong, MBBS, Ph.D., Room K1401, Queen Mary Hospital, Pokfulam Road, Pokfulam, Hong Kong, People's Republic of China. E-mail: akwong@ asiabreastregistry.com.
+
+Mutation in BRCA1/BRCA2 genes accounts for 20% of familial breast cancers, 5% to 10% of which may be due to other less penetrant genes which are still incompletely studied. Herein, a four-gene panel was used to examine the prevalence of BRCA1, BRCA2, TP53, and PTEN in hereditary breast and ovarian cancers in Southern Chinese population. In this cohort, 948 high-risk breast and/or ovarian patients were recruited for genetic screening by next-generation sequencing (NGS). The performance of our NGS pipeline was evaluated with 80 Sanger-validated known mutations and eight negative cases. With appropriate bioinformatics analysis pipeline, the detection sensitivity of NGS is comparable with Sanger sequencing. The prevalence of BRCA1/BRCA2 germline mutations was 9.4% in our Chinese cohort, of which 48.8% of the mutations arose from hotspot mutations. With the use of a tailor-made algorithm, HomopolymerQZ, more mutations were detected compared with single mutation detection algorithm. The frequencies of PTEN and TP53 were 0.21% and 0.53%, respectively, in the Southern Chinese patients with breast and/or ovarian cancers. High-throughput NGS approach allows the incorporation of control cohort that provides an ethnicity-specific data for polymorphic variants. Our data suggest that hotspot mutations screening such as SNaPshot could be an effective preliminary screening alternative adopted in a standard clinical laboratory without NGS setup. (J Mol Diagn 2016, 18: 580e594; http:// dx.doi.org/10.1016/j.jmoldx.2016.03.005)
+
+Breast cancer is the most common diagnosed cancer in women worldwide, with 1.67 million newly diagnosed cases in 2012, which accounts for 25% of all cancers. Besides, it is the fifth common cause of cancer death worldwide and has higher mortality rates in the East than in the West (International Agency for Research on Cancer, http://globocan.iarc. fr/Pages/fact_sheets_cancer.aspx, last accessed March 1, 2016). Hereditary breast and ovarian cancer (HBOC) syndrome is commonly associated with genetic alterations in BRCA1 and BRCA2, in which the lifetime risk of developing breast cancer by the age of 70 years increased by fourfold to fivefold in BRCA1/BRCA2 carriers (45% to 85%) compared with the general population (approximately 12.5%).1,2 The prevalence and risk management of BRCA1/BRCA2 carriers
+
+in patients with breast and/or ovarian cancers are addressed by previous preclinical and clinical studies, resulting in recommendations for screening and risk-reduction intervention for BRCA1/BRCA2 carriers and their family members.3 Knowing the germline mutation status will not only help the identification of high-risk patients but also change the screening, cancer risk management, and therapeutic strategies.
+Breast cancer mortality to incidence ratio is higher in Asia than in Western countries.4 This fast growing trend of breast
+Supported by the Dr. Ellen Li Charitable Foundation, the Kerry Kuok Foundation, Health and Medical Research Fund grant 1123176 (A.K.), and the Hong Kong Hereditary Breast Cancer Family Registry.
+Disclosures: None declared.
+
+Copyright ª 2016 American Society for Investigative Pathology and the Association for Molecular Pathology. Published by Elsevier Inc. All rights reserved. http://dx.doi.org/10.1016/j.jmoldx.2016.03.005
+
+Known positives (n = 80) and known
+negative controls (n = 8)
+
+Healthy controls (n = 100)
+
+7 Selection criteria (refer to Patients and
+Method) (n = 948)
+
+Previous local cohort analyzed by Sanger sequencing
+(n = 479)
+
+Gene-Panel Sequencing and Diagnosis
+
+MLPA analysis (n = 948 + 479)
+
+NGS analysis
+
+Alignment by AVA/BWA Variant callers by
+SAMTools/GATK/Haplotype Caller/ HomopolymerQZ
+
+Variant callers by Coffalyser
+
+Variant callers by Mutation Surveyor
+
+Pathogenic mutation found
+(n = 68)
+
+Confirmed by Sanger
+sequencing (n = 68)
+
+Pathogenic mutation
+found (n = 8)
+
+Pathogenic mutation
+found (n = 58)
+
+Figure 1 A schematic workflow of the mutation screening in this study. AVA, Amplicon Variant Analyzer; MLPA, multiplex ligationdependent probe amplification; NGS, nextgeneration sequencing.
+
+Overall pathogenic mutation found (n = 134)
+
+cancer incidence in Asia, especially China and India where the population is large, is anticipated to impose a serious health economic problem. To this end, cost-effective and high-throughput genetic screening in these regions is highly desirable. Nonetheless, genetic testing is rather uncommon in many regions except for a few countries because of cost considerations and availability; hence, there is a need for increased knowledge or data support to implement population-wide preventive health care programs in the
+
+Table 1 Clinicopathologic Data of the Cohort Patients
+
+Characteristic
+
+Current cohort, n (%) (n Z 948)
+
+Cumulative cohort, n (%) (n Z 1427)
+
+Age at diagnosis (years) 45 549 (58)
+>45 399 (42) Bilateral BrCa
+Yes 151 (16) No 797 (84) Triple-negative BrCa Yes 124 (13) No 824 (87) Multiple Ca Yes 55 (6) No 893 (94) Family history of BrCa/ovarian Ca Yes 360 (38) No 588 (62) Family history of other Ca Yes 691 (73) No 257 (27)
+
+835 (58) 592 (42)
+218 (15) 1209 (85)
+213 (15) 1214 (85)
+95 (7) 1332 (93)
+554 (39) 873 (61)
+1042 (73) 385 (27)
+
+BrCa, breast cancer; Ca, cancer.
+
+community. In view of this, several research groups have joined to form the Asian BRCA Consortium, striving to understand better HBOC syndrome in Asians through research, aiming to make genetic testing as a standard of care for breast cancer similar to that of the Western world.5,6
+Our previous studies found that defective BRCA1 and BRCA2 genes play important roles in women with early onset of breast cancer in Hong Kong.7 Moreover, women with triple-negative breast cancer and bilateral breast cancers were prone to genetic predisposition.8 From these results, patients with these types of breast cancers are now recommended to have genetic counseling and testing.9 The use of direct PCR-based Sanger sequencing and high resolution melting analysis could identify germline and hotspot mutations, but the turnaround time does not seem to satisfy the needs of the community. Increasing evidence suggests that ovarian cancer patients with BRCA1/BRCA2 mutations have a better response to olaparib, implicating the need of faster turnaround time of the genetic test for better clinical management.
+Furthermore, identification of ethnic-specific founder and hotspot mutations detected in Chinese patients would be beneficial, not only for the patients locally where most are Chinese but also the enormous Chinese population in Mainland China and those residing in Western countries. The development of a genetic testing panel was designed specifically for the population to achieve better risk assessment and preventive measures.
+Next-generation sequencing (NGS), based on clonal amplification coupled with massively parallel sequencing, is a powerful DNA sequencing tool that has been broadly
+
+The Journal of Molecular Diagnostics - jmd.amjpathol.org
+
+581
+
+Kwong et al
+
+Table 2 Evaluation of Mutation Detection Performance from 54 Mutation Controls in Local Cohort
+
+Gene DNA mutation type
+
+Mutation
+
+Allele
+
+Variant callers
+
+frequency (%) AVA
+
+SAMtools
+
+BRCA1 BRCA2
+
+Deletion
+Duplication Nonsense SNV
+Splice site SNV Deletion
+Deletion and Insertion Duplication Nonsense SNV Splice site SNV
+
+c.470_471delCT c.959_960delGA c.964delG c.981_982delAT c.1016delA* c.3214delC c.3333delA c.3342_3345delAGAA c.3858_3861delTGAG c.4065_4068delTCAA c.4764delT c.5406_5406þ2delAGT c.1874_1877dupTAGT c.1961dupA* c.4049dupG c.4695dupA c.34C>T c.502A>T c.2338C>T c.2635G>T c.3286C>T c.4573C>T c.4656C>G c.4675G>C c.4903G>T c.212þ1G>A c.212þ1G>T c.5193þ1G>C c.2595delA c.2808_2811delACAA c.3202delG c.3836delA c.4121delA c.4563_4564delGT c.5218_5223delTTAAGT c.5722_5723delCT c.8068_8069delGT c.9393delC c.4467_4474delinsTGTTTTT* c.5238dupT c.6096dupT c.7409dupT c.7467dupT c.9097dupA* c.250C>T c.1261C>T c.3109C>T c.7471C>T c.7878G>A c.9294C>G c.10150C>T c.7806-9T>G c.7976þ1G>A c.7976þ5G>A
+
+56.6 55.0 55.2 52.6
+39.1 24.3 46.3 48.5 50.0 31.0 50.0 55.6
+50.0 50.4 46.7 57.1 49.2 63.3 55.6 61.1 42.9 53.0 54.7 50.8 33.3 48.5 36.7 56.1 41.5 54.5 69.2 57.8 61.5 50.0 55.4 56.0 53.8 55.4 46.4 50.0 42.9
+45.1 51.0 55.6 41.9 57.8 38.6 53.6 48.8 59.2 49.4
+
+Yes Yes Yes Yes No Yes Yes Yes Yes Yes Yes Yes Yes No Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Multiple SNV Yes Yes Yes Yes No Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+
+No Yes Yes No No Yes No Yes No Yes Yes Yes Yes No Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes No Yes Yes Yes Multiple SNV Yes Yes Yes Yes No Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes
+
+Twenty-six overseas controls are listed in Supplemental Table S1. *Variants missed by the variant caller. AVA, Amplicon Variant Analyzer; NA, not applicable for non-homopolymer loci; SNV, single nucleotide variant.
+
+HomopolymerQZ
+NA NA NA NA Yes (z score, 4.56) NA NA NA NA NA NA NA NA Yes (z score, 4.67) NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA Yes (z score, 4.34) NA NA NA NA NA NA NA NA NA NA
+
+582 jmd.amjpathol.org - The Journal of Molecular Diagnostics
+
+applied in clinical diagnostic use.10e12 It allows the investigation of multiple genes at a lower cost. However, the accuracy of mutation detection and the appropriate annotation of large numbers of variants of unknown significance (VUS) remain the challenges in data interpretation.13
+In this study, we used microfluidic access array for PCR amplification. A total of >4600 PCR reactions can be performed in one single reaction with 48 barcoded patients. Besides, we further expanded the gene panel to four genes, including TP53 and PTEN, where there is evidence to show the association with breast cancer and prostate cancer found in HBOC families, respectively.14,15 We also found that 454 pyrosequencing provides a set of highly traceable and reproducible quantitative/semiquantitative data through different methods of analyses, through which we devised a more accurate variant calling bioinformatics pipeline. Finally, introducing a population-specific normal cohort strengthened the database of single nucleotide polymorphisms (SNPs) from The 1000 Genomes Project and significantly enhanced the analysis of VUS.
+Materials and Methods
+Ethics Statement
+The study was performed in accordance with the Declaration of Helsinki. Written informed consent was obtained from all participants recruited in this study. This study was approved by the Institutional Review Board of the University of Hong Kong/Hospital Authority West Cluster and other contributing hospitals in Hong Kong.
+Samples and Selection Criteria
+A cohort of 1427 clinically high-risk breast and/or ovarian cancer probands was recruited by the Hong Kong Hereditary and High Risk Breast Cancer Program from March 2007 to October 2014. The patient selection criteria were described previously with modification.16 High-risk patients were recruited if they fulfilled one of the following criteria: i) had at least one first- or second-degree relative with breast and/or ovarian cancer, regardless of age; ii) diagnosed age 45 years with cancer; iii) had bilateral breast cancer; iv) had triple-negative or medullary type pathology; v) had at least one relative with cancers other than breast and/or ovarian cancer such as stomach and prostate that are known to be related to BRCA1/BRCA2 mutations; vi) male breast cancer; or vii) were ovarian cancer patients with a family history of breast/ovarian or HBOC-associated cancer. This cohort comprised 479 probands who were previously characterized by Sanger sequencing and 948 probands that underwent NGS screening (Figure 1).16 Concurrent with sequencing, all patients were tested for large genomic rearrangement of BRCA1 and BRCA2 by multiplex ligation-dependent probe
+
+Gene-Panel Sequencing and Diagnosis
+amplification (MLPA). Clinicopathologic characteristics of patient cohorts are shown in Table 1.
+To enhance the validation process, two independent control cohorts, namely 88 Sanger-validated controls [positive (n Z 80): 54 local Chinese and 26 overseas) and negative (n Z 8)] and Sanger naive negative or healthy controls (n Z 100) were used. For the evaluation of NGS performance, control samples were selected from previously characterized probands of the same cohort with BRCA1 and BRCA2 mutations (based on bidirectional Sanger full gene sequencing). There were 80 (44 BRCA1 and 36 BRCA2 from both local and overseas patients) different varieties of Sanger-validated positive samples subjected to 454 GS Junior and MiSeq, respectively, for cross-validation [Table 2 and Supplemental Table S1 (controls provided by J.M.F.)]. Simultaneously, BRCA1-negative controls (n Z 8) were also included. It was reported that polymorphic alleles from 100 healthy individuals would cover almost 80% of the VUS in the population.17 Hence, healthy local individuals (n Z 100) with no known history of cancer and unknown mutation status also underwent the same NGS sequencing analysis as the probands.
+DNA Extraction
+Genomic DNA samples for NGS or conventional Sanger sequencing were extracted from peripheral blood samples with the use of QIAamp DNA Blood Mini Kit (Qiagen, Hilden, Germany) or automatically with the use of QIAsymphony DNA Mini Kit (Qiagen) on QIAsymphony SP instrument (Qiagen). RNA samples were also extracted from peripheral blood samples manually with the use of QIAamp RNA Blood Mini Kit (Qiagen). In the case of splicing variant analysis in transcript level, RNA samples were reverse transcribed to cDNA samples with the use of Superscript III First Strand Synthesis System (Invitrogen, Carlsbad, CA).
+Microfluidic PCR Amplification of Target Regions
+A total of 91 PCR primer pairs were used to target all exons of BRCA1, BRCA2, TP53, and PTEN, and 10-bp intronexon boundaries (except downstream of BRCA1 exon 2 where 8 bp was covered) for amplification of genomic DNA samples (Table 3). Access Array System (Fluidigm, South San Francisco, CA) was used to generate separate pools of 91 amplicons from 48 DNA samples per run. A 10-bp barcode nucleotide sequence was incorporated in both ends of each amplicon for sample identification. A total of 96 different barcode sequences were used in rotation to minimize the usage of the same barcode in two consecutive Access Array runs. After Access Array amplification, the amplicon product of each sample and purified pooled samples were subjected to quality check with the use of Agilent DNA 1000 Kit on a 2100 Bioanalyzer system (Agilent Technologies, Santa Clara, CA).
+
+The Journal of Molecular Diagnostics - jmd.amjpathol.org
+
+583
+
+Kwong et al
+
+Table 3 Sequences of Microfluidic PCR Primers
+
+Amplicon
+
+Gene
+
+Exon Forward and reverse primers
+
+1 BRCA1 1 50-TACGGTAGCAGAGACTTGGTCTCCAGTACCCCAGAGCATCAC-30 50-ACACTGACGACATGGTTCTACAGGAAAGAGTGGGGGATTGGG-30
+2 2 50-ACACTGACGACATGGTTCTACATCCCAAATTAATACACTCTTGTGCTG-30 50-TACGGTAGCAGAGACTTGGTCTTGGAGAAAGGAAAAGACCCAAGG-30
+3 3 50-ACACTGACGACATGGTTCTACAAGGTGTTTCCTGGGTTATGAAGG-30 50-TACGGTAGCAGAGACTTGGTCTAAAGATGAGATGTGCACCCACAG-30
+4 5 50-ACACTGACGACATGGTTCTACAACCTGTATAAGGCAGATGTCCCA-30 50-TACGGTAGCAGAGACTTGGTCTGCTTATGCAGCATCCAAAAACAA-30
+5 6 50-ACACTGACGACATGGTTCTACAAAAAATAGATTACAGATACAGAACTA-AAATTAACCTA-30 50-TACGGTAGCAGAGACTTGGTCTGCTGTGGATTTAGGGCAGTATTATATC-30
+6 7 50-TACGGTAGCAGAGACTTGGTCTGGAGGACTGCTTCTAGCCTGG-30 50-ACACTGACGACATGGTTCTACACATTGTTGGTGTCTTAGCTTTAGTGA-30
+7 8 50-ACACTGACGACATGGTTCTACAAGATTCTTCAAGGTGGGAACTGC-30 50-TACGGTAGCAGAGACTTGGTCTGGGCATTTTTTCCAGGCATCATA-30
+8 9 50-ACACTGACGACATGGTTCTACAACTAAATCCAACAAACAAAAAGGGT-30 50-TACGGTAGCAGAGACTTGGTCTCCACTTCTCTGTATTACATACTAGCTTA-30
+9 10 50-ACACTGACGACATGGTTCTACATCAGACCATACCACGACATTTGA-30 50-TACGGTAGCAGAGACTTGGTCTCGTGCCCAGCAACCATTTC-30
+10 11 50-ACACTGACGACATGGTTCTACACCAAGGAACATCTTCAGTATCTCTAGG-30 50-TACGGTAGCAGAGACTTGGTCTTGACAATTCAGTTTTTGAGTACCTTGTT-30
+11 50-TACGGTAGCAGAGACTTGGTCTAGGCTTGCCTTCTTCCGATA-30 50-ACACTGACGACATGGTTCTACATCACTAAAGACAGAATGAATGTAGAAAAG-30
+12 50-TACGGTAGCAGAGACTTGGTCTGGATATTTAATTCGAGTTCCATATTGC-30 50-ACACTGACGACATGGTTCTACAATAGACTTACTGGCCAGTGATCCTC-30
+13 50-TACGGTAGCAGAGACTTGGTCTGATTGACAAATTCTTTAAGTTCACTGG-30 50-ACACTGACGACATGGTTCTACATTCAGAATGAGAAAAATCCTAACCC-30
+14 50-TACGGTAGCAGAGACTTGGTCTAGCATCAAGTTCACTTTCTTCCAT-30 50-ACACTGACGACATGGTTCTACAACAAGCCAAATGAACAGACAAGTAA-30
+15 50-TACGGTAGCAGAGACTTGGTCTCCATTTCTCTTTCAGGTGACATTG-30 50-ACACTGACGACATGGTTCTACAAATGACACAGAAGGCTTTAAGTATCC-30
+16 50-ACACTGACGACATGGTTCTACAAACAGCAGAACTTTCCTTAATGTC-30 50-TACGGTAGCAGAGACTTGGTCTCACCACTTTTTCCCATCAAGTCA-30
+17 50-ACACTGACGACATGGTTCTACAGGATCCTGGGTGTTTGTATTTGC-30 50-TACGGTAGCAGAGACTTGGTCTCCTGATGACCTGTTAGATGATGGTG-30
+18 50-ACACTGACGACATGGTTCTACAACAAAATGATTAAATTCCTTGCTTTGGG-30 50-TACGGTAGCAGAGACTTGGTCTCACAGTGCAGTGAATTGGAAGAC-30
+19 12 50-ACACTGACGACATGGTTCTACATGAGTTCCATCAAGGTGCTTACA-30 50-TACGGTAGCAGAGACTTGGTCTTAAAAGCAAATCCAGGTGTCCCA-30
+20 13 50-ACACTGACGACATGGTTCTACAGGCTCCATAATTACCCATGTGCT-30 50-TACGGTAGCAGAGACTTGGTCTACTAGGTGATTTCAATTCCTGTGC-30
+21 14 50-ACACTGACGACATGGTTCTACATGCCTGTATGCAAAAAACTGGAG-30 50-TACGGTAGCAGAGACTTGGTCTCTGTCTGTTGCATTGCTTGTGTT-30
+22 15 50-ACACTGACGACATGGTTCTACAAGTAAACCTTGATTAACACTTGAGC-30 50-TACGGTAGCAGAGACTTGGTCTGGGCTCTTTTTTGCCAGTCATTT-30
+23 16 50-ACACTGACGACATGGTTCTACATTCAGGGTCATCAGAGAAGAGGC-30 50-TACGGTAGCAGAGACTTGGTCTCGTGCTCGGCCCATAAACT-30
+24 50-ACACTGACGACATGGTTCTACAACAGAACTGTGATTGTTTTCTAGATTTCTT-30 50-TACGGTAGCAGAGACTTGGTCTTCCCATTCCTTTCAGAGGGAACC-30
+25 17 50-TACGGTAGCAGAGACTTGGTCTTTGAGACGGAGCCTTGCTCT-30 50-ACACTGACGACATGGTTCTACAACTTTAAATAGTTCCAGGACACGTGT-30
+26 18 50-ACACTGACGACATGGTTCTACACATGGATTCCTGCCGACTATT-30 50-TACGGTAGCAGAGACTTGGTCTAGGCTCTTTAGCTTCTTAGGACA-30
+27 19 50-ACACTGACGACATGGTTCTACAATGATCCTCATTATCATGGAAAATTTGTG-30 50-TACGGTAGCAGAGACTTGGTCTCTCCTAGCAATGTTAGCATATGAGC-30
+28 20 50-TACGGTAGCAGAGACTTGGTCTAGAGAAAGACACCCCAGTGAAGT-30 50-ACACTGACGACATGGTTCTACATCTGCTCCACTTCCATTGAAG-30
+29 21 50-ACACTGACGACATGGTTCTACATTTCAGCAATCTGAGGAACCC-30
+
+(table continues)
+
+584 jmd.amjpathol.org - The Journal of Molecular Diagnostics
+
+Gene-Panel Sequencing and Diagnosis
+
+Table 3 (continued )
+
+Amplicon
+
+Gene
+
+Exon Forward and reverse primers
+
+50-TACGGTAGCAGAGACTTGGTCTCATTAGGGAGGAGCCTTGG-30 30 22 50-ACACTGACGACATGGTTCTACACACAGGTATGTGGGCAGAGAAG-30
+50-TACGGTAGCAGAGACTTGGTCTAGTACATGGCATATCAGTGGCAAA-30 31 23 50-TACGGTAGCAGAGACTTGGTCTTTGACCTCCATCTTGACCTCC-30
+50-ACACTGACGACATGGTTCTACAAGCTGAGATCACACCACTGCA-30 32 24 50-ACACTGACGACATGGTTCTACATTTTGTGCTCATGGCAGATTTCC-30
+50-TACGGTAGCAGAGACTTGGTCTCCTGGAGTCGATTGATTAGAGCC-30 33 BRCA2 1 50-ACACTGACGACATGGTTCTACACACTCCAGCTCCCGCTTTAT-30
+50-TACGGTAGCAGAGACTTGGTCTGACAAAAGGGCAAGAAGCCG-30 34 2 50-ACACTGACGACATGGTTCTACATAAGCTGTTACCGTTCCAGGAGAT-30
+50-TACGGTAGCAGAGACTTGGTCTAACCTGCAAACGATGATTATGTTGTTA-30 35 3 50-ACACTGACGACATGGTTCTACATCACTGGTTAAAACTAAGGTGGGA-30
+50-TACGGTAGCAGAGACTTGGTCTTCAAAGGAGGGATGAAAGAGAACA-30 36 4 50-ACACTGACGACATGGTTCTACAGGGTAATCAGCAAACTGAAAAACCT-30
+50-TACGGTAGCAGAGACTTGGTCTAACTATTCTATTAAAGGACTCAACCTAAAAG-30 37 5,6 50-ACACTGACGACATGGTTCTACATGTGTTGGCATTTTAAACATCACT-30
+50-TACGGTAGCAGAGACTTGGTCTCCTGTATGAGGCAGAATGCTAGG-30 38 7 50-ACACTGACGACATGGTTCTACAGCGTTATACCTTTGCCCTGAGAT-30
+50-TACGGTAGCAGAGACTTGGTCTTCAGTTACTAACACACTTATCAAAGACA-30 39 8 50-ACACTGACGACATGGTTCTACATCACTGTGTTGATTGACCTTTCT-30
+50-TACGGTAGCAGAGACTTGGTCTGAGAGACAGCAGAGTTTCACAGG-30 40 9 50-ACACTGACGACATGGTTCTACATGTGCATTGAGAGTTTTTATACTAGTGATTT-30
+50-TACGGTAGCAGAGACTTGGTCTAGAGGAGCAATCCTTCAATGGTG-30 41 10 50-ACACTGACGACATGGTTCTACACTATGAGAAAGGTTGTGAGAATAATATAAAT-30
+50-TACGGTAGCAGAGACTTGGTCTGTTAGTTGAGACCATTCACAGGC-30 42 50-TACGGTAGCAGAGACTTGGTCTAGAAGCCCTTTGAGAGTGGAAGT-30
+50-ACACTGACGACATGGTTCTACAGCAAACAGTATGTATTTCCAGTCCA-30 43 50-ACACTGACGACATGGTTCTACATATGACTGATCCAAACTTTAAAAAAGA-30
+50-TACGGTAGCAGAGACTTGGTCTCATGTATACAGATGATGCCTAAGATTAA-30 44 11 50-ACACTGACGACATGGTTCTACACCTCCCAAAAGTGCTGAGATTA-30
+50-TACGGTAGCAGAGACTTGGTCTGGCATTTTCATGATCATATAAAAGA-30 45 50-TACGGTAGCAGAGACTTGGTCTAGAAGAGGTCTTGGCTGCAGC-30
+50-ACACTGACGACATGGTTCTACATCAAGTCTGTTTCATGAAGTTCCTT-30 46 50-ACACTGACGACATGGTTCTACATCCAGACTCTGAAGAACTTTTCTCA-30
+50-TACGGTAGCAGAGACTTGGTCTTTCAACACAAGCTAAACTAGTAGGATATT-30 47 50-ACACTGACGACATGGTTCTACAGCAGGACTCTTAGGTCCAATTTCA-30
+50-TACGGTAGCAGAGACTTGGTCTTTGCTGCTGTCTACCTGACCAAT-30 48 50-ACACTGACGACATGGTTCTACAATCAAAAGAAACTGAGCAAGCC-30
+50-TACGGTAGCAGAGACTTGGTCTTAAAAGCCCCTAAACCCCACTTC-30 49 50-ACACTGACGACATGGTTCTACAGCAGCAAGCAATTTGAAGGTACA-30
+50-TACGGTAGCAGAGACTTGGTCTTGATCAGTAAATAGCAAGTCCGT-30 50 50-ACACTGACGACATGGTTCTACATCTGCAGAGGTACATCCAATAAGTT-30
+50-TACGGTAGCAGAGACTTGGTCTTCCGTTTTAGTAGCAGTTAACTGTTCT-30 51 50-ACACTGACGACATGGTTCTACACTCAAGAAGCATGTCATGGTAATACT-30
+50-TACGGTAGCAGAGACTTGGTCTCAGCTGTGATCTCAATGGTCTCA-30 52 50-ACACTGACGACATGGTTCTACAAATCACCAGTTTTAGCCATCAATG-30
+50-TACGGTAGCAGAGACTTGGTCTATCTTGTTTTTCGGAGAGATGATTT-30 53 50-ACACTGACGACATGGTTCTACAGCAGATTATGTAGGAAATTATTTGTATGA-30
+50-TACGGTAGCAGAGACTTGGTCTGTTTGGCAAATTTTTGATTTATTCTC-30 54 50-ACACTGACGACATGGTTCTACACCAGGTATCAGATGCTTCATTACAA-30
+50-TACGGTAGCAGAGACTTGGTCTTCAACAAGTGAGACTTTGGTTCCT-30 55 50-ACACTGACGACATGGTTCTACAGGTTCTTCAGAAAATAATCACTCTATTAAA-30
+50-TACGGTAGCAGAGACTTGGTCTTACTCCCCCAAACTGACTACACAA-30 56 50-ACACTGACGACATGGTTCTACATAGGGCCACCTGCATTTAGGATA-30
+50-TACGGTAGCAGAGACTTGGTCTTGTTCTGGAGTACGTATAGCAGTATTT-30 57 12 50-ACACTGACGACATGGTTCTACAGGCCTTATTGCCAGTAAACCTAGAG-30
+50-TACGGTAGCAGAGACTTGGTCTACCATACCTATAGAGGGAGAACAGA-30
+
+(table continues)
+
+The Journal of Molecular Diagnostics - jmd.amjpathol.org
+
+585
+
+Kwong et al
+
+Table 3 (continued )
+
+Amplicon
+
+Gene
+
+Exon Forward and reverse primers
+
+58 13 50-ACACTGACGACATGGTTCTACAACATTTATTGAGCATCTGTTACATTCA-30 50-TACGGTAGCAGAGACTTGGTCTATATGAACAGCACTATAAAATACTACCAAAG-30
+59 14 50-ACACTGACGACATGGTTCTACATGTAGCAAATGAGGGTCTGCAA-30 50-TACGGTAGCAGAGACTTGGTCTACTGAAAGGCAAAAATTCATCACACA-30
+60 15 50-ACACTGACGACATGGTTCTACAGACCTCAGATGATCTGCCCG-30 50-TACGGTAGCAGAGACTTGGTCTGGATGAGGCAGGCCTAGCAA-30
+61 16 50-ACACTGACGACATGGTTCTACATTTTGGTAAATTCAGTTTTGGTTTGTT-30 50-TACGGTAGCAGAGACTTGGTCTCCAGTTCATTAAACCCCAGGACA-30
+62 17 50-ACACTGACGACATGGTTCTACATGTACAGAGAATAGTTGTAGTTGTTGA-30 50-TACGGTAGCAGAGACTTGGTCTGCAAGCAATGCATGAATGTGTGA-30
+63 18 50-ACACTGACGACATGGTTCTACATTATTCAGTGACTTGTTTAAACAGTGG-30 50-TACGGTAGCAGAGACTTGGTCTGAAATTGAGCATCCTTAGTAAGCAT-30
+64 19 50-ACACTGACGACATGGTTCTACAATCGAAGTTCCTTTTATCTGTTTTCT-30 50-TACGGTAGCAGAGACTTGGTCTACCTGTATAGGGTATGCTCTTTGA-30
+65 50-ACACTGACGACATGGTTCTACATTTTCCTCTGCCCTTATCATCGC-30 50-TACGGTAGCAGAGACTTGGTCTTGTTACACACACCAAAAAAGTCACA-30
+66 20 50-ACACTGACGACATGGTTCTACACCACTGTGCCTGGCCTGATA-30 50-TACGGTAGCAGAGACTTGGTCTCCTGATATTTCTGTCCCTTGTTGC-30
+67 21 50-ACACTGACGACATGGTTCTACATAAATCTCCCTTCTTTGGGTGTT-30 50-TACGGTAGCAGAGACTTGGTCTAGTTGAAAACATACCACCACACT-30
+68 22 50-ACACTGACGACATGGTTCTACATTAACCACACCCTTAAGATGAGC-30 50-TACGGTAGCAGAGACTTGGTCTTCTTTGTGGGCATTAGTAGTGGA-30
+69 23 50-ACACTGACGACATGGTTCTACAGTTTATATCAGAGAAGCAAAATCCACT-30 50-TACGGTAGCAGAGACTTGGTCTCCCGTGGCTGGTAAATCTGAA-30
+70 24 50-ACACTGACGACATGGTTCTACAAAGTAAATCTGAAAGAGCTAACATACAG-30 50-TACGGTAGCAGAGACTTGGTCTGCCAACTGGTAGCTCCAACTAAT-30
+71 25 50-ACACTGACGACATGGTTCTACAGCACTGTAAGCAACAGGTCATT-30 50-TACGGTAGCAGAGACTTGGTCTCCAAAATGTGTGGTGATGCTGAA-30
+72 26 50-ACACTGACGACATGGTTCTACATTCCTTCAGATACACATACTTTTTCTCT-30 50-TACGGTAGCAGAGACTTGGTCTTAAAATTTCTAAATAACTATACTTACAGGAGC-30
+73 27 50-ACACTGACGACATGGTTCTACACCTATTAGGAGTTAGGGGAGGG-30 50-TACGGTAGCAGAGACTTGGTCTTGCAAGTTCTTCGTCAGCTATTG-30
+74 50-ACACTGACGACATGGTTCTACATACCTCCACCTGTTAGTCCCATT-30 50-TACGGTAGCAGAGACTTGGTCTAAACGATTTTTGCCCGATACACA-30
+75 PTEN 1 50-ACACTGACGACATGGTTCTACAAGTCGCTGCAACCATCCAG-30 50-TACGGTAGCAGAGACTTGGTCTAAAGCAATCGGTGGCTTGAC-30
+76 2 50-ACACTGACGACATGGTTCTACAAACCGTGAGTTTCTGTTTTTCTCA-30 50-TACGGTAGCAGAGACTTGGTCTTCCCCCTGAAGTCCATTAGGT-30
+77 3 50-TACGGTAGCAGAGACTTGGTCTCCCATAGAAGGGGTATTTGTTGG-30 50-ACACTGACGACATGGTTCTACATGCCAAGTCATTTAAAGCAGATCA-30
+78 4 50-ACACTGACGACATGGTTCTACATGGCATCACAAGTTTTTAAGCA-30 50-TACGGTAGCAGAGACTTGGTCTTGCTGCACTTTAGTCTTCCTGA-30
+79 5 50-ACACTGACGACATGGTTCTACACCTGAATAAAATGGGGGAAAAT-30 50-TACGGTAGCAGAGACTTGGTCTTCAGATCCAGGAAGAGGAAAGG-30
+80 6 50-ACACTGACGACATGGTTCTACATGGCTACGACCCAGTTACCA-30 50-TACGGTAGCAGAGACTTGGTCTTTTGGCTTCGACTACATTAAAACC-30
+81 7 50-ACACTGACGACATGGTTCTACATGCTTGAGATCAAGATTGCAGA-30 50-TACGGTAGCAGAGACTTGGTCTGGCCTTTTCCTTCAAACAGG-30
+82 8 50-ACACTGACGACATGGTTCTACACATGTGAATGAAAATGCAACAGA-30 50-TACGGTAGCAGAGACTTGGTCTTGTCAAGCAAGTTCTTCATCAGC-30
+83 9 50-ACACTGACGACATGGTTCTACAGATGAGTCATATTTGTGGGTTTTCA-30 50-TACGGTAGCAGAGACTTGGTCTAAAACGGGAAAGTGCCATCT-30
+84 TP53 1 50-TACGGTAGCAGAGACTTGGTCTTACGCTTTAGGCCGGCTCAA-30 50-ACACTGACGACATGGTTCTACACCTTACTTGTCATGGCGACTGT-30
+85 2,3 50-TACGGTAGCAGAGACTTGGTCTGGACAGCATCAAATCATCCATTG-30 50-ACACTGACGACATGGTTCTACATTGGAAGTGTCTCATGCTGGATC-30
+86 4 50-TACGGTAGCAGAGACTTGGTCTGGACAGGAGTCAGAGATCACACATT-30
+
+(table continues)
+
+586 jmd.amjpathol.org - The Journal of Molecular Diagnostics
+
+Gene-Panel Sequencing and Diagnosis
+
+Table 3 (continued )
+
+Amplicon
+
+Gene
+
+Exon Forward and reverse primers
+
+50-ACACTGACGACATGGTTCTACAGGTAAGGACAAGGGTTGGGC-30 87 5,6 50-TACGGTAGCAGAGACTTGGTCTGGAGGGCCACTGACAACCAC-30
+50-ACACTGACGACATGGTTCTACAGAGGTGCTTACGCATGTTTGTT-30 88 7 50-TACGGTAGCAGAGACTTGGTCTAGAGGCAGTAAGGAAATCAGGTC-30
+50-ACACTGACGACATGGTTCTACACTTGCCACAGGTCTCCCCAA-30 89 8,9 50-TACGGTAGCAGAGACTTGGTCTATTGTCTTTGAGGCATCACTGC-30
+50-ACACTGACGACATGGTTCTACACAGAAAGGACAAGGGTGGTTG-30 90 10 50-TACGGTAGCAGAGACTTGGTCTGAAGGCAGGATGAGAATGGAA-30
+50-ACACTGACGACATGGTTCTACAAGCCAAGATTGCACCATTGC-30 91 11 50-TACGGTAGCAGAGACTTGGTCTAACCCTTAACTGCAAGAACATTTCT-30
+50-ACACTGACGACATGGTTCTACATGTGGCCACCATCTTGATTTG-30
+
+Massively Parallel DNA Sequencing
+Resulting amplicon pools with an average of 12 patients were further pooled for sequencing library preparation according to the protocols of the manufacturer. Each library was subjected to 454 GS Junior system (Roche, Basel, Switzerland) or MiSeq (Illumina, San Diego, CA) so that each nucleotide position in target regions is sequenced at a minimum depth of 30-fold which was also equivalent to the average depth of at least 150-fold in GS Junior. For MiSeq (Illumina) sequencing, the minimum depth was 50-fold and average depth of 300. Two different sets of signal processing filters are used in parallel for reads and base calling with the use of GS Run Processor (Roche): factory default amplicon signal processing filters, and the same sets of filters except i) doValleyFilterTrimBack Z true, ii) vfLastFlowToTest Z 480, and iii) vfScanAllFlows Z false. Sequencing reads returned from the two processing methods were analyzed separately with the same computational variant detection and annotation pipeline described in the next section. Positions of insufficient depth were subjected to Sanger sequencing for verification. For MiSeq, BWA-MEM, and variant callers, SAMTools and GATK HaplotypeCaller were adopted. In all circumstances, the interpretation of the control results was blinded between different platforms. The bioinformatic analysis was performed on a Cray XC30 supercomputer (Cray, Seattle, WA).
+Variant Detection and Annotation
+Sequencing reads were assigned to corresponding samples according to sequence barcodes with the use of Amplicon Variant Analyzer (AVA) version 2.7 (Roche). Reads were then aligned to reference sequences (BRCA1: NM_007294.3; BRCA2: NM_000059.3; TP53: NM_000546.4; PTEN: NM_000314.4) by AVA with the use of default settings. Each patient-specific BAM sequence alignment14 was processed by the following three variant callers: i) AVA with default settings, ii) SAMtools version 0.1.18 with customized settings (samtools mpileup eBQ0; vcfutils.pl varFilter -D 1000000 -1 1e-999 -2 1e-999 -4 1e-999), and iii) HomopolymerQZ
+
+(described in the next section). Variant effect on corresponding protein coding genes was annotated with Ensembl Variant Effect Predictor version 2.4.19 Annotated variants were automatically prioritized for manual review according to criteria, including i) the variant prevalence among previous patients, ii) whether the variant is detected in both signal processing methods, and iii) the predicted effect on the protein coding genes. Variants were designated according to the recommendations from Human Genome Variation Society.20
+Putative mutations were validated by bidirectional Sanger sequencing on Applied Biosystems 3130xl or 3730 Genetic Analyzers (Life Technologies, Carlsbad, CA) from different PCR and sequencing primers other than microfluidic PCR. Sanger sequencing data were analyzed by Mutation Surveyor version 4.0.6 (Softgenetics, State College, PA), followed by manual review. Selected hotspot pathogenic mutations were subjected to haplotype analysis as described previously12 from the probands, their family members, and 54 Sangervalidated controls. Mutations potentially affecting premRNA processing were subjected to cDNA sequencing analysis.
+VUS were further characterized by their frequencies among 2504 individuals from The 1000 Genomes Project21 and 100 healthy local individuals from this study, and sequencealignmentebased in silico prediction algorithms: SIFT,22 PolyPhen-2,23 and Align-GVGD.24
+Homopolymer Variant Detection
+In the target regions of BRCA1, BRCA2, TP53, and PTEN, there were 1330 homopolymer loci of lengths from 3 to 15 bp. Quantitative pyrosequencing signal intensities of the homopolymer loci were retrieved from the Standard Flowgram Format files of 54 control samples with known mutation, which are wild-type at these loci, and were used to determine the normal reference ranges of the 1330 homopolymer loci. Pyrosequencing signal intensities of each locus (with the bin size of 0.5) consistent cluster with a bell shape and peak at slightly shorter length, for example, a normal A8 homopolymer returns with the signal of A7.5 Æ 0.5
+
+The Journal of Molecular Diagnostics - jmd.amjpathol.org
+
+587
+
+Kwong et al
+Figure 2 Distribution of pyrosequencing signal intensity. Representative homopolymer at BRCA2 c.9097 is shown as an example. A positive control sample with BRCA2 c.9097dupA mutation was represented by red circles (A9/A8). A wild-type sample is represented by green circles (A8/A8). Other wild-type samples (black dots) are also shown. Orange dashed lines represent 1.5 interquartile ranges above third quartile. Each sample is represented by one dot in each signal intensity group.
+(Supplemental Figure S1). The distribution frequencies of every signal were plotted against the variable size of each repeating unit.
+HomopolymerQZ was a software suite developed to detect variants in homopolymer loci from pyrosequencing signal intensity (PSI) instead of base-called sequences. A Perl script parse_signalDist_v2.pl was developed to extract a set of PSI values for a given DNA sample, corresponding to every sequencing read aligned to every homopolymer locus from the AVA (Roche) alignment results. The extracted PSI values are quantitative measurements of number of nucleotide to the first decimal place. PSI of reverse sequencing reads (relative to the reference sequence) were reverse complemented as if they are forward sequencing reads. For example, a homopolymer locus of nucleotide A (based on reference sequence) sequenced at 100-fold (sequencing of A by 50 forward sequencing reads plus sequencing of T by 50 reverse sequencing reads) will return a total of 100 PSI values. Although PSI value is accurate up to the first decimal place, the average 454 sequencing depth is 150-fold in this study so that some possible PSI values are not represented by any reads. PSI values are therefore categorized as bins b, rounding to 0.5 nucleotide (eg, 3.0, 3.5, 4.0, 4.5, .), with the use of awk script flowstat_assign_flowvalue_group.awk. Those with first decimal places 0.0 to 0.4 are grouped into a bin and 0.5 to 0.9 are grouped into another bin. For example, PSI of 10 sequencing reads {3.1, 3.1, 3.2, 3.3, 3.5, 3.6, 3.8, 3.9, 3.9, 3.9} are represented as b3.0 Z 4 and b3.5 Z 6. These PSI values are stored in a SQLite database and further processed by an R script classify_homopolymer.R. To enable comparison of PSI between samples with different sequencing depths, PSI are then normalized as a fraction
+
+of sequencing read count as fhb Z nhb/Nh, where h is a given homopolymer locus, b is PSI value bin as described
+above, nhb is the number of sequencing reads in the bin b for homopolymer h, and Nh is the total number of sequencing reads covering the homopolymer h regardless
+of PSI value. Summation of fhb of all bins in a given locus h equals to 1. In this study, there are 54 control DNA
+samples and 1330 homopolymer loci of interest (length, 3
+to 15 bp). After PSI extraction and transformation, there are 54 Â 1330 Z 71,820 sets of fhb values serving as control values. When fhb values of a given testing DNA sample s (fhbs) are significantly different from those of control samples c (fhbc), possibly there are variants in the corresponding homopolymer loci. Outlier loci with significantly different fhb values are defined as fhbs > 1:5ðIQRhbcÞ þ Q3hbc , where IQRhbc and Q3hbc are the interquartile range and the third quartile of fhbc values of control samples, respectively. Those outlier loci are
+ranked by their z scores as follows:
+
+zhbs
+
+Zfhbs À fhbc SDhbc
+
+;
+
+where SDhbc is the SD of fhbc values of control samples. Source code and documentation of HomopolymerQZ are available for download at http://github.com/tommyau/ homopolymerqz (Hong Kong Sanitorium and Hospital).
+
+MLPA Assay
+All patient samples were subjected to MLPA for detection of large genomic rearrangement of BRCA1 and BRCA2. SALSA MLPA BRCA1 and BRCA2 probemix (MRCHolland, Amsterdam, the Netherlands) was used according to the manufacturer's protocol. Data analysis was performed by Coffalyser version 7 (MRC-Holland).
+
+Results
+Validation of NGS-Based Mutation Detection Performance
+The NGS-based screening workflow was evaluated from the analysis of BRCA1 and BRCA2 mutation-positive (n Z 80) and -negative (n Z 8) validated control samples. The control samples were previously characterized by bidirectional Sanger sequencing of BRCA1 and BRCA2 coding exons.7 Five types of DNA mutations in BRCA1 and BRCA2 were analyzed, including i) 34 different deletions of length 1 to 11 bp, ii) 13 different duplications of length 1 to 4 bp, iii) 21 different nonsense single nucleotide variants (SNVs) in exons, iv) 11 different SNVs in splice sites, and v) one complex mutation that involved 8-bp deletion and 7-bp insertion on the same allele (Table 2). All 80 mutations, including local Chinese and overseas controls, were detected by NGS.
+Among them, 76 mutations were readily detected by the combination of two variant callers, AVA and SAMtools,
+
+588 jmd.amjpathol.org - The Journal of Molecular Diagnostics
+
+as shown in the annotated variant reports. The sensitivity of the test is 95% (95% CI, 93.9e96.1; n Z 80) and specificity of the test is 100% (95% CI, 95.8e104.2; n Z 8). These readily detectable mutations include deletions, duplication, nonsense SNVs, and splice site SNVs. The remaining four mutations were the complex mutation BRCA2 c.4467_4474delinsTGTTTTT and three different homopolymer-length variants BRCA1 c.1016delA (1-bp deletion from 7-bp homopolymer), BRCA1 c.1961dupA (1-bp duplication from 8-bp homopolymer), and BRCA2 c.9097dupA (1-bp duplication from 8-bp homopolymer).
+Although the exact BRCA2 deletion-insertion mutation was not called by both variant callers, there were actually multiple SNVs called along the deleted positions. The splitting of the complex mutation into multiple SNVs is possibly because of the limitation of the variant calling algorithm in handling such complex deletion-insertion situations. However, the run of SNVs was considered sufficient to trigger manual review and follow-up Sanger sequencing validation. Thus, this complex mutation was regarded as detectable, but the mutation naming would require manual correction.
+Novel Algorithm HomopolymerQZ for Accurate Variant Detection of Homopolymers
+Because of the high false-positive rates in homopolymer loci, including BRCA1 c.1016 and c.1961 together with BRCA2 c.9097, in all samples and difficulty in calling insertion-deletion mutation at homopolymer regions, a bioinformatics algorithm HomopolymerQZ was designed to detect variants in homopolymer loci (length, !3 bp). Signals of homopolymer loci among the four target genes (n Z 948) were collected from 54 validated control samples that were wild-type at the loci. HomopolymerQZ successfully detected mutations BRCA2 c.9097dupA (Figure 2), BRCA1 c.1016delA and c.1961dupA with high z scores (4.34, 4.56, and 4.67) from the validated positive controls, respectively, without high false-positive rates in other controls (Table 2). Variants in prospective cases can also be detected by HomopolymerQZ, for example, BRCA1 c.280C>T (p.Gln94*; z score 54.58) and PTEN c.1202C>A (p.Thr401Lys; z score 6.88). Overall, with the incorporation of homopolymer-specific variant caller HomopolymerQZ, all 80 mutations from the validated controls were detectable by the NGS workflow.
+Mutation Spectrum of 948 Patients
+The NGS analysis workflow was then applied to screen 948 uncharacterized probands from an independent cohort with a shorter turnaround time compared with conventional bidirectional Sanger sequencing. Most pathogenic mutations were identified in BRCA1 (n Z 27) and BRCA2 (n Z 41), but TP53 (n Z 5) and PTEN (n Z 2) mutations were also
+
+Gene-Panel Sequencing and Diagnosis
+identified (Table 4).7,16,25 Seven mutations (BRCA1 c.964delG, c.3333delA, BRCA2 c.2595delA, c.5164_5165delAG, c.7007G>T, c.7878G>A, and c.9294C>G) were observed in at least two unrelated probands; thus, they were regarded as new hotspot mutations in the cohort. Together with our previously known hotspot mutations,16 hotspot mutations account for 48.8% of all mutations identified from the probands in this study. Haplotype analysis of two families and 50 unrelated controls supported that the new hotspot mutation BRCA2 c.5164_5165delAG is a novel founder mutation observed in this cohort (Supplemental Table S2). In addition, the overall incidence of deleterious BRCA1/ BRCA2 mutation of hereditary breast and/or ovarian cancers was 8.8% in our Southern Chinese high-risk families (n Z 1427) from combining data sets of PCR-based Sanger sequencing and NGS. The overall clinical pathologic variables in BRCA1/BRCA2 carriers detected by Sanger and NGS are illustrated in Table 5. With the inclusion of MLPAdetected mutations, the overall germline mutation frequency was 9.4%.
+Five different mutations that affect pre-mRNA processing were identified in six probands (Table 4). Notably, the BRCA2 deletion c.-39-1_-39delGA is located across the splice site upstream to translation initiation codon in exon 2. The mutation allele was predicted to be a null allele in production of functional BRCA2 protein. In another proband, BRCA2 SNV c.8023A>G was observed and computationally annotated as a missense SNV. However, in vitro cDNA sequencing showed that the mutation gave rise to a strong donor site and resulted in aberrant splicing of exon 18. The cDNA-based experimental results of this mutation were consistent with a previous study.26
+VUS Spectrum of 1427 Patients and 100 Healthy Local Individuals
+Among the VUS identified from the probands, missense SNVs were further prioritized according to five selection criteria (namely absence in The 1000 Genomes Project, absence in 100 normal controls, and scoring of SIFT, PolyPhen-2, and Align-GVGD), which were based on allele frequency of populations and in silico sequencealignmentebased prediction algorithms. From the 1427 patients, 104 missense VUS were found to be absent among 2504 individuals from worldwide populations of The 1000 Genomes Project. In parallel, 100 healthy local individuals were also screened by the same workflow as the probands. By filtering VUS that were also present in the 100 local individuals (Supplemental Table S3), 92 missense VUS were left for prioritization with the use of in silico predictions. Finally, 46 VUS were predicted as probably damaging from three different sequence-alignmentebased algorithms that the corresponding protein function will likely be affected (SIFT deleterious, PolyPhen-2 probably damaging, and AlignGVGD most likely deleterious). Further co-segregation analysis on the relevant families is in progress.
+
+The Journal of Molecular Diagnostics - jmd.amjpathol.org
+
+589
+
+Kwong et al
+
+Table 4 Spectrum of 75 Pathogenic Mutations Identified by the NGS Method
+
+Proband no.
+
+Gene
+
+Exon/Intron
+
+Mutation detected
+
+TWH001 TWH002 TWH003 TWH004 TWH005 QMH001 QMH002 TWH006 TWH007 KWH001 TWH008 TWH009 TWH010 KWH002 TWH011 TWH012 TWH013 KWH003 TMH001 TWH014 TWH015 TWH016 TWH017 TWH018 PMH001 HKSH001 TWH019 TWH020 TWH021 TWH022 KWH004 QMH003 TWH023 TMH002 TWH024 KWH005 TWH025 KWH006 TWH026 TWH027 TWH028 TWH029 TWH030 TWH031 TWH032 TWH033 QMH004 QMH005 QMH006 TWH034 TMH003 TWH035 KWH007 KWH008 TWH036 TWH037 TWH038
+
+BRCA1 BRCA2
+
+Exon 2 Exon 5 Exon 6 Exon 6 Exon 8 Exon 8 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 12 Exon 14 Exon 14 Exon 14 Exon 16 Exon 22 IVS22 IVS22 Exon 24 IVS1/Exon 2 Exon 9 Exon 10 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 11 Exon 13 Exon 13 Exon 13 Exon 14 Exon 15 Exon 15 Exon 17 Exon 17
+
+c.66dupA c.212þ3A>T c.220C>T c.280C>T c.514C>T c.470_471delCT c.964delG c.2166delC c.2253_2254delGT c.2577_2578insTT c.2635G>T c.2695delG c.3333delA c.3607C>T c.3756_3759delGTCT c.3767_3768delCA c.4065_4068delTCAA c.4148C>G c.4372C>T c.4372C>T c.4372C>T c.4780_4793del14 c.5353C>T c.5406þ1_5406þ3delGTA c.5406þ7A>G c.5503C>T c.-39-1_-39delGA c.755delA c.1888dupA c.2442delC c.2339C>G c.2595delA c.2808_2811delACAA; c.3109C>T c.3109C>T c.3109C>T c.3109C>T c.3109C>T c.3109C>T c.3109C>T c.3109C>T c.3760G>T c.4372C>T c.5164_5165delAG c.5164_5165delAG c.5164_5165delAG c.6240dupA c.6256_6259delATCA c.6678delA c.7007G>T c.7007G>T c.7007G>T c.7133C>G c.7490dupA c.7558C>T; c.7878G>A c.7878G>A
+
+Amino acid change
+p.Glu23Argfs*18 p.Cys64* p.Phe46_Arg71del26 p.Gln74* p.Gln94* p.Gln172* p.Ser157*y p.Ala322Leufs*19z p.Asn723Ilefs*13 p.Met751Ilefs*10 p.Thr860Leufs*34 p.Glu879* p.Val899Serfs*101 p.Glu1112Asnfs*5z p.Arg1203* p.Ser1253Argfs*10 p.Thr1256Argfs*10 p.Asn1355Lysfs*10 p.Ser1383* p.Gln1458*y p.Gln1458* p.Gln1458* p.Pro1594Cysfs*23 p.Gln1785* p.Asp1778Glyfs*27yx{ p.Asp1778Glyfs*27x p.Arg1835* p.0?x p.Asp252Alafs*25 p.Thr630Asnfs*6 p.Met815Trpfs*10 p.Ser780* p.Glu866Lysfs*8z p.Ala938Profs*21 p.Gln1037*y{ p.Gln1037* p.Gln1037* p.Gln1037* p.Gln1037* p.Gln1037* p.Gln1037* p.Gln1037* p.Glu1254* p.Gln1458* p.Ser1722Tyrfs*4zk p.Ser1722Tyrfs*4 p.Ser1722Tyrfs*4 p.Glu2081Argfs*4 p.Ile2086Glufs*32 p.Ala2227Glnfs*2 p.Gly2313Alafs*31zx p.Gly2313Alafs*31 p.Gly2313Alafs*31 p.Ser2378* p.Lys2498Glufs*41 p.2520* p.Trp2626*z p.Trp2626*
+(table continues)
+
+590 jmd.amjpathol.org - The Journal of Molecular Diagnostics
+
+Gene-Panel Sequencing and Diagnosis
+
+Table 4 (continued )
+
+Proband no.
+
+Gene
+
+Exon/Intron
+
+Mutation detected
+
+TWH039 TWH040 PMH002 TWH041 KWH009 KWH010 HKSH002 TWH041 TMH004 TWH042 KWH011 QMH007 PMH003 TWH043 TWH044 TWH045 TWH046 TWH047
+
+Exon 17 Exon 17 Exon 18 Exon 18 Exon 19 Exon 19 Exon 25 Exon 25 Exon 25 Exon 25 Exon 25 PTEN Exon 1 Exon 5 TP53 Exon 2 Exon 5 Exon 5 Exon 7 Exon 8
+
+c.7878G>A c.7878G>A c.8023A>G c.8068_8069delGT
+c.8400_8402delinsAAAA c.8470A>T c.9294C>G c.9294C>G c.9382C>T c.9401delG;
+c.9409dupA c.1A>C c.388C>T c.96þ1G>T; r.75_96del c.473G>A c.541C>T c.743G>A c.916C>T
+
+yKnown recurrent mutation in the Registry. zNovel recurrent mutation in the Registry. xSplicing variant. {Known founder mutation.7,16 kAssociated with Li-Fraumeni syndrome25 or Li-Fraumenielike syndrome.
+
+Amino acid change
+p.Trp2626* p.Trp2626* p.Met2676_Ile2778delx p.Val2690Phefs*2 p.Phe2801Lysfs*11 p.Arg2824* p.Tyr3098*z p.Tyr3098* p.Arg3128* p.Gly3134AlafsX29 p.Thr3137Asnfs*13 p.? p.Arg130* p.Leu26Profs*11 p.Arg158Hisk p.Arg181Cys p.Arg248Glnk p.Arg306*
+
+Discussion
+From our experience in genetic testing with different platforms, the overall incidence of deleterious BRCA1/BRCA2 mutation of hereditary breast and/or ovarian cancers was 9.4% in Southern Chinese high-risk families (n Z 1427) by using the combination of direct PCR-based Sanger sequencing, NGS, and MLPA. We have demonstrated that the NGS platform is able to detect all of the Sangervalidated positive controls.
+In addition, we have identified 46 new mutations in the cohort by NGS method. The mutation spectrum of the NGS platform was expanded by 57.5% (an increase of detectable mutation from 80 to 126 unique mutations). It greatly enhanced the turnaround time for mutation screening, the possibility of expanding the gene panels, and the feasibility of more extensive investigation of the control groups which is not practical for Sanger Sequencing or high resolution melting analysis. Notably, we are able to identify a mutation by NGS that was previously missed by high resolution melting. To the best of our knowledge, this is the largest cohort of genetic predisposition screening of breast cancer reported in the Chinese population. Overall, 126 pathogenic mutations were identified in BRCA1, BRCA2 genes; in addition, TP53 and PTEN mutations were detected in five and two families, respectively. Detailed analysis of the mutation spectrum revealed that 17 varieties of hotspot mutation (ie, identified in !2 families) were seen in our cohort, which contributed to 48.8% of all detected mutations. This suggested that screening these 17 hotspot
+
+mutations can pick up approximately one-half of the Southern Chinese mutations. This conclusion implied an enormous impact on the design of HBOC screening for Chinese. Because Hong Kong was once a city with a population of approximately 125,000 in mid-1800 and reached >7 million in 2010, most residents are immigrants from Southern China where one of its many provinces such as Guangdong has a population size of >100 million. Therefore, more patients with hotspot mutations could be detected effectively by a simple, rapid, and cost-effective routine molecular diagnostic method that is easily available in most diagnostic laboratories. Among the hotspot mutations, six were confirmed as founder mutations by identification of common disease haplotype. Interestingly, large deletions were detected by MLPA in seven families. The overall MLPA detectable mutation frequency, including a hotspot mutation of deletion of exons 15 and 16, is 0.56%. Thus, analysis of large duplication or deletion in these genes should be included in all diagnostic platforms, to obtain a more comprehensive spectrum of the population.27
+It is important to have a group of healthy individuals for VUS classification. Although VUS data from The 1000 Genomes Project are available for reference, we showed that nine population-specific SNPs from the normal cohort, including eight in BRCA2 and one in BRCA1, could be found and useful in classification of VUS (Supplemental Table S3). It suggested that population-specific study of a cohort of healthy individuals should be included in the genetic diagnosis of familial breast cancer. With the use of a
+
+The Journal of Molecular Diagnostics - jmd.amjpathol.org
+
+591
+
+Kwong et al
+
+Table 5 Patient Demographic Characteristics in BRCA Carriers
+
+Characteristic
+
+BRCA1
+
+BRCA2
+
+Age, mean (SD) (years) Histologic type
+DCIS IDC ILC Mixed (ILCþIDC) Others ND Histologic tumor grade 1 2 3 ND Lymph node N0 [including N(itc)] N1 N2 N3 ND Distant metastasis Before surgery
+No Yes ND After surgery No Yes Stage 0 I II III IV ND Tumor stage T0 (including Tis) T1 (including T1mi) T2 T3 T4 ND Bilateral cancer No Yes
+
+41.73 (9.85)
+1 52 0 0 5 3
+1 10 34 13
+42 10 1 3 5
+59 1 1
+57 4
+1 25 28 4 1 2
+1 30 25 0 1 4
+11 2
+
+46.68 (9.56)
+14 62 1 0 4 3
+3 33 34 11
+46 20 11 1 6
+82 2 0
+78 6
+13 18 32 13 2 6
+14 29 30 4 1 6
+6 6
+
+BRCA1 carriers: 61 tumors from 48 patients. BRCA2 carriers: 84 tumors from 73 patients.
+DCIS, ductal carcinoma in situ; IDC, invasive ductal carcinoma; ILC, invasive lobular carcinoma; itc, isolated tumor cells; ND, not defined; NGS, nextgeneration sequencing; T1mi, T1 with microinvasion; Tis, carcinoma in situ.
+
+cohort of 100 individuals, it is able to identify roughly 80% of SNPs in the same population.17
+From our seven selection criteria, the overall mutation prevalence is 9.4%. Notwithstanding, patients with triplenegative breast cancer (17.6%) and with the history of breast and/or ovarian cancers (16%) showed higher detection rates. It was reported that triple-negative breast cancer
+
+is a cost-effective indicator for genetic screening.9 In this study, there were only eight patients who had ovarian cancer with family history, and six of them were BRCA1/ BRCA2 carriers. A larger cohort is necessary to confirm whether this is a high-risk factor for harboring a germline mutation. This information would greatly improve the genetic counseling and interpretation of the test results. Patients with multiple risk factors increased the likelihood to carry mutations. Hence, their family members should also undergo genetic testing and undertake preventive measures.
+The quality of the NGS reads is critical in the clinical application of NGS. However, because of the limitation of bioinformatic personnel in most clinical laboratories, most of the analysis relies on packaged software.28 In this study, we have demonstrated that pyrosequencing output data could be amenable to systematic quantitative analysis and pinpointed the drawback of data analysis with only one algorithm. NGS data usually contain a lot of nonspecific signals/errors; therefore, it is important to distinguish systematic error from real variations. The exploration of the usage of pyrosequencing signal intensity to assist variant calling has been described but limited to few loci.10 The presence of homopolymers seems to be the most challenging problem in pyrosequencing platform; a novel in-house bioinformatic analysis, HomopolymerQZ, was therefore developed for automatic homopolymer mutation calling. With the use of the unique characteristic of 454 platform and application of signal reference range to indicate that mutation associated with homopolymer greater than or equal to three could be detected by the unique quantitative signal generated by 454 pyrosequencer. In addition, the signal released by pyruvase in every single homopolymer in our set of amplicons in a 454 sequencer are relatively constant among cases (including controls), although it might not necessarily be equivalent to the empirical signal intensity. With this characteristic, we could calculate both the distribution frequencies and z score of the specific reads against the same locus of a group of normal controls. This characteristic could be explored in a different set of gene-specific data from different diagnostic laboratories. This novel HomopolymerQZ could potentially serve as a standard laboratory monitoring system, which might not be easily available on other platforms.
+In this study, we have covered all intron-exon boundaries, including coding or noncoding. We have identified BRCA2 c.-39-1_-39delGA mutation in one of the families. It is particularly interesting because the mutation would be missed if variant detection is only limited to the coding sequences. Further cDNA analysis also indicated that such mutation induced skipping of exon 2 in the BRCA2 transcript; thus, the translation start site was deleted in this allele. However, heterozygosity frequency indicated the accuracy of the test. However, a nonsense mutation in BRCA1 c.280C>T with the variant allele frequency ranged from 16% to 24% in different independent NGS runs.
+
+592 jmd.amjpathol.org - The Journal of Molecular Diagnostics
+
+Detailed investigation showed that this variation is the cause of a SNP located in the primer region in the disease allele. Relocation of the primer could effectively avoid this phenomenon, and the frequency of this nonsense mutation falls back into the range of 40% to 60% heterozygosity rate. Therefore, one should be cautious during the analysis of variants if the heterozygosity falls <50%. Another important issue that needs to be addressed is the mutation that leads to generation of a novel splice site; thus, any downstream analysis should consider fetching the association of synonymous/VUS and splicing defect. Finally, we have included 100 apparently normal individuals as a SNPs indicator. It was shown that screening 300 individuals can cover as much as >95% of polymorphisms at approximately 1% frequency in the corresponding population. By combining the polymorphism spectrum of the Chinese populations from The 1000 Genomes Project (Han Chinese and Southern Han Chinese) and also the local population, we could easily eliminate a group of VUS and minimize the report of VUS effectively (Supplemental Table S3).
+Our cohort consisted mainly of Chinese who reside in Hong Kong. From our current findings, development of a breast cancer genetic screening strategy for the Chinese population is feasible and also applicable to Mainland Chinese, and Chinese who reside in other parts of the world, most of whom immigrated from Hong Kong and Mainland China. Genetic diagnostic testing and clinical management of hereditary breast cancer are still at a developmental stage in Mainland China.29 From the experience with colorectal cancer screening, if we could design a cost-effective genetic test, 1.35 billion individuals will likely benefit from this new approach and improve cancer risk assessment and management.
+Taken together, we have harnessed the advantages of NGS pyrosequencing platform as follows: i) the quality of the NGS reads from 454 pyrosequencer/MiSeq were important data and could be manipulated appropriately for clinical application; ii) a novel algorithm, HomopolymerQZ, potentially could be used as an automated homopolymer mutation detector (although 454 technology is fading, alternative technology such as Ion Proton rely on comparable method may benefit from the algorithm); iii) criteria for primer design and mutation detection strategies should be addressed probably for routine genetic diagnosis of hereditary breast cancer. Finally, this multigene panel is a reliable diagnostic platform when stringent validation has been implemented.
+Acknowledgments
+We thank Wing Pan Luk and Ling Hiu Fung for assisting in statistical analysis; Drs. Dacita Suen, Clement Chen, Kwok K. Ma, Lorraine Chow, Annie Chu, and Isabella Cheuk, as well as Desiree Tse, Winner Cheng, and Wong Ling (The University of Hong Kong), and the breast cancer
+
+Gene-Panel Sequencing and Diagnosis
+research groups from Caritas Medical Centre, Kwong Wah Hospital, North District Hospital, Pamela Youde Nethersole Eastern Hospital, Princess Margaret Hospital, Queen Elizabeth Hospital, Queen Mary Hospital, Tuen Mun Hospital, Tung Wah Hospital, and United Christian Hospital for patient recruitment.
+Supplemental Data
+Supplemental material for this article can be found at http://dx.doi.org/10.1016/j.jmoldx.2016.03.005.
+References
+1. Antoniou A, Pharoah PD, Narod S, Risch HA, Eyfjord JE, Hopper JL, Loman N, Olsson H, Johannsson O, Borg A, Pasini B, Radice P, Manoukian S, Eccles DM, Tang N, Olah E, Anton-Culver H, Warner E, Lubinski J, Gronwald J, Gorski B, Tulinius H, Thorlacius S, Eerola H, Nevanlinna H, Syrjäkoski K, Kallioniemi OP, Thompson D, Evans C, Peto J, Lalloo F, Evans DG, Easton DF: Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies. Am J Hum Genet 2003, 72:1117e1130
+2. Ford D, Easton DF, Stratton M, Narod S, Goldgar D, Devilee P, et al: Genetic heterogeneity and penetrance analysis of the BRCA1 and BRCA2 genes in breast cancer families. Am J Hum Genet 1998, 62: 676e689
+3. Garcia C, Lyon L, Littell RD, Powell CB: Comparison of risk management strategies between women testing positive for a BRCA variant of unknown significance and women with known BRCA deleterious mutations. Genet Med 2014, 16:896e902
+4. Youlden DR, Cramb SM, Dunn NA, Muller JM, Pyke CM, Baade PD: The descriptive epidemiology of female breast cancer: an international comparison of screening, incidence, survival and mortality. Cancer Epidemiol 2012, 36:237e248
+5. Kwong A, Shin VY, Ho JC, Kang E, Nakamura S, Teo SH, Lee AS, Sng JH, Ginsburg OM, Kurian AW, Weitzel JN, Siu MT, Law FB, Chan TL, Narod SA, Ford JM, Ma ES, Kim SW: Comprehensive spectrum of BRCA1 and BRCA2 deleterious mutations in breast cancer in Asian countries. J Med Genet 2016, 53:15e23
+6. Nakamura S, Kwong A, Kim SW, Iau P, Patmasiriwat P, Dofitas R, Aryandono T, Hu Z, Huang CS, Ginsburg O, Rashid MS, Sarin R, Teo SW: Current status of the management of hereditary breast and ovarian cancer in Asia: first report by the Asian BRCA Consortium. Public Health Genomics 2016, 19:53e60
+7. Kwong A, Wong LP, Wong HN, Law FB, Ng EK, Tang YH, Chan WK, Ho LS, Kwan KH, Poon M, Wong TT, Leung FC, Chan SW, Ying MW, Ma ES, Ford JM: A BRCA2 founder mutation and seven novel deleterious BRCA mutations in southern Chinese women with breast and ovarian cancer. Breast Cancer Res Treat 2009, 117:683e686
+8. Foulkes WD, Stefansson IM, Chappuis PO, Bégin LR, Goffin JR, Wong N, Trudel M, Akslen LA: Germline BRCA1 mutations and a basal epithelial phenotype in breast cancer. J Natl Cancer Inst 2003, 95:1482e1485
+9. Kwon JS, Daniels MS, Sun CC, Lu KH: Preventing future cancers by testing women with ovarian cancer for BRCA mutations. J Clin Oncol 2010, 28:675e682
+10. Michils G, Hollants S, Dehaspe L, Van Houdt J, Bidet Y, Uhrhammer N, Bignon YJ, Vermeesch JR, Cuppens H, Matthijs G: Molecular analysis of the breast cancer genes BRCA1 and BRCA2 using amplicon-based massive parallel pyrosequencing. J Mol Diagn 2012, 14:623e630
+
+The Journal of Molecular Diagnostics - jmd.amjpathol.org
+
+593
+
+Kwong et al
+11. Chan M, Ji SM, Yeo ZX, Gan L, Yap E, Yap YS, Ng R, Tan PH, Ho GH, Ang P, Lee AS: Development of a next-generation sequencing method for BRCA mutation screening: a comparison between a highthroughput and a benchtop platform. J Mol Diagn 2012, 14:602e612
+12. Trujillano D, Weiss ME, Schneider J, Köster J, Papachristos EB, Saviouk V, Zakharkina T, Nahavandi N, Kovacevic L, Rolfs A: Nextgeneration sequencing of the BRCA1 and BRCA2 genes for the genetic diagnostics of hereditary breast and/or ovarian cancer. J Mol Diagn 2015, 17:162e170
+13. Feliubadaló L, Lopez-Doriga A, Castellsagué E, del Valle J, Menéndez M, Tornero E, Montes E, Cuesta R, Gómez C, Campos O, Pineda M, González S, Moreno V, Brunet J, Blanco I, Serra E, Capellá G, Lázaro C: Next-generation sequencing meets genetic diagnostics: development of a comprehensive workflow for the analysis of BRCA1 and BRCA2 genes. Eur J Hum Genet 2013, 21:864e870
+14. Walsh T, Casadei S, Coats KH, Swisher E, Stray SM, Higgins J, Roach KC, Mandell J, Lee MK, Ciernikova S, Foretova L, Soucek P, King MC: Spectrum of mutations in BRCA1, BRCA2, CHEK2, and TP53 in families at high risk of breast cancer. JAMA 2006, 295:1379e1388
+15. Ngeow J, Stanuch K, Mester JL, Barnholtz-Sloan JS, Eng C: Second malignant neoplasms in patients with Cowden syndrome with underlying germline PTEN mutations. J Clin Oncol 2014, 32:1818e1824
+16. Kwong A, Ng EK, Wong CL, Law FB, Au T, Wong HN, Kurian AW, West DW, Ford JM, Ma ES: Identification of BRCA1/2 founder mutations in Southern Chinese breast cancer patients using gene sequencing and high resolution DNA melting analysis. PLOS ONE 2012, 7:e43994
+17. Collins JS, Schwartz CE: Detecting polymorphisms and mutations in candidate genes. Am J Hum Genet 2002, 71:1251e1252
+18. Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R; 1000 Genome Project Data Processing Subgroup: The Sequence Alignment/Map format and SAMtools. Bioinformatics 2009, 25:2078e2079
+19. McLaren W, Pritchard B, Rios D, Chen Y, Flicek P, Cunningham F: Deriving the consequences of genomic variants with the Ensembl API and SNP Effect Predictor. Bioinformatics 2010, 26:2069e2070
+20. den Dunnen JT, Antonarakis SE: Mutation nomenclature extensions and suggestions to describe complex mutations: a discussion. Hum Mutat 2000, 15:7e12
+
+21. 1000 Genomes Project Consortium, Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA: An integrated map of genetic variation from 1,092 human genomes. Nature 2012, 491:56e65
+22. Kumar P, Henikoff S, Ng PC: Predicting the effects of coding nonsynonymous variants on protein function using the SIFT algorithm. Nat Protoc 2009, 4:1073e1081
+23. Adzhubei I, Jordan DM, Sunyaev SR: Predicting functional effect of human missense mutations using PolyPhen-2. Curr Protoc Hum Genet 2013. Chapter 7:Unit7.20
+24. Tavtigian SV, Byrnes GB, Goldgar DE, Thomas A: Classification of rare missense substitutions, using risk surfaces, with geneticand molecular-epidemiology applications. Hum Mutat 2008, 29: 1342e1354
+25. Raymond VM, Else T, Everett JN, Long JM, Gruber SB, Hammer GD: Prevalence of germline TP53 mutations in a prospective series of unselected patients with adrenocortical carcinoma. J Clin Endocrinol Metab 2013, 98:E119e125
+26. Bonnet C, Krieger S, Vezain M, Rousselin A, Tournier I, Martins A, Berthet P, Chevrier A, Dugast C, Layet V, Rossi A, Lidereau R, Frébourg T, Hardouin A, Tosi M: Screening BRCA1 and BRCA2 unclassified variants for splicing mutations using reverse transcription PCR on patient RNA and an ex vivo assay based on a splicing reporter minigene. J Med Genet 2008, 45:438e446
+27. Kwong A, Chen J, Shin VY, Ho JC, Law FB, Au CH, Chan TL, Ma ES, Ford JM: The importance of analysis of long-range rearrangement of BRCA1 and BRCA2 in genetic diagnosis of familial breast cancer. Cancer Genet 2015, 208:448e454
+28. Ruiz A, Llort G, Yagüe C, Baena N, Viñas M, Torra M, Brunet A, Seguí MA, Saigí E, Guitart M: Genetic testing in hereditary breast and ovarian cancer using massive parallel sequencing. Biomed Res Int 2014, 2014:542541
+29. Yang X, Wu J, Lu J, Liu G, Di G, Chen C, Hou Y, Sun M, Yang W, Xu X, Zhao Y, Hu X, Li D, Cao Z, Zhou X, Huang X, Liu Z, Chen H, Gu Y, Chi Y, Yan X, Han Q, Shen Z, Shao Z, Hu Z: Identification of a comprehensive spectrum of genetic factors for hereditary breast cancer in a Chinese population by next-generation sequencing. PLOS ONE 2015, 10:e0125571
+
+594 jmd.amjpathol.org - The Journal of Molecular Diagnostics
+
+

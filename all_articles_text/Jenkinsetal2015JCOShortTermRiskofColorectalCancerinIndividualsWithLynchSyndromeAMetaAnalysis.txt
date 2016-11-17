@@ -1,0 +1,491 @@
+VOLUME 33  NUMBER 4  FEBRUARY 1 2015
+JOURNAL OF CLINICAL ONCOLOGY
+
+ORIGINAL REPORT
+
+Short-Term Risk of Colorectal Cancer in Individuals With Lynch Syndrome: A Meta-Analysis
+
+Mark A. Jenkins, James G. Dowty, Driss Ait Ouakrim, John D. Mathews, John L. Hopper, and Aung Ko Win, Centre for Epidemiology and Biostatistics, Melbourne School of Population and Global Health, The University of Melbourne, Parkville, Victoria, Australia; John L. Hopper, Institute of Health and Environment, School of Public Health, Seoul National University, Seoul, Korea; Youenn Drouet, Christine Lasset, and Valérie Bonadona, Université Lyon 1, Centre National de la Recherche Scientifique, Unité Mixte de Recherche 5558 Laboratoire de Biométrie et Biologie Évolutive, Villeurbanne; and Youenn Drouet, Christine Lasset, and Valérie Bonadona, Centre Léon Bérard, Lyon, France.
+Published online ahead of print at www.jco.org on December 22, 2014.
+Supported by the Australian National Health and Medical Research Council (NHMRC) under the Centre for Research Excellence scheme, an NHMRC Senior Research Fellowship (M.A.J.), an NHMRC Senior Principal Research Fellowship (J.L.H.), and an NHMRC Early Career Fellowship (A.K.W.).
+Authors' disclosures of potential conflicts of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article.
+Corresponding author: Mark A. Jenkins, PhD, Centre for Epidemiology and Biostatistics, Melbourne School of Population and Global Health, Level 3, 207 Bouverie St, The University of Melbourne, Victoria 3010 Australia; e-mail: m.jenkins@unimelb.edu.au.
+© 2014 by American Society of Clinical Oncology
+0732-183X/15/3304w-326w/$20.00
+DOI: 10.1200/JCO.2014.55.8536
+
+Mark A. Jenkins, James G. Dowty, Driss Ait Ouakrim, John D. Mathews, John L. Hopper, Youenn Drouet, Christine Lasset, Valérie Bonadona, and Aung Ko Win
+ABSTRACT
+Purpose For carriers of germline mutations in DNA mismatch repair genes, the most relevant statistic for cancer prevention is colorectal cancer (Lynch syndrome) risk, particularly in the short term.
+Methods We conducted a meta-analysis of all independent published Lynch syndrome studies reporting age- and sex-dependent colorectal cancer risks. We estimated 5-year colorectal cancer risk over different age groups, separately for male and female mutation carriers, and number needed to screen to prevent one death.
+Results We pooled estimates from analyses of 1,114 Lynch syndrome families (508 with MLH1 mutations and 606 with MSH2 mutations). On average, one in 71 male and one in 102 female MLH1 or MSH2 mutation carriers in their 20s will be diagnosed with colorectal cancer in the next 5 years. These colorectal cancer risks increase with age, peaking in the 50s (one in seven males and one in 12 females), and then decrease with age (one in 13 males and one in 19 females in their 70s). Annual colonoscopy in 16 males or 25 females in their 50s would prevent one death from colorectal cancer over 5 years while resulting in almost no serious complications. In comparison, annual colonoscopy in 155 males or 217 females in their 20s would prevent one death while resulting in approximately one serious complication.
+Conclusion For MLH1 or MSH2 mutation carriers, current guidelines recommend colonoscopy every 1 to 2 years starting in their 20s. Our findings support this regimen from age 30 years; however, it might not be justifiable for carriers who are in their 20s.
+J Clin Oncol 33:326-331. © 2014 by American Society of Clinical Oncology
+
+INTRODUCTION
+Inheriting a mutation in one of the DNA mismatch repair (MMR) genes (MLH1, MSH2, MSH6, or PMS2) substantially increases a carrier's risk of several types of cancer, including colorectal, endometrial, stomach, small bowel, renal pelvis, and biliary tract cancers1; this condition is currently referred to as Lynch syndrome.2 It has been estimated that between one in 370 and one in 3,100 people of the general population have this inherited cancer predisposition.3,4 Thousands of different types of mutations have been identified in these MMR genes,5 and given their individual rarity (many are so-called private mutations that have been found to date to be segregating in only a single family), most epidemiology studies have combined mutations when deriving estimates of the average cancer risks for all mutation carriers.
+
+The most preventable of the Lynch syndrome cancers is colorectal cancer. Screening by colonoscopy every 3 years (when coupled with polypectomy) reduces 15-year colorectal cancer risk by 56% and mortality by 67%.6 In the absence of precise data on the age- and sex-specific colorectal cancer risks, current guidelines conservatively recommend annual or biennial colonoscopic screening for all adult carriers irrespective of their age or sex.7,8 To assess the appropriateness of this regimen, the clinically most important statistic for a mutation carrier is their short-term risk of colorectal cancer, given their age and sex.
+Studies that have attempted to estimate ageand sex-specific colorectal cancer risks for mutation carriers have been hampered because of lack of understanding of statistical issues related to ascertainment of carriers; sample sizes too small to produce reliable or precise estimates; and overly simplistic
+
+326 © 2014 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission. Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Short-Term Risk of Colorectal Cancer in Individuals With Lynch Syndrome
+
+modeling or presentation of estimates, such as reporting only lifetime risks or assuming that the risk for carriers is simply a multiplier of the risk for the general population independent of age and/or sex. The aim of this study was to combine the results from all relevant published studies to provide better estimates of age- and sex-specific short-term risks of colorectal cancer for individuals with Lynch syndrome.
+METHODS
+Study Selection PubMed (www.ncbi.nlm.nih.gov/pubmed) was used to search for pub-
+lished studies that estimated colorectal cancer risks in the context of Lynch syndrome. The following combinations of key words were used: "colon or colorectal," "cancer or neoplasm or tumor," and "Lynch syndrome, HNPCC, mismatch repair, MLH1, or MSH2." References from relevant articles, letters, reviews, and previous meta-analyses were reviewed to identify any additional studies that were not captured by the PubMed search. To be included, studies had to have reported age- and sex-specific risks of colorectal cancer for carriers of MLH1 or MSH2 mutations relative to the risks for the general population as hazard ratios, or equivalent measures of relative risk, and appropriately adjusted for ascertainment of mutation carriers and relatives. Studies were first assessed based on title and abstracts. For those that appeared relevant, full articles were obtained and checked for eligibility. Studies were excluded if they did not appropriately adjust for ascertainment of family members. In case of multiple publications based on the same data set of families, the most recent analysis was included.
+Statistical Analysis Meta-analyses were conducted to estimate age- and sex-specific hazard
+ratios of colorectal cancer for MMR gene mutation carriers, using Stata 13.0 (StataCorp, College Station, TX).9 Meta-analyses were conducted under a fixed-effect model (assumes the true effect measure is homogenous and any observed heterogeneity is a result of sampling variability) and under a random-effect model (assumes the true effect measure is heterogeneous, so between-study estimates of variance are included when combining studies). The weighted log-transformed age- and sex-specific hazard ratio estimates from the individual studies were combined to create decade-of-age­specific (30 to 39, 40 to 49, 50 to 59, 60 to 69, and 70 to 79 years of age) pooled estimates separately for males and females. The hazard ratio for 20 to 29 years of age was assumed to be the same as for 30 to 39 years of age. For studies that did not estimate a separate hazard ratio for 70 to 79 years, we assumed it to be equal to the hazard ratio for 60 to 69 years.
+The study by Bonadona et al10 did not provide age- and sex-specific hazard ratios of colorectal cancer; therefore, these were calculated as follows. For this study, we calculated the cumulative incidence for carriers to age t years as log[1  C(t)], where C(t) is the published cumulative risk estimate to age t years, for t  30, 40, 50, 60, 70, 80. Because the cumulative incidence is a linear function of the decade-specific hazard ratios, this gave six linear equations in the six unknown hazard ratios (assuming a constant hazard ratio before age 30 years), so solving these equations gave the hazard ratios and hence the log-hazard ratios. To calculate the SEs for these log-hazard ratios, we used the variance-covariance matrix for the cumulative risk estimates of Bonadona et al (V. Bonadona, personal communication, April 2014) to simulate one million vectors of cumulative risks at the previously listed six ages. For each of these vectors, we calculated a corresponding vector of log-hazard ratios, as described earlier. We then found the variance-covariance matrix for this sample of one million log-hazard ratios and used the square roots of its diagonal elements as the SEs for the log-hazard ratios. As a check, we used the resulting log-hazard ratios and SEs to calculate cumulative risks and their 95% CIs, giving close agreement with the published estimates of Bonadona et al.10
+The study by Stoffel et al11 provided hazard ratios under three methods of adjustment for their ascertainment by family history. For this analysis, we used the estimates from their most conservative adjustment,
+
+because this was a closer match to the level of adjustment used by the other studies. These estimates were obtained from the supplementary data of the primary publication.11
+Estimates of CRC(t), the age- and sex-specific cumulative risks of colorectal cancer to age t years appropriate for carriers living in the United States, were calculated from the age- and sex-specific colorectal cancer incidence 0(s) at age s years for the US general population12 and the age- and sex-specific pooled estimate of the hazard ratio (s), from the fixed-effect model, using the following formula:
+
+  CRC(t)  1  exp 
+
+t 0
+
+
+
+s0sds
+
+.
+
+Five-year risks for carriers age t years with no prior colorectal cancer were calculated as [CRC(t  5)  CRC(t)]/[1  CRC(t)]. Corresponding CIs were calculated from the meta-analysis log-hazard ratio estimates and SEs using a parametric bootstrap as follows. Five thousand draws were taken from a multivariate normal distribution with mean equal to the log-hazard ratio estimates and with variance-covariance matrix determined by the SEs for the log-hazard ratio estimates and by the conservative assumption that these estimates had a correlation coefficient of 0.1 for neighboring age groups but were otherwise uncorrelated (as was approximately true in Dowty et al,13 unpublished data). For each age t, 5,000 corresponding values of the 5-year risks were calculated, and the 95% CI for the 5-year risk at age t was taken to be the interval between the 2.5th and 97.5th percentile of this set of 5,000 risks.
+We evaluated the benefit of annual colonoscopy for each age group by calculating the number needed to screen to prevent one colorectal cancer death. We used our estimated 5-year risks as risks of colorectal cancer for carriers with no colonoscopy. Regular colonoscopy (3-year interval) was assumed to reduce this risk by 56%.6 The risk of death within 5 years for carriers that we used was 0% for those with regular colonoscopy (survival 100%) and 46% for those with no colonoscopy (survival 54%).6 The estimated probability of preventing one death over 5 years by regular colonoscopy was calculated by subtracting risk of death for carriers with regular colonoscopy from risk of death for carriers with no colonoscopy. Risk of serious complications (death, perforations, bleeding, and postpolypectomy syndrome) as a result of annual colonoscopy was assumed to be 1 per 1,000 (0.1%) colonoscopies.14 We calculated the numbers of carriers needed to screen by annual colonoscopy over 5 years to prevent one death (reciprocal of the estimated probability of preventing one death over 5 years) and the expected numbers of serious complications as a result of these colonoscopies.
+
+Table 1. Summary of the Included Studies
+
+Study
+
+Colorectal Cancer Risk to Age
+
+70 Years (%)
+
+No. of
+
+Families
+
+Males
+
+Females
+
+Year of
+
+Publication MLH1 MSH2 Risk 95% CI Risk 95% CI
+
+Quehenberger et al17
+Stoffel et al11
+Bonadona et al10
+Dowty et al13
+MLH1
+MSH2
+
+2005
+2009
+2011 2013
+
+39 45 27 13 to 51 22 11 to 44 55 81 34 3 to 54 32 0 to 38 248 256 38 25 to 59 31 19 to 50
+166 34 25 to 50 36 25 to 51 224 47 36 to 60 37 27 to 50
+
+Data from Supplementary table.
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology 327
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission. Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Jenkins et al
+
+RESULTS
+A total of 18 studies were identified through the literature search. Nine studies were excluded because they did not adjust for ascertainment by family history, and three studies were excluded because they did not report age-specific hazard ratios. Two additional studies reporting risk estimates for MLH1 and MSH2 mutation carriers were identified15,16 but excluded from this meta-analysis because their analyses included data from the same families in a more recent study that was included in this meta-analysis.13 For a complete list and details of these excluded studies assessed for inclusion, see Supplementary Table 1 of Dowty et al.13 Four studies were included in the final analyses.10,11,13,17
+Two of the included studies concluded that there was no evidence in their data for the hazard ratios to differ by sex and thus presented only estimates for both sexes combined.10,17 Three of the included studies11,13,17 found no differences in the hazard ratios for MLH1 and
+
+MSH2, so we used their combined estimates and assumed that the hazard ratios of colorectal cancer for MLH1 and MSH2 mutation carriers were equivalent.
+Studies varied by the number of age groups for which they estimated hazard ratios. We attempted to estimate a separate hazard ratio for each of the five age groups (30 to 39, 40 to 49, 50 to 59, 60 to 69, and 70 to 79 years). For studies that estimated hazard ratios for combinations of these age groups, we assumed that the hazard ratios and their 95% CIs, for each of the combined 10-year categories, were the same. For one included study,13 hazard ratios were estimated across a gradient of age rather than for a specific category, so we considered the hazard ratio for each age group to be the reported hazard ratio at the midpoint of the age range. This study was also the only study to estimate hazard ratios after adjusting for the presence of an unmeasured polygenic risk factor. To be consistent with other studies, we used the unpublished estimates of hazard ratios unadjusted for a polygenic factor.
+
+Table 2. Hazard Ratios of Colorectal Cancer for Carriers of Mismatch Repair Gene Mutations Compared With the Population Incidence Rates Specific to the Age, Sex, and Country of the Carriers
+
+Males
+
+Females
+
+Combined Males and Females
+
+Study and Age
+Quehenberger et al,17 MLH1/MSH2 30-39 years 40-49 years 50-59 years 60-69 years 70-79 years
+Stoffel et al,11 MLH1/MSH2 30-49 years 50-79 years
+Dowty et al,13 MLH1/MSH2 30-39 years 40-59 years 60-79 years
+Bonadona et al,10 MLH1 30-39 years 40-49 years 50-59 years 60-69 years 70-79 years
+Bonadona et al,10 MSH2 30-39 years 40-49 years 50-59 years 60-69 years 70-79 years
+Pooled estimate (fixed effect) 30-39 years 40-49 years 50-59 years 60-69 years 70-79 years
+Pooled estimate (random effects) 30-39 years 40-49 years 50-59 years 60-69 years 70-79 years
+Estimates unpublished.
+
+Hazard Ratio
+64.7 17.1 197 61.9
+6.7
+135 52 35 9.0 4.0 98 53 32 9.0 4.9
+
+95% CI
+14.7 to 284.2 5.9 to 49.2 153 to 255
+41.2 to 92.8 3.8 to 11.7
+112 to 165 41 to 67 27 to 45 6.7 to 12 2.8 to 5.7 44 to 220 37 to 76 19 to 52 6.7 to 12 1.8 to 13
+
+Hazard Ratio
+125.3 3.3
+127 57.6 9.6
+99 52 31
+9.2 3.8 97 56 28 9.2 3.8
+
+95% CI
+40.2 to 390.4 0.5 to 20.8
+88.8 to 182 34.4 to 96.6
+5.4 to 16.9
+79 to 125 40 to 67 23 to 41 6.8 to 13 2.6 to 5.6 48 to 195 37 to 85 16 to 50 6.8 to 13 1.3 to 11
+
+Hazard Ratio
+25.6 33 22.7
+8.3 1.6
+135 49.1 27.4 13.3 5.3
+165 77.1 34.4 13.9 2.9
+
+95% CI
+15.2 to 43.1 21.4 to 51.0 14.5 to 34.0
+5.3 to 12.9 0.92 to 2.8
+77.9 to 236 20.1 to 120 12.7 to 59.5
+4.8 to 36.7 0.8 to 33.5
+98.3 to 278 44.9 to 132 16.8 to 70.6
+4.9 to 39.5 0.3 to 25.8
+
+328 © 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission.
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Short-Term Risk of Colorectal Cancer in Individuals With Lynch Syndrome
+
+In total, the four studies analyzed 1,114 Lynch syndrome families (508 with MLH1 mutations and 606 with MSH2 mutations). Study sample size ranged from 84 to 504 families. The estimated cumulative risk of colorectal cancer to age 70 years varied by study, ranging from a low of 27% for males and 22% for females to a high of 47% for males and 37% for females (Table 1).
+All four studies found that the hazard ratio for colorectal cancer for mutation carriers decreased with age, being highest when they were younger (age 30 to 39 years) and lowest when they were older (age 70 to 79 years; Table 2; Appendix Fig A1, online only). When pooled (under the fixed effect), the overall hazard ratio for colorectal cancer decreased with each additional decade of life, from 135 (95% CI, 112 to 165) for males and 99 (95% CI, 79 to 125) for females when in their 30s, to 4.0 (95% CI, 2.8 to 5.7) for males and 3.8 (95% CI, 2.6 to 5.6) for females when in their 70s (Table 2 and Fig 1).
+By applying these hazard ratios to the US general population, we estimated that approximately 1.4% (one in 71) of male carriers and 1.0% (one in 102) female carriers age 20 to 29 years will be diagnosed with colorectal cancer within 5 years. This is substantially higher than for the general population, whose respective 5-year risks are 0.013% (one in 7,408) for males and 0.013% (one in 7,543) for females, and given the rarity of carriers, these estimates, in effect, apply to noncarriers. The risks for carriers peaked during their 50s, where the corresponding risks are 14% (one in seven) for males and 8.7% (one in 12) for females. The risks then decreased with age, with the corresponding risks for carriers in their 70s being 7.6% (one in 13) for males and 5.4% (one in 19) for females; again, these risks are higher than for the general population at the same age, whose risks are 2.0% (one in 49) for males and 1.6% (one in 63) for females (Table 3).
+Number needed to screen (by annual colonoscopy over 5 years) to prevent one death from colorectal cancer ranged from 16 (males in their 50s) to 217 (females in their 20s). In preventing these deaths, we estimated that the number of expected serious complications as a result of these colonoscopies was highest in those in their 20s and lowest in those in their 50s (Table 4).
+
+DISCUSSION
+All studies estimated higher hazard ratios of colorectal cancer for men and women with an MMR gene mutation during the early decades of life ( 100-fold at age 30) and lower hazard ratios during later decades (four-fold at age 70). By combining the findings from all eligible previous studies, we have calculated pooled estimates of the agespecific hazard ratios to calculate age- and sex-specific 5-year risks of colorectal cancer for men and women with an MMR gene mutation. Five-year risks increased from approximately 1% for mutation carriers in their 20s (roughly equivalent to that for a noncarrier who is 60 years older) to 9% to 14% for mutation carriers in their 50s, and then decreased to 5% to 8% for mutation carriers in their 70s. The reason for the initial increase and then decrease of risk for carriers with age is a result of the initially rapid and then more tempered decrease of hazard ratio with age for carriers against the exponentially increasing colorectal cancer risk with age for the general population.
+What could explain this rapid decrease in hazard ratio with increasing age? It could be a result of ancillary (genetic or environmental) causes of colorectal cancer for mutation carriers. Carriers with the greater ancillary causes will, if they develop colorectal cancer, be diagnosed at younger ages and will, therefore, be depleted in the at-risk groups at older ages, which will be thus be enriched for carriers with fewer ancillary causes. Because of the stronger selective effects of MLH1 and MSH2 mutations, the ancillary causes of colorectal cancer will be depleted with age from the cohort of MLH1 and MSH2 mutation carriers at a faster rate than from the normal (non­mutationcarrying) population, thus explaining the decline in hazard ratio for MLH1 and MSH2 carriers with increasing age. In addition, the effect of mutations may be more pronounced at an early age because of less competing risk factors at an early age. At older ages, the effect on cancer risk of the loss of MMR gene function may be somewhat moderated by the independent age-related genetic instability, resulting in less aggressive tumors or apoptosis rather than malignant transformation.
+
+A 6
+
+B 6
+
+55
+
+44
+
+log HR log HR
+
+33
+
+22
+
+1 Male Female
+0
+30-39 40-49 50-59 60-69 70-79
+Age (years)
+
+1 Male Female
+0
+30-39 40-49 50-59 60-69 70-79
+Age (years)
+
+Fig 1. Pooled estimates of (A) fixed effect and (B) random effects of age- and sex-specific log-hazard ratios (HRs) of colorectal cancer for carriers of mismatch repair gene mutations. Each dot point represents the log-HR estimate, and the vertical line represents the 95% CI.
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology 329
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission. Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Jenkins et al
+
+Table 3. Age- and Sex-Specific 5-Year Risks of Colorectal Cancer and Proportions of People Expected to be Diagnosed Over a 5-Year Period for Carriers of Mismatch Repair Gene Mutations and for the US General Population
+
+Carriers of Mismatch Repair Gene Mutations
+
+Males
+
+Females
+
+US General Population
+
+Age Group (years) and 5-Year Cancer Risk
+20-29 Risk, % No. of people expected to be diagnosed
+30-39 Risk, % No. of people expected to be diagnosed
+40-49 Risk, % No. of people expected to be diagnosed
+50-59 Risk, % No. of people expected to be diagnosed
+60-69 Risk, % No. of people expected to be diagnosed
+70-79 Risk, % No. of people expected to be diagnosed
+
+Risk
+1.4 1 in 71
+4.8 1 in 21
+7.6 1 in 13
+14 1 in 7
+9.0 1 in 11
+7.6 1 in 13
+
+95% CI
+1.2 to 1.7 1 in 58 to 86
+4.1 to 5.6 1 in 18 to 25
+6.4 to 9.2 1 in 11 to 16
+11 to 17 1 in 6 to 9
+7.0 to 12 1 in 9 to 14
+5.4 to 11 1 in 9 to 19
+
+Risk
+1.0 1 in 102
+3.3 1 in 30
+6.2 1 in 16
+8.7 1 in 12
+6.3 1 in 16
+5.4 1 in 19
+
+95% CI
+0.8 to 1.2 1 in 81 to 128
+2.8 to 4.0 1 in 25 to 36
+5.1 to 7.6 1 in 13 to 20
+6.9 to 11 1 in 9 to 15
+4.9 to 8.2 1 in 12 to 21
+3.8 to 7.8 1 in 13 to 27
+
+Males
+0.013 1 in 7,408
+0.054 1 in 1,835
+0.21 1 in 468
+0.62 1 in 161
+1.3 1 in 76
+2.0 1 in 49
+
+Females
+0.013 1 in 7,543
+0.051 1 in 1,979
+0.17 1 in 590
+0.42 1 in 236
+0.93 1 in 108
+1.6 1 in 63
+
+The estimates of risk that we report here are the average risk of colorectal cancer for MMR gene mutation carriers, even though there is indirect evidence that the risks vary markedly from carrier to carrier depending on other familial (genetic or environmental) factors.13 It is important to note that this average risk might not represent the most common risk for carriers; Dowty et al13 found that the cumulative risk of colorectal cancer (to age 70) might have a U-shaped distribution with a substantial proportion of mutation carriers at either low risk (similar to or only a few times greater than population risk) or high risk approaching almost 100%. Under this scenario, the average risk was the least likely risk for a mutation carrier.
+How appropriate are the current colorectal screening guidelines and recommendations for a patient with Lynch syndrome, given the 5-year risks described here? A recent review of the colorectal cancer screening effectiveness for Lynch syndrome concluded that the evi-
+
+Table 4. Estimated Number Needed to Screen by Annual Colonoscopy Over 5 Years to Prevent One Colorectal Cancer Death and the Expected Number of Serious Complications as a Result of These Colonoscopies in Mismatch Repair
+Gene Mutation Carriers
+
+Males
+
+Females
+
+Age Group (years)
+20-29 30-39 40-49 50-59 60-69 70-79
+
+No. Needed to Screen
+155 45 29 16 24 29
+
+Expected No. of Adverse Events
+0.78 0.23 0.14 0.08 0.12 0.14
+
+No. Needed to Screen
+217 66 35 25 35 40
+
+Expected No. of Adverse Events
+1.09 0.33 0.18 0.12 0.17 0.20
+
+dence for screening frequency was limited and recommended colonoscopy every 1 to 2 years without reference to the age or sex of the mutation carrier,8 as a result of the rapid progression from adenoma to carcinoma (approximately 2 to 3 years).18,19 Almost all guidelines for men and women with an MLH1 or MSH2 mutation recommend colonoscopy every 1 to 2 years starting from either the mid-20s or 10 years younger than the youngest colorectal cancer diagnosis of any affected relative (whichever is earlier), with no difference in frequency by age or sex of the mutation carrier.7,8 It should be noted that current colonoscopy screening frequency recommendations have been devised almost entirely using expert opinion alone, because the precise clinical effectiveness associated with different screening frequencies has never been formally evaluated. Our data support such screening, at least for some of the age groups. For example, we have estimated that for carriers in their 50s (the highest risk age group in this analysis), annual colonoscopy over 5 years in 16 males or 25 females would be needed to prevent one death from colorectal cancer while resulting in almost no serious complications (0.08 in males and 0.12 in females; Table 4). However, support for annual colonoscopy is less justifiable for carriers in their 20s. For example, annual colonoscopy over 5 years in 155 males or 217 females would be needed to prevent one death from colorectal cancer while resulting in approximately one serious complication (0.78 in males and 1.09 in females). A formal analysis is required to determine the most cost-effective strategy of colonoscopy screening while minimizing serious complications for each age group.
+The major strength of this analysis is the pooling of all published studies of age- and sex-specific hazard ratios to derive the best estimates of risk. All studies adjusted appropriately for ascertainment of the Lynch syndrome families and, therefore, were less likely to have reported upwardly biased risk estimates.7 We have reported 5-year risks, rather than lifetime risks, because these are more useful for clinical consultation. One of the limitations is that the estimates of
+
+330 © 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission.
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Short-Term Risk of Colorectal Cancer in Individuals With Lynch Syndrome
+
+serious complications as a result of annual colonoscopy were solely based on the estimates provided by studies of older people, and therefore, we had to assume these estimates also applied to younger people, which may have resulted in over- or underestimation.
+In conclusion, for people with an MMR gene mutation, the short-term risk of colorectal cancer is strongly dependent on age (increasing rapidly until middle age), with 5-year risks for those in their 50s approximately 10 times greater than for those in their 20s. These findings indicate that modifiers of cancer risk are likely to vary by age. Annual colonoscopy for those older than age 30 years seems warranted, but screening of carriers in their 20s might not be justifiable given the large number of colonoscopy procedures required to prevent one death from colorectal cancer.
+
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+Disclosures provided by the authors are available with this article at www.jco.org.
+AUTHOR CONTRIBUTIONS
+Conception and design: Mark A. Jenkins, John L. Hopper, Aung Ko Win Collection and assembly of data: Mark A. Jenkins, John L. Hopper, Aung Ko Win Data analysis and interpretation: All authors Manuscript writing: All authors Final approval of manuscript: All authors
+
+REFERENCES
+1. Umar A, Boland CR, Terdiman JP, et al: Revised Bethesda Guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 96:261-268, 2004
+2. Jass JR: Hereditary non-polyposis colorectal cancer: The rise and fall of a confusing term. World J Gastroenterol 12:4943-4950, 2006
+3. Hampel H, de la Chapelle A: The search for unaffected individuals with Lynch syndrome: Do the ends justify the means? Cancer Prev Res 4:1-5, 2011
+4. Dunlop MG, Farrington SM, Nicholl I, et al: Population carrier frequency of hMSH2 and hMLH1 mutations. Br J Cancer 83:1643-1645, 2000
+5. Thompson BA, Spurdle AB, Plazzer JP, et al: Application of a 5-tiered scheme for standardized classification of 2,360 unique mismatch repair gene variants in the InSiGHT locus-specific database. Nat Genet 46:107-115, 2013
+6. Järvinen HJ, Aarnio M, Mustonen H, et al: Controlled 15-year trial on screening for colorectal cancer in families with hereditary nonpolyposis colorectal cancer. Gastroenterology 118:829-834, 2000
+
+7. Lindor NM, Petersen GM, Hadley DW, et al: Recommendations for the care of individuals with an inherited predisposition to Lynch syndrome: A systematic review. JAMA 296:1507-1517, 2006
+8. Vasen HF, Blanco I, Aktan-Collan K, et al: Revised guidelines for the clinical management of Lynch syndrome (HNPCC): Recommendations by a group of European experts. Gut 62:812-823, 2013
+9. StataCorp: Stata Statistical Software: Release 13. College Station, TX, StataCorp LP, 2013
+10. Bonadona V, Bonaïti B, Olschwang S, et al: Cancer risks associated with germline mutations in MLH1, MSH2, and MSH6 genes in Lynch syndrome. JAMA 305:2304-2310, 2011
+11. Stoffel E, Mukherjee B, Raymond VM, et al: Calculation of risk of colorectal and endometrial cancer among patients with Lynch syndrome. Gastroenterology 137:1621-1627, 2009
+12. Curado MP, Edwards B, Shin HR, et al: Cancer Incidence in Five Continents, Vol. IX, IARC Scientific Publications No. 160. Lyon, France, International Agency for Research on Cancer, 2007
+13. Dowty JG, Win AK, Buchanan DD, et al: Cancer risks for MLH1 and MSH2 mutation carriers. Hum Mutat 34:490-497, 2013
+
+14. Ko CW, Dominitz JA: Complications of colonoscopy: Magnitude and management. Gastrointest Endosc Clin N Am 20:659-671, 2010
+15. Jenkins MA, Baglietto L, Dowty JG, et al: Cancer risks for mismatch repair gene mutation carriers: A population-based early onset case-family study. Clin Gastroenterol Hepatol 4:489-498, 2006
+16. Choi YH, Cotterchio M, McKeown-Eyssen G, et al: Penetrance of colorectal cancer among MLH1/ MSH2 carriers participating in the colorectal cancer familial registry in Ontario. Hered Cancer Clin Pract 7:14, 2009
+17. Quehenberger F, Vasen HF, van Houwelingen HC: Risk of colorectal and endometrial cancer for carriers of mutations of the hMLH1 and hMSH2 gene: Correction for ascertainment. J Med Genet 42:491-496, 2005
+18. Rijcken FE, Hollema H, Kleibeuker JH: Proximal adenomas in hereditary non-polyposis colorectal cancer are prone to rapid malignant transformation. Gut 50:382-386, 2002
+19. Dove-Edwin I, Sasieni P, Adams J, et al: Prevention of colorectal cancer by colonoscopic surveillance in individuals with a family history of colorectal cancer: 16 year, prospective, follow-up study. BMJ 331:1047, 2005
+
+
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology 331
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission. Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Jenkins et al
+
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Short-Term Risk of Colorectal Cancer in Individuals With Lynch Syndrome: A Meta-Analysis
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I  Immediate Family Member, Inst  My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc.
+
+Mark A. Jenkins No relationship to disclose
+
+Youenn Drouet No relationship to disclose
+
+James G. Dowty No relationship to disclose
+
+Christine Lasset No relationship to disclose
+
+Driss Ait Ouakrim No relationship to disclose
+John D. Mathews No relationship to disclose
+John L. Hopper No relationship to disclose
+
+Valérie Bonadona No relationship to disclose
+Aung Ko Win No relationship to disclose
+
+© 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission.
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Short-Term Risk of Colorectal Cancer in Individuals With Lynch Syndrome
+Acknowledgment We thank Bernard and Catherine Bonaïti for their help in providing supplementary analyses for the study.
+Appendix
+
+A
+Age, years Quehenberger17
+30-39 40-49 50-59 60-69 70-79
+Stoffel11 30-39 40-49 50-59 60-69 70-79
+Bonadona MSH210 30-39 40-49 50-59 60-69 70-79
+Bonadona MLH110 30-39 40-49 50-59 60-69 70-79
+Dowty13 30-39 40-49 50-59 60-69 70-79
+Meta-analysis 30-39 40-49 50-59 60-69 70-79
+1
+
+HR
+25.60 33.00 22.70
+8.30 1.60
+
+95% CI
+15.20 to 43.10 21.40 to 51.00 14.50 to 34.00
+5.30 to 12.90 0.92 to 2.80
+
+B
+Age, years
+Quehenberger17 30-39 40-49 50-59 60-69 70-79
+
+64.70 64.70 17.10 17.10 17.10
+
+14.70 to 284.20 14.70 to 284.20
+5.90 to 49.20 5.90 to 49.20 5.90 to 49.20
+
+Stoffel11 30-39 40-49 50-59 60-69 70-79
+
+165.17 77.11 34.45 13.87 2.91
+
+98.29 to 277.58 44.89 to 132.44
+16.81 to 70.61 4.87 to 39.54 0.33 to 25.79
+
+Bonadona MSH210 30-39 40-49 50-59 60-69 70-79
+
+135.49 49.07 27.43 13.30 5.30
+
+77.94 to 235.54 20.14 to 119.60
+12.65 to 59.46 4.82 to 36.70 0.84 to 33.46
+
+Bonadona MLH110 30-39 40-49 50-59 60-69 70-79
+
+197.00 153.00 to 255.00 61.90 41.20 to 92.80 61.90 41.20 to 92.80 6.70 3.80 to 11.70 6.70 3.80 to 11.70
+
+Dowty13 30-39 40-49 50-59 60-69 70-79
+
+135.49 111.55 to 164.57 52.06 40.70 to 66.59 35.00 27.27 to 44.91 9.00 6.66 to 12.17 3.99 2.79 to 5.71
+
+Meta-analysis 30-39 40-49 50-59 60-69 70-79
+
+25 50 100 200 400
+
+1
+
+HR 95% CI
+
+25.60 33.00 22.70
+8.30 1.60
+
+15.20 to 43.10 21.40 to 51.00 14.50 to 34.00
+5.30 to 12.90 0.92 to 2.80
+
+125.30 125.30
+3.30 3.30 3.30
+
+40.20 to 390.40 40.20 to 390.40
+0.50 to 20.80 0.50 to 20.80 0.50 to 20.80
+
+165.17 77.11 34.45 13.87 2.91
+
+98.29 to 277.58 44.89 to 132.44
+16.81 to 70.61 4.87 to 39.54 0.33 to 25.79
+
+135.49 49.07 27.43 13.30 5.30
+
+77.94 to 235.54 20.14 to 119.60
+12.65 to 59.46 4.82 to 36.70 0.84 to 33.46
+
+127.00 57.60 57.60 9.60 9.60
+
+88.80 to 182.00 34.40 to 96.60 34.40 to 96.60 5.40 to 16.90 5.40 to 16.90
+
+99.32 51.74 30.92
+9.24 3.83
+
+79.06 to 124.78 39.79 to 67.27 23.47 to 40.73 6.77 to 12.62 2.63 to 5.58
+
+25 50 100 200 400
+
+Fig A1. Age- and sex-specific hazard ratios (HRs) of colorectal cancer for (A) male and (B) female carriers of mismatch repair gene mutations for each study and fixed effect pooled estimates from the meta-analysis.
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology
+Downloaded from jco.ascopubs.org on June 17, 2016. For personal use only. No other uses without permission. Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+

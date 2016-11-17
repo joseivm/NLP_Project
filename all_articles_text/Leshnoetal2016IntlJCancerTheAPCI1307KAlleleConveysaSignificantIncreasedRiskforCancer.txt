@@ -1,0 +1,401 @@
+IJC
+International Journal of Cancer
+The APC I1307K allele conveys a significant increased risk for cancer
+Ari Leshno1, Shiran Shapira1, Eliezer Liberman1, Sarah Kraus1, Miri Sror1, Amira Harlap-Gat1, Doran Avivi1, Lior Galazan1, Maayan David1, Nitsan Maharshak1,2, Serhan Moanis1, Nadir Arber1,2 and Menachem Moshkowitz1,2
+1 Integrated Cancer Prevention Center, Tel- Aviv Sourasky Medical Center, Affiliated to the Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel 2 Department of Gastroenterology, Tel- Aviv Sourasky Medical Center, Affiliated to the Sackler Faculty of Medicine, Tel-Aviv University, Tel-Aviv, Israel
+
+Cancer Epidemiology
+
+This study is the first attempt to evaluate the association between the APC I1307K variant and overall cancer risk. It is unique in both its large sample size and in the reliability of data in the control group. The findings described in this article have major implications in terms of identifying asymptomatic individuals who are at increased risk to harbor cancer and therefore targeted to be enrolled in specific early detection and prevention programs. The prevalence of the APC I1307K missense mutation among Ashkenazi Jews is ~6%. Carriers are at an increased risk for colorectal neoplasia. In this study, we examined the association of this variant with non-colorectal cancers. Consecutive 13,013 healthy subjects who underwent screening at the Integrated Cancer Prevention Center between 2006 and 2014 were enrolled. This population was supplemented with 1,611 cancer patients from the same institution. Demographics, medical history, and pathological data were recorded. Mortality data were obtained from the Ministry of Health's registry. The prevalence of APC I1307K in cancer patients and healthy subjects was compared. The APC I1307K variant was detected in 189 (11.8%) cancer patients compared to 614 (4.7%) healthy subjects, reflecting an adjusted age and sex odds ratio (OR) of 2.53 (p < 0.0001). History of two or more cancer types was associated with a positive carrier prevalence (OR 5 4.38 p < 0.0001). Males had significantly increased carrier prevalence in lung, urologic, pancreatic, and skin cancers. The carrier prevalence among females was significantly higher only in breast and skin cancers. Female carriers developed cancer at a significantly older age compared to non-carriers (average 62.7 years vs. 57.8, respectively, p 5 0.027), had better survival rates (HR 5 0.58, p 5 0.022) and overall increased longevity (average age of death 78.8 vs. 70.4 years, respectively, p 5 0.003). In conclusion, the APC I1307K variant is a reliable marker for overall cancer risk (OR 2.53). Further studies are needed to evaluate its use for specific cancer types--particularly in males. Female carriers have better prognosis and increased lifespan.
+
+The adenomatous polyposis coli (APC) gene is an important tumor suppressor gene whose protein product is a key regulator of b-catenin as well as other pathways critical for cell division and signal transduction.1,2 Somatic mutations in this gene have been found in more than two-thirds of colorectal neoplasia patients.3,4 In 1997, Laken et al.1 were the first to report the germ-line missense I1307K polymorphism in the APC gene. It is characterized by transition of T to A at nucleotide 3920, converting the wild-type sequence AAAATAAA to a homopolymer tract (A8) that is genetically less stable and prone to somatic mutation. Between 5% to 9% of the Ashkenazi Jewish population reportedly carry the APC I1307K variant.5,6 A recent meta-analysis found that Ashkenazi Jews who carried the APC I1307K variant were at a sig-
+Key words: cancer risk, I1307K, gender disparity, prognosis DOI: 10.1002/ijc.29876 History: Received 28 June 2015; Accepted 22 Sep 2015; Online 30 Sep 2015 Correspondence to: Prof. Nadir Arber, MD, MHA, MSc Head, the Integrated Cancer Prevention Center, Tel-Aviv Sourasky Medical Center, 6th Weizmann St., Tel Aviv 6423906, Israel, Tel: [1972-36974968], Fax: 1[972-3-6974867], E-mail: nadira@tasmc.health.gov.il
+
+nificantly increased risk for colorectal neoplasia, with a pooled odds ratio (OR) of 2.17 (95% CI 1.64­2.86).7
+Several studies evaluated the potential role of the APC I1307K polymorphism in non-colorectal carcinomas (CRC), such as prostate,6,8 ovarian,9 and breast9,10 cancers, and reported inconclusive findings. Woodage et al.8 found that APC I1307K carriers were more likely to have had any type of cancer (excluding non-melanoma skin cancer) than noncarriers, with an OR of 1.5. Our group demonstrated a tendency towards an increased risk of pancreatic and lung cancers among APC I1307K carriers.11
+This study investigated the overall risk for neoplasia among APC I1307K polymorphism carriers in a very large prospective Israeli cohort. The effects of APC I1307K carriage state on various clinical parameters, such as age of onset and survival, were evaluated according to gender.
+Patients and Methods
+Subjects The study population included 13,119 consecutive subjects who were undergoing annual screening between 2006 and 2014 at the Integrated Cancer Prevention Center (ICPC) in the Tel-Aviv Sourasky Medical Center (TASMC). The ICPC
+
+Int. J. Cancer: 138, 1361­1367 (2016) VC 2015 UICC
+
+1362
+
+The APC I1307K allele
+
+What's new? While Ashkenazi Jews who carry the APC I1307K variant are at an increased risk for colorectal neoplasia, the potential role of this polymorphism in non-colorectal carcinomas remains unclear. This study investigates the overall risk for neoplasia among APC I1307K polymorphism carriers in a very large prospective Israeli cohort. The findings suggest that the I1307K variant in the APC gene is a global risk factor for cancer, and mostly in males. Female carriers have a better prognosis, with a relatively increased lifespan. The findings may help identify asymptomatic individuals at increased risk for cancer for enrollment in early detection and prevention programs.
+
+Cancer Epidemiology
+
+is a unique center that offers comprehensive early cancer detection and prevention services for 11 of the most common cancers including: skin, oral cavity, lung, thyroid, breast, colorectal, ovarian, uterine, cervical, testicular and prostate cancers.12,13 More information regarding strategy and services provided by the Center can be found on the website (http:// www.tasmc.org.il/sites/en/Internalmed/ICPC/Pages/ICPC. aspx). Also Included were 1,505 cancer patients recruited from TASMC's oncology, surgery, gastroenterology, urology, and hematology departments. All subjects completed a detailed questionnaire and provided a blood sample. Data on demographics, symptoms, prior personal and family history of cancer, medications, and histopathological findings were collected and entered into the ICPC computerized database. Mortality data were obtained from the Ministry of Health's registry. In order to ensure that our data are not biased, the association between the APC I1307K variant and colorectal neoplasia was also evaluated and compared with previous reports. The endoscopic findings in the database of a subgroup of 5,215 patients (of whom 8.5% were carriers) were reviewed, and the occurrence of adenomatous polyps and CRC was recorded.
+All subjects underwent meticulous evaluation by several experienced physicians from various disciplines as we had described elsewhere.12 The prevalence of the APC I1307K mutation was compared between subjects with and those without a past history of any cancer.
+The Institutional Review Board (IRB) of the TASMC and the Israeli Ministry of Health approved this study. Written informed consent was obtained from all participants who gave their permission for the anonymous use of their DNA for research purposes.
+DNA extraction and genotyping Genomic DNA was extracted from peripheral blood lymphocytes and amplified by standard PCR. Mutation screening was performed by real-time PCR on a LightCycler. About 200 ng of genomic DNA from each sample was used for all reactions. The APC variants were identified using primers designed to detect I1307K as follows.
+Determination of the I1307K polymorphism in the APC gene The APC I1307 polymorphism is a substitution of isoleucine (I) (common allele) with lysine (K) (rare allele) at position
+
+1307 of GenBank Accession No. NP_000029.2; SEQ ID NO: 8; which results from the T to A substitution at nucleotide 3977 of NM_000038.3; SEQ ID NO: 7. Genomic DNA was PCR amplified using the following primers: 50-GAAATAG GATGTAATCAGACG-30 (forward) and 50-AGTCTGCTGG ATTTGGTTCTA-30 (reverse). For real-time PCR, a sensor primer was designed according to the wild-type allele and downstream to it an anchor primer. For the detection of the specific polymorphic nucleotide (T/A at position 3977 of SEQ ID NO: 7), the anchor primer was LC-Red 640-TTTGC AGGGTATTAGCAGAATCTGCTTCCTGTG-ph (SEQ ID NO: 9), and the sensor primer was: CCAATCTTTT CTTT TTTTTCTGC-FL (SEQ ID NO: 10).
+Statistical analysis Statistical analyses were performed using IBM SPSS 21.0 software. The 95% confidence interval (CI) and odds ratio (OR) adjusted for age and sex were calculated using logistic regression coefficient for each cancer type.14 The average age at the onset of malignancy was compared between carriers and non-carriers using the two-tailed Student's t test. Cox regression was used to evaluate differences in survival and lifespan. All analyses were done with stratification by gender and age. The p-values were adjusted to multiple testing by the false discovery rate method.15
+Results A total of 13,013 (89%) subjects with no personal history of cancer and 1,611 cancer patients (11%) were included in this study (106 of the latter were diagnosed at the ICPC). Table 1 describes the types of malignancies included in the analysis. There was an almost equal number of males (49%) and females (51%), with an average age of 56.6 6 15.5 years. The APC I1307K variant was detected in 803/14,624 (5.5%) individuals. The APC I1307K carrier prevalence among subjects with a positive history of any type of malignancy was significantly higher compared to healthy individuals (11.8% and 4.2%, respectively, OR 2.53, 95% CI 2.11­3.04, p < 0.0001). The results were almost identical after exclusion of CRC cases (OR 2.54 95% CI 2.03­3.17, p < 0.0001). Furthermore, the APC I1307K population had a significantly higher prevalence of a past history of two or more cancer types (OR of 4.38 95% CI 2.89­6.97, p < 0.0001).
+
+Int. J. Cancer: 138, 1361­1367 (2016) VC 2015 UICC
+
+Leshno et al.
+
+1363
+
+Cancer Epidemiology
+
+Table 1. Cases of cancer included in the study
+
+Cancer type
+
+Cases diagnosed at the ICPC
+
+Cases from other departments
+
+Bile system 0 4
+
+Brain/nervous system 0
+
+10
+
+Breast
+
+23 130
+
+Endocrine system
+
+9
+
+17
+
+Gynecological
+
+7
+
+59
+
+Hematologic
+
+0
+
+29
+
+Kidneys/urinary tract
+
+0
+
+34
+
+Liver
+
+0 10
+
+Lung/airways
+
+5
+
+30
+
+Other
+
+11 38
+
+Pancreas
+
+0 103
+
+Prostate
+
+5 135
+
+Skin 25 202
+
+Gastric
+
+21 831
+
+Total
+
+106 1,632
+
+ICPC, Integrated Cancer Prevention Center.
+
+Total 4 10 153 26 66 29 34 10 35 49 103 140 227 852 1,738
+
+In accordance to previous studies, the findings in a subgroup of patients who underwent colonoscopy showed that both the adenomatous polyp and the CRC rates were significantly increased among APC I1307K carriers compared with non-carriers (adjusted for age and sex OR 1.67, p < 0.0001).
+Table 2 summarizes the prevalence of APC I1307K carriers among individuals with various types of non-colorectal malignancies. Statistically significant increased ORs were found for pancreatic, gastric, breast, kidney, urinary tract, brain, and lung cancers, as well as for melanoma and basal cell carcinoma (BCC) of the skin. There was no significant association with other types of cancers (e.g., esophagus, prostate, ovary, uterus, cervix, hematological, endocrine, and liver). Unlike males, in whom an increased APC I1307K carrier prevalence was observed in many cancer types (Table 2), the females had a significantly increased carrier prevalence only for breast (OR 2.84 95% CI 1.74­4.66, p < 0.0001) and skin cancers (OR 4.81, 95% CI 2.90­7.97, p < 0.0001).
+The average age at onset of the different malignancies is depicted in Figure 1. A later onset of cancer was found among carriers (62.84 6 15.2 years) compared to non-carriers (60.29 6 15.4 years) in all cancer types except for skin cancer in which an opposite trend was observed (52.11 6 11.59 years in carriers vs. 61.04 6 16.67 years in non-carriers). These findings were significant for a number of malignancies among females (i.e., CRC, kidney/urinary tract, and overall non-CRCs) and only in brain cancers among males. The observation of an earlier onset of skin cancers among carriers was significant only in males.
+A significant protective effect was found for female carriers with any type of cancer (Fig. 2a), and it remained signif-
+
+icant after exclusion of the CRC cases (Fig. 2b). There was no significant HR in males or for a specific type of cancer in females.
+Notably, there was a trend towards a longer lifespan in carriers compared to non-carriers (HR 5 0.795 95% CI 0.63­ 1.00, p 5 0.054). After stratification by past history of any malignancy (Fig. 3), female carriers diagnosed with cancer were found to have lived significantly longer than non-carrier female cancer patients (HR 0.48, 95% CI 0.29­0.79, p 5 0.004). There was no comparable protective effect for males.
+Discussion The I1307K allele in the APC gene is a risk factor for colorectal neoplasia, particularly in Ashkenazi Jews. The current study, the largest of its kind thus far, revealed that this single nucleotide polymorphism (SNP) is an important predictor of overall neoplasia, with an OR of over 2.5, and particularly in males. A similar observation was previously made only by Woodage et al.8
+There is ample evidence showing that the disruption of the Wnt/b-catenin pathway through APC mutations plays an important role in the multi-step process of carcinogenesis. APC mutations have been found in various extra-intestinal tumors, including those of the breast,16 lung,17 pancreas,18 gastric,19 kidney,20 and skin,21 albeit at rates significantly lower than in CRC.
+The I1307K variant is a hypermutable site on the exon of the APC gene. It has eight adenine in a row (A8) that may be prone to slippage of DNA/RNA polymerase and/or misspairing during DNA and RNA replication.1 In a recent study, Zauber et al.22 found that this variant is associated with the insertion of an additional adenine (A9), which produces a frame shift with definite functional consequences. Such genetic changes might result in abnormal function of the APC gene that disrupts the Wnt/b-catenine pathway and causes a widespread organ effect. Few studies have thus far examined the association between the APC I1307K variant and specific extra-intestinal forms of cancer. Redston et al.10 reported an OR of 1.5 for breast cancer among APC I1307K carriers (95% CI 5 1.2­2.0), and Woodage et al.8 reported that APC I1307K carriers were more likely to have firstdegree relatives who had had breast cancer than were noncarriers. Other studies, however, failed to show such an association.9,23 Similarly no increased risk was seen for ovarian or prostate cancer in APC I1307K carriers.24,25
+In a previous small sample study, we had found a trend toward an increased prevalence of lung cancer among APC I1307K carriers which did not reach a level of significance.11 A significant association between lung cancer and positive carriage state was observed in the current study (OR 4.08 95% CI 2.08­11.09, p < 0.0001). Moreover, this is the first report to describe an association of this SNP with kidney, gastric, pancreatic, and skin cancers. Larger studies are
+
+Int. J. Cancer: 138, 1361­1367 (2016) VC 2015 UICC
+
+1364
+
+The APC I1307K allele
+
+Cancer Epidemiology
+
+Table 2. Comparison of APC I1307K prevalence among extra colonic cancer patients
+
+Cancer type Brain/nervous system
+
+Total number of cases
+10
+
+I1307K carriers Total 5 803 n, (% of cases)
+3 (33.3)
+
+Overall OR1 (95% CI)
+8.344 (2.15­32.35)
+
+Breast
+
+153 20
+
+2.824
+
+(13.1)
+
+(1.72­4.61)
+
+Gastric
+
+91 10
+
+2.394
+
+(11.0)
+
+(1.23­4.66)
+
+Kidneys/urinary tract
+
+34 6
+
+4.264
+
+(17.6)
+
+(1.74­10.42)
+
+Lung/airways
+
+35 7
+
+4.084
+
+(20.0)
+
+(2.08­11.09)
+
+Pancreas
+
+103 13
+
+2.794
+
+(12.6)
+
+(1.54­5.05)
+
+Skin
+
+BCC
+
+90 18
+
+5.024
+
+(20.0)
+
+(2.96­8.52)
+
+Melanoma
+
+118 17
+
+3.294
+
+(14.4)
+
+(1.95­5.54)
+
+All types
+
+227 40
+
+4.254
+
+(17.6)
+
+(2.98­6.07)
+
+Any type of neoplasm
+
+1,611
+
+189 (11.8)
+
+2.53 (2.11­3.04)
+
+Any type of non-CRC
+
+976 113
+
+2.544
+
+(11.6)
+
+(2.03­3.17)
+
+2 cancer types
+
+146
+
+27 (18.5)
+
+4.484
+
+(2.89­6.97) 1.802
+
+(1.14­2.84)
+
+Controls (no history of malignancy)
+
+13,013
+
+614 (4.7)
+
+-
+
+A p values <0.0054 is considered significant according to the false discovery rate method. 1Compared to healthy controls. 2Compared to patients with one type of malignancy. 3p < 0.001. 4p < 0.0001.
+OR, odds ratio; CI,confidence interval; BCC, basal cell carcinoma; CRC, colorectal carcinoma.
+
+Males OR1 (95% CI) 12.743 (2.12­76.60)
+-
+3.933 (1.72­8.99) 4.503 (1.49­13.57) 7.314 (2.58­20.77) 3.713 (1.71­8.03)
+3.253 (1.44­7.36)
+2.98 (1.40­6.34) 3.864 (2.34­6.37) 2.884 (2.08­4.00)
+2.89 (2.22­3.77) 4.734 (2.54­8.81) 1.592 (0.843­3.01)
+-
+
+Females OR1 (95% CI)
+4.90 (0.55­44.11)
+2.844 (1.74­4.66)
+1.25 (0.38­4.05)
+4.11 (0.88­19.21)
+2.77 (0.63­12.29)
+1.93 (0.75­4.93)
+7.904 (3.86­16.14)
+3.684 (1.79­7.57)
+4.814 (2.90­7.97)
+2.334 (1.72­3.15)
+2.284 (1.77­2.94)
+4.604 (2.45­8.65) 2.192 (1.13­4.21)
+-
+
+obviously warranted in order to confirm and validate this association in Jews as well as in other ethnic groups.
+Only a few previous studies have investigated the association between APC I1307K, cancer risk and gender. In the current study, male carriers exhibited an increased risk for several types of cancer (pancreas, lung, kidney, urinary tract, skin, and gastric), while female carriers showed an increased prevalence of only breast and skin cancers. This finding is consistent with the general observation that the overall cancer prevalence and mortality rates are higher among males compared to females.26 Environmental exposure, such as smoking and alcohol consumption, seem to dominate overall genderrelated cancer risk, however, genetic factors probably contribute to some extent to this gender disparity.27
+Gender-related variability was also observed regarding age of disease onset and longer survival. Carriers generally developed cancer at an older age, although this difference was sig-
+
+nificant mostly for females. Skin cancers were the exception, with an earlier age of onset for carriers, although this was statistically significant only for males. In addition, female carriers of the APC I1307K variant who were diagnosed with cancer had better longer survival rates (HR 5 0.6 95% CI 0.39­0.92, p 5 0.018) and an increased lifespan (HR 5 0.48 95% CI 0.294­0.792, p 5 0.003) than non-carriers. Although the actual mechanism responsible for the observed increased lifespan solely for females is unknown, the older age at disease onset and the increased risk only for malignancies that have a relatively good prognosis (e.g., breast and skin cancers) might explain the better prognosis and overall higher survival rates.
+There are several examples of gene-related cancer predispositions, and it is currently estimated that around 3% of cancers are due to mutations in such genes.28 The fact that APC I1307K carriers had organ-wide cancer predisposition
+
+Int. J. Cancer: 138, 1361­1367 (2016) VC 2015 UICC
+
+Leshno et al.
+
+1365
+
+Cancer Epidemiology
+
+Figure 1. Comparison of mean age of onset of cancer. (a) Overall mean age of onset. (b) Mean age of onset in females. (c) Mean age of onset in males.
+
+on the one hand and an older age at cancer onset with better
+survival on the other might be due to different pathways of
+cancer development and progression. A similar phenomenon
+was observed among BRCA carriers who are prone to breast, ovarian, gastric, colon, pancreatic, and prostate cancers.29
+Despite the increased risk for the development of cancer,
+studies have shown that BRCA-associated ovarian and fallo-
+pian tube cancers had a survival advantage over those with
+sporadic disease, suggesting that an underlying tumor biology contributes to disease outcome.30 The gender disparity
+described herein could be due to several contributing factors,
+such as sex hormones, environmental causes, and epigenetics.31 Specifically, the differences in skin cancer might be
+explained by previously described gender-linked differences in the composition of the skin.32
+
+Although the APC gene is an autosomal gene, previous studies have shown that autosomal genes can have different effects on males and females. For example, vascular endothelial growth factor increased the risk of lung cancer only in males,33 while an apolipoprotein E gene polymorphism was found to increase the risk of pancreatic cancer only in females.34 Dorak and Karpuzoglu27 have summarized several such examples and relate the differences to diversity between males and females in gene regulation. Although the actual mechanism remains unclear, it seems that any genetic variant has the potential to yield a gender-specific association.
+One of the strengths of this prospective study is the large control group and the efforts that were made to ensure that it contained only individuals who were deemed as being healthy after undergoing extensive clinical and laboratory
+
+Int. J. Cancer: 138, 1361­1367 (2016) VC 2015 UICC
+
+1366
+
+The APC I1307K allele
+
+Cancer Epidemiology
+
+Figure 2. Survival analysis from the time of diagnosis of cancer. (a) Survival after diagnosis in all cancer types in females. (b) Survival after diagnosis in non-colorectal cancers (non-CRC) in females.
+
+Figure 3. Comparison of overall lifespan. (a) Lifespan of females with no past history of cancer. (b) Lifespan of females with a past history of cancer of any type.
+
+evaluations. As such, the current results may be more accurate and reliable than other series in which the control group included asymptomatic subjects that underwent less meticulous evaluations than the current study population.
+One of the limitations of the study is the variation of the number of cancer cases by type and gender. Although the low case number of females with kidney and urinary tract cancer compared to males might account for the difference
+
+in the statistical significance of the risk, the same cannot be said for lung, gastric or pancreatic cancer, in which the incidence was similar for males and females. We were able to establish an association between APC I1307K and cancerspecific risk. However, since the OR might be influenced by sample size, it is impossible to accurately compare risks, and further large-scale studies on I1307K cancer-specific risk are needed. Zauber et al.22 searched for somatic mutations in
+
+Int. J. Cancer: 138, 1361­1367 (2016) VC 2015 UICC
+
+Cancer Epidemiology
+
+Leshno et al.
+
+1367
+
+colorectal tumors from APC I1307K carriers and found an association for further somatic changes with definite functional consequences. Unfortunately, we had no pathologic samples that could be used for evaluation of somatic slippage.
+In conclusion, the findings that were derived from this large study cohort suggest that the I1307K variant in the APC gene is a global risk factor for cancer, with an OR of over 2.5, and mostly in males. Female carriers have better prognosis, with a relatively increased lifespan. The results of this study confirm the association between the APC I1307K variant and colorectal neoplasia. They also indicate that this variant is associated with several extra-colonic and extraintestinal tumors, including those of the brain, lung, urinary tract and pancreas, as well as melanoma and BCC of the
+
+skin. Genetic screening would help identify carriers of this polymorphism and enable physicians to recommend the appropriate cancer screening tests. Further studies are needed to assess the relationship between the presence of the APC I1307K variant and the course of disease, such as age at onset, severity, and rate of survival. Meanwhile, it is suggested that this SNP be considered as part of the routine evaluation of healthy Ashkenazi Jews, and that the accumulated data may contribute to the design of a specific screening program in this population.
+Acknowledgement
+Esther Eshkol ­ language editor, for meticulously editing of the paper. None of the authors had any financial or personal relationships with other people or organizations that might have influenced this study.
+
+References
+
+1. Laken SJ, Petersen GM, Gruber SB, et al. Familial colorectal cancer in Ashkenazim due to a hypermutable tract in APC. Nat Genet 1997;17: 79­83.
+2. Prior TW, Chadwick RB, Papp AC, et al. The I1307K polymorphism of the APC gene in colorectal cancer. Gastroenterology 1999;116:58­63.
+3. Nagase H, Nakamura Y. Mutations of the APC (adenomatous polyposis coli) gene. Hum Mutat 1993;2(1059-7794 LA - eng PT - Journal Article PT - Review PT - Review of Reported Cases SB IM):425­34.
+4. Miyoshi Y, Nagase H, Ando H, et al. Somatic mutations of the APC gene in colorectal tumors: mutation cluster region in the APC gene. Hum Mol Genet. 1992;1:229­33.
+5. Frayling IM, Beck NE, Ilyas M, et al. The APC variants I1307K and E1317Q are associated with colorectal tumors, but not always with a family history. Proc Natl Acad Sci USA 1998;95:10722­ 27.
+6. Lehrer S, McCurdy LD, Stock RG, et al. Body mass, age, and the APC I1307K allele in Ashkenazi Jewish prostate cancer patients. Cancer Genet Cytogenet 2000;122:131­3.
+7. Liang J, Lin C, Hu F, et al. APC polymorphisms and the risk of colorectal neoplasia: A huge review and meta-analysis. Am J Epidemiol 2013; 177:1169­79.
+8. Woodage T, King SM, Wacholder S, et al. The APCI1307K allele and cancer risk in a community-based study of Ashkenazi Jews. Nat Genet 1998; 20:62­5.
+9. Gershoni-Baruch R, Patael Y. Dagan, et al. Association of the I1307K APC mutation with hereditary and sporadic breast/ovarian cancer: more questions than answers. Br J Cancer 2000;83:153­ 5.
+10. Redston M, Nathanson KL, Yuan ZQ, et al. The APCI1307K allele and breast cancer risk. Nat Genet 1998;20:13­4.
+11. Liberman E, Kraus S, Sagiv E, et al. The APC E1317Q and I1307K polymorphisms in non-
+
+colorectal cancers. Biomed Pharmacother 2007; 61(9 SPEC. ISS.):566­9. 12. Sella T, Boursi B, Gat-Charlap A, et al. One stop screening for multiple cancers: the experience of an integrated cancer prevention center. Eur J Intern Med 2013;24:245­9. 13. Boursi B, Guzner-Gur H, Mashich Y, et al. First report of screening an asymptomatic population for cancer: the yield of an integrated cancer prevention center. Isr Med Assoc J 2010;12:21­5. 14. Bagley SC, White H, Golomb BA. Logistic regression in the medical literature: standards for use and reporting, with particular attention to one medical domain. J Clin Epidemiol 2001;54:979­ 85. 15. Benjamini Y, Hochberg Y. Controlling the false discovery rate: a practical and powerful approach to multiple testing. J R Stat Soc Ser B 1995;57: 289­300. 16. Furuuchi K, Tada M, Yamada H, et al. Somatic mutations of the APC gene in primary breast cancers. Am J Pathol. 2000; 156:1997­2005. 17. Ohgaki H, Kros JM, Okamoto Y, et al. APC mutations are infrequent but present in human lung cancer. Cancer Lett 2004;207:197­203. 18. Furlan D, Sahnane N, Bernasconi B, et al. APC alterations are frequently involved in the pathogenesis of acinar cell carcinoma of the pancreas, mainly through gene loss and promoter hypermethylation. Virchows Arch 2014;464:553­ 64. 19. Horii A, Nakatsuru S, Miyoshi Y, et al. The APC gene, responsible for familial adenomatous polyposis, is mutated in human gastric cancer. Cancer Res 1992;52:3231­3. 20. Pec´ina-Slaus N, Pavelic´ K, Pavelic´ J. Loss of heterozygosity and protein expression of APC gene in renal cell carcinomas. J Mol Med (Berl) 1999; 77:446­53. 21. Worm J, Christensen C, Grønbaek K, et al. Genetic and epigenetic alterations of the APC gene in malignant melanoma. Oncogene 2004;23: 5215­26.
+
+22. Zauber P, Bishop T, Tayloer C, et al. Colorectal tumors from APC*I1307K carriers principally harbor somatic APC mutations outside the A8 tract. PLoS One 2014; 9:e84498.
+23. Nathanson KL, Antin-Ozerkis D, Couch FJ, et al. I1307K APC variant in non-Ashkenazi Jewish women affected with breast cancer [1]. Am J Med Genet 1999;85:189­90.
+24. Poynter JN, Cooney KA, Bonner JD, et al. APC I1307K and the risk of prostate cancer. Cancer Epidemiol Biomarkers Prev 2006;15:468­73.
+25. Abrahamson J, Moslehi R, Vesprini D, et al. No association of the I1307K APC allele with ovarian cancer risk in Ashkenazi Jews. Cancer Res 1998; 58:2919­22.
+26. Siegel R, Ma J, Zou Z, et al. Cancer statistics, 2014. CA Cancer J Clin. 2014; 64:9­29.
+27. Tevfik Dorak M, Karpuzoglu E. Gender differences in cancer susceptibility: an inadequately addressed issue. Front Genet 2012;3:1­11.
+28. Rahman N. Realizing the promise of cancer predisposition genes. Nature 2014;505:302­8.
+29. The Breast Cancer Linkage Consortium.Cancer risks in BRCA2 mutation carriers. J Natl Cancer Inst 1999;91:1310­6.
+30. Gallagher DJ, Konner JA, Bell-McGuinn KM, et al. Survival in epithelial ovarian cancer: a multivariate analysis incorporating BRCA mutation status and platinum sensitivity. Ann Oncol 2011;22:1127­32.
+31. Gabory A, Attig L, Junien C. Sexual dimorphism in environmental epigenetic programming. Mol Cell Endocrinol 2009;304:8­18.
+32. Giacomoni PU, Mammone T, Teri M. Genderlinked differences in human skin. J Dermatol Sci 2009; 55:144­9.
+33. Zhai R, Liu G, Zhou W, et al. Vascular endothelial growth factor genotypes, haplotypes, gender, and the risk of non-small cell lung cancer. Clin Cancer Res 2008;14:612­7.
+34. Watson MA, Gay L, Stebbings WSL, et al. Apolipoprotein E gene polymorphism and colorectal cancer: gender-specific modulation of risk and prognosis. Clin Sci (Lond) 2003;104:537­45.
+
+Int. J. Cancer: 138, 1361­1367 (2016) VC 2015 UICC
+
+

@@ -1,0 +1,1712 @@
+VOLUME 33  NUMBER 26  SEPTEMBER 10 2015
+JOURNAL OF CLINICAL ONCOLOGY
+
+ORIGINAL REPORT
+
+Author affiliations appear at the end of this article.
+Published online ahead of print at www.jco.org on August 10, 2015.
+Support information appears at the end of this article.
+Written on behalf of the Australian Ovarian Cancer Study Group and the Ovarian Cancer Association Consortium.
+H.S., E.D., and S.J.R. contributed equally to this work.
+Terms in blue are defined in the glossary, found at the end of this article and online at www.jco.org.
+The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Cancer Institute or the National Institutes of Health.
+Authors' disclosures of potential conflicts of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article.
+Corresponding author: Simon A. Gayther, PhD, University of Southern California/Keck School of Medicine, Department of Preventive Medicine, Harlyne Norris Research Tower, 1450 Biggy St, Room 2517G, Mail Code LG 591 MC9601, Los Angeles, CA 90033; e-mail: simon.gayther@med.usc.edu.
+© 2015 by American Society of Clinical Oncology
+0732-183X/15/3326w-2901w/$20.00
+DOI: 10.1200/JCO.2015.61.2408
+
+Contribution of Germline Mutations in the RAD51B, RAD51C, and RAD51D Genes to Ovarian Cancer in the Population
+Honglin Song, Ed Dicks, Susan J. Ramus, Jonathan P. Tyrer, Maria P. Intermaggio, Jane Hayward, Christopher K. Edlund, David Conti, Patricia Harrington, Lindsay Fraser, Susan Philpott, Christopher Anderson, Adam Rosenthal, Aleksandra Gentry-Maharaj, David D. Bowtell, Kathryn Alsop, Mine S. Cicek, Julie M. Cunningham, Brooke L. Fridley, Jennifer Alsop, Mercedes Jimenez-Linan, Estrid Høgdall, Claus K. Høgdall, Allan Jensen, Susanne Krüger Kjaer, Jan Lubin´ski, Tomasz Huzarski, Anna Jakubowska, Jacek Gronwald, Samantha Poblete, Shashi Lele, Lara Sucheston-Campbell, Kirsten B. Moysich, Kunle Odunsi, Ellen L. Goode, Usha Menon, Ian J. Jacobs, Simon A. Gayther, and Paul D.P. Pharoah
+ABSTRACT
+Purpose The aim of this study was to estimate the contribution of deleterious mutations in the RAD51B, RAD51C, and RAD51D genes to invasive epithelial ovarian cancer (EOC) in the population and in a screening trial of individuals at high risk of ovarian cancer.
+Patients and Methods The coding sequence and splice site boundaries of the three RAD51 genes were sequenced and analyzed in germline DNA from a case-control study of 3,429 patients with invasive EOC and 2,772 controls as well as in 2,000 unaffected women who were BRCA1/BRCA2 negative from the United Kingdom Familial Ovarian Cancer Screening Study (UK_FOCSS) after quality-control analysis.
+Results In the case-control study, we identified predicted deleterious mutations in 28 EOC cases (0.82%) compared with three controls (0.11%; P  .001). Mutations in EOC cases were more frequent in RAD51C (14 occurrences, 0.41%) and RAD51D (12 occurrences, 0.35%) than in RAD51B (two occurrences, 0.06%). RAD51C mutations were associated with an odds ratio of 5.2 (95% CI, 1.1 to 24; P  .035), and RAD51D mutations conferred an odds ratio of 12 (95% CI, 1.5 to 90; P  .019). We identified 13 RAD51 mutations (0.65%) in unaffected UK_FOCSS participants (RAD51C, n  7; RAD51D , n  5; and RAD51B, n  1), which was a significantly greater rate than in controls (P  .001); furthermore, RAD51 mutation carriers were more likely than noncarriers to have a family history of ovarian cancer (P  .001).
+Conclusion These results confirm that RAD51C and RAD51D are moderate ovarian cancer susceptibility genes and suggest that they confer levels of risk of EOC that may warrant their use alongside BRCA1 and BRCA2 in routine clinical genetic testing.
+J Clin Oncol 33:2901-2907. © 2015 by American Society of Clinical Oncology
+
+INTRODUCTION
+Epithelial ovarian cancer (EOC) has a significant heritable component. A woman with a single firstdegree relative diagnosed with ovarian cancer has a three-fold increased risk of the disease.1,2 Twin studies suggest that most of the familial clustering results from inherited genetic factors.3 High-penetrance mutations in BRCA1 and BRCA2 are associated with the majority of breast-ovarian cancer syndrome occurrences.4-6 The cumulative estimated risks of
+
+ovarian cancer averaged across all possible polygenic risk modifiers by age 70 years are 36% in BRCA1 carriers and 12% in BRCA2 carriers.7
+Other ovarian cancer susceptibility genes include the mismatch repair genes MSH6, MSH2, and MLH1,8 which also are associated with colorectal and endometrial cancers. Several common low-penetrance susceptibility alleles conferring relative risks (RRs) of less than 1.5-fold have been found using genome-wide association studies.9-17 The known high-risk susceptibility genes account for approximately 40% of the excess
+
+© 2015 by American Society of Clinical Oncology 2901
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52 Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Song et al
+
+familial risk of EOC,18 whereas rare moderate-risk variants and common low-risk variants contribute less than 5%.15 Identification of additional susceptibility genes that confer RRs greater than 2 could decrease mortality as a result of ovarian cancer through surgical intervention (eg, riskreducing salpingo-oophorectomy [RRSO]) in at-risk individuals. Recent advances in high-throughput next-generation sequencing technologies have enabled the rapid, targeted analysis of multiple candidate genes in large populations and have recently identified some novel susceptibility genes for ovarian cancer, including RAD51C,19 RAD51D,20 and BRIP1.21 Existing data suggest that the population prevalence of germline mutations in these genes is low, but the published risk estimates (albeit on the basis of small sample sizes) suggest genetic testing of these genes may have clinical utility. RAD51D mutations were associated with a 6.3-fold increase in risk (95% CI, 2.9 to 14),20 whereas BRIP1 mutations were associated with an 8.1-fold increased risk of ovarian cancer (95% CI, 4.7 to 14).21
+The aims of this study were to establish the prevalence and penetrance of deleterious mutations in the three interacting doublestrand DNA break repair genes RAD51B, RAD51C, and RAD51D.
+PATIENTS AND METHODS
+Study Participants The 3,447 confirmed invasive EOC cases and 2,812 unaffected controls
+were from four population-based ovarian cancer case-control studies (AOC [Australian Ovarian Cancer Study], MAL [Malignant Ovarian Cancer Study], SEA [Studies of Epidemiology and Risk Factors in Cancer Heredity], and UKO [United Kingdom Ovarian Cancer Population Study]), one clinic-based casecontrol study (MAYO [Mayo Clinic Ovarian Cancer Study]), one familial ovarian cancer series of cases and matched controls from Poland (POC [Poland ovarian cancer study]), and two familial ovarian cancer registries from the United Kingdom and United States (UKR [United Kingdom Familial Ovarian Cancer Registry] and GRR [Gilda Radner Familial Ovarian Cancer Registry]). These studies have been previously described (Table 1 and Appendix Table A1, online only). Forty-three duplicate samples and four RAD51C mutation­positive controls were included for quality control.
+Also included were 2,000 unaffected participants enrolled onto the United Kingdom Familial Ovarian Cancer Screening Study (UK_FOCSS).22 Eligible participants were women age  35, with an estimated lifetime risk of ovarian cancer of  10% on the basis of a family history of ovarian and/or breast cancer and/or the presence of known predisposing germline gene mutations (BRCA1, BRCA2, and MMR genes) in the family. Volunteers were
+
+recruited between June 2002 and September 2010 from 42 United Kingdom regional centers. All participants were tested for BRCA1 and BRCA2 mutations, and carriers were excluded from this study.
+All studies had approval from the appropriate ethics committee, and all study participants provided written, informed consent.
+Sequencing Library Preparation and Sequencing We used the 48.48 Fluidigm Access Arrays (Fluidigm, San Francisco,
+CA) for target sequence enrichment, as described previously8 and according to the manufacturer's protocol. The RAD51 genes were in a panel of 11 genes sequenced in SEA and MAYO and in a panel of six genes in the remaining studies. The results for the other genes have been reported previously8 or are unpublished. Fifty-six primer pairs were designed to cover the exons and splice sites of RAD51B, RAD51C, and RAD51D (Appendix Table A2, online only) with a combined sequencing target of 4 kb. The primer design achieved greater than 95% coverage of the target sequence. Sequencing libraries were quantified by using a KAPA library quantification kit (Kapa Biosystems, Boston, MA) with specific probes for the ends of the adapters according to the manufacturer's protocol. The sequence libraries were sequenced using single-end sequencing on the Illumina GAII (Illumina, San Diego, CA) or paired end sequencing on the Illumina HiScan (Illumina) or Illumina HiSeq 2000 (Illumina) according to the manufacturer's protocol. Each lane sequenced 384 barcoded samples.
+Sequence Data Analysis Sequenced reads were demultiplexed with standard Illumina software.
+We used the Burrows-Wheeler Aligner (http://bio-bwa.sourceforge.net/)23 for sequencing read alignment against the human genome reference sequence (UCSC hg19; University of California Santa Cruz Genome Reference Consortium; http://genome.ucsc.edu/cgi-bin/hgGateway). The Genome Analysis Toolkit (GATK; https://www.broadinstitute.org/gatk/)24 was used for base quality-score recalibration, local insertion/deletion (indel) realignment, and variant (substitution and indel) discovery. Variants were considered only if they satisfied the set of recommended GATK filters, as described in the GATK best practices guide. ANNOVAR (http://annovar.openbioinformatics.org/ en/latest/)25 was used to annotate the sequence variation detected. We used PolyPhen-2 (http://genetics.bwh.harvard.edu/pph2/bgi.shtml),26 SIFT (http://sift.bii.a-star.edu.sg/),27 and Provean (http://provean.jcvi.org/protein_ batch_submit.php?specieshuman)28 to predict the function of missense variants. We used MaxEntScan (http://genetics.bwh.harvard.edu/pph2/ bgi.shtml)29 to predict the pathogenic potential of possible splicing variants in sequences from 3 base pairs (bp) in the exon to 20 bp in the intron for the 3= acceptor sites and 3 bp in the exon and 6 bp in the intron for the 5= donor sites. Variants with a MaxEntScan score that decreased by more than 40% compared with the consensus sequence were assumed to affect splicing.
+The alternate allele frequency (Altfreq) for each variant detected in each sample was defined as the fraction of alternative allele reads compared with the
+
+Table 1. Study Patient Cases Sequenced for RAD51B, RAD51C, and RAD51D After Quality-Control Analysis
+
+Study
+On the basis of patients not selected for family history Australian Ovarian Cancer Study1 Malignant Ovarian Cancer1 SEARCH2 United Kingdom Ovarian Cancer Population Study1 Mayo Clinic Ovarian Cancer Study2
+Family based Poland family history, Poland ovarian cancer study1 United Kingdom Familial Ovarian Cancer Registry3 Gilda Radner Familial Ovarian Cancer Registry3
+Total of all studies
+
+Study Abbreviation
+AOC MAL SEA UKO MAYO
+POC UKR GRR
+
+No. of Patient Cases
+413 190 1,259 361 912
+89 48 157 3,429
+
+No. of Controls
+428 191 1,382 531 146
+94 -- -- 2,772
+
+Total No. of Participants
+841 381 2,641 892 1,058
+183 48
+157 6,201
+
+Abbreviation: SEARCH, Studies of Epidemiology and Risk Factors in Cancer Heredity. Only study not screened for BRCA1/BRCA2 mutations.
+All patient cases had a family history of ovarian cancer.
+
+2902 © 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Germline Mutations in RAD51 Genes and Ovarian Cancer
+
+total number of reads at that position. We applied thresholds for variant calling, as defined previously8: With a minimum read depth of 15, alternate allele heterozygotes were called if the depth was  500 and the Altfreq was  10%; if the depth ranged from 250 to less than 500 and the Altfreq was  15%; if the depth ranged from 30 to less than 250 and the Altfreq was  20%; or if the depth ranged from 15 to less than 30 and the Altfreq was  30%. Samples with fewer than 80% of the target bases covered at a read depth of  15 (40 controls and 18 cases) were excluded. We defined deleterious variants as those predicted to result in protein truncation (frameshift indels, consensus
+splice site substitutions, and nonsense substitutions) or those missense muta-
+tions that have been previously reported as deleterious on the basis of in vitro analysis19,30 or predicted by MaxEntScan to affect splicing.
+Ninety percent of the target sequence bases had read depths  15. The coverage for the three genes is summarized in Appendix Table A2. Concor-
+dance for variants called in the 43 duplicate samples was 100%. Four RAD51C
+mutation­positive controls also were detected.
+
+Table 2. Mutation Carriers Identified in RAD51B, RAD51C, and RAD51D in Ovarian Cancer Patient Cases and Controls
+
+Patient Cases
+
+Mutation Carrier Status
+
+Controls No. %
+
+All No. %
+
+Noncarrier Mutation carrier
+Any mutation RAD51B RAD51C RAD51D
+
+2,769 99.9 3,401 99.2
+
+3 0.11 00 2 0.07 1 0.04
+
+28 0.82 2 0.06
+14 0.41 12 0.35
+
+One patient case carried two deleterious mutations.
+
+Unselected for Family History
+
+No. 3,112
+
+% 99.3
+
+23 2 0.06
+10 0.32 11 0.35
+
+Mutation Validation We visually inspected the sequence alignments for all of the called
+deleterious variants by using the Integrative Genomics Viewer (Broad Institute, Cambridge, MA; https://www.broadinstitute.org/igv/). We validated all deleterious variants by polymerase chain reaction amplification and Sanger sequencing.31
+Statistical Methods We tested for an association between deleterious mutations and
+ovarian cancer risk by using unconditional logistic regression adjusted for the country of origin (Australia, Denmark, Poland, the United Kingdom, and the United States). Odds ratios and associated 95% CIs also were calculated with data from the case-control studies that were not family based (AOC, MAL, MAYO, SEA, and UKO).
+We estimated the cumulative risk of ovarian cancer with equation 1 by applying the estimated odds ratio (RR) to population incidence data for England from 201132:
+Cumulative risk  1  ecumulative incidence
+See the Data Supplement for a spreadsheet with calculations. We identified multiple missense variants that have unknown functional
+effects on the protein. We excluded all missense variants that had a minor allele frequency (MAF) of greater than 1% from additional analyses, because largescale genome-wide association studies have shown that the RR conferred by a common susceptibility allele are small (RR  1.3) and thus not detectable by the smaller sample size of this targeted-sequencing study. The statistical power to detect single rare alleles by association, even if they confer larger risk (RR  2), is still modest. Therefore, we used the rare admixture likelihood (RAML) burden test33 to test for an association on a gene-by-gene basis. The RAML test combines the data for multiple variants and allows for alleles associated with either an increased or a decreased risk. We classified variants with an MAF  1% into three groups: deleterious variants as defined previously (these were excluded from the RAML analyses); variants predicted to have a damaging effect on protein function by at least two of three prediction tools (SIFT [score  0.05], PolyPhen-2 [classified as probably damaging/damaging], and Provean [score  2.5]); and variants with probable benign effects. Only patients who had a call rate greater than 80% for missense variants and variants that had a call rate greater than 80% and genotype frequencies consistent with the Hardy-Weinberg equilibrium (P  105) were included in these analyses.
+RESULTS
+Deleterious RAD51B, RAD51C, and RAD51D Mutations in Ovarian Cancer Cases and Controls
+Sequence data for the coding regions and splice site boundaries of RAD51B, RAD51C, and RAD51D were available for 3,429 invasive EOC cases and 2,772 controls after quality control (Table 1). We
+
+identified 135 unique variants, of which eight (5.9%) were frameshift indels, 10 (7.4%) were nonsense substitutions, five (3.7%) were predicted splice site alterations, and 113 (78%) were missense substitutions. Of the 113 missense variants, one (RAD51C 428AG) was deleterious,30 105 had an MAF less than 1%, and seven (5.1%) had an MAF greater than 1%.
+We identified deleterious mutations in two cases for RAD51B, 14 cases and two controls for RAD51C, and 12 cases and one control for RAD51D. Of these, 23 deleterious mutation carriers were identified in 3,135 cases (0.73%) unselected for family history (Table 2 and Appendix Table A3, online only). One case had two deleterious mutations close to each other and in cis (G217X and Q219X) in RAD51D. The prevalence of deleterious mutations was significantly higher (P  .001) in cases (28 of 3,429; 0.82%) than in controls (three of 2,772; 0.11%). Eight deleterious mutations were detected in more than one individual. Three of these (RAD51C 732delT and A428G and RAD51D C898T) were identified in a case and a control. Of the 29 predicted deleterious variants in cases, 22 (76%) were frameshift indels or nonsense variants, six (21%) were splice site substitutions, and one (3.4%) was a missense variant previously reported as deleterious.30
+We also evaluated the prevalence of RAD51B, RAD51C, and RAD51D variants in 2,000 individuals from UK_FOCSS. We identified 149 unique variants, of which three (2.0%) were frameshift indels, three (2.0%) were nonsense substitutions, two (1.3%) were predicted splice site alterations, and 141 (95%) were missense substitutions. Thirteen participants carried one of the eight different deleterious mutations in one of these genes (one in RAD51B, seven in RAD51C, and five in RAD51D). The overall prevalence (0.65%) was significantly greater than that of the general population controls (P  .001; Table 3).
+Ovarian Cancer Risks Associated With RAD51B, RAD51C, and RAD51D Mutations
+The odds ratio (adjusted for country of origin) associated with a deleterious mutation in any of the three genes was 8.1 (95% CI, 2.4 to 27; P  .001) for all ovarian cancer subtypes and 9.3 (95% CI, 2.7 to 32; P  .001) for the serous subtype. Gene-specific odds ratios (adjusted for country of origin) for all ovarian cancer subtypes were 5.2 for RAD51C (95% CI, 1.1 to 24; P  .035) and 12 for RAD51D (95% CI, 1.5 to 90; P  .019). Gene-specific odds ratios for the serous subtype were 7.4 for RAD51C (95% CI, 1.6 to 35; P  .011) and 12 for RAD51D
+
+www.jco.org
+
+© 2015 by American Society of Clinical Oncology 2903
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Song et al
+
+Table 3. Characteristics of the United Kingdom Familial Ovarian Cancer Screening Study Mutation Carriers
+
+Family History
+
+Mutation Information
+
+Proband Characteristic
+
+No. of Affected First-Degree Relatives
+
+No. of Affected First- and SecondDegree Relatives
+
+Gene
+RAD51B RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51D RAD51D RAD51D RAD51D RAD51D
+
+cDNA Change
+854-2AG C97T 158delC C577T C577T C577T 731delT 731delT 263  1GA C556T C556T C556T 748delC
+
+Location
+Intron 8 Exon 1 Exon 2 Exon 4 Exon 4 Exon 4 Exon 5 Exon 5 Intron 3 Exon 6 Exon 6 Exon 6 Exon 9
+
+Protein Change
+NA Q33X S53fs R193X R193X R193X I244fs I244fs NA R186X R186X R186X H250fs
+
+Predicted Effect
+Splicing Nonsense Frameshift deletion Nonsense Nonsense Nonsense Frameshift deletion Frameshift deletion Splicing Nonsense Nonsense Nonsense Frameshift deletion
+
+Ref. Age, Years
+58 31 69 46 46 41 51 64 53 62 62 25 50
+
+Breast Cancer (age in years)
+No No No No No No No Yes (57) No No Yes (52) No No
+
+Ovarian Cancer
+0 1 2 0 1 1 1 2 1 1 1 1 1
+
+Breast Cancer
+0 1 0 0 0 0 0 0 0 0 0 0 0
+
+Ovarian Cancer
+2 2 2 0 2 2 3 3 4 3 1 1 1
+
+Breast Cancer
+0 1 0 1 0 0 0 1 0 2 1 0 1
+
+Abbreviation: Ref., reference.
+
+(95% CI, 1.5 to 97; P  .021). The estimated average cumulative risks of ovarian cancer by age 50 were 1.3% (95% CI, 0.3% to 6.0%) for RAD51C and 3.0% (95% CI, 0.4% to 21%) for RAD51D. The equivalent risks by age 70 were 5.2% (95% CI, 1.1% to 22%) for RAD51C and 12% (95% CI, 1.5% to 60%) for RAD51D.
+Clinicopathologic Characteristics Associated With RAD51B, RAD51C, and RAD51D Mutations
+The clinical and histopathologic characteristics of all patient cases are listed in Appendix Table A1. Mutation carriers were more likely than noncarriers to have high-grade serous versus other histologic subtypes (P  .046; Table 4). Eighteen percent of mutation carriers were diagnosed at ages 40 to 49 years, and no mutation carrier was diagnosed with ovarian cancer before age 40 years (Table 4). Carriers of a mutation in any of the RAD51 genes were more likely than noncarriers to have a family history of ovarian cancer, although this difference was not statistically significant (24% v 14%; P  .16 for all genes). The proportion of RAD51C mutation carriers with a family history was higher (36%; P  .021; Table 5). In UK_FOCSS participants, mutation carriers were also more likely than noncarriers to be associated with a family history of ovarian cancer (Table 3); 9 of 13 mutation carriers (69%) compared
+
+with 548 of 1,987 noncarriers (28%) had a family history comprising two or more ovarian cancer cases in first- or seconddegree relatives (P  .001).
+RAD51B, RAD51C, and RAD51D Missense Variants and Ovarian Cancer Risk
+We used three bioinformatics tools (SIFT, PolyPhen-2, and Provean) to predict the effects on protein function of 112 missense variants. Thirty missense variants were classified as deleterious by all three tools, 12 missense variants by at least two of three tools, and 15 variants by one of three tools; 55 missense variants were predicted to be neutral by all three tools (Appendix Table A4). For the 38 missense variants with an MAF  1% and predicted by at least two of three tools to have a functional effect, we compared the relative burden in cases and controls for each gene with the RAML test.33 We found some evidence for an association of the rare missense variation in RAD51C with an increased risk of ovarian cancer for all ovarian cancer subtypes (RAML test P  .029), and the effect was stronger for the serous subtype (RAML test P  .001). We also found some evidence of an association of missense variants in RAD51D with an increased risk of serous ovarian cancer (P  .012). There was little evidence of an association of rare missense variants in RAD51B and RAD51D with all ovarian cancer subtypes or in RAD51B with serous ovarian cancer (P  .05).
+
+Table 4. Mutation Status by Age at Disease Onset and Histologic Subtype in Patient Cases With Ovarian Cancer
+
+No. (%) of Patients by Age at Diagnosis, Years
+
+Histology, No. (%)
+
+Mutation Status
+Noncarrier (n  3,401) Mutation carrier (n  28)
+RAD51B (n  2) RAD51C (n  14) RAD51D (n  12)
+
+ 40
+165 (4.9) 0 0 0 0
+
+40-49
+514 (15) 5 (18) 0 4 (29) 1 (8.3)
+
+50-59
+1,073 (32) 11 (39) 0 5 (36) 6 (50)
+
+ 60
+1,642 (48) 12 (43) 2 (100) 5 (36) 5 (42)
+
+Unknown
+7 (0.2) 0 0 0 0
+
+High-Grade Serous
+1,786 (53) 20 (71) 1 (50) 10 (71) 9 (75)
+
+Other
+1,615 (47) 8 (29) 1 (50) 4 (29) 3 (25)
+
+2904 © 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Germline Mutations in RAD51 Genes and Ovarian Cancer
+
+Table 5. Mutation Status by First Degree of Family History of Breast and/or Ovarian Cancer in Patient Cases With Ovarian Cancer
+
+No. (%) of Patient Cases by Family History
+
+Gene
+Noncarrier Mutation carrier
+Any RAD51B RAD51C RAD51D
+
+No FH (n  2,307) 2,292 (71)
+15 (60) 1 (100) 6 (43) 8 (80)
+
+OvFH Only (n  430) 424 (13)
+6 (24) 0 5 (36) 1 (10)
+
+BrFH Only (n  467) 463 (14)
+4 (16) 0 3 (21) 1 (10)
+
+BrOvFH (n  29) 29 (0.90)
+0 0 0 0
+
+Abbreviations: BrFH, first degree of family history of breast cancer; BrOvFH, first degree of family history of both ovarian and breast cancer; no FH, no first degree of family history of breast or ovarian cancer; OvFH, first degree of family history of ovarian cancer.
+
+DISCUSSION
+To our knowledge, this study is the largest population-based ovarian cancer study to date to estimate the prevalence of mutations in the RAD51B, RAD51C, and RAD51D genes. Overall, 0.81% of EOC cases had a mutation in one of these three genes compared with 0.11% in controls. Our data suggest that both RAD51C and RAD51D are ovarian cancer susceptibility genes; however, RAD51B mutations are unlikely to contribute substantially to ovarian cancer risk.
+Several other studies have reported on the prevalence of germline genetic variations in these genes (Appendix Table A5). However, for most of these, the ascertainment of cases was complex: several sequenced an affected proband (either breast or ovarian cancer) from a family with multiple cases of breast and/or ovarian cancer. Six studies sequenced RAD51C in ovarian cancer cases unselected for family history,34-39 but only one of these carried out equivalent sequencing of controls.34 Three studies sequenced RAD51D in unselected ovarian cancer cases,36,40,41 but none of these sequenced the whole gene in controls. In these studies, the mutation frequency in cases ranged from 0.4% to 1.1% for RAD51C and 0.8% to 1.1% for RAD51D.
+In this study, the mutation frequency in cases unselected for family history was 0.32% for RAD51C and 0.35% in RAD51D. These are likely to be underestimates of the true mutation frequencies. Our next-generation sequencing approach enabled rapid and highthroughput analysis of candidate genes in thousands of samples but
+
+did not provide complete coverage of all genes in all samples (mean coverage per sample, 90%). Also, we used polymerase chain reaction­ based enrichment of candidate gene coding regions; any deleterious mutations occurring outside these regions (eg, large genomic deletions and rearrangements) would not have been detected. Finally, we did not include missense variants in our prevalence estimates, because we could not be certain of their pathogenicity in the absence of definitive functional assays. However, burden tests for RAD51C and RAD51D variants indicate that rare missense variants that are predicted to disrupt protein function are significantly more prevalent in cases than controls, which suggests that at least a proportion of these variants is deleterious.
+High-grade serous ovarian cancer (HGSOC) is the most common ovarian cancer subtype, and mutations were more prevalent in patients with HGSOC (1.1%) than in other subtypes (0.49%). This finding, perhaps, is expected, because deficiency of doublestrand DNA break repair by homologous recombination as a result of germline mutations in BRCA1 or BRCA2 also is associated with HGSOC.8,42
+Although there are similarities in the functional mechanisms associated with the RAD51 genes and BRCA1/BRCA2, the genetic epidemiology suggests there are also differences. For example, BRCA1 and BRCA2 mutations confer risks of both breast and ovarian cancer, but there is little evidence from other studies that RAD51C or RAD51D mutations confer increased risks of breast cancer. The location of truncating mutations in BRCA1/BRCA2 is associated with variable risks of breast and ovarian cancer.43,44 All except two of the predicted truncating mutations identified in RAD51C were located between amino acid 143 and 319 in a functional domain in the C terminus of the protein (residues 79 to 376).45 This domain is important for forming the RAD51BRAD51C-RAD51D-XRCC2 and RAD51C-XRCC3 complexes. Likewise, all of the deleterious mutations identified in RAD51D were clustered in the C-terminal region (residues 77 to 328), which affects binding to RAD51C and likely impairs double-strand DNA break repair45 (Fig 1).
+Our RR estimate for RAD51D is similar to that reported previously by Loveday et al20 (6.3; 95% CI, 2.9 to 14) on the basis of the analysis of families with multiple cases of ovarian cancer. Our RR estimate for RAD51C is similar to those reported by Pelttari et al35 (6.3; 95% CI, 1.2 to 35) for unselected ovarian cancer. The wide CIs of risk estimates for both genes suggest that caution needs to be applied if the genes are used clinically for genetic risk prediction. In addition, the fact that 18% of ovarian cancers in women carrying RAD51C and
+
+23 RAD51B exons
+
+4
+
+1 RAD51C exons
+
+2
+
+12
+
+3
+
+RAD51D exons
+
+4
+
+56
+
+7 8 9 10 11
+
+2* 3
+
+2 4
+
+22 5 67
+
+2 2* 5
+2 8
+
+67
+
+8
+
+2* 9 10
+
+9
+
+150 bp
+
+Fig 1. Distribution of predicted deleterious variants in RAD51B, RAD51C, and RAD51D. The location of each mutation is shown in the exon structure of the coding sequence. Mutations occurring in multiple individuals are indicated with the number of carriers above the small balloon. Coding regions of all the genes are on the same scale. (*) Deleterious mutation identified (one each in case and control groups). bp, base pair.
+
+www.jco.org
+
+© 2015 by American Society of Clinical Oncology 2905
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Song et al
+
+RAD51D mutations occurred at younger than 50 years (Table 4) suggests that, if risk estimates were confirmed, offering premenopausal women the option of RRSO should be considered. If clinical testing for RAD51C and RAD51D was approved, women could undergo panel testing for multiple susceptibility genes, and carriers, along with their relatives, could be offered RRSO.
+In summary, we estimate that RAD51B, RAD51C, and RAD51D are responsible for approximately one in every 90 high-grade serous EOC occurrences and one in every 120 EOC occurrences. In addition to the benefit of mutation testing of RAD51C and RAD51D for disease prevention, mutation carriers also may be responsive to treatment with poly(ADP-ribose) polymerase inhibitors, which results in synthetic lethality of cells that have mutant homologous recombination or double-strand DNA break repair. This treatment might improve progression-free survival among these patients. Hence, such testing may be useful in patient decision making.
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+Disclosures provided by the authors are available with this article at www.jco.org.
+
+AUTHOR CONTRIBUTIONS
+Conception and design: Honglin Song, Susan J. Ramus, Usha Menon, Ian J. Jacobs, Simon A. Gayther, Paul D.P. Pharoah Financial support: Susan J. Ramus, Ellen Goode Provision of study materials or patients: Susan J. Ramus, Adam Rosenthal, Aleksandra Gentry-Maharaj, Jan Lubin´ ski, Anna Jakubowska, Ellen L. Goode Collection and assembly of data: Honglin Song, Ed Dicks, Susan J. Ramus, Maria P. Intermaggio, Jane Hayward, Christopher K. Edlund, David Conti, Patricia Harrington, Lindsay Fraser, Susan Philpott, Christopher Anderson, Adam Rosenthal, Aleksandra Gentry-Maharaj, David D. Bowtell, Kathryn Alsop, Mine S. Cicek, Julie M. Cunningham, Brooke L. Fridley, Jennifer Alsop, Mercedes Jimenez-Linan, Estrid Høgdall, Claus K. Høgdall, Allan Jensen, Susanne Krüger Kjaer, Jan Lubin´ ski, Tomasz Huzarski, Anna Jakubowska, Jacek Gronwald, Samantha Poblete, Shashi Lele, Lara Sucheston-Campbell, Kirsten B. Moysich, Kunle Odunsi, Ellen L. Goode, Usha Menon, Ian J. Jacobs, Paul D.P. Pharoah Data analysis and interpretation: Honglin Song, Ed Dicks, Susan J. Ramus, Jonathan P. Tyrer, Christopher K. Edlund, Adam Rosenthal, Brooke L. Fridley, Usha Menon, Ian J. Jacobs, Paul D.P. Pharoah Manuscript writing: All authors Final approval of manuscript: All authors
+
+REFERENCES
+1. Jervis S, Song H, Lee A, et al: Ovarian cancer familial relative risks by tumour subtypes and by known ovarian cancer genetic susceptibility variants. J Med Genet 51:108-113, 2014
+2. Stratton JF, Pharoah P, Smith SK, et al: A systematic review and meta-analysis of family history and risk of ovarian cancer. Br J Obstet Gynaecol 105:493-499, 1998
+3. Lichtenstein P, Holm NV, Verkasalo PK, et al: Environmental and heritable factors in the causation of cancer: Analyses of cohorts of twins from Sweden, Denmark, and Finland. N Engl J Med 343:7885, 2000
+4. Wooster R, Bignell G, Lancaster J, et al: Identification of the breast cancer susceptibility gene BRCA2. Nature 378:789-792, 1995
+5. Gayther SA, Harrington P, Russell P, et al: Rapid detection of regionally clustered germ-line BRCA1 mutations by multiplex heteroduplex analysis: UKCCCR Familial Ovarian Cancer Study Group. Am J Hum Genet 58:451-456, 1996
+6. Miki Y, Swensen J, Shattuck-Eidens D, et al: A strong candidate for the breast and ovarian cancer susceptibility gene BRCA1. Science 266:66-71, 1994
+7. Antoniou AC, Cunningham AP, Peto J, et al: The BOADICEA model of genetic susceptibility to breast and ovarian cancers: Updates and extensions. Br J Cancer 98:1457-1466, 2008
+8. Song H, Cicek MS, Dicks E, et al: The contribution of deleterious germline mutations in BRCA1, BRCA2, and the mismatch repair genes to ovarian cancer in the population. Hum Mol Genet 23:47034709, 2014
+9. Bolton KL, Tyrer J, Song H, et al: Common variants at 19p13 are associated with susceptibility to ovarian cancer. Nat Genet 42:880-884, 2010
+10. Shen H, Fridley BL, Song H, et al: Epigenetic analysis leads to identification of HNF1B as a subtype-specific susceptibility gene for ovarian cancer. Nat Commun 4:1628, 2013
+
+11. Song H, Ramus SJ, Tyrer J, et al: A genomewide association study identifies a new ovarian cancer susceptibility locus on 9p22.2. Nat Genet 41:996-1000, 2009
+12. Bojesen SE, Pooley KA, Johnatty SE, et al: Multiple independent variants at the TERT locus are associated with telomere length and risks of breast and ovarian cancer. Nat Genet 45:371-384, 384e1-2, 2013
+13. Goode EL, Chenevix-Trench G, Song H, et al: A genome-wide association study identifies susceptibility loci for ovarian cancer at 2q31 and 8q24. Nat Genet 42:874-879, 2010
+14. Permuth-Wey J, Lawrenson K, Shen HC, et al: Identification and molecular characterization of a new ovarian cancer susceptibility locus at 17q21.31. Nat Commun 4:1627, 2013
+15. Pharoah PD, Tsai YY, Ramus SJ, et al: GWAS meta-analysis and replication identifies three new susceptibility loci for ovarian cancer. Nat Genet 45:362-370, 370e1-e2, 2013
+16. Chen K, Ma H, Li L, et al: Genome-wide association study identifies new susceptibility loci for epithelial ovarian cancer in Han Chinese women. Nat Commun 5:4682, 2014
+17. Couch FJ, Wang X, McGuffog L, et al: Genome-wide association study in BRCA1 mutation carriers identifies novel loci associated with breast and ovarian cancer risk. PLoS Genet 9:e1003212, 2013
+18. Antoniou AC, Easton DF: Risk prediction models for familial breast cancer. Future Oncol 2:257274, 2006
+19. Meindl A, Hellebrand H, Wiek C, et al: Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat Genet 42:410-414, 2010
+20. Loveday C, Turnbull C, Ramsay E, et al: Germline mutations in RAD51D confer susceptibility to ovarian cancer. Nat Genet 43:879-882, 2011
+21. Rafnar T, Gudbjartsson DF, Sulem P, et al: Mutations in BRIP1 confer high risk of ovarian cancer. Nat Genet 43:1104-1107, 2011
+
+22. Rosenthal AN, Fraser L, Manchanda R, et al: Results of annual screening in phase I of the United Kingdom familial ovarian cancer screening study highlight the need for strict adherence to screening schedule. J Clin Oncol 31:49-57, 2013
+23. Li H, Durbin R: Fast and accurate long-read alignment with Burrows-Wheeler transform. Bioinformatics 26:589-595, 2010
+24. McKenna A, Hanna M, Banks E, et al: The genome analysis toolkit: A MapReduce framework for analyzing next-generation DNA sequencing data. Genome Res 20:1297-1303, 2010
+25. Wang K, Li M, Hakonarson H: ANNOVAR: Functional annotation of genetic variants from highthroughput sequencing data. Nucleic Acids Res 38: e164, 2010
+26. Adzhubei IA, Schmidt S, Peshkin L, et al: A method and server for predicting damaging missense mutations. Nat Methods 7:248-249, 2010
+27. Sim NL, Kumar P, Hu J, et al: SIFT web server: Predicting effects of amino acid substitutions on proteins. Nucleic Acids Res 40:W452-W457, 2012
+28. Choi Y, Sims GE, Murphy S, et al: Predicting the functional effect of amino acid substitutions and indels. PLoS One 7:e46688, 2012
+29. Eng L, Coutinho G, Nahas S, et al: Nonclassical splicing mutations in the coding and noncoding regions of the ATM gene: Maximum entropy estimates of splice junction strengths. Hum Mutat 23:67-76, 2004
+30. Osorio A, Endt D, Fernandez F, et al: Predominance of pathogenic missense variants in the RAD51C gene occurring in breast and ovarian cancer families. Hum Mol Genet 21:2889-2898, 2012
+31. Soegaard M, Kjaer SK, Cox M, et al: BRCA1 and BRCA2 mutation prevalence and clinical characteristics of a population-based series of ovarian cancer cases from Denmark. Clin Cancer Res 14: 3761-3767, 2008
+32. Cancer Registrations in England. Office for National Statistics. http://www.ons.gov.uk/ons/rel/ vsob1/cancer-registrations-in-england/index.html
+33. Tyrer JP, Guo Q, Easton DF, et al: The admixture maximum likelihood test to test for association
+
+2906 © 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Germline Mutations in RAD51 Genes and Ovarian Cancer
+
+between rare variants and disease phenotypes. BMC Bioinformatics 14:177, 2013
+34. Loveday C, Turnbull C, Ruark E, et al: Germline RAD51C mutations confer susceptibility to ovarian cancer. Nat Genet 44:475-476, 2012; author reply 476
+35. Pelttari LM, Heikkinen T, Thompson D, et al: RAD51C is a susceptibility gene for ovarian cancer. Hum Mol Genet 20:3278-3288, 2011
+36. Pennington KP, Walsh T, Harrell MI, et al: Germline and somatic mutations in homologous recombination genes predict platinum response and survival in ovarian, fallopian tube, and peritoneal carcinomas. Clin Cancer Res 20:764-775, 2014
+37. Thompson ER, Boyle SE, Johnson J, et al: Analysis of RAD51C germline mutations in high-risk
+
+breast and ovarian cancer families and ovarian cancer patients. Hum Mutat 33:95-99, 2012
+38. Vuorela M, Pylkas K, Hartikainen JM, et al: Further evidence for the contribution of the RAD51C gene in hereditary breast and ovarian cancer susceptibility. Breast Cancer Res Treat 130:1003-1010, 2011
+39. Walsh T, Casadei S, Lee MK, et al: Mutations in 12 genes for inherited ovarian, fallopian tube, and peritoneal carcinoma identified by massively parallel sequencing. Proc Natl Acad Sci USA 108:18032-18037, 2011
+40. Thompson ER, Rowley SM, Sawyer S, et al: Analysis of RAD51D in ovarian cancer patients and families with a history of ovarian or breast cancer. PLoS One 8:e54772, 2013
+41. Wickramanayake A, Bernier G, Pennil C, et al: Loss of function germline mutations in RAD51D in
+
+women with ovarian carcinoma. Gynecol Oncol 127: 552-555, 2012
+42. Lakhani SR, Manek S, Penault-Llorca F, et al: Pathology of ovarian cancers in BRCA1 and BRCA2 carriers. Clin Cancer Res 10:2473-2481, 2004
+43. Thompson D, Easton D: Variation in cancer risks, by mutation position, in BRCA2 mutation carriers. Am J Hum Genet 68:410-419, 2001
+44. Thompson D, Easton D, Breast Cancer Linkage Consortium: Variation in BRCA1 cancer risks by mutation position. Cancer Epidemiol Biomarkers Prev 11:329-336, 2002
+45. Miller KA, Sawicka D, Barsky D, et al: Domain mapping of the Rad51 paralog protein complexes. Nucleic Acids Res 32:169-178, 2004
+
+Affiliations Honglin Song, Ed Dicks, Jonathan P. Tyrer, Patricia Harrington, Jennifer Alsop, and Paul D.P. Pharoah, University of Cambridge; Mercedes Jimenez-Linan, Addenbrooke's Hospital, Cambridge; Jane Hayward, Lindsay Fraser, Susan Philpott, Christopher Anderson, Adam Rosenthal, Aleksandra Gentry-Maharaj, Usha Menon, and Ian J. Jacobs, University College London; David D. Bowtell, Imperial College London, London; Ian J. Jacobs, University of Manchester and Manchester Academic Health Science Centre, Manchester, United Kingdom; Susan J. Ramus, Maria P. Intermaggio, Christopher K. Edlund, David Conti, and Simon A. Gayther, University of Southern California, Los Angeles, CA; David D. Bowtell and Kathryn Alsop, Peter MacCallum Cancer Centre, East Melbourne; David D. Bowtell, University of Melbourne, Melbourne, Victoria, Australia; Mine S. Cicek, Julie M. Cunningham, and Ellen L. Goode, Mayo Clinic, Rochester, MN; Brooke L. Fridley, University of Kansas Medical Center, Kansas City, KS; Estrid Høgdall, Allan Jensen, and Susanne Krüger, Danish Cancer Society Research Center; Estrid Høgdall, Herlev Hospital, University of Copenhagen; Claus K. Høgdall and Susanne Krüger, Rigshospitalet, Copenhagen, Denmark; Jan Lubin´ ski, Tomasz Huzarski, Anna Jakubowska, and Jacek Gronwald, Pomeranian Medical University, Szczecin, Poland; and Samantha Poblete, Shashi Lele, Lara Sucheston-Campbell, Kirsten B. Moysich, and Kunle Odunsi, Roswell Park Cancer Institute, Buffalo, NY.
+Support Supported by the Cancer Councils of New South Wales, Victoria, Queensland, South Australia and Tasmania, Australia; the Cancer Foundation of Western Australia; Cancer Research UK (Grants No. C315/A2621, C490/A10119, C490/A10124, C490/A16561, C490/A6187, C1005/A12677, C1005/A6383, and C1005/A7749); the Danish Cancer Society (Grant No. 94 222 52); the Eve Appeal (the Oak Foundation); the Fred C. and Katherine B. Andersen Foundation; the Mermaid I project; the National Institutes of Health (Grants No. P30CA15083, P30CA016056, P50CA136393, R01CA122443, R01CA178535, R01CA61107, R01CA152990, and R01CA086381); the National Health and Medical Research Council of Australia (Grants No. ID400413 and ID400281); the Pomeranian Medical University; Queensland Cancer Fund; Roswell Park Cancer Institute Alliance Foundation; the United Kingdom Department of Health; the United Kingdom National Institute for Health Research Biomedical Research Centres at the University of Cambridge and at the University College London Hospitals; and the US Army Medical Research and Material Command (Grant No. DAMD17-01-1-0729). J.H. was funded by a United Kingdom Medical Research
+Council CASE industrial partnership PhD studentship. I.J.J. holds an NIHR senior investigator award.
+
+
+GLOSSARY TERMS
+
+allele: an alternative form of a gene (in diploids, one member
+of a pair) that is located at a specific position on a specific chromosome.
+missense mutation: a change (mutation) in one nucleotide
+that results in the coding of a different amino acid.
+
+penetrance: the likelihood that a given gene mutation will produce
+disease. This likelihood is calculated by examining the proportion of people with the particular genetic mutation that show symptoms of disease.
+
+www.jco.org
+
+© 2015 by American Society of Clinical Oncology 2907
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Song et al
+
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Contribution of Germline Mutations in the RAD51B, RAD51C, and RAD51D Genes to Ovarian Cancer in the Population
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I  Immediate Family Member, Inst  My Institution. Relationships may not relate to the subject matter of this manuscript. For more information about ASCO's conflict of interest policy, please refer to www.asco.org/rwc or jco.ascopubs.org/site/ifc.
+
+Honglin Song No relationship to disclose
+
+Jennifer Alsop No relationship to disclose
+
+Ed Dicks No relationship to disclose
+
+Mercedes Jimenez-Linan No relationship to disclose
+
+Susan J. Ramus No relationship to disclose
+Jonathan P. Tyrer No relationship to disclose
+Maria P. Intermaggio No relationship to disclose
+Jane Hayward No relationship to disclose
+Christopher K. Edlund Patents, Royalties, Other Intellectual Property: BioRealm
+David Conti Consulting or Advisory Role: BioRealm
+Patricia Harrington No relationship to disclose
+Lindsay Fraser No relationship to disclose
+Susan Philpott No relationship to disclose
+Christopher Anderson No relationship to disclose
+Adam Rosenthal Honoraria: Fujirebio Diagnostics Consulting or Advisory Role: Myriad Genetics Travel, Accommodations, Expenses: Fujirebio Diagnostics
+Aleksandra Gentry-Maharaj No relationship to disclose
+David D. Bowtell No relationship to disclose
+Kathryn Alsop Consulting or Advisory Role: AstraZeneca (Inst)
+Mine S. Cicek No relationship to disclose
+
+Estrid Høgdall No relationship to disclose
+Claus K. Høgdall No relationship to disclose
+Allan Jensen No relationship to disclose
+Susanne Krüger Kjaer No relationship to disclose
+Jan Lubin´ ski No relationship to disclose
+Tomasz Huzarski No relationship to disclose
+Anna Jakubowska No relationship to disclose
+Jacek Gronwald No relationship to disclose
+Samantha Poblete No relationship to disclose
+Shashi Lele No relationship to disclose
+Lara Sucheston-Campbell No relationship to disclose
+Kirsten B. Moysich No relationship to disclose
+Kunle Odunsi Research Funding: iTeos (Inst)
+Ellen L. Goode No relationship to disclose
+Usha Menon Stock or Other Ownership: Abcodia
+Ian J. Jacobs Employment: Abcodia Patents, Royalties, Other Intellectual Property: ROC Algorithm
+
+Julie M. Cunningham No relationship to disclose
+
+Simon A. Gayther No relationship to disclose
+
+Brooke L. Fridley No relationship to disclose
+
+Paul D.P. Pharoah No relationship to disclose
+
+© 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Germline Mutations in RAD51 Genes and Ovarian Cancer
+Acknowledgment We thank all of the study participants who contributed to this study and all of the researchers, clinicians, and technical and administrative staff who made this work possible. In particular, we thank the clinical and scientific collaborators listed at http://www.aocstudy.org/ ; E. Wozniak, A. Ryan, J. Ford, and N. Balogun (United Kingdom Ovarian Cancer Population Study); C. Pye (United Kingdom Familial Ovarian Cancer Registry); Marie Mack, Craig Luccarini, Caroline Baynes, the SEARCH team, and Eastern Cancer Registration and Information Centre (SEARCH); and Source BioScience laboratories in the United Kingdom at which some of the sequencing was performed.
+Appendix
+
+Table A1. Characteristics of the Patients With Ovarian Cancer
+
+Characteristic
+Mean (range) age at diagnosis, years
+Morphology High-grade serous Low-grade serous Serous Endometrioid Clear cell Mucinous Mixed Other Undifferentiated Unknown
+Stage 1 2 3 Unknown
+Grade Low High Unknown
+
+AOC (n  413)
+60.1 (23-79)
+359 (87)
+24 (5.8) 14 (3.4)
+3 (0.73) 3 (0.73) 2 (0.48) 6 (1.5) 1 (0.24) 1 (0.24) 359 (87)
+17 (4.1) 35 (8.5) 359 (87)
+2 (0.48)
+28 (6.8) 370 (90)
+15 (3.6)
+
+GRR (n  157)
+49.4 (21-83)
+54 (34)
+6 (3.8) 34 (22) 19 (12) 12 (7.6)
+8 (5.1) 2 (1.3) 21 (13) 1 (0.64) 54 (34)
+0 0 0 157 (100)
+18 (11) 74 (47) 65 (41)
+
+MAL (n  190)
+
+No. (%) of Patients by Study
+
+MAYO (n  912)
+
+POC (n  89)
+
+SEA (n  1,259)
+
+61.7 (38-80) 62.5 (23-91) 51.1 (21-77) 56.0 (19-74)
+
+137 (72)
+18 (9.5) 12 (6.3) 13 (6.8)
+6 (3.2) 2 (1.1)
+0 0 2 (1.1) 137 (72)
+10 (5.3) 31 (16) 149 (78)
+0
+42 (22) 135 (71)
+13 (6.8)
+
+654 (72)
+26 (2.9) 0
+110 (12) 55 (6.0) 25 (3.7) 31 (3.4) 11 (1.2) 0
+654 (72)
+141 (15) 51 (5.6)
+709 (78) 11 (1.2)
+128 (14) 754 (83)
+30 (3.3)
+
+26 (29)
+5 (5.6) 10 (11) 13 (15)
+1 (1.1) 9 (10) 1 (1.1) 24 (27)
+0 26 (29)
+3 (3.4) 2 (2.3) 9 (10) 75 (84)
+12 (13) 41 (46) 36 (40)
+
+341 (27)
+275 (22) 0
+214 (17) 144 (11) 116 (9.2)
+70 (5.6) 79 (6.3) 20 (1.6) 341 (27)
+442 (35) 115 (9.1) 431 (34) 271 (22)
+411 (33) 670 (53) 178 (14)
+
+UKR (n  48)
+53.0 (24-77)
+17 (35)
+2 (4.2) 6 (13) 5 (10) 2 (4.2) 3 (6.3) 1 (2.1) 11 (23) 1 (2.1) 17 (35)
+2 (4.2) 2 (4.2) 9 (19) 35 (73)
+7 (15) 28 (58) 13 (27)
+
+UKO (n  361)
+61.2 (25-90)
+266 (74)
+21 (5.8) 58 (16)
+6 (1.7) 2 (0.55) 1 (0.28) 5 (1.4) 2 (0.55)
+0 266 (74)
+27 (7.5) 71 (20) 244 (67) 19 (5.3)
+24 (6.6) 275 (76)
+62 (17)
+
+No. (%) of Total Patients (N  3,429)
+58.7 (19-91)
+1,806 (53)
+405 (12) 151 (4.4) 383 (11) 225 (6.6) 166 (4.8) 116 (3.4) 152 (4.4)
+25 (0.73) 1,806 (53)
+642 (19) 307 (9.0) 1,910 (56) 570 (17)
+670 (20) 2,347 (68)
+412 (15)
+
+Abbreviations: AOC, Australian Ovarian Cancer Study; GRR, Gilda Radner Familial Ovarian Cancer Registry; MAL, Malignant Ovarian Cancer Study; MAYO, Mayo
+Clinic Ovarian Cancer Study; POC, Poland Ovarian Cancer Study; SEA, Studies of Epidemiology and Risk Factors in Cancer Heredity; UKO, United Kingdom Ovarian
+Cancer Population Study; UKR, United Kingdom Familial Ovarian Cancer Registry. Stages were defined as follows: 1, localized; 2, regional; and 3, distant.
+
+Gene
+
+Accession No.
+
+No. of Coding Exons
+
+Table A2. Sequencing Coverage by Gene
+
+Total Coding Length (bp)
+
+No. of Amplicons Designed
+
+% Coding Sequence Covered by Design
+
+RAD51B RAD51C RAD51D
+
+NM_133509 NM_058216 NM_002878
+
+10 9
+10
+
+1,389 1,339 1,221
+
+23 19 14
+
+97 97 95
+
+Abbreviation: bp, base pair. The sequence also contains 20 bp in the intron for the 3= acceptor sites and 6 bp in the intron for the donor 5= sites.
+
+Mean % Sequence Covered by Read Depth  15
+85 93 90
+
+www.jco.org
+
+© 2015 by American Society of Clinical Oncology
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Song et al
+
+Table A3. Predicted Deleterious Mutations Found in RAD51B, RAD51C, and RAD51D
+
+Study and Patient Group
+
+Gene
+
+cDNA Change Location Protein Change
+
+Predicted Function
+
+Ovarian Breast
+
+Ref. Age, Cancer Cancer Grade
+
+Years
+
+FH1
+
+FH1 Group
+
+Histology Group
+
+Control SEA SEA AOC
+Patient case AOC SEA SEA MAL SEA POC POC AOC UKO UKR SEA MAYO POC AOC AOC SEA UKR MAL MAL SEA SEA UKO SEA MAYO SEA SEA SEA SEA
+
+RAD51C RAD51C RAD51D
+
+428AG 732delT 898CT
+
+Exon 3 Exon 5 Exon 9
+
+Q143R I244fs R300X
+
+Missense Frameshift deletion Nonsense
+
+RAD51B RAD51B RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D
+
+489TG 957GC 428AG 498delT 572-1GT 577CT 577CT 653_654del 706-2AG 706-2AG 732delT 774delT 905-2delAG 955CT 955CT 97CT 478CT 564_567del 564_567del 564delT 576  1GA 620CA 623dupT 655CT/649GT 741_742insTG 748delC 748delC 898CT
+
+Exon 6 Exon 9 Exon 3 Exon 3 Intron 3 Exon 4 Exon 4 Exon 4 Intron 4 Intron 4 Exon 5 Exon 5 Intron 6 Exon 7 Exon 7 Exon 1 Exon 5 Exon 6 Exon 6 Exon 6 Intron 6 Exon 7 Exon 7 Exon 7 Exon 9 Exon 9 Exon 9 Exon 9
+
+Y163X Q319H Q143R V166fs
+R193X R193X 218_218del
+I244fs R258fs
+R319X R319X Q33X Q160X 188_189del 188_189del T188fs
+S207X V208fs G217X/Q219X T248_N249delinsX H250fs H250fs R300X
+
+Nonsense Splicing Missense Frameshift deletion Splicing Nonsense Nonsense Frameshift deletion Splicing Splicing Frameshift deletion Frameshift deletion Splicing Nonsense Nonsense Nonsense Nonsense Frameshift deletion Frameshift deletion Frameshift deletion Splicing Nonsense Frameshift insertion Nonsense Nonsense Frameshift deletion Frameshift deletion Nonsense
+
+51 56 49
+62 61 49 52 54 60 41 64 65 50 48 55 52 74 40 61 56 59 76 59 66 59 54 73 56 67 47 62
+
+00 00 01
+2 Serous HG 0 0 2 Other 0 0 1 Serous LG 0 0 2 Serous HG 0 0 2 Serous HG
+Other 1 2 Serous HG 0 0 2 Serous HG 1 0 2 Serous HG 1 2 Serous HG 0 0 2 Serous HG 0 1 2 Clear cell 1 Endometrioid 0 1 2 Serous HG 0 1 2 Serous HG 0 0 2 Serous HG 1 0 2 Serous HG
+2 Serous HG 2 Serous HG 0 0 2 Serous HG 0 0 2 Endometrioid 0 0 2 Serous HG 0 1 2 Serous HG 0 0 2 Serous HG 0 0 2 Endometrioid 0 0 2 Serous HG 0 0 2 Serous HG 0 0 2 Endometrioid
+
+Abbreviations: AOC, Australian Ovarian Cancer Study; GRR, Gilda Radner Familial Ovarian Cancer Registry; MAL, Malignant Ovarian Cancer Study; MAYO, Mayo
+Clinic Ovarian Cancer Study; POC, Poland Ovarian Cancer Study; SEA, Studies of Epidemiology and Risk Factors in Cancer Heredity; Serous HG, high-grade serous;
+Serous LG, low-grade serous; UKO, United Kingdom Ovarian Cancer Population Study; UKR, United Kingdom Familial Ovarian Cancer Registry. First degree of family history.
+
+© 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Germline Mutations in RAD51 Genes and Ovarian Cancer
+
+Table A4. Catalog of Missense Mutations Found in RAD51B, RAD51C, and RAD51D
+
+Gene and Variant Type
+
+Chromosome Position cDNA
+
+No. of No. of Patient Exon Protein SIFT PolyPhen-2 Provean Score§ Controls Cases¶
+
+Common variant (MAF  1%; n  7)
+
+RAD51B
+
+14 68352648 515TG Exon 6 L172W 1
+
+RAD51B
+
+14 68353893 728AG Exon 7 K243R 1
+
+RAD51B
+
+14 69061259 1094CG Exon 11 P365R 0
+
+RAD51C
+
+17 56772522 376GA Exon 2 A126T 0
+
+RAD51C
+
+17 56798128 859AG Exon 6 T287A 1
+
+RAD51D
+
+17 33433487 494GA Exon 6 R165Q 0
+
+RAD51D
+
+17 33430313 698AG Exon 8 E233G 0
+
+Potentially deleterious rare variant (n  38)#
+
+RAD51B
+
+14 68331751 347AG Exon 5 Q116R 1
+
+RAD51B
+
+14 68331826 422TA Exon 5 I141N 1
+
+RAD51B
+
+14 68331829 425AG Exon 5 D142G 1
+
+RAD51B
+
+14 68352608 475CT Exon 6 R159C 1
+
+RAD51B
+
+14 68352609 476GA Exon 6 R159H 1
+
+RAD51B
+
+14 68352686 553TG Exon 6 C185G 0
+
+RAD51B
+
+14 68353814 649AG Exon 7 R217G 1
+
+RAD51B
+
+14 68878170 883GA Exon 9 A295T 1
+
+RAD51B
+
+14 68878171 884CT Exon 9 A295V 1
+
+RAD51C
+
+17 56770081 77AT Exon 1 K26M 1
+
+RAD51C
+
+17 56770084 80TC Exon 1 L27P 1
+
+RAD51C
+
+17 56772417 271CT Exon 2 L91F 1
+
+RAD51C
+
+17 56772481 335GT Exon 2 G112V 1
+
+RAD51C
+
+17 56772540 394AC Exon 2 T132P 1
+
+RAD51C
+
+17 56772543 397CA Exon 2 Q133K 1
+
+RAD51C
+
+17 56774068 419TG Exon 3 V140G 1
+
+RAD51C
+
+17 56774134 485GA Exon 3 G162E 1
+
+RAD51C
+
+17 56774146 497TG Exon 3 V166G 1
+
+RAD51C
+
+17 56780662 677TC Exon 4 L226P 1
+
+RAD51C
+
+17 56787260 746GA Exon 5 R249H 0
+
+RAD51C
+
+17 56787349 835GC Exon 5 A279P 1
+
+RAD51C
+
+17 56809885 1006AC Exon 8 T336P 1
+
+RAD51D
+
+17 33446607 26GC Exon 1 C9S 1
+
+RAD51D
+
+17 33445598 185CT Exon 3 S62L 1
+
+RAD51D
+
+17 33445581 202GA Exon 3 G68S 1
+
+RAD51D
+
+17 33434138 349TA Exon 5 C117S 1
+
+RAD51D
+
+17 33434081 406GC Exon 5 D136H 1
+
+RAD51D
+
+17 33433490 491TC Exon 6 L164P 1
+
+RAD51D
+
+17 33433488 493CT Exon 6 R165W 1
+
+RAD51D
+
+17 33433448 533TG Exon 6 M178R 1
+
+RAD51D
+
+17 33430511 629CT Exon 7 A210V 1
+
+RAD51D
+
+17 33430487 653GA Exon7 G218D 1
+
+RAD51D
+
+17 33430296 715CT Exon 8 R239W 1
+
+RAD51D
+
+17 33428338 785CT Exon 9 P262L 1
+
+RAD51D
+
+17 33428330 793GA Exon 9 G265R 1
+
+RAD51D
+
+17 33428309 814CT Exon 9 P272S 1
+
+RAD51D
+
+17 33428300 823CT Exon 9 R275W 1
+
+RAD51D
+
+17 33428015 944GA Exon 10 G315E 1
+
+Probably benign rare variant (n  67)
+
+RAD51B
+
+14 68290285 25GA Exon 2 V9M 0
+
+RAD51B
+
+14 68290324 64CT Exon 2 H22Y 0
+
+RAD51B
+
+14 68292196 100TC Exon 3 S34P 0
+
+RAD51B
+
+14 68292283 187AG Exon 3 K63E 0
+
+RAD51B
+
+14 68301803 205GA Exon 4 G69R 0
+
+RAD51B
+
+14 68301820 222GT Exon 4 R74S 0
+
+RAD51B
+
+14 68301824 226GA Exon 4 A76T 0
+
+RAD51B
+
+14 68301830 232TC Exon 4 F78L 0
+
+RAD51B
+
+14 68301863 265GA Exon 4 A89T 0
+
+RAD51B
+
+14 68301872 274GA Exon 4 E92K 0
+
+RAD51B
+
+14 68301894 296CT Exon 4 A99V 1
+
+(continued on following page)
+
+1 1 1 0 1 0 1
+1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 0 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 0
+0 0 1 0 0 0 0 0 0 0 0
+
+0 2 64 0 2 57 0 1 119 0 0 31 1 3 44 0 0 536 1 2 90
+
+13 13 13 13 13 12 13 13 12 13 13 13 13 13 13 13 13 12 13 12 13 12 12 12 13 13 13 13 13 12 13 13 13 13 13 13 13 12
+
+0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 1 0 0 2 1 0 0 0 0 1 1 0 0 0 0 2 1 0 1
+
+00 00 01 00 00 11 00 00 00 00 01
+
+1 0 1 1 2 1 0 0 0 1 0
+
+69 82 148 37 63 780 124
+1 0 0 2 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0 1 1 5 0 1 1 1 1 0 1 2 1 1 1 0 0 1 0
+0 1 0 1 0 0 1 1 1 1 1
+
+www.jco.org
+
+© 2015 by American Society of Clinical Oncology
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Song et al
+
+Table A4. Catalog of Missense Mutations Found in RAD51B, RAD51C, and RAD51D (continued)
+
+Gene and Variant Type
+
+Chromosome Position cDNA
+
+No. of No. of Patient Exon Protein SIFT PolyPhen-2 Provean Score§ Controls Cases¶
+
+RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51B RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51C RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D RAD51D
+
+14 68331763 359TC Exon 5 M120T 0
+
+14 68331840 436GA Exon 5 A146T 0
+
+14 68352659 526AG Exon 6 K176E 1
+
+14 68352672 539AG Exon 6 Y180C 0
+
+14 68353784 619GT Exon 7 V207L 0
+
+14 68353913 748TG Exon 7 S250A 0
+
+14 68878147 860CA Exon9 S287Y 1
+
+14 68878180 893AG Exon 9 N298S 0
+
+14 68878224 937CG Exon 9 L313V 0
+
+14 68934949 1018GC Exon 10 E340Q 0
+
+14 68934959 1028TC Exon 10 V343A 0
+
+14 69061225 1060CG Exon 11 Q354E 0
+
+14 69061226 1061AC Exon 11 Q354P 0
+
+14 69061228 1063GA Exon 11 A355T 0
+
+17
+
+56770011 7GA Exon 1 G3R
+
+0
+
+17 56770018 14CT Exon 1 T5M 1
+
+17 56770036 32AG Exon 1 Q11R 0
+
+17 56770131 127CT Exon 1 P43S 0
+
+17 56772345 199GA Exon 2 E67K 0
+
+17 56772359 213TA Exon 2 N71K 0
+
+17 56772390 244CA Exon 2 H82N 0
+
+17 56772398 252GT Exon 2 K84N 0
+
+17 56772504 358AG Exon 2 T120A 0
+
+17 56774057 408GA Exon 3 M136I 0
+
+17 56774080 431TC Exon 3 I144T 0
+
+17 56774142 493AT Exon 3 M165L 0
+
+17 56774155 506TC Exon 3 V169A 0
+
+17 56774158 509TG Exon 3 V170G 0
+
+17 56774170 521CG Exon 3 T174S 0
+
+17 56774214 565GA Exon 3 G189R 0
+
+17 56780592 607AG Exon 4 N203D 0
+
+17 56780605 620AG Exon 4 H207R 0
+
+17 56787298 784TG Exon 5 L262V 0
+
+17 56787304 790GA Exon 5 G264S 0
+
+17 56798141 872AT Exon 6 D291V 0
+
+17 56801448 952GA Exon 7 D318N 0
+
+17 56801452 956GA Exon 7 R319Q 0
+
+17 56811513 1061CT Exon 9 A354V 0
+
+17 56811542 1090AG Exon 9 S364G 0
+
+17 33446566 67CT Exon 1 H23Y 0
+
+17 33446143 131GA Exon 2 G44D 0
+
+17 33446143 131GC Exon 2 G44A 0
+
+17 33445575 208GA Exon 3 D70N 0
+
+17 33434132 355TC Exon 5 C119R 0
+
+17 33434093 394GA Exon 5 V132I 1
+
+17 33433451 530AG Exon 6 Q177R 0
+
+17 33433447 534GC Exon 6 M178I 0
+
+17 33433446 535CG Exon 6 L179V 0
+
+17 33433413 568GA Exon 6 A190T 0
+
+17 33428370 753AG Exon 9 I251M 0
+
+17 33428279 844GA Exon 9 E282K 0
+
+17 33428261 862GC Exon 9 G288R 0
+
+17 33428251 872GA Exon 9 R291H 0
+
+17 33428245 878CT Exon 9 A293V 0
+
+17 33428037 922AG Exon 10 M308V 0
+
+17 33428022 937AG Exon 10 T313A 0
+
+0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+00
+
+1
+
+01
+
+1
+
+01
+
+1
+
+0 0 20
+
+0 0 17
+
+00
+
+0
+
+01
+
+0
+
+01
+
+0
+
+00
+
+0
+
+00
+
+2
+
+00
+
+0
+
+00
+
+1
+
+00
+
+1
+
+0 0 13
+
+00
+
+0
+
+01
+
+1
+
+00
+
+0
+
+11
+
+0
+
+00
+
+0
+
+00
+
+1
+
+00
+
+0
+
+00
+
+0
+
+00
+
+1
+
+00
+
+1
+
+11
+
+1
+
+00
+
+1
+
+00
+
+1
+
+11
+
+1
+
+00
+
+0
+
+00
+
+0
+
+00
+
+0
+
+00
+
+0
+
+00
+
+1
+
+1 1 19
+
+00
+
+1
+
+00
+
+0
+
+00
+
+1
+
+00
+
+0
+
+00
+
+1
+
+00
+
+1
+
+00
+
+0
+
+00
+
+0
+
+11
+
+0
+
+00
+
+2
+
+01
+
+0
+
+00
+
+2
+
+00
+
+1
+
+00
+
+0
+
+00
+
+0
+
+00
+
+0
+
+00
+
+0
+
+00
+
+0
+
+00
+
+1
+
+00
+
+1
+
+00
+
+0
+
+00
+
+1
+
+0 1 0 39 22 2 1 1 1 0 1 0 0 21 1 0 1 1 1 0 1 1 0 0 0 2 0 1 1 1 1 1 4 23 0 1 1 1 0 1 1 1 1 2 2 0 0 1 2 1 1 1 0 0 1 0
+
+SIFT: 0, tolerated; 1, not tolerated. PolyPhen-2: 0, benign/possibly damaging; 1, probably damaging. Provean: 0, neutral; 1, deleterious. §Score: number of algorithms (SIFT/PolyPhen-2/Provean) that predict deleterious effect of the missense variant. No. of times the variant was identified in controls. ¶No. of times the variant was identified in controls. #At least two of three prediction algorithms predict deleterious effect on protein function.
+
+© 2015 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Germline Mutations in RAD51 Genes and Ovarian Cancer
+
+Table A5. Reported Targeted Sequencing on RAD51 Genes
+
+No. of Patients Analyzed
+
+No. (%) of RAD51 Mutations Identified
+
+Study and Location by Gene Total
+
+BC
+
+BC/OC OC uOC
+
+Controls Total BC BC/OC OC
+
+uOC
+
+Controls
+
+RAD51C
+
+Germany19
+
+1,100
+
+620
+
+480 0
+
+0 480  2,432 6 (0.5)
+
+6 (1.25) 0
+
+00
+
+Untied States (Zheng et al)
+
+92
+
+0
+
+92 0
+
+0
+
+0
+
+00
+
+00
+
+00
+
+Canada (Akbari et al)
+
+454 NS
+
+NS NS
+
+0
+
+0 0 NS NS NS 0
+
+Finland35
+
+2,747 130  2,061 139 8 409
+
+2,086 8 (0.3) 0 2 (1.4) 2 (25) 4 (1.0) 2 (0.1)
+
+Finland and Sweden38
+
+1,704 1,105
+
+35 0 232  332
+
+871 2 (0.1) 0 1 (2.8)
+
+0 1 (0.4)  0
+
+0
+
+United States (Clague et al) 286
+
+133
+
+34 119
+
+0
+
+0
+
+00
+
+00
+
+00
+
+Australia37
+
+1,655 1,053
+
+314 21 267
+
+427
+
+3 (0.2) 0 1 (0.3) 1 (4.8)
+
+1 (0.4)
+
+0
+
+The Netherlands and Canada
+
+(De Leeneer et al)
+
+351
+
+0
+
+239 112
+
+0
+
+0
+
+00
+
+00
+
+00
+
+Spain30
+
+785 485
+
+300 0
+
+0
+
+500 5 (0.6) 1 (0.2) 4 (1.3) 0
+
+00
+
+United States (Lu et al)
+
+192 157
+
+35 0
+
+0
+
+0
+
+00
+
+00
+
+00
+
+United Kingdom34
+
+1,404
+
+0 1,102 30 272
+
+1,156 12 (0.9)
+
+0 8 (0.7) 1 (3.3)
+
+3 (1.1)
+
+1 (0.09)
+
+France (Coulet et al)
+
+117 0
+
+82 35
+
+0
+
+0 3 (2.6) 0 2 (2.4) 1 (2.9)
+
+0
+
+0
+
+Germany (Schnurbein et al) 825
+
+500
+
+325 0
+
+0
+
+0 2 (0.3) 1 (0.2) 1 (0.3) 0
+
+00
+
+United States36
+
+367 0
+
+0 0 367
+
+0 3 (0.82) 0
+
+0 0 3 (0.82)
+
+0
+
+Spain (Blanco et al)
+
+516 410
+
+89 17
+
+0
+
+0 3 (0.6) 1 (0.24) 2 (2.2) 0
+
+00
+
+This study§
+
+3,429
+
+0
+
+0 294 3,135
+
+2,772 14 (0.41) 0
+
+0 4 (1.4) 10 (0.32) 2 (0.07)
+
+Total
+
+16,024 6,654
+
+3,266 636 5,014
+
+10,724
+
+61 3 27 9
+
+22
+
+5
+
+Total fully sequenced
+
+524 4,273
+
+4,903
+
+9 (0.017) 18 (0.004) 3 (0.0006)
+
+RAD51D
+
+United Kingdom20
+
+1,648
+
+737
+
+911 0
+
+0
+
+1,060
+
+0 8 (0.88) 0
+
+0 1 (0.09)
+
+Canada and Belgium (Osher et al)
+
+175
+
+0
+
+175 0
+
+0
+
+0 1 (0.57) 0 1 (0.57) 0
+
+00
+
+Finland (Pelttari et al)
+
+2,200
+
+95  297
+
+541
+
+1,287
+
+2
+
+3 (0.55)
+
+0
+
+United Kingdom40
+
+1,305
+
+741
+
+303 16 245
+
+466
+
+20
+
+0 0 2 (0.82)
+
+0
+
+Spain (Gutierrez-Enriquez et al)
+
+713 171
+
+491 51
+
+4 (0.81)
+
+United States36
+
+367 0
+
+0 0 367
+
+0
+
+40
+
+0 0 4 (1.1)
+
+0
+
+This study§
+
+3,429
+
+0
+
+0 294 3,135
+
+2,772
+
+1 (0.34) 11 (0.35) 1 (0.036)
+
+Total fully sequenced
+
+361 3,747
+
+4,298
+
+5 (1.4) 17 (0.45) 2 (0.046)
+
+Abbreviations: BC, breast cancer case proband from breast cancer familial study; BC/OC, breast and/or ovarian cancer proband from breast and/or ovarian cancer family; NS, not specified; OC, ovarian cancer proband from ovarian cancer family; uOC, ovarian cancer cases not selected based on family history. Unaffected controls. The subset was not fully sequenced but underwent genotyping for mutations detected previously. RAD51C study references: Zheng et al: Breast Cancer Res Treat 124:857-861, 2010; Akbari et al: Breast Cancer Res 12:404, 2010; Clague et al: PLoS One 6:e25632, 2011; De Leeneer et al: Breast Cancer Res Treat 133:393-398, 2012; Lu et al: Fam Cancer 11:381-385, 2012; Coulet et al: Clin Genet 83:332-336, 2013; Schnurbein et al: Breast Cancer Res 15:R120, 2013; Blanco et al: Breast Cancer Res Treat 147:133-143, 2014. §In the United States, United Kingdom, Australia, Denmark, and Poland. RAD51D study references: Osher et al: Br J Cancer 106:1460-3, 2012; Pelttari et al: J Med Genet 49:429-432, 2012; Gutierrez-Enriquez et al: Int J Cancer 134:2088-2097, 2014.
+
+www.jco.org
+
+© 2015 by American Society of Clinical Oncology
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 14, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+

@@ -1,0 +1,452 @@
+ARTICLE
+
+American Journal of Medical Genetics Part C (Semin. Med. Genet.) 129C:74­84 (2004)
+
+Genetic Insights into Familial Tumors of the Nervous System
+GERMAN MELEAN, ROBERTA SESTINI, FRANCO AMMANNATI, AND LAURA PAPI*
+
+Nervous system tumors represent unique neoplasms that arise within the central and peripheral nervous system. While the vast majority of nervous system neoplasm occur sporadically, most of the adult and pediatric forms have a hereditary equivalent. In a little over a decade, we have seen a tremendous increase in knowledge of the primary genetic basis of many of the familial cancer syndromes that involve the nervous system, syndromes that are mostly inherited as autosomal dominant traits. In this review, we discuss the most recent findings on the genetic basis of hereditary nervous system tumors. The identification of genes associated with familial cancer syndromes has in some families enabled a ``molecular diagnosis'' that complements clinical assessment and allows directed cancer surveillance for those individuals determined to be at-risk for disease. ß 2004 Wiley-Liss, Inc.
+KEY WORDS: familial CNS tumor; NF1; NF2; familial schwannomatosis; familial meningioma; familial glioma; familial posterior fossa brain tumors of infancy; tuberous sclerosis complex; von Hippel-Lindau disease; Li-Fraumeni syndrome; Gorlin syndrome; Carney complex; Turcot syndrome; melanoma-astrocytoma syndrome
+
+INTRODUCTION
+Tumors of the nervous system represent a unique, heterogeneous population of neoplasms, and include both benign and malignant forms. Nervous system tumors comprise those that grow within the central nervous system (CNS) (e.g., glioma, medulloblastoma, ependymoma, and meningioma), as well as those that
+Dr. German Melean, M.D., is a fellow in medical genetics at the Medical Genetics Unit, Department of Clinical Physiopathology, University of Florence, Florence, Italy.
+Dr. Roberta Sestini, Ph.D., is research assistant at the Medical Genetics Unit, Department of Clinical Physiopathology, University of Florence, Florence, Italy.
+Dr. Franco Ammannati, M.D., is a neurosurgeon specialized in the treatment of hereditary nervous system tumors. He is on staff at the Neurosurgery Unit of Careggi Hospital, Florence, Italy.
+Professor Laura Papi, M.D., Ph.D., is a medical geneticist, Associate Professor of Medical Genetics at the Department of Clinical Physiopathology of the University of Florence, Florence, Italy. She has a longstanding research interest in genetic aspects of inherited cancer syndromes.
+*Correspondence to: Laura Papi, Dipartimento di Fisiopatologia Clinica, Sezione di Genetica Medica, Universita` degli Studi di Firenze, Viale Pieraccini, 6, 50139 Firenze, Italy. E-mail: l.papi@dfc.unifi.it
+DOI 10.1002/ajmg.c.30022
+ß 2004 Wiley-Liss, Inc.
+
+are associated with peripheral nerves (e.g., schwannoma, neurofibroma, and malignant peripheral nerve sheath tumor).
+There are a number of familial syndromes that predispose individuals to the development of tumors, often multiple, within the CNS, including neurofibromatosis type 1 and 2, schwannomatosis, the familial syndromes of glioma, meningioma and medulloblastoma, and the familial posterior fossa brain tumors of infancy. Moreover, germline mutations in a number of genes, including TSC1/TSC2 (tuberous sclerosis complex), VHL (von HippelLindau disease), TP53 (Li-Fraumeni syndrome), PATCHED (Gorlin syndrome), PRKAR1A (Carney complex), CDKN2A (melanoma-astrocytoma syndrome), and APC and the mismatch repair genes hMSH2, hMLH1, and hPMS2 (Turcot syndrome) predispose individuals to familial cancer syndromes that include the development of CNS primitive tumors. Most genes so far associated with predisposition to nervous system tumors appear to act as tumor suppressors; constitutional alterations associated with somatic loss of the wild-type allele are observed in hereditary tumors, and often, biallelic somatic loss-of-function (LOF) mutations can be
+
+found in the corresponding sporadic tumors.
+The clinical manifestations and the genes responsible for the conditions reported in this review are summarized in Table I.
+NEUROFIBROMATOSES
+Neurofibromatoses consist of at least two different
+autosomal dominant disorders, neurofibromatosis type 1 and type 2, . . . . It is now clear that
+they represent two distinct entities, caused by mutations in different genes: the NF1 gene is located on chromosome 17q12, while the NF2 gene
+is located on 22q12.
+Neurofibromatoses consist of at least two different autosomal dominant disorders, neurofibromatosis type 1 and type 2, both of which for many years had been associated as part of the von Recklin-
+
+TABLE I. Hereditary Cancer Syndromes Predisposing to Nervous System Tumors
+
+Syndrome [OMIM]
+
+Nervous system tumors
+
+Tumors of other organs and apparatus
+
+Other features
+
+Inheritance
+
+Gene
+
+Neurofibromatosis type 1 [162200]
+Neurofibromatosis type 2 [101000]
+Familial schwannomatosis [162091]
+Familial meningioma [607174]
+Familial glioma [137800] Familial posterior fossa
+brain tumour [601607] Tuberous sclerosis
+[191100]
+von Hippel-Lindau [193300]
+Li-Fraumeni [151623]
+
+Neurofibroma, optic glioma, plexiform neurofibroma, neurofibrosarcoma, astrocytoma, meningioma
+Schwannoma, meningioma, ependymoma, astrocytoma, neurofibroma (occasional)
+Schwannoma
+
+Hypothalamic tumor, rhabdomyosarcoma Cafe-au-lait spots, axillary/inguinal freckling
+
+duodenal carcinoid, somatostatinoma,
+
+lisch nodules (iris hamartomas);
+
+parathyroid adenoma, pheochromocytoma macrocephaly; scoliosis, pseudoarthrosis,
+
+sphenoid dysplasia, thinning of long bone
+
+cortex, renal artery stenosis, hypertension;
+
+aqueductal stenosis; hydrocephalus; Learning
+
+disabilities (30%); mild mental retardation
+
+(10%)
+
+Juvenile posterior subcapsular lenticular
+
+capacities, juvenile cortical cataract, retinal
+
+hamartoma, occassional cafe-au-lait spots,
+
+NF2 plaques, mononeuropathy
+
+Meningioma
+
+Glioblastoma multiforme (or other astrocytomas)
+Rhabdoid tumor
+
+Usual onset less than 2 years of age
+
+Ependymoma, giant cell
+
+Multiple bilateral renal angiomyolipoma, Achromatic retinal patches, pitted dental
+
+astrocytoma, retinal astrocytoma myocardial rhabdomyoma, renal
+
+enamel, cystic areas of bone rarefaction,
+
+carcinoma, renal cysts, pacial angiofibroma, cafe-au-lait spots, white ash leaf-shaped
+
+gingival fibroma
+
+macules, shagreen patches, subungueal
+
+fibromata, subcutaneous nodules, cortical
+
+tubers, subependymal nodules, pulmonar
+
+lymphangiomyomatosis, mental retardation,
+
+epilepsy, autism
+
+Cerebellar hemangioblastoma, Pulmonary, adrenal, liver hemangiomas;
+
+Multiple renal cysts and pancreatic cysts
+
+spinal cord hemangioblastoma pancreatic and renal hemangioblastoma;
+
+bilateral papillary cystadenoma of the
+
+epididymis; renal cell carcinoma;
+
+hypernephroma; paraganglioma;
+
+pheochromocytoma; pancreatic cancer;
+
+adenocarcinoma of ampulla of Vater
+
+Astrocytoma, glioblastoma
+
+Rhabdomyosarcoma, soft tissue sarcoma,
+
+multiforme
+
+osteosarcoma; breast cancer; leukemia;
+
+melanoma; adrenocortical carcinoma;
+
+lymphocytic or histiocytic lymphoma; lung
+
+adenocarcinoma; gonadal germ cell tumors;
+
+prostate and pancreatic carcinoma
+
+AD NF1
+
+AD NF2
+
+AD ?
+
+AD ?
+
+AD? AR?
+
+? SNF5/INI1
+
+AD TSC1 TSC2
+
+AD VHL
+
+AD TP53
+
+Locus 17q11
+22q12
+9q34 16p13.3 3p26-p25 17p13
+
+AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.) 75
+
+ARTICLE
+
+Gorlin (Basal cell nervus Cerebellar medulloblastoma syndrome) [109400]
+
+Basal cell nevi, basal cell carcinoma, cardiac fibroma, ovarian fibromata, ovarian carcinoma
+Eyelid and atrial myxoma, myxoid subcutaneous tumors, testicular Sertoli cell tumor, pituitary adenoma, pheochromocytoma, mammary ductal fibroadenoma
+Cutaneous malignant melanoma
+
+Facial dysmorphism; mental retardation; bifid, synostotic and hypoplastic ribs; scoliosis, kyphoscoliosis; abnormal cervical vertebrae; brachydactyly; short 4th metacarpal; short thumb terminal phalanx; lung and lymphomesenteric cysts; hamartomatous stomach polyps
+Profuse pigmented skin lesions; centrofacial/ mucosal lentigines; ephelides; nevi; blue nevi; red hair; adrenocortical nodular hyperplasia (Cushing disease); Acromegaly
+
+AD
+
+PTCH
+
+9q22.3
+
+Carney complex [160980] Psammomatous melanotic schwannoma
+
+AD
+
+PRKAR1A 17q23-q24
+
+76 AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.)
+
+Melanoma-Astrocytoma syndrome [155755]
+Turcot [276300]
+
+Cerebral astrocytoma and other CNS tumors
+Medulloblastoma, glioblastoma multiforme, astrocytoma, ependymoma
+
+AD
+
+CDKN2A
+
+Colon cancer, basal cell carcinoma gastric cancer
+
+Cafe-au-lait spots; hyperpigmented spots
+
+AD AR?
+
+APC MSH2 MLH1 PMS2
+
+9p21 5q21 2p22-21 3p21 7p22
+
+ARTICLE
+ghausen disease spectrum. It is now clear that they represent two distinct entities, caused by mutations in different genes: the NF1 gene is located on chromosome 17q12, while the NF2 gene is located on 22q12.
+Neurofibromatosis Type 1
+Neurofibromatosis type 1 (NF1) is one of the most common autosomal dominant disorders in humans, affecting about 1 in 3,000 individuals. The reader is referred to recent reviews on NF1 (see the American Journal of Medical Genetics, Seminars in Medical Genetics, Volume 89, Issue 1, 1999) for a thorough discussion of NF1; the focus of this review will be limited to NF1-associated nervous system neoplasms. Peripheral
+Peripheral neurofibromas are the hallmark of NF1 . . . . They arise from cells in the peripheral nerve sheath and
+contain a mixture of cell types, such as Schwann cells, fibroblasts, mast cells, and vascular elements.
+neurofibromas are the hallmark of NF1; they are soft tumors that appear just before or during adolescence [Gutmann and Collins, 2002], and tend to increase in number and size with age. They arise from cells in the peripheral nerve sheath and contain a mixture of cell types, such as Schwann cells, fibroblasts, mast cells, and vascular elements [Lott and Richardson, 1981]. Neurofibromas may also arise from dorsal nerve roots. About 20% of NF1 individuals develop a more complex, often congenital lesion, called plexiform neurofibroma; it involves the skin, connective tissue, vessels, muscles and nerves, causing overgrowth of surrounding tissues [Waggoner et al., 2000]. In addition, a predisposition to develop nervous system malignancy has been noted in NF1 individuals (reviewed in Korf [2000]).
+
+ARTICLE
+
+AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.) 77
+
+NF1 patients have a 10% lifetime risk for developing malignant peripheral nerve sheath tumor (MPNST) or neurofibrosarcoma, which is one of the characteristic complications of NF1 [Evans et al., 2002]. It usually arises within a plexiform neurofibroma, and it is a very aggressive and often fatal malignancy. However, the most common CNS tumor seen in NF1 individuals is optic glioma. This tumor involves the optic nerve and/or chiasma and can be unilateral or bilateral. It usually arises in children under the age of six. By MRI scan, about 15­20% of children affected by NF1 have radiographic evidence of optic glioma, but the majority of these children never become symptomatic. Moreover, in NF1 individuals there is a moderately increased risk of CNS malignancies, mainly astrocytomas.
+Neurofibromatosis Type 2
+Neurofibromatosis type 2 (NF2) is an autosomal dominant syndrome that predisposes to the development of nervous system tumors. Bilateral vestibular
+Bilateral vestibular schwannomas are pathognomonic of the disorder; schwannomas arise from the nerve sheath and consist of Schwann cells in a collagenous matrix.
+schwannomas are pathognomonic of the disorder; schwannomas arise from the nerve sheath and consist of Schwann cells in a collagenous matrix. Patients often develop schwannomas of other cranial, spinal, and peripheral nerves, as well as intracranial and intraspinal meningiomas; less frequently, NF2 patients develop low grade gliomas and ependymomas. Other features often associated with the disease are neuronopathy (mainly affecting the facial nerve) and ophthalmic signs such as juvenile posterior subcapsular lenticular opacities (60­80% of patients), and retinal hamar-
+
+tomas. Cutaneous features in NF2 are less evident than in NF1: cafe´-au-lait spots and skin tumors can be found in about 45% and in 70% of patients, respectively. The most frequent skin tumor is a plaque-like lesion (NF2 plaque), which is intracutaneous, raised, and slightly pigmented compared to the adjacent skin. Occasionally, intracutaneous tumors similar to those of NF1 can be found; however, they are usually schwannomas and only rarely neurofibromas.
+NF2 displays variable age of onset, with most affected individuals presenting manifestations in the second to third decade of life. However, clinical variability is seen in the syndrome, and two distinct phenotypic subtypes can be identified: the severe form is characterized by a young age at onset, rapid progression of hearing loss, and multiple associated tumors, while the mild form occurs at an older age, and shows a slower deterioration of hearing and few associated tumors [Parry et al., 1994].
+The birth incidence of NF2 is 1 in 33,000 to 1 in 40,000, with a penetrance close to 100% by the age of 60 years [Evans et al., 1992]. Approximately 50% of NF2 patients do not have a family history of the disease, representing de novo mutations.
+The disease is caused by mutations in the NF2 tumor suppressor gene, located in 22q12 [Rouleau et al., 1993; Trofatter et al., 1993]. NF2 is a large gene made up of 17 exons distributed over approximately 110 kb of genomic DNA. Since its identification, germline mutations have been identified in 34­ 84% of NF2 patients investigated in different studies (NF2 mutation map: http://neurosugery.mgh.harvard.edu/ NFclinic/NFresearch.htm). These include single basepair substitutions, small deletions, and insertions in exons 1­15 of the NF2 coding sequence and in the corresponding intron-exon boundaries, as well as large deletions encompassing the gene [Bruder et al., 2001]. The majority of mutations are thought to encode for truncated proteins.
+A genotype-phenotype correlation has been described. Missense mutations have been mainly associated with a mild
+
+phenotype, while nonsense and frameshift mutations have been correlated with severe disease, regardless of their position in the gene [Evans et al., 1998]. The phenotype is more variable in patients with splice-site mutations.
+Recent evidence suggests that up to 25­30% of de novo patients represent somatic mosaics [Kluwe et al., 2003; Moyhuddin et al., 2003]. However, only two single cases of germline mosaicism in a clinically normal individual have been reported [Parry et al., 1996; Sestini et al., 2000]. Mosaicism may be common in sporadic NF2 patients with mild phenotypes, which might be the result of the lower number of mutated cells in the individual.
+The NF2 gene encodes for a 595amino acid protein called ``merlin'' [Trofatter et al., 1993], due to its similarity to three proteins of the ezrin, radixin, moezin (ERM) family (Merlin means ``moezin, ezrin, radixin-like'' protein); it is also known as ``schwannomin'' [Rouleau et al., 1993]. The ERMs are believed to organize specialized membrane domains by linking membrane-associated proteins to the actin cytoskeleton. The discovery that merlin is closely related to ERM proteins raised the question of how a protein localized in the cytoplasm could control cell proliferation. Although several studies have shown that merlin does indeed control cell proliferation, the specific pathways involved in transducing its growthsuppressive signal are still poorly understood (reviewed in McClatchey [2003]).
+FAMILIAL SCHWANNOMATOSIS
+Schwannomatosis is characterized by the onset of multiple intracranial, spinal, or
+peripheral schwannomas, without involvement of
+the vestibular nerve.
+
+78 AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.)
+
+ARTICLE
+
+Schwannomatosis is characterized by the onset of multiple intracranial, spinal, or peripheral schwannomas, without involvement of the vestibular nerve, which is instead pathognomonic of NF2 [Jacoby et al., 1997]. Only a few cases of familial schwannomatosis have been reported; in these, an autosomal dominant pattern of inheritance with incomplete penetrance and variable expressivity has been noted [Evans et al., 1997; MacCollin et al., 2003].
+The schwannomatosis phenotype has been shown to be linked to the chromosome 22q12.2 region, containing the NF2 gene, in two large families [Evans et al., 1997]. Moreover, in some schwannomatosis patients without germinal mutations of NF2, the analysis of multiple tumors revealed the same NF2 gene mutation in different tumors associated with the loss of the second allele [Honda et al., 1995; Jacoby et al., 1997]. It was, therefore, concluded that some schwannomatosis patients are somatic mosaics for NF2 gene changes.
+However, further studies have shown that some schwannomatosis patients, particularly those with a positive family history, may have an inherited predisposition to the development of tumors that carry somatic alterations of the NF2 gene, which appear not to be related to NF2 germline mutations. MacCollin et al. [2003] have demonstrated the occurrence of different NF2 mutations in the same allele in schwannomas arising in members of the same family. These NF2 mutations were accompanied by loss of the trans allele in all tumors. Although the family data were consistent with linkage of this trait to the NF2 locus, the study implied that the primary event in the tumors lay outside the coding region of the NF2 gene. From these data, two different hypotheses can be invoked to explain the molecular genetic basis of schwannomatosis. The first hypothesis posits the existence of a second tumor suppressor gene, SCH, that lies near NF2 on chromosome 22; according to this hypothesis schwannoma development should be dependent on four ``hits'' (two in the SCH and two in the NF2 tumor suppressors). The inactivating SCH
+
+mutation would cause the schwannomatosis condition; the acquired loss of the trans chromosome 22 would induce tumorigenesis by eliminating the normal copies of both SCH and NF2. The second hypothesis, based on the observation that loss of heterozygosity (LOH) events always occur trans to the inherited SCH allele, posits that the germinal event involves a structural element whose alteration predisposes to LOH on the trans chromosome 22. The molecular genetic basis of schwannomatosis is probably even more complex, taking into account that schwannomatosis patients showing different somatic NF2 mutations not associated with LOH of chromosome 22 have been observed, e.g., family 9 in MacCollin et al. [2003], and our observation of a sporadic patient in which the analysis of five different schwannomas showed three different NF2 somatic mutations without LOH on 22q (Papi et al., unpublished data).
+FAMILIAL MENINGIOMAS
+Meningiomas are common CNS human tumors; although they are usually classified as benign, about 25% cannot be treated due to their inaccessible anatomical location or to their invasiveness [Heinrich et al., 2003]. While the vast majority of meningiomas are sporadic, a few cases of familial meningioma have been reported in families with no evidence of neurofibromatosis [Sieb et al., 1992; Maxwell et al., 1998]. The mode of transmission was apparently autosomal dominant. Additionally, linkage studies indicate that the NF2 gene is not involved in familial meningiomas [Pulst et al., 1993; Maxwell et al., 1998].
+FAMILIAL GLIOMAS
+Gliomas are CNS neoplasms derived from glial cells
+and comprise astrocytomas, glioblastoma multiforme,
+oligodendrogliomas,
+
+and ependymomas . . . .
+Familial clustering of
+gliomas in the absence
+of these tumor syndromes
+has also been described.
+Gliomas are CNS neoplasms derived from glial cells and comprise astrocytomas, glioblastoma multiforme, oligodendrogliomas, and ependymomas. Gliomas are known to occur in association with several well-defined hereditary tumor syndromes such as NF1 and NF2, tuberous sclerosis, Li-Fraumeni syndrome, and Turcot syndrome.
+In addition, familial clustering of gliomas in the absence of these tumor syndromes has also been described. In most cases, the familial pattern is not typical, the cancers do not involve multiple generations, and early onset is not apparent [Grossman et al., 1999]. On the basis of segregation analyses, both autosomal recessive and multifactorial mendelian models have been suggested [Malmer et al., 2001; de Andrade et al., 2001].
+Several candidate genes for familial glioma have been investigated. The TP53 tumor suppressor gene has been the most frequently investigated candidate gene, but mutations have only seldom been found in the germ line of glioma families without Li-Fraumeni syndrome [Tachibana et al., 2000]. Other candidate genes studied, namely PTEN, CDKN2A, and CDK4, have not been found to harbor mutations in the germ line of familial glioma patients [Paunu et al., 2001].
+FAMILIAL POSTERIOR FOSSA BRAIN TUMORS OF INFANCY
+Malignant rhabdoid tumors (MRT) are aggressive malignancies that usually develop in infants and young children. They are formed, partially or totally, by rhabdoid cells, and their most common locations are the CNS and the kidney. Differential diagnosis is challenging, because in the brain, MRToften contain
+
+ARTICLE
+
+AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.) 79
+
+areas of primitive neuroepithelial cells, and/or mesenchymal tissue, and/or epithelial tissue; such lesions might be confused with medulloblastomas or primitive neuroectodermal tumors and, to a lesser extent, with choroid plexus carcinomas or germ-cell tumors [Rorke et al., 1996; Burger et al., 1998]. Acquired mutations of the hSNF5/ INI1/SMARCB1 gene, localized in 22q11, have recently been reported in CNS, renal, and soft-tissue rhabdoid tumors [Versteege et al., 1998; Biegel et al., 2002a], and germline mutations have been described in several infants with MRT [Biegel et al., 1999; Sevenet et al., 1999]. The hSNF5/INI1/ SMARCB1 protein is part of the ATPdependent SW1/SNF chromatin remodeling complex; this multiprotein complex has a role in remodeling nucleosomes and, therefore, in regulating the access of transcription factors to several different promoters (reviewed in Biegel et al. [2002b]).
+TUBEROUS SCLEROSIS COMPLEX
+Tuberous sclerosis complex (TSC) is a neurocutaneous syndrome, characterized by the development of hamartomas and benign tumors in the brain, heart, and kidney, sometimes associated with cognitive defects, epilepsy, and autism. The prevalence of TSC is 1 in 6,000 to 1 in 10,000 live births [Kwiatkowski, 2003]; it is inherited in an autosomal dominant manner, with 65­85% of all cases representing new mutations [Weiner et al., 1998].
+CNS lesions of TSC include tubers in the cerebral cortex, subependymal nodules (SENs), and subependymal giant cell
+astrocytomas (SGCAs).
+CNS lesions of TSC include tubers in the cerebral cortex, subependymal nodules (SENs), and subependymal giant cell astrocytomas (SGCAs). Cor-
+
+tical or subcortical tubers can be found in 70% of TSC individuals [Goodman et al., 1997]; they are static lesions that represent regions of cortical dysplasia that might result from aberrant neuronal migration during corticogenesis. SENs, which occurs in approximately 90% of TSC patients [Shepherd et al., 1991], are nodular regions that grow into the ventricles and are usually asymptomatic; however, they can expand, and when they do, they are called SGCAs. SGCAs arise in 6­14% of TSC individuals, with a mean age at diagnosis of 9.4 years [Torres et al., 1998]; their most common locations are the borders of the lateral ventricles, particularly the region of the foramen of Monro. SGCAs may grow and produce obstructive and pressure lesions.
+TSC occurs due to mutations in one of two genes: TSC1 on chromosome 9q34 [van Slegtenhorst et al., 1997] and TSC2, on 16p13.3 [European Chromosome 16 Tuberous Sclerosis Consortium, 1993]. TSC1 has 23 exons, encoding for an 1,164-amino acid protein called ``hamartin''; TSC2 has 42 exons, and the corresponding ``tuberin'' contains 1,807 amino acids. Roughly, 50% of TSC families are linked to TSC1 and 50% to TSC2 [Povey et al., 1994]. Mutations in TSC1 or TSC2 can be identified in 60­80% of TSC patients [Jones et al., 1999; Dabora et al., 2001]. Most of the germline mutations identified in TSC1 and TSC2 are unique; almost all identified TSC1 mutations are truncating, while about 20% of the TSC2 mutations are missense. TSC1 and TSC2 large chromosomal rearrangements have been reported, too. Among sporadic cases there is a higher incidence of TSC2 than TSC1 mutations, 65% and 10%, respectively [Jones et al., 1999; Dabora et al., 2001].
+Recent evidence has shown that hamartin forms heterodimers with tuberin; the intracellular signaling pathways regulated by hamartin and tuberin have been recently reviewed [Krymskaya, 2003]. Briefly, hamartin and tuberin control cell growth by negatively regulating S6 kinase and eukaryotic initiation factor 4E binding protein 1, potentially through their
+
+upstream modulator mammalian target of rapamycin (mTOR). Moreover, tuberin displays guanosine 50-triphosphatase (GTPase) activating (GAP) activity for Rap1 and Rab5, while hamartin interacts with cytoskeleton proteins such as neurofilament-L and ERM proteins. These latter interactions raise the questions: 1) Do tuberin and hamartin have a role in cytoskeleton rearrangement? 2) Is the GAP activity of tuberin critical for its tumor suppressor function?
+VON HIPPEL-LINDAU SYNDROME
+von Hippel-Lindau syndrome (VHL) is an autosomal dominant condition predisposing individuals to the development of a variety of malignant and benign neoplasms, most frequently retinal, cerebellar, and spinal hemangioblastomas, renal cell carcinomas, pheochromocytomas, and pancreatic tumors. Its incidence is estimated at 1 in 36,000 births per year [Maher et al., 1991]; about 20% of cases are due to new mutations.
+Hemangioblastomas are benign and usually cystic tumors which represent the most characteristic and frequent lesion of the syndrome, affecting 60­ 80% of all patients; moreover, VHL patients often develop more than one hemangioblastoma [Filling-Katz et al., 1991]. Hemangioblastomas are localized in the brain in 80% of VHL patients, while the spinal cord is involved in only 20% of cases; rarely, they develop from spinal roots or peripheral nerves. Hemangioblastomas represent less than 2% of all CNS tumors [Richard et al., 1998]; the average age at presentation is about 33 years in the VHL-related cases and 43 years in the sporadic ones [Maher et al., 1990]. Therefore, the
+The finding of multiple hemangioblastomas at young age is highly suggestive of VHL.
+
+80 AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.)
+
+ARTICLE
+
+finding of multiple hemangioblastomas at young age is highly suggestive of VHL.
+The syndrome is caused by germinal mutations in the VHL gene, located in 3p26, which comprises three exons and spans approximately 10 kb of genomic DNA [Latif et al., 1993]. VHL codes for a 213-amino acid protein, pVHL, which is expressed in most cells; it is mainly located in the cytoplasm, although it can be shuttled to the nucleus. pVHL has been implicated in a variety of functions at the transcriptional and posttranscriptional level [Kaelin and Maher, 1998]. Many studies suggest that the protein regulates the transcription of hypoxia-inducible genes by altering the stability of their mRNA. Unless a cell is oxygen deprived, pVHL normally shuts down the release of these factors; therefore, pVHL inactivation results in overexpression of hypoxiainducible mRNAs, including vascular endothelial growth factor (VEGF) [Kondo and Kaelin, 2001]. This is concordant with the high vascularization of VHL-related tumors.
+A wide spectrum of germinal mutations in the VHL gene have been identified. Complete and partial gene deletions can be found in 28% of VHL patients, while nonsense, missense, and splice-site mutations that affect any of the three exons (except the first 54 codons) are found in the remaining 72% of patients [Stolle et al., 1998].
+LI-FRAUMENI SYNDROME
+Li-Fraumeni syndrome (LFS) is a rare autosomal dominant disease that predisposes individuals to a wide range of cancers: typically, premenopausal breast cancer, sarcomas, acute leukemia, brain tumors, and adrenal cortex cancer, but also other tumors. Two different forms of LFS can be recognized: 1) classic LFS meets the following criteria: a proband with a sarcoma diagnosed before 45 years of age, a first-degree relative with any cancer diagnosed before 45 years of age, and a first- or seconddegree relative with any cancer diagnosed before 45 years of age or a sarcoma at any age [Li et al., 1988]; 2) Li-Fraumeni-like syndrome (LFL) is
+
+defined by the presence of a proband with any childhood tumor or sarcoma, brain or adrenocortical tumor before 45 years of age, plus a first- or seconddegree relative with a typical LFS tumor at any age, and another first- or seconddegree relative with any cancer before the age of 60 years [Birch, 1994].
+Breast carcinomas are the most frequent tumors in LFS (24%), followed by bone sarcomas (12.6%), brain tumors (12%), and soft tissue sarcomas (11.6%) [Kleihues et al., 1997]. The mean age of onset of brain tumors in LFS is 25 years [Kleihues et al., 1997], and several LFS families with a high incidence of CNS tumors have been described [Dockhorn-Dworniczak et al., 1996; Lynch et al., 2000]. Clustering of specific tumor types in some LFS families may reflect the different genetic background of the respective kindred, even though environmental factors can also play a role.
+The underlying genetic defect in many LFS families is a germline mutation in the TP53 gene [Malkin et al., 1990; Srivastava et al., 1990]. TP53 is a tumor suppressor gene that codifies for p53, a checkpoint protein that plays a crucial role in DNA damage repair and apoptosis. Following DNA damage, p53 can activate the transcription of downstream genes to promote DNA repair or it can direct signals to a sensor molecule in order to proceed with apoptosis [Vousden and Lu, 2002].
+TP53 germline mutations are found in 71­77% of classic LFS families, and in 22­40% of LFL families, when all exons are sequenced [Varley, 2003]. Most TP53 mutations are found within exons 5­8, including the splice-site junctions, with the majority being missense changes (Institute Curie Database; http://p53.curie.fr).
+Recently, it has been proposed that germline mutations in the checkpoint gene CHEK2 can also cause LFS [Bell et al., 1999]. CHEK2 is a tumor suppressor gene that acts as a checkpoint gene, activated in response to DNA damage; it codifies for a serine/threonine-protein kinase that phosphorylates p53 (reviewed in Bartek et al. [2001]). However, results of subsequent studies
+
+indicate that CHEK2 mutations probably do not predispose to LFS, but only to the breast cancers that arise within the context of certain LFS/LFL families in which no TP53 mutations can be identified [Sodha et al., 2002].
+GORLIN SYNDROME
+Gorlin syndrome (GS), also known as nevoid basal cell carcinoma syndrome (NBCCS), is characterized by the association of developmental abnormalities and an increased incidence of malignancy. Neoplastic manifestations are mainly basal cell carcinomas, medulloblastoma, and, occasionally, meningiomas [Gorlin, 1995; Kimonis et al., 1997]. It is inherited in an autosomal dominant manner, but about 20­30% of the probands represent de novo mutations. The prevalence of the syndrome is thought to be about 1 in 57,000 [Evans et al., 1991].
+Individuals with GS are at increased risk of developing childhood medulloblastoma: lifetime risk appears to be about 3­5% [Evans et al., 1991]. Moreover, medulloblastomas develop earlier in GS individuals than in the general population; in fact, the mean age at onset of medulloblastoma in GS patients is two years, as compared to seven years in the sporadic counterpart [Kimonis et al., 1997].
+The susceptibility gene for NBCC has been identified as the human homolog of the Drosophila melanogaster Patched gene, PTCH, which is located on 9q22.3 [Hahn et al., 1996; Johnson et al., 1996]. Mutations in PTCH are found in approximately 85% of the cases fulfilling the diagnostic criteria; they are spread throughout the entire gene with no apparent clustering, and the majority result in premature protein truncation [Wicking et al., 1997].
+PTCH encodes for the patched protein homolog 1 protein (Patched1), a transmembrane receptor for the secreted ligand sonic hedgehog (SHH) [Ingham, 1998]; moreover, Patched1 may associate with another transmembrane receptor, known as smoothened (SMOH). In the absence of bound SHH, SMOH and PTCH form an
+
+ARTICLE
+
+AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.) 81
+
+inactive complex; when SHH binds to PTCH, the complex is altered, and SMOH becomes free and able to transduce the signal into the cell. According to this model, the inhibition of SMOH signaling is relieved following mutational inactivation of PTCH in basal cell nevus syndrome. However, the mechanism by which activation of the hedgehog pathway leads to carcinogenesis is not entirely known (reviewed in di Magliano and Hebrok [2003]). GLI genes have a role in mediating the carcinogenic effect of hedgehog activation: GLI1 acts as an oncogene in brain tumors including medulloblastomas, and mouse models overexpressing gli1 or gli2 in epidermis develop tumors resembling basal cell carcinomas.
+CARNEY COMPLEX
+Carney complex (CNC) is a rare, multiple neoplasia syndrome characterized by the presence of skin pigmentary abnormalities associated with a predisposition to develop endocrine as well as cardiac, cutaneous, and neural tumors [Carney and Stratakis, 1998]. CNC is inherited in an autosomal dominant manner, but about 30% of the probands have a de novo mutation.
+Psammomatous melanotic schwannoma (PMS) is a rare nerve sheath tumor that differs
+from other schwannomas because of its high melanin pigmentation and the presence
+of psammoma bodies.
+Psammomatous melanotic schwannoma (PMS) is a rare nerve sheath tumor that differs from other schwannomas because of its high melanin pigmentation and the presence of psammoma bodies. About 10% of CNC patients develop PMS [Carney and Stratakis, 1998], which is often multicentric and may be localized anywhere in the central and peripheral nervous system; in 28% of cases there is
+
+involvement of the spinal nerve roots [Watson et al., 2000], but PMS can also affect the skin, the stomach, and the esophagus [Carney, 1990]. Moreover, PMS is one of the few CNC-associated tumors that may assume an aggressive behavior and metastasize to distant sites, mainly the lung and CNS, with a significant mortality rate [Watson et al., 2000].
+Linkage analysis in CNC families showed genetic heterogeneity, with at least two main loci involved. About 30% of CNC families have been linked to 2p15-p16 [Stratakis et al., 1996], but the gene contained in this region has yet to be isolated. In about 40% of the families, CNC is linked to chromosome 17q24 [Casey et al., 1998]. This region contains the PRKAR1A locus, which has been recognized as a CNC-predisposing gene [Kirschner et al., 2000a]. PRKAR1A gene mutations have been identified in about 41% of individuals with CNC [Kirschner et al., 2000b], and are mostly truncating. PRKAR1A encodes for the regulatory subunit Ia of the protein kinase A, the main mediator of cAMP signaling pathways [Stergiopoulos and Stratakis, 2003]. The absence of the PRKAR1A protein in CNC tumors is associated with a greater PKA response to cAMP [Kirschner et al., 2000b].
+MELANOMAASTROCYTOMA SYNDROME
+A few families that are characterized by the presence of malignant cutaneous melanoma and nervous system tumors, such as astrocytoma, neurofibroma, schwannoma, and meningioma have been described [Kaufman et al., 1993; Bahuau et al., 1997; Petronzelli et al., 2001; Randerson-Moor et al., 2001; Prowse et al., 2003]. This association has been termed melanoma-astrocytoma syndrome, due to the presence of astrocytomas in the first family recognized [Kaufman et al., 1993].
+The chromosomal region 9p21 is a major locus for predisposition to melanoma [Kamb et al., 1994]. In this region, two different candidate genes were mapped: CDKN2A, which
+
+encodes the p16INK4A and p14ARF proteins, through the use of an alternative exon 1 (1b), and CDKN2B, coding for p15 [Kamb et al., 1994; Stone et al., 1995]. p16INK4A is encoded by three exons [exons 1a, 2, and 3], whereas p14ARF is encoded by the alternative exon 1b, which splices into CDKN2A exon 2, but is translated into an alternative reading frame. Germline mutations of CDKN2A account for a proportion of melanoma kindreds [Dracopoli and Fountain, 1996]. In two melanoma-astrocytoma families, large deletions of 9p21 involving CDKN2A have been observed [Bahuau et al., 1998]; another family with a deletion involving exclusively CDKN2A exon 1b has been described [RandersonMoor et al., 2001]. Recently, two kindreds with melanoma and neurofibroma carrying splice-site mutations, predicted to remove exon 2 and thus affecting p16INK4A as well as p14ARF, have been identified [Petronzelli et al., 2001; Prowse et al., 2003]. It is therefore attractive to speculate that the cooperative effects of p16INK4A and p14ARF inactivation or the inactivation of p14ARF alone, might be responsible for the development of nervous system tumors in these families. p16INK4A and p14ARF have different functions: p16INK4A acts, with p15, in the retinoblastoma pathway as a specific CDK4/ CDK6 inhibitor [Roussel, 1999], while p14ARF acts in both p53 and retinoblastoma pathways via a common protein, MDM2 [Xiao et al., 1995; Weber et al., 1999].
+TURCOT SYNDROME
+Turcot syndrome (TS) is characterized by the occurrence of a primary brain tumor and multiple colorectal adenomas and/or colorectal adenocarcinoma. In Turcot patients, the most frequent brain tumors are astrocytomas, glioblastomas and medulloblastomas; ependymoma, spongioblastoma, gliosarcoma, and oligodendroglioma have also been reported [Hamada et al., 1998].
+Recently, TS has been divided in two subgroups. One subgroup has hundreds to thousands of polyps in the
+
+82 AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.)
+
+ARTICLE
+
+colon and has a greatly increased risk of medulloblastoma [Hamilton et al., 1995; Paraf et al., 1997]. These patients tend to have mutations in the adenomatous polyposis coli (APC) gene on chromosome 5q21 [Hamilton et al., 1995]. On the other hand, some patients present fewer polyps of the colon and develop colorectal cancer and glial tumors. These patients have mutations in the DNA mismatch repair (MMR) genes, such as hMSH2, hMLH1, and hPMS2 [Lucci-Cordisco et al., 2003]. Patients with germline mutations in MMR genes do not appear to have an increased risk of medulloblastoma, and sporadic medulloblastomas do not show microsatellite instability, the hallmark of MMR mutations [Hamilton et al., 1995; Lee et al., 1998]. Although the distinction between these two forms of TS is attractive, it might be an oversimplification. Indeed, there are reports of medulloblastoma, colon cancer, and glioblastoma occurring in the same patient [McLaughlin et al., 1998], and the family originally described by Turcot et al. [1968] included a glial tumor as well as a medulloblastoma in two siblings born from a consanguineous marriage. The mode of inheritance of TS syndrome (autosomal recessive or dominant) has been a controversial issue for some time. From this point of view, a TS patient which was a compound heterozygote for PMS2 mutations has been described [De Rosa et al., 2000].
+CONCLUSIONS
+In conclusion, in this short review, we have presented the most recent findings on the genetics of hereditary tumors of the nervous system. Although rare, hereditary tumor syndromes need to be recognized in individual patients, as they can alter clinical management. For example, omitting or limiting radiation therapy in individuals with NF2 and GS should be considered. Moreover, families will require information concerning the risk of additional neoplasms in the proband and the possibility of disease in other family members. It is likely that in the future additional
+
+familial syndromes associated with ner-
+vous system tumors will be identified,
+thus providing further insights into the
+pathogenesis of these aggressive tumors.
+The challenge for the future will be to
+expand our knowledge into a more
+complete understanding of the normal functions of the genes involved in the
+inherited predisposition to nervous sys-
+tem tumors; this should ultimately
+translate into significant improvements
+in the management of affected patients,
+possibly through the development of
+new therapies based on the discovery of
+new molecular targets.
+REFERENCES
+Bahuau M, Vidaud D, Kujas M, Palangie A, Assouline B, Chaignaud-Lebreton M, Prieur M, Vidaud M, Harpey JP, Lafourcade J, Caille B. 1997. Familial aggregation of malignant melanoma/dysplastic naevi and tumors of the nervous system: an original syndrome of tumour proneness. Ann Genet 40:78 ­ 91.
+Bahuau M, Vidaud D, Jenkins RB, Bieche I, Kimmel DW, Assouline B, Smith JS, Alderete B, Cayuela JM, Harpey JP, Caille B, Vidaud M. 1998. Germ-line deletion involving the INK4 locus in familial proneness to melanoma and nervous system tumours. Cancer Res 58:2298­2303.
+Bartek J, Falck J, Lukas J. 2001. CHK2 kinase-a busy messenger. Nat Rev Mol Cell Biol 2:877 ­ 886.
+Bell DW, Varley JM, Szydlo TE, Kang DH, Wahrer DCR, Shannon KE, Lubratovich M, Verselis SJ, Isselbacher KJ, Fraumeni JF, Birch JM, Li FP, Garber JE, Haber DA. 1999. Heterozygous germ line hCHK2 mutations in Li-Fraumeni syndrome. Science 286:2528 ­ 2531.
+Biegel JA, Zhou JY, Rorke LB, Stenstrom C, Wainwright LM, Fogelgren B. 1999. Germline and acquired mutations of INI1 in atypical teratoid rhabdoid tumors. Cancer Res 59:7479.
+Biegel JA, Tan L, Zhang F, Wainwright L, Pierre R, Rorke L. 2002a. Alterations of the SNF5/INI1 gene in central nervous system atypical teratoid/rhabdoid tumors and renal and extrarenal rhabdoid tumors. Clin Cancer Res 8:3461­3467.
+Biegel JA, Kalpana G, Knudsen ES, Packer RJ, Roberts CW, Thiele CJ, Weissman B, Smith M. 2002b. The role of INI1 and the SWI/ SNF complex in the development of rhabdoid tumors: meeting summary from the workshop on childhood atypical teratoid/rhabdoid tumors. Cancer Res 62: 323 ­ 328.
+Birch JM. 1994. Li-Fraumeni syndrome. Eur J Cancer 30A:1935­1941.
+Bruder CE, Hirvela C, Tapia-Paez I, Fransson I, Segraves R, Hamilton G, Zhang XX, Evans DG, Wallace AJ, Baser ME, Zucman-Rossi J, Hergersberg M, Boltshauser E, Papi L,
+
+Rouleau GA, Poptodorov G, Jordanova A, Rask-Andersen H, Kluwe L, Mautner V, Sainio M, Hung G, Mathiesen T, Moller C, Pulst SM, Harder H, Heiberg A, Honda M, Niimura M, Sahlen S, Blennow E, Albertson DG, Pinkel D, Dumanski JP. 2001. High resolution deletion analysis of constitutional DNA from neurofibromatosis type 2 (NF2) patients using microarrayCGH. Hum Mol Genet 10:271­282. Burger PC, Yu IT, Tihan T, Friedman HS, Strother DR, Kepner JL, Duffner PK, Kun LE, Perlman EJ. 1998. Atypical teratoid/ rhabdoid tumor of the central nervous system: a highly malignant tumor of infancy and childhood frequently mistaken for medulloblastoma, a pediatric oncology group study. Am J Surg Pathol 22:1083­ 1092. Carney JA. 1990. Psammomatous melanotic schwannoma. A distinctive, heritable tumor with special associations, including cardiac myxoma and the Cushing syndrome. Am J Surg Pathol 14:206­222. Carney JA, Stratakis CA. 1998. Epithelioid blue nevus and psammomatous melanotic schwannoma: the unusual pigmented skin tumors of the Carney complex. Semin Diagn Pathol 15:216­224. Casey M, Mah C, Merliss AD, Kirschner LS, Taymans SE, Denio AE, Korf B, Irvine AD, Hughes A, Carney JA, Stratakis CA, Basson CT. 1998. Identification of a novel genetic locus for familial cardiac myxomas and Carney complex. Circulation 98:2560­ 2566. Dabora SL, Jozwiak S, Franz DN, Roberts PS, Nieto A, Chung J, Choy YS, Reeve MP, Thiele E, Egelhoff JC, Kasprzyk-Obara J, Domanska-Pakiela D, Kwiatkowski DJ. 2001. Mutational analysis in a cohort of 224 tuberous sclerosis patients indicates increased severity of TSC2, compared with TSC1, disease in multiple organs. Am J Hum Genet 68:64­80. de Andrade M, Barnholtz JS, Amos CI, Adatto P, Spencer C, Bondy ML. 2001. Segregation analysis of cancer in families of glioma patients. Genet Epidemiol 20:258­270. De Rosa M, Fasano C, Panariello L, Scarano MI, Belli G, Iannelli A, Ciciliano F, Izzo P. 2000. Evidence for a recessive inheritance of Turcot's syndrome caused by compound heterozygous mutations within the PMS2 gene. Oncogene 19:1719­1723. di Magliano MP, Hebrok M. 2003. Hedgehog signalling in cancer formation and maintenance. Nat Rev Cancer 3:903­911. Dockhorn-Dworniczak B, Wolff J, Poremba C, Schafer KL, Ritter J, Gullotta F, Jurgens H, Bocker W. 1996. A new germline TP53 gene mutation in a family with Li-Fraumeni syndrome. Eur J Cancer 32A:1359­1365. Dracopoli NC, Fountain JW. 1996. CDKN2 mutations in melanoma. Cancer Surv 26:115 ­ 132. European Chromosome 16 Tuberous Sclerosis Consortium. 1993. Identification and characterisation of the tuberous sclerosis gene on chromosome 16. Cell 75:1305­1315. Evans DG, Farndon PA, Burnell LD, Gattamaneni HR, Birch JM. 1991. The incidence of Gorlin syndrome in 173 consecutive cases of medulloblastoma. Br J Cancer 64:959­961.
+
+ARTICLE
+
+AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.) 83
+
+Evans DGR, Huson SM, Donnai D, Neary W, Blair V, Teare D, Newton V, Strachan T, Ramsden R, Harris R. 1992. A genetic study of type 2 neurofibromatosis in the United Kingdom. I. Prevalence, mutation rate, fitness and confirmation of maternal transmission effect on severity. J Med Genet 29:841 ­ 846.
+Evans DGR, Mason S, Huson SM, Ponder M, Harding AE, Strachan T. 1997. Spinal and cutaneous schwannomatosis is a variant form of type 2 neurofibromatosis: a clinical and molecular study. J Neurol Neurosurg Psychiatry 62:361­366.
+Evans DG, Trueman L, Wallace A, Collins S, Strachan T. 1998. Genotype/phenotype correlations in type 2 neurofibromatosis (NF2): evidence for more severe disease associated with truncating mutations. J Med Genet 35:450­455.
+Evans DG, Baser ME, McGaughran J, Sharif S, Howard E, Moran A. 2002. Malignant peripheral nerve sheath tumours in neurofibromatosis 1. J Med Genet 39:311­314.
+Filling-Katz MR, Choyke PL, Oldfield E, Charnas L, Patronas NJ, Glenn GM, Gorin MB, Morgan JK, Linehan WM, Seizinger BR. 1991. Central nervous system involvement in Von Hippel-Lindau disease. Neurology 41:41­46.
+Goodman M, Lamm SH, Engel A, Shepherd CW, Houser OW, Gomez MR. 1997. Cortical tuber count: a biomarker indicating neurologic severity of tuberous sclerosis complex. J Child Neurol 12:85­90.
+Gorlin RJ. 1995. Nevoid basal cell carcinoma syndrome. Dermatol Clin 13:113­125.
+Grossman SA, Osman M, Hruban R, Piantadosi S. 1999. Central nervous system cancers in first-degree relatives and spouses. Cancer Invest 17:299­308.
+Gutmann DH, Collins FS. 2002. Neurofibromitosis 1. In the genetic basis of human cancer. 2nd ed. New York: McGraw-Hill; pp. 417­ 437.
+Hahn H, Wicking C, Zaphiropoulous PG, Gailani MR, Shanley S, Chidambaram A, Vorechovsky I, Holmberg E, Unden AB, Gillies S, Negus K, Smyth I, Pressman C, Leffell DJ, Gerrard B, Goldstein AM, Dean M, Toftgard R, Chenevix-Trench G, Wainwright B, Bale AE. 1996. Mutations of the human homolog of Drosophila patched in the nevoid basal cell carcinoma syndrome. Cell 85:841­851.
+Hamada H, Kurimoto M, Endo S, Ogiichi T, Akai T, Takaku A. 1998. Turcot's syndrome presenting with medulloblastoma and familiar adenomatous polyposis: a case report and review of the literature. Acta Neurochir (Wien) 140:631­632.
+Hamilton SR, Liu B, Parsons RE, Papadopoulos N, Jen J, Powell SM, Krush AJ, Berk T, Cohen Z, Tetu B, Burger PC, Wood PA, Taqi F, Booker SV, Petersen GM, Offerhaus GJA, Tersmette AC, Giardiello FM, Vogelstein B, Kinzler KW. 1995. The molecular basis of Turcot's syndrome. N Engl J Med 332:839 ­ 847.
+Heinrich B, Hartmann C, Semmer-Rachamimov A, Louis D, MacCollin M. 2003. Multiple meningiomas: investigating the molecular basis of sporadic and familial forms. Int J Cancer 103:483­488.
+
+Honda M, Arai E, Sawada S, Ohta A, Niimura M. 1995. Neurofibromatosis 2 and neurilemmomatosis gene are identical. J Invest Derm 104:74 ­ 77.
+Ingham PW. 1998. The patched gene in development and cancer. Curr Opin Genet Dev 8:88 ­ 94.
+Jacoby LB, Jones D, Davis K, Kronn D, Short MP, Gusella J, McCollin M. 1997. Molecular analysis of the NF2 tumor-suppressor gene in schwannomatosis. Am J Hum Genet 61: 1293 ­ 1302.
+Johnson RL, Rothman AL, Xie J, Goodrich LV, Bare JW, Bonifas JM, Quinn AG, Myers RM, Cox DR, Epstein EH Jr, Scott MP. 1996. Human homolog of patched, a candidate gene for the basal cell nevus syndrome. Science 272:1668­1671.
+Jones AC, Shyamsundar MM, Thomas MW, Maynard J, Idziaszczyk S, Tomkins S, Sampson JR, Cheadle JP. 1999. Comprehensive mutation analysis of TSC1 and TSC2 and phenotypic correlations in 150 families with tuberous sclerosis. Am J Hum Genet 64:1305­1315.
+Kaelin WG Jr, Maher ER. 1998. The VHL tumour-suppressor gene paradigm. Trends Genet 14:423­426.
+Kamb A, Gruis NA, Weaver-Feldhaus J, Liu Q, Harshman K, Tavtigian SV, Stockert E, Day RS 3rd, Johnson BE, Skolnick MH. 1994. A cell cycle regulator potentially involved in genesis of many tumor types. Science 264: 436 ­ 440.
+Kaufman DK, Kimmel DW, Parisi JE, Michels VV. 1993. A familial syndrome with cutaneous malignant melanoma and cerebral astrocytoma. Neurology 43:1728­ 1731.
+Kimonis VE, Goldstein AM, Pastakia B, Yang ML, Kase R, DiGiovanna JJ, Bale AE, Bale SJ. 1997. Clinical manifestations in 105 persons with nevoid basal cell carcinoma syndrome. Am J Med Genet 69:299­308.
+Kirschner LS, Carney JA, Pack SD, Taymans SE, Giatzakis C, Cho YS, Cho-Chung YS, Stratakis CA. 2000a. Mutations of the gene encoding the protein kinase A type I-alpha regulatory subunit in patients with the Carney complex. Nat Genet 26:89­92.
+Kirschner LS, Sandrini F, Monbo J, Lin JP, Carney JA, Stratakis CA. 2000b. Genetic heterogeneity and spectrum of mutations of the PRKAR1A gene in patients with the carney complex. Hum Mol Genet 9:3037­ 3046.
+Kleihues P, Schauble B, zur Hausen A, Esteve J, Ohgaki H. 1997. Tumors associated with p53 germline mutations: a synopsis of 91 families. Am J Pathol 150:1­13.
+Kluwe L, Mautner V, Heinrich B, Dezube R, Jacoby LB, Friedrich RE, MacCollin M. 2003. Molecular study of frequency of mosaicism in neurofibromatosis 2 patients with bilateral vestibular schwannomas. J Med Genet 40:109­114.
+Kondo K, Kaelin WG. 2001. The von HippelLindau tumour suppressor gene. Exp Cell Res 264:117­125.
+Korf BR. 2000. Malignancy in neurofibromatosis type 1. Oncologist 5:477­485.
+Krymskaya VP. 2003. Tumour suppressors hamartin and tuberin: intracellular signalling. Cell Signal 15:729­739.
+
+Kwiatkowski DJ. 2003. Tuberous sclerosis: from tubers to mTOR. Ann Hum Genet 67:87­ 96.
+Latif F, Tory K, Gnarra J, Yao M, Duh FM, Orcutt ML, Stackhouse T, Kuzmin I, Modi W, Geil L, Schmidt L, Zhou FW, Li H, Wei MH, Chen F, Glenn GM, Choyke PL, Walther MM, Weng Y, Duan DR, Dean M, Glavac D, Richards FM, Crossey PA, Ferguson Smith MA, Paslier LD, Chumakov I, Cohen D, Chinault AC, Maher ER, Linehan WM, Zbar B, Lerman MI. 1993. Identification of the von Hippel-Lindau disease tumor suppressor gene. Science 260:1317­1320.
+Lee SE, Johnson SP, Hale LP, Li J, Bullock N, Fuchs H, Friedman A, McLendon R, Bigner DD, Modrich P, Friedman HS. 1998. Analysis of DNA mismatch repair proteins in human medulloblastoma. Clin Cancer Res 4:1415­1419.
+Li FP, Fraumeni JF Jr, Mulvihill JJ, Blattner WA, Dreyfus MG, Tucker MA, Miller RW. 1988. A cancer family syndrome in twenty-four kindreds. Cancer Res 48:5358­5362.
+Lott IT, Richardson EP Jr. 1981. Neuropathological findings and the biology of neurofibromatosis. Adv Neurol 29:23­32.
+Lucci-Cordisco E, Zito I, Gensini F, Genuardi M. 2003. Hereditary nonpolyposis colorectal cancer and related conditions. Am J Med Genet 122A:325­334.
+Lynch HT, McComb RD, Osborn NK, Wolpert PA, Lynch JF, Wszolek ZK, Sidransky D, Steg RE. 2000. Predominance of brain tumors in an extended Li-Fraumeni (SBLA) kindred, including a case of Sturge-Weber syndrome. Cancer 88:433­439.
+MacCollin M, Willett C, Heinrich B, Jacoby LB, Acierno JS, Perry A Jr, Louis DN. 2003. Familial schwannomatosis: exclusion of the NF2 locus as the germline event. Neurology 60:1968 ­ 1974.
+Maher ER, Yates JRW, Ferguson-Smith MA. 1990. Statistical analysis of the two stage mutation model in von Hippel-Lindau disease, and in sporadic cerebellar haemangioblastoma and renal cell carcinoma. J Med Genet 27:311­314.
+Maher ER, Iselius L, Yates JRW, Littler M, Benjamin C, Harris R, Sampson J, Williams A, Ferguson-Smith MA, Morton N. 1991. Von Hippel-Lindau disease: a genetic study. J Med Genet 28:443­447.
+Malkin D, Li FP, Strong LC, Fraumeni JF, Nelson CE, Kim DH, Kassel J, Gryka MA, Bischoff FZ, Tainsky MA. 1990. Germline p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 250:1233­1238.
+Malmer B, Iselius L, Holmberg E, Collins A, Henriksson R, Gronberg H. 2001. Genetic epidemiology of glioma. Br J Cancer 84: 429 ­ 434.
+Maxwell M, Shih SD, Galanopoulos T, HedleyWhyte ET, Cosgrove GR. 1998. Familial meningioma: analysis of expression of neurofibromatosis 2 protein merlin: report of two cases. J Neurosurg 88:562­569.
+McClatchey AI. 2003. Merlin and ERM proteins: unappreciated roles in cancer development? Nat Rev Cancer 3:877­883.
+McLaughlin MR, Gollin SM, Lese CM, Albright AL. 1998. Medulloblastoma and glioblastoma multiforme in a patient with Turcot
+
+84 AMERICAN JOURNAL OF MEDICAL GENETICS (SEMIN. MED. GENET.)
+
+ARTICLE
+
+syndrome: a case report. Surg Neurol 49: 295 ­ 301. Moyhuddin A, Baser ME, Watson C, Purcell S, Ramsden RT, Heiberg A, Wallace AJ, Evans DG. 2003. Somatic mosaicism in neurofibromatosis 2: prevalence and risk of disease transmission to offspring. J Med Genet 40: 459 ­ 463. Paraf F, Jothy S, Van Meir EG. 1997. Brain tumorpolyposis syndrome: two genetic diseases? J Clin Oncol 15:2744­2758. Parry DM, Eldridge R, Kaiser-Kupfer MI, Bouzas EA, Pikus A, Patronas N. 1994. Neurofibromatosis type 2 (NF2): clinical characteristics of 63 affected individuals and clinical evidence for heterogeneity. Am J Med Genet 52:450­461. Parry DM, MacCollin MM, Kaiser-Kupfer MI, Pulaski K, Nicholson HS, Bolesta M, Eldridge R, Gusella JF. 1996. Germ-line mutations in neurofibromatosis 2 gene: correlations with disease severity and retinal abnormalities. Am J Med Genet 59:529­ 539. Paunu N, Syrjakoski K, Sankila R, Simola KO, Helen P, Niemela M, Matikainen M, Isola J, Haapasalo H. 2001. Analysis of p53 tumor suppressor gene in families with multiple glioma patients. J Neurooncol 55:159­165. Petronzelli F, Sollima D, Coppola G, Martini-Neri ME, Neri G, Genuardi M. 2001. CDKN2A germline splicing mutation affecting both p16(ink4) and p14(arf) RNA processing in a melanoma/neurofibroma kindred. Genes Chromosomes Cancer 31:398­401. Povey S, Burley MW, Attwood J, Benham F, Hunt D, Jeremiah SJ, Franklin D, Gillett G, Malas S, Robson EB, Tippett P, Edwards JH, Kwiatkowski DJ, Super M, Mueller R, Fryer A, Clarke A, Webb D, Osborne J. 1994. Two loci for tuberous sclerosis: one on 9q34 and one on 16p13. Ann Hum Genet 58:107 ­ 127. Prowse AH, Schultz DC, Guo S, Vanderveer L, Dangel J, Bove B, Cairns P, Daly M, Godwin AK. 2003. Identification of a splice acceptor site mutation in p16INK4A/ p14ARF within a breast cancer, melanoma, neurofibroma prone kindred. J Med Genet 40:e102. Pulst SM, Rouleau GA, Marineau C, Fain P, Sieb JP. 1993. Familial meningioma is not allelic to neurofibromatosis 2. Neurology 43:2096 ­ 2098. Randerson-Moor JA, Harland M, Williams S, Cuthbert-Heavens D, Sheridan E, Aveyard J, Sibley K, Whitaker L, Knowles M, Bishop JN, Bishop DT. 2001. A germline deletion of p14(ARF) but not CDKN2A in a melanoma-neural system tumour syndrome family. Hum Mol Genet 10:55­62. Richard S, Campello C, Taillandier L, Parker F, Resche F. 1998. Haemangioblastoma of the central nervous system in von HippelLindau disease. J Intern Med 243:547­553. Rorke LB, Packer RJ, Biegel JA. 1996. Central nervous system atypical teratoid/ rhabdoid tumors of infancy and childhood: definition of an entity. J Neurosurg 85: 56 ­ 65.
+
+Rouleau GA, Me´rel P, Lutchman M, Sanson M, Zuchman J, Marineau C, Hoang-Xuan K, Demczuk S, Desmaze C, Plougastel B, Pulst SM, Lenoir G, Bijlsma E, Fashold R, Dumanski J, Jong P, de Parry D, Roswell E, Aurias A, Delattre O, Thomas G. 1993. Alteration in a new gene encoding a putative membrane-organizing protein causes Neurofibromatosis type 2. Nature 363:515­521.
+Roussel MF. 1999. The INK4 family of cell cycle inhibitors in cancer. Oncogene 18:5311­ 5317.
+Sestini R, Vivarelli R, Balestri P, Ammannati F, Montali E, Papi L. 2000. Neurofibromatosis type 2 attributable to gonosomal mosaicism in a clinically normal mother, and identification of seven novel mutations in the NF2 gene. Hum Genet 107:366­371.
+Sevenet N, Sheridan E, Amram D, Schneider P, Handgretinger R, Delattre O. 1999. Constitutional mutations of the hSNF5/INI1 gene predispose to a variety of cancers. Am J Hum Genet 65:1342­1348.
+Shepherd CW, Scheithauer BW, Gomez MR, Altermatt HJ, Katzmann JA. 1991. Subependymal giant cell astrocytoma: a clinical, pathological, and flow cytometric study. Neurosurgery 28:864­868.
+Sieb JP, Pulst SM, Buch A. 1992. Familial CNS tumors. J Neurol 239:343­344.
+Sodha N, Houlston RS, Bullock S, Yuille MA, Chu C, Turner G, Eeles RA. 2002. Increasing evidence that germline mutations in CHEK2 do not cause Li-Fraumeni syndrome. Hum Mutat 20:460­462.
+Srivastava S, Zou ZQ, Pirollo K, Blattner W, Chang EH. 1990. Germ-line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome. Nature 348: 747 ­ 749.
+Stergiopoulos SG, Stratakis CA. 2003. Human tumors associated with Carney complex and germline PRKAR1A mutations: a protein kinase A disease! FEBS Lett 546:59­64.
+Stolle C, Glenn G, Zbar B, Humphrey JS, Choyke P, Walther M, Pack S, Hurley K, Audrey C, Klausner R, Linehan WM. 1998. Improved detection of germline mutations in the von Hippel-Lindau disease tumor suppressor gene. Hum Mutat 12:417­423.
+Stone S, Jiang P, Dayananth P, Tavtigian SV, Katcher H, Parry D, Peters G, Kamb A. 1995. Complex structure and regulation of the P16 (MTS1) locus. Cancer Res 55: 2988 ­ 2994.
+Stratakis CA, Carney JA, Lin J-P, Papanicolaou DA, Karl M, Kastner DL, Pras E, Chrousos GP. 1996. Carney complex, a familial multiple neoplasia and lentiginosis syndrome: analysis of 11 kindreds and linkage to the short arm of chromosome 2. J Clin Invest 97:699­705.
+Tachibana I, Smith JS, Sato K, Hosek SM, Kimmel DW, Jenkins RB. 2000. Investigation of germline PTEN, p53, p16(INK4A)/ p14(ARF), and CDK4 alterations in familial glioma. Am J Med Genet 92:136­141.
+Torres OA, Roach ES, Delgado MR, Sparagana SP, Sheffield E, Swift D, Bruce D. 1998. Early diagnosis of subependymal giant cell
+
+astrocytoma in patients with tuberous sclerosis. J Child Neurol 13:173­177. Trofatter JA, MacCollin MM, Rutter JL, Murrel JR, Duyao MP, Parry DM, Eldridge R, Kley N, Menon AG, Pulaski K, Haase VH, Ambrose CM, Munroe D, Bove C, Haines JL, Martuza RL, MacDonald ME, Seizinger BR, Short MP, Buckler AJ, Gusella JF. 1993. A novel moesin-, ezrin-, radixin-like gene is a candidate for the neurofibromatosis 2 tumor suppressor. Cell 72:791­800. Turcot J, Blanchard H, Wolff D. 1968. Concepts regarding polyposis of the colon. Dis Colon Rectum 11:9­16. van Slegtenhorst M, de Hoogt R, Hermans C, Nellist M, Janssen B, Verhoef S, Lindhout D, van den Ouweland A, Halley D, Young J, Burley M, Jeremiah S, Woodward K, Nahmias J, Fox M, Ekong R, Osborne J, Wolfe J, Povey S, Snell RG, Cheadle JP, Jones AC, Tachataki M, Ravine D, Sampson JR, Reeve MP, Richardson P, Wilmer F, Munro C, Hawkins TL, Sepp T, Ali JBM, Ward S, Green AJ, Yates JRW, Kwiatkowska J, Henske EP, Short MP, Haines JH, Jozwiak S, Kwiatkowski DJ. 1997. Identification of the tuberous sclerosis gene TSC1 on chromosome 9q34. Science 277:805­808. Varley JM. 2003. Germline TP53 mutations and Li-Fraumeni syndrome. Hum Mutat 21: 313 ­ 320. Versteege I, Sevenet N, Lange J, Rousseau-Merck MF, Ambros P, Handgretinger R, Aurias A, Delattre O. 1998. Truncating mutations of hSNF5/INI1 in aggressive paediatric cancer. Nature 394:203­206. Vousden KH, Lu X. 2002. Live or let die: the cell's response to p53. Nat Rev Cancer 2:594­ 604. Waggoner DJ, Towbin J, Gottesman G, Gutmann DH. 2000. Clinic-based study of plexiform neurofibromas in neurofibromatosis 1. Am J Med Genet 92:132­135. Watson JC, Stratakis CA, Bryant-Greenwood PK, Koch CA, Kirschner LS, Nguyen T, Carney JA, Oldfield EH. 2000. Neurosurgical implications of Carney complex. J Neurosurg 92:413­418. Weber JD, Taylor LJ, Roussel MF, Sherr CJ, Bar-Sagi D. 1999. Nucleolar Arf sequesters Mdm2 and activates p53. Nat Cell Biol 1: 20 ­ 26. Weiner DM, Ewalt DH, Roach ES, Hensle TW. 1998. The tuberous sclerosis complex: a comprehensive review. J Am Coll Surg 187: 548 ­ 561. Wicking C, Shanley S, Smyth I, Gillies S, Negus K, Graham S, Suthers G, Haites N, Edwards M, Wainwright B, Chenevix-Trench G. 1997. Most germ-line mutations in the nevoid basal cell carcinoma syndrome lead to a premature termination of the PATCHED protein, and no genotypephenotype correlations are evident. Am J Hum Genet 60:21­26. Xiao ZX, Chen J, Levine AJ, Modjtahedi N, Xing J, Sellers WR, Livingston DM. 1995. Interaction between the retinoblastoma protein and the oncoprotein MDM2. Nature 375:694­696.
+
+

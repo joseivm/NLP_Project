@@ -1,0 +1,846 @@
+PERSPECTIVES
+
+OPINION
+Counselling framework for moderatepenetrance cancer-susceptibility mutations
+Nadine Tung, Susan M. Domchek, Zsofia Stadler, Katherine L. Nathanson, Fergus Couch, Judy E. Garber, Kenneth Offit and Mark E. Robson
+Abstract | The use of multigene panels for the assessment of cancer susceptibility is expanding rapidly in clinical practice, particularly in the USA, despite concerns regarding the uncertain clinical validity for some gene variants and the uncertain clinical utility of most multigene panels. Socalled `moderate-penetrance' gene mutations associated with cancer susceptibility are identified in approximately 2­5% of individuals referred for clinical testing; some of these mutations are potentially actionable. Nevertheless, the appropriate management of individuals harbouring such moderate-penetrance genetic variants is unclear. The cancer risks associated with mutations in moderate-penetrance genes are lower and different than those reported for high-penetrance gene mutations (such as mutations in BRCA1 and BRCA2, and those associated with Lynch syndrome). The extrapolation of guidelines for the management of individuals with high-penetrance variants of cancer-susceptibility genes to the clinical care of patients with moderate-penetrance gene mutations could result in substantial harm. Thus, we provide a framework for clinical decision-making pending the development of a sufficient evidence base to document the clinical utility of the interventions for individuals with inherited moderate-penetrance gene mutations associated with an increased risk of cancer.
+
+The understanding of inherited cancer susceptibility has expanded greatly since Knudson proposed his `two-hit' theory to explain the inheritance pattern of hereditary retinoblastoma1. Until recently, clinical research into cancer genetics focused on classic syndromes, such as hereditary breast and ovarian cancer (HBOC) and Lynch syndrome. Several studies have resulted in the definition of the best management approaches for these families, and demonstrated the clinical utility of proactive medical interventions, such as preventive oophorectomy for individuals with HBOC2. New genomics technologies have helped define the genetic architecture of cancer risk beyond the classic predisposition syndromes. Such advances have revealed `moderate-penetrance' mutations in various
+
+genes, which generally confer a more-modest degree of cancer risk (relative risk (RR) 2­5), although the risk threshold separating moderate-penetrance from high-penetrance genes is defined arbitrarily3.
+Clinical cancer geneticists were initially reluctant to screen for moderate-penetrance mutations linked to cancer susceptibility because of the uncertainty about how, or even whether, identifying these mutations should change medical management for such individuals4,5. Testing for moderate-penetrance mutations began in earnest, however, once `next generation' sequencing technologies made it feasible to screen for mutations in many genes simultaneously using multigene panels6. In studies in the past 3­5 years, investigators have identified moderate-penetrance
+
+mutations in 1.1­9.4% of individuals tested6­15 (see Supplementary information S1 (table)). The value of multigene-panel testing remains controversial, however, because of the uncertainty regarding the strength of association between mutations in some genes and the development of cancer (clinical validity)3, and a lack of evidence demonstrating improved outcomes for the individuals tested (clinical utility)16. Several researchers have suggested that the results of multigene-panel testing are nevertheless `actionable', in that the results might support a distinct preventive or treatment approach17; however, studies that support clinical utility of this approach by documenting improved outcomes are not currently available.
+Despite the controversy, thousands of individuals have undergone multigene-panel testing18. As a result, many individuals are being found to carry mutations for which no established management guidelines exist. These individuals might be harmed if they are inappropriately managed with interventions developed for high-penetrance cancer-predisposition mutations. Hence, we propose a framework for clinicians caring for these individuals to use in patient counselling and clinical decision-making.
+Gene selection The multigene panels that are available commercially vary widely in the genes that are analysed. Consensus management guidelines exist for the management of `high-penetrance' mutations (such as those in BRCA1/BRCA2, TP53, PTEN, MLH1/MSH2/MSH6/PMS2, APC, CDH1, and STK11)19, although these current guidelines might not be well-suited for application to `high-penetrance' mutations discovered in the absence of a family history of cancer that would have supported clinical testing, as penetrance may be different in the latter circumstance. In this article, we focus on a management approach for individuals with mutations that confer modest relative risks (approximately 2­5) for specific cancer types, particularly breast and ovarian cancer (TABLE 1). As discussed, the threshold for distinguishing `highpenetrance' from `moderate-p enetrance' is arbitrary, and our grouping reflects current convention. Some mutations
+
+NATURE REVIEWS | CLINICAL ONCOLOGY
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+ADVANCE ONLINE PUBLICATION | 1
+
+PERSPECTIVES
+
+Table 1 |Cancer-susceptibility genes with moderate-penetrance mutations
+
+Cancer type Gene
+
+Average relative risk
+
+Breast cancer ATM3
+
+2.8 (90% CI 2.2­3.7)
+
+BARD1
+
+Insufficient data
+
+BRIP1 (REFS 3,20)
+
+No evidence of association
+
+CHEK2 (truncating)3
+
+3.0 (90% CI 2.6­3.5)
+
+CHEK2 (missense)47
+
+1.58 (95% CI 1.42­1.75) for I157T
+
+MRE11A
+
+Insufficient data
+
+NBN68
+
+2.7 (90% CI 1.9­3.7) for c.657del5
+
+PALB23
+
+5.3 (90% CI 3.0­9.4)
+
+RAD50
+
+Insufficient data
+
+RAD51C/RAD51D3
+
+No evidence of association
+
+XRCC2
+
+Insufficient data
+
+SLX4
+
+Insufficient data
+
+Ovarian cancer ATM31
+
+No evidence of association
+
+BARD1 (REFS 27,29)
+
+Conflicting data
+
+BRIP1 (REF. 27)
+
+·11.2 (95% CI 3.22­34.10) in case-control ·3.41 (95% CI 2.12­5.54) in segregation analysis
+
+CHEK2 (truncating)30 Insufficient data
+
+CHEK2 (missense)
+
+Insufficient data
+
+MRE11A
+
+Insufficient data
+
+NBN27
+
+No evidence of association
+
+PALB2 (REFS 27,29)
+
+Conflicting data
+
+RAD50/RAD51B
+
+Insufficient data
+
+RAD51C/RAD51D28
+
+·5.2 (95% C.I. 1.1­24) for RAD51C ·12 (95% C.I. 1.5­90) for RAD51D
+
+XRCC2
+
+Insufficient data
+
+SLX4
+
+Insufficient data
+
+Colorectal cancer
+
+APC I1307K69 CHEK2 (REF. 33)
+
+2.17 (95% C.I. 1.64­2.86) ·1.88 (95% C.I. 1.29­2.73) for 1100delC ·1.56 (95% C.I. 1.32­1.84) for I157T
+
+MUTYH (monoallelic)33 1.17 (95% C.I. 1.01­1.34)
+
+Insufficient data: relates to existing studies that are inadequate to assess risk. No evidence of association: relates to existing case­control studies with results that demonstrate no association or negative findings. Conflicting data: relates to existing studies reaching differing conclusions regarding an association.
+
+within `moderate-penetrance' cancer- susceptibility genes can, however, confer levels of risk that are similar to the average risk of an individual with a `high-penetrance' gene mutation (for example, the ATM mutation c.7271T>G (p.Val2424Gly) and the PALB2 mutation c.3113G>A (p.W1038X)). Conversely, certain mutations in high-penetrance genes might confer more modest degrees of risk. Herein, we suggest a general quantitative approach that can be adapted to the individualized level of cancer risk, independent of the specific gene variant detected.
+In 2015, Easton and colleagues3 reviewed the evidence for associations between breast-cancer risk and a number of genes
+
+commonly included in commercial multigene panels. The researchers concluded that clear evidence of an association with an increased risk of breast cancer (clinical validity) was available for variants of PALB2, ATM, CHEK2, and NBN (based on several descriptions of a single founder mutation), and for a clinical diagnosis of neurofibromatosis type 1. The authors did not find conclusive evidence of an association between increased breast-cancer risk and mutations in other genes (such as RAD50, BARD1, XRCC2, and MRE11A), and noted that studies have failed to demonstrate reproducible associations between an elevated breast-cancer risk and mutations in BRIP1 or RAD51C/D20­23. Investigators have
+
+published isolated reports of similar associations for a number of variants in other genes (such as MEN1, RECQ, and RINT1)24­26, but these results await confirmation in additional studies, preferably of a large size.
+No systematic review of associations between specific moderate-penetrance genes and an increased risk of ovarian cancer is available. Large case­control studies have, however, shown robust associations between ovarian cancer and BRIP1 and RAD51C/D variants27,28. Conflicting evidence exists regarding the risk of ovarian cancer associated with mutations in BARD1 and PALB2: however, PALB2 mutations were linked to ovarian-cancer risk in two studies27,29, but the associations were not uniformly statistically significant; for BARD1, the results of only one of these studies indicated an increased ovarian cancer risk29, but coinheritance of BRCA1 mutations confounded the potential association. Other genes represented on multigene panels have either been found to lack associations with ovarian-cancer risk (ATM, CHEK2, and NBN)27,30,31, or have not been adequately studied. The clinical validity of moderate-penetrance gene mutations other than those in BRIP1 and RAD51C/D for ovarian-cancer risk assessment is, therefore, unproven -- although, the evidence for PALB2 variants is suggestive of clinical validity.
+Few genes have been described as conferring moderate-penetrance predisposition to colorectal cancer (CRC); however, the common CHEK2 mutation 1100delC, the Ashkenazi founder APC mutation I1307K, and monoallelic mutations in MUTYH are all associated with CRC risk, although the level of risk conferred by these mutations is less than that associated with having a first-degree relative affected with the disease (RR 2.25)32,33. Mutations in CHEK2, ATM, and PALB2 have been linked to modestly increased risk of other cancers, including pancreatic cancer, but the relative risks for these diseases have not been defined34­38.
+Age-specific and lifetime risks Decisions about the appropriateness of specific interventions often rely on estimates of lifetime risk (LTR) of cancer. No consensus exists regarding how to calculate LTR. Some experts calculate cumulative LTR (CLTR) as a multiple of the US Surveillance, Epidemiology, and End Results Program (SEER) estimates of `ever' developing cancer and the observed average relative risk for the gene variant in question. Others calculate
+
+2 | ADVANCE ONLINE PUBLICATION
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+www.nature.com/nrclinonc
+
+PERSPECTIVES
+
+risk of cancer development by a defined age (for example, 70 or 80 years), also described as lifetime penetrance, or describe `remaining LTR' as the CLTR remaining after an individual reaches a particular age. The lack of an agreed upon definition of LTR confounds guidelines based on this measurement.
+We present CLTR as the risk of cancer experienced by an individual between birth and the age of 80 years. We estimated cumulative risks presented herein using the method of Song et al.28, and we apply the estimated odds ratio to population age-specific incidence data using the following equation:
+Cumulative risk = 1 = e(-cumulative incidence) Population age-specific incidence rates were obtained from the 2008­2012 SEER cancer statistics for all races39. Average relative-risk multipliers were derived from the systematic review of Easton and colleagues20, for breast cancer risk, and from the recently published population-b ased case­control studies of Ramus et al.27 and Song et al.28, for ovarian cancer risk. This method of estimating LTR is broadly accepted, although the approach has limitations. First, calculations based on average relative risks assume that relative risk is constant over the lifetime. If data exist that challenge this assumption (for example, reports of inconstant relative risks of cancer associated with ATM and CHEK2 variants)31,40, we also calculated CLTR using age-specific relative risk, if available (see Supplementary information S2 (table)). For PALB2, age-specific relative risks and CLTR were derived from a segregation analysis reported in 2014 (REF. 41). Second, the relative-risk estimates we present are based on limited data and, for some genes, the confidence intervals are wide. Thus, our understanding of associated risks might change considerably with the accumulation of additional data in the future. Third, specific mutations can present higher or lower risks than those calculated from the average relative risk. For instance, the ATM mutation c.7271T>G (p.V2424G) and the PALB2 mutation c.3113G>A (p.W1038X) have both been associated with a very high relative risk of breast cancer (RR >10)42,43. Missense mutations in CHEK2, such as I157T and S428F, are associated with lower risks (RR <1.5) than truncating mutations, such as 1100delC, and homozygous CHEK2mutation carriers are at higher risk of the disease than heterozygotes40,44­47.
+
+Fourth, absolute-risk calculations based on SEER estimates for the US population might not accurately reflect the risks in other countries with different population-specific risks. Finally, an individual's risk can be modified by both genetic factors other than the mutation itself and non-genetic factors. Studies of both CHEK2 and PALB2, for example, demonstrate increased risks for mutation carriers with a family history of breast cancer compared with those with no family history of the disease40,41,48 (see Supplementary information S2 (table)). Whether a family history of early onset breast cancer increases the risk of this disease to a greater degree than a family history of later-onset disease is unknown.
+Managing breast-cancer risk Interventions for women deemed to be at increased risk of breast cancer include screening by mammography, clinical breast examination, breast MRI as an adjuvant to mammography, pharmacologic risk reduction, or preventive mastectomy. No data are available regarding the effect of pharmacological risk-reduction strategies in individuals with mutations in moderate-risk penetrance genes.
+Mammography Mammography and clinical breast examination are the cornerstones of breast-cancer surveillance. Existing guidelines recommend early use of mammography in women at familial risk of this disease, although limited evidence underpins these recommendations. For example, the American College of Radiology Appropriateness Criteria49 support annual mammography beginning at 25­30 years of age (or 10 years before the earliest age at diagnosis of the affected relatives, whichever is later) for women with an estimated LTR of 20% based on a family-history model, or with a first-degree relative affected with premenopausal breast cancer. The US National Comprehensive Cancer Network (NCCN)50 recommends beginning annual mammography for women with a LTR of 20% owing to a family history of breast cancer at an age 10 years younger than the earliest age at which a family member was diagnosed with the disease (but not before the age of 30 years). The UK National Institute for Health and Care Excellence (NICE) guidelines for the management of familial breast cancer51 suggest that annual mammography can be `considered' from the age of 30 years for women with a LTR
+
+of 30%. No data relate specifically to the performance of mammography and clinical breast examination in women at risk who harbour a moderate-penetrance mutation in a cancer-susceptibility gene, although the calculated average CLTRs for women with pathogenic mutations in PALB2, ATM, NBN, and CHEK2 (excluding certain missense mutations, such as p.I157T) approach or exceed 30% (see Supplementary information S2 (table); TABLE 2). Therefore, women carrying such mutations could be considered for early mammographic screening, depending on the local absolute-risk threshold for such surveillance. Women with common missense mutations in CHEK2 (such as p.I157T or p.S428F) have an estimated CLTR <20% and, based on the present of such mutations alone, do not meet an enhanced surveillance threshold.
+Breast MRI The addition of breast MRI to mammography improves the diagnostic yield of cancer detection in women at increased risk of breast cancer owing to a BRCA1/BRCA2 mutation or a family history of the disease52, and results in a stage-shift of cancer compared with historical control populations53. Several guidelines recommend MRI screening for women with BRCA1/BRCA2 mutations or with high-penetrance mutations in other breast-cancer-susceptibility genes (such as TP53 and PTEN)19,51,54. Historical comparisons and modelling analyses predict that the use of screening MRI will result in improved survival in screened populations55,56, but confirmatory randomized controlled trials are unlikely to be feasible as ethical challenges complicate randomization of high-risk patients to mammographic screening alone.
+Guidelines regarding the use of MRI to screen for breast cancer in women without highly penetrant mutations associated with the disease are heterogeneous. US guidelines recommend using MRI in women with LTR of 20% based on prediction models incorporating family history, despite the lack of evidence that MRI improves patient outcomes in this setting49,50,57. Other guidelines suggest a 30% LTR threshold54, or do not support MRI at all for women without BRCA1/BRCA2 or TP53 mutations51. Existing guidelines do not specify whether cumulative risk or remaining LTR is the relevant parameter in decisions on who to screen, or which model should be used when calculating remaining LTR. Thus, the guidelines can be interpreted variably, leading to
+
+NATURE REVIEWS | CLINICAL ONCOLOGY
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+ADVANCE ONLINE PUBLICATION | 3
+
+PERSPECTIVES
+
+Table 2 |Estimated average 5-year and lifetime breast-cancer risks for women with moderate-penetrance mutations in selected genes
+
+Population
+
+ATM/NBN (RR 2.7­2.8)*
+
+CHEK2 (1100delC) (RR 3.0)
+
+CHEK2 (I157T) (RR 1.58)
+
+PALB241
+
+Age (years)
+
+5year Cumulative 5year Cumulative 5year Cumulative 5year
+
+(%) (%)
+
+(%) (%)
+
+(%) (%)
+
+(%)
+
+Cumulative 5 year (%) (%)
+
+Cumulative (%)
+
+25­29
+
+0.04 0.1
+
+0.12 0.1
+
+0.13 0.2
+
+0.07 0.1
+
+0.35 0.4
+
+30­34
+
+0.14 0.2
+
+0.38 0.5
+
+0.41 0.6
+
+0.21 0.3
+
+1.05§
+
+2
+
+35­39
+
+0.30 0.5
+
+0.84 1.4
+
+0.90 1.5
+
+0.48 0.8
+
+2.5|| 4
+
+40­44
+
+0.61 1.1
+
+1.70§
+
+3.0
+
+1.83§
+
+3.2
+
+0.96§
+
+1.7
+
+4.25||
+
+8
+
+45­49
+
+0.94§
+
+2.0
+
+2.64||
+
+5.6
+
+2.83||
+
+5.9
+
+1.49§
+
+3.2
+
+6.35||
+
+14
+
+50­54
+
+1.12§
+
+3.1
+
+3.14||
+
+8.5
+
+3.36||
+
+9.1
+
+1.77§
+
+4.9
+
+8.00||
+
+20
+
+55­59
+
+1.33§
+
+4.4
+
+3.71||
+
+11.8
+
+3.98||
+
+12.6
+
+2.09§
+
+6.8
+
+7.25||
+
+26
+
+60­64
+
+1.72§
+
+6.0
+
+4.81||
+
+16.0
+
+5.15||
+
+17.0
+
+2.71||
+
+9.3
+
+7.35||
+
+31
+
+65­69
+
+2.11§
+
+8.0
+
+5.92||
+
+20.8
+
+6.34||
+
+22.1
+
+3.34||
+
+12.3
+
+5.95||
+
+35
+
+70­75
+
+2.20||
+
+10.0
+
+6.17||
+
+25.5
+
+6.61||
+
+27.1
+
+3.48||
+
+15.3
+
+6.70||
+
+40
+
+CLTR (80) NA
+
+12.0
+
+NA 30.0
+
+NA 31.8
+
+NA 18.3
+
+NA 44
+
+These data represent the estimated cumulative 5year incidence of breast cancer associated with moderate-penetrance mutations with established clinical validity (based on the method of Song et al.28) CLTR, cumulative lifetime risk; NA, not applicable; RR, relative risk. *ATM CLTR (80 years) estimated to be 27.1% with a RR of 5.0 up to age 50 years and then 2.0 thereafter (based on data from Thompson et al.31). Data for NBN derived from study of a single truncating mutation.CHEK2 truncating mutation CLTR (80) estimated to be 23.4% if RR declines with age (according to the CHEK2 Breast Cancer Case­Control Consortium40). §Indicates the age ranges at which 5year risk approaches or exceeds 1% (the approximate population risk of breast cancer among US woman aged 45 years). ||Indicates the age ranges at which the 5year risk of breast cancer exceeds 2.2% (the highest risk estimated for US women in the general population, specifically, those aged between 70­79 years).
+
+different recommendations for the same woman, depending on the model used58. The guidelines also do not discuss the appropriateness of MRI screening for women with moderate-penetrance gene mutations; however, the predicted average CLTR approaches or exceeds 30% for mutations in PALB2, ATM, NBN, and CHEK2 (excluding p.I157T and p.S428F mutations; TABLE 2), and therefore women carrying pathogenic mutations in these genes can be considered for MRI surveillance in the USA. In countries with different thresholds for MRI screening, women with moderate-penetrance mutations in cancer-associated genes might not meet the guidelines to undergo screening unless they present additional risk factors. As no international consensus exists regarding the optimal risk threshold for recommending MRI surveillance, clinicians must determine whether the levels of absolute risk associated with `moderate-penetrance' mutations meet their local guidelines. The role of MRI in women with moderate-penetrance mutations who have been affected with breast cancer requires clarification by appropriate studies, as does the possibility of differential effectiveness in different clinical situations.
+Women with mutations in genes of uncertain clinical validity for breast cancer assessment (such as BARD1, BRIP1, MRE11A, RAD50/51, RAD51B/C/D,
+
+and certain missense mutations in CHEK2) should not undergo MRI screening based on the presence of the mutation alone. For these women, however, a family-history-based model might predict sufficient risk to warrant MRI screening.
+Age for breast-cancer surveillance No generally accepted metric is available for objectively deciding when to begin breast-cancer screening in women at increased risk of the disease, whether that risk results from a family history of breast cancer or from the inheritance of a moderate-penetrance mutation in a cancer-susceptibility gene. In the USA, however, reasonable consensus does exist that screening with mammography is appropriate for `average risk' women beginning between the ages of 45­50 years, despite the controversy surrounding screening in younger women. SEER registry data indicate that the 5year breast-cancer incidences for US women (all races combined) at the ages of 45 and 50 years are 0.94% and 1.12%, respectively (TABLE 2). Initiating screening of atrisk women at a lower risk threshold than is used in the general population would be illogical. The estimated average 5year risk of breast cancer for carriers of mutations in ATM, NBN, and truncating mutations in CHEK2 does not exceed 1% until 40 years of age, while in PALB2mutation carriers, this level of risk is
+
+exceeded at the age of 30 years; reasoning by analogy, therefore, one would recommend beginning mammographic surveillance in women harbouring these mutations at those ages. The 5year breast-cancer incidence in 40year-old women in the USA is 0.6%. If surveillance should begin at this level of risk (as suggested by those who advocate beginning mammographic screening at 40 in the general population), women with mutations in ATM, NBN, and truncating mutations in CHEK2 should be screened from the age of 35 years (TABLE 2).
+Women with pathogenic mutations in PALB2, ATM, NBN, and CHEK2 (other than p.I157T) have CLTR of breast cancer that exceeds 20% and thus meet existing guidelines for MRI surveillance, at least in the USA (TABLE 2); however, these guidelines do not provide insight into the age at which to begin such screening. No country currently recommends MRI screening for women at average risk of breast cancer. In the USA, the highest population 5year incidence of this disease is 2.2% in women aged 70­80 years (TABLE 2); therefore, logically, MRI surveillance should not be offered to women until their 5year estimated risk exceeds that threshold. The estimated average 5year risk of breast cancer in women with mutations in ATM, NBN, and CHEK2 (truncating) does not exceed this level until the age of 45 years, and not until the age of 35 years for PALB2 carriers. Thus, the threshold model would
+
+4 | ADVANCE ONLINE PUBLICATION
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+www.nature.com/nrclinonc
+
+PERSPECTIVES
+
+suggest deferring MRI surveillance until 5­10 years after initiation of mammographic surveillance; for practical reasons it would be reasonable to initiate MRI surveillance at same time as mammography -- that is, at the age 40 years, or 30 years for women with PALB2 mutations.
+Of note, a family history of breast cancer can further increase the risk associated with moderate-penetrance cancer-associated mutations. Earlier surveillance (beginning at the age of 35 years) might be warranted in women with mutations and affected close relatives, particularly if those relatives were diagnosed with premenopausal breast cancer. For women with mutations in PALB2, risk of the disease at the age of 30 years is sufficient to warrant enhanced screening, even without a family history.
+In summary, we suggest initiating surveillance of women with pathogenic mutations in clinically valid breast-c ancerpredisposition genes at the age when their estimated 5year risk approaches that at which screening is routinely initiated for women in the general population (approximately 1% risk in the USA). In the USA, breast MRI should be added to mammography if the CLTR of breast cancer conferred by the mutation exceeds 20%, but other health systems might choose to withhold MRI screening unless a higher estimated-risk threshold is exceeded. MRI surveillance should begin no earlier than when the estimated 5year incidence of breast cancer exceeds the highest risk experienced by women in the general population (currently estimated to be 2.2% in the USA, TABLE 2), but beginning MRI assessments when mammographic surveillance begins might be a more-practical approach, particularly given the relatively lower sensitivity of mammography in younger women. Importantly, this general framework is responsive to new data regarding risk estimates, and to local decisions regarding thresholds for initiation of surveillance and the use of MRI. TABLE 3 and TABLE 4 illustrate the potential impact of variation in odds ratios in risk estimates and recommendations, using CHEK2 mutations as an example.
+Risk-reducing mastectomy No threshold risk has been established that mandates risk-reducing mastectomy in women unaffected by breast cancer. Performing randomized trials to assess the efficacy of risk-reducing mastectomy in women without breast cancer is not feasible. Whether mastectomy will provide
+
+Table 3 |Influence of variation in odds ratio on risk estimates for CHEK2 carriers
+
+Age (years)*
+
+Constant
+
+Constant
+
+Constant OR 4.8 OR declining
+
+Constant
+
+OR 3.0
+
+OR 2.08
+
+(1100delC,
+
+with attained OR 1.58
+
+(1100delC)3 (1100delC)36 familial)64
+
+age (1100delC)40 (I157T)47
+
+25­29
+
+0.13%
+
+0.09%
+
+0.21%
+
+0.34%
+
+0.07%
+
+30­34
+
+0.41%
+
+0.28%
+
+0.65%
+
+0.35%
+
+0.21%
+
+35­39
+
+0.90%
+
+0.63%
+
+1.44%
+
+0.79%
+
+0.48%
+
+40­44
+
+1.83%
+
+1.27%
+
+2.92%
+
+1.71%
+
+0.96%
+
+4549
+
+2.83%
+
+1.96%
+
+4.53%
+
+2.69%
+
+1.49%
+
+50­54
+
+3.36%
+
+2.33%
+
+5.38%
+
+2.42%
+
+1.77%
+
+55­59
+
+3.98%
+
+2.76%
+
+6.36%
+
+2.86%
+
+2.10%
+
+60­64
+
+5.15%
+
+3.57%
+
+8.25%
+
+3.45%
+
+2.71%
+
+65­69
+
+6.34%
+
+4.40%
+
+10.14%
+
+4.27%
+
+3.34%
+
+70­74
+
+6.61%
+
+4.58%
+
+10.57%
+
+4.19%
+
+3.48%
+
+75­79
+
+6.71%
+
+4.65%
+
+10.73%
+
+4.28%
+
+3.53%
+
+OR, odds ratio. *5-year incidence values are presented.
+
+Table 4 |Variation in risk estimates on recommendations
+
+Screening parameters in relation to age
+
+Constant OR 3.0 (1100delC)3
+
+Constant OR 2.08 (1100delC)36
+
+Constant OR 4.8 (1100delC, familial)64
+
+OR declining with attained age (1100delC)40
+
+Constant OR 1.58 (I157T)47
+
+Cumulative risk to 80 years 31.8%
+
+23.3%
+
+45.8%
+
+24%
+
+18.3%
+
+Age to initiate mammography (based on 1% 5year risk)
+
+40 years 40 years
+
+35 years 40 years
+
+45 years
+
+MRI (based on 20% CLTR Yes threshold)
+
+Yes
+
+Yes Yes
+
+No
+
+MRI (based on 30% CLTR Yes threshold)
+
+No
+
+Yes No
+
+No
+
+Age when MRI threshold exceeded (based on 2.2% 5year risk)
+
+45 years
+
+50 years
+
+40 years 45 years
+
+NA
+
+CTLR, cumulative lifetime risk; NA, not applicable.
+
+a survival advantage to women with moderate-penetrance mutations is uncertain, given the level of risk is relatively modest, and considering the effectiveness of breast-cancer screening and treatment. Notably, the estimated average annual risk of breast cancer for a woman with a moderate-penetrance susceptibility mutation rarely exceeds 1%, which is similar to the risk experienced by a woman with atypical ductal hyperplasia and is less than that of a woman with lobular carcinoma in situ59­61 -- conditions for which preventive mastectomy is rarely used.
+Information regarding contralateral breast-cancer risk in affected women with moderate-penetrance mutations in cancer genes is limited. As in unaffected women, it is uncertain whether preventive contralateral mastectomy will yield a survival benefit in such women. In one study, the risk of contralateral breast cancer in ATM-mutation
+
+carriers was not significantly increased compared to women without mutations, although another study suggested a modestly increased risk among ATM-mutation carriers undergoing breast-conservation therapy (BCT)62,63. Without confirmation and quantification, these data should not contraindicate BCT in carriers of ATM mutations. The CHEK2 mutation 1100delC is associated with an increased risk of contralateral breast cancer (RR 2.77)64, but the absolute level of risk seems to be 10­15%, which also does not mandate mastectomy. No information is available regarding the risk of contralateral breast cancer associated with mutations in other genes, including PALB2.
+Managing ovarian-cancer risk Ovarian-cancer screening has not been shown to reduce mortality among women at risk of hereditary disease. Risk-reducing
+
+NATURE REVIEWS | CLINICAL ONCOLOGY
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+ADVANCE ONLINE PUBLICATION | 5
+
+PERSPECTIVES
+
+Table 5 |Estimated ovarian-cancer risks linked with moderate-penetrance mutations
+
+Patient age (years)
+25­29 30­34 35­39 40­44
+
+Cumulative risk (%) US population BRIP1 (cC) 0.02 0.22 0.03 0.36 0.05 0.54 0.07 0.81
+
+BRIP1 (seg) 0.11 0.17 0.25 0.40
+
+RAD51C 0.10 0.17 0.25 0.38
+
+RAD51D 0.23 0.38 0.58 0.87
+
+45­49 50­54
+
+0.12 0.19
+
+1.32* 2.12*
+
+0.65 0.99
+
+0.61 1.41* 0.99 2.27*
+
+55­59 60­64 65­69 70­75 CLTR (80)
+
+0.29 0.41 0.59 0.75 1.2
+
+3.20 4.53 6.14 8.10 12.7
+
+1.40* 1.91* 2.54 3.27 4.06
+
+1.50* 2.13* 2.90 3.85 6.12
+
+3.43 4.85 6.57 8.66 13.56
+
+Table shows the average estimated CLTR of ovarian cancer for women with moderate-penetrance mutations of established clinical validity (based on data from Song et al.28). c-C, case-control; seg, segregation analysis. CLTR, cumulative lifetime risk.*Indicates ages at which cumulative risk reaches ~1.2% (population CLTR). Indicates ages at which cumulative risk approaches or exceeds 2.6% (approximately the average risk of a woman with a BRCA1/BRCA2negative relative affected with ovarian cancer64).
+
+salpingo-oophorectomy (RRSO) is a standard recommended intervention for women with BRCA1/BRCA2 mutations55. Women with BRCA1 mutations are encouraged to undergo RRSO at an age between 35­40 years; this procedure can be deferred until 40­45 years of age for BRCA2mutation carriers, owing to their lower (and later) risk of ovarian cancer19.
+The results of large case­control studies demonstrate that women with mutations in BRIP1 and RAD51C/ RAD51D are at increased risk of ovarian cancer21­23,27,28 (TABLE 1). The estimated CLTRs associated with mutations in these genes (6­13%) approximate to the lower end of ovarian-cancer-risk estimates for BRCA2mutation carriers65,66 (TABLE 5). As for breast cancer, the risk associated with a moderate-penetrance cancer-s usceptibility mutation might be magnified in the presence of a family history of ovarian cancer in a close relative. Studies have not clearly proven an increased risk of ovarian cancer in women with moderate-penetrance cancer- associated mutations in other genes, including PALB2, ATM, CHEK2, BARD1, MRE11A, NBN, and RAD51B, although mutations in these genes have been observed in families with a history of both breast and ovarian cancer6,9­14. Thus, risk-reduction strategies for ovarian cancer are not indicated by mutations in these genes alone; however, if these mutations are identified in the setting of a considerable family history of ovarian cancer, the family history of the disease itself might support intervention.
+
+Given the limited benefits of ovarian-cancer screening67, the risk associated with BRIP1, and RAD51C/ RAD51D mutations warrants consideration of RRSO. The timing of this surgery is of great importance, given the substantial effects on quality-oflife related to premature menopause. RRSO is not recommended routinely for women whose only risk factor for ovarian cancer is an affected first-degree relative. A woman's cumulative risk of ovarian cancer should, therefore, approach or exceed the LTR of a woman with an affected BRCA-negative first-degree relative (approximately 2.64%) before they are offered RRSO. Carriers of mutations in BRIP1 or RAD51B/RAD51C/RAD51D cross this threshold at around the ages of 50­55 years, and can likely defer RRSO until they are perimenopausal or postmenopausal (TABLE 5). Women with mutations in these genes who also have a family history of ovarian cancer in a first-degree relative might cross the risk threshold earlier, assuming a multiplicative effect.
+Managing risks of other cancers Pancreatic cancer Mutations in PALB2 and ATM have been associated with increased familial risk of pancreatic cancer34,38. The mutation prevalence, relative risk, and the absolute risk of pancreatic cancer associated with such mutations are all unknown. Moreover, no proven effective screening or prevention measures for pancreatic cancer are available. Nevertheless, individuals with ATM and
+
+PALB2 mutations and family histories of pancreatic cancer might be candidates for appropriate clinical trials of pancreatic cancer screening strategies.
+Colorectal cancer Multigene-panel testing can identify mutations that are associated with modest increases in the risk of CRC. A large meta-analysis of genetic variants associated with CRC derived an aggregate RR of 1.17 (95% CI 1.01­1.34) for monoallelic mutations in MUTYH, 1.88 (95% CI 1.29­2.73) for CHEK2 1100delC, and 1.56 (95% CI 1.32­1.84) for CHEK2 I157T33. None of these relative risks reach the level associated with having an affected first-degree relative with CRC, as calculated by Johns and Houlston (RR 2.25, 95% CI 2.00­2.53)32. Therefore, in the absence of a family history of CRC or adenomatous polyps, individuals whose sole risk factor is a CHEK2 or monoallelic MUTYH mutation do not clearly meet a threshold for enhanced CRC surveillance. Since the 95% confidence interval for CHEK2 1100delC overlaps with the relative risk of CRC in individuals with an affected first-degree relative, discussion of early colonoscopy (at an age of 40 years) might be appropriate. A meta-analysis assessing APC polymorphisms derived an RR of 2.17 (95% CI 1.64­2.86) of CRC associated with presence of the common Ashkenazi Jewish variant I1307K68, which approximates to the same risk level as those with an first-degree relative affected by CRC, and may justify consideration of colonoscopy at 40 years of age under current guidelines, despite the low absolute risk. The risk of CRC associated with I1307K in non-Ashkenazi carriers is uncertain. No evidence indicates that individuals with either CHEK2 1100delC or APC I1307K mutations require shorter colonoscopy-screening intervals.
+Other considerations Studies of multigene-panel testing describe variants of uncertain significance (VUS) in a substantial proportion of individuals who undergo testing. It is critical to emphasize that VUS should not be used to guide medical management, and that individuals with VUS should be managed on the basis of their family history alone.
+One important question is whether offering presymptomatic testing to the family members of individuals with moderate-penetrance mutations detected in cancer-associated genes (cascade testing) is appropriate. The benefit of such testing
+
+6 | ADVANCE ONLINE PUBLICATION
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+www.nature.com/nrclinonc
+
+PERSPECTIVES
+
+will probably depend on the specific gene under consideration and the family history of cancer. As noted earlier, mutations in PALB2, although less strongly cancer-predisposing than BRCA2, seem to warrant very early initiation of surveillance and MRI screening for breast cancer (at around the ages of 30­35 years), which would justify presymptomatic testing of family members.
+Moderate-penetrance mutations in other genes can be considered as risk factors that interact with family history and other non-genetic factors to modulate an individual's risk of cancer. As a result, individuals from families transmitting moderate-penetrance mutations who test negative for the familial mutation probably remain at some degree of elevated cancer risk if they have a family history of breast cancer. Such individuals should be managed on the basis of their family history, and might warrant enhanced surveillance even if they are `true negative' for the mutation (unlike the situation for most families with documented high-penetrance gene mutations). In the setting of a weak or absent family history, however, in which the moderate-penetrance mutation is the only factor prompting enhanced surveillance, individuals testing negative can be relieved of the burden of surveillance.
+
+Conclusions The management approach suggested by our proposed framework is summarized in TABLE 6. This approach should be adapted in the presence of a clear family history of breast, ovarian, or colorectal neoplasia. Results of future studies might enable extension of this approach to genes for which clinical validity is presently uncertain. More robust estimates of age-specific risks from segregation analyses, properly performed case­control studies, and prospective studies (such as the PROMPT study, http://www.promptstudy.org) could also result in revision of surveillance and management approaches for individuals with moderate-penetrance mutations associated with cancer. Pending the development of this evidence base, we offer these suggestions in the hope that they will provide assistance to clinicians caring for individuals with moderate penetrance cancer-related mutations. These suggestions are proposed primarily as an educational resource for oncologists and other health-care providers, in order to help them provide quality services to individuals with moderate-penetrance mutations. Clinicians should apply their own professional judgment to the specific clinical circumstances for individual patients.
+
+Table 6 |Proposed management for moderate-penetrance breast-cancer predisposition
+
+Gene
+
+Mammography (clinical RRSO breast examination and/or breast MRI
+
+Colonoscopy Pancreatic screening
+
+ATM
+
+Annual starting at 40*
+
+Family history|| Family history# Clinical trial
+
+CHEK2 (truncating)
+
+Annual starting at 40*
+
+Family history|| Discuss at 40 years
+
+NA
+
+NBN
+
+Annual starting at 40*
+
+Family history|| Family history# NA
+
+PALB2
+
+Annual starting at 30
+
+Family history|| Family history# Clinical trial
+
+BRIP1/RAD51C/ Family history§ RAD51D
+
+50­55 years¶ Family history# NA
+
+Individuals with mutations of uncertain clinical validity (presently including BARD1, CHEK2 p.I157T and p.S428F, MRE11A, RAD50/RAD51B, SLX4, and XRCC2) should be managed according to their family history. These suggestions are designed primarily as an educational resource for oncologists and other health-care providers to help them provide quality services to individuals with moderate-penetrance mutations. Adherence does not necessarily ensure a successful medical outcome. These suggestions should not be considered inclusive of all proper procedures and tests, or exclusive of other procedures and tests that can reasonably be used to obtain the same results. In determining the propriety of any specific procedure or test, clinicians should apply their own professional judgment to the specific clinical circumstances presented by the individual patient. CLTR, cumulative lifetime risk; RRSO, risk-reducing oophorectomy. *Earlier initiation of surveillance (at the age of 35 years) might be warranted in the presence of a clear family history of breast cancer, especially multiple first-degree relatives at younger ages. Recommendations for CHEK2 heterozygotes; homozygote mutation carriers might warrant earlier surveillance similar to that for PALB2mutation carriers. §Family history: breast MRI considered if a family-history model predicts CLTR (80) >20­25%, with initiation when 5year risk exceeds 2­2.5%. For these genes, breast MRI is not clearly warranted on the basis of mutation alone. ||Ovarian-cancer risk management should be guided by family history of the disease, if present. RRSO is not indicated based on the presence of moderate-penetrance mutations alone. ¶Guidance for BRIP1 mutations is based on relative risk from case­control study27. Earlier consideration of RRSO might be warranted for individuals with mutations in any of these genes if the individual has a clear family history of ovarian cancer (>1 case), especially in close relatives. #Colorectal cancer screening should be guided by family history. For individuals without a family history of colorectal cancer or adenomatous polyps, population-screening guidelines should be followed.
+
+Nadine Tung is at the Division of HematologyOncology, Beth Israel Deaconess Medical Center,
+330 Brookline Avenue, Boston, Massachusetts 02215, USA.
+Susan M. Domchek and Katherine L. Nathanson are at the Abramson Cancer Center, 3400 Spruce Street, Philadelphia, Pennsylvania 19104, USA, and the
+Department of Medicine, Perelman School of Medicine, University of Pennsylvania, 3400 Civic Center
+Boulevard, Philadelphia, Pennsylvania 19104, USA.
+Zsofia Stadler, Kenneth Offit, and Mark E. Robson are at the Clinical Genetics Service, Memorial Sloan
+Kettering Cancer Center, 1275 York Avenue; and the Weill Cornell Medical College, 1300 York Avenue, New York, New York 10065, USA.
+Fergus Couch is at the Department of Laboratory Medicine and Pathology, Mayo Clinic, 200 First Street
+South West, Rochester, Minnesota 55905, USA.
+Judy E. Garber is at the Dana­Farber Cancer Institute, 450 Brookline Avenue, Boston, Massachusetts 02215,
+USA.
+Correspondence to M.E.R. robsonm@mskcc.org
+N.T. and S.M.D. contributed equally to this work.
+doi:10.1038/nrclinonc.2016.90 Published online 14 Jun 2016
+1. Knudson, A. G. Jr Mutation and cancer: statistical study of retinoblastoma. Proc. Natl Acad. Sci. USA 68, 820­823 (1971).
+2.Domchek, S. M. et al. Association of risk-reducing surgery in BRCA1 or BRCA2 mutation carriers with cancer risk and mortality. JAMA 304, 967­975 (2010).
+3.Easton, D. F. et al. Gene-panel sequencing and the prediction of breast-cancer risk. N. Engl. J. Med. 372, 2243­2257 (2015).
+4. Offit, K. & Garber, J. E. Time to check CHEK2 in families with breast cancer? J. Clin. Oncol. 26, 519­520 (2008).
+5.Robson, M. CHEK2, breast cancer, and the understanding of clinical utility. Clin. Genet. 78, 8­10 (2010).
+6.Kurian, A. W. et al. Clinical evaluation of a multiplegene sequencing panel for hereditary cancer risk assessment. J. Clin. Oncol. 32, 2001­2009 (2014).
+7.Couch, F. J. et al. Inherited mutations in 17 breast cancer susceptibility genes among a large triplenegative breast cancer cohort unselected for family history of breast cancer. J. Clin. Oncol. 33, 304­311 (2015).
+8.Cragun, D. et al. Panel-based testing for inherited colorectal cancer: a descriptive study of clinical testing performed by a US laboratory. Clin. Genet. 86, 510­520 (2014).
+9.LaDuca, H. et al. Utilization of multigene panels in hereditary cancer predisposition testing: analysis of more than 2,000 patients. Genet. Med. 16, 830­837 (2014).
+10.Lincoln, S. E. et al. A systematic comparison of traditional and multigene panel testing for hereditary breast and ovarian cancer genes in more than 1000 patients. J. Mol. Diagn. 17, 533­544 (2015).
+11.Maxwell, K. N. et al. Prevalence of mutations in a panel of breast cancer susceptibility genes in BRCA1/2negative patients with early-onset breast cancer. Genet. Med. 17, 630­638 (2015).
+12.Minion, L. E. et al. Hereditary predisposition to ovarian cancer, looking beyond BRCA1/BRCA2. Gynecol. Oncol. 137, 86­92 (2015).
+13.Tung, N. et al. Frequency of mutations in individuals with breast cancer referred for BRCA1 and BRCA2 testing using next-generation sequencing with a 25gene panel. Cancer 121, 25­33 (2015).
+14.Walsh, T. et al. Mutations in 12 genes for inherited ovarian, fallopian tube, and peritoneal carcinoma identified by massively parallel sequencing. Proc.Natl Acad. Sci. USA 108, 18032­18037 (2011).
+
+NATURE REVIEWS | CLINICAL ONCOLOGY
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+ADVANCE ONLINE PUBLICATION | 7
+
+PERSPECTIVES
+
+15.Yurgelun, M. B. et al. Identification of a variety of mutations in cancer predisposition genes in patients with suspected Lynch syndrome. Gastroenterology 149, 604­613 e20 (2015).
+16. Domchek, S. M., Bradbury, A., Garber, J. E., Offit, K. & Robson, M. E. Multiplex genetic testing for cancer susceptibility: out on the high wire without a net? J. Clin. Oncol. 31, 1267­1270 (2013).
+17.Desmond, A. et al. Clinical actionability of multigene panel testing for hereditary breast and ovarian cancer risk assessment. JAMA Oncol. 1, 943­951 (2015).
+18.Rosenthal, E. T. et al. Outcomes of clinical testing for 50,000 patients utilizing a panel of 25 genes associated with increased risk for breast, ovarian, colorectal, endometrial, gastric, pancreatic, melanoma, and prostate cancers [abstract]. J. Clin. Oncol. 33, 1515 (2015).
+19. National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology: genetic/familial high-risk assessment: breast and ovarian. http://www. nccn.org/professionals/physician_gls/pdf/genetics_ screening.pdf (2016).
+20.Easton, D. F. et al. No evidence that protein truncating variants in BRIP1 are associated with breast cancer risk: implications for gene panel testing. J. Med. Genet. http://dx.doi.org/10.1136/jmedgenet-2015103529 (2016).
+21.Loveday, C. et al. Germline mutations in RAD51D confer susceptibility to ovarian cancer. Nat. Genet. 43, 879­882 (2011).
+22.Loveday, C. et al. Germline RAD51C mutations confer susceptibility to ovarian cancer. Nat. Genet. 44, 475­476; author reply 476 (2012).
+23.Rafnar, T. et al. Mutations in BRIP1 confer high risk of ovarian cancer. Nat. Genet. 43, 1104­1107 (2011).
+24.Cybulski, C. et al. Germline RECQL mutations are associated with breast cancer susceptibility. Nat. Genet. 47, 643­646 (2015).
+25. Dreijerink, K. M., Goudet, P., Burgess, J. R. & Valk, G. D. & International Breast Cancer in MEN1 Study Group. Breast-cancer predisposition in multiple endocrine neoplasia type 1. N. Engl. J. Med. 371, 583­584 (2014).
+26.Park, D. J. et al. Rare mutations in RINT1 predispose carriers to breast and Lynch syndrome-spectrum cancers. Cancer Discov. 4, 804­815 (2014).
+27.Ramus, S. J. et al. Germline mutations in the BRIP1, BARD1, PALB2, and NBN genes in women with ovarian cancer. J. Natl Cancer Inst. 107, djv214 (2015).
+28.Song, H. et al. Contribution of germline mutations in the RAD51B, RAD51C, and RAD51D genes to ovarian cancer in the population. J. Clin. Oncol. 33, 2901­2907 (2015).
+29.Norquist, B. M. et al. Inherited mutations in women with ovarian carcinoma. JAMA Oncol. 2, 482­490 (2016).
+30.Baysal, B. E. et al. Analysis of CHEK2 gene for ovarian cancer susceptibility. Gynecol. Oncol. 95, 62­69 (2004).
+31.Thompson, D. et al. Cancer risks and mortality in heterozygous ATM mutation carriers. J. Natl Cancer Inst. 97, 813­822 (2005).
+32. Johns, L. E. & Houlston, R. S. A systematic review and meta-analysis of familial colorectal cancer risk. Am. J. Gastroenterol. 96, 2992­3003 (2001).
+33. Ma, X., Zhang, B. & Zheng, W. Genetic variants associated with colorectal cancer risk: comprehensive research synopsis, meta-analysis, and epidemiological evidence. Gut 63, 326­336 (2014).
+34.Grant, R. C. et al. Prevalence of germline mutations in cancer predisposition genes in patients with pancreatic cancer. Gastroenterology 148, 556­564 (2015).
+35.Helgason, H. et al. Lossoffunction variants in ATM confer risk of gastric cancer. Nat. Genet. 47, 906­910 (2015).
+36. Naslund-Koch, C., Nordestgaard, B. G. & Bojesen, S. E. Increased risk for other cancers in addition to breast
+
+cancer for CHEK2*1100delC heterozygotes estimated from the Copenhagen general population study. J. Clin. Oncol. http://dx.doi.org/10.1200/JCO.2015.63.3594 (2016). 37.Roberts, N. J. et al. ATM mutations in patients with hereditary pancreatic cancer. Cancer Discov. 2, 41­46 (2012). 38.Zhen, D. B. et al. BRCA1, BRCA2, PALB2, and CDKN2A mutations in familial pancreatic cancer: a PACGENE study. 17, 569­577 (2015). 39.Howlader, N. et al. SEER cancer statistics review, 1975­2012. National Cancer Institute http://seer. cancer.gov/csr/1975_2012/ (2015). 40. CHEK2 Breast Cancer Case­Control Consortium. CHEK2*1100delC and susceptibility to breast cancer: a collaborative analysis involving 10,860 breast cancer cases and 9,065 controls from 10 studies. Am. J. Hum. Genet. 74, 1175­1182 (2004). 41.Antoniou, A. C. et al. Breast-cancer risk in families with mutations in PALB2. N. Engl. J. Med. 371, 497­506 (2014). 42.Southey, M. C. et al. A PALB2 mutation associated with high risk of breast cancer. Breast Cancer Res. 12, R109 (2010). 43.Bernstein, J. L. et al. Population-based estimates of breast cancer risks associated with ATM gene variants c.7271T>G and c.10666T>G (IVS106T>G) from the Breast Cancer Family Registry. Hum. Mutat. 27, 1122­1128 (2006). 44.Huijts, P. E. et al. CHEK2*1100delC homozygosity in the Netherlands -- prevalence and risk of breast and lung cancer. Eur. J. Hum. Genet. 22, 46­51 (2014). 45.Adank, M. A. et al. CHEK2*1100delC homozygosity is associated with a high breast cancer risk in women. J. Med. Genet. 48, 860­863 (2011). 46.Shaag, A. et al. Functional and genomic approaches reveal an ancient CHEK2 allele associated with breast cancer in the Ashkenazi Jewish population. Hum. Mol. Genet. 14, 555­563 (2005). 47. Han, F. F., Guo, C. L. & Liu, L. H. The effect of CHEK2 variant I157T on cancer susceptibility: evidence from a meta-analysis. DNA Cell Biol. 32, 329­335 (2013). 48.Adank, M. A. et al. Excess breast cancer risk in first degree relatives of CHEK2*1100delC positive familial breast cancer cases. Eur. J. Cancer 49, 1993­1999 (2013). 49.Mainiero, M. B. et al. ACR appropriateness criteria breast cancer screening. J. Am. Coll. Radiol 10, 11­14 (2013). 50. National Comprehensive Cancer Network. NCCN clinical practice guidelines in oncology: breast cancer screening and diagnosis, version 1. http://www.nccn.org/professionals/physician_gls/pdf/ breast-screening.pdf (2015). 51. National Institute for Health and Care Excellence. Familial breast cancer: classification, care, and managing breast cancer and related risks in people with a family history of breast cancer. http://www.nice. org.uk/guidance/CG164 (2013). 52.Warner, E. et al. Systematic review: using magnetic resonance imaging to screen women at high risk for breast cancer. Ann. Intern. Med. 148, 671­679 (2008). 53.Warner, E. et al. Prospective study of breast cancer incidence in women with a BRCA1 or BRCA2 mutation under surveillance with and without magnetic resonance imaging. J. Clin. Oncol. 29, 1664­1669 (2011). 54. Thomssen, C. & Harbeck, N. Update 2010 of the German AGO Recommendations for the Diagnosis and Treatment of Early and Metastatic Breast Cancer -- chapter B: prevention, early detection, lifestyle, premalignant lesions, DCIS, recurrent and metastatic breast cancer. Breast Care (Basel) 5, 345­351 (2010). 55.Saadatmand, S. et al. Survival benefit in women with BRCA1 mutation or familial risk in the MRI screening study (MRISC). Int. J. Cancer 137, 1729­1738 (2015).
+
+56.Heijnsdijk, E. A. et al. Differences in natural history between breast cancers in BRCA1 and BRCA2 mutation carriers and effects of MRI screeningMRISC, MARIBS, and Canadian studies combined. Cancer Epidemiol. Biomarkers Prev. 21, 1458­1468 (2012).
+57.Saslow, D. et al. American Cancer Society guidelines for breast screening with MRI as an adjunct to mammography. CA Cancer J. Clin. 57, 75­89 (2007).
+58.Quante, A. S. et al. Practical problems with clinical guidelines for breast cancer prevention based on remaining lifetime risk. J. Natl Cancer Inst. 107, djv124 (2015).
+59.King, T. A. et al. Lobular carcinoma in situ: a 29year longitudinal experience evaluating clinicopathologic features and breast cancer risk. J. Clin. Oncol. 33, 3945­3952 (2015).
+60.Fisher, B. et al. Tamoxifen for prevention of breast cancer: report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study. J. Natl Cancer Inst. 90, 1371­1388 (1998).
+61.Coopey, S. B. et al. The role of chemoprevention in modifying the risk of breast cancer in women with atypical breast lesions. Breast Cancer Res. Treat. 136, 627­633 (2012).
+62.Concannon, P. et al. Variants in the ATM gene associated with a reduced risk of contralateral breast cancer. Cancer Res. 68, 6486­6491 (2008).
+63. Bernstein, J.L. et al. Radiation exposure, the ATM Gene, and contralateral breast cancer in the women's environmental cancer and radiation epidemiology study. J Natl Cancer Inst 102, 475-83 (2010).
+64.Weischer, M. et al. CHEK2*1100delC heterozygosity in women with breast cancer associated with early death, breast cancer-specific death, and increased risk of a second breast cancer. J. Clin. Oncol. 30, 4308­4316 (2012).
+65.Jervis, S. et al. Ovarian cancer familial relative risks by tumour subtypes and by known ovarian cancer genetic susceptibility variants. J. Med. Genet. 51, 108­113 (2014).
+66.Antoniou, A. et al. Average risks of breast and ovarian cancer associated with BRCA1 or BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies. Am. J. Hum. Genet. 72, 1117­1130 (2003).
+67.Jacobs, I. J. et al. Ovarian cancer screening and mortality in the UK Collaborative Trial of Ovarian Cancer Screening (UKCTOCS): a randomised controlled trial. Lancet 387, 945­956 (2016).
+68.Liang, J. et al. APC polymorphisms and the risk of colorectal neoplasia: a HuGE review and metaanalysis. Am. J. Epidemiol. 177, 1169­1179 (2013).
+69. Zhang, G., Zeng, Y., Liu, Z. & Wei, W. Significant association between Nijmegen breakage syndrome 1 657del5 polymorphism and breast cancer risk. Tumour Biol. 34, 2753­2757 (2013).
+Acknowledgements The authors wish to acknowledge Dr Emily Sonnenblick for critical review and comments on the breast cancer screening component of this analysis. Author contributions statement N.T., S.M.D. and M.E.R. researched the data and wrote the article. All authors made a substantial contribution to discussion of the content for the article, and reviewed and edited the manuscript before submission. Competing interests statement M.E.R. and J.G. receive research support from Myriad Genetics. The other authors declare no competing interests.
+SUPPLEMENTARY INFORMATION See online article: S1 (table) | S2 (table)
+ALL LINKS ARE ACTIVE IN THE ONLINE PDF
+
+8 | ADVANCE ONLINE PUBLICATION
+
+© 2 0 1 6 M a c m ill a n P u b li s h e r s L i m it e d . A ll ri g h t s r e s e r v e d .
+
+www.nature.com/nrclinonc
+
+

@@ -1,0 +1,660 @@
+DOI:10.1093/jnci/djs351 Advance Access publication on August 18, 2012.
+Article
+
+©The Author 2012. Published by Oxford University Press. All rights reserved. For Permissions, please e-mail: journals.permissions@oup.com.
+
+Risks of Primary Extracolonic Cancers Following Colorectal Cancer in Lynch Syndrome
+Aung Ko Win, Noralane M. Lindor, Joanne P. Young, Finlay A. Macrae, Graeme P. Young, Elizabeth Williamson, Susan Parry, Jack Goldblatt, Lara Lipton, Ingrid Winship, Barbara Leggett, Katherine M. Tucker, Graham G. Giles, Daniel D. Buchanan, Mark Clendenning, Christophe Rosty, Julie Arnold, A. Joan Levine, Robert W. Haile, Steven Gallinger, Loïc Le Marchand, Polly A. Newcomb, John L. Hopper, Mark A. Jenkins
+Manuscript received March 13, 2012; revised July 16, 2012; accepted July 18, 2012.
+Correspondence to: Mark A. Jenkins, PhD, Centre for Molecular, Environmental, Genetic and Analytic Epidemiology, Melbourne School of Population Health, Level 3, 207 Bouverie Street, The University of Melbourne, VIC 3010, Australia (e-mail: m.jenkins@unimelb.edu.au).
+
+Background  Methods  Results
+ Conclusion 
+
+Lynch syndrome is a highly penetrant cancer predisposition syndrome caused by germline mutations in DNA mismatch repair (MMR) genes. We estimated the risks of primary cancers other than colorectal cancer following a diagnosis of colorectal cancer in mutation carriers.
+We obtained data from the Colon Cancer Family Registry for 764 carriers of an MMR gene mutation (316 MLH1, 357 MSH2, 49 MSH6, and 42 PMS2), who had a previous diagnosis of colorectal cancer.The Kaplan­Meier method was used to estimate their cumulative risk of cancers 10 and 20 years after colorectal cancer. We estimated the age-, sex-, country- and calendar period­specific standardized incidence ratios (SIRs) of cancers following colorectal cancer, compared with the general population.
+Following colorectal cancer, carriers of MMR gene mutations had the following 10-year risk of cancers in other organs: kidney, renal pelvis, ureter, and bladder (2%, 95% confidence interval [CI] = 1% to 3%); small intestine, stomach, and hepatobiliary tract (1%, 95% CI = 0.2% to 2%); prostate (3%, 95% CI = 1% to 5%); endometrium (12%, 95% CI = 8% to 17%); breast (2%, 95% CI = 1% to 4%); and ovary (1%, 95% CI = 0% to 2%). They were at elevated risk compared with the general population: cancers of the kidney, renal pelvis, and ureter (SIR  =  12.54, 95% CI = 7.97 to 17.94), urinary bladder (SIR = 7.22, 95% CI = 4.08 to 10.99), small intestine (SIR = 72.68, 95% CI = 39.95 to 111.29), stomach (SIR = 5.65, 95% CI = 2.32 to 9.69), and hepatobiliary tract (SIR = 5.94, 95% CI = 1.81 to 10.94) for both sexes; cancer of the prostate (SIR = 2.05, 95% CI = 1.23 to 3.01), endometrium (SIR = 40.23, 95% CI = 27.91 to 56.06), breast (SIR = 1.76, 95% CI = 1.07 to 2.59), and ovary (SIR = 4.19, 95% CI = 1.28 to 7.97).
+Carriers of MMR gene mutations who have already had a colorectal cancer are at increased risk of a greater range of cancers than the recognized spectrum of Lynch syndrome cancers, including breast and prostate cancers.
+J Natl Cancer Inst 2012;104:1363­1372
+
+There were approximately 10 million cancer survivors in the United States in 2001 (approximately 3.5% of the general population), and 22% of these had a colorectal cancer (1). Several epidemiological studies have shown that risk of primary cancers following colorectal cancer is substantially greater than the risk of first primary cancers for the general population (2­21). Possible reasons for an increased risk of cancers following a first cancer could be the long-term effects of treatment for the first cancer and an overall greater predisposition to cancer due to patient characteristics (both genetic and environmental factors) and gene­environment and gene­gene interactions (7, 22­24). Cancers following a first cancer may be identified earlier because of increased surveillance.
+A major inherited cancer syndrome is Lynch syndrome, also known as hereditary nonpolyposis colorectal cancer (HNPCC)
+
+(25), which is caused by germline mutations in one of the four DNA mismatch repair (MMR) genes MLH1, MSH2, MSH6, or PMS2 (26). Mutation carriers are at a substantially increased risk of cancers of the colon, rectum, endometrium, stomach, ovary, ureter, renal pelvis, brain, small bowel, hepatobiliary tract, and pancreas (27, 28). Several studies have quantified the risks of these cancers in Lynch syndrome (29­34); however, there have been relatively few studies of the risks of primary cancers following colorectal cancer in Lynch syndrome patients (35­37). Knowledge of the risks of cancers for MMR gene mutation carriers presenting with colorectal cancer has the potential to impact patient management and subsequent proposed surveillance. In this study, we have estimated risks of the primary extracolonic cancers following colorectal cancer for MMR gene mutation carriers.
+
+jnci.oxfordjournals.org
+
+JNCI |Articles 1363
+
+Subjects and Methods
+Study Sample This study comprised carriers of a pathogenic germline mutation in one of the MMR genes (MLH1, MSH2, MSH6, and PMS2) who had a previous diagnosis of colorectal cancer from the Colon Cancer Family Registry. Details of recruitment methods at each center of the Colon Cancer Family Registry have been published previously (38) and can be found at http://epi.grants.cancer.gov/ CFR/. From 1997 to 2010, families were recruited either by identification of recently diagnosed colorectal cancer patients ascertained through population cancer registries (population-based probands) in Australia (Victoria), Canada (Ontario), and the United States (Washington, California, Arizona, Minnesota, Colorado, New Hampshire, North Carolina, and Hawaii) or by identification of persons from families with multiple cancers that were referred to family cancer clinics (clinic-based probands) in Australia (Melbourne, Adelaide, Perth, Brisbane, and Sydney), New Zealand (Auckland), and the United States (Mayo Clinic, Rochester, Minnesota; and Cleveland Clinic, Cleveland, Ohio).
+Probands were asked for permission to contact their relatives to seek their enrollment in the Colon Cancer Family Registry. For probands ascertained from population cancer registries, first-degree relatives were recruited at all centers, and recruitment extended to more distant relatives at some centers. For probands ascertained from family cancer clinics, prespecified rules governing which relatives were to be approached for recruitment were consistent across recruiting centers [for details, see Newcomb et al. (38)]. Written informed consent was obtained from all study participants, and the study protocol was approved by the institutional human ethics committee at each Colon Cancer Family Registry center. In this study, we have included all probands and their relatives who had a confirmed pathogenic MMR gene mutation and a previous diagnosis of colorectal cancer.
+Data Collection At recruitment, baseline information on demographics, personal characteristics, personal and family history of cancer, cancer screening history, and history of polyps, polypectomy, hysterectomy, and other surgeries were obtained via questionnaires from all participants. Participants were given follow-up questionnaires at approximately 5 and 10 years after baseline to update this information. The baseline and follow-up questionnaires are available at https://cfrisc.georgetown.edu/isc/dd.questionnaires.do. Reported cancer diagnoses and ages at which these occurred were confirmed, where possible, using pathology reports, medical records, cancer registry reports, and/or death certificates. Each cancer was coded and stored using the guidelines in the International Classification of Diseases for Oncology, third edition (ICD-O) (39), to the most appropriate code based on all available information on location, histology, and behavior. Blood and tumor tissue samples were collected for genetic testing from all probands and participating relatives.
+Mutation Screening and Testing Screening for germline mutations in MLH1, MSH2, MSH6, and PMS2 was performed for all population-based probands who had a colorectal tumor that displayed evidence of impaired MMR
+
+function, ie, tumor microsatellite instability (MSI) and/or a lack of MMR protein expression (by immunohistochemistry). Screening for the same germline mutations was performed for the participant from each clinic-based family who developed colorectal cancer at the youngest age, regardless of MSI or MMR protein expression status. Mutation testing for the MLH1, MSH2, and MSH6 genes was performed by Sanger sequencing or denaturing high-performance liquid chromatography (dHPLC), followed by confirmatory DNA sequencing. Large duplication and deletion mutations including those involving EPCAM, which lead to MSH2 methylation, were detected by multiplex ligation-dependent probe amplification (MLPA) according to the manufacturer's instructions (MRC Holland, Amsterdam, the Netherlands) (38, 40, 41). PMS2 mutation testing involved a modified protocol from Senter et  al. (31), in which exons 1­5, 9, and 11­15 were amplified in three long-range polymerase chain reactions (PCRs), followed by nested exon-specific PCR/sequencing, whereas the remaining exons (exons 6, 7, 8, and 10) were amplified and sequenced directly from genomic DNA. Large-scale deletions in PMS2 were detected using the P008-A1 MLPA kit (MRC Holland, Amsterdam, the Netherlands). The relatives of probands with a pathogenic mutation, who provided a blood sample, underwent testing for the specific mutation identified in the proband.
+Definitions A pathogenic mutation was defined as a variant that was predicted to result in a stop codon, a frameshift mutation, a large duplication or deletion, or a missense mutation in the coding region or splice site previously reported within the scientific literature and databases to be pathogenic. Primary extracolonic cancers following colorectal cancer were defined as cancers in organs other than the colon and rectum diagnosed at least 1 year after the age at diagnosis of first primary colorectal cancer. Colon cancer was defined as any diagnosis of cancer within the proximal colon (C18.0­C18.4), distal colon (C18.5­C18.7), or an unspecified site of the colon (C18.8, C18.9, and C26.0). Rectal cancer included cancers of the rectosigmoid junction (C19.9) and rectum (C20.9 and C21.8).
+Statistical Analysis Time at risk for each carrier commenced at the age at his or her first diagnosis of colorectal cancer and ended at the age at his or her diagnosis of primary extracolonic cancer following colorectal cancer, last-known age, or age at death, whichever occurred first. For endometrial cancer, we excluded female mutation carriers who had had a hysterectomy before diagnosis of colorectal cancer (n = 87), and we censored at the age at hysterectomy (n = 44).
+The Kaplan­Meier failure function was used to estimate cumulative risk (penetrance) for subsequent primary cancers at 10 and 20 years following diagnosis of colorectal cancer for all carriers combined; cumulative risk was stratified by the MMR gene that was mutated.
+We estimated the standardized incidence ratio (SIR) for each of the following cancers: stomach (C16); small intestine (C17); "hepatobiliary tract" including liver and intrahepatic bile duct (C22), gall bladder (C23), and other and unspecified parts of biliary tract (C24); pancreas (C25); "kidney etc." including kidney except renal pelvis (C64), renal pelvis (C65), ureter (C66), and other and unspecified
+
+1364Articles|JNCI
+
+Vol. 104, Issue 18 | September 19, 2012
+
+urinary organs (C68); urinary bladder (C67); brain (C71); "bone" including bone and articular cartilage of limbs (C40) and bone and articular cartilage of other and unspecified sites (C41); hematopoietic tissue (C42); lung (C34); breast (C50); prostate (C61); "endometrium" including corpus uteri (C54) and uterus, part unspecified (C55); and ovary (C56). These cancer categories were specifically chosen as they matched the categories used by the Cancer Incidence in Five Continents volumes (42­45), which we used to estimate the SIR for each cancer.
+First, we calculated the risk of primary cancers following colorectal cancer in carriers of MMR gene mutations compared with the risk of primary cancers for the general population. We calculated the SIR as the observed numbers of primary cancer diagnoses following colorectal cancer for the MMR gene mutation carriers divided by the expected numbers of cancer diagnoses. The expected numbers of cancer diagnoses were calculated by multiplying the age-, sex-, country- and calendar period­specific incidence for the general population with the corresponding follow-up time in the study cohort. Age-, sex-, country- and calendar year­specific cancer incidences for the general population were obtained from Cancer Incidence in Five Continents for the calendar periods 1983­1987 (42), 1988­1992 (43), 1993­1997 (44), and 1998­2002 (45). The SIRs were estimated and stratified by: 1) age at diagnosis of colorectal cancer (<50 or 50 years), 2) site of first primary colorectal cancer (colon or rectum), 3) the MMR gene that was mutated, 4) the sex of the carriers, and 5) patient ascertainment (population-based or clinic-based). We conducted sensitivity analyses by excluding carriers who had any cancer before or at the age at diagnosis of the primary colorectal cancer (n = 97). The 95% confidence intervals (CIs) of the cumulative risks and the SIRs were calculated using the 2.5th and 97.5th percentiles from 10000 bootstrap samples, using the family as the resampling unit to allow for clustering within families.
+Next, we calculated the risk of primary cancers following colorectal cancer for carriers of MMR gene mutations compared with the risk of primary cancers following colorectal cancer for the general population. This ratio was calculated by dividing the SIR by the risk of primary cancers following colorectal cancer for the general population, which was obtained from the New Malignancies Among Cancer Survivors: SEER Cancer Registries, 1973­2000 (17). We calculated 95% CIs for this ratio based on observed and expected numbers of cancers using the method described by Breslow and Day (46). All statistical analyses were performed using Stata 11.0 (47).
+Results
+Using the Colon Cancer Family Registry, we identified a total of 764 carriers of a pathogenic germline mutation in an MMR gene (316 MLH1, 357 MSH2, 49 MSH6, and 42 PMS2) who had a previous diagnosis of colorectal cancer; they came from 475 families (179 MLH1, 214 MSH2, 46 MSH6, and 36 PMS2). Of the 764 carriers, 394 (52%) carriers were recruited in Australia and New Zealand, 255 (33%) in the United States, and 115 (15%) in Canada. Colorectal cancers were diagnosed at an average age of 44  years (SD: ± 11 years), ranging from 17 to 80 years. Among them, 642 (84%) cancers were located in the colon, 115 (15%) cancers were
+
+located in the rectum, and 7 (1%) cancers were synchronous in both colon and rectum (Table 1). Of all primary cancers following colorectal cancer, 74% were confirmed by pathology reports, medical records, cancer registry reports, and/or death certificates (Supplementary Table 1, available online).
+The most common primary cancers following colorectal cancer in Lynch syndrome patients of both sexes were located in the urinary tract, with a total of 43 (5.6%) cancers including 13 in the kidney, two in the renal pelvis, seven in the ureter, two in both the renal pelvis and the ureter, one in the urethra, and 18 in the urinary bladder. During the 10 years following diagnosis with colorectal cancer, approximately 2% of carriers were diagnosed with cancer of the kidney, renal pelvis, ureter, or urethra (20-year risk = 5%), and approximately 2% were diagnosed with bladder cancer (20-year risk = 3%) (Table 2). Following colorectal cancer, carriers were at approximately 13-fold increased risk of cancers of the kidney, renal pelvis, ureter or urethra (SIR = 12.54, 95% CI = 7.97 to 17.94) and at approximately sevenfold increased risk of urinary bladder cancer
+
+Table 1. Baseline characteristics of study participants*
+
+No.
+
+Center of recruitment  Cancer Care Ontario  University of Southern California  Australia and New Zealand Hawaii  Mayo Clinic Seattle Source of ascertainment Clinic-based Population-based Sex Men Women Mismatch repair gene mutated  MLH1  MSH2  MSH6  PMS2 First diagnosis of primary
+colorectal cancer Age at diagnosis, y  Mean (SD)  Median (range) Site Colon  Proximal colon  Distal colon  Both sides of colon*  Non-specific site of colon Rectum  Rectosigmoid junction Rectum Both colon and rectum Any other cancer before or at
+diagnosis of CRC No Yes
+
+115 61 394 10 163 21
+222 542
+382 382
+316 357
+49 42
+44.49 44
+642 375 113
+9 145 115
+33 82
+7
+667 97
+
+*  = Not estimated for percentages.   = Synchronous tumors.  CRC = colorectal cancer.
+
+%
+15 8
+52 1
+21 3
+29 71
+50 50
+41 47
+6 5
+(11.37) (17­80)
+84 -- -- -- -- 15 -- -- 1
+87 13
+
+jnci.oxfordjournals.org
+
+JNCI |Articles 1365
+
+Table 2. Cumulative risks (percent) and corresponding 95% confidence intervals (CIs) of primary extracolonic cancers during the 10 and 20 years following diagnosis of colorectal cancer for carriers of mismatch repair gene mutations
+
+10 years
+
+20 years
+
+Cancer site
+
+Risk, % (95% CI) Risk,% (95% CI)
+
+Both sexes
+
+ Kidney etc.*
+
+1.90
+
+ Urinary bladder
+
+1.61
+
+ Small intestine
+
+0.92
+
+Stomach
+
+0.66
+
+ Hepatobiliary tract 0.83
+
+Men
+
+Prostate
+
+2.74
+
+Women
+
+Endometrium
+
+12.12
+
+Breast
+
+1.94
+
+Ovary
+
+0.94
+
+(0.87 to 3.17) (0.65 to 2.75) (0.28 to 1.73) (0.13 to 1.40) (0.16 to 1.69)
+
+5.15 3.15 4.00 1.15 1.42
+
+(2.86 to 7.68) (1.37 to 5.20) (1.92 to 6.41) (0.19 to 2.48) (0.42 to 2.73)
+
+(0.86 to 4.77) 5.90 (2.69 to 9.76)
+
+(7.66 to 17.11) 23.99 (0.58 to 3.83) 11.38 (0.00 to 2.11) 2.08
+
+(16.79 to 32.84) (0.63 to 16.69) (0.50 to 4.14)
+
+* Kidney etc. included kidney, renal pelvis, ureter and other and unspecified urinary organs.
+ Hepatobiliary tract included liver and intrahepatic bile duct, gall bladder, and other and unspecified parts of biliary tract.
+
+(SIR = 7.22, 95% CI = 4.08 to 10.99) compared with the general population (Table 3).
+The other common primary cancers following colorectal cancer for Lynch syndrome patients were upper gastrointestinal cancers: there were 17 (2.2%) cancers in the small intestine (11 in the duodenum, two in the jejunum, and four were unspecified) and nine (1.2%) cancers in the stomach (one in the fundus and one in the greater curvature of the stomach; seven were unspecified). During the 10  years following colorectal cancer, the cumulative risk was approximately 1% for small intestinal cancer (20-year risk = 4%)
+
+and 0.7% for gastric cancer (20-year risk = 1%; Table 2). Following colorectal cancer, carriers had a more than 70-fold increased risk of small intestinal cancer (SIR = 72.68, 95% CI = 39.95 to 111.29) and a nearly sixfold increased risk of gastric cancer (SIR = 5.65, 95% CI = 2.32 to 9.69) compared with the general population (Table 3).
+We observed seven (9.2%) cancers in the hepatobiliary tract of Lynch syndrome patients who had had colorectal cancer (five in the liver, one in the gall bladder, and one in the unspecified part of biliary tract) and, following colorectal cancer, mutation carriers had a sixfold increased risk of hepatobiliary cancer (SIR  =  5.94; 95% CI = 1.81 to 10.94) compared with the general population. We also observed five (0.7%) cancers in hematopoietic tissue (four in the bone marrow and one in the hematopoietic system, unspecified), five (0.7%) brain cancers (one in the cerebrum, one in the frontal lobe, and three in the brain, unspecified), two bone cancers (one in the scapula and long bones of upper limb, and one in the bone and articular cartilage, unspecified), four lung cancers, and three pancreatic cancers; however, these cancer risks were not statistically significantly greater than for the general population (Table 3).
+The most common primary cancer following colorectal cancer for Lynch syndrome­carrying women was endometrial cancer, with a total of 45 (11.8%) patients and 40-fold increased risk compared with the general population (SIR  =  40.23, 95% CI  =  27.91 to 56.06). We also observed 20 (5.2%) breast cancers (SIR  =  1.76, 95% CI  =  1.07 to 2.59 for all carriers combined; Table  3), driven primarily by cancers arising in MSH2 mutation carriers (SIR = 2.36, 95% CI = 1.19 to 3.73; Table 4). There were only six (1.6%) ovarian cancers (SIR = 4.19, 95% CI = 1.28 to 7.97 for all carriers combined; Table 3) but again mainly in the MSH2 group (SIR = 5.83, 95% CI = 1.29 to 12.71; Table 4). During the 10 years following colorectal cancer, the cumulative risk was approximately 12% for endometrial cancer (20-year risk = 24%), 2% for breast
+
+Table 3. Standardized incidence ratios (SIRs) and corresponding 95% confidence intervals (CIs) of primary extracolonic cancers following colorectal cancer for carriers of mismatch repair gene mutation*
+
+Site of cancer
+
+Median no. of years
+
+Median age
+
+from colorectal cancer
+
+at diagnosis,
+
+to following cancer
+
+O
+
+E
+
+y(min­max)
+
+diagnosis (min­max)
+
+SIR
+
+(95% CI)
+
+Both sexes
+
+ Kidney etc.
+
+25 1.99
+
+ Urinary bladder
+
+18 2.49
+
+ Small intestine
+
+17 0.23
+
+ Stomach
+
+9 1.59
+
+ Hepatobiliary tract
+
+7 1.18
+
+ Brain
+
+5 1.15
+
+ Hematopoietic tissue 5 1.61
+
+ Lung
+
+4 9.48
+
+ Pancreas
+
+3 1.62
+
+ Bone
+
+2 0.11
+
+Men
+
+ Prostate
+
+19 9.25
+
+Women
+
+ Endometrium
+
+45 1.12
+
+ Breast
+
+20 11.34
+
+ Ovary
+
+6 1.43
+
+60 (35­78) 65 (54­84) 55 (31­67) 69 (55­79) 62 (39­73) 68 (62­80) 57 (41­75) 57 (48­65) 65 (46­67) 68 (64­71)
+64 (55­77)
+50 (35­69) 60 (43­79) 52 (48­61)
+
+14 (1­40) 11 (2­34) 13 (1­28) 19 (1­38) 6 (2­13) 16 (10­33) 12 (2­18) 13 (1­18) 13 (9­23) 3.5 (3­4)
+14 (4­33)
+8 (1­34) 16 (1­23) 10 (1­26)
+
+12.54 7.22
+72.68 5.65 5.94 4.36 3.11 0.42 1.86 17.99
+2.05
+40.23 1.76 4.19
+
+(7.97 to 17.94) (4.08 to 10.99) (39.95 to 111.29) (2.32 to 9.69) (1.81 to 10.94) (0.79 to 9.55) (0.63 to 6.10) (0.10 to 0.91) (0.00 to 4.31) (0.00 to 45.41)
+(1.23 to 3.01)
+(27.91 to 56.06) (1.07 to 2.59) (1.28 to 7.97)
+
+* O = observed number of cancers; E = expected number of cancers.  Kidney etc. included kidney, renal pelvis, ureter, and other and unspecified urinary organs.  Hepatobiliary tract included liver and intrahepatic bile duct, gall bladder, and other and unspecified parts of biliary tract.
+
+1366Articles|JNCI
+
+Vol. 104, Issue 18 | September 19, 2012
+
+jnci.oxfordjournals.org
+
+Table 4. Standardized incidence ratios (SIRs) and corresponding 95% confidence intervals (CIs) of primary extracolonic cancers following colorectal cancer for mismatch repair gene mutation carriers stratified by the mismatch repair gene that was mutated*
+
+MLH1
+
+MSH2
+
+MSH6
+
+PSM2
+
+O E SIR
+
+(95% CI)
+
+OE
+
+SIR
+
+(95% CI)
+
+O E SIR
+
+(95% CI)
+
+OE
+
+SIR
+
+(95% CI)
+
+Both sexes
+
+ Kidney etc.
+
+8 0.80
+
+ Urinary bladder
+
+4 1.04
+
+ Small intestine
+
+4 0.10
+
+Stomach
+
+3 0.66
+
+ Hepatobiliary tract 4 0.48
+
+Brain
+
+0 0.48
+
+ Hematopoietic tissue 0 0.67
+
+Lung
+
+2 3.79
+
+Pancreas
+
+0 0.68
+
+Bone
+
+1 0.05
+
+Men
+
+Prostate
+
+3 3.44
+
+Women
+
+Endometrium
+
+19 0.50
+
+Breast
+
+5 5.08
+
+Ovary
+
+2 0.65
+
+9.96 3.86 40.92 4.54 8.39 -- -- 0.53 -- 20.98
+
+(3.68 to 18.14) (0.81 to 8.64) (8.78 to 90.60) (0.00 to 10.15) (1.78 to 18.41)
+-- -- (0.00 to 1.46) -- (0.00 to 62.30)
+
+0.87 (0.00 to 2.19)
+
+35.25 0.99 3.06
+
+(20.99 to 64.24) (0.22 to 1.98) (0.00 to 8.43)
+
+17 0.95 17.85 14 1.12 12.53 12 0.11 108.94
+5 0.73 6.81 2 0.56 3.59 5 0.55 9.16 5 0.75 6.69 1 4.54 0.22 3 0.75 4.00 1 0.05 18.82
+
+15 4.15 3.62
+
+24 0.54 13 5.52
+4 0.69
+
+44.73 2.36 5.83
+
+(10.14 to 27.15) (6.59 to 19.78) (52.76 to 180.31) (1.42 to 13.75) (0.00 to 9.46) (1.67 to 19.82) (1.37 to 13.13)
+(0.00 to 0.76) (0.00 to 9.08) (0.00 to 64.32)
+(2.07 to 5.36)
+(26.04 to 71.21) (1.19 to 3.73)
+(1.29 to 12.71)
+
+0 0.16 --
+
+--
+
+0 0.25 --
+
+--
+
+0 0.02 --
+
+--
+
+1 0.13 7.58 (0.00 to 28.79)
+
+1 0.10 10.31 (0.00 to 38.70)
+
+0 0.08 --
+
+--
+
+0 0.13 --
+
+--
+
+0 0.82 --
+
+--
+
+0 0.13 --
+
+--
+
+0 0.01 --
+
+--
+
+1 1.16 0.86 (0.00 to 3.03)
+
+2 0.04 49.90 (0.00 to 184.87)
+
+2 0.41 4.90 (0.00 to 13.03)
+
+0 0.06
+
+-
+
+-
+
+0 0 1 0 0 0 0 1 0 0
+0
+0 0 0
+
+0.07 --
+
+--
+
+0.09 --
+
+--
+
+0.01 116.35 (0.00 to 506.78)
+
+0.07 --
+
+--
+
+0.05 --
+
+--
+
+0.04 --
+
+--
+
+0.06 --
+
+--
+
+0.33 3.02 (0.00 to 16.44)
+
+0.05 --
+
+--
+
+0.00 --
+
+--
+
+0.51 --
+
+--
+
+0.05 -- 0.34 -- 0.03 --
+
+-- -- --
+
+* O = observed number of cancers; E = expected number of cancers, -- = not estimable due to low numbers of cancers.  Kidney etc. included kidney, renal pelvis, ureter, and other and unspecified urinary organs.  Hepatobiliary tract included liver and intrahepatic bile duct, gall bladder, and other and unspecified parts of biliary tract.
+
+JNCI |Articles 1367
+
+cancer (20-year risk = 11%), and 1% for ovarian cancer (20-year risk = 2%; Table 2).
+For Lynch syndrome­carrying men, we observed 19 (5%) prostate cancers, with a median age at diagnosis of 64  years (range: 55­77 years; Table 3), of which 15 arose in MSH2 mutation carriers (Table  4). During the 10  years following colorectal cancer, about 3% of men were estimated to be diagnosed with prostate cancer (20-year risk = 6%; Table 2). Overall, we estimated a twofold increased risk of prostate cancer for all carriers combined, compared with the general population (SIR = 2.05, 95% CI = 1.23 to 3.01; Table 3), the vast majority of which were diagnosed for MSH2 mutation carriers (SIR = 3.62, 95% CI = 2.07 to 5.36; Table 4).
+We observed no statistically significant differences in 10- and 20-year cumulative risks when stratified by the MMR gene that was mutated (data not shown). We observed no differences in the SIRs by the site of colorectal cancer (Table 5), the sex of the carriers (Supplementary Table 2, available online), the age at diagnosis of colorectal cancer (Supplementary Table 3, available online), and the method of case ascertainment (Supplementary Table 4, available online). When we restricted the analysis to carriers without any cancer before or at age at first diagnosis of colorectal cancer, we still observed increased risks of primary cancers following colorectal cancer, except for hepatobiliary tract and breast cancers (Supplementary Table 5, available online).
+The increased site-specific risks that we observed were similar whether the reference incidences were for any primary cancer or only for cancer diagnosed subsequent to colorectal cancer. That is, the increased risk that we observed for cancer following colorectal cancer in MMR gene mutation carriers was substantially greater than the increased risk expected based on similar analysis in the general population (Table 5).
+
+Discussion
+Some individuals with Lynch syndrome never develop a cancer, whereas most such individuals are diagnosed with one or more cancers during their lives, with colorectal cancer being the most common site. Previous research on cancer risks in Lynch syndrome patients has almost exclusively been about their risk of first cancers. The risk of cancers following a diagnosis of cancer in Lynch syndrome patients is not well understood. Two studies have estimated risks of colorectal cancer (35) or endometrial cancer (36) alone following colorectal cancer, and only one study has estimated risks for other types of cancers (37). Addressing this knowledge gap may lead to more appropriate surveillance in colorectal cancer patients with Lynch syndrome. We have now estimated these risks using the largest study of Lynch syndrome colorectal cancer patients to date and we have observed that these patients have an increased risk of a greater range of cancers than the recognized spectrum of Lynch syndrome cancers, including breast and prostate cancers.
+We derived most of our conclusions from analyses of all MMR gene mutation carriers combined because even with this large series of patients, there was insufficient power to fully distinguish some trends from random variation. Where feasible, we attempted to tease out the differences between the different MMR genes involved. We observed that the most common primary cancers following colorectal cancer, for both men and women who were Lynch syndrome carriers, were urinary tract cancers. Similar to our estimate of 5.2% risk of urinary tract cancers at 20 years following colorectal cancer, Aarnio et al. (37) studied 190 colorectal cancer patients with Lynch syndrome and reported a 20-year risk of approximately 5% for urinary tract cancer, although no confidence intervals of these risks were reported. Calderwood et al. (19)
+
+Table 5. Standardized incidence ratios (SIRs) and corresponding 95% confidence intervals (CIs) of primary extracolonic cancers following colorectal cancer for mismatch repair gene mutation carriers stratified by site of colorectal cancer*
+
+Colon
+
+Rectum
+
+Both sexes  Kidney etc.  Urinary bladder  Small intestine  Stomach  Hepatobiliary tract  Brain  Hematopoietic tissue  Lung  Pancreas  Bone Men  Prostate Women  Endometrium  Breast  Ovary
+
+O E SIR
+
+(95% CI)
+
+20 1.71 11.68 (6.96 to 17.43) 17 2.16 7.87 (4.39 to 12.14) 14 0.20 69.89 (35.08 to 111.26) 7 1.38 5.07 (1.67 to 9.17) 5 1.01 4.94 (0.99 to 9.92) 3 0.98 3.06 (0.00 to 7.01) 4 1.38 2.90 (0.67 to 6.17) 3 8.19 0.37 (0.00 to 0.86) 2 1.39 1.44 (0.00 to 3.75) 2 0.09 21.09 (0.00 to 53.08)
+17 8.06 2.11 (1.22 to 3.14)
+37 0.92 40.37 (27.16 to 58.24) 14 9.62 1.45 (0.75 to 2.32)
+5 1.21 4.14 (0.83 to 8.50)
+
+SIR2 (95% CI) O E SIR (95% CI)
+
+9.46 (5.74 to 14.77) 8.11 (4.72 to 13.10) 20.32 (10.94 to 34.92) 4.37 (1.75 to 9.05) 5.13 (1.66 to 12.15) 3.48 (0.71 to 10.35) 3.11 (0.85 to 7.97) 0.39 (0.08 to 1.18) 1.50 (0.18 to 5.44) 26.37 (3.02 to 124.77)
+
+4 0.26 15.12 1 0.31 3.21 3 0.03 94.75 2 0.19 10.31 2 0.16 12.87 2 0.16 12.85 1 0.21 4.71 1 1.21 0.83 1 0.22 4.60 0
+
+(3.31 to 32.47) (0.00 to 10.41) (0.00 to 231.81) (0.00 to 29.38) (0.00 to 34.85) (0.00 to 34.72) (0.00 to 16.48) (0.00 to 2.95) (0.00 to 16.96)
+
+2.11 (1.23 to 3.38) 1 1.14 0.88 (0.00 to 3.36)
+
+33.36 (23.19 to 46.49) 8 0.19 41.22 (13.74 to 105.05) 1.44 (0.78 to 2.41) 6 1.63 3.68 (1.22 to 6.67) 3.70 (1.19 to 8.74) 1 0.22 4.59 (0.00 to 16.74)
+
+SIR2
+
+(95% CI)
+
+11.90 (3.29 to 31.54) 2.94 (0.07 to 16.60) 37.90 (8.02 to 122.25) 10.52 (1.29 to 39.19) 13.27 (1.85 to 57.41) 15.12 (1.74 to 55.37) 5.23 (0.13 to 29.69) 0.78 (0.02 to 4.37) 6.13 (0.15 to 34.08)
+
+1.05 (0.03 to 5.84)
+38.89 (16.90 to 80.05) 3.68 (1.35 to 8.08) 5.96 (0.15 to 34.04)
+
+* O = observed number of cancers; E = expected number of cancers; SIR = standardized incidence ratio of primary cancer following colorectal cancer for mismatch repair gene mutation carriers compared with risk of primary cancer for the general population; SIR2 = standardized incidence ratio of primary cancers following colorectal cancer for mismatch repair gene mutation carriers compared with that for the general population.
+ Kidney etc. included kidney, renal pelvis, ureter, and other and unspecified urinary organs.
+ Hepatobiliary tract included liver and intrahepatic bile duct, gall bladder, and other and unspecified parts of biliary tract.
+
+1368Articles|JNCI
+
+Vol. 104, Issue 18 | September 19, 2012
+
+observed that colorectal cancer patients in the general population were at increased risk of renal pelvic cancer (SIR = 1.59, 95% CI = 1.31 to 1.91) and ureteral cancer (SIR = 2.00, 95% CI = 1.59 to 2.47). They further observed that the SIRs for these two cancers were greater 1) following colorectal cancer diagnosis at an early age than at a later age and 2) for those with multiple colorectal cancers, that is, those who were more likely to be MMR gene mutation carriers than those with single colorectal cancer. Although van der Post et al. (48) observed an increased risk of urinary tract cancers particularly for MSH2 mutation carriers, we observed increased risks for both MLH1 and MSH2 mutation carriers but had insufficient data to address MSH6 and PMS2 mutation carriers individually. There is no consensus that screening for urinary tract cancers should be considered for Lynch syndrome patients. Myrhøj et al. (49) observed that urine cytology is not a proper screening method for urinary tract cancer in Lynch syndrome patients. Current recommendations range from minimal surveillance ["consider annual urinalysis," per National Comprehensive Cancer Network version 1.2011 (50)] to extensive surveillance ["a combination of ultrasonography of the bladder and upper urinary tract, urinary cytology, and urine sediment (erythrocytes) every 1­2 years starting at age 40" (48)].
+Cancer of the small intestine is rare in the general population; however, it is one of the Lynch syndrome­spectrum tumors, with a lifetime risk in carriers of 4% (51­53) independent of development of colorectal cancer. Patients with Lynch syndrome­associated small intestinal cancers are diagnosed up to 20 years earlier than the median age for sporadic disease; also, in Lynch syndrome patients, the tumors are distributed along the small intestine in decreasing frequency from the duodenum to the ileum (54), whereas sporadic small intestinal cancer is largely a disorder of the duodenum (55). In a case series of Lynch syndrome­associated small intestinal cancer, less than half represented the initial presentation of the disease, either alone or synchronously with another cancer, and there was no relationship found with gene, mutation type, sex, or personal or family history of cancer (56). In this study, risk of small intestinal cancer following colorectal cancer in Lynch syndrome patients was at more than 70 times the population risk, with the majority of instances occurring in the duodenum, with a median age of 55 years. The ability to visualize the remainder of the small intestine with computed tomography,ormagnetic resonance enterography, or video capsule endoscopy (54) has improved in recent years, but there is no current consensus on screening. Awareness of this risk, however, will encourage prompt investigation of unexplained iron deficiency or gastrointestinal symptoms that could relate to small bowel pathology.
+Endometrial cancer was the most common cancer following colorectal cancer for women with Lynch syndrome, with statistically increased SIRs for carriers of mutations in MLH1 and MSH2. Using the same data source as our study, Obermair et al. (36) reported that Lynch syndrome­carrying women with colorectal cancer have a sixfold increased risk of endometrial cancer compared with women with microsatellite-stable colorectal cancer (hazard ratio = 6.24, 95% CI = 2.20 to 17.73). In the current study, we estimated Lynch syndrome patients' risk of endometrial cancer following colorectal cancer to be 40-fold greater than the endometrial cancer incidence in the general population. This
+
+apparent difference between the two studies may be explained by the use of different comparison groups (population incidence vs microsatellite-stable cases), different statistical methods (SIR vs Cox regression), and the incorporation of additional female MMR gene mutation carriers (n = 382 vs 112). Nevertheless, both studies confirm that women who have a previous diagnosis of colorectal cancer and carry MMR gene mutations are at very high risk of endometrial cancer. Similar to our 20-year-risk estimate of 24%, Aarnio et al. (37) observed that women with Lynch syndrome had a 20-year risk of approximately 27% for endometrial cancer following colorectal cancer although no confidence interval was reported. We also observed an increased risk of ovarian cancer following colorectal cancer in Lynch syndrome, with diagnoses made in MLH1 and MSH2 mutation carriers; however, only the MSH2 mutation carriers were at statistically significantly increased risk. According to the National Comprehensive Cancer Network guidelines (50), a prophylactic hysterectomy with bilateral salpingo-oophorectomy should be considered to reduce the risks of both endometrial and ovarian cancers in women with Lynch syndrome who have completed childbearing.
+Overall, we observed a twofold increased risk of breast cancer in female carriers of Lynch syndrome mutations who been diagnosed with colorectal cancer; however, upon stratification by mutation type, this increase was only statistically significant for MSH2. The SIR for breast cancer was not statistically significant for MLH1 and MSH6 mutation carriers but because of the small number of patients and the wide CIs, we cannot state that heterogeneity of risk by gene exists. Because breast cancer is relatively common in the general population, demonstration of an increased risk requires larger numbers of subjects than has heretofore been available. The current study adds to the recent growing body of literature implicating MMR genes in some breast cancers (57). In a prospective study of MMR gene mutation carriers from the Colon Cancer Family Registry, we have found a fourfold increased risk of breast cancer relative to the general population (58). Also notable is that seven of the 20 women who developed breast cancer following colorectal cancer in this study have been previously reported to have lost MMR protein expression (59), suggesting that the MMR defect caused by the mutation underlies the development of both colorectal and breast cancers in mutation carriers.
+Increased incidence of prostate cancer has been previously reported in men with Lynch syndrome (60) and it is commensurate with that seen in BRCA2 mutation carriers (61, 62). In this study, Lynch syndrome­carrying men were at a twofold increased risk for prostate cancer following colorectal cancer. However, when analysis was stratified for specific MMR gene mutations, only MSH2 mutation carriers had a statistically significantly increased risk, consistent with previous reports. Of eight prostate cancers in which MMR protein loss has been reported by previous studies (60, 63), seven have involved MSH2 mutations and one has involved an MSH6 mutation. All immunohistochemistry results corresponded with the known underlying germline mutation.
+The literature on Lynch syndrome through the years has included many case reports and series in which carriers of MMR gene mutations have developed cancers that are not widely considered to be part of the spectrum, including breast (64, 65), prostate (66), rhabdomyosarcoma (67), dermatofibrosarcoma (68), leiomyosarcoma (69),
+
+jnci.oxfordjournals.org
+
+JNCI |Articles 1369
+
+carcinoid syndrome (70), and malignant fibrous histiocytoma (71). In some of these patients, the tumor showed deficient DNA MMR. Following this logic, nearly any cancer that arises now and then in a mutation carrier might be labeled as being "part of the spectrum." In this study, we have documented evidence of increased risks of breast and prostate cancers in Lynch syndrome patients who have developed colorectal cancer due to MSH2 mutations (we cannot rule out a similar effect for the other genes). On the other hand, we have also noted no statistically significantly increased risk of some of the cancers traditionally linked with environmental influences, for example, lung cancer, consistent with the hypothesis that the initiating DNA lesions for those cancers are not regulated by MMR genes. The small number of observed lung cancers was probably not attributable to a nonsmoking cohort because, among a total of 764 carriers, 386 (53%) subjects were ever-smokers, 339 (47%) subjects were never-smokers, and the smoking status was not known for the remaining 39 subjects.
+Does cancer risk change for a mutation carrier once they have been diagnosed with a colorectal cancer? The most studied cancer for MMR-mutation carriers, apart from colorectal cancer, is endometrial cancer. Hazard ratios of endometrial cancer for carriers who have not necessarily had a previous diagnosis of colorectal cancer, relative to the general population, were estimated to be 29.1 (95% CI  =  16.5 to 51.1) for carriers of mutations in MLH1 and MSH2 combined (33), 25.5 (95% CI  =  16.8 to 38.7) for MSH6 mutation carriers (29), and 7.5 (95% CI = 2.8 to 20.0) for PMS2 mutation carriers (31). Compared with these estimates, our estimate for endometrial cancer following colorectal cancer was not statistically different.
+This study is, to our knowledge, the largest to date to investigate the risk of cancers at a wide range of sites following colorectal cancer in those with Lynch syndrome. All participating sites of the Colon Cancer Family Registry used standardized epidemiologic assessment and uniformly high-quality testing for MMR gene mutations. Attempts were made to verify primary cancers using pathology reports, medical records, corroboration by relatives, cancer registry reports, and/or death certificates, where available (38).
+There are some notable limitations of this study. We did not have data on histological type or specific types of some cancers in this analysis, for example, bone cancer and cancers of hematopoietic tissue. We used an arbitrary cutoff time point--at least 1 year after age at first diagnosis of colorectal cancer--to define a primary cancer following colorectal cancer. We were unable to account for treatment history that may have influenced the findings. Because patients with poor survival were less likely to be included in this analysis (they were unable to provide a blood sample for genetic testing and complete a questionnaire), there is a possibility that our results are not applicable to colorectal cancer patients with poor prognosis. Finally, because of the lack of comparative incidence data, we were unable to estimate site-specific SIRs separately for some of the other cancers, for example, those of the kidney, renal pelvis, ureter, and urethra, rather than all urinary tract cancers combined.
+In summary, carriers of MMR gene mutations who have had a primary colorectal cancer are at increased risk of a range of cancers that includes cancers known to be associated with Lynch syndrome as well as breast and prostate cancers. These new data provide further determination of cancer risks, potentially informing and
+
+justifying ongoing studies to create the evidence for effective screening methodologies and intervals in MMR gene mutation carriers. Larger studies are needed to refine risk estimates separately for specific MMR gene mutations to best inform policies on clinical risk management.
+References
+ 1. Centers for Disease Control and Prevention. Cancer survivorship--United States, 1971­2001. MMWR Morb Mortal Wkly Rep. 2004;53(24):526­529.
+ 2.Hoar SK, Wilson J, Blot WJ, McLaughlin JK, Winn DM, Kantor AF. Second cancer following cancer of the digestive system in Connecticut, 1935­82. Natl Cancer Inst Monogr. 1985;68:49­82.
+ 3.Lynge E, Jensen OM, Carstensen B. Second cancer following cancer of the digestive system in Denmark, 1943-80. Natl Cancer Inst Monogr. 1985;68:277­308.
+ 4. Teppo L, Pukkala E, Saxén E. Multiple cancer­an epidemiologic exercise in Finland. J Natl Cancer Inst. 1985;75(2):207­217.
+ 5.Enblad P, Adami HO, Glimelius B, Krusemo U, Påhlman L. The risk of subsequent primary malignant diseases after cancers of the colon and rectum. A nationwide cohort study. Cancer. 1990;65(9):2091­2100.
+ 6. Levi F, Randimbison L, Te VC, Rolland-Portal I, Franceschi S, La Vecchia C. Multiple primary cancers in the Vaud Cancer Registry, Switzerland, 1974-89. Br J Cancer. 1993;67(2):391­395.
+ 7.Tsukuma H, Fujimoto I, Hanai A, Hiyama T, Kitagawa T, Kinoshita N. Incidence of second primary cancers in Osaka residents, Japan, with special reference to cumulative and relative risks. Jpn J Cancer Res. 1994;85(4): 339­345.
+ 8. Slattery ML, Mori M, Gao R, Kerber RA. Impact of family history of colon cancer on development of multiple primaries after diagnosis of colon cancer. Dis Colon Rectum. 1995;38(10):1053­1058.
+ 9.Buiatti E, Crocetti E, Acciai S, et  al. Incidence of second primary cancers in three Italian population-based cancer registries. Eur J Cancer. 1997;33(11):1829­1834.
+ 10.McCredie M, Macfarlane GJ, Bell J, Coates M. Second primary cancers after cancers of the colon and rectum in New South Wales, Australia, 1972-1991. Cancer Epidemiol Biomarkers Prev. 1997;6(3):155­160.
+ 11.Levi F, Randimbison L, La Vecchia C, Te VC, Franceschi S. Cancer risk following polyps or cancer of the large bowel in Vaud, Switzerland. Int J Cancer. 1999;80(4):634­635.
+ 12. Crocetti E, Buiatti E, Falini P; Italian Multiple Primary Cancer Working Group. Multiple primary cancer incidence in Italy. Eur J Cancer. 2001;37(18):2449­2456.
+13.Hemminki K, Li X, Dong C. Second primary cancers after sporadic and familial colorectal cancer. Cancer Epidemiol Biomarkers Prev. 2001;10(7):793­798.
+ 14.Evans HS, Møller H, Robinson D, Lewis CM, Bell CM, Hodgson SV. The risk of subsequent primary cancers after colorectal cancer in southeast England. Gut. 2002;50(5):647­652.
+ 15.Heard A, Roder D, Luke C. Multiple primary cancers of separate organ sites: implications for research and cancer control (Australia). Cancer Causes Control. 2005;16(5):475­481.
+ 16.Ahmed F, Goodman MT, Kosary C, et al. Excess risk of subsequent primary cancers among colorectal carcinoma survivors, 1975-2001. Cancer. 2006;107(5)(suppl):1162­1171.
+ 17. Mysliwiec PA, Cronin KA, Schatzkin A. New malignancies following cancer of the colon, rectum, and anus. In: Curtis RE, Freedman DM, Ron E, et al., eds. New Malignancies Among Cancer Survivors: SEER Cancer Registries, 1973­2000. Bethesda, MD: National Cancer Institute; 2006: 111­144.
+ 18.Kendal WS, Nicholas G. A population-based analysis of second primary cancers after irradiation for rectal cancer. Am J Clin Oncol. 2007;30(4):333­339.
+ 19. Calderwood AH, Huo D, Rubin DT. Association between colorectal cancer and urologic cancers. Arch Intern Med. 2008;168(9):1003­1009.
+ 20.Karahalios E, English D, Thursfield V, et  al. Second primary cancers in Victoria. Melbourne, Australia: Victorian Cancer Registry, Cancer Epidemiology Centre, Cancer Council Victoria; 2009.
+
+1370Articles|JNCI
+
+Vol. 104, Issue 18 | September 19, 2012
+
+ 21.Youlden DR, Baade PD. The relative risk of second primary cancers in Queensland, Australia: a retrospective cohort study. BMC Cancer. 2011;11:83.
+ 22. Travis LB, Rabkin CS, Brown LM, et al. Cancer survivorship­genetic susceptibility and second primary cancers: research strategies and recommendations. J Natl Cancer Inst. 2006;98(1):15­25.
+ 23.Mariotto AB, Rowland JH, Ries LA, Scoppa S, Feuer EJ. Multiple cancer prevalence: a growing challenge in long-term survivorship. Cancer Epidemiol Biomarkers Prev. 2007;16(3):566­571.
+ 24. Travis LB. The epidemiology of second primary cancers. Cancer Epidemiol Biomarkers Prev. 2006;15(11):2020­2026.
+ 25. Jass JR. Hereditary Non-Polyposis Colorectal Cancer: the rise and fall of a confusing term. World J Gastroenterol. 2006;12(31):4943­4950.
+ 26. Lynch HT, de la Chapelle A. Hereditary colorectal cancer. N Engl J Med. 2003;348(10):919­932.
+ 27. Umar A, Boland CR, Terdiman JP, et al. Revised Bethesda Guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst. 2004;96(4):261­268.
+ 28.Kastrinos F, Mukherjee B, Tayob N, et  al. Risk of pancreatic cancer in families with Lynch syndrome. JAMA. 2009;302(16):1790­1795.
+ 29. Baglietto L, Lindor NM, Dowty JG, et al.; Dutch Lynch Syndrome Study Group. Risks of Lynch syndrome cancers for MSH6 mutation carriers. J Natl Cancer Inst. 2010;102(3):193­201.
+ 30. Jenkins MA, Baglietto L, Dowty JG, et al. Cancer risks for mismatch repair gene mutation carriers: a population-based early onset case-family study. Clin Gastroenterol Hepatol. 2006;4(4):489­498.
+ 31.Senter L, Clendenning M, Sotamaa K, et  al. The clinical phenotype of Lynch syndrome due to germ-line PMS2 mutations. Gastroenterology. 2008;135(2):419­428.
+ 32. Chen S, Wang W, Lee S, et al.; Colon Cancer Family Registry. Prediction of germline mutations and cancer risk in the Lynch syndrome. JAMA. 2006;296(12):1479­1487.
+ 33.Quehenberger F, Vasen HF, van Houwelingen HC. Risk of colorectal and endometrial cancer for carriers of mutations of the hMLH1 and hMSH2 gene: correction for ascertainment. J Med Genet. 2005;42(6):491­496.
+34.Bonadona V, Bonaïti B, Olschwang S, et  al.; French Cancer Genetics Network. Cancer risks associated with germline mutations in MLH1, MSH2, and MSH6 genes in Lynch syndrome. JAMA. 2011;305(22):2304­2310.
+ 35. Parry S, Win AK, Parry B, et al. Metachronous colorectal cancer risk for mismatch repair gene mutation carriers: the advantage of more extensive colon surgery. Gut. 2011;60(7):950­957.
+ 36.Obermair A, Youlden DR, Young JP, et  al. Risk of endometrial cancer for women diagnosed with HNPCC-related colorectal carcinoma. Int J Cancer. 2010;127(11):2678­2684.
+ 37.Aarnio M, Mecklin JP, Aaltonen LA, Nyström-Lahti M, Järvinen HJ. Life-time risk of different cancers in hereditary non-polyposis colorectal cancer (HNPCC) syndrome. Int J Cancer. 1995;64(6):430­433.
+ 38. Newcomb PA, Baron J, Cotterchio M, et al.; Colon Cancer Family Registry. Colon Cancer Family Registry: an international resource for studies of the genetic epidemiology of colon cancer. Cancer Epidemiol Biomarkers Prev. 2007;16(11):2331­2343.
+ 39.Fritz A, Percy C, Jack A, et  al. International Classification of Diseases for Oncology (ICD-O). 3rd ed. Geneva, Switzerland: World Health Organization; 2000.
+ 40. Southey MC, Jenkins MA, Mead L, et al. Use of molecular tumor characteristics to prioritize mismatch repair gene testing in early-onset colorectal cancer. J Clin Oncol. 2005;23(27):6524­6532.
+ 41. Smith L, Tesoriero A, Mead L, et al. Large genomic alterations in hMSH2 and hMLH1 in early-onset colorectal cancer: identification of a large complex de novo hMLH1 alteration. Clin Genet. 2006;70(3):250­252.
+ 42.Parkin DM, Muir CS, Whelan SL, et  al., eds. Cancer incidence in five continents, Vol VI. In: IARC Scientific Publications No. 120. Lyon, France: International Agency for Research on Cancer; 1992.
+ 43.Parkin DM, Whelan SL, Ferlay J, et  al. Cancer incidence in five continents, Vol VII. In: IARC Scientific Publications No. 143. Lyon, France: International Agency for Research on Cancer; 1997.
+
+ 44.Parkin DM, Whelan SL, Ferlay J, et  al. Cancer incidence in five continents, Vol VIII. In: IARC Scientific Publications No. 155. Lyon, France: International Agency for Research on Cancer; 2002.
+ 45.Curado MP, Edwards B, Shin HR, et  al. Cancer incidence in five continents, Vol IX. In: IARC Scientific Publications No. 160. Lyon, France: International Agency for Research on Cancer; 2007.
+ 46.Breslow NE, Day NE. Statistical methods in cancer research. Vol II, In: Heseltine E, ed. The Design and Analysis of Cohort Studies. Scientific Publications No. 82. Lyon, France: International Agency for Research on Cancer; 1987.
+ 47.StataCorp. Stata Statistical Software: Release 11. College Station, TX: StataCorp LP; 2009.
+ 48.van der Post RS, Kiemeney LA, Ligtenberg MJ, et  al. Risk of urothelial bladder cancer in Lynch syndrome is increased, in particular among MSH2 mutation carriers. J Med Genet. 2010;47(7):464­470.
+ 49.Myrhøj T, Andersen MB, Bernstein I. Screening for urinary tract cancer with urine cytology in Lynch syndrome and familial colorectal cancer. Fam Cancer. 2008;7(4):303­307.
+ 50.National Comprehensive Cancer Network. NCCN clinical practice guidelines. http://www.nccn.org/professionals/physician_gls/f_guidelines.asp. Last accessed October 24, 2010.
+51.Rodriguez-Bigas MA, Vasen HF, Lynch HT, et  al. Characteristics of small bowel carcinoma in hereditary nonpolyposis colorectal carcinoma. International Collaborative Group on HNPCC. Cancer. 1998;83(2):240­244.
+52.Schulmann K, Brasch FE, Kunstmann E, et  al.; German HNPCC Consortium. HNPCC-associated small bowel cancer: clinical and molecular characteristics. Gastroenterology. 2005;128(3):590­599.
+ 53. Schulmann K, Engel C, Propping P, Schmiegel W. Small bowel cancer risk in Lynch syndrome. Gut. 2008;57(11):1629­1630.
+ 54. Koornstra JJ, Kleibeuker JH, Vasen HF. Small-bowel cancer in Lynch syndrome: is it time for surveillance? Lancet Oncol. 2008;9(9):901­905.
+ 55.Neugut AI, Jacobson JS, Suh S, Mukherjee R, Arber N. The epidemiology of cancer of the small bowel. Cancer Epidemiol Biomarkers Prev. 1998;7(3):243­251.
+ 56. ten Kate GL,Kleibeuker JH,Nagengast FM,et al. Is surveillance of the small bowel indicated for Lynch syndrome families? Gut. 2007;56(9):1198­1201.
+57.Buerki N, Gautier L, Kovac M, et  al. Evidence for breast cancer as an integral part of Lynch syndrome. Genes Chromosomes Cancer. 2012;51(1):83­91.
+ 58. Win AK, Young JP, Lindor NM, et al. Colorectal and other cancer risks for carriers and noncarriers from families with a DNA mismatch repair gene mutation: a prospective cohort study. J Clin Oncol. 2012;30(9):958­964.
+59.Walsh MD, Buchanan DD, Cummings MC, et  al. Lynch syndrome-associated breast cancers: clinicopathologic characteristics of a case series from the colon cancer family registry. Clin Cancer Res. 2010;16(7):2214­2224.
+ 60. Grindedal EM, Møller P, Eeles R, et al. Germ-line mutations in mismatch repair genes associated with prostate cancer. Cancer Epidemiol Biomarkers Prev. 2009;18(9):2460­2467.
+ 61. The Breast Cancer Linkage Consortium. Cancer risks in BRCA2 mutation carriers. J Natl Cancer Inst. 1999;91(15):1310­1316.
+62.Kote-Jarai Z, Leongamornlert D, Saunders E, et  al.; UKGPCS Collaborators. BRCA2 is a moderate penetrance gene contributing to young-onset prostate cancer: implications for genetic testing in prostate cancer patients. Br J Cancer. 2011;105(8):1230­1234.
+ 63.Bauer CM, Ray AM, Halstead-Nussloch BA, et  al. Hereditary prostate cancer as a feature of Lynch syndrome. Fam Cancer. 2011;10(1):37­42.
+ 64.Risinger JI, Barrett JC, Watson P, Lynch HT, Boyd J. Molecular genetic evidence of the occurrence of breast cancer as an integral tumor in patients with the hereditary nonpolyposis colorectal carcinoma syndrome. Cancer. 1996;77(9):1836­1843.
+ 65.Bergthorsson JT, Egilsson V, Gudmundsson J, Arason A, Ingvarsson S. Identification of a breast tumor with microsatellite instability in a potential carrier of the hereditary non-polyposis colon cancer trait. Clin Genet. 1995;47(6):305­310.
+ 66.Soravia C, van der Klift H, Bründler MA, et  al. Prostate cancer is part of the hereditary non-polyposis colorectal cancer (HNPCC) tumor spectrum. Am J Med Genet A. 2003;121A(2):159­162.
+
+jnci.oxfordjournals.org
+
+JNCI |Articles 1371
+
+ 67. den Bakker MA, Seynaeve C, Kliffen M, Dinjens WN. Microsatellite instability in a pleomorphic rhabdomyosarcoma in a patient with hereditary non-polyposis colorectal cancer. Histopathology. 2003;43(3):297­299.
+ 68. Huang RL, Chao CF, Ding DC, et al. Multiple epithelial and nonepithelial tumors in hereditary nonpolyposis colorectal cancer: characterization of germline and somatic mutations of the MSH2 gene and heterogeneity of replication error phenotypes. Cancer Genet Cytogenet. 2004;153(2):108­114.
+ 69. Medina Arana V, Barrios del Pino Y, García-Castro C, González-Aguilera JJ, Fernández-Peralta A, González Hermoso F. Highly aggressive leiomyosarcoma associated with Lynch II syndrome: increasing the range of extracolonic cancers related with hereditary non-polyposis colonic cancer. Ann Oncol. 2002;13(5):807­808.
+ 70.Miquel C, Sabourin JC, Elias D, et  al. An appendix carcinoid tumor in a patient with hereditary nonpolyposis colorectal cancer. Hum Pathol. 2004;35(12):1564­1567.
+ 71. Sijmons R, Hofstra R, Hollema H, et al. Inclusion of malignant fibrous histiocytoma in the tumour spectrum associated with hereditary non-polyposis colorectal cancer. Genes Chromosomes Cancer. 2000;29(4):353­355.
+Funding
+National Cancer Institute, National Institutes of Health under RFA #CA-95-011, and through cooperative agreements with members of the Colon Cancer Family Registry and Principal Investigators. AKW is supported by the Picchi Brothers Foundation Cancer Council Victoria Cancer Research Scholarship, Australia. JLH is a National Health and Medical Research Council Australia Fellow. MAJ is a National Health and Medical Research Council Senior Research Fellow. JPY is a Cancer Council Queensland Senior Research Fellow. CR is a Jass Pathology Fellow.
+Notes
+The content of this manuscript does not necessarily reflect the views or policies of the National Cancer Institute or any of the collaborating centers in the Colon Cancer Family Registry, nor does mention of trade names, commercial products, or organizations imply endorsement by the US government or the Colon Cancer Family Registry. Authors had full responsibility for the design of the study, the collection of the data, the analysis and interpretation of the data, the decision to submit the manuscript for publication, and the writing of the manuscript. The authors have no conflict of interest to declare with respect to this manuscript. Collaborating centers include Australasian Colorectal Cancer Family Registry (U01 CA097735), Familial Colorectal Neoplasia Collaborative Group (U01 CA074799) [USC], Mayo Clinic Cooperative Family Registry for Colon Cancer
+
+Studies (U01 CA074800), Ontario Registry for Studies of Familial Colorectal Cancer (U01 CA074783), Seattle Colorectal Cancer Family Registry (U01 CA074794), and University of Hawaii Colorectal Cancer Family Registry (U01 CA074806). The authors thank all study participants of the Colon Cancer Family Registry and staff for their contributions to this project. We thank Dr Dora Pearce from the Vaccine and Immunization Research Group, Melbourne School of Population Health, The University of Melbourne for her statistical advice.
+Affiliations of authors: Centre for Molecular, Environmental, Genetic and Analytic Epidemiology (AKW, EW, JLH, MAJ) and Department of Medicine, The University of Melbourne, Parkville, Victoria, Australia (IW); Department of Health Science Research, Mayo Clinic, Scottsdale, AZ (NML); Cancer and Population Studies Group (JPY, DDB, MC, CR) and Conjoint Gastroenterology Laboratory, Pathology Queensland, Clinical Research Centre of Royal Brisbane & Women's Hospital Research Foundation (BL), Queensland Institute of Medical Research, Herston, Queensland, Australia; School of Medicine (JPY, BL) and Department of Molecular and Cellular Pathology (CR), University of Queensland, Herston, Queensland, Australia; Colorectal Medicine and Genetics, The Royal Melbourne Hospital, Parkville, Victoria, Australia (FAM); Flinders Centre for Cancer Prevention and Control, Flinders University, South Australia, Australia (GPY); Department of Epidemiology & Preventive Medicine, Monash University, Victoria, Australia (EW); New Zealand Familial Gastrointestinal Cancer Registry, Auckland City Hospital, Auckland, New Zealand (SP, JA); Department of Gastroenterology, Middlemore Hospital, Auckland, New Zealand (SP); Genetic Services of Western Australia and School of Paediatrics and Child Health, University of Western Australia, Perth, Australia (JB); Ludwig Institute for Cancer Research (LL) and Genetic Medicine, The Royal Melbourne Hospital, Parkville, Victoria, Australia (IW); Department of Gastroenterology and Hepatology, The Royal Brisbane and Women's Hospital, Brisbane, Australia (BL); Hereditary Cancer Clinic, Prince of Wales Hospital, Randwick, New South Wales, Australia (KMT); Cancer Epidemiology Centre, Cancer Council Victoria, Carlton, Victoria, Australia (GGG); Department of Preventive Medicine, University of Southern California, Los Angeles, CA (JL, RWH); Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, Ontario, Canada (SG); Cancer Care Ontario, Toronto, Ontario, Canada (SG); University of Hawaii Cancer Center, Honolulu, HI (LLM); Cancer Prevention Program, Fred Hutchinson Cancer Research Center, Seattle, Washington, DC (PAN).
+
+1372Articles|JNCI
+
+Vol. 104, Issue 18 | September 19, 2012
+
+

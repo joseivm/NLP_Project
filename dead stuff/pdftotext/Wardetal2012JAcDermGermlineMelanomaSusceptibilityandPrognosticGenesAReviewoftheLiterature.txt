@@ -1,0 +1,638 @@
+Germline melanoma susceptibility and prognostic genes: A review of the literature
+Katherine A. Ward, MD,a DeAnn Lazovich, PhD,b and Maria K. Hordinsky, MDc Minneapolis, Minnesota
+In recent years, there have been increasing efforts to identify germline genetic variants that may alter melanoma susceptibility and prognosis. The findings of these studies have indicated the presence of rare, high-penetrance alleles with large effects, such as CDKN2A and CDK4, more common, moderately penetrant genes like MC1R, and very common, low-penetrance polymorphisms with small effects that are related to pigmentation, nevus count, immune responses, DNA repair, metabolism, and the vitamin D receptor. The study of these low-penetrance single nucleotide polymorphisms is relatively new; thus many of them are termed `candidate melanoma susceptibility or prognostic genes.' This review summarizes the research on germline polymorphisms that have been implicated in melanoma susceptibility and prognosis in order to provide a framework for additional studies to meet the ultimate goal of predicting a patient's risk of, and prognosis in, cutaneous malignant melanoma. ( J Am Acad Dermatol 2012;67:1055-67.)
+Key words: cutaneous malignant melanoma; DNA repair; genetic susceptibility; germline; immune responses; pigmentation; prognosis; metabolism; nevus counts; vitamin D receptor.
+
+INTRODUCTION
+It has long been known that mutations in the
+CDKN2A and CDK4 genes play a role in familial
+melanoma, which comprises approximately 10% of all cutaneous malignant melanoma (CMM) cases.1-4
+Recently, other CMM risk alleles have been found in genes related to pigmentation,5 nevus count,6 immune responses,7 DNA repair,8 metabolism,9 and the vitamin D receptor (VDR).10
+The penetrance of these genes in CMM is a
+spectrum, with high-risk alleles being CDKN2A
+and CDK4, moderate-risk genes including MC1R,
+and low-risk alleles such as TYR, ASIP, TYRP1,
+OCA2, SLC45A2, GSTM1, CYP2D6, VDR, IL-9
+[interleukin 9], IL-10, TNF, HLA-DQB0301, XPC, PLA2G6, and numerous others.1,11-16 The lower
+risk alleles are much more prevalent in the pop-
+ulation, but their effects are less profound,
+whereas the higher risk alleles, although rare,
+when present almost always confer a phenotype of CMM.16
+
+Abbreviations used:
+
+CDK: CMM: CYP2D6:
+GSTs: HLA: ICAM-1: IL: MC1R: MSH: OCA2: SNP: VDR:
+
+cyclin-dependent kinase cutaneous malignant melanoma cytochrome P45-debrisoquine hydroxylase locus glutathione S-transferases human leukocyte antigen intracellular adhesion molecule-1 interleukin melanocortin-1 receptor a-melanocyte-stimulating hormone oculocutaneous albinism-related gene single nucleotide polymorphism vitamin D receptor
+
+The purpose of this review is to provide a synopsis of what is currently known about the relationship between the various high, moderate, and low-risk germline polymorphisms, as well as other candidate single nucleotide polymorphisms (SNPs), and susceptibility and prognosis in CMM in order to provide a guide for future larger and more comprehensive research undertakings.
+
+From the University of Minnesota Medical School,a Division of Epidemiology and Community Health, University of Minnesota,b and the Department of Dermatology, University of Minnesota.c
+Funding sources: None. Conflicts of interest: Drs Lazovich and Ward have no conflicts of
+interest to declare. Dr Hordinsky has declared financial relationships with Johnson & Johnson, Novartis, Medicis, and Allergan. Accepted for publication February 29, 2012.
+
+Reprints not available from the authors. Correspondence to: DeAnn Lazovich, PhD, Division of Epidemiology
+and Community Health, University of Minnesota, West Bank Office Building (WBOB), 1300 S. Second St, Suite 300, Minneapolis, MN 55454-1015. E-mail: lazov001@umn.edu. Published online May 14, 2012. 0190-9622/$36.00 Ó 2012 by the American Academy of Dermatology, Inc. doi:10.1016/j.jaad.2012.02.042
+1055
+
+1056 Ward, Lazovich, and Hordinsky
+
+J AM ACAD DERMATOL NOVEMBER 2012
+
+HIGH-PENETRANCE GENES
+
+inactivation is, therefore, oncogenic. Only a single
+
+CDKN2A The best-established high-risk locus for melanoma
+
+activating mutation in the CDK4 germline is necessary for tumorigenesis.19
+
+susceptibility is the cyclin-dependent kinase (CDK)
+
+Two CDK4 germline mutations have been found
+
+inhibitor 2A gene (CDKN2A), which is located on chromosome 9p21.17,18 Germline mutations in this
+
+in patients with melanoma, namely Arg24His and Arg24Cys.36 Coincidentally, these two mutations
+
+locus were initially reported in 1995 among multiple are also the most common somatic CDK4 mutations
+
+melanoma-predisposed families.19-25 Approximately 40%
+of familial melanoma cases carry CDKN2A mutations.14
+In addition to melanoma,
+the 9p21 locus has also
+
+CAPSULE SUMMARY
+d CDKN2A and CDK4 are high-penetrance melanoma susceptibility alleles.
+
+found in melanoma tumors.36 These germline mutations in CDK4 are much rarer compared with
+CDKN2A mutations in familial melanoma. Fewer than
+
+been implicated in certain d MC1R is a moderate-penetrance
+
+15 families with these muta-
+
+other cancers, including
+
+melanoma risk gene.
+
+tions have been reported
+
+pancreatic cancer, highlight-
+ing its importance in tumor suppression.3,26-28
+The CDKN2A locus en-
+codes for 2 different pro-
+teins via alternative splicing of four exons.16 The two
+
+d Many low-penetrance genes also likely play a role in melanoma susceptibility and prognosis; these relate to pigmentation, nevus count, immune responses, DNA repair, metabolism, and the vitamin D receptor (VDR).
+
+worldwide and only 2% of families in the most extensive study of familial melanoma conducted by the Melanoma Genetics Consortium (GenoMEL), exhibited the mutations.2,3,37-40
+
+proteins, p16/Ink4a and
+
+Therefore it can be con-
+
+p14/Arf, are both extremely important tumor sup- cluded that CDKN2A germline mutations are much
+
+pressors that regulate the progression of the cell more prevalent among inherited melanoma kindreds
+
+cycle from G1 to S phase and apoptosis, respectively.16,29 The main function of the p16/Ink4a
+
+than CDK4 mutations, but larger studies are warranted to attempt to decipher the role that CDK4
+
+protein is to bind CDK4, which thereby inhibits mutations play in melanoma susceptibility.
+
+this protein kinase from phosphorylating the reti-
+
+noblastoma (Rb) tumor suppressor, such that the MODERATE PENETRANCE GENES
+
+E2F restriction at G1 is not released and progression to the S phase is halted.30,31 This yields an overall
+
+MC1R The melanocortin-1 receptor (MC1R) is consid-
+
+effect of blocking cell division and proliferation. Whereas the p16/Ink4a gene protein works through
+
+ered a moderate-risk gene for melanoma susceptibility and is a key regulator of skin pigmentation.17
+
+the Rb tumor suppressor pathway, the p14/Arf gene The MC1R is a 7-transmembrane G-protein coupled
+
+product is directly involved in p53 regulation and apoptosis.16-32 p14/Arf exerts its effects by binding
+
+receptor that acts on adenylate cyclase in order to increase cAMP levels in response to interaction with
+
+to human double minute-2 through the N terminal domain, which sequesters human double minute-2
+
+its ligand, a-melanocyte-stimulating hormone (MSH).41,42 The binding of MSH affects the activity
+
+in the nucleolus so it cannot bind and downregulate p53.16 Thus p53 is stabilized as human double minute-2 is depleted.33-35 Therefore muta-
+
+of various enzymes and proteins involved in the production of melanin, with the ultimate effect of switching production from red/yellow pheomela-
+
+tion in the 9p21 locus of Ink4a and Arf simulta- nins (photosensitive and potentially mutagenic be-
+
+neously impairs two of the most important tumor cause of its production of free radicals in response to
+
+suppressor pathways, Rb and p53, greatly increasing the likelihood of malignant transformation.
+
+UV irradiation) to brown/black eumelanins (photoprotective).43-45 This activation of MC1R on the sur-
+
+CDK4
+
+face of melanocyte cell membranes is an integral part of the tanning response following UV irradiation.46,47
+
+A second high-penetrance melanoma susceptibil-
+
+The MC1R gene locus is highly polymorphic; it is
+
+ity gene, CDK4, has also been established for familial melanoma.18 This gene is located on chromosome
+
+also a major cause of the various pigmentation phenotypes and skin phototypes in humans.47,48
+
+12q13 and encodes the kinase that is the target of MC1R variant alleles, with amino acid substitutions
+
+p16/Ink4a in the Rb pathway of tumor suppression.17 Any mutation in CDK4 that inhibits the
+binding of p16/Ink4a rendering CDK4 resistant to
+
+within the coding region, have been shown to reduce
+receptor function; as a result, they show increased pheomelanin to eumelanin ratios within cells.41,49-52
+
+J AM ACAD DERMATOL VOLUME 67, NUMBER 5
+
+Ward, Lazovich, and Hordinsky 1057
+
+The higher pheomelanin levels associated with these MC1R variant alleles cause the red hair and fair skin phenotype (red hair color [RHC]), also known as the MC1R null phenotype.53 This subpopulation is known to be more sensitive to the effects of UV irradiation, demonstrated by a lack of tanning ability, and is also at increased risk of developing CMM, by mechanisms yet to be fully understood.
+Melanoma patients are significantly more likely to carry MC1R variants than are healthy control subjects. In fact, having a MC1R variant carries a 2.2- to 3.9-fold risk of developing melanoma, and the effects of having multiple variants are additive, as carriers of two variants have a 4.1- to 4.8 fold risk.1,19,54 In a recent meta-analysis, 7 MC1R variants (Asp84Glu, Arg142His, Arg151Cys, Ile155Thr, Arg160Trp, Arg163Gln, and Asp294His) were all significantly associated with CMM development, with odds ratios (ORs) ranging from 1.42 (95% confidence interval [CI], 1.09-1.85) for Arg163Gln to 2.45 (95% CI, 1.32-4.55) for Ile155Thr, and most were associated with red hair and fair skin or red hair only.55 Another recent study implicated the MC1R variant, R151C, in CMM development in the Ashkenazi Jewish population with an OR of 2.6 (95% CI, 1.3-5.3).56 A previous study also showed a significant association between R151C, in addition to R160W, and D294H MC1R variants (RHC phenotype), carrying a more than two-fold increased risk of melanoma.57 Mossner et al58 confirmed the significant risk associated with R151C with an OR of 1.69 (95% CI, 1.12-2.55), but also added another MC1R variant to the list of susceptibility alleles, D84E, with an OR of 4.96 (95% CI, 1.06-23.13). In a very recent, comprehensive field synopsis and systematic metaanalysis, variant MC1R alleles were correlated with increased risk of CMM with an OR of 1.83 (95% CI, 1.56-2.15) as compared with controls.59
+Certain MC1R variants not only act as independent risk factors for melanoma development, but they also serve as modifier alleles, exerting effects on the CDKN2A gene.60,61 MC1R variants have been shown to increase the penetrance of CDKN2A mutations from 50% to 84%, in addition to lowering the mean age of onset by 20 years.1,19,60
+LOW-PENETRANCE GENES Pigmentation/nevus counterelated genes
+Individuals with fair skin, blond or red hair, who never tan and always burn (Fitzpatrick phototypes I and II) are at the highest risk for CMM development.1,62 As a result of this correlation, there has been a search in recent years to identify pigmentation genes in addition to MC1R that may have an impact on CMM susceptibility.
+
+In a large, recent study of populations of
+European descent, a significant association was
+found between ASIP, which encodes agouti signal-
+ing protein, the antagonist of MSH binding to MC1R,
+on chromosome 20q11.22 and CMM, with an OR of 1.45 (95% CI, 1.29-1.64).63 A previous study also
+demonstrated a significant association between ASIP
+SNPs, rs4911414[T ] and rs1015362[G], and CMM
+among European populations, again with an OR of 1.45.64 Another study found a significant association
+between these same two ASIP SNPs and CMM, but with an OR of 1.68.65 An Australian genome-wide
+association study also indicated the presence of a
+melanoma susceptibility locus on chromosome
+20q11.22, with an OR of 1.72 for ASIP SNPs, rs910873 and rs1885120.66 However, a study with
+423 melanoma cases and 147 controls showed no
+association between ASIP polymorphisms and CMM,
+possibly because of the low number of control subjects.67
+The TYR gene on chromosome 5q34, which
+encodes for the tyrosinase protein that affects eye
+color and tanning response, has also been implicated in CMM susceptibility.36,68 One study found a signif-
+icant association between the Arg402Gln variant and CMM, with an OR of 1.21.12 Bishop et al5 found an
+association between a coding variant in TYR and
+CMM, with an OR of 1.27. A very recent study found a
+significant association between the TYR variant, rs1126809, and CMM risk with an OR of 1.22.59
+Two studies have described an interesting inverse
+relationship between the TYR Arg402Gln polymor-
+phism and generalized vitiligo and CMM. This SNP
+confers protection from generalized vitiligo, while
+increasing susceptibility to CMM among Europeanderived white individuals.5,63
+Another candidate melanoma susceptibility gene
+is TYRP1 on chromosome 9p23, encoding for
+tyrosine-related protein 1, which stabilizes tyrosinase.12 One study found that the TYRP1 variant,
+rs1408799, actually decreased the risk of CMM by an OR of 0.77 (95% CI, 0.60-0.98).65 Chatzinasiou et al59 demonstrated a significant association be-
+tween the TYRP1 variant, rs1408799, and protection
+from CMM (OR, 0.86 [95% CI, 0.80-0.93]).
+OCA2 (human type II oculocutaneous albinismerelated gene) is another candidate melanoma susceptibility gene located on chromosome 15q11.212.12 The protein encoded by this gene is a melano-
+somal transmembrane protein that modifies human eye color and pigmentation.41,69 Fernandez et al62
+found a variant allele of this gene, R419Q
+(rs1800407), to significantly increase the risk of
+CMM by an OR of 1.55 (95% CI, 1.04-3.31). An earlier
+study also found an association between CMM and
+
+1058 Ward, Lazovich, and Hordinsky
+
+J AM ACAD DERMATOL NOVEMBER 2012
+
+Table I. Summary of low-penetrance candidate melanoma susceptibility and prognostic genes
+
+Pigmentation/nevus count genes
+ASIP TYR TYRP1 OCA2 SLC45A2 (MATP) MYO7A NID1 KIT KITLG IRF HERC2 PAX3 EDNRB ADTB3A CHS1 MLANA ATRN SOX10 HPS MGRN1 MYO5A SLC24A4 PLA2G6
+
+Immune genes
+IL-10 IL-1b TNF-a LT-a IL-6R IFN-g HLA class II allele DQB1*0301 ICAM-1
+
+DNA-repair genes
+XPD/ERCC2 ERCC1 XPF XRCC3 MGMT XRCC1 MDM2 APEX1 TERT1 TRF1 TERT-CLPTMIL
+
+Metabolism genes
+CYP2D6 GSTM1 GSTT1 GSTP1
+
+Vitamin D receptor polymorphisms
+FokI BsmI TaqI ApaI A-1012G
+
+the OCA2 locus, with a P value of .030.5 Another
+study implicated OCA2 polymorphisms and mole count, which is positively correlated with CMM.41
+SLC45A2 (MATP) is a gene on chromosome
+5p13.3 that is involved in normal human pigmenta-
+tion and has recently been investigated as a CMM susceptibility candidate gene.12,70 A Spanish popu-
+lation study found that the SLC45A2 variant allele,
+rs16891982 (p.Phe374Leu), was associated with pro-
+tection from CMM development, with an OR of 0.41 (95% CI, 0.24-0.70).70 A recent French study ex-
+hibited similar findings, as the SLC45A2 variant,
+p.Phe374Leu, was again found to be significantly
+and strongly protective for CMM, with an OR of 0.32 (95% CI, 0.34-0.43).71 Nan et al65 found a different SLC45A2 variant, 1721 C[G, to be significantly associated with a reduction in risk for CMM, with
+an OR of 0.75 (95% CI, 0.60-0.95). A recent study
+found the SLC45A2 variant, 16891982, to be associated with a decreased CMM risk with an OR of 0.40.59
+Finally, a fifth study found an association with CMM
+and the SLC45A2 variants, rs28777, rs35391, and rs16891982.72
+A variant in the MYO7A gene was recently de-
+scribed in a single study as being associated with
+CMM susceptibility. The variant, S1666C (rs2276288),
+had an increased risk of CMM development, with an
+OR of 1.35 (95% CI, 1.04-1.76), although its
+
+association appeared to be stronger among certain phenotypic groups.62
+Increased nevus counts occurring on sun-
+exposed sites is a well-known risk factor for CMM development.6,73 Both benign and dysplastic nevi
+are presumed to be precursors for CMM, but dys-
+plastic melanocytic nevi are believed to be associated with a higher risk of CMM transformation.74
+Two genetic variants, at 9p21 and 22q13, have
+recently been identified by genome-wide association
+studies (GWAS) to be associated with melanocytic nevi development.75
+A recent GWAS identified a novel susceptibility locus for nevus count and CMM risk.76 This gene,
+known as nidogen 1 (NID1) on 1q42, produces a
+member of the nidogen family of basement mem-
+brane proteins involved in basement membrane
+assembly and is a biologically plausible locus for nevogenesis and melanoma development.76 Results
+of the study indicated that increased expression of
+nidogen in one variant NID1 SNP (rs10754833 T
+allele) was significantly associated with decreased CMM risk (OR, 0.86) (Table I).76
+A recent study reported that the SNPs of 5 genes
+mentioned above (MC1R, SLC45A2, OCA2, TYR, and
+ASIP) explain approximately one third to one half of
+the difference in risk of CMM due to pigmentation phenotype.72 However, other pigmentation-related
+
+J AM ACAD DERMATOL VOLUME 67, NUMBER 5
+
+Ward, Lazovich, and Hordinsky 1059
+
+CMM candidate susceptibility genes have begun to be researched and include KIT, KITLG, IRF, HERC2, PAX3, EDNRB, ADTB3A, CHS1, MLANA, ATRN, SOX10, HPS, MGRN1, MYO5A, SLC24A4, and PLA2G6 (see Table I). The study of these genes is relatively new, but most are related to the production or transport of melanin, hair color, tanning ability, nevus counts, or melanocyte proliferation, differentiation, and survival.14,62,77-79 To date, results on these candidate genes and relationship to CMM development have been unrevealing, but more studies are warranted to assess the effects of these and other pigmentation genes on CMM susceptibility.
+Immune-related genes There is much evidence that indicates CMM
+patients develop an immune-mediated response to their tumors.80,81 However, in most cases the immune response is insufficient to halt tumor growth. This is especially evident in immunosuppressed transplant patients, as they exhibit higher than normal rates of CMM development.82,83 It is possible, then, that allelic variations in the genes controlling the immune response may be one avenue to which differences in CMM susceptibility and prognosis may be attributed.80 A number of immune-modulating genes have been examined in relation to CMM in the past two decades (see Table I).
+Differences in ability to produce IL-10 have been widely studied and may be relevant in the development and course of CMM, most likely due to its immunosuppressor and anti-angiogenic properties.84 The major IL-10 promoter haplotypes are GCC, ACC, and ATA formed by SNPs IL-10-1087AG, IL-10-824CT, and IL-10-597AC, with GCC/GCC (GG) being high in vitro IL-10 producers, GCC/ACC and GCC/ATA (AG) as medium producers, and ACC/ACC, ACC/ATA, and ATA/ATA (AA) defined as low producers.11,84-86
+Recent findings have implicated low producing IL-10 haplotypes in CMM susceptibility and poor prognosis. Alonso et al84 reported that the low producer À1082AA genotype was significantly associated with decreased survival in CMM patients with advanced disease (Table II). A recent casecontrol study found that the IL-10 higher producing haplotype ITAGC was found to be significantly associated with a reduced risk of CMM development (P = 0.02).11 A previous study did not find a correlation of the above-mentioned SNPs with CMM susceptibility, but did find an association with prognosis; the IL-10 low-producing haplotypes were significantly linked to the poor prognostic indicator of increased tumor thickness and decreased survival time (see Table II).87 Two other studies reported
+
+significant associations between the IL-10 low-
+producing haplotypes and poor disease outcome and/or susceptibility in CMM (see Table II).7,88
+However, Dummer et al89 reported results in
+opposition to these findings, with increased IL-10
+levels in CMM patients with metastatic disease.
+Another study identified IL-10 as a growth factor of melanoma cells in vitro.90 One study also reported
+that an IL-10 low-producing haplotype was associ-
+ated with prolonged survival in CMM patients with
+metastases, but a more recent study found that the
+low-producing AA genotypes were associated with more rapid progression (see Table II).91,92
+Because of the immunogenicity of melanoma tu-
+mors, other cytokines have also been researched in
+relation to susceptibility and prognosis (see Table I). One study investigated SNPs associated with IL-1b, IL-2, IL-4, IL-6, IL-8, and interferon gamma (IFN-g) and
+susceptibility and prognosis in CMM and found that
+none of the cytokines had any significant association with susceptibility, and only the IL-1b-511 TT geno-
+type had an association with prognosis, as it was correlated with thinner tumors (see Table II).80
+Another study researched the influence of tumor necrosis factor alfa (TNF-a) and lymphotoxin-alfa (LT-a) on CMM and reported that the TNF-a -238
+GG genotype was significantly associated with in-
+creased susceptibility and the GA genotype showed a
+significant association with decreased susceptibility, whereas LT-a 1252 genotype may have had a prognostic correlation with increased mitotic count in vertical growth phase tumors (see Table II).93
+Another study did not find any susceptibility or prognostic associations between IL-6 or IFN-g and CMM.87 However, Gu et al82 evaluated the associations be-
+tween IL-4, IL-6, and IL-10 and the IL receptor genes,
+IL-4R, IL-6R, and IL-10R, and CMM susceptibility; they
+reported that 4 SNPs in the IL-6R gene were associated
+with an increased risk of CMM, but none of the other genes exhibited any other associations.83 Finally, another study found that the interferon-g 1874A/T gene polymorphism independently predicted overall survival in CMM patients (see Table II).91
+The association between human leukocyte anti-
+gen (HLA) class II loci and CMM is a topic of
+widespread debate as it has been postulated that
+this relationship might be the immunogenetic basis for melanoma susceptibility.94,95 In an early study of
+45 Caucasian patients with CMM, Lee et al reported
+that 56% carried the HLA class II allele, DQB1*0301,
+versus only 27% of Caucasian controls (P = .003);
+additionally, the allele was associated with advanced
+disease at diagnosis, with 44% of the DQB1*0301-
+positive patients presenting with metastases com-
+pared with only 5% of DQB1*0301-negative patients
+
+1060 Ward, Lazovich, and Hordinsky
+
+Table II. Summary of studies evaluating candidate melanoma prognostic genes
+
+Authors
+Alonso et al84
+
+Year
+
+Gene(s)
+
+2005 IL-10
+
+Genotype
+À1082AA
+
+No. of patients
+98
+
+No. of controls
+100
+
+Study design
+Case-control
+
+Martinez-Escribano et al87
+Howell et al7
+
+2002 IL-10 2001 IL-10
+
+À1082AA, À819CT, À592CA
+À1082AA; 1082GA
+
+42 165
+
+48 Case-control 158 Case-control
+
+Liu et al91
+
+2005 IL-10
+
+À1082AA;
+
+90 N/A Prospective clinical trial
+
+Statistical significance
+P \ .05
+P = .002; P = .050
+P = .005; P = .009
+P = 0.065; P = 0.33
+
+Outcome
+Decreased survival time and mean age at diagnosis
+Decreased survival time; increased Breslow thickness
+Increased Breslow thickness; increased Breslow thickness
+Overall survival; Response to therapy
+
+Interferon-g
+
+1874A/T
+
+P \ 0.001; P = 0.001
+
+Overall survival; Response to therapy
+
+von Euw et al92
+Howell et al80 Howell et al93
+Lee et al96
+Lee et al97 Figl et al110
+
+ERCC1
+
+Codon 118 (TT/CT)
+
+2008 IL-10
+
+À1082AA
+
+2003 IL-1b 2002 Lymphotoxin-a
+
+À511TT 1255AA
+
+1994 HLA-DQB1*0301 Present
+
+1996 HLA-DQB1*0301 Present
+
+2009 XRCC1
+
+R399Q*AA
+
+Bu et al120 Hutchinson et al10 Santonocito et al126
+
+2007 2000 2007
+
+GSTM1 VDR (TaqI1FokI) VDR (BsmI)
+
+À77T[C Null TTff bb
+
+P = 0.045; P = 0.03
+
+16 N/A Phase I clinical P = .04 trial
+
+169 261 Case-control P = .03 146 220 Case-control P = .02
+
+45 200 Case-control P = .02; P = .003
+
+259 N/A Cohort 400 1 529 N/A Cohort
+
+P = .0002 P = .0006 P = .04
+
+11 4 Case-control P = .03 316 108 Case-control P = .001 101 101 Case-control P = .001
+
+Overall survival; Response to therapy in stage IV
+melanoma patients treated with biochemotherapy Accelerated disease progression after lymph node surgery and vaccine Decreased Breslow thickness Higher mitotic count in vertical growth-phase tumors Increased Breslow thickness; metastases on presentation Decreased disease-free survival Increased metastasis-free survival. Increased survival following first metastasis Breslow thickness [2.5 mm Breslow thickness $ 3.5 mm Increased Breslow thickness
+
+J AM ACAD DERMATOL NOVEMBER 2012
+
+N/A, Not applicable.
+
+J AM ACAD DERMATOL VOLUME 67, NUMBER 5
+
+Ward, Lazovich, and Hordinsky 1061
+
+(P = 0.003) (see Table II).96 Another study by these same authors found that stage I or II CMM patients who carried the HLA-DQB1*0301 allele were at an increased risk of developing recurrent disease compared with stage-matched patients who were DQB1*0301-negative (see Table II).97
+A study among the Spanish population indicated that the contribution of HLA class II alleles to CMM susceptibility was not significant, but did report a statistically significant increase in HLA-DQA1 homozygosity among CMM patients versus controls and a significant association between HLA-DQB1*0301 and red or fair-haired persons (relative risk, 5.65).94 A variety of other studies have reported even more conflicting results with HLA-DQB1*0301 among CMM populations. One study reported no association between DQB1*0301 and risk of CMM,98 whereas another found a slight, but not significant, positive association with susceptibility,99 and yet another indicated a negative association with risk of CMM.100 The variability of these results could, in part, be due to sample size, patient series heterogeneity, control populations, or technical differences in detecting HLA genotype.94
+Other studies have shown associations between CMM and additional HLA alleles. Negative associations were found between DQB1*0302/0303 and CMM, whereas a positive association was found for DQB1*0501 in two Italian studies.99,100 In Japanese patients with CMM, a positive association was found with DQB1*0302, whereas negative associations were reported for DRB1*0802 and DQA1*0101/ 0104/0401.101 Finally, in a British population, an increase in the frequency of DQB1*0303 was found among CMM patients.102
+Another candidate CMM susceptibility gene that has recently been investigated is the intracellular adhesion molecule-1 (ICAM-1). ICAM-1 appears to play a role in the inflammatory and immune response through its interaction with the leukocyte integrins leukocyte function-associated antigen-1 (LFA-1) and Mac-1.103,104 Higher levels of ICAM-1 may therefore interfere with lymphocyte recognition of tumor cells and lymphocyte localization.104-106 In one study, individuals carrying at least one variant ICAM-1 SNP R241 allele (conferring increased ICAM-1 expression) versus wild-type GG genotype had a 4.3 relative risk of melanoma (P = .022).103 However, in this study, the CMM patient and control sample sizes each only numbered 59, so larger studies are needed to confirm this preliminary finding.
+DNA repairerelated genes UV irradiation is the major environmental risk
+factor for melanoma.36 The body's main defense
+
+against UV-induced DNA damage (cyclobutane pyrimidine dimers and 6-4 photoproducts) is the nucleotide excision repair pathway.107 Many genes implicated in this pathway have been examined in relation to CMM (see Table I).
+A recent meta-analysis found a significant association between the XPD/ERCC2 SNP rs13181 variant C allele and CMM susceptibility, with an OR of 1.12 (95% CI, 1.03-1.21).8 Povey et al107 analyzed multiple genes, including ERCC1, XPD, XPF, XPG, XRCC1, OGG1, XRCC3, GSTT1, and p53, but only found significant associations between ERCC1 and XPF and CMM, especially in CMM patients who are 50 years of age and younger (ERCC1 OR = 1.59 and XPF OR = 1.69).107 Another recent study found only one significant association out of 13 different polymorphisms in 8 DNA repair genes; in XRCC3; carriers of variant alleles had a decreased risk of CMM (OR 0.83, 95% CI, 0.79-0.98).108 An additional study reported a significant association between MGMT haplotypes and CMM risk, with a greater risk observed among 84Phe or 143Val carriers, who have a lower alkylation-damage repair capacity due to the variant alleles.109
+One study focused on the effects of two DNA repair genes (XRCC1 and APEX1) and prognosis in CMM; a significant association was reported between the AA genotype of the R399Q XRCC1 polymorphism and CMM, which showed a median overall survival of 24.4 years compared with 11.5 years for two other genotypes (hazard ratio of 0.40) and a median metastasis-free survival of 20.9 years versus 5.3 for two other genotypes (hazard ratio of 0.32) (see Table II).110 This same study also found a significant association for -77 T[C XRCC1 and survival following the first metastasis, with a hazard ratio of 1.73 (see Table II). An additional study found an association between ERCC1 polymorphisms at codon 118 (TT and CT genotypes) and increased response to biochemotherapy and overall survival in CMM (see Table II).91
+Another study evaluated MDM2 SNP309 (implicated in the p53 tumor suppressor pathway) and its role in CMM and reported that at ages younger than 50 years, women with a GG genotype had a 3.89 times greater chance of being diagnosed with CMM than women with TG or TT genotypes (P = .01).111 Additionally, one study reviewed the role of BRCA1 and BRCA2 in CMM patients and found that no mutation was present in any of the 92 familial melanoma cases.112 Li et al113 reported a significant association between APEX1 and CMM, with an OR of 0.59 (95% CI, 0.42-0.83), but another study by the same authors114 failed to find an association for XPC.
+
+1062 Ward, Lazovich, and Hordinsky
+
+J AM ACAD DERMATOL NOVEMBER 2012
+
+An additional study analyzed the effects of various genes involved in regulation of telomerase activity, which is widely known to cause elongation of telomeres in tumor cells. This study found a significant association between SNPs in the TERT1 and TRF1 genes and increased CMM risk, with the OR ranging from 1.43 to 1.87.115 This study115 also found a decreased risk of CMM in the TERT-CLPTMIL locus, with an OR of 0.73 (see Table I).
+Metabolism-related genes Epidemiological studies over the past few de-
+cades have indicated that CMM is related to both UV exposure and host factors. Since UV irradiation generates reactive oxygen species that are damaging to DNA, the extent of damage done and potential for carcinogenesis is dependent on how the body metabolizes and detoxifies these oxygen radicals.9 A variety of host metabolic factors have been investigated as possible CMM susceptibility genes for this reason (see Table I).
+Three studies have reviewed inactivating polymorphisms in the cytochrome P450-debrisoquine hydroxylase locus (CYP2D6) in relation to melanoma, with homozygotes for mutant alleles being termed poor metabolizers.1 The first study found no significant difference in the frequency of CYP2D6 poor metabolizers between 127 CMM cases and 720 controls, but did find a significant increase in the number of mutant alleles in the CMM cases (P = .02).116 A second study found no significant associations between the number of CYP2D6 mutant alleles among cases and controls in the Slovene population.117 Strange et al118 reported a significant increase in frequency of homozygosity for the mutant CYP2D6 alleles in the 333 CMM cases compared with the 467 controls (OR, 2.2; 95% CI, 1.2-3.9) among Northern European Caucasians. Larger studies are warranted to confirm a true increase in CMM susceptibility with mutant CYP2D6 alleles.119
+The glutathione S-transferases (GSTs), involved in detoxification of drugs and potential carcinogens, have also been examined in CMM.120-122 Homozygosity of null alleles in GSTM1 and GSTT1 genes result in decreased production of the corresponding enzymes and increased cancer susceptibility.120,123 One study in the Swedish population examined the GSTM1 null, GSTT1 null, and GSTP1 GG genotypes, and no significant differences were seen in frequency of these genotypes between CMM patients and controls.120 However, there was a significant association between the GSTM1 null genotype and tumor Breslow thickness greater than 2.5 mm (poor prognostic indicator) as well as a particular type of CMM, nodular (see Table II).120 In
+
+contrast, an earlier study did report a significantly higher portion of controls (n = 47) with measurable GSTM1 levels than CMM patients (n = 197), with 51% versus 42%, respectively (P = .002).9 Kanetsky et al124 did not find an association between GSTM1 null or GSTT1 null genotypes and CMM patients, but did report that CMM patients with red or blond hair were twice as likely to carry GSTM1 null and nearly 10-fold more likely to carry both GSTM1 null and GSTT1 null genotypes compared with controls without CMM. A more recent study did not find any statistically significant difference between GSTM1, GSTT1, or GSTP1 genotypes in CMM patients and healthy controls in the Slovenian population.125
+Vitamin D receptor polymorphisms There is evidence to suggest that vitamin D exerts
+antiproliferative, prodifferentiation, proapoptotic, and antiangiogenic effects on cells, including melanoma cells.126-129 The vitamin D receptor (VDR) is an intracellular hormone receptor that binds the biologically active form of vitamin D, 1,25dihydroxyvitamin D or calcitriol, to mediate its effects by interacting with response elements of target genes.128 The VDR gene is located on chromosome 12p12-q14 and has been investigated as a CMM susceptibility gene, with the idea that certain SNPs, including FokI, BsmI, TaqI, ApaI, and A-1012G may alter activity of the VDR and, in effect, act similarly to a systemic deficiency of vitamin D, which has been associated with an increased risk of certain cancers (including CMM) in many epidemiological studies (see Table I).10,130,131
+In an early study, the FokI, but not TaqI polymorphism was associated with an altered susceptibility to CMM, with the wild-type FF genotype associated with a risk reduction of 23.7%.9 Another relatively early study reported a novel association between the variant BsmI genotype bb and increased CMM susceptibility (P = .02), but no association for FokI or A-1012G.126 However, Halsall et al132 found that the A allele of A-1012G was more frequent in CMM patients than in controls (P = .011). A case-control study investigated the combined effects of TaqI, BsmI, and FokI polymorphisms on CMM risk and reported that the tBF and tBf haplotypes were both significantly associated with a reduced melanoma risk (OR of 0.52 and 0.51, respectively) when the putative risk alleles, T, b, and f were used as a referent.133 An earlier study exhibited similar results when the TaqI and FokI polymorphisms were examined, with a reduced risk of CMM with the Tt1tt genotypes (OR of 0.70) compared with the TT genotype, and an increased risk with the Ff genotype (OR of 1.32) compared with the FF genotype.131 In a
+
+J AM ACAD DERMATOL VOLUME 67, NUMBER 5
+
+Ward, Lazovich, and Hordinsky 1063
+
+meta-analysis of 10 studies, the summary relative risks (SRRs) for the FokI polymorphisms Ff and ff versus wild-type were 1.21 and 1.21, respectively, whereas the SRR for the BsmI polymorphisms Bb and BB versus wild-type were 0.78 and 0.75, respectively.134
+In addition to their role in CMM susceptibility, VDR polymorphisms have also been implicated in CMM prognosis. Hutchinson et al10 reported that homozygosity for both FokI and TaqI variant alleles was significantly associated with thicker tumors ( $ 3.5 mm; P = .001; OR of 31.5), with Breslow thickness being the most important prognostic indicator in CMM (see Table II). Another study reported a significant association between BsmI polymorphisms and Breslow thickness, with the variant bb alleles being associated with tumors of the greatest mean Breslow thickness and the wild-type BB alleles correlating with the lowest mean Breslow thickness tumors (see Table II).126 In a recent cohort study, Newton-Bishop et al135 reported that higher 25hydroxyvitamin D3 levels were associated with lower Breslow thickness at diagnosis (P = .002) and were independently protective of relapse and death.
+CONCLUSIONS While two of the rare, high-penetrance genetic
+variants (CDKN2A and CDK4) responsible for some of the familial melanomas have been identified, we are far from understanding all of the genetics behind the majority of CMMs. It is likely that a large number of SNPs, each with a small effect and low penetrance, in addition to the small number of large effect, highpenetrance SNPs, are responsible for CMM risk. Unfortunately, it is likely to be challenging and technically difficult to identify the remaining polymorphisms that have an effect on CMM susceptibility and prognosis. In addition, the published research to date has various flaws that make it difficult to draw accurate conclusions about the effects of these lowpenetrance SNPs, such as small sample size, hospitalbased controls, failure to record a major confounding variable, for example, UV irradiation exposure, a small number of studies on various individual SNPs, as well as others. In addition, it should be noted that even GWAS have significant limitations, including the fact that many of the platforms used in the studies do not always cover the exact genes mentioned. Rather, the SNPs are found near the gene loci and thus remain speculative.
+This review was intended to provide a summary of the research on the known germline SNPs that have been implicated in CMM susceptibility and prognosis. The ultimate goal of this research is to pinpoint patients who are known to have a genetic
+
+predisposition to CMM so that steps can be taken to ensure early detection or more intense treatment in individuals with poor prognostic indicators so as to minimize morbidity and mortality from this deadly skin cancer.
+However, to date, science is far from achieving this, as both the American Society of Clinical Oncology and the Melanoma Genetics Consortium (GenoMEL) do not advocate the use of routine clinical genetic testing until there is further evidence to indicate clinical utility.136,137 With no widely accepted guidelines in place, it remains difficult for clinicians to discuss the risks and benefits of genetic testing with patients.138 Reasons for recommending against routine genetic testing are as follows: (1) most families with hereditary CMM have no detected mutations; (2) our understanding of CMM risk to carriers is limited; (3) other factors (ie, UV irradiation) appear to affect penetrance; and (4) negative testing may provide false reassurance, as up to 9% of noncarriers in CDKN2A-positive families have been reported to develop CMM.136 So, where does this leave clinicians? Should anyone be tested? What about genetic testing for prognosis? These are important questions and, unfortunately, clinicians are without definitive answers at this time. Additional studies are needed and warranted to further evaluate the role of the abovementioned and other yet-to-be-discovered SNPs, in order to make genetic testing for CMM possible.
+The authors thank Dr Erin Warshaw for her guidance in the submission process.
+REFERENCES 1. Hayward NK. Genetics of melanoma predisposition. Oncogene 2003;22:3053-62. 2. Zuo L, Weger J, Yang Q, Goldstein AM, Tucker MA, Walker GJ, et al. Germline mutations in the p16INK42 binding domain of CDK4 in familial melanoma. Nat Genet 1996;12:97-9. 3. Soufir N, Avril MF, Chompret A, Demenais F, Bombled J, Spatz A, et al. Prevalence of p16 and CDK4 germline mutations in 48 melanoma-prone families in France. The French Familial Melanoma Study Group. Hum Mol Genet 1998;7:209-16. 4. Hayward N. New developments in melanoma genetics. Curr Oncol Rep 2000;2:300-6. 5. Bishop DT, Demenais F, Iles MM, Harland M, Taylor JC, Corda E, et al. Genome-wide association study identifies three loci associated with melanoma risk. Nat Genet 2009;41:920-8. 6. Gandini S, Sera F, Cattaruzza MS, Pasquini P, Abeni D, Boyle P, et al. Meta-analysis of risk factors for cutaneous melanoma: I. Common and atypical naevi. Eur J Cancer 2005;41:28-44. 7. Howell WM, Turner SJ, Bateman AC, Theaker JM. IL-10 promoter polymorphisms influence tumour development in cutaneous malignant melanoma. Genes Immun 2001;2:25-31. 8. Mocellin S, Verdi D, Nitti D. DNA repair gene polymorphisms and risk of cutaneous melanoma: a systematic review and meta-analysis. Carcinogenesis 2009;30:1735-43. 9. Lafuente A, Molina R, Palou J, Castel T, Moral A, Trias M. Phenotype of glutathione S-transferase Mu (GSTM1) and susceptibility to malignant melanoma. Br J Cancer 1995;72:324-6.
+
+1064 Ward, Lazovich, and Hordinsky
+
+J AM ACAD DERMATOL NOVEMBER 2012
+
+10. Hutchinson PE, Osborne JE, Lear JT, Smith AG, Bowers PW, Morris PN, et al. Vitamin D receptor polymorphisms are associated with altered prognosis in patients with malignant melanoma. Clin Cancer Res 2000;6:498-504.
+11. Schoof N, von Bonin F, Konig IR, Mossner R, Kruger U, Reich K, et al. Distal and proximal interleukin (IL)-10 promoter polymorphisms associated with risk of cutaneous melanoma development: a case-control study. Genes Immun 2009;10: 586-90.
+12. Pho LN, Leachman SA. Genetics of pigmentation and melanoma predisposition. G Ital Dermatol Venereol 2010;145: 37-45.
+13. Sondak VK, Chang AE. Melanoma and human leukocyte antigen status: the missing link? Ann Surg Oncol 2002;9: 723-4.
+14. Yeh I, Bastian BC. Genome-wide associations: studies for melanoma and nevi. Pigment Cell Melanoma Res 2009;22: 527-8.
+15. Yang XR, Pfeiffer RM, Wheeler W, Yeager M, Chanock S, Turner MA, et al. Identification of modifier genes for cutaneous malignant melanoma in melanoma-prone families with and without CDKN2A mutations. Int J Cancer 2009;125: 2912-7.
+16. Udayakumar D, Tsao H. Melanoma genetics: an update on risk-associated genes. Hematol Oncol Clin North Am 2009;23: 415-29.
+17. Nelson AA, Tsao H. Melanoma and genetics. Clin Dermatol 2009;27:46-52.
+18. Bishop JN, Harland M, Randerson-Moor J, Bishop DT. Management of familial melanoma. Lancet Oncol 2007;8:46-54.
+19. Stahl S, Bar-Meir E, Friedman E, Regev E, Orenstein A, Winkler E. Genetics in melanoma. Isr Med Assoc J 2004;6:774-7.
+20. Sharpless NE, Chin L. The INK4a/ARF locus and melanoma. Oncogene 2003;22:3092-8.
+21. Hussussian CJ, Struewing JP, Goldstein AM, Higgins PA, Ally DS, Sheahan MD, et al. Germline p16 mutations in familial melanoma. Nat Genet 1994;8:15-21.
+22. Kamb A, Shattuck-Eidens D, Eeles R, Liu Q, Gruis NA, Ding W, et al. Analysis of the p16 gene (CDKN2) as a candidate for the chromosome 9p melanoma susceptibility locus. Nat Genet 1994;8:23-6.
+23. Holland EA, Beaton SC, Becker TM, Grulet OM, Peters BA, Rizos H, et al. Analysis of the p16 gene, CDKN2, in 17 Australian melanoma kindreds. Oncogene 1995;11:2289-94.
+24. Liu L, Lassam NJ, Slingerland JM, Bailey D, Cole D, Jenkins R, et al. Germline p16INK4A mutation and protein dysfunction in a family with inherited melanoma. Oncogene 1995;11: 405-12.
+25. Walker GJ, Hussussian CJ, Flores JF, Glendening JM, Haluska FG, Dracopoli NC, et al. Mutations of the CDKN2/p16INK4 gene in Australian melanoma kindreds. Hum Mol Genet 1995; 4:1845-52.
+26. Kamb A, Gruis NA, Weaver-Feldhaus J, Liu Q, Harshman K, Tavtigian SV, et al. A cell cycle regulator potentially involved in genesis of many tumor types. Science 1994;264:436-40.
+27. Whelan AJ, Bartsch D, Goodfellow PJ. Brief Report: a familial syndrome of pancreatic cancer and melanoma with a mutation in the CDKN2 tumor-suppressor gene. N Engl J Med 1995;333:975-7.
+28. Goldstein AM, Fraser MC, Struewing JP, Hussussian CJ, Ranade K, Zametkin DP, et al. Increased risk of pancreatic cancer in melanoma-prone kindreds with p16INK4 mutations. N Engl J Med 1995;333:970-1.
+29. Sharpless NE, Chin L. The INK4a/ARF locus and melanoma. Oncogene 2003;22:3092-8.
+
+30. Tsoa H, Benoit E, Sober AJ, Thiele C, Haluska FG. Novel mutations in the p16/CDKN2A binding region of the cyclin-dependent kinase-4 gene. Cancer Res 1998;58:109-13.
+31. Wagner SN, Wagner C, Briedigkeit L, Goos M. Homozygous deletion of the p16INK4a and the p15INK4b tumour suppressor genes in a subset of human sporadic cutaneous malignant melanoma. Br J Dermatol 1998;138:13-21.
+32. Pomerantz J, Schreiber-Agus N, Liegeois NJ, Silverman A, Alland L, Chin L, et al. The Ink4a tumor suppressor gene product, p19Arf, interacts with MDM2 and neutralizes MDM2's inhibition of p53. Cell 1998;92:713-23.
+33. Kamijo T, Weber JD, Zambetti G, Zindy F, Roussel MF, Sherr CJ. Functional and physical interactions of the ARF tumor suppressor with p53 and Mdm2. Proc Natl Acad Sci U S A 1998;95:8292-7.
+34. Stott FJ, Bates S, James MC, McConnell BB, Starborg M, Brookes S, et al. The alternative product from the human CDKN2A locus, p14(ARF), participates in a regulatory feedback loop with p53 and MDM2. EMBO J 1998;17:5001-14.
+35. Zhang Y, Xiong Y, Yarbrough WG. ARF promotes MDM2 degradation and stabilizes p53: ARF-INK4a locus deletion impairs both the RB and p53 tumor suppression pathways. Cell 1998;92:725-34.
+36. Meyle KD, Gulberg P. Genetic risk factors for melanoma. Hum Genet 2009;126:499-510.
+37. Goldstein AM, Chan M, Harland M, Gillanders EM, Hayward NK, Avril MF, et al. High-risk melanoma susceptibility genes and pancreatic cancer, neural system tumors, and uveal melanoma across GenoMEL. Cancer Res 2006;66:9818-28.
+38. Helsing P, Nymoen DA, Ariansen S, Steine SJ, Maehle L, Aamdal S, et al. Population-based prevalence of CDKN2A and CDK4 mutations in patients with multiple primary melanomas. Genes Chromosomes Cancer 2008;47:175-84.
+39. Molven A, Grimstvedt MB, Steine SJ, Harland M, Avril MF, Hayward NK, et al. A large Norwegian family with inherited malignant melanoma, multiple atypical nevi, and CDK4 mutations. Genes Chromosomes Cancer 2005;44:10-8.
+40. Pjanova D, Molven A, Akslen LA, Engele L, Streinerte B, Azarjana K, et al. Identification of a CDK4 R24H mutation-positive melanoma family by analysis of early-onset melanoma patients in Latvia. Melanoma Res 2009;19:119-22.
+41. Duffy DL, Box NF, Chen W, Palmer JS, Montgomery GW, James MR, et al. Interactive effects of MC1R and OCA2 on melanoma risk phenotypes. Hum Mol Genet 2004;13:447-61.
+42. Busca R, Ballotti R, Cyclic AMP. a key messenger in the regulation of skin pigmentation. Pigment Cell Res 2000;13: 60-9.
+43. Valverde P, Healy E, Sikkink S, Haldane F, Thody AJ, Carothers A, et al. The Asp84Glu variant of the melanocortin 1 receptor (MC1R) is associated with melanoma. Hum Mol Genet 1996;5: 1663-6.
+44. Robbins LS, Nadeau JH, Johnson KR, Kelly MA, Roselli-Rehfuss L, Baack E, et al. Pigmentation phenotypes of variant extension locus alleles result from point mutations that alter MSH receptor function. Cell 1993;72:827-34.
+45. Jackson IJ. Molecular and developmental genetics of mouse coat color. Ann Rev Genet 1994;28:189-217.
+46. Sturm RA, Duffy DL, Box NF, Chen W, Smit DJ, Brown DL, et al. The role of melanocortin-1 receptor polymorphism in skin cancer risk phenotypes. Pigment Cell Res 2003;16:266-72.
+47. Suzuki I, Im S, Tada A, Scott C, Akcali C, Davis MB, et al. Participation of the melanocortin-1 receptor in the UV control of pigmentation. J Investig Dermatol Symp Proc 1999;4:29-34.
+
+J AM ACAD DERMATOL VOLUME 67, NUMBER 5
+
+Ward, Lazovich, and Hordinsky 1065
+
+48. Sturm RA, Teasdale RD, Box NF. Human pigmentation genes: identification, structure and consequences of polymorphic variation. Gene 2001;277:49-62.
+49. Frandberg PA, Doufexis M, Kapas S, Chhajlani V. Human pigmentation phenotype: a point mutation generates nonfunctional MSH receptor. Biochem Biophys Res Commun 1998;245:490-2.
+50. Schioth HB, Sr Phillips, Rudzish R, Birch-Machin MA, Wikberg JE, Rees JL. Loss of function mutations of the human melanocortin 1 receptor are common and are associated with red hair. Biochem Biophys Res Commun 1999;260:488-91.
+51. Thody AJ, Higgins EM, Wakamatsu K, Ito S, Burchill SA, Marks JM. Pheomelanin as well as eumelanin is present in human epidermis. J Invest Dermatol 1991;97:340-4.
+52. Napolitano A, Vincensi MR, Di Donato P, Monfrecola G, Prota G. Microanalysis of melanins in mammalian hair by alkaline hydrogen peroxide degradation: identification of a new structural marker of pheomelanins. J Invest Dermatol 2000; 114:1141-7.
+53. Robinson S, Dixon S, Augus S, Diffey B, Wakamatsu K, Ito S, et al. Protection against UVR involves MC1R-mediated non-pigmentary and pigmentary mechanisms in vivo. J Invest Dermatol 2010;130:1904-13.
+54. Valverde P, Healy E, Jackson I, Rees JL, Thody AJ. Variants of the melanocyte-stimulating hormone receptor gene are associated with red hair and fair skin in humans. Nat Genet 1995;11:328-30.
+55. Raimondi S, Sera F, Gandini S, Iodice S, Caini S, Maisonneuve P, et al. MC1R variants, melanoma and red hair color phenotype: a meta-analysis. Int J Cancer 2008;122:2753-60.
+56. Galore-Haskel G, Azizi E, Mohamdi H, Scope A, Chaudru V, Laitman Y, et al. MC1R variant alleles and malignant melanoma risk in Israel. Eur J Cancer 2009;45:2015-22.
+57. Palmer JS, Duffy DL, Box NF, Aitken JF, O'Gorman LE, Green AC, et al. Melanocortin-1 receptor polymorphisms and risk of melanoma: is the association explained solely by pigmentation phenotype? Am J Hum Genet 2000;66:176-86.
+58. Mossner R, Anders N, Konig I, Kruger U, Schmidt D, Berking C, et al. Variations of the melanocortin-1 receptor and the glutathione-S transferase T1 and M1 genes in cutaneous malignant melanoma. Arch Dermatol Res 2007;298:371-9.
+59. Chatzinasiou F, Lill CM, Kypreou K, Stefanaki I, Nicolaou V, Spyrou G, et al. Comprehensive field synopsis and systematic meta-analyses of genetic association studies in cutaneous melanoma. J Natl Cancer Inst 2011;103:1227-35.
+60. Box NF, Duffy DL, Chen W, Stark M, Martin NG, Sturm RA, et al. MC1R genotype modifies risk of melanoma in families segregating CDKN2A mutations. Am J Hum Genet 2001;69: 765-73.
+61. van der Velden PA, Sandkuijl LA, Bergman W, Pavel S, van Mourik L, Frants RR, et al. Melanocortin-1 receptor variant R151C modifies melanoma risk in Dutch families with melanoma. Am J Hum Genet 2001;69:774-9.
+62. Fernandez LP, Milne RL, Pita G, Floristan U, Sendagorta E, Feito M, et al. Pigmentation-related genes and their implication in malignant melanoma susceptibility. Exp Dermatol 2009;18:634-42.
+63. Gudbjartsson DF, Sulem P, Stacey SN, Goldstein AM, Rafnar T, Sigurgeirsson B, et al. ASIP and TYR pigmentation variants associate with cutaneous melanoma and basal cell carcinoma. Nat Genet 2008;48:886-91.
+64. Sulem P, Gudbjartsson DF, Stacey SN, Helgason A, Rafnar T, Jakobsdottir M, et al. Two newly identified genetic determinants of pigmentation in Europeans. Nat Genet 2008;40: 835-7.
+
+65. Nan H, Kraft P, Hunter DJ, Han J. Genetic variants in pigmentation genes, pigmentary phenotypes, and risk of skin cancer in Caucasians. Int J Cancer 2009;125:909-17.
+66. Brown KM, Macgregor S, Montgomery GW, Craig DW, Zhao ZZ, Iyadurai K, et al. Common sequence variants on 20q11.22 confer melanoma susceptibility. Nat Genet 2008;40:838-40.
+67. Kanetsky PA, Swoyer J, Panossian S, Holmes R, Guerry D, Rebbeck TR. A polymorphism in the agouti signaling protein gene is associated with human pigmentation. Am J Hum Genet 2002;70:770-5.
+68. Berson JF, Frank DW, Calvo PA, Bieler BM, Marks MS. A common temperature-sensitive allelic form of human tyrosinase is retained in the endoplasmic reticulum at the nonpermissive temperature. J Biol Chem 2000;275:12281-9.
+69. Jannot AS, Meziani R, Bertrand G, Gerard B, Descamps V, Archimbaud A, et al. Allele variations in the OCA2 gene (pink-eyed-dilution locus) are associated with genetic susceptibility to melanoma. Eur J Hum Genet 2005;13:913-20.
+70. Fernandez LP, Milne RL, Pita G, Aviles JA, Lazaro P, Benitez J, et al. SLC45A2: a novel malignant melanoma-associated gene. Hum Mutat 2008;29:1161-7.
+71. Guedj M, Bourillon A, Combadieres C, Rodero M, Dieude P, Descamps V, et al. Variants of the MATP/SLC45A2 gene are protective for melanoma in the French population. Hum Mutat 2008;29:1154-60.
+72. Duffy DL, Zhao ZZ, Sturm RA, Hayward NK, Martin NG, Montgomery GW. Multiple pigmentation gene polymorphisms account for a substantial proportion of risk of cutaneous malignant melanoma. J Invest Dermatol 2010; 130:520-8.
+73. Whiteman DC, Whiteman CA, Green AC. Childhood sun exposure as a risk factor for melanoma: a systematic review of epidemiological studies. Cancer Causes Control 2001;12: 69-82.
+74. Greene MH, Clark WH Jr, Tucker MA, Kraemer KH, Elder DE, Fraser MC. High risk of malignant melanoma in melanoma-prone families with dysplastic nevi. Ann Intern Med 1985;102:458-65.
+75. Falchi M, Bataille V, Hayward NK, Duffy DL, Bishop JA, Pastinen T, et al. Genome-wide association study identifies variants at 9p21 and 22q13 associated with development of cutaneous nevi. Nat Genet 2009;41:915-9.
+76. Nan H, Xu M, Zhang J, Zhang M, Kraft P, Qureshi AA, et al. Genome-wide associated study identifies nidogen 1 (NID1) as a susceptibility locus to cutaneous nevi and melanoma risk. Hum Mol Genet 2011;20:2673-9.
+77. Han J, Kraft P, Nan H, Guo Q, Chen C, Qureshi A, et al. A genome-wide association study identifies novel alleles associated with hair color and skin pigmentation. PLoS Genet 2008;4:1-11.
+78. Sulem P, Gudbjartsson DF, Stacey S, Helgason A, Rafnar T, Magnusson KP, et al. Genetic determinants of hair, eye and skin pigmentation in Europeans. Nat Genet 2007;39:1443-52.
+79. Wang ZQ, Si L, Tang Q, Lin D, Fu Z, Zhang J, et al. Gain-of-function mutation of KIT ligand on melanin synthesis causes familial progressive hyperpigmentation. Am J Hum Genet 2009;84:672-7.
+80. Howell WM, Turner SJ, Theaker JM, Bateman AC. Cytokine gene single nucleotide polymorphisms and susceptibility to and prognosis in cutaneous malignant melanoma. Eur J Immunogenet 2003;30:409-14.
+81. Wolfel T, Hauer M, Klehmann E, Brichard V, Ackermann B, Knuth A, et al. Analysis of antigens recognised on human melanoma cells by A2-restricted cytolytic T lymphocytes (CTL). Int J Cancer 1993;55:237.
+
+1066 Ward, Lazovich, and Hordinsky
+
+J AM ACAD DERMATOL NOVEMBER 2012
+
+82. Gu F, Qureshi AA, Niu T, Kraft P, Guo Q, Hunter DJ, et al. Interleukin and interleukin receptor gene polymorphisms and susceptibility to melanoma. Melanoma Res 2008;18: 330-5.
+83. Penn I. Depressed immunity and skin cancer. Immunol Today 1984;5:291-3.
+84. Alonso R, Suarez A, Castro P, Lacave AJ, Gutierrez C. Influence of interleukin-10 genetic polymorphism on survival rates in melanoma patients with advanced disease. Melanoma Res 2005;15:53-60.
+85. Turner DM, Williams DM, Sankaran D, Lazarus M, Sinnott PJ, Hutchinson IV. An investigation of polymorphisms in the interleukin-10 gene promoter. Eur J Immunogenet 1997;24:1-8.
+86. Hajeer AH, Lazarus M, Turner D, Mageed RA, Vencovsky J, Sinnott P, et al. IL-10 gene promoter polymorphisms in rheumatoid arthritis. Scand J Rheumatol 1998;27:142-5.
+87. Martinez-Escribano JA, Moya-Quiles MR, Muro M, Montes-Ares O, Hernandez-Caselles T, Frias JF, et al. Interleukin-10, interleukin-6 and interferon-gamma gene polymorphisms in melanoma patients. Melanoma Res 2002;12:465-9.
+88. Nikolova PN, Pawelec GP, Mihailova SM, Ivanova MI, Myhailova AP, Baltadjieva DN, et al. Association of cytokine gene polymorphisms with malignant melanoma in Caucasian population. Cancer Immunol Immunother 2007;56:371-9.
+89. Dummer W, Becker JC, Schwaaf A, Leverkus M, Moll T, Brocker EB. Elevated serum levels of interleukin-10 in patients with metastatic malignant melanoma. Melanoma Res 1995;5: 67-8.
+90. Yue FY, Dummer R, Geersten R, Hofbauer G, Laine E, Manolio S, et al. Interleukin-10 is a growth factor for human melanoma cells and down-regulates HLA class-I, HLA class-II and ICAM-1 molecules. Int J Cancer 1997;71:630-7.
+91. Liu D, O'Day SJ, Yang D, Boasberg P, Milford R, Kristedja T, et al. Impact of gene polymorphisms on clinical outcome for stage IV melanoma patients treated with biochemotherapy: an exploratory study. Clin Cancer Res 2005;11:1237-46.
+92. von Euw EM, Barrio MM, Furman D, Levy EM, Bianchini M, Pequillet I, et al. A phase I clinical study of vaccination of melanoma patients with dendritic cells loaded with allogeneic apoptotic/necrotic melanoma cells. Analysis of toxicity and immune response to the vaccine and of IL-10 -1082 promoter genotype as predictor of disease progression. J Transl Med 2008;6:1-14.
+93. Howell WM, Turner SJ, Collins A, Bateman AC, Theaker JM. Influence of TNFa and LTa single nucleotide polymorphisms on susceptibility to and prognosis in cutaneous malignant melanoma in the British population. Eur J Immunogenet 2002;29:17-23.
+94. Planelles D, Nagore E, Moret A, Botella-Estrada R, Villa E, Guillen C, et al. HLA class II polymorphisms in Spanish melanoma patients: homozygosity for HLA-DQA1 locus can be a potential melanoma risk factor. Br J Dermatol 2006;154: 261-6.
+95. Lee JE, Loflin PT, Laud PR, Lu M, Reveille JD, Lawlor DA. The human leukocyte antigen TAP2 gene defines the centromeric limit of melanoma susceptibility on chromosome 6p. Tissue Antigens 1996;47:117-21.
+96. Lee JE, Reveille JD, Ross MI, Platsoucas CD. HLA-DQB1*0301 association with increased cutaneous melanoma risk. Int J Cancer 1994;59:510-3.
+97. Lee JE, Lu M, Mansfield PF, Platsoucas CD, Reveille JD, Ross MI. Malignant melanoma: relationship of the human leukocyte antigen class II gene DQB1*0301 to disease recurrence in American Joint Committee on Cancer stage I or II. Cancer 1996;78:758-63.
+
+98. Marincola FM, Shamamian P, Rivoltini L, Salgaller M, Cormier J, Restifo NP, et al. HLA associations in the antitumor response against malignant melanoma. J Immunother 1995;18:242-52.
+99. Lombardi ML, Mercuro O, Pirozzi G, Ionna F, Lombari V, Mozzillo N, et al. Molecular analysis of HLA DRB1 and DQB1 polymorphism in Italian melanoma patients. J Immunother 1998;21:435-9.
+100. Lulli P, Grammatico P, Brioli G, Catricala C, Morellini M, Roccella M, et al. HLA-DR and eDQ alleles in Italian patients with melanoma. Tissue Antigens 1998;51:276-80.
+101. Kageshita T, Naruse T, Hirai S, Ono T, Horikoshi T, Nakagawa H, et al. Molecular genetic analysis of HLA class II alleles in Japanese patients with melanoma. Tissue Antigens 1997;49: 466-70.
+102. Bateman AC, Turner SJ, Theaker JM, Howell WM. HLA-DQB1*0303 and *0301 alleles influence susceptibility to and prognosis in cutaneous malignant melanoma in the British Caucasian population. Tissue Antigens 1998;52:67-73.
+103. Vinceti M, Pellacani G, Casali B, Malagoli C, Nicoli D, Farnetti E, et al. High risk of cutaneous melanoma amongst carriers of the intercellular adhesion molecule-1 R241 allele. Melanoma Res 2006;16:93-6.
+104. van de Stolpe A, van der Saag PT. Intercellular adhesion molecule-1. J Mol Med 1996;74:13-33.
+105. Vigano P, Infantino M, Lattuada D, Lauletta R, Ponti E, Somigliana E, et al. Intercellular adhesion molecule-1 (ICAM-1) gene polymorphisms in endometriosis. Mol Hum Reprod 2003;9:47-52.
+106. Diamond MS, Staunton DE, Marlin SD, Springer TA. Binding of the integrin Mac-1 (CD11b/CD18) to the third immunoglobulin-like domain of ICAM-1 (CD54) and its regulation by glycosylation. Cell 1991;65:961-71.
+107. Povey JE, Darakhshan F, Robertson K, Bisset Y, Mekky M, Rees J, et al. DNA repair gene polymorphisms and genetic predisposition to cutaneous melanoma. Carcinogenesis 2007;28:1087-93.
+108. Figl A, Scherer D, Nagore E, Bermejo JL, Botella-Estrada R, Gast A, et al. Single-nucleotide polymorphisms in DNA-repair genes and cutaneous melanoma. Mutat Res 2010;702(1):8-16.
+109. Gu F, Qureshi AA, Kraft P, Guo Q, Hunter DJ, Han J. Polymorphisms in genes involved in DNA repair, cell growth, oxidative stress, and inflammatory response and melanoma risk. Br J Dermatol 2009;161:209-12.
+110. Figl A, Scherer D, Nagore E, Bermejo JL, Dickes E, Thirumaran RK, et al. Single nucleotide polymorphisms in DNA repair genes XRCC1 and APEX1 in progression and survival of primary cutaneous melanoma patients. Mutat Res 2009;661: 78-84.
+111. Firoz EF, Warycha M, Zakrzewski J, Pollens D, Wang G, Shapiro R, et al. Association of MDM2 SNP309, age of onset, and gender in cutaneous melanoma. Clin Cancer Res 2009; 15:2573-80.
+112. Kadouri L, Temper M, Grenader T, Abeliovich D, Hamburger T, Peretz T, et al. Absence of founder BRCA1 and BRCA2 mutations in cutaneous malignant melanoma patients of Ashkenazi origin. Fam Cancer 2009;8:29-32.
+113. Li C, Liu Z, Wang LE, Strom SS, Lee JE, Gershenwald JE, et al. Genetic variants of the ADPRT, XRCC1 and APE1 genes and risk of cutaneous melanoma. Carcinogenesis 2006;27: 1894-901.
+114. Li C, Hu Z, Liu Z, Strom SS, Gershenwald JE, Lee JE, et al. Polymorphisms in the DNA repair genes XPC, XPD, and XPG and risk of cutaneous melanoma: a case-control analysis. Cancer Epidemiol Biomarkers Prev 2006;15:2526-32.
+
+J AM ACAD DERMATOL VOLUME 67, NUMBER 5
+
+Ward, Lazovich, and Hordinsky 1067
+
+115. Nan H, Qureshi AA, Prescott J, De Vivo I, Han J. Genetic variants in telomere-maintaining genes and skin cancer risk. Hum Genet 2011;129:247-53.
+116. Wolf CR, Smith CA, Gough AC, Moss JE, Vallis KA, Howard G, et al. Relationship between the debrisoquine hydroxylase polymorphism and cancer susceptibility. Carcinogenesis 1992;13:1035-8.
+117. Dolzan V, Rudolf Z, Breskvar K. Human CYP2D6 gene polymorphism in Slovene cancer patients and healthy controls. Carcinogenesis 1995;16:2675-8.
+118. Strange RC, Ellison T, Ichii-Jones F, Bath J, Hoban P, Lear JT, et al. Cytochrome P450 CYP2D6 genotypes: association with hair colour, Breslow thickness and melanocyte stimulating hormone receptor alleles in patients with malignant melanoma. Pharmacogenetics 1999;9:269-76.
+119. Agundez J. Cytochrome P450 gene polymorphism and cancer. Current Drug Metab 2004;5:211-24.
+120. Bu H, Rosdahl I, Holmdahl-Kallen K, Sun XF, Zhang H. Significance of glutathione S-transferases M1, T1, and P1 polymorphisms in Swedish melanoma patients. Oncol Rep 2007;17:859-64.
+121. Lusini L, Tripodi SA, Rossi R, Giannerini F, Giustarini D, del Vecchio MT, et al. Altered glutathione antioxidant metabolism during tumor progression in human renal-cell carcinoma. Int J Cancer 2001;91:55-9.
+122. Baars AJ, Breimer DD. The glutathione S-transferases: their role in detoxification and toxification of xenobiotics. Ann Biol Clin 1980;38:49-56.
+123. Rebbeck TR. Molecular epidemiology of the human glutathione S-transferase genotypes GSTM1 and GSTT1 in cancer susceptibility. Cancer Epidemiol Biomarkers Prev 1997;6: 733-74.
+124. Kanetsky PA, Holmes R, Walker A, Najarian D, Swoyer J, Guerry D, et al. Interaction of glutathione S-transferase M1 and T1 genotypes and malignant melanoma. Cancer Epidemiol Biomarkers Prev 2001;10:509-13.
+125. Dolzan V, Rudolf Z, Breskvar K. Genetic susceptibility to environmental carcinogenesis in Slovenian melanoma patients. Acta Dermatovenerol Alp Panonica Adriat 2006;15:69-78.
+126. Santonocito C, Capizzi R, Concolino MM, Lavieri MM, Paradisi A, Gentileschi S, et al. Association between cutaneous melanoma, Breslow thickness and vitamin D receptor BsmI polymorphism. Br J Dermatol 2007;156:277-82.
+
+127. Seifert M, Rech M, Meineke V, Tilgen W, Reichrath J. Differential biological effects of 1,25-dihydroxyvitamin D3 on melanoma cell lines in vitro. J Steroid Biochem Mol Biol 2004;89-90:375-9.
+128. Calvo MS, Whiting SJ, Barton CN. Vitamin D intake: a global perspective of current status. J Nutr 2005;135:310-6.
+129. Raimondi S, Johansson H, Maisonneuve P, Gandini S. Review and meta-analysis on vitamin D receptor polymorphisms and cancer risk. Carcinogenesis 2009;30:1170-80.
+130. Baker AR, McDonnell DP, Hughes M, Crisp TM, Mangelsdorf DJ, Haussler MR, et al. Cloning and expression of full-length cDNA encoding human vitamin D receptor. Proc Natl Acad Sci U S A 1988;85:3294-8.
+131. Li C, Liu Z, Zhang Z, Strom SS, Gershenwald JE, Prieto VG, et al. Genetic variants of the vitamin D receptor gene alter risk of cutaneous melanoma. J Invest Dermatol 2007;127: 276-80.
+132. Halsall JA, Osborne JE, Epstein MP, Pringle JH, Hutchinson PE. The unfavorable effect of the A allele of the vitamin D receptor promoter polymorphism A-1012G has different mechanisms related to susceptibility and outcome of malignant melanoma. Dermatoendocrinol 2009;1:54-7.
+133. Li C, Liu Z, Wang LE, Gershenwald JE, Lee JE, Prieto VG, et al. Haplotype and genotypes of the VDR gene and cutaneous melanoma risk in non-Hispanic whites in Texas: a case-control study. Int J Cancer 2008;122:2077-84.
+134. Gandini S, Raimondi S, Gnagnarella P, Dore JF, Maisonneuve P, Testori A. Vitamin D and skin cancer: a meta-analysis. Eur J Cancer 2009;45:634-41.
+135. Newton-Bishop JA, Beswick S, Randerson-Moor J, Chang YM, Affleck P, Elliott F, et al. Serum 25-hydroxyvitamin D3 levels are associated with Breslow thickness at presentation and survival from melanoma. J Clin Oncol 2009;27:5439-44.
+136. Kefford R, Bishop JN, Tucker M, Bressac-de Paillerets B, Bianchi-Scarra G, Bergman W, et al. Genetic testing for melanoma. Lancet Oncol 2002;3:653-4.
+137. Kefford RF, Newton Bishop JA, Bergman W, Tucker MA. Counseling and DNA testing for individuals perceived to be genetically predisposed to melanoma: a consensus statement of the Melanoma Genetics Consortium. J Clin Oncol 1999;17:3245-51.
+138. Lin J, Hocker TL, Singh M, Tsao H. Genetics of melanoma predisposition. Br J Dermatol 2008;159:286-91.
+
+

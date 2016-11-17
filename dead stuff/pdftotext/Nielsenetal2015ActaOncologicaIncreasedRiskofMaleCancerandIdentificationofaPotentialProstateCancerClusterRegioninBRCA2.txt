@@ -1,0 +1,286 @@
+Acta Oncologica
+ISSN: 0284-186X (Print) 1651-226X (Online) Journal homepage: http://www.tandfonline.com/loi/ionc20
+Increased risk of male cancer and identification of a potential prostate cancer cluster region in BRCA2
+Henriette Roed Nielsen, Janne Petersen, Christina Therkildsen, Anne-Bine Skytte & Mef Nilbert
+To cite this article: Henriette Roed Nielsen, Janne Petersen, Christina Therkildsen, AnneBine Skytte & Mef Nilbert (2016) Increased risk of male cancer and identification of a potential prostate cancer cluster region in BRCA2, Acta Oncologica, 55:1, 38-44, DOI: 10.3109/0284186X.2015.1067714 To link to this article: http://dx.doi.org/10.3109/0284186X.2015.1067714
+View supplementary material
+Published online: 11 Sep 2015.
+Submit your article to this journal
+Article views: 262
+View related articles
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at http://www.tandfonline.com/action/journalInformation?journalCode=ionc20
+
+Download by: [Harvard Library]
+
+Date: 23 June 2016, At: 12:39
+
+Acta Oncologica, 2016; 55: 38­44
+
+ORIGINAL ARTICLE
+Increased risk of male cancer and identification of a potential prostate cancer cluster region in BRCA2
+
+Downloaded by [Harvard Library] at 12:39 23 June 2016
+
+HENRIETTE ROED NIELSEN1, JANNE PETERSEN2,3, CHRISTINA THERKILDSEN2, ANNE-BINE SKYTTE4 & MEF NILBERT2,5
+1Department of Clinical Genetics,Vejle Hospital, Denmark, 2HNPCC Register, Clinical Research Center, Copenhagen University Hospital, Hvidovre, Denmark, 3Department of Biostatistics, University of Copenhagen, Denmark, 4Department of Clinical Genetics, Aarhus University Hospital, Denmark and 5Institute of Clinical Sciences, Division of Oncology and Pathology, Lund University, Lund, Sweden
+ABSTRACT Background. The risk of cancer in men from BRCA1 and BRCA2 families is relevant to define to motivate genetic testing and optimize recommendations for surveillance. Material and methods. We assessed the risk of cancer in male mutation carriers and their first-degree relatives in 290 BRCA1 and BRCA2 families with comparison to matched controls with the aim to motivate genetic testing and optimize recommendations for surveillance. Results. Mutation carriers in BRCA1 families were not at increased risk of cancer, whereas mutation carriers in BRCA2 families were at increased risk of male breast cancer and prostate cancer with cumulative risks of 12.5% and 18.8%, respectively. Breast cancer developed at a mean age of 59 years, typically as ER/PR positive ductal carcinomas. Prostate cancer developed at a mean age of 68 years, with Gleason scores  8 in 40% of the tumors. The hazard ratio for BRCA2associated prostate cancer was 3.7 (p  0.001) in mutation carriers and 3.1 (p  0.001) in first-degree relatives. Of the 37 prostate cancers, 19 were linked to four BRCA2 mutations within a region defined by c.6373-c.6492. Individuals with mutations herein had a HR of 3.7 for prostate cancer compared to individuals with mutations outside of this region. Conclusions. Male mutation carriers and first-degree relatives in BRCA2 families are at an increased risk of breast cancer and prostate cancer with a potential prostate cancer cluster region within exon 11 of BRCA2.
+
+Pathogenic mutations in the BRCA1 and BRCA2 genes are primarily linked to an increased risk of female cancers of the breast and the ovary, though a number of other tumor types have also been suggested to occur at increased incidences in these families, including male breast cancer, prostate cancer, pancreatic cancer and malignant melanoma [1­3]. Families with BRCA1 or BRCA2 gene mutations have been ascribed an increased risk of second primary cancers and males in these families have been reported to have a decreased life expectancy by 3.7 years [4,5]. Despite increased cancer risks, men in BRCA1 and BRCA2 families show a lower uptake on genetic testing. Primary motivational factors for
+
+genetic testing have in male family members have been found to relate to an increased risk of cancer in female relatives rather than to a personal risk of cancer [6].
+Male breast cancer accounts for  1% of all breast cancer cases and for less than 1% of male cancer cases. Compared to females, men with breast cancer are diagnosed at a higher age, more often experience diagnostic delays and develop tumors characterized by ductal differentiation, lymph node involvement and hormone receptor-positivity [7,8]. Survival rates have been reported to be around 60% at five years and 40% at 10 years [7,8]. Male breast cancer most frequently affects BRCA2 mutation
+
+Correspondence: H. R. Nielsen, Department of Clinical Genetics, Odense University Hospital, Sdr. Boulevard 25, 5000 Odense C, Denmark. E-mail: henriette. roed.nielsen@rsyd.dk
+(Received 30 January 2015; accepted 10 June 2015) ISSN 0284-186X print/ISSN 1651-226X online © 2015 Informa Healthcare DOI: 10.3109/0284186X.2015.1067714
+
+Downloaded by [Harvard Library] at 12:39 23 June 2016
+
+carriers with lifetime risks of 6­8% for BRCA2 mutation carriers, whereas the increased risk in BRCA1 mutation carriers is limited to risks around 1% [9­13]. Prostate cancer represents the most common tumor type in men in the western world and is the second leading cause of cancer-related death in men. Pathogenic mutations in BRCA1 and BRCA2 have been demonstrated in 0.5­2% of prostate cancer [14­16]. The relative risk of prostate cancer has been estimated to be 1.1­3.8 for BRCA1 mutation carriers and 4.7­8.6 for BRCA2 mutation carriers compared to the general population [2, 15­18].The cumulative risks of prostate cancer have been estimated to be 3­9% for BRCA1 mutation carriers and 19­34% for BRCA2 mutation carriers [11,16,18]. Genotype­phenotype correlations have been suggested for ovarian cancer, with an ovarian cancer cluster region (OCCR) in exon 11 of BRCA2 [11,19]. Limited data are available regarding genotypic effects related to development of prostate cancer though a higher risk has been suggested for individuals with mutations outside of an OCCR region defined by BRCA2 c.2806-c.6401 [11].
+Accurate risk estimates and recognition of genotypic effects are needed to optimize genetic counseling and recommendations for surveillance for men in BRCA1 and BRCA2 families. The limited knowledge on male cancer risk led us to assess these and study genotype­phenotype correlations in a cohort from western Denmark.
+Patients and methods
+Study cohorts and data collection
+All individuals/families who had undergone genetic counseling between 1997 and 2011 at the three departments of clinical genetics in western Denmark (population 3 million) and had been found to carry disease-predisposing mutations in BRCA1 or BRCA2 were eligible for the study. Families diagnosed with concomitant cancer-predisposing mutations in other genes (e.g. MMR gene mutations) and individuals born after April 1994 were excluded. A three-generation pedigree with mutation carriers in at least two generations was required for inclusion. Family members were identified from the pedigrees and from the National Danish Civil Registration System, which contains data on date of birth, emigration and death. Data from mutation carriers, first-degree relatives and proven non-carriers were analyzed separately. A control population was defined from the National Danish Civil Registration System, with five population controls, matched on sex and year of birth, for mutation carriers as well as first-degree relatives. Controls were identified for all but six mutation
+
+Male cancer in BRCA families 39
+carriers and 17 first-degree relatives, all of whom were born before 1920. Information on cancer diagnoses, excluding skin cancer other than malignant melanoma, was collected through ICD7 and ICD10 codes from the National Danish Cancer Register (available since 1943) and from the National Danish Pathology Register (available since 1997) until April 2014. Breast cancer and prostate cancer include cases with carcinoma in situ. The mean follow-up time was 49.2 years (56 years for proven BRCA1/BRCA2 carriers, 46­50 years for first-degree relatives and 49­50 years for proven non-carriers). Genetic test results were collected between January 1997 and June 2013 from the respective molecular genetic laboratories. Information on date of birth, death and cancer diagnosis was based on pedigree information for family members who died before 1968. The study was reviewed and granted acceptance form the Danish Data Protection Agency. According to Danish regulations, registry studies are not subject to ethical review.
+Statistical analyses
+For each of the six groups, i.e. proven carriers, firstdegree relatives of a proven (male or female) carrier and proven non-carriers in BRCA1 and BRCA2 families, respectively, we estimated the hazard ratio (HR) for cancer compared to the matched control population. We used a Proportional Hazard Ratio Model with death and other types of cancers as competing events. In all models, families were modeled with a cluster variable, where all controls were considered to be in their own family. We repeated the analyses for the four major outcomes, i.e. all cancers, breast cancer, prostate cancer and prostate cancer before age 65, after exclusion of male index individuals (to account for assessment bias) and after exclusion of men born before 1947 (to account for selection bias through inclusion only of men below age 50 at the time of introduction of genetic testing). Cumulative incidence plots were constructed with age as underlying time for BRCA2 mutation carriers and first-degree relatives and were for mutation carriers calculated in relation to mutations inside/outside of the suggested prostate cancer cluster region (PCCR). Cancer diagnosis and death from any cause were modeled as competing events and members of the same family were modeled with a cluster variable to account for correlation. Genotype­phenotype correlations in the BRCA2 gene were studied with the assumption that the risk of prostate cancer was equal along the BRCA2 genetic sequence with estimates of the HR for prostate cancer development in relation to genetic region.
+All data management, descriptive statistical analyses and Proportional Hazard models were made in SAS9.4. For the Proportional Hazard models we
+
+Downloaded by [Harvard Library] at 12:39 23 June 2016
+Probability of breast cancer Probability of prostate cancer
+
+40 H. R. Nielsen et al.
+used the phreg procedure with a robust sandwich covariance matrix estimate. Cumulative incidence plots were performed in R, version 3.03 with the comp.risk and predict functions from the timereg package. A p-value  0.05 was considered significant in all statistical analyses.
+Results
+Complete data were available from 290 families; 173 families with 49 different disease-predisposing mutations in BRCA1 and 117 families with 49 mutations in BRCA2. In total, the study contains 1718 men aged  20 years; 447 proven or obligate mutation carries, 976 first-degree relatives and 295 nonmutation carriers. The distribution of birth cohorts were: birth prior to 1900, 1.3%; 1900­1919, 6.7%; 1920­1939, 14.5%; 1940­1959, 26.4%; 1960­1979, 32.9% and 1980­1994, 18.4%.
+In the BRCA1 families, 71 cancers developed in 51/265 mutation carriers and 97 cancers developed in 69/573 first-degree relatives (Supplementary Table I, available online at: http://informahealthcare.com/ doi/abs/10.3109/0284186X.2015.1067714). The overall risk of cancer compared to the control population was not significantly increased in mutation carriers (HR 1.1, 95% CI 0.8­1.5, p  0.62), but was significantly increased in first-degree relatives (HR 1.5, 95% CI 1.1­2.0, p  0.01).Two male breast cancers were observed in mutation carriers at ages 38 and 56 years (HR 8.5, 95% CI 0.7­97.6, p  0.09). Prostate cancer was diagnosed in eight mutation carriers at a mean age of 63 (57­70) years and in eight first-degree relatives at a mean age of 72 (55­81) years. The risk of prostate cancer was not significantly increased in mutation carriers (HR 1.0, 95% CI 0.4­2.6, p  0.99) or first-degree relatives (HR 0.7, 95% CI 0.3­1.5, p  0.32) compared to the controls though mutation carriers showed a trend for an increased risk of prostate cancer development before age 65 (HR 3.7, 95% CI 1.0­13.7, p  0.05).
+
+In the BRCA2 families, 68 cancers developed in 54/182 mutation carriers and 73 cancers developed in 58/403 first-degree relatives (Supplementary Table I available online at: http://informahealthcare.com/ doi/abs/10.3109/0284186X.2015.1067714). Increased risks for all cancers were identified in mutation carriers with a HR of 2.4 (95% CI 1.79­ 3.30, p  0.001) and in first-degree relatives with a HR of 1.7 (95% CI 1.26­2.40, p  0.001). The overall risk estimates were explained by increased risks for breast cancer and prostate cancer (data not shown). In total, 15 male breast cancers and 37 prostate cancers developed. Male breast cancer developed in 13 mutation carriers (including one patient with metachronous, bilateral breast cancer), in one first-degree relative and in none of the controls, which preclude an estimate of the HR. The cumulative incidence for male breast cancer at age 80 was 12.5% (95% CI 11.5­13.5%) (Figure 1). The male breast cancers developed at a mean age of 61 (37­84) years. Data on receptor status were available from nine tumors and showed estrogen positivity in eight, progesterone positivity in seven and HER2 positivity in two tumors. The tumors were predominantly ductal carcinomas with frequent areas of ductal carcinoma in situ (Table 1).
+Prostate cancer developed in 17 mutation carriers and in 20 first-degree relative, which corresponds to a HR of 3.7 (95% CI 1.9­7.2, p  0.001) in mutation carriers and a HR of 3.1 (95% CI 1.6­5.7, p  0.001) in first-degree relatives compared to their matched controls. The HR for prostate cancer before age 65 was 5.5 (95% CI 1.6­18.7, p  0.01) for mutation carriers. The cumulative incidence for prostate cancer at age 80 was 18.8% (95% CI 16.6­21.9) (Figure 1).The prostate cancers developed at a mean age of 67 (52­93) years (Table II). Gleason scores were available from 20 tumors and were five in two cases, six in three, seven in seven, eight in two, nine in five and 10 in one case. Hence Gleason scores  8 were found in 40% of the cases. Two individuals
+
+(A) 0.30
+0.20
+
+Mutation carriers Controls to mutation carriers
+
+(B) 0.30
+0.20
+
+Mutation carriers Controls to mutation carriers First-degree relatives Controls to first-degree relatives
+
+0.10 0.10
+
+0.00 30
+
+50 70 Age
+
+90
+
+0.00 30
+
+50 70 Age
+
+90
+
+Figure 1. Cumulative risks of a) male breast cancer and b) prostate cancer in the BRCA2 cohort.
+
+developed primary breast cancers at ages 62 and 67, respectively, followed by prostate cancers at ages 85 and 86, respectively. Exclusion of the six male index cases (with male breast cancer) and individuals born after 1947, did not affect the results (data not shown). Neither in BRCA1 nor in BRCA2 did male family members who were proven non-carriers show any significantly increased risk of cancer.
+Genotype­phenotype correlations in the BRCA2 gene were analyzed in relation to male breast cancer and prostate cancer. The 15 male breast cancers were associated with 12 different BRCA2 mutations, which were spread along the gene without any association to specific genetic regions (Figure 2). The 37 BRCA2-associated prostate cancers developed in 25 families with 13 distinct BRCA2 mutations. Of these, four mutations, i.e. c.6373delA, c.6408_6414delAAATGGT, c.6486_6489delACAA and c.6490_6492del/insGACT were linked to 19/37 prostate cancers (Figure 2). Individuals who carried any of these four BRCA2 mutations had a HR of
+
+Male cancer in BRCA families 41
+3.7 (95% CI 1.35­9.33) p  0.01 for development of prostate cancer compared with mutations in other parts of BRCA2. When the HR for prostate cancer development in individuals with mutations within the PCCR was compared to controls, the HR was 9.7 (95% CI 4.0­23.7) p  0.001. The cumulative incidence of prostate cancer at age 80 was 35.6% for individuals with mutations within the PCCR and 10.6% for individuals with mutations outside of the PCCR (Figure 3). When the OCCR region defined by Gayther et al., i.e. c.2807-c.6401, was applied to our data, the cumulative incidence for prostate cancer at age 80 was 29.4% for individuals with mutations in the OCCR and 8.2% for individuals with mutations outside of the OCCR. In the 13 families with mutations in the region c.3860-c.6244 prostate cancer developed in 1/11 mutation carriers and in the nine families with mutations between c.7008-1-c.7070, no prostate cancers were observed in six male mutation carries (Figure 2).
+
+Downloaded by [Harvard Library] at 12:39 23 June 2016
+
+Figure 2. Summary plot of mutations in the BRCA2 gene linked to development of male breast cancer (red) and prostate cancer (green). In total, 19 of the 37 prostate cancer cases are linked to four mutations in a suggested prostate cancer cluster region spanning c.6373c.6492 within exon 11 of the BRCA2 gene.
+
+Probability of prostate cancer
+
+42 H. R. Nielsen et al.
+0.4 PCCR Non-PCCR
+0.3 Controls
+0.2
+0.1
+0.0
+30 40 50 60 70 80 90 Age
+Figure 3. Cumulative incidence for prostate cancer in BRCA2 mutation carriers in relation to mutations inside and outside of the suggested prostate cancer cluster region (PCCR) demonstrating cumulative incidences at age 80 of 35.6% and 10.6%, respectively.
+Discussion
+We demonstrate a limited risk of cancer for men in BRCA1 families and a significantly increased risk of male breast cancer and prostate cancer for men in BRCA2 families. Male breast cancer developed at a mean age of 61 years, which fits well with previous reports [20]. The breast tumors were typically estrogen and progesterone positive ductal carcinomas of histologic grades 2­3, often with areas of ductal carcinoma in situ (Table I) [20]. Cases with multifocal disease and bilateral tumors have been reported and were observed also in our cohort (Table I). The cumulative risk of male breast cancer in BRCA2 mutation carriers was 12.5%, which is somewhat higher than previous reports of 6.9­8.6% risk at age 80 (Figure 1) [9,11,13]. Current risk estimates are
+
+sensitive to ascertainment bias as development of male breast cancer is a well recognized feature of hereditary breast cancer. Still, the risk of breast cancer demonstrated motivates awareness of this disease and prompt management of suspected cases in male BRCA2 mutation carriers.
+Mutation carriers as well as first-degree relatives in BRCA2 families are at an increased risk of prostate cancer with HRs of 3.7 and 3.1, respectively, which supports previous observations [2,15,18,21­24].The mean age at diagnosis of prostate cancer was 67 years. The risk of prostate cancer development before age 65 was significantly increased (HR 5.5), in line with previous reports with HRs of 5.5­8.6 for early-onset prostate cancer in BRCA2 [10,15]. The cumulative risk of prostate cancer at age 80 was estimated to be 18.8% in mutation carriers and 12.5% in first-degree relatives (Figure 1). In our cohort, 8/20 (40%) prostate cancers had Gleason scores  8 suggestive of an aggressive prostate cancer phenotype (Table II). Prostate cancer associated with BRCA1 and BRCA2 mutations have been suggested to have higher Gleason scores, more frequent T3/T4 stages, nodal involvement and overall present with a worse prognosis [21­28]. Data on prevalent PSA testing in our cohort were not available and we cannot exclude that a smaller number of tumors were screening detected. As general recommendations for prostate cancer screening have not been enforced in Denmark and the majority of the cases were diagnosed in the years when widespread PSA testing was not prevalent, we consider the potential effect hereof as limited. Strategic surveillance for prostate cancer in male BRCA1 and BRCA2 mutation carriers has been suggested to identify high-risk tumors [29]. The high risk of prostate cancer and the early age at onset of the disease are important to recognize
+
+Downloaded by [Harvard Library] at 12:39 23 June 2016
+
+Table I. Summary of clinical, pathologic and genetic data in male breast cancers linked to BRCA2.
+
+Individual number
+
+Carrier status
+
+Mutation
+
+Age at diagnosis
+
+Tumor stage
+
+Histology
+
+122 Carrier c.2812delGCAA
+
+60 NA
+
+Ductal cancer in situ
+
+58 Carrier c.3765delT
+
+65 NA
+
+Ductal cancer
+
+9 Carrier c.3847_3848delGT
+
+69 T1N1 Ductal cancer
+
+190 Carrier c.583delT
+
+84 T1N2 Ductal cancer
+
+157 Carrier c.6082_6086delGAAGA
+
+63 T2N0 Ductal cancer
+
+11 Carrier c.6373delA
+
+37 T1N1 Ductal cancer
+
+137 Carrier c.6373delA
+
+41 T1N0 Ductal cancer
+
+108
+
+FDR
+
+c.6373delA
+
+82 T1N1 Ductal cancer
+
+17 Carrier c.6408_6414delAAATGTT 51 T1N2 Ductal cancer
+
+85 Carrier c.6486_6489delACAA
+
+59 NA
+
+Not specified
+
+32 Carrier c.7617  1 GA
+
+63 T2N2 Ductal cancer
+
+186 Carrier c.8474delC
+
+51 NA
+
+Comedo cancer
+
+26 Carrier c.8575delC
+
+58 T2N0 Ductal cancer
+
+162 Carrier c.9106CT
+
+86 T2N1 Ductal cancer
+
+162 Carrier c.9106CT
+
+72 NA
+
+Ductal cancer in situ
+
+FDR, first-degree relative; NA, not available.
+
+Downloaded by [Harvard Library] at 12:39 23 June 2016
+
+Table II. Summary of clinical and genetic data in prostate cancers linked to BRCA2.
+
+Individual Carrier
+
+number
+
+status
+
+Mutation
+
+Age at diagnosis
+
+160 9a 9b
+59 190 101
+98 113
+27a 27b 101 27 11 17 85 88
+2
+47a 47b 82 160 227 59 223 113 137 17a 17b 17c 3143 205 88 132
+163
+143
+6491 86
+
+Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier Carrier
+FDR FDR FDR FDR FDR FDR FDR FDR FDR FDR FDR FDR FDR FDR FDR FDR
+FDR
+FDR
+FDR FDR
+
+c.3847_3848delGT c.3847_3848delGT c.3847_3848delGT c.5351delA c.583delT c.6373delA c.6373delA c.6373delA c.6373delA c.6373delA c.6373delA c.6373delA c.6373delA c.6408_6414delAAATGTT c.6486_6489delACAA c.6490_6492del/insGACT
+c.7617  1GA c.1309_1312delAAAG c.1309_1312delAAAG c.1309_1312delAAAG c.3847_3848delGT c.4284_4285insT c.5351delA c.5352delC c.6373delA c.6373delA c.6408_6414delAAATGTT c.6408_6414delAAATGTT c.6408_6414delAAATGTT c.6486_6489delACAA c.6486_6489delACAA c.6490_6492del/insGACT
+c.7617  1GA
+c.7617  1GA
+c.7617  1GA c.8575delC
+c.8953  1GT
+
+53 74 80 76 84 52 70 64 65 61 62 72 66 79 59 63 67
+55 82 55 58 84 72 80 87 74 77 53 93 59 53 67 68
+63
+76
+77 63
+
+FDR, first-degree relative.
+
+during genetic counseling and the aggressive phenotype demonstrated is relevant to consider for treatment decisions in men affected by BRCA2-associated prostate cancer.
+We identify a potential prostate cancer cluster region, PCCR, based on 19/37 prostate cancers clustering to a region defined by c.6373-c.6492 in exon 11 of BRCA2. The c.6373delA mutation was found in 14 families, among which 10 prostate cancer were diagnosed in six families. The c.6408_6414delAAATGGT mutation was identified in one family with four prostate cancers; the c.6486_6489delACAA mutation was seen in three families, each with one case of prostate cancer and one family with the c.6490_6492del/insGACT mutation contained two prostate cancers (Figure 2). Individuals with mutations in the suggested PCCR
+
+Male cancer in BRCA families 43
+had a HR of 4.4 (p  0.01) for prostate cancer development compared to individuals with BRCA2 mutations outside of this region. Only occasional prostate cancer developed in families with mutations 5´or 3´of the PCCR, which supports observations of a significantly lower risk of prostate cancer for carriers of theAshkenazi Jewish founder mutation,c.5946delT [30]. Data on genotype­phenotype correlations for prostate cancer in BRCA2 are limited, though an increased risk has been described for individuals with mutations outside the OCCR region, i.e. BRCA2 c.2806-6401 [11,30]. Our findings partly contradict these results, with an increased risk of prostate cancer linked to mutations herein, but these results may be explained by the 10 prostate cancers linked to the BRCA2 c.6373del A mutation, which was not present in the former studies [17,30,31]. Estimates of genotype­phenotype effects are sensitive to cancer risk and penetrance and our observation needs validation in larger, prospective data sets to determine its clinical relevance.
+In summary, our data, based on a western Danish BRCA1 and BRCA2 cohort and a control population, demonstrate significantly increased risks of breast cancer and prostate cancer in males from BRCA2 families. Whereas breast cancer developed predominantly in mutation carriers, the risk of prostate cancer applied to mutation carriers and firstdegree relatives. Half of the mutations linked to prostate cancer clustered in a region defined by c.6373-c.6492 in exon 11 of BRCA2, which lead us to suggest a potential PCCR herein.
+Acknowledgments
+We would like to acknowledge Prof. Ake Borg, Institute of Clinical Sciences, Division of Oncology and Pathology, Lund University, Sweden, Ass. Professor Mads Thomassen, Department of Clinical Genetics, Odense University Hospital, PhD Inge Søkilde Pedersen, Department of Molecular Diagnostics, Aalborg University Hospital and PhD Thomas van Overeem Hansen, Department of Genomic Medicine, Rigshospitalet, Copenhagen, Denmark for data on disease-predisposing mutations. The study was financially supported by the Aase and Einar Danielsens Fund, the Research Council, Vejle Hospital. No conflicts of interest apply for any of the authors. The authors alone are responsible for the content and writing of the paper.
+Declaration of interest: The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper.
+
+Downloaded by [Harvard Library] at 12:39 23 June 2016
+
+44 H. R. Nielsen et al.
+References
+[1] Mersch J, Jackson MA, Park M, Nebgen D, Peterson SK, Singletary C, et al. Cancers associated with BRCA1 and BRCA2 mutations other than breast and ovarian. Cancer 2015;121:269­75.
+[2] Moran A, O'Hara C, Khan S, Shack L, Woodward E, Maher ER, et al. Risk of cancer other than breast or ovarian in individuals with BRCA1 and BRCA2 mutations. Fam Cancer 2012;11:235­42.
+[3] Mocci E, Milne RL, Mendez-Villamil EY, Hopper JL, John EM, Andrulis IL, et al. Risk of pancreatic cancer in breast cancer families from the breast cancer family registry. Cancer Epidemiol Biomarkers Prev 2013;22:803­11.
+[4] Noh JM, Choi DH, Baek H, Nam SJ, Lee JE, Kim JW, et al. Associations between BRCA mutations in high-risk breast cancer patients and familial cancers other than breast or ovary. J Breast Cancer 2012;15:283­7.
+[5] Mai PL, Chatterjee N, Hartge P, Tucker M, Brody L, Struewing JP, et al. Potential excess mortality in BRCA1/2 mutation carriers beyond breast, ovarian, prostate, pancreatic cancers and melanoma. PLoS One 2009;4:e4812.
+[6] Sanz J, Ramón y Cajal T, Torres A, Darder E, Gadea N, Velasco A, et al. Uptake of predictive testing among relatives of BRCA1 and BRCA2 families: A multicenter study in northeastern Spain. Fam Cancer 2010;9:297­304.
+[7] Giordano SH, Cohen DS, Buzdar AU, Perkins G, Hortobagyi GN. Breast carcinoma in men. Cancer 2004; 101:51­7.
+[8] Ruddy KJ, Winer EP. Male breast cancer: risk factors, biology, diagnosis, treatment, and survivorship. Ann Oncol 2013;24:1434­43.
+[9] Tai YC, Domchek S, Parmigiani G, Chen S. Breast cancer risk among male BRCA1 and BRCA2 mutation carriers. J Natl Cancer Inst 2007;99:1811­4.
+[10] Breast Cancer Linkage Consortium. Cancer risks in BRCA2 mutation carriers. J Natl Cancer Inst 1999;91:1310­6.
+[11] Thompson D, Easton D, Breast Cancer Linkage Consortium. Variation in cancer risks, by mutation position, in BRCA2 mutation carriers. Am J Hum Genet 2001;68:410­9.
+[12] Easton DF, Steele L, Fields P, Ormiston W, Averill D, Daly PA, et al. Cancer risks in two large breast cancer families linked to BRCA2 on chromosome 13q12-13. Am J Hum Genet 1997;61:120­8.
+[13] Evans DGR, Susnerwala I, Dawson J, Woodward E, Maher ER, Lalloo F. Risk of breast cancer in male BRCA2 carriers. J Med Genet 2010;47:710­1.
+[14] Edwards SM, Kote-Jarai Z, Meitz J, Hamoudi R, Hope Q, Osin P, et al. Two percent of men with early-onset prostate cancer harbor germline mutations in the BRCA2 gene. Am J Hum Genet 2003;72:1­12.
+[15] Kote-Jarai Z, Leongamornlert D, Saunders E, Tymrakiewicz M, Castro E, Mahmud N, et al. BRCA2 is a moderate penetrance gene contributing to young-onset prostate cancer: implications for genetic testing in prostate cancer patients. Br J Cancer 2011;105:1230­4.
+[16] Leongamornlert D, Mahmud N, Tymrakiewicz M, Saunders E, Dadaev T, Castro E, et al. Germline BRCA1
+Supplementary material available online
+SupplementaryTable I online at: http://informahealthcare.com/doi/abs/10.3109/0284186X.2015.1067714
+
+mutations increase prostate cancer risk. Br J Cancer 2012;106:1697­701. [17] Thompson D. Cancer incidence in BRCA1 mutation carriers. Cancer Spectrum Knowl Environ 2002;94:1358­65. [18] Consortium TBCL. Cancer risks in BRCA2 mutation carriers. J Natl Cancer Inst 1999;91:1310­6. [19] Gayther SA, Mangion J, Russell P, Seal S, Barfoot R, Ponder BA, et al. Variation of risks of breast and ovarian cancer associated with different germline mutations of the BRCA2 gene. Nat Genet 1997;15:103­5. [20] Deb S, Jene N, Kconfab investigators, Fox SB. Genotypic and phenotypic analysis of familial male breast cancer shows under representation of the HER2 and basal subtypes in BRCA-associated carcinomas. BMC Cancer 2012; 12:510. [21] Edwards SM, Evans DGR, Hope Q, Norman AR, Barbachano Y, Bullock S, et al. Prostate cancer in BRCA2 germline mutation carriers is associated with poorer prognosis. Br J Cancer 2010;103:918­24. [22] Gallagher DJ, Gaudet MM, Pal P, Kirchhoff T, Balistreri L, Vora K, et al. Germline BRCA mutations denote a clinicopathologic subset of prostate cancer. Clin Cancer Res 2010;16:2115­21. [23] Tryggvadóttir L,Vidarsdóttir L,Thorgeirsson T, Jonasson JG, Olafsdóttir EJ, Olafsdóttir GH, et al. Prostate cancer progression and survival in BRCA2 mutation carriers. J Natl Cancer Inst 2007;99:929­35. [24] Thorne H, Willems AJ, Niedermayr E, Hoh IMY, Li J, Clouston D, et al. Decreased prostate cancer-specific survival of men with BRCA2 mutations from multiple breast cancer families. Cancer Prev Res 2011;4:1002­10. [25] Castro E, Goh CL, Eeles RA. Prostate cancer screening in BRCA and Lynch syndrome mutation carriers. Am Soc Clin Oncol Educ Book 2013;33:e50. [26] Akbari MR, Wallis CJD, Toi A, Trachtenberg J, Sun P, Narod SA, et al. The impact of a BRCA2 mutation on mortality from screen-detected prostate cancer. Br J Cancer 2014;111:1238­40. [27] Edwards SM, Evans DGR, Hope Q, Norman AR, Barbachano Y, Bullock S, et al. Prostate cancer in BRCA2 germline mutation carriers is associated with poorer prognosis. Br J Cancer 2010;103:918­24. [28] Castro E, Eeles R. The role of BRCA1 and BRCA2 in prostate cancer. Asian J Androl 2012;14:409­14. [29] Bancroft EK, Page EC, Castro E, Lilja H, Vickers A, Sjoberg D, et al. Targeted prostate cancer screening in BRCA1 and BRCA2 mutation carriers: Results from the initial screening round of the IMPACT study. Eur Urol 2014;66:489­99. [30] Lubinski J, Phelan CM, Ghadirian P, Lynch HT, Garber J, Weber B, et al. Cancer variation associated with the position of the mutation in the BRCA2 gene. Fam Cancer 2004;3:1­10. [31] Risch HA, McLaughlin JR, Cole DE, Rosen B, Bradley L, Kwan E, et al. Prevalence and penetrance of germline BRCA1 and BRCA2 mutations in a population series of 649 women with ovarian cancer. Am J Hum Genet 2001; 68:700­10.
+
+

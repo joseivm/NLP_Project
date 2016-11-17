@@ -1,0 +1,337 @@
+Cancer Genetics and Epigenetics
+
+IJC
+International Journal of Cancer
+Risk of extracolonic cancers for people with biallelic and monoallelic mutations in MUTYH
+Aung Ko Win1, Jeanette C. Reece1, James G. Dowty1, Daniel D. Buchanan1,2, Mark Clendenning2, Christophe Rosty2,3, Melissa C. Southey4, Joanne P. Young5,6,7, Sean P. Cleary8, Hyeja Kim8, Michelle Cotterchio9, Finlay A. Macrae10,11,12, Katherine M. Tucker13, John A. Baron14, Terrilea Burnett15, Loic Le Marchand15, Graham Casey16, Robert W. Haile17, Polly A. Newcomb18,19, Stephen N. Thibodeau20, John L. Hopper1,21, Steven Gallinger6, Ingrid M. Winship10,11, Noralane M. Lindor22 and Mark A. Jenkins1
+1 Centre for Epidemiology and Biostatistics, Melbourne School of Population and Global Health, The University of Melbourne, Parkville, Victoria, Australia 2 Colorectal Oncogenomics Group, Genetic Epidemiology Laboratory, Department of Pathology, The University of Melbourne, Parkville, Victoria, Australia 3 School of Medicine, University of Queensland, Herston, Queensland, Australia 4 Genetic Epidemiology Laboratory, Department of Pathology, The University of Melbourne, Parkville, Victoria, Australia 5 Department of Haematology and Oncology, the Queen Elizabeth Hospital, Woodville, South Australia, Australia
+Key words: MUTYH, cancer risk, penetrance, MUTYH-associated polyposis Additional Supporting Information may be found in the online version of this article. Authors' Contributions: Aung Ko Win, Mark A. Jenkins: study concept and design; acquisition of data; statistical analysis; interpretation of data; drafting and critical review of the manuscript for important intellectual content; approval of the final version of the manuscript; Jeanette C. Reece: interpretation of data; drafting and critical review of the manuscript for important intellectual content; approval of the final version of the manuscript; James G. Dowty: statistical analysis; interpretation of data; drafting and critical review of the manuscript for important intellectual content; approval of the final version of the manuscript; Daniel D. Buchanan, Mark Clendenning, Christophe Rosty, Melissa C. Southey, Joanne P. Young, Sean P. Cleary, Hyeja Kim, Michelle Cotterchio, Finlay A. Macrae, Katherine M. Tucker, John A. Baron, Terrilea Burnett, Loic Le Marchand, Graham Casey, Robert W. Haile, Polly A. Newcomb, Stephen N. Thibodeau, John L. Hopper, Steven Gallinger, Ingrid M. Winship, Noralane M. Lindor: acquisition of data; interpretation of data; critical review of the manuscript for important intellectual content; approval of the final version of the manuscript. Disclaimer: The content of this manuscript does not necessarily reflect the views or policies of the National Cancer Institute or any of the collaborating centers in the CFRs, nor does mention of trade names, commercial products, or organizations imply endorsement by the US Government or the CFR. Authors had full responsibility for the design of the study, the collection of the data, the analysis and interpretation of the data, the decision to submit the manuscript for publication, and the writing of the manuscript. Disclosure: The authors have no conflict of interest to declare with respect to this manuscript. Grant sponsor: National Cancer Institute; Grant numbers: UM1 CA167551 (Colon Cancer Family Registry), U01 CA074778, U01/U24 CA097735 (Australasian Colorectal Cancer Family Registry), U01/U24 CA074800 (Mayo Clinic Cooperative Family Registry for Colon Cancer Studies), U01/U24 CA074783 (Ontario Familial Colorectal Cancer Registry), U01/U24 CA074794 (Seattle Colorectal Cancer Family Registry), U01/U24 CA074806 (University of Hawaii Colorectal Cancer Family Registry), U01/U24 CA074799 (USC Consortium Colorectal Cancer Family Registry); Grant sponsor: Surveillance, Epidemiology and End Results (SEER) Program of the National Cancer Institute with additional support from the Fred Hutchinson Cancer Research Center; Grant numbers: N01-CN-67009 (1996-2003), N01-PC-35142 (20032010), HHSN2612013000121 (2010-2017) (Cancer Surveillance System of the Fred Hutchinson Cancer Research Center); Grant sponsor: Hawaii Department of Health as part of the state-wide cancer reporting program mandated by Hawaii Revised Statutes; SEER Program of the National Cancer Institute; Grant numbers: N01-PC-67001 (1996-2003), N01-PC-35137 (2003-2010), HHSN26120100037C (2010-2013), HHSN261201300009I (2010-current) (University of Hawaii); Grant sponsor: California Department of Public Health as part of the statewide cancer reporting program mandated by California Health and Safety Code Section 103885; SEER Program of the National Cancer Institute; Grant numbers: HHSN261201000140C (Cancer Prevention Institute of California), HHSN261201000035C (University of Southern California), HHSN261201000034C (Public Health Institute); Grant sponsor: Centers for Disease Control and Prevention's National Program of Cancer Registries; Grant number: U58DP003862-01 (California Department of Public Health); Grant sponsor: National Health and Medical Research Council (NHMRC), Australia; Grant numbers: APP1042021 (Centre for Research Excellence), APP1074383 (program grant), APP1073395 (Early Career Fellowship to AKW), APP1020493 (Senior Research Fellowship to MAJ), APP1023434 (Senior Principal Research Fellowship to JLH); Grant sponsor: University of Melbourne Research at Melbourne Accelerator Program (R@MAP); Grant number: 13947 (Senior Research Fellowship to DDB). DOI: 10.1002/ijc.30197 History: Received 5 Apr 2016; Accepted 6 May 2016; Online 19 May 2016 Correspondence to: Aung Ko Win, PhD, Centre for Epidemiology and Biostatistics, Melbourne School of Population and Global Health, Level 3, 207 Bouverie Street, The University of Melbourne VIC 3010 Australia, Tel.: 1[61-3-9035-8238], Fax: 1[61-3-9349-5815], E-mail:awin@unimelb.edu.au
+Int. J. Cancer: 139, 1557­1563 (2016) VC 2016 UICC
+
+1558
+
+Extracolonic cancer risks for people with biallelic and monoallelic MUTYH mutations
+
+6 SAHMRI Colorectal Node, Basil Hetzel Institute for Translational Research, Woodville, South Australia, Australia 7 School of Medicine, University of Adelaide, South Australia, Australia 8 Lunenfeld Tanenbaum Research Institute, Mount Sinai Hospital, University of Toronto, Toronto, Ontario, Canada 9 Prevention and Cancer Control, Cancer Care Ontario, Toronto, Ontario, Canada 10 Genetic Medicine and Family Cancer Clinic, Royal Melbourne Hospital, Parkville, Australia 11 Department of Medicine, The University of Melbourne, Parkville, Victoria, Australia 12 Colorectal Medicine and Genetics, Royal Melbourne Hospital, Parkville, Victoria, Australia 13 Prince of Wales Hospital, Hereditary Cancer Clinic, Randwick, New South Wales, Australia 14 Department of Medicine, University of North Carolina, Chapel Hill, NC 15 University of Hawaii Cancer Center, Honolulu, HI 16 Department of Preventive Medicine, Keck School of Medicine and Norris Comprehensive Cancer Center, University of Southern California, Los Angeles, CA 17 Division of Oncology, Department of Medicine, Stanford University, Stanford, CA 18 School of Public Health, University of Washington, Seattle, WA 19 Public Health Sciences Division, Fred Hutchinson Cancer Research Center, Seattle, WA 20 Molecular Genetics Laboratory, Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN 21 Department of Epidemiology and Institute of Health and Environment, School of Public Health, Seoul National University, Seoul, Korea 22 Department of Health Science Research, Mayo Clinic Arizona, Scottsdale, AZ
+
+Cancer Genetics and Epigenetics
+
+Germline mutations in the DNA base excision repair gene MUTYH are known to increase a carrier's risk of colorectal cancer. However, the risks of other (extracolonic) cancers for MUTYH mutation carriers are not well defined. We identified 266 probands (91% Caucasians) with a MUTYH mutation (41 biallelic and 225 monoallelic) from the Colon Cancer Family Registry. Mutation status, sex, age and histories of cancer from their 1,903 first- and 3,255 second-degree relatives were analyzed using modified segregation analysis conditioned on the ascertainment criteria. Compared with incidences for the general population, hazard ratios (HRs) (95% confidence intervals [CIs]) for biallelic MUTYH mutation carriers were: urinary bladder cancer 19 (3.7­97) and ovarian cancer 17 (2.4­115). The HRs (95% CI) for monoallelic MUTYH mutation carriers were: gastric cancer 9.3 (6.7­13); hepatobiliary cancer 4.5 (2.7­7.5); endometrial cancer 2.1 (1.1­3.9) and breast cancer 1.4 (1.0­2.0). There was no evidence for an increased risk of cancers at the other sites examined (brain, pancreas, kidney or prostate). Based on the USA population incidences, the estimated cumulative risks (95% CI) to age 70 years for biallelic mutation carriers were: bladder cancer 25% (5­77%) for males and 8% (2­33%) for females and ovarian cancer 14% (2­65%). The cumulative risks (95% CI) for monoallelic mutation carriers were: gastric cancer 5% (4­7%) for males and 2.3% (1.7­3.3%) for females; hepatobiliary cancer 3% (2­5%) for males and 1.4% (0.8­2.3%) for females; endometrial cancer 3% (2%­6%) and breast cancer 11% (8­ 16%). These unbiased estimates of both relative and absolute risks of extracolonic cancers for people, mostly Caucasians, with MUTYH mutations will be important for their clinical management.
+What's new? People who have a mutation in the MUTYH gene have an increased risk of colorectal cancer. But are they also at higher risk for other types of cancer? In this study, the authors found that people with one mutated copy of MUTYH (monoallelic) have an increased risk of gastric, liver, breast and endometrial cancers, while people with two mutated copies (biallelic) have an increased risk of bladder and ovarian cancers. This information will be useful for risk assessment in patients and families who carry MUTYH mutations.
+
+Germline mutations in the base excision repair gene, MUTYH
+(MIM# 604933), cause increased risks of colorectal adenomas and carcinomas,1 presumably due to an increase in unrepaired,
+8-oxoG-induced somatic G:C to T:A transversions in tumor suppressor genes.2
+Biallelic (compound heterozygous or homozygous)
+MUTYH mutations, i.e., inherited from both parents, occur-
+ring in 0.01­0.04% of the Caucasian population, are associated
+with a 18- to 100-fold increased risk of colorectal adenomas and cancer compared with the general population3­6;
+commonly known as MUTYH-associated polyposis (MAP)
+
+(OMIM #608456).1,7 The risks of extracolonic cancers for biallelic mutation carriers, however, are not well defined.8­16
+Several studies have reported an increased risk of duodenal cancer for biallelic mutation carriers.7,12,17,18 Some studies
+have also reported an increased risk of bladder, ovarian, skin,12 breast12,19 and endometrial10,13 cancer for biallelic
+mutation carriers; while other studies failed to confirm associations with breast11,16,20 or endometrial12,21 cancer. Case reports of cancers of the sebaceous glands,9,10,22 hair follicles,23 stomach18 and thyroid9,10,12,15,18 in biallelic mutation
+carriers have been documented but these studies did not
+
+Int. J. Cancer: 139, 1557­1563 (2016) VC 2016 UICC
+
+Win et al.
+
+1559
+
+Cancer Genetics and Epigenetics
+
+determine whether the incidence of these cancers exceeded the expected population risk.
+Monoallelic (heterozygous) MUTYH mutations, i.e., inherited from only one parent, occurring in 1­2% of the Caucasian population,24 are associated with a moderately increased risk of colorectal cancer.3,5,6,25 Previous studies have reported an increased risk of gastric, liver and endometrial26 and breast cancer27­29 for monoallelic mutation carriers while other studies did not find statistical evidence for an increased risk of breast11,20 or liver30 cancer.
+Given the rarity of biallelic and monoallelic MUTYH mutation carriers, most of the previous studies have been underpowered to provide reliable estimates for the risks of extracolonic cancers. Clarity on these cancer risks is important for the clinical management of MUTYH mutation carriers. In the current study, using a large dataset from the Colon Cancer Family Registry, we estimated extracolonic cancer risks for people with biallelic and monoallelic MUTYH mutations.
+Material and Methods
+Study sample
+The study sample was from the Colon Cancer Family Registry that has been described in detail elsewhere31 and at www. coloncfr.org. Between 1997 and 2012, the Colon Cancer Family Registry recruited families via: population-based probands who were recently diagnosed colorectal cancer cases from state or regional population cancer registries in the USA (Washington, California, Arizona, Minnesota, Colorado, New Hampshire, North Carolina, and Hawaii), Australia (Victoria) and Canada (Ontario); and clinic-based probands who were enrolled from multiple-case families referred to family cancer clinics in the USA (Mayo Clinic, Rochester, Minnesota and Cleveland Clinic, Cleveland, Ohio), Canada (Ontario), Australia (Melbourne, Adelaide, Perth, Brisbane, Sydney) and New Zealand (Auckland). Probands were asked for permission to contact their relatives to seek their enrolment in the Cancer Family Registry. For population-based families, first-degree relatives of probands were recruited and recruitment was extended to more distant relatives by some registries. For clinic-based families, recruitment was based on availability but attempts were made to recruit up to second-degree relatives of affected individuals (detailed by Newcomb et al.31). Informed consent was obtained from all study participants, and the study protocol was approved by the institutional research ethics review board at each registry.
+
+cer diagnoses and age at diagnosis were confirmed using pathology reports, medical records, cancer registry reports and death certificates, where possible. We collected family history of cancer from all participants, thus may obtain multiple reports on a single individual. If so and reports conflict or vary, we used the specific protocol of algorithms for selecting reports of cancer. For example, in Australia reports of cancer were selected over reports of no cancer, detailed dates of death/birth are selected over estimates and relative sources were selected as follows (in the hierarchy): self-report; the spouse or partner; a parent or adult son/daughter; brother or sister; grandparent or grandchild; aunt, uncle, nephew or niece; cousin; other. The tumor anatomic location and histology were coded and stored using the International Classification of Diseases for Oncology (ICD-O).32 We attempted to obtain blood samples from all participants and tumor tissue samples from participants affected with colorectal cancer.
+MUTYH mutation testing As previously described by Cleary et al.3 genomic DNA extracted from each proband was tested for 12 previously identified MUTYH variants: c.536A > G p.(Tyr179Cys), c.1187G > A p.(Gly396Asp), c.312C > A p.(Tyr104Ter), c.821G > A p.(Arg274Gln), c.1438G > T p.(Glu480Ter), c.1171C > T p.(Gln391Ter), c.1147delC p.(Ala385ProfsTer23), c.933 1 3A > C p.(Gly264TrpfsX7), c.1437_1439delGGA p.(Glu480del), c.721C > T, p.(Arg241Trp), c.1227_1228dup p.(Glu410GlyfsX43) and c.1187-2A > G p.(Leu397CysfsX89) using the MassArray MALDI-TOF Mass Spectrometry (MS) system (Sequenom, San Diego, CA). To confirm the MUTYH mutation and identify additional mutations, screening of the entire MUTYH coding region, promoter and splice site regions was performed on all samples exhibiting MS mobility shifts using denaturing high-performance liquid chromatography (Transgenomic Wave 3500HT System; Transgenomic, Omaha, NE). All MS-detected variants and WAVE mobility shifts were submitted for sequencing for mutation confirmation (ABI PRISM 3130XL Genetic Analyser). That is, if a heterozygous MUTYH mutation was identified, then the MUTYH gene was screened for any additional mutations not captured by the Sequenom genotyping screen to ensure all potential compound heterozygous carriers were identified. The relatives of probands with a pathogenic MUTYH germline mutation underwent testing for the specific variant identified in the proband.
+
+Data collection
+Information on demographics, personal characteristics, personal and family history of cancer, cancer-screening history, history of polyps, polypectomy and other surgeries was obtained by questionnaires from all probands and participating relatives. Participants were followed approximately every 5 years after baseline to update this information. For the present study, each individual's lifetime cancer history was based on the most recent data (baseline or most recent follow-up). Reported can-
+
+Statistical analysis The median, range, mean and standard deviation of the ages at cancer diagnoses were calculated using Stata 13.0 (StataCorp, College Station, TX, 2013). Hazard ratios (HRs), i.e. the age-, sex- and country-specific cancer incidence for carriers divided by that for the general population, were estimated for each cancer site. Age- and sex-specific cancer incidences in 1988­1992 for each country (the USA, Canada and Australia) were obtained from Cancer Incidence in Five
+
+Int. J. Cancer: 139, 1557­1563 (2016) VC 2016 UICC
+
+1560
+
+Extracolonic cancer risks for people with biallelic and monoallelic MUTYH mutations
+
+Cancer Genetics and Epigenetics
+
+Figure 1. Selection of study sample.
+Continents.33 The period of 1988­1992 was selected for analysis because it was the closest available dataset to the mean calendar year of cancer diagnoses in the sample. We used a modified segregation analysis,34,35 (as described in detail in the Appendix in the work by Dowty et al.36). This analytical method is not subject to population stratification, can be rigorously adjusted for ascertainment and uses data on all study participants, whether genotyped or not, thereby maximizing statistical power. Models were fitted by the method of maximum likelihood with the statistical package MENDEL 3.2.37
+For each cancer site, the age at cancer diagnosis was modeled as a random variable whose hazard was the relevant population incidence rate multiplied by a site-specific HR. Observation time for each individual started at birth and ended at first diagnosis of any cancer, last follow-up or death, whichever occurred first. Where age at diagnosis of a cancer was not reported (22% of all cancer cases), we assumed the age of diagnosis to be the median age at that cancer diagnosis for the general population obtained from SEER Cancer Statistics Review (1975­2008).38
+Estimates were appropriately adjusted for the clinic- and population-based ascertainment of families using a combination of retrospective likelihood and ascertainment-corrected joint likelihood,35,39,40 in which each pedigree's data was conditioned on the proband's genotype, cancer status and age of onset (for population-based families) or on the proband's genotype and the affected statuses and ages of onset of all family members at the time of ascertainment, i.e. when the proband was found to be a MUTYH mutation carrier (for clinic-based families). Our estimates are therefore the parameter values which maximize the conditional likelihood of the observed data conditioned on the relevant ascertainment criteria. Our estimates are unaffected by the selective ascertainment of families into our study.
+
+Table 1. Numbers and mean ages at diagnosis of extracolonic cancers in the first- and second-degree relatives (combined) of probands
+
+Male (n 5 2,552) Female (n 5 2,606)
+
+Site of cancer
+
+N Mean age (SD) N Mean age (SD)
+
+Stomach
+
+27 68.4 (9.39)
+
+26 73.2 (12.5)
+
+Hepatobiliary tract 15 62.1 (12.9)
+
+10 72.9 (8.37)
+
+Brain
+
+10 57.9 (12.7)
+
+12 54.0 (12.1)
+
+Urinary bladder
+
+4 66.0 (10.7)
+
+5 78.4 (12.3)
+
+Renal pelvis/Kidney 6 64.7 (11.3)
+
+9 66.4 (12.0)
+
+Pancreas
+
+4 64.1 (10.3)
+
+6 72.0 (11.2)
+
+Small bowel
+
+0
+
+1 52
+
+Ureter
+
+1 59
+
+0
+
+Thyroid
+
+1 29
+
+4 41.0 (17.3)
+
+Pharynx
+
+9 62.7 (6.71)
+
+6 69.0 (9.54)
+
+Esophagus
+
+7 63.8 (8.22)
+
+2 72.0 (1.41)
+
+Lung
+
+46 63.7 (12.6)
+
+15 62.7 (10.0)
+
+Bone
+
+7 67.3 (18.7)
+
+4 55.5 (19.7)
+
+Ovary
+
+10 52.7 (12.8)
+
+Endometrium
+
+22 66.1 (14.0)
+
+Breast
+
+106 60.7 (12.0)
+
+Cervix
+
+5 37.4 (12.1)
+
+Prostate
+
+63 69.4 (8.41)
+
+N, total number of affected relatives; SD, standard deviation.
+
+Estimated cumulative risks (penetrance) of cancers to age 70 years and corresponding 95% CIs for MUTYH mutation carriers were calculated for each sex from the HR estimates and the age- and sex-specific USA population incidences incidencei at age i using the formula:
+X70 2 HR3incidencei 12e i50
+The total number of carriers was estimated by summing MUTYH carrier probabilities for all individuals, as calculated from Mendel's laws of inheritance, the known genetic relationship of each individual to his or her genotyped relatives and a population allele frequency of 0.0085 (but not any affected statuses).26 These calculations were performed using R 2.15.041 and a modified version of Mendel 3.2.37
+
+Results We identified 276 probands who were known to carry germline mutations in the MUTYH gene from the Colon Cancer Family Registry. We excluded 10 probands who were also known to carry a pathogenic germline mutation in a DNA mismatch repair gene (Lynch syndrome).42 Of the remaining 266 probands, 41 (15%) were biallelic MUTYH mutation carriers and 225 (85%) were monoallelic MUTYH mutation carriers. Of
+
+Int. J. Cancer: 139, 1557­1563 (2016) VC 2016 UICC
+
+Win et al.
+
+1561
+
+Cancer Genetics and Epigenetics
+
+Table 2. Hazard ratios and corresponding cumulative risks % to age 70 years of extracolonic cancers for carriers of germline monoallelic and biallelic mutations in MUTYH
+
+Site of cancer
+
+HR (95% CI)1
+
+Cumulative risk % (95% CI)2
+
+Males
+
+Females
+
+Biallelic carriers
+
+Urinary bladder 19 (3.7­97) 25 (5.4­77) 7.6 (1.5­33)
+
+Ovary
+
+17 (2.4­115)
+
+14 (2.2­65)
+
+Monoallelic carriers
+
+Stomach
+
+9.3 (6.7­13) 5.0 (3.6­6.9) 2.3 (1.7­3.3)
+
+Hepatobiliary tract 4.5 (2.7­7.5) 2.9 (1.7­4.7) 1.4 (0.8­2.3)
+
+Endometrium
+
+2.1 (1.1­3.9)
+
+3.3 (1.8­6.2)
+
+Breast
+
+1.4 (1.0­2.0)
+
+11 (8.3­16)
+
+Ovary
+
+0.4 (0.1­2.6)
+
+Prostate
+
+0.5 (0.3­1.0)
+
+Brain
+
+2.1 (0.9­4.9)
+
+Renal pelvis/ Kidney
+
+2.3 (0.1­3.1)
+
+Pancreas
+
+2.3 (0.2­4.1)
+
+CI, confidence interval; HR, hazard ratio. 1HR was provided for both males and females combined given that
+HRs were not different by sex. 2Cumulative risks were estimated only for cancers that were signifi-
+cantly associated with MUTYH mutations. These cumulative risks were calculated for carriers of germline monoallelic and biallelic mutations
+in MUTYH living in USA. See Supporting Information Table 3 for cumu-
+lative risks for carriers living in Canada and Australia.
+
+these, 91% (n 5 241) were Caucasians and 9% (n 5 25) were others (9 African Americans, 5 Latinos, 2 Native Americans, 1 Portuguese and 8 unknown). Two hundred thirty-seven (89%) probands were ascertained via population-based resources (Fig. 1). There were 140 (53%) families recruited from the USA, 81 (30%) from Canada and 45 (17%) from Australia and New Zealand. The MUTYH variants of the probands are shown in Supporting Information Table 1. Of the 12 MUTYH variants examined, 73% of biallelic MUTYH mutations were compound heterozygous or homozygous p.(Tyr179Cys) or p.(Gly396Asp) mutations. Similarly, 92% of monoallelic MUTYH mutations were either p.(Tyr179Cys) or p.(Gly396Asp).
+We obtained data on a total of 1,903 (929 female) first-degree relatives and 3,255 (1,623 female) second-degree relatives of the 266 probands. MUTYH mutation status was tested for 290 relatives (13 were found to be biallelic mutation carriers, 138 were monoallelic mutation carriers and 139 were non-carriers). We estimated that there were additional 40 biallelic and 1,874 monoallelic mutation carriers among non-genotyped relatives, giving a total estimated number of 53 biallelic and 2,012 monoallelic mutation-carrying relatives in our study sample.
+Table 1 shows the numbers and mean ages of diagnoses of cancers at various sites in the affected first- and seconddegree relatives (combined) of the probands. Of these cancer diagnoses in the relatives, 17% were verified by pathology
+
+report, medical clinical records, cancer registry reports and/or death certificates (Supporting Information Table 2).
+Biallelic MUTYH mutation carriers had urinary bladder cancer incidence 19 (95% CI, 3.7­97) times and ovarian cancer incidence 17 (95% CI, 2.4­115) times higher than the general population. Monoallelic MUTYH mutation carriers had gastric cancer incidence 9.3 (95% CI, 6.7­13) times and hepatobiliary cancer incidence 4.5 (95% CI, 2.7­7.5) times higher than the general population. Monoallelic MUTYH mutation carriers also had a slightly higher incidence of endometrial cancer (HR, 2.1; 95% CI, 1.1­3.9) and breast cancer (HR, 1.4; 95% CI, 1.0­2.0). We did not find evidence for an increased risk of cancers at the other sites that we were able to estimate HRs (kidney, pancreas, brain and prostate) (Table 2). For cancers at some sites (e.g., small bowel, thyroid, ureter), we were not able to estimate reliable HRs. A sensitivity analysis excluding all relatives with missing age at cancer diagnosis showed results similar to those of the main analysis (details not shown).
+The estimated cumulative risks to age 70 years of specific cancer sites for carriers from the USA are provided in Table 2. It is estimated that 25% (95% CI, 5­77%) and 8% (95% CI, 2­ 33%) of male and female biallelic MUTYH mutation carriers, respectively, will be diagnosed with urinary bladder cancer by the age of 70 years, whereas 14% (95% CI, 2­65%) will be diagnosed with ovarian cancer. For monoallelic MUTYH mutation carriers, 5% (95% CI, 4­7%) and 2.3% (95% CI, 1.7­3.3%) of males and females, respectively, will be diagnosed with gastric cancer while 3% (95% CI, 2­5%) and 1.4% (95% CI, 0.8­2.3%), respectively, will be diagnosed with hepatobiliary cancer. Of female monoallelic MUTYH mutation carriers, 3% (95% CI, 2­ 6%) will develop endometrial cancer and 11% (95% CI, 8­ 16%) will develop breast cancer (Table 2). The corresponding cumulative risks for carriers living in Canada and Australia are given in Supporting Information Table 3.
+Discussion We have estimated the risk of extracolonic cancers for biallelic and monoallelic MUTYH mutation carriers, mostly Caucasians, using one of the world's largest resources of these carriers.
+We estimated that biallelic MUTYH mutation carriers had a 19-fold increased risk of urinary bladder cancer and a 17fold increased risk of ovarian cancer, compared with the general population. This is consistent with a previous study by Vogt et al.,12 which found an increased risk of urinary bladder cancer (standardized incidence ratio [SIR], 7.2; 95% CI, 2.0­18.4) and ovarian cancer (SIR, 5.7; 95% CI, 1.2­16.7). These estimates are not statistically different from our estimates (p 5 0.34 and p 5 0.37, respectively, based on the method proposed by Altman and Bland43). Cancer screening guidelines for carriers of biallelic mutations in MUTYH currently only address cancer of the colon and upper gastrointestinal tracts.44­46 Although our study confirms the previous report by Vogt et al.12 of increased risks of bladder and
+
+Int. J. Cancer: 139, 1557­1563 (2016) VC 2016 UICC
+
+1562
+
+Extracolonic cancer risks for people with biallelic and monoallelic MUTYH mutations
+
+Cancer Genetics and Epigenetics
+
+ovarian cancers for biallelic mutation carriers, it may be too early to advise clinicians to consider implementing early detection at these sites given the wide confidence intervals around our estimates as well as the lack of evidence for the efficacy of screening methods for these cancers.47,48 Further, our study was unable to examine previous suggestions that biallelic mutations in MUTYH increase the susceptibility to duodenal,7,12,17,18 breast,12,19 endometrial10,13 and gastric18 cancer, possibly because of the small numbers of cases of these cancers in our study sample.
+For monoallelic MUTYH mutation carriers, we found an increased risk of gastric and liver cancers, as well as a slightly increased risk of endometrial and breast cancers. In the current analysis, we observed only a slightly elevated risk of breast cancer, consistent with previous reports.27­29 For example, in a population-based case­control study of Jewish descendants of North African origin, Rennert et al. reported an elevated risk of breast cancer for carriers of a MUTYH p.(Gly396Asp) variant (odds ratio [OR] 5 1.86, 95% CI 1.02­3.39).28 In a Chinese case­control study, Zhu et al. reported an association between AluYb8 insertion in MUTYH and a modest increased risk of breast cancer (OR 5 1.26, 95% CI 1.01­1.56) although we did not test for this variant in our study.29 Wasielewski et al. also reported a higher frequency of monoallelic MUTYH mutations in families with both breast and colorectal cancer compared with the population (4.1% vs. 1.9%).27 Other studies failure to find evidence for an increased risk of breast cancer for monoallelic mutation carriers may be due to the lack of power given the modest increase in the risk of breast cancer and the small sample sizes.11,20
+The wide confidence intervals for some cancer risks observed in the present study are due to limited sample size and/or variability in risk due to genetic heterogeneity or the influence of environmental risk factors. This is especially seen in our estimates for urinary bladder and ovarian cancer risks for biallelic mutation carriers. In a previous study, we have shown a substantial variation in colorectal cancer risks using a polygenic model that mimics the effect of a large number of cancer-susceptibility loci, in addition to the MUTYH mutation effect.6 To our knowledge, thus far the only study conducted to investigate environmental modifiers of colorectal cancer risk for MUTYH mutation carriers was on the relationship with hormone replacement therapy,5 which reported no evidence of interaction between hormone replacement therapy and MUTYH mutations.
+The strengths of the study are the relatively large sample size (although the numbers of the biallelic mutation carriers were small), established registry with up to 15 years of follow-up and its multinational populations (increasing generalizability). This study avoided potential survival bias as deceased cases were represented using methods that estimated carrier probabilities based on the genetic relationship of the deceased and untested individuals to their confirmed carrier and non-carrier relatives. Furthermore, ascertainment bias (due to inclusion of relatives' cancers that resulted in
+
+ascertainment of the family) was avoided in this study as estimates were appropriately adjusted for the clinic- and population-based ascertainment of families.
+A potential limitation of our study is that self-reported unverified cancer cases in the relatives (83%) may affect the accuracy of estimates. However, the majority of our families were recruited from population cancer registries (89%) and we tested their MUTYH mutation status after surveying family history. Therefore, any measurement error (under- or overreporting) of family history of cancer will be non-differential with respect to mutation status and our results comparing cancer risks for carriers with the general population is likely to be attenuated. Further, previous studies showed a high probability of agreement between proband-reported cancer status in firstdegree relatives and the validated report; for example, 95.4% (95% CI, 92.6­98.3) for female breast cancer, 83.3% (95% CI, 72.8­93.8) for ovarian cancer; and 79.3% (95% CI, 70.0­88.6) for prostate cancer.49 We systematically attempted to estimate HR for each cancer site separately for monoallelic and biallelic mutation carriers. However, for many sites there were insufficient numbers of cancer diagnosis to generate reasonable estimates of HR. Because of many more relatives of monoallelic mutation carriers compared with biallelic mutation carriers (225 vs. 41 families), we were able to estimate the risk of more cancer sites for monoallelic mutation carriers while we were only able to estimate the cancer risk of two sites (urinary bladder and ovary) for biallelic mutation carriers. Further, we did not have sufficient power to examine cancer risks associated with specific variants of the MUTYH gene in our study. Some studies have reported associations of specific MUTYH variants with particular disease types and severity. For example, monoallelic or biallelic mutation carriers of a MUTYH p.(Tyr179Cys) variant had a higher risk of colorectal cancer than carriers of a MUTYH p.(Gly396Asp) variant.5,6 Our results might have limited relevance for non-Caucasian populations, since our cohort was comprised mainly of individuals with MUTYH variants that commonly occur in Caucasians, and there are ethnic and geographical differences in MUTYH variants.50 Finally, most of the relatives included in the study (including those affected with a cancer) were not tested for their mutation status, leading to less precise estimates than if every relative was genetically tested, so our estimates should be replicated in larger studies to obtain more precise estimates.
+In summary, we found that biallelic MUTYH mutation carriers are at increased risks of developing urinary bladder and ovarian cancers and monoallelic carriers are at increased risks of gastric, liver, breast and endometrial cancers. Further studies investigating cancer risks and disease characteristics associated with specific MUTYH mutation variants are warranted.
+Acknowledgement
+The authors thank all study participants of the Colon Cancer Family Registry and staff for their contributions to this project.
+
+Int. J. Cancer: 139, 1557­1563 (2016) VC 2016 UICC
+
+Cancer Genetics and Epigenetics
+
+Win et al.
+
+1563
+
+References
+
+1. Al-Tassan N, Chmiel NH, Maynard J, et al. Inherited variants of MYH associated with somatic G:C ­>T:A mutations in colorectal tumors. Nat Genet 2002;30:227.
+2. Cheng KC, Cahill DS, Kasai H, et al. 8-Hydroxyguanine, an abundant form of oxidative DNA damage, causes G---T and A---C substitutions. J Biol Chem 1992;267:166­72.
+3. Cleary SP, Cotterchio M, Jenkins MA, et al. Germline MutY human homologue mutations and colorectal cancer: a multisite case­control study. Gastroenterology 2009;136:1251­60.
+4. Lubbe SJ, Di Bernardo MC, Chandler IP, et al. Clinical implications of the colorectal cancer risk associated with MUTYH mutation. J Clin Oncol 2009;27:3975­80.
+5. Theodoratou E, Campbell H, Tenesa A, et al. A large-scale meta-analysis to refine colorectal cancer risk estimates associated with MUTYH variants. Br J Cancer 2010;103:1875­84.
+6. Win AK, Dowty JG, Cleary SP, et al. Risk of colorectal cancer for carriers of mutations in MUTYH, with and without a family history of cancer. Gastroenterology 2014;146:1208­ 1211.e1-5.
+7. Sieber OM, Lipton L, Crabtree M, et al. Multiple colorectal adenomas, classic adenomatous polyposis, and germ-line mutations in MYH. N Engl J Med 2003;348:791.
+8. Al-Tassan N, Eisen T, Maynard J, et al. Inherited variants in MYH are unlikely to contribute to the risk of lung carcinoma. Hum Genet 2004;114:207­10.
+9. Ponti G, de Leon M, Maffei S, et al. Attenuated familial adenomatous polyposis and Muir­Torre syndrome linked to compound biallelic constitutional MYH gene mutations. Clin Genet 2005;68: 442­7.
+10. Barnetson RA, Devlin L, Miller J, et al. Germline mutation prevalence in the base excision repair gene, MYH, in patients with endometrial cancer. Clin Genet 2007;72:551­5.
+11. Beiner M, Zhang W, Zhang S, et al. Mutations of the MYH gene do not substantially contribute to the risk of breast cancer. Breast Cancer Res Treat 2009;114:575­8.
+12. Vogt S, Jones N, Christian D, et al. Expanded Extracolonic Tumor Spectrum in MUTYHAssociated Polyposis. Gastroenterology 2009;137: 1976­1985.e10.
+13. Tricarico R, Bet P, Ciambotti B, et al. Endometrial cancer and somatic G>T KRAS transversion in patients with constitutional MUTYH biallelic mutations. Cancer Lett 2009;274:266­70.
+14. Agalliu I, Kwon E, Salinas C, et al. Genetic variation in DNA repair genes and prostate cancer risk: results from a population-based study. Cancer Causes Control 2010;21:289­300.
+15. Pervaiz M, Eppolito A, Schmidt K. Papillary thyroid cancer in a patient with MUTYH-associated polyposis (MAP). Fam Cancer 2010;9:595­7.
+16. Boesaard EP, Vogelaar IP, Bult P, et al. Germline MUTYH gene mutations are not frequently found in unselected patients with papillary breast carcinoma. Hered Cancer Clin Pract 2014;12:21.
+
+17. Nielsen M, Poley JW, Verhoef S, et al. Duodenal carcinoma in MUTYH-associated polyposis. J Clin Pathol 2006;59:1212­15.
+18. Aretz S, Uhlhaas S, Goergens H, et al. MUTYHassociated polyposis: 70 of 71 patients with biallelic mutations present with an attenuated or atypical phenotype. Int J Cancer 2006;119:807­14.
+19. Nielsen M, Franken PF, Reinards THCM, et al. Multiplicity in polyp count and extracolonic manifestations in 40 Dutch patients with MYH associated polyposis coli (MAP). J Med Genet 2005;42:e54.
+20. Out AA, Wasielewski M, Huijts PE, et al. MUTYH gene variants and breast cancer in a Dutch case-control study. Breast Cancer Res Treat 2012;134:219­27.
+21. Ashton KA, Proietto A, Otton G, et al. Genetic variants in MUTYH are not associated with endometrial cancer risk. Hered Cancer Clin Pract 2009;7:3.
+22. Ajith Kumar VK, Gold JA, Mallon E, et al. Sebaceous adenomas in an MYH associated polyposis patient of Indian (Gujarati) origin. Fam Cancer 2008;7:187­9.
+23. Baglioni S, Melean G, Gensini F, et al. A kindred with MYH-associated polyposis and pilomatricomas. Am J Med Genet A 2005;134:212­14.
+24. Win AK, Hopper JL, Jenkins MA. Association between monoallelic MUTYH mutation and colorectal cancer risk: a meta-regression analysis. Fam Cancer 2011;10:1­9.
+25. Jones N, Vogt S, Nielsen M, et al. Increased colorectal cancer incidence in obligate carriers of heterozygous mutations in MUTYH. Gastroenterology 2009;137:489­94.
+26. Win AK, Cleary SP, Dowty JG, et al. Cancer risks for monoallelic MUTYH mutation carriers with a family history of colorectal cancer. Int J Cancer 2011;129:2256­62.
+27. Wasielewski M, Out AA, Vermeulen J, et al. Increased MUTYH mutation frequency among Dutch families with breast cancer and colorectal cancer. Breast Cancer Res Treat 2010;124:635­41.
+28. Rennert G, Lejbkowicz F, Cohen I, et al. MutYH mutation carriers have increased breast cancer risk. Cancer 2012;118:1989­93.
+29. Zhu M, Chen X, Zhang H, et al. AluYb8 insertion in the MUTYH gene and risk of early-onset breast and gastric cancers in the Chinese population. Asian Pac J Cancer Prev 2011;12:1451­5.
+30. Baudhuin L, Roberts L, Enders F, et al. MYH Y165C and G382D mutations in hepatocellular carcinoma and cholangiocarcinoma patients. J Cancer Res Clin Oncol 2006;132:159­62.
+31. Newcomb PA, Baron J, Cotterchio M, et al. Colon Cancer Family Registry: an international resource for studies of the genetic epidemiology of colon cancer. Cancer Epidemiol Biomarkers Prev 2007;16:2331­43.
+32. Fritz A, Percy C, Jack A, et al., eds. International classification of diseases for oncology, 3rd edn. Geneva: World Health Organization, 2000.
+33. Parkin DM, Whelan SL, Ferlay J, Raymond L, Young J. Cancer incidence in five continents, Vol.
+
+VII edn. Lyon, France: International Agency for Research on Cancer, 1997. 34. Lange K. Mathematical and statistical methods for genetic analysis, 2nd edn. New York: Springer, 2002. 35. Antoniou AC, Pharoah PD, McMullan G, et al. Evidence for further breast cancer susceptibility genes in addition to BRCA1 and BRCA2 in a population-based study. Genet Epidemiol 2001;21: 18. 36. Dowty JG, Win AK, Buchanan DD, et al. Cancer risks for MLH1 and MSH2 mutation carriers. Hum Mutat 2013;34:490­7. 37. Lange K, Weeks D, Boehnke M. Programs for pedigree analysis: MENDEL, FISHER, and dGENE. Genet Epidemiol 1988;5:471­2. 38. Howlader N, Noone A, Krapcho M, et al., eds. SEER cancer statistics review 1975­2008 edn. Bethesda, MD: National Cancer Institute, 2010. 39. Gong G, Hannon N, Whittemore AS. Estimating gene penetrance from family data. Genet Epidemiol 2010;34:373­81. 40. Kraft P, Thomas DC. Bias and efficiency in family-based gene-characterization studies: conditional, prospective, retrospective, and joint likelihoods. Am J Hum Genet 2000;66:1119­31. 41. R Development Core Team. R: a language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing, 2008. 42. Win AK, Reece JC, Buchanan DD, et al. Risk of colorectal cancer for people with a mutation in both a MUTYH and a DNA mismatch repair gene. Fam Cancer 2015;14:575­83. 43. Altman DG, Bland JM. Interaction revisited: the difference between two estimates. BMJ 2003;326: 219. 44. Buecher B, Bonaiti C, Buisine MP, et al. French experts report on MUTYH-associated polyposis (MAP). Fam Cancer 2012;11:321­8. 45. Vasen HF, Moslein G, Alonso A, et al. Guidelines for the clinical management of familial adenomatous polyposis (FAP). Gut 2008;57:704­13. 46. National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology Version 1.2014. Colorectal Cancer Screening, vol. 2015. National Comprehensive Cancer Network, Fort Washington, PA, 2014. 47. Moyer VA. Screening for bladder cancer: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med 2011;155:246­51. 48. Buys SS, Partridge E, Black A, et al. Effect of screening on ovarian cancer mortality: the Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Randomized Controlled Trial. JAMA 2011;305:2295­303. 49. Ziogas A, Anton-Culver H. Validation of family history data in cancer family registries. Am J Prev Med 2003;24:190­8. 50. Sampson JR, Dolwani S, Jones S, et al. Autosomal recessive colorectal adenomatous polyposis due to inherited mutations of MYH. Lancet 2003;362: 39­41.
+
+Int. J. Cancer: 139, 1557­1563 (2016) VC 2016 UICC
+
+

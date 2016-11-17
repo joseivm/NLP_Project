@@ -1,0 +1,867 @@
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+Letter to JMG
+
+TP53 germline mutation testing in 180 families suspected of LieFraumeni syndrome: mutation detection rate and relative frequency of cancers in
+different familial phenotypes
+Marielle W G Ruijs,1,2 Senno Verhoef,1 Matti A Rookus,3 Roelof Pruntel,1 Annemarie H van der Hout,4 Frans B L Hogervorst,1 I Kluijt,1 Rolf H Sijmons,4 Cora M Aalfs,5 Anja Wagner,6 Margreet G E M Ausems,7 Nicoline Hoogerbrugge,8 Christi J van Asperen,9 Encarna B Gomez Garcia,10 Hanne Meijers-Heijboer,2 Leo P ten Kate,2 Fred H Menko,2 Laura J van 't Veer1
+
+For numbered affiliations see end of article.
+Correspondence to Dr Laura J van 't Veer, The Netherlands Cancer Institute, Department of Pathology, Plesmanlaan 121, 1066 CX Amsterdam, The Netherlands; l.vt.veer@nki.nl
+Received 21 September 2009 Revised 28 December 2009 Accepted 30 December 2009
+
+ABSTRACT Background LieFraumeni syndrome (LFS) is a rare autosomal dominant cancer predisposition syndrome. Most families fulfilling the classical diagnostic criteria harbour TP53 germline mutations. However, TP53 germline mutations may also occur in less obvious phenotypes. As a result, different criteria are in use to decide which patients qualify for TP53 mutation analysis, including the LFS, LieFraumeni-like (LFL) and Chompret criteria. We investigated which criteria for TP53 mutation analysis resulted in the highest mutation detection rate and sensitivity in Dutch families. We describe the tumour spectrum in TP53-positive families and calculated tumour type specific relative risks. Method A total of 180 Dutch families referred for TP53 mutation analysis were evaluated. Tumour phenotypes were verified by pathology reports or clinical records. Results A TP53 germline mutation was identified in 24 families. When the Chompret criteria were used 22/24 mutations were detected (sensitivity 92%, mutation detection rate 21%). In LFS and LFL families 18/24 mutations were found (sensitivity 75%). The two mutations detected outside the `Chompret group' were found in a child with rhabdomyosarcoma and a young woman with breast cancer. In the mutation carriers, in addition to the classical LFS tumour types, colon and pancreatic cancer were also found significantly more often than in the general population. Conclusion We suggest TP53 mutation testing for all families fulfilling the Chompret criteria. In addition, TP53 mutation testing can be considered in the event of childhood sarcoma and breast cancer before 30 years. In addition to the risk for established LFS tumour types, TP53-positive individuals may also have an elevated risk for pancreatic and colon cancer.
+INTRODUCTION In 1969 Li and Fraumeni described a novel autosomal dominant cancer syndrome with a predisposition to bone and soft tissue sarcoma, breast cancer, brain tumour, adrenal cortical carcinoma and leukaemia.1 Patients with this syndrome are at increased risk for multiple primary tumours.2 Clinical criteria for classical LieFraumeni syndrome (LFS)3 and LieFrau-
+
+meni-like syndrome (LFL) have been established4
+whereby at least three family members were affected
+(table 1). Different LFL criteria were formulated by Eeles5 who defined only two family members as being
+affected. In 1990 DNA analysis for LFS became
+available when germline mutations in the TP53 gene were found in LFS kindreds.8 All germline mutations
+that have been detected and published are collected in
+the International Agency for Research on Cancer (IARC) mutation database.9 Currently 423 mutations
+have been described in 419 families (http://www-p53.
+iarc.fr/). In a study by Varley TP53 germline mutations
+were seen in approximately 75% of LFS and 40% of LFL families.10 Because TP53 germline mutations were
+also identified in families not fulfilling the LFS/LFL
+criteria due to their alternative tumour spectrum, age
+at diagnosis or sporadic occurrence of cancer, Chom-
+pret et al proposed different criteria for TP53 germline mutation testing,6 which were updated in 20097
+(table 1). A TP53 germline mutation was found in 29%
+and 35% of French and American families, respectively, who fulfilled the 2001 Chompret criteria.11 12
+Table 1 summarises the different criteria used to
+categorise families suspected of having LFS. The classical LFS criteria,3 the LFL criteria according to Birch et al4 and the revised Chompret criteria by Tinat et al7 are used for this article.
+In TP53 mutation carriers the tumour spectrum
+is wider than the classical tumour types used to
+recognise LFS (or LFL) defined in 1988 as breast
+cancer, sarcoma, brain tumour, adrenal cortical cancer and leukaemia.3 Roughly, 20e30% of the
+tumours in TP53 mutation-positive families do not belong to the classical LFS tumour spectrum.13e15
+Besides the classical tumour spectrum, Birch et al15 found Wilms' tumour and phyllodes tumours
+to be strongly associated, pancreatic cancer
+moderately associated, and neuroblastoma weakly
+associated in TP53 mutation carriers.
+In this study we evaluated the clinical spectrum
+of families undergoing TP53 mutation analysis in
+the Netherlands, in order to help improve the
+guidelines specifying when TP53 mutation analysis
+should be performed. We chose a probability of
+more than 10% to detect a germline mutation in
+order to be eligible for DNA analysis. We also
+
+J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+421
+
+Letter to JMG
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+Table 1 Criteria used for TP53 germline mutation testing
+
+Classical LieFraumeni
+syndrome (LFS) criteria Li et al3
+
+A proband with sarcoma diagnosed under the age of 45 years AND A first degree relative with any cancer under 45 years AND Another first or second degree relative with either cancer under 45 years or a sarcoma at any age
+
+LieFraumeni-like syndrome
+(LFL) criteria Birch et al4
+
+A proband with any childhood cancer or sarcoma, brain tumour or adrenal cortical tumour under the age of 45 years AND A first or second degree relative with a typical LFS cancer at any age AND A first or second degree relative in the same lineage with any cancer under 60 years
+
+LFL criteria Eeles5
+
+Two different tumours that are part of extended LFS in first or second degree relatives at any age (sarcoma, breast cancer, brain tumour, leukaemia, adrenal cortical tumour, melanoma, prostate cancer and pancreatic cancer)
+
+LFS Chompret criteria Chompret et al6
+
+A proband affected by a narrow spectrum cancer (sarcomas, brain tumours, breast cancer and adrenal cortical carcinoma) before 36 years and at least one first or second degree relative affected by a narrow spectrum tumour (other then breast cancer if the proband is affected by breast cancer) before 46 years or multiple primary tumours OR A proband with multiple primary tumours two of which belong to the narrow spectrum and the first of which occurred before 36 years OR A proband with adrenal cortical carcinoma whatever the age of onset and family history
+
+LFS Chompret criteria revised Tinat et al7
+
+A proband with a tumour belonging to the LFS tumour spectrum (soft tissue sarcoma, osteosarcoma, brain tumours, pre-menopausal breast cancer, adrenal cortical carcinoma, leukaemia, lung bronchoalveolar cancer) before 46 years and at least one first or second degree relative with an LFS tumour (except breast cancer if the proband is affected by breast cancer) before 56 years or multiple primary tumours OR A proband with multiple primary tumours (except multiple breast tumours), two of which belong to the LFS tumour spectrum and the first of which occurred before 46 years OR A proband with adrenal cortical carcinoma or choroid plexus tumour, irrespective of the family history
+
+examined specific tumour type relative cancer risks in the TP53 mutation families. In addition, cancer risks for TP53-positive and TP53-negative LFL families were compared to identify tumour types, apart from the typical LFS tumours, that are more specifically associated with a TP53 mutation.
+PATIENTS AND METHODS Patients In the Netherlands, TP53 mutation analysis was introduced in a clinical setting in 1995. The clinical use of TP53 mutation testing, including exon sequencing and genomic analysis, is started after indication according to the LFS and LFL criteria and was influenced by the limited preventive strategies. In 2005 the second version of the Dutch national guidelines recommended TP53 mutation testing for LFS, LFL, patients with multiple LFS associated tumours and children with adrenal cortical carcinoma. In addition, TP53 analysis should be considered for breast cancer under 30 years of age.16 From 1995 until 2008, Dutch clinicians referred 180 families for counselling and TP53 germline mutation
+
+testing predominantly because of the occurrence of cancer types possibly related to LFS. The families were classified into four groups: (1) families fulfilling the revised Chompret criteria7; (2) classic LFS3 (excluding the revised Chompret criteria); (3) LFL according to Birch et al4 (excluding the revised Chompret criteria and LFS); and (4) other families considered to be suggestive of a germline TP53 defect (LFS suspected: two or more primary tumours at any age, two first degree relatives with a tumour at any age, of which at least one tumour is a typical LFS tumours (sarcoma, brain tumour, breast cancer, leukaemia and adrenal cortical cancer), early onset (before 21 years of age) sarcoma or brain tumours and breast cancer before 35 years of age (without detectable BRCA1 or BRCA2 mutation) (table 2a). In addition, in table 2b the total number of families fulfilling the LFS or LFL criteria regardless of Chompret criteria are summarised.
+The sensitivity and specificity were calculated for the revised Chompret, LFS and LFL criteria. The sensitivity was calculated as the number of TP53-positive families meeting a classification divided by the total number of TP53-positive families. The specificity was calculated as the number of TP53-negative families not meeting the specific classification divided by the total number of TP53-negative families.
+Family members of proven TP53 mutation carriers were counselled and offered TP53 mutation testing.
+Molecular analysis DNA analysis was performed in two laboratories, in Amsterdam (161 families) and Groningen (19 families). DNA was isolated from peripheral blood lymphocytes according to standard procedures. In Amsterdam mutation analysis of the TP53 gene in the index patient, affected by cancer, was performed by sequence analysis of all coding exons (2e11) and the flanking introneexon boundaries of these exons using standard procedures and multiplex ligation dependent probe amplification (MLPA) to screen for large TP53 deletions or duplications (TP53 MLPA kit P056 produced by MRC-Holland).17 In Groningen the TP53 gene was analysed by denaturing gradient gel electrophoresis (DGGE).18 All possible candidate variants, identified as aberrant DGGE fragments, were confirmed with sequence analysis. Details on primers and polymerase chain reaction (PCR) conditions are available upon request. To assess the possibly pathogenic status of a mutation the frequency of each identified TP53 germline mutations was determined in a control group of 150 anonymous blood donors, using denaturing gradient gel electrophoresis (DGGE). All possible candidate aberrant fragments were confirmed with sequence analysis.
+Cancer risk To estimate the relative cancer risk in the TP53 positive families a study cohort of tested and untested family members was selected with at least a 50% prior probability of being a carrier.
+Pedigrees of all LFS counselled families were available through the clinical genetic centres, including age at cancer diagnosis and tumour types. From the pedigrees of the TP53 positive families, all mutation carriers and their first degree relatives were included. In the TP53 negative LFL (non-LFS) families, patients who were tested for TP53 germline mutations and their first degree relatives were included. Subsequently, the obligate carriers (father or mother) with their siblings were selected from the pedigree and included. We chose not to adjust for ascertainment bias because of the multiple case definitions of LFS and LFL. We present the results for the typical LFS tumours separately from the other tumours.
+All cancers were coded according to the International Classification of Disease, revision 9. We attempted to confirm all
+
+422 J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+Letter to JMG
+
+Table 2 Families classified according to familial phenotype
+
+(Family) history
+
+Number of families (180)
+
+TP53-positive families (%)
+
+a. Number of families (n¼180) presented for TP53 mutation analysis divided into 4 groups of different familial phenotypes (LFS-Chompret revised, LFS-Li, LFL-Birch and LFSsuspected) including the TP53-positive results (n¼24)
+
+LFS-Chompret revised
+
+Including 10 LFS and 32 LFL
+
+105
+
+22 (21)
+
+LFS-Li (not fulfilling revised Chompret)
+
+10
+
+LFL-Birch (not fulfilling revised Chompret)
+
+40
+
+LFS-suspected
+
+70 2 (2.9)
+
+At least two primary tumours
+
+30 0
+
+Two first degree relatives with cancer (at least one typical LFS tumour)
+
+19
+
+0
+
+Early onset sarcoma or brain tumour (<21 years)
+
+9
+
+1
+
+Breast cancer before 35 years
+
+12 1
+
+(%)
+
+b. Families fulfilling the LFS or LFL criteria
+
+LFS 11 8 (73)
+
+LFL* 36 10 (28)
+
+LFS-Chompret revised ¼ the 2009 revised Chompret criteria for LieFraumeni syndrome,7 LFS-Li ¼ LieFraumeni syndrome according to Li et al, 3 LFL-Birch ¼ LieFraumeni-like syndrome according to Birch et al,4 LFS-suspected ¼ LFS suspected families that do not fulfil the revised Chompret, LFS or LFL criteria. LFL, LieFraumeni-like syndrome; LFS, LieFraumeni syndrome. *¼Excluding LFS.
+
+cancer diagnoses by collecting clinical records and pathology reports. Follow-up started on 1 January 1960 (because reference data were available from that time onwards) or date of birth, whichever occurred later, and ended at the date of first cancer diagnosis, date of death or the date of last contact.
+Since 36% of the birth dates were missing, we introduced unknown birth dates based on the known birth dates in each generation of the family and the pedigree structure. The dates of death were used for missing dates of diagnosis for individuals who died from cancer at a known site. In addition, when the dates of diagnosis of affected individuals who did not die from cancer were missing, site specific mean ages at diagnosis of cancer in the general population were used, based on data of the Comprehensive Cancer Centre Amsterdam and the Netherlands Cancer Registries. Cancer risk for all TP53 positive and TP53 negative LFL (non LFS) family members was assessed with the standardised incidence ratio relative to the risk in the general population (relative risk (RR)), which is the ratio of observed to expected cases in the cohort. The expected number of cases was calculated by multiplying person years at risk by the age, sex, calendar period, and site specific cancer incidence rates in the general population, with the use of a computer program developed at the Netherlands Cancer Institute.19 Incidence rates were obtained from the Eindhoven Cancer Registry up to 1990 and from the Netherlands Cancer Registry from 1990 onwards.
+The comparison of RRs for TP53-negative and TP53-positive families was performed within the LFL group (excluding LFS families).
+RESULTS Among the 180 patients analysed for TP53 mutations, 24 TP53positive families were diagnosed (detection rate 13%). One of the 24 mutations was a large TP53 rearrangement, a deletion of exons 2e11. None of the identified TP53 germline mutations was identified in a control group of 150 anonymous blood donors. The 180 families were subdivided into four groups as described in `Patients and methods'. In these subgroups, 22 out of 105 (21%) families fulfilling the revised Chompret criteria carried a TP53 germline mutation (table 2a), eight out of 11 (73%) classical LFS families carried a TP53 germline mutation (table 2b), 10 out of 36 (28%) LFL families (table 2b) and two out of 70 (2.9%) in the remaining LFS suspected group (table 2a).
+
+The two mutations in the non- revised Chompret/LFS/LFL group occurred in a child with rhabdomyosarcoma at 4 years of age and a woman with breast cancer at 24 years of age.
+The overlap in families fulfilling the revised Chompret, LFS and LFL criteria is shown in figure 1. No mutation was found in the five families that fulfilled the LFS or LFL criteria but did not fulfil the revised Chompret criteria (table 2a). The LFS family that did not fulfil the revised Chompret criteria showed one sarcoma, no other typical LFS tumours, and the other tumours did develop at young ages. The LFL families that did not fulfil the Chompret criteria did have two typical LFS tumours, but one of the tumours did not occur before 56 years of age. On average 3.7 individuals were tested in the TP53-positive families, revealing 2.8 individuals as mutation carriers; in the TP53negative families only the index patient was tested.
+The sensitivity for the revised Chompret criteria was 92% (22/ 24 TP53 mutation families), and the specificity was 47% (73/ 156). Eighteen out of 24 TP53 mutation families fulfilled the LFS or LFL criteria (sensitivity 75%). The specificity for the
+Figure 1 Venn diagram showing the overlap of families fulfilling the revised chompret criteria. LieFraumeni syndrome (LFS) and LieFraumeni-like syndrome (LFL) families. Number of families are given, in brackets are the mutation positive families (n¼22). Two TP53 germline mutations are not included in the figure because they were found in patients who did not fulfil the criteria that are shown here.
+
+J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+423
+
+Letter to JMG
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+Table 3 Clinical and molecular data on the 24 TP53 germline mutation families
+
+Exon/intron Base pair change Protein effect Family-nr Criteria
+
+Index case age (age of death)
+
+Family history: tumour type, age (age of death)
+
+4 4
+5 5 5
+5
+Intr 5
+6 6
+6
+6 7 7 7 7 7 8 8 8 8 Intr 9
+10 10
+2e11
+
+c.374C/G c.375G/A
+c.422G/A c.451C/T c.473G/A
+c.473G/A
+560-1G/A
+c.637C/T c.638G/A
+
+Thr125Argy Thr125Thr
+Cys141Tyr Pro151Ser Arg158His
+Arg158His
+IVS5-1G>A
+Arg213stop Arg213Gln
+
+1302 1860
+1856 6569
+93
+706
+1141
+1308 934
+
+c.641A/G
+c.665C/T c.695T/C c.733G/A c.733G/A c.742C/T c.742C/T c.794T/C c.818G/A c.916C/T c.916C/T c.994-1 G/T
+c.1027G/T c.1031T/C
+c.1-?_1182 +?del
+
+His214Argy
+Pro222Leuy Ile232Thry Gly245Ser Gly245Ser Arg248Trp Arg248Trp Leu265Pro Arg273His Arg306stop Arg306stop IVS9-1G>Ty
+Glu343stopy* Leu344Pro
+Del exon 2-11
+
+108
+3838 3070 3843 3901 1375 324 3075 4057 816
+16 3603
+5838 37
+2556
+
+C-revised /LFL C-revised / LFL
+LFS-susp C-revised /LFL C-revised /LFL
+C-revised /LFS
+C-revised /LFS
+C-revised /LFS C-revised /LFL
+C-revised /LFL
+LFS-susp C-revised /LFL C-revised /LFL C-revised /LFL C-revised /LFS C-revised /LFL C-revised /LFS C-revised C-revised /LFS C-revised C-revised /LFS
+C-revised C-revised /LFS
+C-revised
+
+Br-20 (25) B-40
+B-24 (24) Br-24 Pa-49 (50)
+LMS-44
+LMS-36/ La-48 (49)
+B-27/Pa-45 (47) B-42
+B-35/Br-40/ ACC-41 (41)
+RMS-4 RMS-54 B-28 (?) Br-27/Oes-37 (37) OS-13/B-26 B-32/LMS-42 RMS-2/OS-16 (?) Br-0 B-34/RMS-48 RMS-4/B-22 (?) C-28/STS-37/Br-51
+ACC-5 B-32/B-33/Scc-34
+ChS-13/LMS-45 /C-48/OS-49 (?)
+
+B-30/Br-43/Br-46 (46), Br-? (5), Li-? (28) Leu-35 (36), Br-24 (24), Br-5 (5), B-41 (43)
+B-37 (37) STS-5 (?), ACC-52 (?) B-34/B-50 (53), STS-36/Lu-36 (38), Bl-61 (61)
+St-41/B-43, ChS-30 (35), Br-16 (17), Schw-58, Scc-25
+OS-22 (23), Pa-52 (52), LS-2 (2), Br-41 (42), RMS-11 (12), Lu-51 (52) STS-38/Pa-41 (41), Ly-9 (10), Br-2 (?) Ki-48/Th-52 (52), Br-? (5), Mes-55 (55), C26 (27), Mel-46, B-68/ C-71 (?), O-59 (62), Br-28 (32), B-42 (47), St-71 (?), C-? (47), Lu-55/St-59 (?), B-69/Ki-71, Ki-53
+B-30/O-30 (33), Leu-36 (37), B-39/Lu-56 (56) Ca-? (68) B-37 (37), Br-? (28), Lu-? (22) B-34 (35), Li-10, Bl-40/Lu-50 (52) B-28, B-34 (38), Ce-43, B-44 B-39 (41), B-? (28) RMS-2/OS-18 (?), Ca-? (40) RMS-2 (3), Br-7/Oes-44 (45), B-40 OS-33 (39) RMS-14 (?), RMS-? (29) father Pr-?, mother B-? B-34/Br-36 (41), Lu-61 (61), Ca-? (35), Ca? (35)
+OS-18 (20), Lu-55 (57), OS-? (40), OS-? (40), B-? (?), OS-? (?), Br-? (?) B-29 (29), C-69
+
+LFL, LieFraumeni-like syndrome criteria according to Birch; C-revised, Chompret criteria revised in 2009; LFS, classical LieFraumeni syndrome criteria; LFS-susp, suspected for LFS but not fulfilling LFS/LFL/revised Chompret criteria. ACC, adrenal cortical carcinoma; B, breast cancer; Bl, bladder cancer; Br, brain tumour; C, colorectal cancer; Ca, cancer unspecified; Ce, cervical cancer; ChS, chondrosarcoma; Ki, kidney cancer; La, laryngeal carcinoma; Leu, leukaemia; Li, liver cancer; LMS, leiomyosarcoma; LS, lymphosarcoma; Lu, lung cancer; Ly, lymphoma; Mel, melanoma; Mes, mesothelioma; O, ovarian cancer; Oes, oesophageal cancer; OS, osteosarcoma; Pa, pancreatic cancer; Pr, prostate cancer; RMS, rhabdomyosarcoma; Schw, schwannoma; Scc, squamous cell carcinoma; St, stomach cancer; STS, soft tissue sarcoma; Th, thyroid cancer; -?, age of diagnosis unknown; (?), age of death unknown; Intr, intron. yNot included in IARC database. *de novo mutation. In italics¼tumours of patients for which the date of birth or diagnosis are unknown.
+
+combined LFS/LFL criteria was 81% (127/156). The sensitivity and specificity for the LFS criteria was 33% (8/24) and 98% (153/ 156), and for the LFL criteria (excluding LFS) 42% (10/24) and 83% (130/156), respectively.
+Tumour spectrum and age of onset In 52 affected family members (out of 24 families) a germline TP53 mutation was identified; the mutations, tumour types and ages of onset are given in table 3. The affected mutation carriers developed their first tumour at a mean age of 34.2 years (first tumour age: range 11 monthse69 years). When one large family with relative late onset cancers20 was excluded, the first tumour developed at a mean age of 28.2 years. Twenty-two of the 52 mutation carriers developed at least two primary tumours (42.3%). The mean age of onset of all 77 tumours in TP53 mutation carriers was 37.4 years (all tumours age: range 11 monthse71 years). The tumour type most frequently detected was breast cancer (21/77 tumours; 27%), followed by soft tissue sarcoma (13/77; 17%) and brain tumours (12/77; 16%; eight astrocytoma/glioblastoma, a choroid plexus carcinoma, a malignant plexus papilloma, a medulloblastoma, and a ependyoma). In total 31% of tumours (24/77) were not part of the typical LFS tumour spectrum (breast cancer, soft tissue sarcoma, osteosarcoma, brain tumours, adrenal cortical
+
+tumours and leukaemia). Most tumours were symptomatic and detected before the diagnosis LFS/LFL or LFS suspected was made; two kidney tumours (both renal cell carcinoma) were detected through ultrasound screening. In the 156 TP53 negative families, the index patient was the only patient tested for TP53 mutations. The first tumour in these 156 index patients was diagnosed at a mean age of 32.7 years (range 0.5e65 years, data not shown). In total 53/156 index patients developed at least two primary tumours (34%). The mean age at diagnosis of all tumours (236) was 38.2 years. In this group also, the most frequently seen tumour type was breast cancer (89/236, 38%), followed by soft tissue sarcoma (31/236, 13%) and melanoma (22/236, 9.3%); 38% of the tumours diagnosed in the index patients were not typical LFS tumours.
+Cancer risk in TP53-positive families Compared with the expected risks in the general population, the risks for colon, liver and pancreatic cancer were significantly increased in this TP53-positive group (RR 2.8, 18 and 7.3, respectively, table 4a), in addition to those for the main LFS tumour types (RR ranging from 6.4 for breast cancer to 107 for bone cancer, table 4). The overall relative cancer risk was increased four times (RR 4, 95% CI 3.3 to 4.8). On average 65%
+
+424 J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+Letter to JMG
+
+Table 4 Tumour type specific cancer risks in TP53 mutation families, TP53-positive LFL families and TP53-negative LieFraumeni-like syndrome (LFL) families
+
+ICD code
+
+Location
+
+Obs Exp
+
+RR
+
+95% CI
+
+p Value
+
+Pa n (%)
+
+No of fam
+
+a. Cancer risks for TP53 mutation families e All
+
+106
+
+26
+
+4
+
+3.3 to 4.8
+
+0.000
+
+69 (65)
+
+24
+
+Typical LieFraumeni syndrome (LFS) tumours
+
+170 Bones
+
+9 0.08 107
+
+49 to 203
+
+0.000
+
+5 (56)
+
+171
+
+Connective tissues
+
+14 0.23 61
+
+33 to 102
+
+0.000
+
+10 (71)
+
+174 Breast
+
+28 4.4 6.4 4.3 to 9.3 0.000
+
+22 (79)
+
+191 Brain
+
+13 0.37 35
+
+19 to 60
+
+0.000
+
+9 (69)
+
+194 Adrenal cortical
+
+2*
+
+1 (50)
+
+205 Leukaemia
+
+2 0.6 3.2 0.4 to 12
+
+0.258
+
+2 (100)
+
+6 11 16 10 2 2
+
+Other tumours 153 Colon 155 Liver 157 Pancreas
+Other tumours
+
+6 2.2
+
+2.8
+
+2 0.1
+
+18
+
+4 0.54 7.3
+
+20 11
+
+1.8
+
+1 to 6 2.1 to 64 2 to 19 1.1 to 2.8
+
+0.049 0.017 0.006
+
+3 (50) 1 (50) 3 (75)
+
+3 2 4
+
+Stomach Lung Pleura/ mesothelium Melanoma Cervix uteri Ovarium Prostate Bladder Kidney Other/unspecified parts of nervous system Non-Hodgkin lymphoma
+
+3 1.1 6 3.9 1 0.1
+
+2.6 1.5 9.6
+
+1 0.7
+
+1.4
+
+1 0.4
+
+2.6
+
+1 0.6
+
+1.6
+
+1 1.9
+
+0.5
+
+1 0.9
+
+1.1
+
+3 0.7
+
+4.4
+
+1 0.03 39
+
+1 0.8
+
+1.3
+
+0.5 to 7.7 0.6 to 3.4 0.2 to 53
+0.03 to 7.6 0.07 to 15 0.04 to 8.7 0.01 to 3 0.03 to 6.1 0.9 to 13 1 to 218
+0.03 to 7.1
+
+0.215 0.398 0.21
+1.000 0.622 0.933 0.896 1.000 0.067 0.075
+1.000
+
+2 (67) 2 (33) 1 (100)
+1 (100) 1 (100) 1 (100) 0 0 3 (100) 1 (100) (schwannoma)
+1 (100)
+
+3 5 1
+1 1 1 1 1 2 1
+1
+
+Unknown
+
+6
+
+b. Cancer risks for TP53-positive LFL families
+
+e All
+
+55 8.6 6.4 4.8 to 8.3 0.000
+
+38 (69)
+
+10
+
+Typical LFS tumours
+
+170 Bones
+
+e
+
+171
+
+Connective tissues
+
+4 0.1
+
+41
+
+11 to 104
+
+0.000
+
+2 (50)
+
+174 Breast
+
+20 2
+
+10 6.1 to 16 0.000 16 (80)
+
+191 Brain
+
+9 0.16 57
+
+26 to 108
+
+0.000
+
+6 (67)
+
+194 Adrenal cortical
+
+1*
+
+0
+
+205 Leukaemia
+
+2 0.23 8.7
+
+1.1 to 31
+
+0.052
+
+2 (100)
+
+4 9 6 1 2
+
+Other tumours 153 Colon 155 Liver 189 Kidney
+Other tumours
+
+4 0.7
+
+5.6
+
+2 0.04 57
+
+2 0.2
+
+9.6
+
+11 2.6
+
+4.3
+
+1.5 to 14 6.9 to 205 1.2 to 35 2.5 to 8.1
+
+0.014 0.004 0.045
+
+2 (50) 1 (50) 2 (100) 9 (69)
+
+1 2 1
+
+Stomach Pancreas Lung Pleura/ mesothelium Melanoma Cervix uteri Ovarium Prostate Bladder
+
+1 0.33 3.0
+
+1 0.17 5.8
+
+3 0.8
+
+3.7
+
+1 0.02 42
+
+1 0.33 3
+
+1 0.2
+
+5.4
+
+1 0.3
+
+3.4
+
+1 0.2
+
+4.9
+
+1 0.2
+
+5
+
+0.1 to 17 0.2 to 32 0.8 to 11 1.1 to 232
+0.1 to 17 0.1 to 30 0.1 to 19 0.1 to 27 0.1 to 28
+
+0.555 0.321 0.103 0.072
+0.558 0.339 0.503 0.369 0.364
+
+1 (100) 1 (100) 1 (33) 1 (100)
+1 (100) 1 (100) 1 (100) 0 0
+
+1 1 2 1
+1 1 1 1 1
+Continued
+
+J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+425
+
+Letter to JMG
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+Table 4 Continued
+
+ICD code
+
+Location
+
+Obs Exp
+
+RR
+
+c. Cancer risks for TP53-negative LFL families
+
+e All
+
+112
+
+25
+
+4.5
+
+95% CI 3.7 to 5.4
+
+p Value 0.000
+
+Pa n (%) 63 (56)
+
+No of fam 26
+
+Typical LFS tumours
+
+170 Bones
+
+4 0.07 60
+
+16 to 154
+
+0.000
+
+2 (50)
+
+171
+
+Connective tissues
+
+12 0.21 58
+
+30 to 102
+
+0.000
+
+10 (83)
+
+174 Breast
+
+35 3.41 10
+
+7.1 to 14.3
+
+0.000
+
+25 (71)
+
+191 Brain
+
+11 0.34 33
+
+16 to 58
+
+0.000
+
+6 (55)
+
+194 Adrenal cortical
+
+1*
+
+1 (100)
+
+205 Leukaemia
+
+4 0.55 7.3
+
+2 to 19
+
+0.006
+
+1 (25)
+
+3 11 24 7 1 4
+
+Other tumours 153 Colon 162 Lung 172 Melanoma
+Other tumours
+
+62
+
+3.1 1.1 to 6.7 0.032
+
+10 4.5 2.3 1.1 to 4.1 0.033
+
+8 0.7
+
+12
+
+5.3 to 24
+
+0.000
+
+17 7
+
+2.4 1.4 to 3.9
+
+5 (83) 2 (20) 5 (63) 8 (47)
+
+4 8 7
+
+Salivary gland Pharynx Stomach Pancreas Cervix uteri Uterus Prostate Bladder Kidney Thyroid Non-Hodgkin lymphoma
+
+1 0.05 20
+
+0.5 to 109
+
+0.12
+
+1 0.16 6.4
+
+0.2 to 36
+
+0.292
+
+4 1.15 3.5
+
+1 to 9
+
+0.06
+
+1 0.51 2
+
+0.1 to 11
+
+0.786
+
+1 0.31 3.3
+
+0.1 to 18
+
+0.52
+
+1 0.46
+
+2.2 0.1 to 12
+
+0.732
+
+2 2.07 1
+
+0.1 to 3.5
+
+1.000
+
+1 0.98 1.0
+
+0.0 to 5.7
+
+1.000
+
+1 0.69 1.5
+
+0.0 to 8.1
+
+0.983
+
+1 0.14 7.3
+
+0.2 to 40
+
+0.264
+
+3 0.44 4.6
+
+0.6 to 17
+
+0.146
+
+1 (100) 1 (100) 2 (50) 0 0 0 2 (100) 0 0 1 (100) 1 (33)
+
+1 1 2 1 1 1 2 1 1 1 3
+
+Unknown
+
+4
+
+See methods section for estimating relative risk. ICD code, International Classification of Disease code; Obs, observed; Exp, expected; RR, relative risk; Pa, confirmed by pathology report or clinical records; No of fam, number of families in which the specific tumor type occurred. *No data were available on occurrence in the general population.
+
+were confirmed by pathology reports (table 4). Leukaemia was the only typical LFS cancer which showed a non-significantly elevated RR. RRs for all tumour types are shown in table 4a.
+Comparison of TP53-positive and TP53-negative LFL (non LFS) families In the TP53-positive LFL families (overall cancer RR 6.4), the RRs for colon, liver and kidney cancer were significantly increased in addition to the RRs for the classical LFS tumour types (table 4b). For the TP53-negative LFL families the risks for melanoma and lung and colon cancer were higher than in the general population (overall cancer RR 4.5, table 4c).
+DISCUSSION Should TP53 germline mutation testing only be performed in LFS or LFL families, or do other families or sporadic cases need to be included as well? In the Netherlands, the general advice in 2001 was to be cautious about offering TP53 mutation testing because present preventive strategies are limited21; in 2005 TP53 mutation testing was recommended for LFS families, LFL families, patients with multiple LFS associated tumours, children with adrenal cortical carcinoma, and possibly for those with breast cancer under 30 years of age.16
+We tried to determine which familial phenotypes carried a TP53 germline mutation. In 180 Dutch families, the highest proportion with TP53 mutations is found in classical LFS families (8/11, 73%). The revised Chompret criteria achieved
+
+the highest sensitivity (92%) with a mutation detection rate of 21%.
+Six TP53-positive families did not fulfil the LFS or LFL criteria (table 2). Four of these six TP53-positive families did fulfil the revised Chompret criteria; of these four, two mutations were detected in patients with at least two typical LFS tumours, one in a child with a choroid plexus carcinoma and one in a child with an adrenal cortical carcinoma. In addition, for the TP53positive LFS suspected cases, the family of the child with a rhabdomyosarcoma at 4 years of age and the family of the patient with breast cancer at 24 years of age did not fulfil the revised Chompret criteria. However, 5 years after detecting the TP53 germline mutation in the patient who developed breast cancer at 24 years of age, the mother of the patient developed a sarcoma at 61 years of age and turned out to be a carrier of the TP53 germline mutation as well.
+Many authors have investigated the prevalence of TP53 germline mutations in patients with typical LFS tumours without a striking family history. Patients with sporadic childhood soft tissue sarcomata (STS) carry a TP53 germline mutation in 6.6e9% of cases, although some of these cases turn out to be familial.22 23 In the Dutch families described here, only seven patients with STS were included and one TP53 germline mutation was found (14%). In breast cancer under 30 years of age, TP53 germline mutations were found in 3.3% of sporadic cases, and 9% (2/22) of familial cases.24 In three large study cohorts of breast cancer, 0.8% (4/499) carried a TP53 germline
+
+426 J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+Letter to JMG
+
+mutation, and all four mutation carriers showed a family history of cancer.25e27 In our cohort of 12 patients with breast cancer under 35 years of age, one TP53 germline mutation was found (8%). Breast cancer at young age was not included in the 2009 revised Chompret criteria because they concluded that the mutation detection rate for patients with early onset breast cancer without a family history of cancer or multiple primary tumours was <5%.7 Ginsburg et al did not find any TP53 mutations in 95 sporadic breast cancer cases under 30 years of age.28 Testing adrenal cortical carcinoma patients for germline TP53 mutations revealed a 50e97% chance of finding a mutation.29e32 The only sporadic adrenal cortical carcinoma in our cohort carried a de novo TP53 germline mutation. Garber et al33 mentioned the association of choroid plexus carcinoma (CPC) with LFS or with TP53 germline mutations; this was confirmed by Krutilkova et al.34 Gonzalez et al12 also reported a strong link between individuals with a CPC and germline TP53 mutations. All eight patients in their series with CPC referred for sequencing of the TP53 gene were found to carry a TP53 germline mutation. In our cohort two patients who developed childhood CPC were included; one of them carried a germline TP53 mutation.
+In the family subtype group `two first degree relatives with a tumour at any age' and the family subtype group `at least two primary tumours at any age' (table 2), no germline TP53 mutations were detected in 19 and 30 index patients, respectively. Therefore, we concluded that it is not advisable to perform TP53 germline mutation analysis for families with two cancer affected first degree relatives, when only one of these tumours is typical for LFS, and not for individuals with two or more primary tumours, when their families do not fulfil the revised Chompret criteria.
+Our series does of course have some ascertainment bias, because only families who were referred to a clinical genetics centre and were offered and had chosen for TP53 mutation testing were included. The number of families who did not seek, had not been offered, or had refused genetic counselling and TP53 mutation testing was not known.
+The second part of our study dealt with assessment of the RR of developing cancer based on our survey of different tumour types and ages of onset in LFS/LFL families, with or without TP53 germline mutation, compared to the general population.
+In all TP53-positive families, in addition to the main LFS tumour types the RRs for colon, pancreatic and liver cancer were significantly increased. This means that TP53 mutation carriers might exhibit higher risks for these tumour types (table 4a). Pancreatic cancer as an LFS component tumour has been mentioned before,15 but is not part of either the Chompret or Dutch recommendations for TP53 mutation testing. Liver cancer occurred twice in our study sampledone was confirmed by pathology report, the other might very well have been a metastatic disease.
+Focusing on the TP53-positive LFL families only (n¼10, table 4b), in addition to the classical LFS tumour types, the RRs for colon, liver and kidney cancer were significantly increased. In the TP53-negative LFL families (n¼26, table 4c) the RRs for melanoma and lung and colon cancer were significantly increased. So the occurrence of melanoma and lung cancer in LFL families might not be a very good predictor at present for finding a TP53 germline mutation.
+In conclusion, we recommend TP53 germline DNA analysis for all families that fulfil the revised Chompret criteria because it has the highest sensitivity for finding a TP53 germline mutation and a mutation detection rate above 20%. In addition, TP53 germline DNA analysis could be considered in childhood sarco-
+
+mata and breast cancer before the age of 30 years (without detectable BRCA1 or BRCA2 mutation). Pancreatic and colon cancer might be LFS component tumours because of their increased RRs in TP53 mutation carriers.
+Author affiliations 1Family Cancer Clinic, The Netherlands Cancer Institute, Amsterdam, The Netherlands 2Department of Clinical Genetics, VU University Medical Center, Amsterdam, The Netherlands 3Department of Psychosocial Research and Epidemiology, The Netherlands Cancer Institute, Amsterdam, The Netherlands 4Department of Genetics, University Medical Centre, Groningen, The Netherlands 5Department of Clinical Genetics, Amsterdam Medical Centre, Amsterdam, The Netherlands 6Department of Clinical Genetics, Erasmus Medical Centre, Rotterdam, The Netherlands 7Department of Clinical Genetics, University Medical Centre, Utrecht, The Netherlands 8Department of Human Genetics, Radboud University Nijmegen Medical Centre, The Netherlands 9Department of Clinical Genetics, Leiden University Medical Centre, The Netherlands 10Department of Clinical Genetics, University Medical Centre, Maastricht, The Netherlands
+Competing interests None.
+Patient consent Obtained.
+Provenance and peer review Not commissioned; externally peer reviewed.
+REFERENCES
+1. Li FP, Fraumeni JF Jr. Soft-tissue sarcomas, breast cancer, and other neoplasms. A familial syndrome? Ann Intern Med 1969;71:747e52.
+2. Hisada M, Garber JE, Fung CY, Fraumeni JF Jr, Li FP. Multiple primary cancers in families with Li-Fraumeni syndrome. J Natl Cancer Inst 1998;90:606e11.
+3. Li FP, Fraumeni JF Jr, Mulvihill JJ, Blattner WA, Dreyfus MG, Tucker MA, Miller RW. A cancer family syndrome in twenty-four kindreds. Cancer Res 1988;48:5358e62.
+4. Birch JM, Hartley AL, Tricker KJ, Prosser J, Condie A, Kelsey AM, Harris M, Jones PH, Binchy A, Crowther D, Craft AW, Eden OB, Evans DGR, Thompson E, Mann JR, Martin J, Mitchell ELD, Santibanez-Koref MF. Prevalence and diversity of constitutional mutations in the p53 gene among 21 Li-Fraumeni families. Cancer Res 1994;54:1298e304.
+5. Eeles RA. Germline mutations in the TP53 gene. Cancer Surv 1995;25:101e24. 6. Chompret A, Abel A, Stoppa-Lyonnet D, Brugieres L, Pages S, Feunteun J, Bonaiti-
+Pellie C. Sensitivity and predictive value of criteria for p53 germline mutation screening. J Med Genet 2001;38:43e7. 7. Tinat J, Bougeard G, Baert-Desurmont S, Vasseur S, Martin C, Bouvignies E, Caron O, Bressac-de Paillerets B, Berthet P, Dugast C, Bonaiti-Pellie C, Stoppa-Lyonnet D, Frebourg T. 2009 version of the Chompret criteria for Li Fraumeni syndrome. J Clin Oncol 2009;27:e108e9 [Epub 2009 Aug 3]. 8. Malkin D, Li FP, Strong LC, Fraumeni JF Jr, Nelson CE, Kim DH, Kassel J, Gryka MA, Bischoff FZ, Tainsky MA, Friend SH. Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 1990;250:1233e8. 9. Petitjean A, Mathe E, Kato S, Ishioka C, Tavtigian SV, Hainaut P, Olivier M. Impact of mutant p53 functional properties on TP53 mutation patterns and tumor phenotype: lessons from recent developments in the IARC TP53 database. Hum Mutat 2007;28:622e9. 10. Varley JM. Germline TP53 mutations and Li-Fraumeni syndrome. Hum Mutat 2003;21:313e20. 11. Bougeard G, Sesboue R, Baert-Desurmont S, Vasseur S, Martin C, Tinat J, Brugieres L, Chompret A, de Paillerets BB, Stoppa-Lyonnet D, Bonaiti-Pellie C, Frebourg T. Molecular basis of the Li-Fraumeni syndrome: an update from the French LFS families. J Med Genet 2008;45:535e8. 12. Gonzalez KD, Noltner KA, Buzin CH, Gu D, Wen-Fong CY, Nguyen VQ, Han JH, Lowstuter K, Longmate J, Sommer SS, Weitzel JN. Beyond Li Fraumeni syndrome: clinical characteristics of families with p53 germline mutations. J Clin Oncol 2009;27:1250e6. 13. Nichols KE, Malkin D, Garber JE, Fraumeni JF Jr, Li FP. Germ-line p53 mutations predispose to a wide spectrum of early-onset cancers. Cancer Epidemiol Biomarkers Prev 2001;10:83e7. 14. Kleihues P, Schauble B, zur Hausen A, Esteve J, Ohgaki H. Tumors associated with p53 germline mutations: a synopsis of 91 families. Am J Pathol 1997;150:1e13. 15. Birch JM, Alston RD, McNally RJ, Evans DG, Kelsey AM, Harris M, Eden OB, Varley JM. Relative frequency and morphology of cancers in carriers of germline TP53 mutations. Oncogene 2001;20:4621e8. 16. Netherlands Foundation for the Detection of Hereditary Tumours & Dutch Society for Clinical Genetics. Hereditary Cancer. Guidelines for Diagnosis and Prevention 2001. (In Dutch). Leiden, The Netherlands.
+
+J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+427
+
+Letter to JMG
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+
+17. Schouten JP, McElgunn CJ, Waaijer R, Zwijnenburg D, Diepvens F, Pals G. Relative quantification of 40 nucleic acid sequences by multiplex ligation-dependent probe amplification. Nucleic Acids Res 2002;30:e57.
+18. Hayes VM, Bleeker W, Verlind E, Timmer T, Karrenbeld A, Plukker JT, Marx MP, Hofstra RM, Buys CH. Comprehensive TP53-denaturing gradient gel electrophoresis mutation detection assay also applicable to archival paraffin-embedded tissue. Diagn Mol Pathol 1999;8:2e10.
+19. van Leeuwen FE, Klokman WJ, Hagenbeek A, Noyon R, van den Belt-Dusebout AW, van Kerkhoff EH, van Heerde P, Somers R. Second cancer risk following Hodgkin's disease: a 20-year follow-up study. J Clin Oncol 1994;12:312e25.
+20. Ruijs MW, Verhoef S, Wigbout G, Pruntel R, Floore AN, de Jong D, van T Veer LJ, Menko FH. Late-onset common cancers in a kindred with an Arg213Gln TP53 germline mutation. Fam Cancer 2006;5:169e74.
+21. Netherlands Foundation for the Detection of Hereditary Tumours & Dutch Society for Clinical Genetics. Hereditary Cancer. Guidelines for Diagnosis and Prevention 2005. (In Dutch). Leiden,The Netherlands.
+22. Diller L, Sexsmith E, Gottlieb A, Li FP, Malkin D. Germline p53 mutations are frequently detected in young children with rhabdomyosarcoma. J Clin Invest 1995;95:1606e11.
+23. Hwang SJ, Lozano G, Amos CI, Strong LC. Germline p53 mutations in a cohort with childhood sarcoma: sex differences in cancer risk. Am J Hum Genet 2003;72:975e83.
+24. Lalloo F, Varley J, Ellis D, Moran A, O'Dair L, Pharoah P, Evans DG. Prediction of pathogenic mutations in patients with early-onset breast cancer by family history. Lancet 2003;361:1101e2.
+25. Borresen AL, Andersen TI, Garber J, Barbier-Piraux N, Thorlacius S, Eyfjord J, Ottestad L, Smith-Sorensen B, Hovig E, Malkin D, et al. Screening for germ line TP53 mutations in breast cancer patients. Cancer Res 1992;52:3234e6.
+26. Coles C, Condie A, Chetty U, Steel CM, Evans HJ, Prosser J. p53 mutations in breast cancer. Cancer Res 1992;52:5291e8.
+
+27. Sidransky D, Tokino T, Helzlsouer K, Zehnbauer B, Rausch G, Shelton B, Prestigiacomo L, Vogelstein B, Davidson N. Inherited p53 gene mutations in breast cancer. Cancer Res 1992;52:2984e6.
+28. Ginsburg OM, Akbari MR, Aziz Z, Young R, Lynch H, Ghadirian P, Robidoux A, Londono J, Vasquez G, Gomes M, Costa MM, Dimitrakakis C, Gutierrez G, Pilarski R, Royer R, Narod SA. The prevalence of germ-line TP53 mutations in women diagnosed with breast cancer before age 30. Fam Cancer 2009;8:563e7.
+29. Wagner J, Portwine C, Rabin K, Leclerc JM, Narod SA, Malkin D. High frequency of germline p53 mutations in childhood adrenocortical cancer. J Natl Cancer Inst 1994;86:1707e10.
+30. Varley JM, McGown G, Thorncroft M, James LA, Margison GP, Forster G, Evans DG, Harris M, Kelsey AM, Birch JM. Are there low-penetrance TP53 Alleles? evidence from childhood adrenocortical tumors. Am J Hum Genet 1999;65:995e1006.
+31. Ribeiro RC, Sandrini F, Figueiredo B, Zambetti GP, Michalkiewicz E, Lafferty AR, DeLacerda L, Rabin M, Cadwell C, Sampaio G, Cat I, Stratakis CA, Sandrini R. An inherited p53 mutation that contributes in a tissue-specific manner to pediatric adrenal cortical carcinoma. Proc Natl Acad Sci U S A 2001; 98:9330e5.
+32. Achatz MI, Olivier M, Calvez FL, Martel-Planche G, Lopes A, Rossi BM, AshtonProlla P, Giugliani R, Palmero EI, Vargas FR, Rocha JC, Vettore AL, Hainaut P. The TP53 mutation, R337H, is associated with Li-Fraumeni and Li-Fraumeni-like syndromes in Brazilian families. Cancer Lett 2007;245:96e102.
+33. Garber JE, Burke EM, Lavally BL, Billett AL, Sallan SE, Scott RM, Kupsky W, Li FP. Choroid plexus tumors in the breast cancer-sarcoma syndrome. Cancer 1990;66:2658e60.
+34. Krutilkova V, Trkova M, Fleitz J, Gregor V, Novotna K, Krepelova A, Sumerauer D, Kodet R, Siruckova S, Plevova P, Bendova S, Hedvicakova P, Foreman NK, Sedlacek Z. Identification of five new families strengthens the link between childhood choroid plexus carcinoma and germline TP53 mutations. Eur J Cancer 2005;41:1597e603.
+
+428 J Med Genet 2010;47:421e428. doi:10.1136/jmg.2009.073429
+
+Downloaded from http://jmg.bmj.com/ on September 29, 2016 - Published by group.bmj.com
+TP53 germline mutation testing in 180 families suspected of Li-Fraumeni syndrome: mutation detection rate and relative frequency of cancers in different familial phenotypes
+Marielle W G Ruijs, Senno Verhoef, Matti A Rookus, Roelof Pruntel, Annemarie H van der Hout, Frans B L Hogervorst, I Kluijt, Rolf H Sijmons, Cora M Aalfs, Anja Wagner, Margreet G E M Ausems, Nicoline Hoogerbrugge, Christi J van Asperen, Encarna B Gomez Garcia, Hanne Meijers-Heijboer, Leo P ten Kate, Fred H Menko and Laura J van 't Veer
+J Med Genet 2010 47: 421-428
+doi: 10.1136/jmg.2009.073429
+Updated information and services can be found at: http://jmg.bmj.com/content/47/6/421
+
+References
+Email alerting service
+
+These include:
+This article cites 32 articles, 16 of which you can access for free at: http://jmg.bmj.com/content/47/6/421#BIBL
+Receive free email alerts when new articles cite this article. Sign up in the box at the top right corner of the online article.
+
+Topic Collections
+
+Articles on similar topics can be found in the following collections
+Breast cancer (237) Screening (oncology) (230) Paediatric oncology (124) Pancreas and biliary tract (108) Colon cancer (131)
+
+Notes
+
+To request permissions go to: http://group.bmj.com/group/rights-licensing/permissions
+To order reprints go to: http://journals.bmj.com/cgi/reprintform
+To subscribe to BMJ go to: http://group.bmj.com/subscribe/
+
+

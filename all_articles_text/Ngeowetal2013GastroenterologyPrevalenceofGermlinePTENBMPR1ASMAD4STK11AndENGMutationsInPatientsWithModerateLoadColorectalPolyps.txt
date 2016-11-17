@@ -1,0 +1,938 @@
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH Public Access
+Author Manuscript
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+Published in final edited form as: Gastroenterology. 2013 June ; 144(7): 1402­1409.e5. doi:10.1053/j.gastro.2013.02.001.
+Prevalence of Germline PTEN, BMPR1A, SMAD4, STK11, and ENG Mutations in Patients with Moderate-Load Colorectal Polyps
+Joanne Ngeow, MB BS, MRCP1,2,, Brandie Heald, MS, CGC1,2,3,4,, Lisa A. Rybicki, MS3,5, Mohammed S. Orloff, PhD1,2,3, Jin Lian Chen, MS1,2, Xiuli Liu, MD, PhD6, Lisa Yerian, MD6, Joseph Willis, MD7, Heli Lehtonen, PhD8, Rainer Lehtonen, PhD8,9, Jessica L. Mester, MS, CGC1,2,3, Jessica Moline, MS, CGC1,2,3, Carol A. Burke, MD3,4, James Church, MD4, Lauri A. Aaltonen, MD, PhD9, and Charis Eng, MD, PhD1,2,3,4,10,11,12 1Genomic Medicine Institute, Cleveland Clinic, Cleveland, Ohio 44195, USA
+2Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio 44195, USA
+3Taussig Cancer Institute, Cleveland Clinic, Cleveland, Ohio 44195, USA
+4Sanford R. Weiss, MD Center for Hereditary Colorectal Neoplasia, Digestive Diseases Institute, Cleveland Clinic, Cleveland, Ohio 44195, USA
+5Department of Quantitative Health Sciences, Cleveland Clinic, Cleveland, Ohio 44195, USA
+6Department of Anatomic Pathology, Pathology and Laboratory Medicine Institute, Cleveland Clinic, Cleveland, Ohio 44195, USA
+7Department of Clinical Pathology, University Hospitals Case Medical Center, Cleveland, Ohio 44106, USA
+8Metapopulation Research Group; Department of Biosciences, University of Helsinki, Helsinki, Finland FI-00014
+9Genome Scale Biology Research Program, Biomedicum Helsinki; Department of Medical Genetics, University of Helsinki, Helsinki, Finland FI-00014
+10Department of Genetics and Genome Sciences, Case Western Reserve University, Cleveland, Ohio 44106, USA
+11Stanley Shalom Zielony Institute of Nursing Excellence, Cleveland Clinic, Cleveland, Ohio 44195, USA
+*Correspondence and reprint requests to: Charis Eng, MD, PhD, engc@ccf.org, Contact: Genomic Medicine Institute, Cleveland Clinic, 9500 Euclid Avenue, NE-50, Cleveland, Ohio 44195, USA. Fax: +1 216 636-0655, Tel: +1 216 444-3440. Contributed equally to this work Drs Ngeow and Ms Heald, as first authors, contributed equally to the manuscript. Disclosure of potential conflict of interest: No author had any financial or personal relationships that could inappropriately influence or bias this work. Authors Contribution List: Study concept and design: J.N., B.H., C.E. Data acquisition: J.N., B.H., J.L.C., X.L., L.Y., J.W., H.L., R.L., J.L.M., J.M., C.A.B., J.C., L.A.A., C.E. Analysis and interpretation of data: J.N., B.H., L.A.R., J.L.C, M.O., C.E. Drafting of the manuscript: J.N., B.H., C.E. Critical revision of the manuscript for intellectual content: J.N, B.H, L.A.R., C.A.B, J.C, L.A.A., C.E. Drs Ngeow and Eng and Ms Heald had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy for the data analysis.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 2
+
+12CASE Comprehensive Cancer Center, Case Western Reserve University, Cleveland, Ohio 44106, USA
+
+Abstract
+BACKGROUND & AIMS--Gastrointestinal polyposis is a common clinical problem, yet there is no consensus on how to best manage patients with moderate-load polyposis. Identifying genetic features of this disorder could improve management, and especially surveillance, of these patients. We sought to determine the prevalence of hamartomatous polyposis associated mutations in the susceptibility genes PTEN, BMPR1A, SMAD4, ENG, and STK11 in individuals with 5 or more gastrointestinal polyps, including at least 1 hamartomatous or hyperplastic/serrated polyp.
+METHODS--We performed a prospective, referral-based study of 603 patients (median age 51 y; range, 2­89 y), enrolled from June 2006 through January 2012. Genomic DNA was extracted from peripheral lymphocytes and analyzed for specific mutations and large rearrangements in PTEN, BMPR1A, SMAD4, and STK11, as well as mutations in ENG. Recursive partitioning analysis was used to determine cutoffs for continuous variables. The prevalence of mutations was compared using Fischer's exact test. Logistic regression analyses were used to determine univariate and multivariate risk factors.
+RESULTS--Of 603 patients, 119 (20%) had a personal history of colorectal cancer and most (461; 76%) had fewer than 30 polyps. Seventy-seven patients (13%) were found to have polyposis-associated mutations, comprising 11 in ENG (1.8%), 13 in PTEN (2.2%), 13 in STK11 (2.2%), 20 in BMPR1A (3.3%), and 21 in SMAD4 (3.5%). Univariate clinical predictors for risk of having these mutations included age at presentation less than 40 years (19% vs 10%; P=.008), a polyp burden of 30 or more (19% vs 11%; P=0.014), and male sex (16% vs 10%; P=.03). Patients who had 1 or more ganglioneuromas (29% vs 2%; P<.001) or presented with polyps of 3 or more histologic types (20% vs 2%; P=.003) were more likely to have germline mutations in PTEN.
+CONCLUSIONS--Age less than 40 years, male sex, and specific polyp histologies are significantly associated with risk of germline mutations in hamartomatous-polyposis associated genes. These associations could guide clinical decision making and further investigations.
+
+Keywords
+Hamartomatous polyposis; Juvenile Polyposis Syndrome; Peutz-Jeghers syndrome; Cowden syndrome
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Introduction
+Each year in the United States, almost 150,000 people will be diagnosed with colorectal cancer (CRC) and close to 50,000 will die from the disease1. Most (>95%) CRCs develop from adenomatous polyps2. The prevalence of adenomatous polyps increases with age and male gender but is a common finding on screening colonoscopy. Patients with numerous colorectal polyps have an increased risk of CRC and may represent a hereditary polyposis syndrome3. These important, potentially heritable polyp conditions are a conundrum, because individuals present with features that overlap one or more of the syndromes, and proper, objective identification is necessary for appropriate clinical management 4. Patients who meet the gene-testing criteria for known polyposis syndromes are identified through careful evaluation of family history and clinical presentation5. However, the reality in the clinic is that often cases either do not fulfill clinical criteria at the time of presentation or meet diagnostic criteria but are mutation negative for the suspected gene(s). At present, there is little consensus or research to help guide clinicians when faced with patients who do not meet established clinical genetic testing criteria but who present with moderate polyp burdens.
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 3
+
+The polyposis syndromes are characterized by the dominant type of polyp (whether adenomatous or hamartomatous) present. The hamartomatous syndromes are characterized by an overgrowth of cells native to the area in which they normally occur, i.e., mesenchymal, stromal, endodermal, and ectodermal elements. The represent a significant minority of the inherited gastointestinal cancer predisposition syndromes. It is well established that many of these syndromes carry a substantial risk of developing colon cancer, other gastrointestinal cancers and extra-gastrointestinal malignancies (Table 1).
+These hamartomatous syndromes occur at approximately 1/10th the frequency of the adenomatous sundromes and account for < 1% of colorectal cancer4, 6­8. Despite the uncommoness of the disease, proper identification has major clinical significance for the affected individual as well as for at-risk families. In an attempt to better understand how we ought to clinically approach patients with moderate polyp burdens, we previously explored the feasibility of molecularly classifying patients with clinically unclassifiable hamartomatous polyposis or with hyperplastic/mixed polyposis with a pilot study9. We found that ~20% of 49 such individuals carried germline mutations in PTEN (susceptibility gene for PTEN Hamartoma Tumor Syndrome [PHTS]; NCBI Entrez Gene ID 5728), BMPR1A (1 of 2 susceptibility genes for juvenile polyposis syndrome [JPS]; NCBI Entrez Gene ID 12166), SMAD4 (2nd susceptibility gene for JPS; NCBI Entrez Gene ID 4089), ENG (susceptibility gene for hereditary hemorrhagic telangiectasia; NCBI Entrez Gene ID 2022), or STK11/LKB1 (susceptibility gene for Peutz-Jeghers syndrome [PJS]; NCBI Entrez Gene ID 6794). Despite the relatively small sample size in our pilot, it would appear that germline mutations or deletions of PTEN and BMPR1A were over-represented in polyp presentations. We also reported that gastrointestinal polyps were common amongst patients with germline PTEN mutation. In a separate study of 127 pathogenic PTEN mutation positive patients, 69 had undergone 1 or more endoscopic evaluations, of which 64 (93%) had polyps, often with a mixed polyp histology10. This study suggests that the previous paradigm that only hamartomatous polyps are seen in PHTS may not be true.
+Based on the above studies, we hypothesized that germline mutations in hamartomatous polyposis related genes PTEN, BMPR1A, SMAD4, STK11 and ENG accounts for subsets of cases of unexplained, modest-burden gastrointestinal polyp presentations typically seen in patients. In this study, we sought to determine the prevalence of germline mutations in these genes in a prospectively accrued series of >500 individuals with 5 cumulative lifetime gastrointestinal polyps, at least one of which must be hamartomatous or hyperplastic/ serrated.
+
+Methods
+Study Design
+Prospective, referral-based study of 603 patients from the Cleveland Clinic (n = 77) and 148 outside institutions (n=526), conducted from June, 2006, until January, 2012. Individuals, irrespective of age and family history, who met the minimal criteria of 5 cumulative lifetime gastrointestinal polyps, one or more lesion(s) being hamartomatous or hyperplastic/ serrated could be referred. A total of 603 eligible patients were accrued with polyp histology documented by report, of which a random 148 (25%) had central pathology re-review (by X.L./L.Y./J.W.). Medical records were requested to document polyp and cancer history. Pedigrees obtained by a genetic counselor/physician were also reviewed. Where eligibility criteria data are not complete, eg, no medical documentation of polyp numbers, the patient was excluded from the study.
+All subjects had their polyp phenotypes extracted from available records. Histology slides for polyps from each subject were requested and blindly read by our study gastrointestinal
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 4
+
+pathologists (X.L./L.Y./J.W.). Juvenile polyps show a normal epithelium with a dense stroma, an inflammatory infiltrate, and a smooth surface with dilated, mucus-filled cystic glands in the lamina propria. Muscle fibers and the proliferative characteristics of adenomas are typically not seen in juvenile polyps11. In contrast, Peutz-Jegher polyps show extensive smooth muscle arborization throughout the polyp. In the absence of these distinguishing factors, hamartomatous polyps were labeled as unspecified hamartomatous polyps. Central pathology review showed that 53% (78/148) had their original histological diagnoses amended but this did not significantly lead to changes in the clinical syndromic diagnoses. Based on available clinical data, polyp data including pathological diagnosis, where available, patients were classified under known clinical polyposis syndromes if they met clinical diagnostic criteria for JPS, PJS, PHTS, familial adenomatous polyposis (FAP), attenuated familial adenomatous polyposis (AFAP), MUTYH-associated polyposis (MAP), serrated polyposis syndrome (SPS), and hereditary non-polyposis colorectal cancer syndrome (HNPCC)5, 12­14 (Table 1). This study was approved by the Cleveland Clinic Institution Review Board (#8458).
+
+DNA Extraction and Molecular Genetic Analyses
+Germline genomic DNA was extracted from peripheral lymphocytes (protocols at www.lerner.ccf.org/gmi/gmb). Mutation analysis of the entire coding sequence, the exonintron boundaries and the flanking sequences of PTEN, BMPR1A, SMAD4, STK11, and ENG was carried out on coded samples in a blinded fashion with a combination of denaturing gradient gel electrophoresis, high-resolution melting curve analysis (Idaho Technology, Salt Lake City, Utah)15 and confirmed with direct Sanger sequencing (ABI 3730xl, Life Technologies, Carlsbad, California)16­20. Deletion analysis with the multiplex ligation-dependent probe amplification assay21 was performed for PTEN, SMAD4, BMPR1A and STK11 (MRC-Holland, Amsterdam, Holland). All suspected deletion/duplications were confirmed with quantitative polymerase chain reaction. All patients underwent resequencing of the PTEN promoter region as previously described22. Resulting sequence was analyzed using Mutation Surveyor (Softgenics, State College, Pennsylvania) in comparison with the reference sequences of human PTEN [NM_000314.4], BMPR1A [NM_004329.2], SMAD4 [NM_005359.5], STK11 [NM_000455.4], and ENG [NM_000118.2]. The primers used for all genes are available in Supplemental Table 1.
+
+Classification of Variants
+Critical to this study, is distinguishing disease-causing mutation carriers from those who are mutation negative from our analysis. Non-synonymous, frameshift, splice-site, nonsense mutations as well as large deletions, whole gene deletion or any variant known to be disease-causing are assigned to the category, `mutation positive (Mut+)'. All intronic and synonymous mutations were classified as variants of unknown significance (VUS) and considered as mutation negative. Prediction databases were used to assist missense mutation annotations22­25. To be conservative, all cases without proof of functionality or that were predicted to be non-pathogenic in 2 of 3 prediction databases were considered as VUS and, for the purposes, of this study were considered as mutation negative. All variants were discussed in a monthly protocol meeting. Unless the specific PTEN promoter mutations have been shown to affect PTEN function22 and are associated with Cowden Syndrome phenotypes26, 27, to be conservative, we consider them here as mutation negative.
+
+Statistical Considerations
+The primary outcome was the prevalence of pathogenic germline mutations in the five genes tested. Covariates of interest included the number and age at diagnoses of 5th colorectal polyp, gender, the presence of CRC, family history of gastrointestinal polyps or CRC,
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 5
+
+number of polyps, specific polyp histology subtypes as well as the presence of clinical polyposis syndromes. Patients meeting diagnostic criteria for more than one clinical polyposis syndrome were included in the separate analyses of the individual syndrome met. Univariable recursive partitioning analysis (RPA) was used to identify optimal cutpoints in continuous variables that best predict the presence of any mutation. RPA indicated that the best cutpoint is <55 vs. 55 for age; 5­31 vs. 32 for total number of polyps; 0 vs. 1 for hamartomas and ganglioneuromas; 0 vs. 1­17 vs. 18 juvenile polyps. No cutpoints were identified for adenomas. The primary aim of identifying genetic predisposition is to impact management and inform on surveillance strategies, i.e. who may need earlier colonoscopies. We, therefore, chose to use age  40 vs < 40 as our cutoff for age instead of the RPA optimal of 55 years because the 40 cutpoint is both statistically significant and clinically significant. For adenomatous polyposis, a cutoff of 20 has been found to be clinically useful in predicting risk for APC and MUTYH mutations28. A cutoff of 20 in our study did not significantly predict mutations in the 5 genes tested. Based on our RPA results, although a cutoff of 32 was identified to be the best cutoff point, we elected to use a more clinically useful cutoff of 30 in our subsequent analysis.
+For each variable, the number and percentage of patients with mutations was calculated and compared between groups using Fisher's exact test. Risk factors for any mutation were assessed using logistic regression analysis. Stepwise logistic regression analysis with a variable entry criterion of P0.10 and a variable retention criterion of P0.05 was used to identify multivariable risk factors. Logistic regression results are summarized as the odds ratio (OR), 95% confidence interval (CI) for the OR, and P-value. Data were analyzed using SAS® software (SAS Institute, Inc., Cary, NC, USA). All statistical tests were two-sided, and P<0.05 was used to indicate statistical significance.
+
+Results
+
+Of 603 research participants, 360 (60%) were women (Table 2). Median age of patients at time of identification of their 5th polyp was 51 years (range 2­89 years). From 5 to 302 (median 13) polyps/patient were detected, with a median of 3 colonoscopies (range 1­19). Personal history of CRC was noted in 20% of patients (119/603), with median age at diagnosis 53 years (21­80). Patients with a personal history of CRC and an underlying germline genetic alteration were younger compared to those without a germline mutation at the time of their cancer diagnosis (median 48, range 32­65). Patients self-reported the presence of CRC (325/603; 54%) and polyps (295/603; 49%) in at least one family member in a 3-generational pedigree (Table 2). 31% (186/603) of patients had a first-degree relative with CRC. 440 (73%) patients did not meet criteria for any clinical polyposis or colorectal cancer syndrome.
+
+Frequency of and Patient Demographics Associated with Germline Mutations in PTEN, BMPR1A, SMAD4, STK11 and ENG
+A total of 77 pathogenic germline mutations were detected in 603 (12.8%) patients, comprising 11 (1.8%) in ENG, 13 (2.2%) PTEN, 13 (2.2%) STK11, 20 (3.3%) BMPR1A and 21 (3.5%) SMAD4 (Table 3). One patient had 2 SMAD4 mutations and 1 BMPR1A mutation (Supplemental Table 2). Clinical features associated with a higher likelihood of an underlying germline mutation includes age at 5th polyp presentation <40 years (19% vs 10%; P=0.008), polyp number  30 (19% vs 11%; P=0.014) and male gender (16% vs 10%; P=0.03). Interestingly, family history of colonic polyps and a personal history of CRC were not helpful in predicting who may harbor a mutation in these genes (Table 3). Importantly, germline mutations in one of these 5 genes were more common amongst patients who had
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 6
+
+no family history of CRC than those who had a positive family history for CRC (18% vs 8%; P<0.001).
+While the numbers were small, there were gene-specific patterns of note: among the 77 mutation-positive patients, SMAD4 mutations were more commonly seen in patients with unexplained polyps if they were <40 years of age (7% vs 2%; P=0.009) and in patients who had no family history of CRC (6% vs 2%; P=0.006) and in patients with a positive family history of gastrointestinal polyps (5% vs 2%; P=0.013). Patients were more likely to have PTEN mutations if they did not have a family history of CRC (5% vs 0%; P<0.001). STK11 mutations were more common in those <40 years (4% vs 1%; P=0.047) and less frequently seen in females presenting with unexplained polyps (1% vs 4%; P=0.044). There were no significant associations with ENG mutations. However, of the 11 participants with ENG mutations, only 1 had juvenile/inflammatory polyps, all others had hyperplastic/serrated polyps.
+
+Polyp Histology Associated with Mutations in Specific Genes
+Because polyp histology is a major clinical diagnostic criterion for most polyposis syndromes, we analyzed if the predominant polyp histology was associated with mutations in any specific gene (Table 4). Patients were enrolled if they met the criteria of 5 cumulative lifetime gastrointestinal polyps, at least one of which must be hamartomatous or hyperplastic/serrated. RPA demonstrated that patients whose polyps included 1 unspecified hamartomatous polyps were more likely to have any germline mutation (32% vs 11%; P<0.001) and specifically, STK11 mutations (11% vs 1%; P=0.001) compared to those who did not. An increasing number of juvenile polyps was associated with SMAD4 (P<0.001) and BMPR1A (P< 0.001) mutations. Of 14 patients who presented with at least one ganglioneuroma, 6 (43%) had pathogenic germline mutations, 4 of whom harbored germline PTEN mutations (P< 0.001). A mixed polyposis presentation (3 different histological subtypes of adenoma, hamartoma, lipoma, ganglioneuroma, juvenile, inflammatory polyps) was associated with an increased prevalence of underlying germline mutation (53% vs 12%; P<0.001) and specifically of PTEN (20% vs 2%; P<0.001) [Table 4].
+
+Mutation-Frequencies in Research Participants Meeting Clinical Criteria for Polyposis Syndromes versus Those Not Meeting Criteria
+We found that a significant number (46/440; 11%) of patients who did not meet clinical criteria for heritable polyposis or colorectal cancer syndromes harbored an underlying germline mutation. Not surprisingly, patients meeting criteria for known hamartomatous polyposis syndromes were more likely to test positive for an underlying germline mutation. Of the 69 patients who met clinical criteria for JPS, 22 (32%) had germline mutations: 13 in SMAD4 and 9 in BMPR1A. Patients meeting criteria for PJS were more likely to have an underlying mutation in STK11 (35% vs 1%; P<0.001).
+
+Risk Factors For Mutations In Any Of The 5 Genes
+Using univariate logistic regression analysis, we found nine clinical variables (clinical characteristics and histology subtypes) which significantly predicted for the presence of germline mutation (Table 5). Age < 40, male gender, polyp burden  30, absent family history of CRC, presence of any unspecified hamartomas, ganlioneuromas or mixed histology. Stepwise logistic regression revealed that 5 variables were associated with risk for any mutation: male gender, any hamartoma, juvenile polyps and mixed histology, along with the absence of a family history of CRC (Table 5).
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 7
+
+Discussion
+This paper focuses on the prevalence of hamartomatous polyposis-related genes in patients with moderate burdens of varied histology colorectal polyps, predominantly hamartomatous and hyperplastic/serrated. Because the entry criteria for this study was any individual with 5 polyps, of which at least one must be either hamartomatous or hyperplastic/serrated, the majority of our patients have <30 polyps (76%). The study was designed as such, as this most closely reflects the spectrum of patients presenting to clinics whom are etiologically puzzling resulting in unclear clinical management.
+Our findings of 13% germline mutation in a large cohort (77/603) accrued from a wide cross-section of institutions is significant as it implies that clinicians would need to be vigilant for the possibility of an underlying gene mutation, even in these patients with very modest polyp burdens. It is noteworthy that the majority of patients who had an underlying germline mutation do not have positive family histories of CRC. While research participants had 20% prevalent CRC, this was not particularly associated with presence of germline mutations in the five genes tested. This suggests that neither family history nor personal history of CRC are not good predictors of underlying germline mutations in genes germane to hamartomatous polyps, in contrast to adenomatosis-related polyposis28. While this finding was surprising, there are possible explanations that may in part account for this observation including the contribution from de novo mutations29, 30. Specifically with PTEN mutations, we now understand that the frequency of de novo PTEN mutation could range between 11% to >40%. It is for this reason that absence of PHTS features within a family history should not preclude consideration of this diagnosis for patients with relevant personal history31. The cumulative lifetime risk for CRC individually for the genes in our study is thought to be lower than with those associated with MAP, AFAP or FAP, potentially accounting for this lack of association with both family and personal history of CRC27, 32, 33.
+While the prevalence of mutations in individual genes tested was low, gene-specific correlations, which could shed light on how to approach patients with polyps, were noted. Patients <40 years were more likely to have germline mutation compared to those 40 years (19% vs 10%; P=0.008). Age was also predictive of specific-gene involvement. For example, patients with SMAD4 and STK11 mutations tended to be younger. The predominant polyp histological subtype was informative in predicting germline mutation involvement. High-risk presentations included increasing numbers of juvenile polyps or the presence of ganglioneuromas (1), both of which were significantly more likely to be associated with harboring specific underlying mutations. For example, germline PTEN mutations were associated with ganglioneuromas (Ngeow and Eng, unpublished). Presentations with any ganglioneuromatous polyp(s) or mixed-polyposis should alert clinicians to the possibility of an underlying PTEN mutation and trigger a detailed assessment for other clinical features associated with PHTS26 including mucocutaneous lesions, macrocephaly and history of breast, thyroid, endometrial and renal carcinomas, which would require more extensive surveillance. Although the genetic differential diagnosis of ganglioneuromas in the gut also includes multiple endocrine neoplasia type 2B and type 1 neurofibromatosis, these syndromes typically have submucosal ganglioneuromas/ matosis that are not polypoid34. As previously reported, PTEN mutation carriers having an increased propensity for multiple histological subtypes10, which was again observed here.
+In our pilot study, two out of 14 subjects with early-onset JPS had ENG mutations9. Eleven patients in our cohort had ENG mutations but amongst 69 JPS patients, none harbored a mutation in ENG. This as well as similar findings in another study of SMAD4/BMPR1Anegative JPS patients35 suggest that ENG may not be a JPS susceptibility gene. It is possible
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 8
+
+that in the absence of co-segregation and functional studies, missense variants such as those seen in ENG could be over-interpreted by software prediction models and will need to be interpreted with caution. Further research is needed to determine what role, if any, ENG plays in polyposis syndromes.
+For adenomatous polyposis syndromes such as FAP, increasing polyp burden is known to be a good clinical predictor for underlying germline mutation in APC28. It is less clear, if polyp burden in non-adenomatous polyposis behaves similarly. We saw that polyp burden (30) was more likely to be associated with the presence of a germline mutation in one of the 5 genes (OR 1.93; P=0.012), but on multivariate analysis, polyp burden was no longer predictive. Indeed, our data show that polyp histology remains the key determinant for mutation status contributing towards 3 of the 5 risk factors identified from multivariate analysis, thus reaffirming the importance of re-review of polyp histology during routine clinical practice. Male patients were also significantly more likely to harbor a germline mutation but only marginally so (OR 1.76, 95% CI 1.05­2.96) and should be interpreted with caution. The absence of a family history of CRC was on multivariate analysis found to be significantly associated with germline mutations. While we have explored possible reasons for this in our discussion above including rate and age of transformation to CRC and de novo mutation frequency, it is possible that recall bias may inflate the true impact of family history. Patients with family history of CRC may have been identified for genetic testing and may not have been included in this study as a result.
+It is not uncommon for patients to present with polyp burdens that are shy of diagnostic criteria or with varied polyp histologies, an undefined group with no consensus on how best to manage these cases. Our study was designed as a referral-based study in an attempt to recapitulate the cases. This results is both a strength as well as a weakness in study design. Prior gene testing to exclude APC or other adenomatous polyposis-related genes was not necessary for enrollment in our study, and it is possible that this may result in ascertainment bias. It is possible that the lack of clinical testing for patients meeting clinical syndromic criteria could have inflated the prevalence of mutations seen. It is of note however that the prevalence of an underlying germline mutation in patients who do not meet any clinical criteria was still elevated (46/440; 11%). There is really no elegant way in which we could have assessed if clinicians were referring only cases of heightened suspicion for an underlying polyposis syndrome. This is potentially problematic and our data should be interpreted in light of this.
+The approach to gastrointestinal polyps, especially modest-burden and comprising nonadenomatous polyps, is something which continues to trouble clinicians given the lack of clinical guidance. To the best of our knowledge, this is the only study of its kind looking to comprehensively elucidate prevalence of germline mutations in these 5 genes in a cohort with moderate colorectal polyp burdens. Regrettably, due to the sample size, the ORs were small and the true clinical impact will require further validation. Our study shows that patients with moderate burden polyposis with at least one hamatormatous or hyperplastic/ serrated polyposis have a significant prevalence of germline mutations in hamartomatouspolyposis-related genes. Certain clinical settings increase this possibility: in patients who present under 40 years of age, males and those who present with juvenile polyposis, ganglioneuromatous polyposis or an admixture (3) of multiple histological subtypes are at increased risk for specific genetic mutations.
+
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 9
+
+Acknowledgments
+Grant Support: J.N. is the National Medical Research Council (Singapore) Fellow and an Ambrose Monell Foundation Cancer Genomic Medicine Clinical Fellow at the Cleveland Clinic Genomic Medicine Institute. C.E is the Sondra J. and Stephen R. Hardis Chair of Cancer Genomic Medicine at the Cleveland Clinic and is an American Cancer Society Clinical Research Professor, generously funded in part, by the F.M. Kirby Foundation.
+We thank all our research participants and their clinicians who contributed to this study. We would like to thank the Genomic Medicine Biorepository of the Cleveland Clinic Genomic Medicine Institute, and our database and clinical research coordination teams for their meticulous up keeping and auditing of the clinical databases.
+
+Abbreviations Used
+
+AFAP CRC CI FAP HNPCC JPS Mut+ MAP OR PJS RPA PHTS SPS VUS
+
+attenuated familial adenomatous polyposis colorectal cancer confidence interval familial adenomatous polyposis hereditary non-polyposis colorectal cancer syndrome juvenile polyposis syndrome mutation positive MUTYH-associated polyposis odds ratio Peutz Jeghers syndrome recursive partitioning analysis PTEN hamartoma tumor syndrome serrated polyposis syndrome variants of unknown significance
+
+References
+1. Society. AC. Colorectal Cancer Facts & Figures 2011­2013. Atlanta: American Cancer Society; 2011.
+2. Stewart SL, Wike JM, Kato I, et al. A population-based study of colorectal cancer histology in the United States, 1998­2001. Cancer. 2006; 107:1128­41. [PubMed: 16802325]
+3. Bussey HJ. Familial polyposis coli. Pathol Annu. 1979; 14(Pt 1):61­81. [PubMed: 514641] 4. Gammon A, Jasperson K, Kohlmann W, et al. Hamartomatous polyposis syndromes. Best Pract Res
+Clin Gastroenterol. 2009; 23:219­31. [PubMed: 19414148] 5. Aretz S. The differential diagnosis and surveillance of hereditary gastrointestinal polyposis
+syndromes. Dtsch Arztebl Int. 2010; 107:163­73. [PubMed: 20358032] 6. Attard TM, Abraham SC, Cuffari C. The clinical spectrum of duodenal polyps in pediatrics. J
+Pediatr Gastroenterol Nutr. 2003; 36:116­9. [PubMed: 12500006] 7. Burt RW, Samowitz WS. The adenomatous polyp and the hereditary polyposis syndromes.
+Gastroenterol Clin North Am. 1988; 17:657­78. [PubMed: 2852640] 8. Gardner EJ, Burt RW, Freston JW. Gastrointestinal Polyposis: Syndromes and Genetic
+Mechanisms. West J Med. 1980; 132:488­99. [PubMed: 7405200] 9. Sweet K, Willis J, Zhou XP, et al. Molecular classification of patients with unexplained
+hamartomatous and hyperplastic polyposis. JAMA. 2005; 294:2465­73. [PubMed: 16287957]
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 10
+10. Heald B, Mester J, Rybicki L, et al. Frequent gastrointestinal polyps and colorectal adenocarcinomas in a prospective series of PTEN mutation carriers. Gastroenterology. 2010; 139:1927­33. [PubMed: 20600018]
+11. Jass JR. Gastrointestinal polyposes: clinical, pathological and molecular features. Gastroenterol Clin North Am. 2007; 36:927­46. viii. [PubMed: 17996798]
+12. Vasen HF, Watson P, Mecklin JP, et al. New clinical criteria for hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome) proposed by the International Collaborative group on HNPCC. Gastroenterology. 1999; 116:1453­6. [PubMed: 10348829]
+13. Eng C. Will the real Cowden syndrome please stand up: revised diagnostic criteria. J Med Genet. 2000; 37:828­30. [PubMed: 11073535]
+14. Snover, D.; Ahnen, D.; Burt, R., et al. WHO Classification of Tumours of the Digestive System. 4. Lyon, France: IARC; 2010. Serrated Polyps of the Colon and Rectum and Serrated Polyposis.
+15. van der Stoep N, van Paridon CD, Janssens T, et al. Diagnostic guidelines for high-resolution melting curve (HRM) analysis: an interlaboratory validation of BRCA1 mutation scanning using the 96-well LightScanner. Hum Mutat. 2009; 30:899­909. [PubMed: 19370767]
+16. Gallione CJ, Repetto GM, Legius E, et al. A combined syndrome of juvenile polyposis and hereditary haemorrhagic telangiectasia associated with mutations in MADH4 (SMAD4). Lancet. 2004; 363:852­9. [PubMed: 15031030]
+17. Zhou XP, Woodford-Richens K, Lehtonen R, et al. Germline mutations in BMPR1A/ALK3 cause a subset of cases of juvenile polyposis syndrome and of Cowden and Bannayan-Riley-Ruvalcaba syndromes. Am J Hum Genet. 2001; 69:704­11. [PubMed: 11536076]
+18. Marsh DJ, Dahia PL, Caron S, et al. Germline PTEN mutations in Cowden syndrome-like families. J Med Genet. 1998; 35:881­5. [PubMed: 9832031]
+19. Roth S, Sistonen P, Salovaara R, et al. SMAD genes in juvenile polyposis. Genes Chromosomes Cancer. 1999; 26:54­61. [PubMed: 10441006]
+20. Launonen V. Mutations in the human LKB1/STK11 gene. Hum Mutat. 2005; 26:291­7. [PubMed: 16110486]
+21. Schouten JP, McElgunn CJ, Waaijer R, et al. Relative quantification of 40 nucleic acid sequences by multiplex ligation-dependent probe amplification. Nucleic Acids Res. 2002; 30:e57. [PubMed: 12060695]
+22. Teresi RE, Zbuk KM, Pezzolesi MG, et al. Cowden syndrome-affected patients with PTEN promoter mutations demonstrate abnormal protein translation. Am J Hum Genet. 2007; 81:756­67. [PubMed: 17847000]
+23. Moorman NJ, Shenk T. Rapamycin-resistant mTORC1 kinase activity is required for herpesvirus replication. J Virol. 2010; 84:5260­9. [PubMed: 20181700]
+24. Lang SA, Hackl C, Moser C, et al. Implication of RICTOR in the mTOR inhibitor-mediated induction of insulin-like growth factor-I receptor (IGF-IR) and human epidermal growth factor receptor-2 (Her2) expression in gastrointestinal cancer cells. Biochim Biophys Acta. 2010; 1803:435­42. [PubMed: 20116405]
+25. Moss SC, Lightell DJ Jr, Marx SO, et al. Rapamycin regulates endothelial cell migration through regulation of the cyclin-dependent kinase inhibitor p27Kip1. J Biol Chem. 2010; 285:11991­7. [PubMed: 20097763]
+26. Wang Y, Romigh T, He X, et al. Differential regulation of PTEN expression by androgen receptor in prostate and breast cancers. Oncogene. 2011; 30:4327­38. [PubMed: 21532617]
+27. Tan MH, Mester JL, Ngeow J, et al. Lifetime cancer risks in individuals with germline PTEN mutations. Clin Cancer Res. 2012; 18:400­7. [PubMed: 22252256]
+28. Grover S, Kastrinos F, Steyerberg EW, et al. Prevalence and phenotypes of APC and MUTYH mutations in patients with multiple colorectal adenomas. JAMA. 2012; 308:485­92. [PubMed: 22851115]
+29. Sayed MG, Ahmed AF, Ringold JR, et al. Germline SMAD4 or BMPR1A mutations and phenotype of juvenile polyposis. Ann Surg Oncol. 2002; 9:901­6. [PubMed: 12417513]
+30. Papp J, Kovacs ME, Solyom S, et al. High prevalence of germline STK11 mutations in Hungarian Peutz-Jeghers Syndrome patients. BMC Med Genet. 2010; 11:169. [PubMed: 21118512]
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 11
+31. Mester J, Eng C. Estimate of de novo mutation frequency in probands with PTEN hamartoma tumor syndrome. Genet Med. 2012
+32. Neklason DW, Stevens J, Boucher KM, et al. American founder mutation for attenuated familial adenomatous polyposis. Clin Gastroenterol Hepatol. 2008; 6:46­52. [PubMed: 18063416]
+33. Bussey, H. Familial Polyposis Coli. Baltimore, MD: Johns Hopkins University Press; 1975. 34. Shekitka KM, Sobin LH. Ganglioneuromas of the gastrointestinal tract. Relation to Von
+Recklinghausen disease and other multiple tumor syndromes. Am J Surg Pathol. 1994; 18:250­7. [PubMed: 7906923] 35. Howe JR, Haidle JL, Lal G, et al. ENG mutations in MADH4/BMPR1A mutation negative patients with juvenile polyposis. Clin Genet. 2007; 71:91­2. [PubMed: 17204053] 36. Park JG, Vasen HF, Park KJ, et al. Suspected hereditary nonpolyposis colorectal cancer: International Collaborative Group on Hereditary Non-Polyposis Colorectal Cancer (ICG-HNPCC) criteria and results of genetic diagnosis. Dis Colon Rectum. 1999; 42:710­5. discussion 715­6. [PubMed: 10378593] 37. Nielsen M, Hes FJ, Nagengast FM, et al. Germline mutations in APC and MUTYH are responsible for the majority of families with attenuated familial adenomatous polyposis. Clin Genet. 2007; 71:427­33. [PubMed: 17489848] 38. Sieber OM, Lipton L, Crabtree M, et al. Multiple colorectal adenomas, classic adenomatous polyposis, and germ-line mutations in MYH. N Engl J Med. 2003; 348:791­9. [PubMed: 12606733] 39. Burt, R.; Jass, J. World Health Organization of Tumors Pathology and Genetics. 2000. Hyperplastic Polyposis; p. 135-136. 40. Jass JR, Williams CB, Bussey HJ, et al. Juvenile polyposis--a precancerous condition. Histopathology. 1988; 13:619­30. [PubMed: 2853131] 41. Giardiello FM, Welsh SB, Hamilton SR, et al. Increased risk of cancer in the Peutz-Jeghers syndrome. N Engl J Med. 1987; 316:1511­4. [PubMed: 3587280] 42. Online Mendelian Inheritance in Man, OMIM®. McKusick-Nathans Institute of Genetic Medicine. Vol. 2012. Johns Hopkins University; Baltimore, MD: World Wide Web URL: http://omim.org/
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Incidence And Cancer Risks For Known Polyposis Syndromes
+
+Table 1
+
+Ngeow et al.
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+Syndrome Familial adenomatous polyposis
+Attentuated familial adenomatous polyposis MUTYH-associated polyposis Serrated polyposis syndrome Juvenile polyposis syndrome
+Peutz-Jeghers syndrome
+Cowden syndrome
+Hereditary non-polyposis colorectal cancer
+
+MIM No.* 175100
+175100 608456
+175050/174900 175200 158350 120435
+
+Gene(s) APC
+APC MUTYH NA SMAD4/BMPR1A STK11 PTEN MLH1/MSH2/MSH6/PMS2/EPCAM
+
+Population prevalence 1/5000
+unknown 1/5000 1/100 000 1/100 000 1/30 000­1/100 000 1/200 000 1/440
+
+Cancer Risks
+Colorectal, duodenal, papillary thyroid, pancreatic, hepatoblastoma, CNS tumors, desmoid tumors
+Colorectal, stomach, thyroid, desmoid tumors (rare)
+Coloectal tumors, other?
+Colorectal tumors, other?
+Colorectal, gastric, duodenal, pancreatic tumors
+Colorectal, small intestine, stomach, breast, pancreatic, sex cord tumors
+Breast, thyroid, uterine, melanoma, renal cell tumors, colon
+Colon, uterine, stomach, ovary, urinary tract, small bowel, brain/central nervous system, sebaceous neoplasms
+
+Diagnostic Criteria Reference Park et al36
+Nielson et al 37 Sieber et al38 Burt et al39 Jass et al40 Giardiello et al41 Eng et al13 Vasen et al12
+
+* From
+
+Online
+
+Mendelian
+
+Inheritance
+
+in
+
+Man42
+
+Page 12
+
+NIH-PA Author Manuscript
+
+Ngeow et al.
+
+Page 13
+
+Patient Demographics (N=603)
+
+Table 2
+
+Clinical Characteristics
+
+N= 603
+
+Median age at presentation of 5th polyp (years) 51 (2­89)
+
+Gender
+
+Female
+
+360 (59.7)
+
+Male
+
+243 (40.3)
+
+Median number of polyps
+
+13 (5­302)
+
+Median number of scopes
+
+3 (1­19)
+
+Personal history of CRC
+
+119 (19.7)
+
+Median age of onset of CRC
+
+53 (21­80)
+
+Family history of CRC
+
+Any in 3 generation pedigree
+
+325 (53.8)
+
+First Degree Relative
+
+186 (30.8)
+
+FHx of polyps
+
+295 (48.9)
+
+Clinical criteria met
+
+JPS 69 (11.4)
+
+PJS 20 (3.3)
+
+MAP
+
+39 (6.5)
+
+HNPCC
+
+10 (1.7)
+
+FAP 2 (0.3)
+
+AFAP
+
+43 (7.1)
+
+SPS 45 (7.5)
+
+NONE
+
+440 (73.0)
+
+Abbreviations: CRC, colorectal cancer; FHx, family history; JPS, Juvenile Polyposis Syndrome; PJS, Peutz-Jeghers Syndrome; MAP, MUTYH Adenomatous Polyposis; HNPCC, Hereditary Non-Polyposis Colorectal Cancer; FAP, Familial Adenomatous Polyposis; AFAP, Attenuated Familial Adenomatous Polyposis; SPS, Serrated Polyposis Syndrome
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Table 3 Univariate Risk Factors (Clinical Characteristics) for Germline Mutations in ENG, PTEN, STK11, BMPR1A and SMAD4
+
+Ngeow et al.
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+ENG (11; 1.8%) PTEN (13; 2.2%) STK11 (13; 2.2%) BMPR1A (20; 3.3%) SMAD4 (21; 3.5%) Any Gene (77; 12.8%)
+
+Variable N #
+
+(%) #
+
+(%) #
+
+(%) #
+
+(%)
+
+Clinical Characteristics
+
+Age, years
+
+<40 155 3
+
+(1.9) 3
+
+(1.9) 7
+
+(4.5) 6
+
+(3.9)
+
+40 448 8
+
+(1.8) 10
+
+(2.2) 6
+
+(1.3) 14
+
+(3.1)
+
+P-value
+
+1.0
+
+1.0
+
+0.047
+
+0.61
+
+Gender
+
+F 360 5 (1.4) 7
+
+(1.9) 4
+
+(1.1) 11
+
+(3.1)
+
+M 243 6
+
+(2.5) 6
+
+(2.5) 9
+
+(3.7) 9
+
+(3.7)
+
+P-value 0.36 0.78 0.044
+
+0.65
+
+Number of polyps
+
+5­29 461 10
+
+(2.2) 8
+
+(1.7) 9
+
+(2.0) 9
+
+(2.0)
+
+30 142 1
+
+(0.7) 5
+
+(3.5) 4
+
+(2.8) 11
+
+(7.7)
+
+P-value 0.47 0.20
+
+0.52
+
+0.002
+
+Family history of colonic polyps
+
+No 308 5
+
+(1.6) 8
+
+(2.6) 7
+
+(2.3) 7
+
+(2.3)
+
+Yes 295 6
+
+(2.0) 5
+
+(1.7) 6
+
+(2.0) 13
+
+(4.4)
+
+P-value 0.77 0.58
+
+1.0
+
+0.17
+
+Personal history of CRC
+
+No 484 7
+
+(1.4) 11
+
+(2.3) 12
+
+(2.5) 16
+
+(3.3)
+
+Yes 119 4
+
+(3.4) 2
+
+(1.7) 1
+
+(0.8) 4
+
+(3.4)
+
+P-value
+
+0.24
+
+1.0
+
+0.48
+
+1.0
+
+Family history of CRC
+
+No 278 5
+
+(1.8) 13
+
+(4.7) 8
+
+(2.9) 10
+
+(3.6)
+
+Yes 325 6
+
+(1.8) 0
+
+(0.0) 5
+
+(1.5) 10
+
+(3.1)
+
+P-value
+
+1.0 <0.001 0.28
+
+0.82
+
+# (%)
+11 (7.1) 10 (2.2)
+0.009
+10 (2.8) 11 (4.5)
+0.26
+14 (3.0) 7 (4.9)
+0.30
+5 (1.6) 16 (5.4)
+0.013
+20 (4.1) 1 (0.8)
+0.10
+16 (5.8) 5 (1.5)
+0.006
+
+# (%)
+30 (19.4) 47 (10.5)
+0.008
+37 (10.3) 40 (16.5)
+0.034
+50 (10.8) 27 (19.0)
+0.014
+32 (10.4) 45 (15.3)
+0.09
+65 (13.4) 12 (10.1)
+0.36
+51 (18.3) 26 (8.0)
+<0.001
+
+Page 14
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Table 4 Univariate Risk Factors (Polyp Histology) for Germline Mutations in ENG, PTEN, STK11, BMPR1A and SMAD4
+
+Ngeow et al.
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+ENG (11; 1.8%) PTEN (13; 2.2%) STK11 (13; 2.2%) BMPR1A (20; 3.3%) SMAD4 (21; 3.5%) Any Gene (77; 12.8%)
+
+Variable N #
+
+(%) #
+
+(%) #
+
+(%) #
+
+(%)
+
+Polyp Histology
+
+Hamartomas
+
+0
+
+559 10
+
+(1.8) 11
+
+(2.0) 8
+
+(1.4) 16
+
+(2.9)
+
+1 44 1
+
+(2.3) 2
+
+(4.5) 5
+
+(11.4) 4
+
+(9.1)
+
+P-value 0.57 0.24 0.001
+
+0.05
+
+Juvenile polyps
+
+0
+
+521 10
+
+(1.9) 13
+
+(2.5) 12
+
+(2.3) 10
+
+(1.9)
+
+1­17 71 1
+
+(1.4) 0
+
+(0.0) 1
+
+(1.4) 5
+
+(7.0)
+
+18 11 0
+
+(0.0) 0
+
+(0.00 0
+
+(0.0) 5
+
+(45.5)
+
+P-value 1.0 0.52
+
+1.0
+
+<0.001
+
+Ganglioneuromas
+
+0
+
+589 10
+
+(1.7) 9
+
+(1.5) 13
+
+(2.2) 19
+
+(3.2)
+
+1 14 1
+
+(7.1) 4
+
+(28.6) 0
+
+(0.0) 1
+
+(7.1)
+
+P-value
+
+0.23 <0.001
+
+1.0
+
+0.38
+
+Adenomas
+
+0­4 423 10
+
+(2.4) 10
+
+(2.4) 11
+
+(2.6) 15
+
+(3.5)
+
+5 180 1
+
+(0.6) 3
+
+(1.7) 2
+
+(1.1) 5
+
+(2.8)
+
+P-value 0.19 0.76
+
+0.36
+
+0.81
+
+Mixed histology
+
+No 588 10 (1.7) 10
+
+(1.7) 12
+
+(2.0) 18
+
+(3.1)
+
+Yes 15 1
+
+(6.7) 3
+
+(20.0) 1
+
+(6.7) 2
+
+(13.3)
+
+P-value
+
+0.24 0.003
+
+0.28
+
+0.08
+
+# (%) #
+
+19 (3.4) 2 (4.5)
+0.66
+
+63 14
+
+9 (1.7) 10 (14.1) 2 (18.2)
+<0.001
+
+53 17 7
+
+21 (3.6) 71 0 (0.0) 6
+1.0
+
+16 (3.8) 5 (2.8)
+0.63
+
+62 15
+
+20 (3.4) 1 (6.7)
+0.42
+
+69 8
+
+(%)
+(11.3) (31.8) <0.001
+(10.2) (23.9) (63.6) <0.001
+(12.1) (42.9) 0.005
+(14.7) (8.3) 0.033
+(11.7) (53.3) <0.001
+
+Page 15
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+Table 5 Univariate and Multivariate Logistic Regression Analysis of Risk Factors for Any Mutation in ENG, PTEN, STK11, BMPR1A and SMAD4
+
+Ngeow et al.
+
+Gastroenterology. Author manuscript; available in PMC 2014 June 01.
+
+Variable
+
+Univariable
+
+Multivariable
+
+OR 95% CI P-value OR 95% CI P-value
+
+Age, years
+
+ 40/< 40
+
+0.49 0.30­0.80 0.005
+
+Gender
+
+Male/Female 1.72 1.06­2.78 0.027 1.76 1.05­2.96 0.032
+
+Number of polyps
+
+30/5­29
+
+1.93 1.16­3.22 0.012
+
+Family history of colonic polyps
+
+Yes/No
+
+1.55 0.96­2.52 0.08
+
+Personal history of CRC
+
+Yes/No
+
+0.72 0.38­1.39 0.33
+
+Family history of CRC
+
+Yes/No
+
+0.39 0.23­0.64 <0.001 0.44 0.26­0.76 0.003
+
+Unspecified Hamartomas
+
+1/0 3.68 1.85­7.30 <0.001 3.05 1.39­6.67 0.005
+
+Juvenile polyps
+
+1­17/0
+
+2.78 1.50­5.14 0.001 2.33 1.22­4.47 0.010
+
+18/0
+
+15.45 4.38­54.53 <0.001 14.37 3.83­53.94 <0.001
+
+Ganglioneuromas
+
+1/0 5.47 1.84­16.23 0.002
+
+Adenomas
+
+5/0­4
+
+0.53 0.29­0.96 0.036
+
+Mixed Histology
+
+Yes/No
+
+8.59 3.02­24.44 <0.001 4.29 1.36­13.51 0.013
+
+Page 16
+
+

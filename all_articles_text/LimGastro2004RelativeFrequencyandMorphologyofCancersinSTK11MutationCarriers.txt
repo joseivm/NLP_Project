@@ -1,0 +1,177 @@
+GASTROENTEROLOGY 2004;126:1788 ­1794
+
+Relative Frequency and Morphology of Cancers in STK11 Mutation Carriers
+
+WENDY LIM,* SYLVIANE OLSCHWANG, JOSBERT J. KELLER,§ ANNE MARIE WESTERMAN,¶ FRED H. MENKO, LISA A. BOARDMAN,# RODNEY J. SCOTT,** JILL TRIMBATH, FRANCIS M. GIARDIELLO, STEPHEN B. GRUBER,§§ JOHAN J. P. GILLE,
+G. JOHAN A. OFFERHAUS,§ FELIX W. M. DE ROOIJ,¶ J. H. PAUL WILSON,¶ ALLAN D. SPIGELMAN,¶¶ ROBIN K. S. PHILLIPS, and RICHARD S. HOULSTON*
+*Section of Cancer Genetics, Institute of Cancer Research, Sutton, United Kingdom; INSERM U434, Paris, France; §Department of Pathology, Academic Medical Center, Amsterdam, The Netherlands; ¶Department of Internal Medicine, Erasmus MC University Medical Center, Rotterdam, The Netherlands; Department of Clinical Genetics and Human Genetics, VU University Medical Center, Amsterdam, The Netherlands; #Division of Gastroenterology, Department of Internal Medicine, Mayo Clinic, Mayo Foundation, Rochester, Minnesota; **Disciplines of Medical Genetics and ¶¶Surgical Science Faculty of Health, University of Newcastle, New South Wales, Australia; Department of Medicine, The Johns Hopkins University School of Medicine, Baltimore, Maryland; §§Division of Molecular Medicine and Genetics, University of Michigan, Ann Arbor, Michigan; and Polyposis Registry, St. Mark's Hospital, Watford Road, Harrow, United Kingdom
+
+Background & Aims: There is limited data on the spectrum and risk for cancer associated with germline serine/threonine protein kinase 11 (STK11) mutations that cause Peutz­Jeghers syndrome (PJS). Methods: We analyzed the incidence of cancer in 240 individuals with PJS possessing germline mutations in STK11. Results: Fifty-four cancers were found among carriers. Overall, the risk for developing cancer at ages 20, 30, 40, 50, 60, and 70 years was 1%, 3%, 19%, 32%, 63%, and 81%, respectively. Kaplan­Meier analysis showed similar cancer risks between missense and truncating mutation carriers (log-rank 2  2.48; P  0.12). There was some evidence that mutations in exon 3 of STK11 were associated with a higher cancer risk than mutations within other regions of the gene. We found no difference in overall cancer risk between male and female carriers (log-rank 2  1.31; P  0.25) or between familial and sporadic cases (log-rank 2  1.16, with 1 df; P  0.28). The most common cancers represented were gastrointestinal in origin-- gastroesophageal, small bowel, colorectal, and pancreatic--and the risk for these cancers at ages 30, 40, 50, and 60 years was 1%, 10%, 18%, and 42%, respectively. In women, the risk for breast cancer was substantially increased, being 32% by age 60 years. Conclusions: These results quantitatively show the spectrum of cancer risk associated with STK11 germline mutations in the context of PJS and provide a valuable reference for defining surveillance regimens.
+
+an increased risk for gastrointestinal and extraintestinal malignancies.
+A number of studies have sought to quantify cancer risks associated with PJS. Most have been based on small numbers and estimates of cancer risk vary markedly.3­6 To derive better estimates of the risk for various cancers associated with PJS a meta-analysis of 6 published reports was conducted by Giardiello et al.,7 unambiguously showing that the cumulative risk for all cancers was 93% by age 65. Importantly, a wide spectrum of malignancies has been described in association with PJS. In addition to an increased risk for gastrointestinal cancers, an increased risk for cancers at other sites such as breast, ovary, uterus, cervix, lung, and testis have been described.3­5,7 Also, rare tumors have been attributed to PJS, such as testicular sex cord and Sertoli-cell tumors in prepubertal boys affected with PJS leading to sexual precocity and gynecomastia,8­10 or adenoma malignum of the uterine cervix.11,12
+Germline mutations in the serine/threonine kinase gene (STK11) on chromosome 19p13.3 have been shown to cause PJS.13­15 However, between 30% and 82% of patients have no detectable mutation.6,16­25 This may indicate the existence of another PJS gene or can be explained by detection failure owing to technical reasons. Families with PJS unlinked to 19p13.3 have been reported, however, reinforcing the suggestion that the
+
+Peutz­Jeghers syndrome (PJS) is an autosomal-dominant disorder characterized by mucocutaneous pigmentation and gastrointestinal hamartomatous polyposis.1,2 In addition, patients with PJS are known to be at
+
+Abbreviations used in this paper: PJS, Peutz-Jeghers syndrome; STK11, serine/threonine protein kinase 11.
+© 2004 by the American Gastroenterological Association 0016-5085/04/$30.00
+doi:10.1053/j.gastro.2004.03.014
+
+June 2004
+
+CANCER RISK IN STK11 MUTATION CARRIERS 1789
+
+disease is genetically heterogeneous.26 Furthermore, support for the existence of a second PJS locus is provided by the finding of linkage of PJS to chromosome 19q13.4 in one large family.16
+Some studies, albeit based on small numbers, suggest that the cancer spectrum associated with PJS is different in carriers and noncarriers of STK11 mutations.6,24 Robust estimates of cancer risk and detailed descriptions of the cancer spectrum associated with PJS are of immediate clinical relevance to define cancer screening algorithms and develop chemopreventative strategies for patients with the disease. Importantly, such information should incorporate mutation status to avoid bias owing to a potential distinct phenotype in STK11-mutation­negative PJS patients. To address the shortcomings of current information on cancer risks associated with PJS we have undertaken a collaborative study of a large series of patients in whom a germline STK11 mutation has been documented.
+Materials and Methods
+Patients
+A series of PJS patients were ascertained through specialist centers within Europe, Australia, and the United States: Institute of Cancer Research, United Kingdom; INSERM U343, Paris, France; Academic Medical Center, Amsterdam, The Netherlands; Erasmus MC University Medical Center, Rotterdam, The Netherlands; VU University Medical Center, Amsterdam, The Netherlands; John Hunter Hospital, New South Wales, Australia; Mayo Clinic, Rochester, Minnesota; and The Johns Hopkins University School of Medicine, Baltimore, Maryland. The study was performed with ethical review board approval from the relevant authority in each country in accordance with the tenets of the declaration of Helsinki.
+All patients included in the study fulfilled the established criteria for a PJS diagnosis based on the presence of characteristic mucocutaneous pigmentation and histologically verified hamartomatous intestinal polyps. None of the index patients were selected for inclusion in this study preferentially because of a past history of cancer. For each patient the following data were obtained: sex, dates of birth, diagnosis of PJS, family history of PJS, and neoplasms with dates of diagnosis and dates of death. Cancers that were eligible for inclusion in the analysis were all primary tumors (excluding nonmelanotic skin cancer).
+Detection of STK11 Mutations
+Several different techniques were used to identify germline STK11 mutations-- conformational sensitive gel electrophoresis, single-strand conformational polymorphism, denaturing high-performance liquid chromatography, denaturing gradient gel electrophoresis, and direct sequencing of exons. Two centers (Institute of Cancer Research and the Mayo Clinic) additionally made use of long-range polymerase chain
+
+reactions to screen for large-scale gene deletions. Patients were classified as carriers if they or a family member with PJS had a fully characterized germline STK11 mutation. In addition, patients in whom no mutation could be shown but who were from a family linked to chromosome 19p13.4 also were considered to be carriers of a germline mutation in STK11.
+Mutations in STK11 identified in PJS patients were coded according to the published sequence of the gene (Genbank accession numbers: exon 1, AF032984; exons 2­ 8, AF032985; exon 9, AF032986) and referenced to the Human Gene Mutation Database27 adhering to standard convention.28 STK11 protein sequences of Homo sapiens (GenBank accession no. NP 000446), Mus musculus (NP 035622), and XEEK1 (Q91604) were obtained from the National Center for Biotechnology Information protein database. Alignments were made by using the Clustal W (1.82) multiple sequence alignment program.29
+Statistical Analyses
+Cancer incidence in patients was truncated at age 75 years. A classification scheme for grouping cancers by diagnosis was devised primarily based on topography to subdivide carcinomas by primary site. Cancers were coded using the 10th revision of the International Classification of Diseases. We tested for differences in cancer risk according to both mutation status and the patient's sex by using the Kaplan­Meier product-limit method. Differences in age at cancer diagnosis between male and female carriers and between those with a truncating vs. a missense mutation were assessed by using the log-rank test. We further tested for risk differences by using Cox's proportional-hazards regression model to adjust for potential confounding factors such as site of the mutation in STK11. Because most patients were isolated cases or were from small families we did not adjust for familial correlation in the proportional-hazards model. The time intervals in these regression models were the time between birth and first cancer diagnosis for those with cancer and the time between birth and last contact or death for those without cancer. The association between categoric variables was made by using either Fisher exact test or the 2 test. A P value of less than 0.05 was considered statistically significant. All statistical analyses were performed by using the statistical software program STATA, Version 7 (Stata Corporation, College Station, TX; http:// www.stata.com).
+Comparisons of the risk for cancer associated with PJS with that in the general population were based on rates abstracted from the Office of National Statistics database30 for the year 1999 using the formula (1  exponential[cumulative incidence]).31
+Results
+Data on 240 PJS patients (109 male and 131 female cases) in whom a STK11 mutation had been identified were available for analysis. A total of 188 of the patients were derived from 49 families (mean family size including proband  4; range  2­11) and 52 were apparently sporadic cases.
+
+1790 LIM ET AL.
+
+GASTROENTEROLOGY Vol. 126, No. 7
+
+Figure 1. Distribution and type of STK11 mutations detected in patients with PJS. Exons 1­ 8 encode the kinase core of STK11. Key to mutations: F, truncating; s, deletion; E, missense. Mutations not shown are 1 large deletion and 1 chromosome 11,19 translocation.
+
+STK11 Mutation Spectrum
+Seventy-eight of the mutations identified in STK11 were unique. Figure 1 shows the distribution and type of mutation identified. Forty-five mutations were truncating, leading to the creation of premature stop codons, 14 were within splice sites, 4 were deletions possibly leading to disruption of the kinase activity, and 15 were missense mutations. All of the missense changes led to nonconservative amino acid changes that were highly conserved among human, mouse, and Xenopus homologues of STK11 and resided within the expressed protein kinase core encoded by exons 1­ 8.32 In addition to the 78 unique mutations, other mutations included one chromosome 11,19 translocation and one large genomic deletion. Seven families had uncharacterized STK11 mutations. Mutations were scattered throughout the gene but no mutation in exon 9 was identified in any of the patients. The distribution of mutations within exons 1­ 8 was not random (P  0.001); truncating mutations were overrepresented in exons 1 and 6 and missense mutations were overrepresented in exons 4 and 7.
+Cumulative Cancer Risk
+A total of 54 malignant tumors were confirmed in 47 carriers. Seven patients were diagnosed with malignancy at 2 sites. Only one of the malignancies, a cancer of the sigmoid colon, had been diagnosed within the context of a specific cancer surveillance program for PJS patients. Figure 2 details the frequency and spectrum of tumors. Tumors of the gastrointestinal tract and the breast were the most commonly reported sites of malignancies. The carcinomas were subdivided by primary site
+
+and the cumulative cancer risks by site were calculated as shown in Table 1.
+Among carriers, the risk for developing a first cancer at ages 20, 30, 40, 50, 60, and 70 years was 1%, 3%, 19%, 32%, 63%, and 81%, respectively (Figure 3). The general population risk for cancer by age 60 years is 8%, hence the risk for cancer in PJS patients is increased by 8-fold (Table 1). There was no difference in the cumulative cancer risk for all types of cancer between men and women (log-rank test of difference 2  1.31, with 1 df; P  0.25) or whether cases were familial or nonfamilial (log-rank 2  1.16, with 1 df; P  0.28).
+Figure 4 shows the risk for gastrointestinal (gastroesophageal, small bowel, pancreatic, and colorectal) can-
+Figure 2. Frequency and spectrum of cancers in STK11 mutation carriers. , First cancer; s, second cancer.
+
+June 2004
+
+CANCER RISK IN STK11 MUTATION CARRIERS 1791
+
+Table 1. Cumulative Cancer Risk By Site and Age in STK11 Mutation Carriers
+
+Type of cancer
+
+20 yr
+
+Cancer risk in STK11 mutation carriers by age (95% confidence limits)
+
+30 yr
+
+40 yr
+
+50 yr
+
+60 yr
+
+70 yr
+
+Risk in population at age 60 yr
+
+All cancer (ICD C00-C97)
+Gastrointestinal (ICD C15-20,C25)
+Breast (ICD C50)
+Gynecologic (ICD C53-56)
+Lung (ICD C34)
+
+1% (0.3% to 4%) -- -- -- --
+
+3% (1% to 7%) 1% (0.1% to 5%)
+-- 3% (0.7% to 11%)
+--
+
+19% (12% to 28%) 10% (5% to 18%)
+8% (3% to 23%) 6% (2% to 18%) 1% (0.1% to 6%)
+
+32% (23% to 44%) 18% (11% to 29%) 11% (4% to 27%) 13% (5% to 31%)
+2% (0.6% to 9%)
+
+63% (49% to 78%) 42% (26% to 61%) 32% (15% to 59%) 13% (5% to 31%)
+7% (2% to 25%)
+
+81% (61% to 95%) 66% (38% to 92%)
+-- -- 7% (2% to 25%)
+
+8.5% 1.3% 4.8% 1.6% 0.8%
+
+ICD, International classification of disease.
+
+cer by age. Risks were 1%, 10%, 18%, and 42% at ages 30, 40, 50, and 60 years, respectively. Corresponding general population risks at ages 40 and 60 years in the general population are 0.1% and 1%, respectively (Table 1). Risks were similar in men and women (log-rank test of difference 2  0.26, with 1 df; P  0.61). Within the gastrointestinal tract, the colorectum was the most commonly affected site of malignancy. The risk for colorectal cancer increased from 1% at age 30 years to 5% at age 40 years and 30% at age 60 years (Table 1). The risk for colorectal cancer was higher in men than women (13 men and 4 women), although the difference did not attain statistical significance (log-rank test of difference 2  1.75, with 1 df P  0.19). Six patients (3 men and 3 women) were diagnosed with pancreatic cancers. All pancreatic carcinomas were diagnosed between ages 34 and 49 years. The risk for developing pancreatic cancer was 5% at age 40 years, increasing to 8% at age 60 years.
+In this series, 9 of the women developed breast cancer. The age at diagnosis ranged from 38 to 62 years. The risk
+
+for developing breast cancer was 8% by age 40 years and increased to 32% at age 60 years (Figure 5). The risk for breast cancer in the general population by age 60 is 5%. Hence, the risk in carriers represents a 7-fold increase in risk.
+Five gynecologic cancers (1 uterine, 2 ovarian, and 2 cervical cancers) were diagnosed in patients. Two of the cervical cancers were confirmed histologically as adenocarcinomas. The risk for these cancers was 3% at age 30 years, increasing to 13% by age 60 years. Three cases of lung cancer were reported, which equated to a risk of 7% by age 60 years. Given that the corresponding general population risk at age 60 years is 1%, this represents a 7-fold increase in risk.
+Relationship Between Genotype and Phenotype
+We analyzed for risk differences between missense and truncating mutation carriers. Thirty-four carriers with malignancy had truncating mutations and 8 were
+
+Figure 3. Risk for all cancer in carriers of germline STK11 mutations. Ages shown are the time between birth and first-cancer diagnosis for those with cancer and the time between birth and either last contact or death for those without cancer.
+
+Figure 4. Risk for gastrointestinal cancer (gastroesophageal, small bowel, colorectal, and pancreatic cancers) in carriers of germline STK11 mutations. Ages shown are the time between birth and firstcancer diagnosis for those with cancer and the time between birth and either last contact or death for those without cancer.
+
+1792 LIM ET AL.
+
+GASTROENTEROLOGY Vol. 126, No. 7
+
+Figure 5. Risk for breast cancer in carriers of germline STK11 mutations. Ages shown are the time between birth and first-cancer diagnosis for those with cancer and the time between birth and either last contact or death for those without cancer.
+associated with missense mutations. Five of the cancers occurred in patients who had uncharacterized STK11 mutations. There was no difference in the cumulative cancer risk between the mutation types for gastrointestinal (log-rank test of difference 2  1.97, with 1 df, P  0.16), breast (log-rank 2  0.08, with 1 df, P  0.77), gynecologic (log-rank test of difference 2  0.2, with 1 df, P  0.66), and all types of cancers (log-rank test of difference 2  2.48, with 1 df, P  0.12).
+There was some evidence of a relationship between mutation site and risk for all cancers, although this did not attain statistical significance (log-rank test of difference 2  13.41, with 7 df, P  0.06). Mutations involving exon 3 appeared to be associated with the greatest risk. This was largely attributable to an increased risk for gastrointestinal cancer associated with mutations in this exon (log-rank test of difference 2  18.12, with 7 df, P  0.01). There was no evidence that these risks were significantly modified by sex or a family history of PJS.
+Discussion
+In our study of 240 PJS patients with germline STK11 mutations, the highest absolute cancer risk observed was for carcinomas of the gastrointestinal tract-- esophagus, stomach, small bowel, colon, rectum, and pancreas. These cancer types are the principal malignancies identified as standard components of PJS. The major risk for extraintestinal cancer was breast cancer, with the upper confidence limit of the estimated risk being comparable with those associated with mutations in either BRCA1 or BRCA2.33
+Ascertainment bias is a concern in estimating cancer risks for any rare disorder such as PJS, potentially leading
+
+to an overinflated estimate of risk. Although we cannot entirely exclude this factor, the PJS patients on whom we estimated cancer risks were unselected for a diagnosis of cancer both in terms of morphology or primary site, thereby limiting bias. Furthermore, the cancers observed in the patients were not confined to a small number of families.
+One of the aims of the present study was to survey for minor cancer types associated with germline STK11 mutations. In contrast to other inherited cancer syndromes, the cancer risks associated with germline STK11 mutations are not site specific. Many of the cancers reported in association with PJS develop from hamartomas in which STK11 functions as a tumor suppressor. STK11, however, also plays a role in a number of pathways involved in controlling cell growth and apoptosis. Therefore, it is likely that the tumorigenic potential of mutations is mediated through alternative mechanisms in some tissues, especially those in which hamartoma development is not a feature. Somatic mutations in STK11 are common in lung cancer33 and there is evidence from our analysis, albeit based on small numbers, that germline mutations confer an increased risk for cancer at this site. One caveat to this is the fact that we had no information on smoking histories of the patients to address the confounding factor from this strong covariate.
+Single cases of testis, nasopharyngeal, prostate, myeloma, and Wilm's tumor also were observed in the patients with PJS in our study. We cannot exclude the possibility that these observations are simply the result of chance because these cancers are rare in the general population (e.g., Wilm's tumor has an incidence of only 10 per 100,000 live births).34 Hence, single cases among 240 PJS patients may be significant, raising the possibility that carrier status may be associated with an increased risk for cancer at these sites.
+Around 20% of the germline STK11 mutations identified in this series of PJS patients were missense changes. This is a higher frequency than in other familial cancer syndromes that predispose to gastrointestinal tract malignancies (i.e., hereditary nonpolyposis colorectal cancer or familial adenomatous polyposis) in which the majority of germline mutations lead to a truncated protein product.27,35 For some inherited cancer syndromes, a higher cancer risk and earlier age at cancer diagnosis have been associated with missense mutations at critical binding domains rather than with protein-inactivating mutations.36 In our study, the risk for all cancers was not significantly different between the 2 types of mutation carriers. There was, however, some evidence for a relationship between genotype and phenotype, with muta-
+
+June 2004
+
+CANCER RISK IN STK11 MUTATION CARRIERS 1793
+
+tions in the vicinity of exon 3 being associated with a higher cancer risk.
+The substantial cancer risk associated with PJS supports surveillance in patients for the early detection of tumors. Most proposed guidelines advocate upper and lower endoscopy, breast examination, and some form of surveillance for pancreatic (transabdominal and endoscopic ultrasound, abdominal computerized tomography, CA19-9) and gynecologic malignancies (ultrasound, cervical cytology, and CA125). Guidelines, however, differ considerably over when to initiate screening, intervals between screening, and which techniques to use.38­42 The optimal surveillance strategy is unclear and to date the efficacy of intensive surveillance for cancer associated with PJS has not been established.
+To date, all guidelines for cancer surveillance in PJS have been based on risk estimates from retrospective cohort studies without reference to the mutation status of patients.3­5,43,44 Studies that have estimated cancer risks in PJS generally have not incorporated information on STK11 mutation status. Those incorporating such information have only analyzed small numbers of patients.6,24 In our study we have sought to address this issue through analysis of 240 extensively documented PJS patients in whom a germline STK11 mutation has been identified. The data generated from our study should provide guidance in formulating management policies for patients harboring germline STK11 mutations. Accepting the caveat that the estimates of cancer risks we have derived may be marginally inflated because of ascertainment, our study showed that the risks for cancer, in particular gastrointestinal and breast cancer, associated with germline STK11 mutations are high and supports implementation of screening for malignancies at these sites. The risk analyses, however, suggest that cancer surveillance is probably not justified before age 20 years for gastrointestinal cancer and before age 25 years for breast cancer. Although the relative risks for some other cancers may be increased, the absolute risks for these tumors are small. Subjecting patients to regular surveillance for these malignancies is probably not justified on the basis of existing data.
+References
+1. Tomlinson IPM, Houlston RS. Peutz-Jeghers syndrome. J Med Genet 1997;34:1007­1011.
+2. Mendelian inheritance in man [on-line]. Available: http://www. ncbi.nlm.nih.gov/. Accessed: December 2003.
+3. Giardello FM, Welsh SB, Hamilton SR, Offerhaus GJA, Gittelsohn AM, Booker SV, Krush AJ, Yardley JH, Luk GD. Increased risk of cancer in the Peutz-Jeghers syndrome. N Engl J Med 1987;316: 1511­1514.
+4. Spigelman AD, Murday V, Phillips RK. Cancer and the PeutzJeghers syndrome. Gut 1989;30:1588 ­1590.
+
+5. Boardman LA, Thibodeau SN, Schaid DJ, Lindor NM, McDonnell SK, Burgart LJ, Ahlquist DA, Podratz KC, Pittelkow M, Hartmann LC. Increased risk of cancer in patients with the Peutz-Jeghers syndrome. Ann Intern Med 1998;128:896 ­ 899.
+6. Lim W, Hearle N, Shah B, Murday V, Hodgson SV, Lucassen A, Eccles D, Talbot I, Neale K, Lim AG, O'Donohue J, Donaldson A, Macdonald RC, Young ID, Robinson MH, Lee PWR, Stoodley BJ, Tomlinson I, Alderson D, Holbrook AG, Vyas S, Swarbrick ET, Lewis AAM, Phillips RKS, Houlston RS. Further observations on LKB1/STK11 status and cancer risk in Peutz-Jeghers syndrome. Br J Cancer 2003;89:308 ­313.
+7. Giardiello FM, Brensinger JD, Tersmette AC, Goodman SN, Petersen GM, Booker SV, Cruz-Correa M, Offerhaus GJA. Very high risk of cancer in familial Peutz-Jeghers syndrome. Gastroenterology 2000;19:1447­1453.
+8. Wilson DM, Pitts WC, Hintz RL, Rosenfeld RG. Testicular tumors with Peutz-Jeghers syndrome. Cancer 1986;57:2238 ­2240.
+9. Coen P, Kulin H, Ballantine T, Zaino R, Frauenhoffer E, Boal D, Inkster S, Brodie A, Santen R. An aromatase-producing sex-cord tumor resulting in prepubertal gynaecomastia. N Engl J Med 1991;324:317­322.
+10. Young S, Gooneratne S, Straus FH II, Zeller WP, Bulun SE, Rosenthal IM. Feminizing Sertoli cell tumors in boys with PeutzJeghers syndrome. Am J Surg Pathol 1995;19:50 ­58.
+11. Podczaski E, Kaminski PF, Pees RC, Singapuri K, Sorosky JI. Peutz-Jeghers syndrome with ovarian sex cord tumor with annular tubules and cervical adenoma malignum. Gynecol Oncol 1991; 42:74 ­78.
+12. Westerman AM, Wilson JHP. Peutz-Jeghers syndrome: risks of a hereditary condition. A clinical review. Scand J Gastroenterol 1999;S230:64 ­70.
+13. Hemminki A, Tomlinson I, Markie D, Jarvinen H, Sistonen P, Bjorkqvist AM, Knuutila S, Salovaara R, Bodmer W, Shibata D, de la Chapelle A, Aaltonen LA. Localization of a susceptibility locus for Peutz-Jeghers syndrome to 19p using comparative genomic hybridisation and targeted linkage analysis. Nat Genet 1997;15: 87­90.
+14. Hemminki A, Markie D, Tomlinson I, Avizienyte E, Roth S, Loukola A, Bignell G, Warren W, Aminoff M, Hoglund P, Jarvinen H, Kristo P, Pelin K, Ridanpaa M, Salovaara R, Toro T, Bodmer W, Olschwang S, Olsen AS, Stratton MR, de la Chapelle A, Aaltonen LA. A serine/threonine kinase gene defective in Peutz-Jeghers syndrome. Nature 1998;391:184 ­187.
+15. Jenne DE, Reimann H, Nezu J, Friedel W, Loff S, Jeschke R, Muller O, Back W, Zimmer M. Peutz-Jeghers syndrome is caused by mutations in a novel serine threonine kinase. Nat Genet 1998;18:38 ­ 43.
+16. Mehenni H, Gehrig C, Nezu J, Oku A, Shimane M, Rossier C, Guex N, Blouin JL, Scott HS, Antonarakis SE. Loss of LKB1 kinase activity in Peutz-Jeghers syndrome and evidence for allelic and locus heterogeneity. Am J Hum Genet 1998;63:1641­1650.
+17. Nakagawa H, Koyama K, Miyoshi Y, Ando H, Baba S, Watatani M, Yasutomi M, Matsuura N, Monden M, Nakamura Y. Nine novel germline mutations of STK11 in ten families with Peutz-Jeghers syndrome. Hum Genet 1998;103:168 ­172.
+18. Westerman AM, Entius MM, Boor PPC, Koole R, de Baar E, Offerhaus GJA, Lubinski J, Lindhout D, Halley DJJ, de Rooij FWM, Wilson JHP. Novel mutations in the LKB1/STK11 gene in Dutch Peutz-Jeghers families. Hum Mutat 1999;13:476 ­ 481.
+19. Jiang CY, Esufali S, Berk T, Gallinger S, Cohen Z, Tobi M, Redston M, Bapat B. STK11/LKB1 germline mutations are not identified in most Peutz-Jeghers syndrome patients. Clin Genet 1999;56: 136 ­141.
+20. Ylikorkala A, Avizienyte E, Tomlinson IPM, Tiainen M, Roth S, Loukola A, Hemminki A, Johansson M, Sistonen P, Markie D, Neale K, Phillips R, Zauber P, Twama T, Sampson J, Jarvinen H, Makela TP, Aaltonen LA. Mutations and impaired function of
+
+1794 LIM ET AL.
+
+GASTROENTEROLOGY Vol. 126, No. 7
+
+LKB1 in familial and non-familial Peutz-Jeghers syndrome and a sporadic testicular cancer. Hum Mol Genet 1999;8:45­51. 21. Wang Z-J, Churchman M, Avizienyte E, McKeown C, Davies S, Evans DGR, Ferguson A, Ellis I, Xu W-H, Yan Z-Y, Aaltonen LA, Tomlinson IPM. Germline mutations of the LKB1 (STK11) gene in Peutz-Jeghers patients. J Med Genet 1999;36:365­368. 22. Yoon K-A, Ku J-L, Choi HS, Heo SC, Jeong S-Y, Park YJ, Kim NK, Kim JC, Jung PM, Park J-G. Germline mutations of the gene in Korean Peutz-Jeghers syndrome patients. Br J Cancer 2000;82: 1403­1406. 23. Boardman LA, Couch FJ, Burgart LJ, Schwartz D, Berry R, McDonnell SK, Schaid DJ, Hartmann LC, Schroeder JJ, Stratakis CA, Thibodeau SN. Genetic heterogeneity in Peutz-Jeghers syndrome. Hum Mutat 2000;16:23­30. 24. Olschwang S, Boisson C, Thomas G. Peutz-Jeghers families unlinked to STK11/LKB1 gene mutations are highly predisposed to primitive biliary adenocarcinoma. J Med Genet 2001;38:356 ­ 360. 25. Scott RJ, Crooks R, Meldrum CJ, Smith C, Mowat D, McPhillips M, Spigelman AD. Mutation analysis of the STK11 gene and clinical characteristics of an Australian series of Peutz-Jeghers syndrome patients. Clin Genet 2002;62:282­287. 26. Olschwang S, Markie D, Seal S, Neale K, Phillips R, Cottrell S, Ellis I, Hodgson S, Zauber P, Spigelman A, Iwama T, Loff S, McKeown C, Marchese C, Sampson J, Davies S, Talbot I, Wyke J, Gilles-Thomas G, Bodmer W, Hemminki A, Avizienyte E, de la Chapelle A, Aaltonen L, Stratton M, Houlston R, Tomlinson I. Peutz-Jeghers' disease: most, but not all, families are compatible with linkage to 19p13.3. J Med Genet 1997;35:35­38. 27. Serine/Threonine Kinase 11 (LKB1) Human Mutation Database. Available: http://archive.uwcm.ac.uk/uwcm/mg/hgmd.html. Accessed: July 2003. 28. Antonarakis SE. The Nomenclature Working Group. Recommendations for a nomenclature system for human gene mutations. Hum Mutat 1998;11:1­3. 29. Clustal W. European Bioinformatics Institute. Available: http:// www.ebi.ac.uk/clustalw/. Accessed: July 2003. 30. National statistics. Office of National Statistics. Available: http://www.statistics.gov.uk/statbase/. Accessed: July 2003. 31. Clayton D, Hills M. Statistical methods in epidemiology. Oxford: Oxford University Press, 1993. 32. Collins SP, Reoma JL, Gamm DM, Uhler MD. LKB1, a novel serine/threonine protein kinase and potential tumour suppressor, is phosphorylated by cAMP-dependent protein kinase (PKA) and prenylated in vivo. Biochem J 2000;345:673­ 680. 33. Antoniou A, Pharoah PD, Narod S, Risch HA, Eyfjord JE, Hopper JL, Loman N, Olsson H, Johannsson O, Borg A, Pasini B, Radice P, Manoukian S, Eccles DM, Tang N, Olah E, Anton-Culver H, Warner E, Lubinski J, Gronwald J, Gorski B, Tulinius H, Thorlacius S, Eerola H, Nevanlinna H, Syrjakoski K, Kallioniemi OP, Thompson D, Evans C, Peto J, Lalloo F, Evans DG, Easton DF. Average risks of breast and ovarian cancer associated with BRCA1 or
+
+BRCA2 mutations detected in case series unselected for family history: a combined analysis of 22 studies. Am J Hum Genet 2003;72:1117­1130. 34. Hodgson SV, Maher ER. Human cancer genetics. 2nd ed. Cambridge: Cambridge University Press, 1999:108 ­115. 35. Sanchez-Cespedes M, Parrella P, Esteller M, Nomoto S, Trink B, Engles JM, Westra WH, Herman JG, Sidransky D. Inactivation of LKB1/STK11 is a common event in adenocarcinomas of the lung. Cancer Res 2002;62:3659 ­3662. 36. Fearnhead NS, Britton MP, Bodmer WF. The ABC of APC. Hum Mol Genet 2001;10:721­733. 37. Varley JM. Germline TP53 mutations and Li-Fraumeni syndrome. Hum Mutat 2003;21:313­320. 38. McGarrity TJ, Kulin HE, Zaino RJ. Peutz-Jeghers syndrome. Am J Gastroenterol 2000;95:596 ­ 604. 39. Wirtzfeld DA, Petrelli NJ, Rodriguez-Bigas MA. Hamartomatous polyposis syndrome: molecular genetics, neoplastic risk, and surveillance recommendations. Ann Surg Oncol 2001;8:319 ­ 327. 40. McGrath DR, Spigelman AD. Preventive measures in Peutz-Jeghers syndrome. Familial Cancer 2001;1:121­125. 41. Boardman LA. Heritable colorectal cancer syndromes: recognition and preventive management. Gastroenterol Clin North Am 2002;31:1107­1131. 42. Dunlop MG. Guidance on gastrointestinal surveillance for hereditary non-polyposis colorectal cancer, familial adenomatous polyposis, juvenile polyposis and Peutz-Jeghers syndrome. Gut 2002;51(Suppl 5):V21­V27. 43. The Johns Hopkins Guide for Patients and Families: PeutzJeghers syndrome (2001). Available: http://www.hopkins-gi. org/multimedia/database/hccIntro_42_PJS-Book. Accessed: July 2003. 44. Burdick D, Prior JT. Peutz-Jeghers syndrome: a clinicopathologic study of a large family with a 27 year follow-up. Cancer 1982; 50:2139 ­2146. 45. Foley TR, McGarrity TJ, Abt AB. Peutz-Jeghers syndrome: a clinicopathological survey of the "Harrisburg family" with a 49-year follow-up. Gastroenterology 1988;95:1535­1540.
+Received November 14, 2003. Accepted March 4, 2004. Address requests for reprints to: Richard S. Houlston, M.D., Section of Cancer Genetics, Brookes Lawley Building, Institute of Cancer Research, Sutton, Surrey, SM2 5NG United Kingdom. e-mail: Richard.Houlston@icr.ac.uk; fax: (44) 0-20-8722-4359. Supported by Cancer Research U.K., the Clayton Fund, the John G. Rangos Sr Charitable Fund at Johns Hopkins Hospital, and the Hunter Medical Research Institute at the John Hunter Hospital. W.L. received a grant from the Epsom Hospital National Health Service Trust Gastroenterology Research and Development Fund. The authors are grateful to the patients and clinicians who participated in this study.
+
+

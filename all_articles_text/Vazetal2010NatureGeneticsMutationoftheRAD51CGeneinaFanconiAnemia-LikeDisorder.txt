@@ -1,0 +1,440 @@
+letters
+
+© 2010 Nature America, Inc. All rights reserved. IV-5 FFFFFCAAAAAO-----JNADND12
+
+Mutation of the RAD51C gene in a Fanconi anemia­ like disorder
+
+Fiona Vaz1,10, Helmut Hanenberg2,3,10, Beatrice Schuster4, Karen Barker5, Constanze Wiek2, Verena Erven2, Kornelia Neveling4, Daniela Endt4, Ian Kesterton6, Flavia Autore7, Franca Fraternali7, Marcel Freund2, Linda Hartmann8, David Grimwade1, Roland G Roberts1, Heiner Schaal8, Shehla Mohammed9, Nazneen Rahman5, Detlev Schindler4,11 & Christopher G Mathew1,11
+
+Fanconi anemia (FA) is a rare chromosomal-instability disorder associated with a variety of developmental abnormalities, bone marrow failure and predisposition to leukemia and other cancers1. We have identified a homozygous missense mutation in the RAD51C gene in a consanguineous family with multiple severe congenital abnormalities characteristic of FA. RAD51C is a member of the RAD51-like gene family involved in homologous recombination­mediated DNA repair. The mutation results in loss of RAD51 focus formation in response to DNA damage and in increased cellular sensitivity to the DNA interstrand crosslinking agent mitomycin C and the topoisomerase-1 inhibitor camptothecin. Thus, biallelic germline mutations in a RAD51 paralog are associated with an FA-like syndrome.
+FA is a highly heterogeneous disorder, arising from biallelic mutations in one of at least 13 different genes (FANCA, FANCB, FANCC, BRCA2 (FANCD1), FANCD2, FANCE, FANCF, FANCG, FANCI, BRIP1 (FANCJ), FANCL, FANCM and PALB2 (FANCN); ref. 1). A key step in the FA pathway is monoubiquitination of FANCD2 and FANCI, which requires the presence of a core complex of FA and FA-associated proteins. This post-translational modification is intact in FA groups D1, J and N, which therefore appear to function downstream of the core and I-D2 complexes1. Most individuals diagnosed with FA have germline defects in one of the known FA genes. However, identification of the causal genetic defects in the small minority of individuals with unclassified FA may offer important insights into the function of the FA pathway in inherited disorders and cancer.
+The pedigree and genetic analysis of the family investigated in this study is shown in Figure 1 and clinical and laboratory details are summarized in Table 1. The parents of the affected children are first cousins of Pakistani origin (Fig. 1a). A daughter (IV-3) died at
+
+2 months of age with multiple congenital abnormalities, including one absent and one vestigial thumb, a congenital heart defect, imperforate anus and hydronephrosis. Her lymphocytes showed elevated chromosome breakage after treatment with the DNA interstrand cross-linking (ICL) agent mitomycin C (MMC), indicating a diagnosis of FA. A son (IV-2) died 2 d after birth with congenital abnormalities similar
+
+a
+I
+II III
+12 IV
+1 2 34
+b
+Cell line Size (kDa)
+115500
+150 150
+
+c III­1 III­2 IV­1 IV­3 IV­5
+
+rs1406012 TT TT EME1
+
+TT TT TT 45M
+
+rs203024 AC rs963292 CT
+
+AC CT
+
+AA CC CC TT CC CC 50M
+
+17q23
+
+RAD51C (R258H) AG AG GG AA AA 55M rs1296279 CT CT TT CC CC rs725900 CT TT CT TT TT 57M
+
+5
+
+BRIP1 (rs717962)
+
+GG
+
+AG
+
+AG GG GG
+
+d
+
+Protein FANCD2-L FANCD2-S BRIP1 BRCA2
+
+Parent III-1
+Normal IV-1
+
+TTCNT AC
+
+PALB2 Loading
+
+Affected IV-5
+
+Figure 1 Genetic analysis of the family carrying an FA-like disorder. (a) Pedigree of the family. (b) Protein blot of fibroblasts from subject IV-5 and of other FA cell lines (FA-D2, FA-J, FA-D1, FA-N and FA-A denote lines with mutations in FANCD2, BRIP1, BRCA2, PALB2 and FANCA, respectively); ubiquitinated FANCD2 (FANCD2-L) and nonubiquitinated FANCD2 (FANCD2-S) and other downstream FANC proteins are present in cells from IV-5. CON, unaffected control; loading control is RAD50. (c) Linkage analysis with SNPs on chromosome 17q23. M, megabases. The first fully informative SNP rs203024 is distal to EME1. (d) Sequencing of the mutation in RAD51C (G773A) in family members.
+
+1Department of Medical and Molecular Genetics, King's College London School of Medicine, Guy's Hospital, London, UK. 2Department of Pediatric Hematology, Oncology and Clinical Immunology, Children's Hospital, Heinrich Heine University, Düsseldorf, Germany. 3Department of Pediatrics, Wells Center for Pediatric Research, Riley Hospital, Indiana University School of Medicine, Indianapolis, Indiana, USA. 4Department of Human Genetics, University of Würzburg, Würzburg, Germany. 5Section of Cancer Genetics, Institute of Cancer Research, Sutton, Surrey, UK. 6Cytogenetics Laboratory, Genetics Centre, Guy's and St. Thomas' NHS Foundation Trust, Guy's Hospital, London, UK. 7Randall Division of Cell and Molecular Biophysics, King's College London, New Hunt's House, Guy's Hospital, London, UK. 8Institute of Virology, Heinrich Heine University, Düsseldorf, Germany. 9Department of Clinical Genetics, Guy's and St. Thomas' NHS Foundation Trust, Guy's Hospital, London, UK. 10These authors contributed equally to this work. 11These authors contributed equally to the direction of this work. Correspondence should be addressed to C.G.M. (christopher.mathew@genetics.kcl.ac.uk), H.H. (helmut.hanenberg@uni-duesseldorf.de) or D.S. (schindler@biozentrum.uni-wuerzburg.de).
+Received 9 November 2009; accepted 22 March 2010; published online 18 April 2010; doi:10.1038/ng.570
+
+406
+
+VOLUME 42 | NUMBER 5 | MAY 2010 Nature Genetics
+
+letters
+
+© 2010 Nature America, Inc. All rights reserved.
+
+Table 1 Clinical and laboratory data for siblings family
+
+which the unaffected sibling either was hetero
+
+Sibling gender Clinical phenotype
+
+Status
+
+Chromosome breakagea
+
+zygous or was homozygous for the opposite
+
+IV-1 Female No features of FA
+
+Well, aged 22 years
+
+Blood lymphocytes IV-1: 0.01 (Sp); 0.03 (MMC)
+
+allele (Supplementary Table 1). The largest of these was a 14.6-Mb region on chromosome
+
+IV-2 Male IV-3 Female
+
+Intestinal, anal and respiratory abnormalities
+Absent and vestigial thumb Severe congenital heart disease
+
+Died age 2 d Died age 2 months
+
+Control: 0.02 (Sp); 0.06 (MMC) Conclusion: normal Not done
+Blood lymphocytes IV-3: 0.07 (Sp); 0.90 (MMC); 17 multiradials in 80 metaphases
+
+17q21­q24 that was of particular interest (Fig. 1c), as it contained three genes involved
+in DNA repair (EME1, RAD51C (RAD51L2)
+and BRIP1) for which loss of function is asso-
+ciated with hypersensitivity to DNA interstrand cross-linking agents3,4. Sequencing of
+
+IV-4 IV-5 Male
+
+Hydronephrosis Imperforate anus
+Unknown
+Bilateral radial hypoplasia Long, slim fingers with proximally placed thumbs Hypoplastic thenar
+
+Control: 0.02 (sp); 0.06 (MMC) Conclusion: elevated
+
+Miscarriage at 11 weeks Not done
+
+10 years old
+
+Blood lymphocytes 0.12 (Sp); 0.38 (DEB); 5 multiradials in 100 metaphases Control: 0.0 (Sp), 0.04 (DEB)
+
+the coding regions of EME1 in the index case (IV-5) revealed heterozygosity for multiple common intragenic polymorphisms, consistent with the fact that EME1 is actually located 1.6 Mb proximal to the first fully informative SNP in this region (rs203024; see Fig. 1c). The
+
+eminences Bilateral cystic kidneys Duodenal web Anal/rectal atresia Mild hypothyroidism
+
+Fibroblasts IV-5: 0.15 (Sp); 1.24 (MMC) Control: 0.03 (Sp); 0.09 (MMC)
+
+region of linkage includes BRIP1 (haplotype formed by SNPs rs725900 and rs717962), but this gene had already been excluded through protein blotting and sequencing
+
+Undescended testes Small genitalia
+
+Conclusion: elevated
+
+(see above). Sequencing of the nine exons and splice sites of the RAD51 paralog RAD51C in
+
+aMean breaks per cell occurring either spontaneously (Sp) or induced by MMC or DEB. Rates of multiradials were observed in stressed cultures.
+
+IV-5 revealed homozygosity for a mutation (G773A) in exon 5, which results in the amino
+
+to IV-3, and a fourth pregnancy (IV-4) miscarried at 11 weeks. The acid substitution R258H (Fig. 1d). The other affected sibling (IV-3)
+
+youngest child (IV-5), now aged 10 years, has extensive congenital was also homozygous for this mutation; the parents were heterozygous,
+
+abnormalities including short stature, bilateral radial hypoplasia, anal and the child without FA-like abnormalities and with normal ICL
+
+atresia, bilateral cryptorchidism, small genitalia, bilateral cystic dys- sensitivity (IV-1) was homozygous for the wild-type sequence. The
+
+plasia of the kidneys and chronic renal failure. Chromosome break- mutation was not present in 47 regionally and ethnically matched
+
+age testing of primary cultured fibroblasts showed clearly elevated controls from the Lahore region of Pakistan. Sequencing of RAD51C
+
+breakage after exposure to MMC and diepoxybutane (DEB; Fig. 2a coding regions in 21 subjects with FA excluded from the known com-
+
+and Table 1), and cell cycle analysis of primary lymphocytes and cul- plementation groups with intact FANCD2 monoubiquitination did
+
+tured fibroblasts showed pronounced arrest in G2 after MMC treat- not detect any additional mutations. The potential functional impor-
+
+ment (Fig. 2b,c). The diagnosis of FA in this family was based on the tance of the R258H mutation is supported by the fact that the arginine
+
+presence of characteristic congenital abnormalities and the elevated residue is conserved in RAD51C proteins from a wide range of species,
+
+sensitivity of cells from the siblings IV-3 and IV-5 to ICL agents. The including chicken, zebrafish, sea urchin and thale cress, and is also
+
+only surviving affected child (IV-5) has not developed hematological conserved in RAD51 itself and in two of the RAD51-like proteins,
+
+abnormalities or cancer by age 10 years. In the absence of hemato RAD51B (RAD51L1) and XRCC3 (Supplementary Fig. 1).
+
+logical symptoms thus far, we will refer to the clinical phenotype in To determine whether R258H was the causal mutation in this fam-
+
+this family as a Fanconi anemia­like disorder. However, the age of ily, we transduced primary fibroblasts from subject IV-5 (SH2038-F)
+
+onset of these features in FA is variable, and cumulative incidence with a retroviral vector containing wild-type RAD51C cDNA, the
+
+data from North American and German Registries indicate that by age RAD51CG773A mutant, or a control vector transferring either the neo10 only 30­35% of individuals with FA have bone marrow failure, and mycin phosphotransferase II (nptII) or the puromycin N-acetyl-trans-
+
+less than 3% have developed leukemia or solid tumors2.
+
+ferase (pac) gene, selected the cells in G418 or puromycin and analyzed
+
+Transduction of primary fibroblasts from IV-5 (SH2038-F) with cell cycle distributions after exposure of cells to 36 nM MMC for
+
+retroviral vectors containing the FANCA, FANCB, FANCC, FANCE, 48 h (Online Methods and Supplementary Fig. 2). The results showed
+
+FANCF, FANCG or FANCL complementary DNAs did not com- that G2 arrest of the affected individual's fibroblasts was rescued
+
+plement G2 arrest (data not shown). Protein blotting showed that specifically by expression of the wild-type RAD51C (Fig. 2c,d) but
+
+FANCD2 and its monoubiquitinated form were present, suggesting a not by vector-mediated overexpression of the RAD51CG773A mutant downstream defect in the FA pathway, and also confirmed the presence cDNA (Fig. 2e). We also tested the effect of the mutation by expressing
+
+of the BRCA2, BRIP1 and PALB2 proteins (Fig. 1b). Sequencing of the the wild-type or mutant RAD51C in two other eukaryotic cell lines
+
+exons and adjacent splice sites of the BRIP1, BRCA2 and PALB2 genes that are deficient in the RAD51C protein. The hamster cell line irs3
+
+detected only known noncoding or synonymous polymorphisms. has a splice-site mutation in Rad51c that causes skipping of exon 6
+
+These data indicated that the family was likely to have a mutation in (ref. 5). We performed cell cycle analysis after MMC challenge of irs3
+
+the FA/BRCA pathway in a previously unrecognized gene that func- cells that had been transduced with retroviral vectors containing either
+
+tions downstream of the FA core and I-D2 complexes.
+
+the human wild-type or the mutant RAD51CG773A cDNA. The results
+
+We genotyped DNA from the parents, the unaffected daughter (Fig. 2f­h) demonstrated that whereas the wild-type protein restored
+
+(IV-1), and the two affected children (IV-3 and IV-5) on the Affymetrix MMC resistance in irs3 cells, expression of the mutant protein resulted
+
+10K SNP array to search for candidate regions containing the causal in only a modest degree of correction of cross-linker sensitivity when
+
+gene by autozygosity mapping (Online Methods). The affected siblings compared to transduction with the control vector. This suggests that
+
+showed seven substantial regions of shared homozygosity (>3 Mb) for R258H is a hypomorphic mutant, at least in the context of this cell line
+
+Nature Genetics VOLUME 42 | NUMBER 5 | MAY 2010
+
+407
+
+letters
+
+© 2010 Nature America, Inc. All rights reserved. Relative number of cells (%) Relative number of cells (%)
+
+a
+
+c de
+
+i
+
+100
+
+G1 75
+
+SH2038-F pac control
+
+G1
+
+SH2038-F +RAD51C (WT)
+
+G1
+
+SH2038-F +RAD51CG773A
+
+100 Rad51c-DT40
+80 complementation
+
+50 G2
+
+60 G2 40
+
+Cells alive (%)
+
+b 100 75
+
+G1
+
+50
+
+PBL AFF versus CON
+G2 AFF
+
+25
+
+S
+
+f100
+
+irs3 pac control
+
+75 G2
+
+G1 50
+
+G2
+S
+g irs3
+G1 +RAD51C (WT)
+
+S
+h irs3
+G1 +RAD51CG773A
+G2
+
+20
+
+00 10 100
+
+j 50
+
+MMC concentration (nM)
+RAD51 foci
+
+40
+
+30
+
+CON +RSAHD25013C8(-FWT)
+
+Nuclei with >10 foci (%)
+
+pacScHo2n0tr3o8l-F
+
+25 CON
+
+G2
+
+S 25
+
+00 128 256 384 512
+
+S
+
+SS
+
+DNA content
+
+0 0 128 256 384 0 128 256 384 0 128 256 384 512
+
+20 10
+0
+
+DNA content
+
+Figure 2 Functional analysis of the RAD51C alleles. (a) Fibroblast metaphase after exposure of the culture to 10 ng/ml MMC shows chromatid-type breakage and a radial rejoining figure (arrows). (b) Cell cycle distribution of peripheral blood lymphocyte culture from subject IV-5 shows increased G2 arrest (37.4% of cells in G2) in response to 45 nM MMC (AFF, light gray) compared to an unaffected control (18.4%; CON, dark gray overlay). (c) Untransduced
+(not shown) or pac (mock)-transduced fibroblasts from subject IV-5 (SH2038-F) show elevated G2 phase arrest (47.3 ± 8.5%, n = 4 experiments) after exposure to 36 nM MMC. (d) Transduction of SH2038-F cells with wild-type (WT) RAD51C rescues G2 arrest (22.6 ± 0.6%, n = 4, P < 0.005) under the same conditions as in c. (e) Transduction with mutant RAD51CG773A leads to a marginal decrease in G2 arrest (41.5 ± 2.3%, n = 4, not significant compared to mock transduction, P = 0.24). (f) Untransduced (not shown) or pac-transduced Rad51c-deficient hamster irs3 cells show elevated G2 phase arrest (42.5 ± 3.5%, n = 3) after exposure to 36 nM MMC. (g) Transduction of irs3 cells with human wild-type RAD51C rescues G2 arrest (16.4 ± 0.6%, n = 3, P < 0.001) under the same conditions as in f. (h) Transduction with mutant RAD51CG773A leads to a moderate decrease in G2 arrest (30.5 ± 2.7%, n = 3, P < 0.005) compared to mock transduction. (i) Increased survival rates indicate successful complementation of RAD51C-DT40 chicken cells by human wild-type RAD51C (dashed line) but not by the mutant RAD51CG773A (dotted line); the solid line is from uncorrected cells transduced with control vector. Error bars are s.d. from three experiments. (j) SH-2038 fibroblasts from subject IV-5 are defective in the formation of RAD51 nuclear foci after
+exposure to MMC (2.8 ± 2.2% positive cells, n = 4). Transduction with wild-type RAD51C rescued their proficiency (25.9 ± 4.0% positive cells, n = 4, P < 0.001) to a degree that was similar to unaffected control (CON) fibroblasts (31.6 ± 6.9% positive cells). Error bars, s.d.
+
+and the cell cycle assay. The effect of the mutation was also tested in chicken RAD51C-DT40 cells in which the RAD51C ortholog is disrupted by recombination6. Expression of human wild-type RAD51C complemented the sensitivity of RAD51C-mutant cells to MMC, whereas expression from the human RAD51C cDNA with the G773A mutation did not (Fig. 2i). The specificity of correction of the MMCsensitive phenotype was confirmed further by the finding that expression of wild-type RAD51C cDNA in 18 FA cell lines from different upstream and downstream complementation groups did not rescue the characteristic G2 arrest in any of these cell lines (data not shown). These data verify that RAD51C is the gene responsible for the cellular phenotype in this family and that R258H is the causal mutation. We suggest a provisional assignment for the FA in this family as FA-O.
+We investigated the possible structural effect of the R258H mutation by homology-modeling the structure of RAD51C from the crystal structure of the archaeal rad51 protein of Pyrococcus furiosus7 (PDB 1PZN; Online Methods). The arginine residue 258 is located on helix 13 in close proximity to helix 12 and faces residues Ser304 and Glu303 of the loop-connecting strands 5 and 6 (ref. 7). In the wildtype protein, Arg258 is in close contact (hydrogen-bond distance) with the carbonyl backbone of Glu303. Substitution of arginine with histidine in the model disrupts this interaction (Supplementary Fig. 3) and changes the electrostatic surface of this region from slightly positive to slightly negative. Together, these structural perturbations could result in rearrangement of the neighboring secondary structure
+
+elements, with relative displacement of the N-terminal and ATPase domains, and thus may affect higher-order structures such as the heptameric ring described for archaeal rad51 (ref. 7). The mutation does not appear to have a major effect on the stability of the protein, as the protein was readily detectable in the affected individual's fibroblasts on protein blots (data not shown).
+As the loss of functional RAD51C protein in eukaryotic cells is associated with impaired formation of RAD51 foci in response to DNA damage4­6, we looked for this phenotype in cells from subject IV-5. We found that RAD51 focus formation in response to MMC treatment was greatly reduced in the affected individual's fibroblasts and that this defect was corrected by transduction with wild-type RAD51C (Fig. 2j). This result strongly supports the genetic and functional complementation data that identified loss of RAD51C function as the primary defect in this family. The effect of the RAD51C mutation on RAD51 focus formation is shared with two of the downstream FA complementation groups, FA-D1 and FA-N, caused by mutations in BRCA2 and PALB2, respectively, which encode two proteins that themselves have important roles in homologous recombination­based DNA repair8. The loss of RAD51 focus formation in response to interstrand cross-link­induced DNA damage prompted us to test fibroblasts from subject IV-5 for sensitivity to irradiation. As found in other FA complementation groups, the cells showed only modest radiosensitivity, which was, however, complemented by transduction with wild-type RAD51C (Supplementary Table 2). We also tested lymphoblastoid cells
+
+408
+
+VOLUME 42 | NUMBER 5 | MAY 2010 Nature Genetics
+
+letters
+
+© 2010 Nature America, Inc. All rights reserved.
+
+No virus
+
+100
+
+Control virus
+
+RAD51Cdeficient
+
+RAD51C-R258H virus
+
+cells
+
+80 (SH2038-L)
+
+RAD51C-WT virus
+
+Non-FA 60 FA-D1
+
+FA-N 40
+
+Surviving cells (%)
+
+20
+
+0 0 1 10 100
+Camptothecin (nM)
+Figure 3 Camptothecin (CPT) sensitivity of lymphoblasts from subject IV-5. SH2038-L cells were tested for CPT sensitivity before transduction (no virus) or after transduction with control virus (no RAD51C insert), RAD51C with the R258H mutation, or wild-type RAD51C. Results for CPT-sensitive FA lymphoblastoid cell lines from FA groups FA-D1 and FA-N, and from a normal control line, are shown for comparison. The CPT sensitivity of SH2038-L is complemented by wild-type but not by mutant RAD51C (data shown is the mean plus or minus the one-sided s.d. from four experiments).
+
+(SH2038-L) from the affected individual for sensitivity to the topoisomerase inhibitor camptothecin, as cells from other downstream FA groups, FA-D1 and FA-N (and FANCM-deficient cells), have recently been shown to be sensitive to this agent9. The RAD51C-deficient cells did show increased camptothecin sensitivity, which was corrected by wild-type RAD51C but not by cDNAs encoding the R258H mutant (Fig. 3). Although the camptothecin sensitivity was less marked in the affected individual's cells than in the FA-D1 and FA-N lines, these data are consistent with an FA core complex­independent role for RAD51C in addition to BRCA2, PALB2 and FANCM (ref. 9).
+This study is, to our knowledge, the first report of the association of a mutation in RAD51C with a human disorder. The rarity of RAD51C mutations in humans is consistent with the fact that absence of Rad51c in mice causes early embryonic lethality, and there is partial embryonic lethality in Rad51cko/+ mice10, whereas a hypomorphic Rad51c mouse model that expressed 5­30% of normal levels of the protein had normal growth and development but reduced fertility11. Thus the R258H mutation in this family may be associated with some residual function of RAD51C, as suggested by partial correction of cell cycle arrest in the hamster cell line irs3. Nonetheless, affected family members have experienced severe congenital abnormalities, some of which, such as imperforate anus and cystic kidneys with renal failure, have also been described in individuals with FA having bilateral mutations in BRCA2 and PALB2 (ref. 1). However, the absence of malignancies in subject IV-5 at the age of 10 years suggests that RAD51C deficiency may be associated with a less cancer-susceptible phenotype than that in the FA groups FA-D1 and FA-N.
+RAD51C is known to have an important role in RAD51-mediated recombination12,13 and recently has been shown to persist at sites of DNA damage after disassembly of RAD51 nucleoprotein filaments14. However, it also appears to be required for activation of the checkpoint kinase CHK2 and cell cycle arrest in response to DNA damage14. These characteristics suggest that RAD51C and the other RAD51 paralogs may merit screening as candidate genes in families with FA-like disease and in familial cancers with undefined mutations. Indeed, in a companion paper in this issue, we demonstrate the presence of truncating and missense mutations in RAD51C in familial breast and ovarian cancer15.
+
+Methods Methods and any associated references are available in the online version of the paper at http://www.nature.com/naturegenetics/.
+Note: Supplementary information is available on the Nature Genetics website.
+Acknowledgments We thank affected individuals and their families for providing samples for this study and for donations to FA research. DNA from matched Pakistani controls was kindly provided by D.A. Khan (Department of Pathology, Army Medical College, Rawalpindi, Pakistan). We thank B. Xia (Department of Radiation Oncology, The Cancer Institute of New Jersey) for providing the PALB2 antibody, A. Sobeck for initial cloning of RAD51C cDNA and R. Kalb and E. Velleuer for constructing an early version of the RAD51C vector and for preliminary analysis. The Rad51cdeficient hamster irs3 cells were a kind gift from J. Thacker (Medical Research Council UK Radiation and Genome Stability Unit), provided by G. Illiakis (Institute of Medical Radiation Biology, University of Duisburg-Essen Medical School). We thank E. Manners for editorial assistance. We are indebted to R. Friedl for flow cytometry and to B. Gottwald and W. Kuss for expert technical assistance. Research in our laboratories was supported by the Medical Research Council UK and the Daniel Ayling Trust (F.V.), the Forschungskommission of the Heinrich Heine University, Düsseldorf (M.F., H.H.), the Deutsche Forschungsgemeinschaft SPP1230 (H.H.), the Bundesministerium für Bildung und Forschung network for congenital bone marrow failure syndromes (H.H., H.S., D.S.), the Deutsche Fanconi Anaemie Hilfe, the Aktionskreis Fanconi Anaemie and the Schroeder Kurth Fund (D.S., H.H.), the Jürgen-Manchot-Stiftung (L.H., H.S.), Cancer Research UK (K.B., N.R.) and European Molecular Biology Organization fellowship ASTF 177-2008 (F.A.).
+AUTHOR CONTRIBUTIONS The study was designed by C.G.M., D.S. and H.H. Phenotypic assessment, sample collection and characterization of FA subgroups were performed by S.M., H.H., D.S., F.V., C.G.M., I.K., C.W., B.S., V.E., K.N. and D.E. Genetic mapping, mutation analysis and functional studies were carried out by F.V., K.B., C.W., B.S., V.E., K.N., D.E., M.F. and L.H. under the supervision of H.H., H.S., D.G., D.S., N.R. and C.G.M. Bioinformatic and structural studies were done by R.G.R., F.A. and F.F. The manuscript was written by C.G.M., D.S. and H.H., with help from the other authors.
+COMPETING FINANCIAL INTERESTS The authors declare no competing financial interests.
+Published online at http://www.nature.com/naturegenetics/. Reprints and permissions information is available online at http://npg.nature.com/ reprintsandpermissions/.
+1. Moldovan, G.-L. & D'Andrea, A.D. How the Fanconi anemia pathway guards the genome. Annu. Rev. Genet. 43, 223­249 (2009).
+2. Rosenberg, P.S. et al. Cancer risks in Fanconi anemia: findings from the German Fanconi Anemia Registry. Haematologica 93, 511­517 (2008).
+3. Abraham, J. et al. Eme1 is involved in DNA damage processing and maintenance of genomic stability in mammalian cells. EMBO J. 22, 6137­6147 (2003).
+4. Godthelp, B.C. et al. Mammalian Rad51C contributes to DNA cross-link resistance, sister chromatid cohesion and genomic stability. Nucleic Acids Res. 30, 2172­2182 (2002).
+5. French, C.A. et al. Role of mammalian RAD51L2 (RAD51C) in recombination and genetic stability. J. Biol. Chem. 277, 19322­19330 (2002).
+6. Takata, M. et al. Chromosome instability and defective recombinational repair in knockout mutants of the five Rad51 paralogs. Mol. Cell. Biol. 21, 2858­2866 (2001).
+7. Shin, D.S. et al. Full length archaeal Rad51 structure and mutants: mechanisms for RAD51 assembly and control by BRCA2. EMBO J. 22, 4566­4576 (2003).
+8. Livingston, D.M. Cancer. Complicated supercomplexes. Science 324, 602­603 (2009).
+9. Singh, T.R. et al. Impaired FANCD2 monoubiquitination and hypersensitivity to camptothecin uniquely characterize Fanconi anemia complementation group M. Blood 114, 174­180 (2009).
+10.Kuznetsov, S.G. et al. Loss of Rad51c leads to embryonic lethality and modulation of Trp53-dependent tumorigenesis in mice. Cancer Res. 69, 863­872 (2009).
+11.Kuznetsov, S. et al. RAD51C deficiency in mice results in early prophase I arrest in males and sister chromatid separation at metaphase II in females. J. Cell Biol. 176, 581­592 (2007).
+12.Liu, Y. et al. RAD51C is required for Holliday junction processing in mammalian cells. Science 303, 243­246 (2004).
+13.Liu, Y. et al. Role of RAD51C and XRCC3 in genetic recombination and DNA repair. J. Biol. Chem. 282, 1973­1979 (2007).
+14.Badie, S. et al. RAD51C facilitates checkpoint signaling by promoting CHK2 phosphorylation. J. Cell Biol. 185, 587­600 (2009).
+15.Meindl, A. et al. Germline mutations in breast and ovarian cancer pedigrees establish RAD51C as a human cancer susceptibility gene. Nat. Genet. advance online publication, doi:10.1038/ng.569 (18 April 2010).
+
+Nature Genetics VOLUME 42 | NUMBER 5 | MAY 2010
+
+409
+
+© 2010 Nature America, Inc. All rights reserved.
+
+ONLINE METHODS Samples and cell lines. The family in question was referred to the Department of Clinical Genetics at Guy's Hospital. We took blood samples and skin biopsy specimens, after obtaining informed consent for all participants and ethical board approval (07/Q0702/69), to test for chromosome breakage, to obtain genomic DNA and to generate cell lines. Fibroblasts (SH2038-F) were grown from pieces of the skin explant, and a lymphoblast cell line (SH2038-L) was established by ex vivo EBV transformation of B lymphocytes. Since the family originated from the Lahore region of Pakistan, we obtained a panel of 47 control DNAs established by the Department of Pathology at the Army Medical College (Rawalpindi, Pakistan) to test for the presence of the RAD51C R258H mutation. Rad51c-DT40 cells were purchased from the Riken BRC Cell Bank. Rad51c-deficient irs3 cells were kindly provided from J. Thacker5 by G. Illiakis.
+Chromosome breakage test. Chromosome breakage analysis was performed according to established protocols16. Phytohemagglutinin-stimulated peripheral blood was cultured either with or without MMC at a final concentration of 30 ng/ml, or with or without DEB at a final concentration of 100 ng/ml, for 48­72 h in parallel with an identically treated healthy control sample. We analyzed the resulting metaphase spreads by light microscopy and scored them for chromosomal instability. We compared the affected individual's results with those of the control and established laboratory ranges. Cultured fibroblasts (SH2038-F) were tested similarly but using a 36-h exposure to MMC at a final concentration of 10 ng/ml.
+Radiosensitivity assay. Confluent primary fibroblasts were trypsinized, centrifuged and resuspended at 2 × 105 per milliliter in MEM media. Aliquots were transferred into CryoTube vials and irradiated with 1, 1.5, 2, 3, 4 or 5 Gy using a 6-MV linear accelerator (Siemens) as photon source. We plated cells in triplicate into 60-mm Petri dishes at 500­6,000 cells per dish, depending on the irradiation dose applied. Earle's MEM with 15% (vol/vol) fetal bovine serum was replaced every 3­4 d. After a growth period of 2 weeks, colonies (>20 cells) were stained with 1% (wt/vol) crystal violet in 20% (vol/vol) ethanol. Clones were counted on a projection screen. Means and standard errors of the ratio of colony number relative to the number of seeded cells were calculated individually and plotted as colony survival fraction versus radiation dosage. We derived survival data from three separate experiments. Cell lines studied were RAD51C-deficient SH2038-F cells and their RAD51C-complemented isogenic counterparts; ataxia telangiectasia Aa026 (ref. 17), DNA-ligase IVdeficient GYMN (ref. 18) and RAD50-deficient F239 (ref. 19) cell lines were included as radiosensitive controls. We fitted dose-response curves to the linear quadratic model SF = exp(-aX ­ bX2), where SF is the survival fraction, X the radiation dose, and a and b are fitted parameters. We did calculations using Origin 5.0 (MicroCal Software) and generated graphs using SigmaPlot 10 (Systat Software).
+Camptothecin sensitivity of RAD51C-deficient cells. The lymphoblast cell line from the index individual (SH2038-L) was transduced with control virus or vectors expressing either the wild-type RAD51C or the mutant RAD51C R258H cDNAs. G418 resistant cells (3 × 105) were exposed to increasing doses (0, 1, 3.3, 10, 33.3 and 100 nM) of camptothecin (Sigma). After 5 d the cultures were harvested, stained with propidium iodide and analyzed on a FACSCalibur flow cytometer (BD Bioscience). For each data point, we collected 104 events using the CellQuest software. Results are shown for three or four different experiments as mean ± s.d. Survival of SH2038-L cells was compared with that of the PALB2-deficient (FA-N) LNEY cell line20, the BRCA2-deficient (FA-D1) FA62 cell line21 and a normal control, LCL (ref. 22).
+Cell cycle analysis. We exposed native or transduced cells to 36 nM (12 ng/ml; fibroblasts, irs3 cells) or 45 nM (15 ng/ml; blood lymphocytes, lymphoblastoid cells) MMC for 48 h, harvested them and stained them with 4-6-diamidino2-phenylindole (DAPI) at a final concentration of 1 µg/ml in a buffer containing 154 mM NaCl, 1 mM CaCl2, 0.5 mM MgCl2, 0.1 M Tris, 0.2% (wt/vol) BSA and 0.1% (vol/vol) NP40 for 30 min in the dark. Alternatively, we fixed cells with 70% (vol/vol) methanol for at least 1 h at -20 °C, resuspended them in PBS and stained them with propidium iodide at a final concentration of
+
+50 µg/ml while treating them with 25 U/ml RNase A for 30 min at 37 °C in the dark. We recorded univariate flow histograms on an analytical, triple-laserequipped flow cytometer (LSRII, Becton Dickinson) using 355-nm Lightwave solid-state modelock laser excitation of the DAPI dye or sapphire 488-nm solid-state laser excitation of propidium iodide. We quantified the resulting cell cycle distributions, reflecting cellular DNA content, using the MPLUS AV software package (Phoenix Flow Systems).
+Phenotypic correction of FA cells by retroviral transduction. The control vector S11IN, expressing an IRES-nptII cassette, and the vector S11RCIN, expressing additionally wild-type RAD51C cDNA, were constructed using methods previously described (ref. 23 and Supplementary Fig. 2). We generated the S11IP and the S11RCIP vectors by replacing neomycin phosphotransferase II (nptII) with puromycin N-acetyl-transferase (pac) cDNA using standard procedures. The missense mutation encoding the G773A substitution was introduced using the QuikChange Site-Directed Mutagenesis kit (Stratagene) according to the manufacturer's instructions. Generation of stable oncoretroviral cell lines and transduction of adherent and nonadherent cells were performed as described22,24,25. Transduced cells were selected in G418 or puromycin for 7­14 d, challenged with MMC and then assayed by flow cytometry. We analyzed transduced human fibroblasts and irs3 cells by cell cycle analysis for rescue of G2-phase arrest as described above. We analyzed Rad51c-DT40 cells for survival rates after 3 d, in increasing concentrations of MMC, using propidium iodide to discriminate live cells from dead cells as described22.
+Immunoblotting. We performed immunoblots with samples containing 50 µg of total protein on 7% or 3­8% (for BRCA2) NuPage Tris-acetate polyacrylamide gels (Invitrogen). Membranes were probed with mouse monoclonal anti-FANCD2 (1:800; Santa Cruz sc-20022), rabbit polyclonal anti-BRIP1 (1:1,000; Novus NB100-416) or rabbit polyclonal anti-BRCA2 (1:500; Calbiochem PC146). Rabbit polyclonal anti-PALB2 (1:1,000) was a kind gift of B. Xia. Secondary antibodies included sheep anti-mouse IgG (GE Healthcare RPN4201) or donkey anti-rabbit IgG (GE Healthcare NA934V). We used these horseradish peroxidase­linked whole antibodies at dilutions of 1:2,000 to 1:5,000 and detected them by the chemiluminescence technique using the ECL system (Amersham).
+Immunofluorescence. We analyzed the capability of SH2038-F primary fibro blasts to form nuclear RAD51 foci as follows. Cells were grown on glass slides, and subconfluent cultures were exposed to 50 ng/ml of MMC for 15 h for foci induction. The cells were fixed in 4% (vol/vol) paraformaldehyde in PBS (pH 6.8) for 15 min on ice and permeabilized with 0.5% (vol/vol) Triton X-100 in PBS for 10 min on ice. After blocking with 0.5% (vol/vol) fetal bovine serum and washing in PBS, we incubated the slides with monospecific rabbit polyclonal anti-RAD51 as the primary antibody (1:800; Abcam, ab 63801). Secondary antibody was Alexa594-conjugated goat anti-rabbit IgG (1:2,000; Invitrogen/Molecular Probes, A-11037). The cells were counterstained with DAPI in Vectorshield mounting medium (Vector Laboratories). We determined the percentage of foci-positive cells (more than ten foci per nucleus) visually on a Zeiss Axio Imager.A1 fluorescence microscope. For each experiment, 200­400 nuclei were analyzed.
+SNP genotyping. We undertook genome-wide linkage analysis using the GeneChip Human Mapping 10K Array Xba 142 2.0, containing 10,204 SNP markers. The median intermarker distance was 113 kb, and the mean hetero zygosity of markers was 0.38. We obtained genotypes using the Affymetrix protocol for the GeneChip Mapping 10K Xba array and images using an Affymetrix Gene Chip Scanner 3000. Affymetrix GeneChip Operating Software 1.4 software was used to obtain raw allele scores. We processed scores using Affymetrix GeneChip Genotyping Analysis Software (GTYPE) to derive SNP genotypes. Genotype calls were analyzed with AutoSNPa26, which allows visualization of genotype data across each chromosome for rapid autozygosity mapping.
+DNA sequencing. We designed primers to amplify the nine exons and intron-exon boundaries of RAD51C. Primers and PCR conditions are shown in Supplementary Table 3. For DNA sequencing of PCR products, we used the BigDye v3.1 cycle sequencing kit and a 3730XL DNA sequencer (Applied Biosystems).
+
+Nature Genetics
+
+doi:10.1038/ng.570
+
+Modeling RAD51C structure. We modeled RAD51C structure by homology from the crystal structure of the archaeal Rad51 protein from P. furiosus (PDB 1PZN)7. We produced the sequence alignment used to build the model using PRALINE with the homology-extended alignment strategy27. We generated three-dimensional models using the MODELLER package28. The selected model was chosen on the basis of the MODELLER objective function's score. We obtained the in silico mutant R258H using the PyMOL mutagenesis tool (DeLano Scientific). To refine both the model and the in silico mutant, we performed energy minimizations with the GROMACS package29 using the GROMOS96 force field30.
+URLs. PyMOL, http://www.pymol.org/.
+16.Auerbach, A.D. et al. International Fanconi Anemia Registry: relation of clinical symptoms to diepoxybutane sensitivity. Blood 73, 391­396 (1989).
+17.Sandoval, N. et al. Characterization of ATM gene mutations in 66 ataxia telangiectasia families. Hum. Mol. Genet. 8, 69­79 (1999).
+18.Enders, A. et al. A severe form of human combined immunodeficiency due to mutations in DNA ligase IV. J. Immunol. 176, 5060­5068 (2006).
+19.Waltes, R. et al. Human RAD50 deficiency in a Nijmegen breakage syndrome-like disorder. Am. J. Hum. Genet. 84, 605­616 (2009).
+
+20.Reid, S. et al. Biallelic mutations in PALB2 cause Fanconi anemia subtype FA-N and predispose to childhood cancer. Nat. Genet. 39, 162­164 (2007).
+21.Antonio Casado, J. et al. A comprehensive strategy for the subtyping of patients
+with Fanconi anaemia: conclusions from the Spanish Fanconi Anemia Research Network. J. Med. Genet. 44, 241­249 (2007). 22.Hanenberg, H. et al. Phenotypic correction of primary Fanconi anemia T cells with retroviral vectors as a diagnostic tool. Exp. Hematol. 30, 410­420 (2002). 23.Kalb, R. et al. Hypomorphic mutations in the gene encoding a key Fanconi anemia
+protein, FANCD2, sustain a significant group of FA-D2 patients with severe phenotype. Am. J. Hum. Genet. 80, 895­910 (2007). 24.Hanenberg, H. et al. Colocalization of retrovirus and target cells on specific
+fibronectin fragments increases genetic transduction of mammalian cells. Nat. Med. 2, 876­882 (1996). 25.Hanenberg, H. et al. Optimization of fibronectin-assisted retroviral gene transfer into human CD34+ hematopoietic cells. Hum. Gene Ther. 8, 2193­2206 (1997). 26.Carr, I.M. et al. Interactive visual analysis of SNP data for rapid autozygosity mapping in consanguineous families. Hum. Mutat. 27, 1041­1046 (2006). 27.Simossis, V.A. et al. Homology-extended sequence alignment. Nucleic Acids Res. 33, 816­824 (2005). 28.Martí-Renom, M.A. et al. Comparative protein structure modeling of genes and genomes. Annu. Rev. Biophys. Biomol. Struct. 29, 291­325 (2000). 29.Berendsen, H.J.C. et al. GROMACS: a message-passing parallel molecular dynamics implementation. Comput. Phys. Commun. 91, 43­56 (1995). 30.Daura, X. et al. Parametrization of aliphatic CHn united atoms of GROMOS96 force field. J. Comput. Chem. 19, 535­547 (1998).
+
+© 2010 Nature America, Inc. All rights reserved.
+
+doi:10.1038/ng.570
+
+Nature Genetics
+
+

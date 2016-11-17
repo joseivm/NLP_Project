@@ -1,0 +1,543 @@
+VOLUME 33  NUMBER 4  FEBRUARY 1 2015
+JOURNAL OF CLINICAL ONCOLOGY
+
+ORIGINAL REPORT
+
+Author affiliations appear at the end of this article.
+Published online ahead of print at www.jco.org on December 15, 2014.
+Supported by the Dutch Cancer Society.
+S.W.t.B. and R.M.B. contributed equally to this work. M.N. and J.T.W. contributed equally to this work.
+Presented in part at the European Society of Human Genetics Conference 2013, June 8-11, 2013, Paris, France; the 6th Annual Meeting of the Dutch Society for Gastroenterology, March 21-22, 2013, Veldhoven, the Netherlands; and the Joint Meeting of the United Kingdom/Dutch Clinical Genetics Societies and Cancer Genetics Groups, March 17-18, 2014, Leiden, the Netherlands.
+Terms in blue are defined in the glossary, found at the end of this article and online at www.jco.org.
+Authors' disclosures of potential conflicts of interest are found in the article online at www.jco.org. Author contributions are found at the end of this article.
+Corresponding author: Sanne W. ten Broeke, MD, Albinusdreef 2, 2333 ZA Leiden, the Netherlands; e-mail: tenbroeke@lumc.nl.
+© 2014 by American Society of Clinical Oncology
+0732-183X/15/3304w-319w/$20.00
+DOI: 10.1200/JCO.2014.57.8088
+
+Lynch Syndrome Caused by Germline PMS2 Mutations: Delineating the Cancer Risk
+Sanne W. ten Broeke, Richard M. Brohet, Carli M. Tops, Heleen M. van der Klift, Mary E. Velthuizen, Inge Bernstein, Gabriel Capellá Munar, Encarna Gomez Garcia, Nicoline Hoogerbrugge, Tom G.W. Letteboer, Fred H. Menko, Annika Lindblom, Arjen R. Mensenkamp, Pal Moller, Theo A. van Os, Nils Rahner, Bert J.W. Redeker, Rolf H. Sijmons, Liesbeth Spruijt, Manon Suerink, Yvonne J. Vos, Anja Wagner, Frederik J. Hes, Hans F. Vasen, Maartje Nielsen, and Juul T. Wijnen See accompanying editorial on page 299
+ABSTRACT
+Purpose The clinical consequences of PMS2 germline mutations are poorly understood compared with other Lynch-associated mismatch repair gene (MMR) mutations. The aim of this European cohort study was to define the cancer risk faced by PMS2 mutation carriers. Methods Data were collected from 98 PMS2 families ascertained from family cancer clinics that included a total of 2,548 family members and 377 proven mutation carriers. To adjust for potential ascertainment bias, a modified segregation analysis model was used to calculate colorectal cancer (CRC) and endometrial cancer (EC) risks. Standardized incidence ratios (SIRs) were calculated to estimate risks for other Lynch syndrome­associated cancers. Results The cumulative risk (CR) of CRC for male mutation carriers by age 70 years was 19%. The CR among female carriers was 11% for CRC and 12% for EC. The mean age of CRC development was 52 years, and there was a significant difference in mean age of CRC between the probands (mean, 47 years; range, 26 to 68 years) and other family members with a PMS2 mutation (mean, 58 years; range, 31 to 86 years; P  .001). Significant SIRs were observed for cancers of the small bowel, ovaries, breast, and renal pelvis. Conclusion CRC and EC risks were found to be markedly lower than those previously reported for the other MMR. However, these risks embody the isolated risk of carrying a PMS2 mutation, and it should be noted that we observed a substantial variation in cancer phenotype within and between families, suggesting the influence of genetic modifiers and lifestyle factors on cancer risks.
+J Clin Oncol 33:319-325. © 2014 by American Society of Clinical Oncology
+
+INTRODUCTION
+Lynch syndrome (LS) is the most common heritable colorectal carcinoma (CRC) syndrome and is responsible for 2% to 4% of all CRC cases in the Western world.1 The underlying cause of LS is a pathogenic heterozygous germline mutation in MLH1, MSH2, MSH6, PMS2, or EPCAM. Previous clinical studies focused primarily on patients with heterozygous mutations in the MLH1, MSH2, and MSH6 genes1-5 and reported high risks for the development of colorectal, endometrial, and other cancers including ovarian, small bowel, pancreatic, gastric, urothelial, breast, and possibly prostate carcinomas.
+
+Although PMS2 involvement in LS was described around the same time as that for MSH2 and MLH16, technical difficulties in analyzing the PMS2 gene as a result of a large number of pseudogenes has possibly led to underreporting of PMS2 mutations in patients with LS. Several strategies to overcome this problem, such as the design of long-range amplicons7,8 and RNA analysis,9 have led to improvements in PMS2 mutation detection. As a result of the relatively recent development of improved PMS2 mutation diagnostic procedures, clinical reports concerning heterozygous PMS2 mutation carriers published thus far include quite small cohorts.10-12 These studies reported a lower PMS2 mutation penetrance for CRC and endometrial cancer (EC)
+
+© 2014 by American Society of Clinical Oncology 319 Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+ten Broeke et al
+
+compared with MLH1 and MSH2 mutation carriers and similar or even lower risks as compared with MSH6 mutation carriers.1,5,13 Furthermore, parents and other family members of biallelic PMS2 mutation carriers rarely develop CRC or other LS-related cancers,14 indicating a reduced penetrance for cancer in these heterozygous family members. One theory regarding the lower penetrance of PMS2 mutations is that MLH1/MLH3 and/or MLH1/PMS1 heterodimers partially compensate for the loss of MLH1/PMS2, although it is worth noting that this mechanism has not yet been confirmed by functional studies.15
+Establishing an accurate cancer risk for mutations in cancer susceptibility genes such as PMS2 is difficult because families are likely to be ascertained based on the severity of their phenotype and outcomes are thus variable depending on family selection and methods of data analysis (eg, correction for ascertainment bias). In this study, using a modified segregation analysis, we aimed to achieve a reliable estimate of the cancer risk for heterozygous PMS2 germline mutation carriers by including confirmed carriers together with nontested family members.
+METHODS
+Data Collection All probands (index patients) included in the study were referred to a
+cancer family clinic because of an LS-associated cancer or because of a suspected family history. They all had a confirmed pathogenic germline mutation in the PMS2 gene. Available pedigree and patient-specific data were collected from 2009 until 2012, in collaboration with the clinical genetic departments of university hospitals in the Netherlands, Norway, Germany, Sweden, Denmark, and Spain and the Leiden-based Netherlands Foundation for the Detection of Hereditary Tumors (Appendix Table A1, online only). The majority of patients were of white northern European origin.
+Mutation screening of the probands was performed between 2007 and 2012. PMS2 mutation analysis was initiated in most patients based on histologic investigations of the tumor suggestive for a PMS2 germline defect and/or on a family's compliance with the Bethesda criteria.16 In addition, eight families were recognized via a proband with biallelic PMS2 mutations. Patients with biallelic PMS2 mutations have a distinct phenotype, with a typical spectrum of tumors at a young age, so they were excluded from the cancer risk analysis (Data Supplement).17-19
+Informed consent was obtained according to protocols approved by local ethical review boards (Leiden University Medical Center Ethics Review Board, No. P01.019). Clinical and pathologic data confirming the diagnosis, where available, were obtained from patient records.
+Mutation Analysis of PMS2 Mutation detection analysis of the PMS2 gene was performed in
+multiple laboratories using a variety of methods all aimed at avoiding interference by pseudogenes. These methods included exon-by-exon DNA sequencing of exons 1 to 11 and simultaneous reverse transcriptase polymerase chain reaction (RNA analysis) of the whole coding region of PMS2 and/or long-range DNA amplicons that avoid pseudogene amplification.7,8 Multiplex ligation-dependent probe amplification was used to detect large genomic deletions and duplications. PMS2 mutations were classified as deleterious based on introduction of a premature stop codon, either directly as a result of a nonsense mutation or as a result of a frameshift mutation, or when a deleterious splice site mutation was identified. Missense mutations were classified as deleterious based on previous studies.9,20 Mutations are provided in the Data Supplement.
+Statistical Analysis Cancer risk analysis was based on full pedigree information. A previously
+described protocol was used for the imputation of unknown dates of birth and
+
+death from the known dates of their family members. Unknown age at cancer diagnosis was, if possible, imputed from the cohort-, period-, and sex-specific mean age at cancer diagnosis in the general population.21 Family members were considered to be at risk from birth until the first occurrence of any of the following events: first CRC diagnosis (n  208); EC diagnosis (n  39); other cancer diagnosis (n  218); death; last contact of a family member with the study center or last DNA test of a family member; and 70th birthday. CRC and EC risks were estimated using modified segregation analysis implemented in the pedigree analysis software MENDEL (University of California, Los Angeles, Los Angeles, CA), as previously described.12,22 Restricting the analysis to confirmed carriers would bias the results because affected family members and those with a strong family history of cancer might be more inclined to pursue mutation testing and deceased individuals would be excluded. The MENDEL program weighs the likelihood contributions of untested individuals according to their probability of being a carrier, which was estimated from their cancer history, age, and position in the pedigree. In the analysis, the penetrance function was modeled in terms of the incidence rates in carriers and noncarriers. The incidence rates were assumed to follow a Cox proportional hazards model in which the noncarriers were assumed to conform to population incidence rates. These population rates were calculated using combined calendar and age-specific incidences from the Netherlands and age-specific rates for the other European countries. All country-specific incidence rates contributed to the mean according to their weight in the total number of families. The relative risk represents the incidence rate in mutation carriers compared with the population incidence rates at age t. A single autosomal dominant model and a mutation frequency of 0.001 for PMS2 were used. The incidences for each disease at age (t) were assumed to follow a Cox model: (t)  0(t) exp[G(t)], where 0(t) is the age-specific disease incidence rate and exp[G(t)] is the age-specific hazard ratio (HR) or the relative risk in carriers compared with noncarriers.
+To estimate the risk of other LS-associated cancers, we calculated the standardized incidence ratio (SIR) in a separate analysis as the ratio of observed cancers in the cohort to the expected cancers derived from the age-, sex-, calendar period­, and site-specific Dutch cancer population incidence rates. We restricted the cohort analysis to known Dutch mutation carriers who were alive and free of cancer in 1960 or born after 1960 (n  276). Two-sided statistical significance levels for the SIRs were estimated, and 95% CIs were calculated under Poisson distribution of the observed frequencies. Comparative analyses of mean age of cancer development were performed via an independent samples t test in IBM SPSS Statistics 20 (SPSS, Chicago, IL).
+RESULTS
+Our cohort included 98 separate families with 377 proven mutation carriers, of whom 11 were biallelic carriers and 366 were heterozygous carriers. Cohort characteristics are listed in Table 1.
+CRC and EC The cumulative CRC risk (Table 2; Fig 1) calculated using
+MENDEL was 18.75% (95% CI, 5.60% to 30.06%) for males at age 70 years, with an HR of 6.92 (95% CI, 2.46 to 19.42). The CRC risk at age 70 years for female carriers was 10.56% (95% CI, 2.42% to 18.01%), with an HR of 4.71 (95% CI, 1.51 to 14.72), whereas the cumulative risk at age 70 years for EC (Table 2; Fig 2) was 11.78% (95% CI, 2.61% to 20.09%), with an HR of 8.74 (95% CI, 2.14 to 35.7). The mean age of first CRC development for all patients with a heterozygous PMS2 mutation was 52 years (range, 26 to 86 years; Table 3). Notably, the age distribution for CRC differed markedly between probands and CRCaffected family members (Appendix Figs A1 and A2, online only); the mean ages of CRC diagnosis in these groups were 47 years (range, 26 to 68 years) and 58 years (range, 31 to 86 years), respectively. There was
+
+320 © 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52 Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Delineating the PMS2 Cancer Risk
+
+Table 1. Cohort Description of the 98 Families
+
+No. of Family Members
+
+Characteristic
+Total Mutation carriers
+Homozygotes Non­mutation carriers CRC EC Other cancer
+Lip Hypopharynx Lymphoma of pharynx Esophagus Stomach Small intestine, including duodenum Liver and extrahepatic bile ducts Pancreas Other and ill-defined sites within the digestive
+organs and peritoneum Nasal cavities, middle ear, and accessory
+sinuses Trachea, bronchus, and lung Bone and articular cartilage Connective and other soft tissue Malignant melanoma of the skin Skin Female breast Kaposi's sarcoma Cervix uteri Ovary and other uterine adnexa Other and unspecified female genital organs Prostate Testis Bladder Kidney and other and unspecified urinary
+organs Brain Thyroid gland Secondary and unspecified malignant
+neoplasm of lymph nodes Secondary malignant neoplasm of respiratory
+and digestive systems Other malignant neoplasms of lymphoid and
+histiocytic tissue Multiple myeloma and immunoproliferative
+neoplasms Leukemia of unspecified cell type Unknown origin
+
+Total
+2,548 377 11 237 208 39 218 1 1 1 5 16 8 3 4
+1
+1 29
+1 1 6 10 44 1 7 10 1 18 3 5
+8 5 4
+1
+7
+3
+1 8 4
+
+Male
+1,284 172 5 108 118 -- 108 1 1 1 3 8 5 1 1
+0
+1 27
+0 0 3 8 -- 0 -- -- -- 18 3 5
+4 3 3
+1
+1
+0
+1 6 3
+
+Female
+1,262 205 6 129 90 39 110 0 0 0 2 8 3 2 3
+1
+0 2 1 1 3 2 44 1 7 10 1 -- -- 0
+4 2 1
+0
+6
+3
+0 2 1
+
+NOTE. Number of cancers excludes the cancers of the biallelic mutation carriers. Abbreviations: CRC, colorectal carcinoma; EC, endometrial carcinoma. Sex was unknown for two individuals.
+
+no significant difference in mean age of CRC development between male and female carriers (51 v 52 years, respectively; P  .83). The mean age at diagnosis of EC was 55 years (range, 35 to 81 years), with no significant difference between probands and affected family members (P  .76, Table 3). For both CRC and EC, the mean age at diagnosis of carriers of a pathogenic PMS2 mutation was higher when compared with carriers of a MLH1 or MSH2 mutation, but when compared with MSH6, the mean age at diagnosis of CRC was lower
+
+Table 2. Age-Specific HRs and Cumulative Cancer Risks for CRC and EC in PMS2 Mutation Carriers
+
+Cancer and Age
+CRC male  40 years 40-49 years 50-59 years 60-69 years
+CRC female  40 years 40-49 years 50-59 years 60-69 years
+EC  40 years 40-49 years 50-59 years 60-69 years
+
+HR
+20.59 17.06
+3.66 6.92
+8.82 2.63 5.99 4.71
+20.03 7.81
+16.18 8.74
+
+95% CI
+3.27 to 129.60 5.15 to 56.50 1.29 to 10.38 2.46 to 19.42
+0.72 to 107.55 0.27 to 25.68 1.99 to 18.00 1.51 to 14.72
+0.58 to 688.70 0.81 to 74.80 5.81 to 45.06 2.14 to 35.70
+
+CR (%)
+1.27 4.63 7.11 18.75
+0.46 0.92 4.74 10.56
+0.19 0.69 7.11 11.78
+
+95% CI (%)
+0.00 to 3.51 0.01 to 9.04 1.76 to 12.17 5.60 to 30.06
+0.00 to 1.52 0.00 to 2.42 0.22 to 9.05 2.42 to 18.01
+0.00 to 0.84 0.00 to 2.79 0.52 to 13.26 2.61 to 20.09
+
+Abbreviations: CR, cumulative risk; CRC, colorectal carcinoma; EC, endometrial carcinoma; HR, hazard ratio.
+
+and the mean age at diagnosis of EC was similar in our cohort (Appendix Table A2, online only).
+Other LS-Associated Cancers Risks for cancers other than CRC or EC among PMS2 mutation
+carriers are listed in Table 4. Significant SIRs were identified for cancers of the small bowel (SIR, 118.9; 95% CI, 38.6 to 277.4), ovaries (SIR, 12.0; 95% CI, 3.3 to 30.7), breast (SIR, 3.8; 95% CI, 1.9 to 6.8), and renal pelvis (SIR, 50.5; 95% CI, 6.1 to 182.4).
+DISCUSSION
+In an effort to achieve a comprehensive understanding of the cancer risks faced by PMS2 mutation carriers, we collected and analyzed a
+
+Cumulative CRC Risk (%)
+
+35 Male PMS2 mutation carriers 95% CI lower boundary male 95% CI upper boundary male
+30 Female PMS2 mutation carriers 95% CI lower boundary female
+25 95% CI upper boundary female
+20
+15
+10
+5
+0 10 20 30 40 50 60 70 80
+Age (years)
+Fig 1. Graphic presentation of cumulative colorectal cancer (CRC) risk with 95% CIs.
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology 321
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+ten Broeke et al
+
+Cumulative EC Risk (%)
+
+35 Female PMS2 mutation carriers 95% CI lower boundary 95% CI upper boundary
+30
+25
+20
+15
+10
+5
+0 10 20 30 40 50 60 70 80
+Age (years)
+Fig 2. Graphic presentation of cumulative endometrial cancer (EC) risk with 95% CIs.
+cohort of 98 PMS2 mutation­positive families including more than 2,500 family members. Analysis of this large cohort revealed that cumulative CRC risk at age 70 years is almost 19% for males and 11% for females, whereas risk for EC is approximately 12%. Furthermore, we found significant SIRs for cancers of the small bowel, breast, ovaries, and renal pelvis. As reported previously for other mismatch repair genes (MMR), females appear to have a markedly lower CRC risk compared with males, although this observation was not statistically significant in our study. The calculated CRC and EC risks in our study agree with those reported by Senter et al12 who used the same statistical methodology to calculate cancer risks in a cohort of 55 PMS2 mutation­positive families. Incontrast,cumulativecancerrisksatage70 years reported for MLH1 and MSH2 range from 52% to 97% for CRC and 21% to 54% for EC.1 Far closer to the risks found in our study are the reported risks for carriers of MSH6 mutations that ranged from 22% to 69% for CRC to 16% to 71% for EC1; thus, MSH6 and PMS2 mutations seem to represent significantly lower risks to these carriers.
+A striking finding in this study is that cancer risk seems to vary widely between members of the same family and does not seem to be solely dependent on an individual's PMS2 mutation status. This is
+
+Table 3. Age at CRC and EC Diagnosis in PMS2 Mutation Carriers
+
+Type of Cancer and Population
+CRC Total group Male Female Probands Family members
+EC Total group Probands Family members
+
+No. of Mutation Carriers
+106 65 41 62 44
+25 15 10
+
+Age at Diagnosis (years)
+Median Mean Range
+51 52 26-86 52 51 26-86 51 52 27-78 48 47 26-68 57 58 31-86
+54 55 35-81 52 56 42-81 58 54 35-68
+
+P .83  .001
+.76
+
+Abbreviations: CRC, colorectal carcinoma; EC, endometrial carcinoma.
+
+illustrated by the wide age range at initial CRC diagnosis (26 to 86 years old) and the large difference in mean age (10 years) between probands and mutation-positive family members. The observed heterogeneity of risk between mutation carriers agrees with the findings of Dowty et al,4 who also described this phenomenon for MLH1 and MSH2 mutation carriers. These authors proposed that lifetime CRC risk for both male and female mutation carriers (from birth to age 70 years) follows a U-shaped distribution rather than a normal distribution. This means that most MMR carriers have either a high risk or a low risk of developing CRC, with a relatively low proportion of carriers at moderate risk.4
+One explanation of this high variance may be the presence of internal (eg, genetic) or external (eg, lifestyle) modifiers. Indeed, certain single nucleotide polymorphisms associated with a slight increase in CRC risk in the general population, as found by genome-wide association studies, are known to significantly influence CRC risk in patients with LS with MLH1 and MSH2 mutations.23,24 Lifestyle factors, such as body mass index and smoking, have also been reported to modify CRC risk and adenoma development in patients with LS.25,26 This is possibly explained by a difference in the molecular mechanism underlying carcinogenesis in patients with LS that might then result in lifestyle factors having a different effect in these patients compared with patients with sporadic CRC. However, because previous association studies only include limited numbers of PMS2 mutation carriers, further research on this subject is needed.
+Because of the increased identification of PMS2 mutation carriers (and patients with LS in general) expected to result from the implementation of next-generation sequencing and universal screening programs for patients with CRC and EC, there is now a pressing need to establish PMS2-specific risk estimates. This increased detection is illustrated by studies using immunohistochemistry analysis in CRCs from population-based cohorts that showed that isolated PMS2 protein loss in the tumor, which is indicative of a germline PMS2 mutation, occurs in 0.5% to 1.5% of unselected patients with CRC.12,15,27 Previously, identification of patients with LS was based on strict Amsterdam and/or Bethesda selection criteria, but recent population-based CRC and EC studies have shown that more than half of patients identified with an LS-like profile do not comply with these criteria and probably would have been missed in the past.27,28 This problem is even more relevant to PMS2 families because it is likely that they do not comply with strict selection criteria as a result of low cancer penetrance and a higher mean age at cancer development ( 50 years).12 Even in our selected cohort, only 19% of the families complied with the Amsterdam II criteria and 78% with the revised Bethesda criteria.16,29 Almost 22% of the families in our cohort failed to comply with any of the previously mentioned criteria and would have been overlooked based on these criteria alone. The possible current underestimation of PMS2 mutation­positive families is further suggested and illustrated by next-generation sequencing studies in which PMS2 mutations were reported as incidental findings in 0.03% to 0.4% of individuals not selected based on CRC.30-32
+Identifying MMR mutation carriers is important because these individuals should be enrolled in surveillance programs. Currently, LS family members are advised to participate in colonic surveillance at 1to 2-year intervals beginning at approximately 20 to 25 years of age.33,34 We now suggest that surveillance in PMS2 mutation carriers could start at a slightly higher age (eg, 30 years, similar to the previously suggested age for female MSH6 carriers) because of the later age
+
+322 © 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52 Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Delineating the PMS2 Cancer Risk
+
+Table 4. Other Lynch Syndrome­Associated Cancers
+
+Location of Malignancy
+
+Observed No. of Cancers
+
+Expected No. of Cancers
+
+Standardized Incidence Ratio
+
+95% CI
+
+Age at Diagnosis (years)
+
+P
+
+Mean
+
+Range
+
+Overall cancer Small bowel Breast Ovary Prostate Renal pelvis Brain Leukemia Stomach Pancreas Bladder
+
+35 5
+11 4 2 2 1 1 0 0 1
+
+16.9 0.042 2.9 0.33 1.17 0.040 0.37 0.47 0.57 0.31 0.50
+
+2.1 118.9
+3.8 12.0
+1.7 50.5
+2.7 2.1 0 0 2.0
+
+1.4 to 2.9
+
+ .001
+
+57 18-80
+
+38.6 to 277.4
+
+ .001
+
+60 48-79
+
+1.9 to 6.8
+
+ .001
+
+55 36-80
+
+3.3 to 30.7
+
+ .001
+
+55 51-59
+
+0.21 to 6.2
+
+.66 56 42-70
+
+6.1 to 182.4
+
+.0015 78 77-79
+
+0.069 to 15.2
+
+.62
+
+55
+
+0.054 to 11.9
+
+.75
+
+45
+
+0 to 6.5
+
+NA
+
+0 to 12
+
+NA
+
+0.051 to 11.2
+
+.79
+
+49
+
+NOTE. The standardized incidence ratio is the observed number of cancers divided by the number of expected cancers in the general population. Abbreviations: CRC, colorectal carcinoma; EC, endometrial carcinoma; NA, not applicable. Excluding CRC and EC. Non-Hodgkin lymphoma.
+
+of onset and lower cancer risk than that reported for MLH1 and MSH2.35 It should be noted, however, that six heterozygous probands (six [1.6%] of 366 mutation carriers) developed CRC at age 30 years or younger. Interestingly, their mutation-positive family members with CRC had a significantly later age of onset (56 years as opposed to 28 years). Moreover, none of the heterozygous family members in our cohort developed CRC before the age of 30 years (Appendix Figures A1 and A2, online only).
+The efficacy of surveillance for EC is less well established. However, surveillance is currently still advised and consists of gynecologic examination with transvaginal ultrasound and/or hysteroscopy with aspiration biopsy, starting at the age of 30 to 35, which may lead to the detection of premalignant disease.33,34,36 Prophylactic surgery (ie, risk-reducing salpingo-oophorectomy) does not seem to be appropriate for female PMS2 mutation carriers because mortality from EC is relatively low.37 Indeed, in our cohort, only one of 25 proven PMS2 mutation carriers with EC died of EC, at age 65. Furthermore, ovarian cancer in patients with LS predominantly presents in early stages of carcinogenesis, and there is evidence that surveillance (transvaginal ultrasound and CA-125) might have a greater efficacy in these patients than in patients with non­LS-related ovarian cancer.38 Therefore, we only advise use of the surveillance protocol described earlier and not prophylactic surgery.
+Additional screening for other LS-associated cancers is currently not advised for patients with LS, except in the case of familial clustering of gastric or urinary tract cancer.33,39 Our cohort of PMS2 mutation carriers showed significant SIRs for cancers of the small bowel, ovaries, renal pelvis, and breasts (Table 4). The first three cancers are accepted as part of the LS tumor spectrum, but the association of breast cancer with germline MMR mutations is currently still a subject of debate.1 Because of a relatively low incidence and, in general, a high mean age at diagnosis in our cohort (Table 4), additional surveillance other than for CRC and EC does not seem to be indicated. However, in light of an SIR of 3.8 for breast carcinomas, mammography from age 40 years may be considered, especially in PMS2 families that show clustering of breast cancer. The relatively small number of patients in the current study and the low frequency of
+
+some LS-associated cancers mean that a larger cohort will be required to formulate definitive conclusions and advice.
+Besides the implications for surveillance, the risks reported here also have implications for counseling of PMS2 mutation carriers. Although it is our opinion that gene-specific counseling is justified, it should be clearly explained to patients that these risk estimates were corrected for ascertainment and embody the risk of the PMS2 mutation itself. These unbiased risks are probably most applicable for patients with a PMS2 mutation identified via population-based screening programs (and not selected based on their family history of cancer) or as an incidental finding of nextgeneration sequencing diagnostics now being introduced in many laboratories. However, given that in daily clinical practice, most PMS2 mutation carriers will still be identified as members of a family severely affected with cancer, it is probable that other genetic or environmental risk factors that contribute to a higher cancer risk are present in these families.
+In conclusion, the cumulative CRC and EC risks for PMS2 mutation carriers are markedly lower than the current risk estimates for LS familiar to clinicians, and a significant proportion of these families are probably missed because of strict selection criteria. In addition, the wide within-family variance suggests that other risk factors are present in most families. While awaiting the advent of personalized risk stratification, we suggest a limited modification of surveillance guidelines for PMS2 mutation carriers similar to that for MSH6, which is to begin colorectal surveillance at age 30 years instead of the current 25 years of age. Furthermore, prophylactic removal of the uterus and ovaries of female PMS2 mutation carriers does not seem advisable at the present time.
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+Disclosures provided by the authors are available with this article at www.jco.org.
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology 323
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+ten Broeke et al
+
+AUTHOR CONTRIBUTIONS
+Conception and design: Sanne W. ten Broeke, Richard M. Brohet, Carli M. Tops, Heleen M. van der Klift, Inge Bernstein, Nicoline Hoogerbrugge, Annika Lindblom, Pal Moller, Nils Rahner, Anja Wagner, Hans F. Vasen, Maartje Nielsen, Juul T. Wijnen Administrative support: Manon Suerink Provision of study materials or patients: Arjen R. Mensenkamp, Theo A. van Os, Hans F. Vasen Collection and assembly of data: Sanne W. ten Broeke, Richard M. Brohet, Carli M. Tops, Heleen M. van der Klift, Mary E. Velthuizen, Inge
+
+Bernstein, Gabriel Capellá Munar, Encarna Gomez Garcia, Nicoline Hoogerbrugge, Tom G.W. Letteboer, Fred H. Menko, Annika Lindblom, Arjen R. Mensenkamp, Pal Moller, Theo A. van Os, Nils Rahner, Bert J.W. Redeker, Rolf H. Sijmons, Liesbeth Spruijt, Manon Suerink, Yvonne J. Vos, Anja Wagner, Frederik J. Hes, Hans F. Vasen, Maartje Nielsen, Juul T. Wijnen Data analysis and interpretation: Sanne W. ten Broeke, Richard M. Brohet, Mary E. Velthuizen, Fred H. Menko, Pal Moller, Theo A. van Os, Anja Wagner, Frederik J. Hes, Maartje Nielsen, Juul T. Wijnen Manuscript writing: All authors Final approval of manuscript: All authors
+
+REFERENCES
+1. Barrow E, Hill J, Evans DG: Cancer risk in Lynch syndrome. Fam Cancer 12:229-240, 2013
+2. Hampel H, Stephens JA, Pukkala E, et al: Cancer risk in hereditary nonpolyposis colorectal cancer syndrome: Later age of onset. Gastroenterology 129:415-421, 2005
+3. Stoffel E, Mukherjee B, Raymond VM, et al: Calculation of risk of colorectal and endometrial cancer among patients with Lynch syndrome. Gastroenterology 137:1621-1627, 2009
+4. Dowty JG, Win AK, Buchanan DD, et al: Cancer risks for MLH1 and MSH2 mutation carriers. Hum Mutat 34:490-497, 2013
+5. Baglietto L, Lindor NM, Dowty JG, et al: Risks of Lynch syndrome cancers for MSH6 mutation carriers. J Natl Cancer Inst 102:193-201, 2010
+6. Nicolaides NC, Papadopoulos N, Liu B, et al: Mutations of two PMS homologues in hereditary nonpolyposis colon cancer. Nature 371:75-80, 1994
+7. Clendenning M, Hampel H, LaJeunesse J, et al: Long-range PCR facilitates the identification of PMS2-specific mutations. Hum Mutat 27:490-495, 2006
+8. Vaughn CP, Robles J, Swensen JJ, et al: Clinical analysis of PMS2: mutation detection and avoidance of pseudogenes. Hum Mutat 31:588-593, 2010
+9. van der Klift HM, Tops CM, Bik EC, et al: Quantification of sequence exchange events between PMS2 and PMS2CL provides a basis for improved mutation scanning of Lynch syndrome patients. Hum Mutat 31:578-587, 2010
+10. Worthley DL, Walsh MD, Barker M, et al: Familial mutations in PMS2 can cause autosomal dominant hereditary nonpolyposis colorectal cancer. Gastroenterology 128:1431-1436, 2005
+11. Hendriks YM, de Jong AE, Morreau H, et al: Diagnostic approach and management of Lynch syndrome (hereditary nonpolyposis colorectal carcinoma): A guide for clinicians. CA Cancer J Clin 56:213-225, 2006
+12. Senter L, Clendenning M, Sotamaa K, et al: The clinical phenotype of Lynch syndrome due to germ-line PMS2 mutations. Gastroenterology 135: 419-428, 2008
+13. Bonadona V, Bonaiti B, Olschwang S, et al: Cancer risks associated with germline mutations in MLH1, MSH2, and MSH6 genes in Lynch syndrome. JAMA 305:2304-2310, 2011
+14. Johannesma PC, van der Klift HM, van Grieken NC, et al: Childhood brain tumours due to germline bi-allelic mismatch repair gene mutations. Clin Genet 80:243-255, 2011
+
+15. Truninger K, Menigatti M, Luz J, et al: Immunohistochemical analysis reveals high frequency of PMS2 defects in colorectal cancer. Gastroenterology 128:1160-1171, 2005
+16. Umar A, Boland CR, Terdiman JP, et al: Revised Bethesda Guidelines for hereditary nonpolyposis colorectal cancer (Lynch syndrome) and microsatellite instability. J Natl Cancer Inst 96:261268, 2004
+17. Bakry D, Aronson M, Durno C, et al: Genetic and clinical determinants of constitutional mismatch repair deficiency syndrome: Report from the constitutional mismatch repair deficiency consortium. Eur J Cancer 50:987-996, 2014
+18. Herkert JC, Niessen RC, Olderode-Berends MJ, et al: Paediatric intestinal cancer and polyposis due to bi-allelic PMS2 mutations: Case series, review and follow-up guidelines. Eur J Cancer 47:965982, 2011
+19. Wimmer K, Kratz CP, Vasen HF, et al: Diagnostic criteria for constitutional mismatch repair deficiency syndrome: Suggestions of the European consortium "Care for CMMRD" (C4CMMRD). J Med Genet 51:355-365, 2014
+20. Borra` s E, Pineda M, Cadiñanos J, et al: Refining the role of PMS2 in Lynch syndrome: Germline mutational analysis improved by comprehensive assessment of variants. J Med Genet 50:552-563, 2013
+21. Brohet RM, Velthuizen ME, Hogervorst FB, et al: Breast and ovarian cancer risks in a large series of clinically ascertained families with a high proportion of BRCA1 and BRCA2 Dutch founder mutations. J Med Genet 51:98-107, 2014
+22. Antoniou AC, Goldgar DE, Andrieu N, et al: A weighted cohort approach for analysing factors modifying disease risks in carriers of high-risk susceptibility genes. Genet Epidemiol 29:1-11, 2005
+23. Talseth-Palmer BA, Wijnen JT, Brenne IS, et al: Combined analysis of three Lynch syndrome cohorts confirms the modifying effects of 8q23.3 and 11q23.1 in MLH1 mutation carriers. Int J Cancer 132:1556-1564, 2013
+24. Wijnen JT, Brohet RM, van Eijk R, et al: Chromosome 8q23.3 and 11q23.1 variants modify colorectal cancer risk in Lynch syndrome. Gastroenterology 136:131-137, 2009
+25. van Duijnhoven FJ, Botma A, Winkels R, et al: Do lifestyle factors influence colorectal cancer risk in Lynch syndrome? Fam Cancer 12:285-293, 2013
+26. Pande M, Lynch PM, Hopper JL, et al: Smoking and colorectal cancer in Lynch syndrome: Results from the Colon Cancer Family Registry and the University of Texas M.D. Anderson Cancer Center. Clin Cancer Res 16:1331-1339, 2010
+
+27. van Lier MG, Leenen CH, Wagner A, et al: Yield of routine molecular analyses in colorectal cancer patients  70 years to detect underlying Lynch syndrome. J Pathol 226:764-774, 2012
+28. Leenen CH, van Lier MG, van Doorn HC, et al: Prospective evaluation of molecular screening for Lynch syndrome in patients with endometrial cancer  70 years. Gynecol Oncol 125:414-420, 2012
+29. Vasen HF, Watson P, Mecklin JP, et al: New clinical criteria for hereditary nonpolyposis colorectal cancer (HNPCC, Lynch syndrome) proposed by the International Collaborative group on HNPCC. Gastroenterology 116:1453-1456, 1999
+30. Dorschner MO, Amendola LM, Turner EH, et al: Actionable, pathogenic incidental findings in 1,000 participants' exomes. Am J Hum Genet 93: 631-640, 2013
+31. Boone PM, Soens ZT, Campbell IM, et al: Incidental copy-number variants identified by routine genome testing in a clinical population. Genet Med 15:45-54, 2013
+32. Castera L, Krieger S, Rousselin A, et al: Nextgeneration sequencing for the diagnosis of hereditary breast and ovarian cancer using genomic capture targeting multiple candidate genes. Eur J Hum Genet [epub ahead of print on February 19, 2014]
+33. Vasen HF, Möslein G, Alonso A, et al: Guidelines for the clinical management of Lynch syndrome (hereditary non-polyposis cancer). J Med Genet 44:353-362, 2007
+34. Vasen HF, Blanco I, Aktan-Collan K, et al: Revised guidelines for the clinical management of Lynch syndrome (HNPCC): Recommendations by a group of European experts. Gut 62:812-823, 2013
+35. Hendriks YM, Wagner A, Morreau H, et al: Cancer risk in hereditary nonpolyposis colorectal cancer due to MSH6 mutations: Impact on counseling and surveillance. Gastroenterology 127:17-25, 2004
+36. Ketabi Z, Gerdes AM, Mosgaard B, et al: The results of gynecologic surveillance in families with hereditary nonpolyposis colorectal cancer. Gynecol Oncol 133:526-530, 2014
+37. PylvänäinenK, Lehtinen T, Kellokumpu I, et al: Causes of death of mutation carriers in Finnish Lynch syndrome families. Fam Cancer 11:467-471, 2012
+38. Ketabi Z, Bartuma K, Bernstein I, et al: Ovarian cancer linked to Lynch syndrome typically presents as early-onset, non-serous epithelial tumors. Gynecol Oncol 121:462-465, 2011
+39. Bernstein IT, Myrhøj T: Surveillance for urinary tract cancer in Lynch syndrome. Fam Cancer 12: 279-284, 2013
+
+324 © 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52 Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Delineating the PMS2 Cancer Risk
+Affiliations Sanne W. ten Broeke, Carli M. Tops, Heleen M. van der Klift, Manon Suerink, Frederik J. Hes, Hans F. Vasen, Maartje Nielsen, and Juul T. Wijnen, Leiden University Medical Center; Hans F. Vasen, The Netherlands Foundation for the Detection of Hereditary Tumors, Leiden; Richard M. Brohet, Research Center Linnaeus Institute, Spaarne Hospital, Hoofddorp; Mary E. Velthuizen and Tom G.W. Letteboer, University Medical Center Utrecht, Utrecht; Encarna Gomez Garcia, Maastricht University Medical Center, Maastricht; Nicoline Hoogerbrugge, Arjen R. Mensenkamp, and Liesbeth Spruijt, Radboud University Medical Center, Nijmegen; Fred H. Menko, Vrije Universiteit, University Medical Center; Theo A. van Os and Bert J.W. Redeker, Academic Medical Center, Amsterdam; Rolf H. Sijmons and Yvonne J. Vos, University of Groningen, University Medical Center Groningen, Groningen; Anja Wagner, Erasmus University Medical Center, Rotterdam, the Netherlands; Inge Bernstein, Aalborg University Hospital, Aalborg; Inge Bernstein, Danish Hereditary Nonpolyposis Colorectal Cancer Registry, Hvidovre University Hospital Copenhagen, Denmark; Gabriel Capellá Munar, Hereditary Cancer Program, Catalan Institute of Oncology-Institut D'Investigació Biomèdica de Bellvitge, l'Hospitalet de Llobregat, Spain; Annika Lindblom, Karolinska Institutet, Karolinska University Hospital, Solna; Pal Moller, Research Group Inherited Cancer, Oslo University Hospital, Oslo, Norway; and Nils Rahner, Institute of Human Genetics, University of Dusseldorf, Dusseldorf, Germany.
+
+
+GLOSSARY TERMS
+
+cumulative risk: a measure of risk of an event (usually dis-
+ease occurrence) during a specified time period.
+germline mutation: an inherited variation in the lineage of
+germ cells. Germline mutations can be passed on to offspring.
+immunohistochemistry: the application of antigen-
+antibody interactions to histochemical techniques. Typically, a tissue section is mounted on a slide and incubated with antibodies (polyclonal or monoclonal) specific to the antigen (primary reaction). The antigen-antibody signal is then amplified using a second antibody conjugated to a complex of peroxidase-antiperoxidase, avidin-biotin-peroxidase, or avidin-biotin alkaline phosphatase. In the presence of substrate and chromogen, the enzyme forms a colored deposit at the sites of antibody-antigen binding. Immunofluorescence is an alternate approach to visualize antigens. In this technique, the primary antigen-antibody signal is amplified using a second antibody conjugated to a fluorochrome. On ultraviolet
+
+light absorption, the fluorochrome emits its own light at a longer wavelength (fluorescence), thus allowing localization of antibodyantigen complexes.
+Lynch syndrome: hereditary nonpolyposis colorectal cancer
+(HNPCC). A cancer syndrome characterized by Henry T. Lynch in 1966, this genetic condition has a high risk of colon cancer as well as other cancers including endometrial, ovary, stomach, small intestine, hepatobiliary tract, upper urinary tract, brain, and skin.
+mismatch repair genes (MMR): genes that recognize and cor-
+rect errors in DNA replication leading to single base-pair mismatches or insertions/deletions in small repetitive tracts of DNA known as microsatellites.
+phenotype: the overall appearance of an organism, or the observable
+expression of a specific trait, determined by its genotype and environmental factors.
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology 325
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+ten Broeke et al
+
+AUTHORS' DISCLOSURES OF POTENTIAL CONFLICTS OF INTEREST
+
+Lynch Syndrome Caused by Germline PMS2 Mutations: Delineating the Cancer Risk
+
+The following represents disclosure information provided by authors of this manuscript. All relationships are considered compensated. Relationships are self-held unless noted. I  Immediate Family Member, Inst  My Institution. For a detailed description of the disclosure categories, or for more information about ASCO's conflict of interest policy, please refer to the Author Disclosure Declaration and the Disclosures of Potential Conflicts of Interest section in Information for Contributors.
+
+Sanne W. ten Broeke No relationship to disclose
+
+Arjen R. Mensenkamp Consulting or Advisory Role: AstraZeneca (Inst)
+
+Richard M. Brohet No relationship to disclose
+
+Pal Moller No relationship to disclose
+
+Carli M. Tops No relationship to disclose
+Heleen M. van der Klift No relationship to disclose
+Mary E. Velthuizen No relationship to disclose
+Inge Bernstein No relationship to disclose
+Gabriel Capellá Munar Leadership: VCN Biosciences Stock or Other Ownership: VCN Biosciences Honoraria: VCN Biosciences Consulting or Advisory Role: VCN Biosciences
+Encarna Gomez Garcia No relationship to disclose
+Nicoline Hoogerbrugge Consulting or Advisory Role: AstraZeneca Travel, Accommodations, Expenses: AstraZeneca
+Tom G.W. Letteboer No relationship to disclose
+
+Theo A. van Os No relationship to disclose
+Nils Rahner No relationship to disclose
+Bert J.W. Redeker No relationship to disclose
+Rolf H. Sijmons No relationship to disclose
+Liesbeth Spruijt No relationship to disclose
+Manon Suerink No relationship to disclose
+Yvonne J. Vos No relationship to disclose
+Anja Wagner No relationship to disclose
+Frederik J. Hes No relationship to disclose
+Hans F. Vasen No relationship to disclose
+
+Fred H. Menko No relationship to disclose
+
+Maartje Nielsen No relationship to disclose
+
+Annika Lindblom No relationship to disclose
+
+Juul T. Wijnen No relationship to disclose
+
+© 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52 Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Country
+The Netherlands Denmark Spain Sweden Norway Germany
+
+Delineating the PMS2 Cancer Risk
+Acknowledgment We thank Medactie for help with editing of the article.
+Appendix
+Table A1. Family Country of Origin
+
+No. of Families
+76 6 6 5 3 2
+
+Table A2. Mean Age at Cancer Diagnosis of Mismatch Repair Gene Mutation Carriers
+
+PMS2
+
+MLH1/MSH24
+
+MSH65
+
+Cancer
+CRC Including probands Excluding probands
+EC Including probands Excluding probands
+
+Mean Age (years)
+52 58
+55 54
+
+Range (years)
+26-86 31-86
+35-81 35-68
+
+Mean Age (years) 47 47
+
+Range (years) 15-95 26-75
+
+Mean Age (years) 59 54
+
+Range (years) 30-90 32-82
+
+Abbreviations: CRC, colorectal carcinoma; EC, endometrial carcinoma.
+
+Frequency
+
+14
+12
+10
+8
+6
+4
+2
+0 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100
+Age at CRC Development (years)
+Fig A1. Histogram of mean age of colorectal cancer (CRC) development in probands with a heterozygous PMS2 mutation. The gray line indicates age 30 years, which is the suggested start of colorectal surveillance.
+
+www.jco.org
+
+© 2014 by American Society of Clinical Oncology
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52
+
+Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+Frequency
+
+ten Broeke et al
+14 12 10
+8 6 4 2 0
+15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100
+Age at CRC Development (years)
+Fig A2. Histogram of mean age of colorectal cancer (CRC) development in family members with a heterozygous PMS2 mutation. The gray line indicates age 30 years, which is the suggested start of colorectal surveillance.
+
+© 2014 by American Society of Clinical Oncology
+
+JOURNAL OF CLINICAL ONCOLOGY
+
+Information downloaded from jco.ascopubs.org and provided by at Harvard Libraries on July 6, 2016 from 128.103.149.52 Copyright © 2015 American Society of Clinical Oncology. All rights reserved.
+
+

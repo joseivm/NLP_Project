@@ -1,0 +1,580 @@
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+Cancer genetics
+
+ORIGINAL ARTICLE
+High cumulative risks of cancer in patients with PTEN hamartoma tumour syndrome
+Virginie Bubien,1 Françoise Bonnet,1,2 Veronique Brouste,3 Stéphanie Hoppe,3 Emmanuelle Barouk-Simonet,1 Albert David,4 Patrick Edery,5 Armand Bottani,6 Valérie Layet,7 Olivier Caron,8 Brigitte Gilbert-Dussardier,9 Capucine Delnatte,10 Catherine Dugast,11 Jean-Pierre Fricker,12 Dominique Bonneau,13 Nicolas Sevenet,1,2 Michel Longy,1,2 Frédéric Caux,14 French Cowden Disease Network*
+
+ Additional material is published online only. To view please visit the journal online (http://dx.doi.org/10.1136/ jmedgenet-2012-101339). For numbered affiliations see end of article. Correspondence to Dr Michel Longy, Cancer Genetics Unit, Institut Bergonié, 229, cours de l'Argonne, Bordeaux cedex 33076, France; m.longy@bordeaux.unicancer.fr *A full list of the French Cowden disease network members is listed in appendix 1. Received 9 October 2012 Revised 13 December 2012 Accepted 17 December 2012 Published Online First 18 January 2013
+To cite: Bubien V, Bonnet F, Brouste V, et al. J Med Genet 2013;50: 255­263.
+
+ABSTRACT Background PTEN hamartoma tumour syndrome (PHTS) encompasses several clinical syndromes with germline mutations in the PTEN tumour suppressor gene, including Cowden syndrome which is characterised by an increased risk of breast and thyroid cancers. Because PHTS is rare, data regarding cancer risks and genotype­phenotype correlations are limited. The objective of this study was to better define cancer risks in this syndrome with respect to the type and location of PTEN mutations. Methods 154 PHTS individuals with a deleterious germline PTEN mutation were recruited from the activity of the Institut Bergonié genetic laboratory. Detailed phenotypic information was obtained for 146 of them. Age and sex adjusted standardised incidence ratio (SIR) calculations, cumulative cancer risk estimations, and genotype­phenotype analyses were performed. Results Elevated SIRs were found mainly for female breast cancer (39.1, 95% CI 24.8 to 58.6), thyroid cancer in women (43.2, 95% CI 19.7 to 82.1) and in men (199.5, 95% CI 106.39 to 342.03), melanoma in women (28.3, 95% CI 7.6 to 35.4) and in men (39.4, 95% CI 10.6 to 100.9), and endometrial cancer (48.7, 95% CI 9.8 to 142.3). Cumulative cancer risks at age 70 were 85% (95% CI 70% to 95%) for any cancer, 77% (95% CI 59% to 91%) for female breast cancer, and 38% (95% CI 25% to 56%) for thyroid cancer. The risk of cancer was two times greater in women with PHTS than in men with PHTS ( p<0.05). Conclusions This study shows a considerably high cumulative risk of cancer for patients with PHTS, mainly in women without clear genotype­phenotype correlation for this cancer risk. New recommendations for the management of PHTS patients are proposed.
+INTRODUCTION Cowden syndrome (CS) is an autosomal dominant inherited disorder characterised by macrocephaly, benign lesions that can develop in many organs, and an increased risk of breast, thyroid and possibly other cancers.1 It is allelic to other seemingly unrelated clinical syndromes including the paediatric form Bannayan­Riley­Ruvalcaba syndrome (BRRS), Lhermitte­Duclos disease (LDD), SOLAMEN (segmental overgrowth, lipomatosis, arteriovenous malformation and epidermal nevus) syndrome, macrocephaly/autism syndrome, and juvenile
+
+polyposis syndrome,2­6 which are collectively referred to as PTEN hamartoma tumour syndrome (PHTS).7
+The PTEN gene, located on chromosome 10q23.3, encodes a dual specificity phosphatase that plays a tumour suppression role by negatively regulating the PI3K/Akt/mTOR cell survival signalling pathway.8 The PTEN structure reveals two main domains: the phosphatase domain (aa 7­185) which contains the PTEN active site in exon 5; and the C2 domain (aa 186­351) which binds phospholipids and positions the catalytic domain on the membrane.9
+Although it is generally accepted that CS patients show an elevated risk for breast and thyroid cancers, with risks generally being reported around 25­50% for breast cancer and 3­10% for thyroid cancer,10­12 more recent studies have revealed a higher risk for breast and thyroid cancers and have extended this elevated risk to other cancer sites including endometrial, kidney, colorectal cancers, and melanoma.13 14
+Because CS is rare and diagnosis difficult due to highly variable expressivity, data regarding genotype­phenotype correlations are limited and mostly based on a collection of case series, each generally comprising a small number of patients. To date, most studies have failed to demonstrate a consistent genotype­phenotype correlation in CS.15­18 This study aims to clarify these issues by: (1) collecting phenotypic and molecular data in a large series of PHTS patients sharing a deleterious germline PTEN mutation; (2) assessing cancer risks in these patients; and (3) investigating if a correlation exists between genotype and cancers, but also between genotype and non-malignant findings of the PHTS. The information generated by our data will also allow us to clarify and adapt surveillance recommendations.
+PATIENTS AND METHODS Patients Between January 1997 and December 2008, 546 patients were referred for PTEN mutation analysis to the Institut Bergonié genetic laboratory (Bordeaux, France) as part of a molecular diagnosis of PHTS. Of these 546 patients, 99 were shown to be carriers of a deleterious germline PTEN mutation and were selected for the study. Patients with a typical CS phenotype without identified PTEN mutations were excluded. Among families of
+
+Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+255
+
+Cancer genetics
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+selected patients, 55 supplementary carriers of a deleterious germline PTEN mutation were identified by genetic testing. In all cases, the PTEN mutation search was made after obtaining a signed informed consent in the context of a medical genetic diagnosis of suspected PHTS, in compliance with the French law on genetic testing (law number 94­654).
+From the 154 selected patients, detailed phenotypic information was obtained for 146 who constitute the main study population. These patients were from 98 distinct PHTS families. Most of them lived in France (96% (132/146)); the others were Spanish, Portuguese, Swiss, Algerian and Tunisian. There were 70 women and 76 men, with a median age of 36 years (range 6 months­76 years), and 27% (39/146) of these patients were under 20 years old.
+Finally, from selected patients, three kinds of indications for PTEN analysis could be distinguished: (1) various findings evocative of PHTS without associated cancer (n=63, 43%); (2) various findings evocative of PHTS with one or more cancers (n=33, 23%); and (3) genetic tests in family members in which a PTEN mutation had been previously identified (n=50, 34%). A PTEN analysis was never requested when there was only the presence of cancer in the index case and in his/her family as no mutations have been found with this indication.
+Molecular analysis PTEN mutation analysis was performed with a combination of denaturing gradient gel electrophoresis, denaturing high performance liquid chromatography, and direct Sanger sequencing to detect point mutations, and with a combination of multiplex amplifiable probe hybridisation and quantitative multiplex PCR of short fluorescent fragments to detect large deletions.
+Clinical information questionnaires To obtain clinical background information on these patients, we sent a clinical information questionnaire to the various physicians referring patients for PTEN mutation analysis (eg, geneticists, paediatricians, and dermatologists). The questionnaire was composed of 10 parts that investigated the manifestations of CS and the date of their occurrence: age of diagnosis, last news and death; mucocutaneous lesions; gastrointestinal lesions; thyroid lesions; breast lesions; macrocephaly (occipitofrontal circumference >97th centile); brain lesions, lipomatosis and vascular lesions, genitourinary lesions; other cancers.
+Statistical analysis Standardised incidence ratios (SIR) were calculated by an indirect method19 using age and sex adjusted specific incidence data from the French cancer registries (year 2005).20 There were 28 categories on the basis of two genders and 14 age groups. Incidence was assumed to be 0 for categories where statistics were not provided. Person-years of observation (PYO) were calculated for each type of cancer from birth date to the date of cancer for individuals who developed cancer, or to the date of the most recent information for individuals without cancer. The expected number of cancers was calculated by multiplying cancer incidence rates in each of the 28 categories by PYO in each category (indirect standardisation). These analyses were performed using a 95% CI and 2 tests.
+Risks of cancer by age were estimated using Kaplan­Meier survival analysis. Follow-up time for every patient was calculated as the time between the date of birth and the date of cancer diagnosis, last contact, or death. It should be noted that the date of cancer diagnosis was missing for two patients, so in order not to exclude them from the cancer risk calculations, the age at last
+
+news was taken as a substitute. We used the log rank test for comparisons of cancer risks according to the sex of the patients and according to genotype. All analyses were carried out with Stata software (Statacorp, College Station, Texas, USA).
+2 or Fisher tests were performed to analyse correlations between phenotypes and genotypes. Genotypes were classified according to mutation types (truncated vs non truncated mutations) and to the protein domains (phosphatase vs C2 domain). It should be noted that for the phenotype study, according to the protein domain implicated, we had to exclude six patients for whom the presence of a large PTEN deletion affected the two domains studied and ruled out any correlation analyses. Phenotypes were defined according to the questionnaire responses. Individuals under 20 years of age were excluded from the analyses of mucocutaneous lesions (n=39). This meant that the calculation was not affected by age at diagnosis and enabled us to carry out correlation analyses between the genotype and the different cutaneous lesions. Concerning the genital pigmentation analysis, it was performed in all men without reference to age because, if it existed, it was present in the early years of life.
+A value of p<0.05 was considered significant for all statistical tests.
+RESULTS Genotype All patients had a pathogenic germline PTEN mutation; that is, 74 different mutations across the 146 patients (figure 1 and see online supplementary table S1). We observed 49 (34%) frameshift mutations, 44 (30%) missense mutations, 31 (21%) nonsense mutations, 15 (10%) splice mutations, and 7 (5%) large deletions. In total, 102 (70%) mutations were considered as truncated mutations in contrast to missense mutations.
+The mutation spectrum for the 146 probands revealed mutations that were distributed irregularly across exons, with, in decreasing order, 46 (32%) mutations in exon 5, 28 (19%) in exon 8, 18 (12%) in exon 6, and 15 (10%) in exon 7. Few mutations were observed in exons 1 to 4 (between 2­4% according to the exons), but none in exon 9 (figure 1). Germline variations in the 50 UTR of PTEN were excluded due to the uncertainties existing regarding their pathogenic character.
+A total of 82 (59%) mutations occurred within the phosphatase domain, and among them, 12 (15%) concerned the amino acid 130 which is involved into the catalytic site (aa 123­130) of the PTEN protein. The others amino acids of the catalytic site were not concerned. A total of 58 (41%) mutations occurred within the C2 domain of the protein.
+Phenotype The clinical phenotype of each patient was analysed, criterion by criterion, to assess their respective prevalence (table 1). Missing data on questionnaire items are detailed in online supplementary table S1 but are not taken into account in the following calculations. The number of patients with information available is described in brackets for each item.
+Overall, dermatologic features (98%), macrocephaly (93%), gastrointestinal polyps (93%), and breast (74%) and thyroid (71%) benign lesions were the most frequently observed features in our series.
+Specifically, mucocutaneous pathognomonic criteria such as facial papules, oral papillomatosis and acral keratosis were found in more than 70% of patients. In contrast, multiple facial trichilemmomas were found in 38% (23/61) of patients and pigmented penile macules were noted in 48% (23/50) of men.
+
+256 Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+Cancer genetics
+
+Figure 1 Distribution of mutations in the PTEN gene. The spectrum of PTEN mutations reported was frameshift (blue), missense (red), nonsense (green), splice site (grey), and large deletion (black dashed line). The height of the full line is proportional to the mutation recurrence. ATG and TGA are, respectively, the start and stop codons in the PTEN genomic sequence.
+
+Gastrointestinal polyps were observed throughout the digestive tract. Colonic polyps were the most frequent, affecting 85% (67/79) of patients, with various histologies including: hamartomas (44%), lymphoid aggregates (35%), adenomas (34%), ganglioneuromas (25%), and lipomas (6%). Gastric polyps and glycogenic acanthosis of the oesophagus were respectively found in 73% (44/60) and 48% (28/58) of patients.
+For breast lesions, fibrocystic disease was the most frequently reported, affecting 47% (26/55) of women in the study. Other benign lesions were less reported including papillomas, adenomas, hamartomas, lipomas, and a few cases of virginal breast hypertrophy. For the thyroid lesions, multiheteronodular goitres and adenomas were the most often reported, affecting respectively 62% (81/131) and 23% (30/131) of patients with a median age of 26 (range 6­66) years.
+We also noted less prevalent clinical features such as lipomas (48%), vascular malformations (35%), and genitourinary lesions that were especially found in women (52%) with ovarian cysts (37%) and uterine fibromas (25%). For neurologic disorders, LDD was observed in 13% (19/144) of patients, and mental retardation--with or without autism--in 10% (15/144) of cases.
+Furthermore, we noted the occurrence of 13 (9%) deaths during the study with a median age of 50 (range 28­71) years. Nine patients died after developing cancer, two of whom were young adults (28 and 33 years). Two other patients died of cardiac decompensation resulting from important high flow vascular malformations at age 29 and 32 years. The last two patients died of other causes at an older age.
+Cancer description Forty per cent (59/146) of patients developed cancer with a median age of 36 (range 4­63) years; 75% (44/59) of them had only one cancer, 20% (12/59) had two separate cancers, and
+
+5% (3/59) had three separate cancers (table 1 and see online supplementary table S2).
+The most commonly reported cancer for women was breast cancer (34%, n=23/68) with a median age of 42 (range 27­50) years. Of female CS patients diagnosed with breast cancer, 48% (11/23) had bilateral disease. In the 21 cases of breast cancer for whom histopathology analysis data were available, eight (38%) were intraductal carcinomas and 13 (62%) were invasive ductal carcinomas. Of these, six were associated with intraductal carcinomas and two were apocrine carcinomas.
+The second most frequently reported cancer was thyroid cancer (17%, n=24/140) with a median age of 31 (range 16­57) years. Note that 10 of the 24 reported cases were precancerous lesions, including papillary microcarcinomas and minimally invasive follicular carcinomas. In the 22 cases of thyroid cancer with histopathology data available, 13 (59%) were papillary carcinomas, six (27.5%) were follicular carcinomas, one (4.5%) was a hybrid tumour between follicular and papillary types, one (4.5%) was a medullary carcinoma, and one (4.5%) was an oxyphil cell tumour. This distribution confirms the known relative overrepresentation of follicular carcinomas in CS, particularly for patients over 18 years of age,21 with six cases among the 20 patients over 18.
+Few cases of cancer were reported for the other organs at risk. We observed 6% of melanoma (n=9), 3% of colorectal cancer (n=4), 3% of ovary cancer (n=4), 2% of endometrial cancer (n=3), and 2% of renal cell carcinoma (n=3). Note that three of the four ovary cancers were embryonic tumours. Other types of cancer were reported more sporadically (n2) such as testicular, lung, ethmoid, vocal cord, and parotid cancers, and basal cell carcinoma.
+Cancer risks An elevated risk of cancer was found overall for both women (age and sex adjusted SIR 22.9, 95% CI 16 to 31.6) and men (SIR
+
+Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+257
+
+Cancer genetics
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+Table 1 Genotype­phenotype analysis in 146 patients with PTEN hamartoma tumour syndrome
+
+Lesion types (informative population)
+
+Number n (%)
+
+Mutation types Truncated (%)
+
+No truncated (%)
+
+p Value*
+
+Protein domains Phosphatase (%)
+
+C2 (%)
+
+p Value*
+
+Mucocutaneous lesions (98) Oral papillomatosis (92) Acral keratosis (92)
+
+96 (98) 78 (85) 75 (82)
+
+­ 53/65 (81) 57/66 (86)
+
+­ 25/27 (92) 18/26 (69)
+
+­­ 0.2 47/55 (85) 0.1 44/53 (83)
+
+­ 28/34 (82) 27/34 (79)
+
+­ 0.7 0.7
+
+Trichilemmomas (61)
+
+23 (38) 15/39 (38)
+
+8/22 (36)
+
+0.9 16/39 (41)
+
+6/21 (29)
+
+0.3
+
+Genital pigmentation (50)
+
+23 (46) 18/37 (49)
+
+5/13 (38)
+
+0.5 14/25 (56)
+
+8/24 (33)
+
+0.1
+
+Thyroid lesions
+
+Benign (136)
+
+96 (71) 70/95 (74)
+
+26/41 (63)
+
+0.2 56/76 (74)
+
+36/54 (67) 0.1
+
+Multinodular goitre (131) Adenomas (131) Malignant (140)
+
+81 (62) 30 (23) 24 (17)
+
+­ ­ 18/96 (19)
+
+­ ­ 6/44 (14)
+
+­­ ­­ 0.8 13/79 (16)
+
+­ ­ 10/55 (18)
+
+­ ­ 0.6
+
+Breast lesions
+
+Benign (65) Malignant (68)
+
+48 (74) 23 (34)
+
+­ 15/43 (35)
+
+­ 8/25 (32)
+
+­­ 0.5 13/44 (30)
+
+­ 8/22 (36)
+
+­ 0.5
+
+Bilateral breast cancer (23) Digestive lesions (80) Colonic polyps (79)
+Hamartomas (66)
+
+11 (48) 74 (93) 67 (85) 29 (44)
+
+­ ­ 54/61 (88) ­
+
+­ ­ 13/18 (72) ­
+
+­­ ­­ 0.1 38/46 (83) ­­
+
+­ ­ 24/28 (86) ­
+
+­ ­ 0.7 ­
+
+Lymphoid hyperplasia (65) Adenomas (64) Ganglioneuromas (65) Lipomas (65) Gastric polyps (60) Glycogenic acanthosis (58) Lipovascular lesions
+
+23 (35) 22 (34) 16 (25) 4 (6) 44 (73) 28 (48)
+
+­ ­ ­ ­ ­ 20/43 (46)
+
+­ ­ ­ ­ ­ 8/15 (53)
+
+­­ ­­ ­­ ­­ ­­ 0.6 18/33 (54)
+
+­ ­ ­ ­ ­ 8/21 (38)
+
+­ ­ ­ ­ ­ 0.2
+
+Lipomatosis (135)
+
+65 (48) 50/93 (54)
+
+15/42 (36)
+
+0.2 33/76 (43)
+
+27/53 (51) 0.2
+
+Vascular lesions (136)
+
+48 (35) 33/94 (35)
+
+15/42 (35)
+
+0.6 28/77 (36)
+
+19/53 (36) 0.6
+
+Brain lesions
+
+Macrocephaly (122) Lhermitte­Duclos (144)
+
+113 (93) 19 (13)
+
+­ ­
+
+­ ­
+
+­­ ­­
+
+­­ ­­
+
+Mental retardation/autism (144)
+
+15 (10) ­
+
+­
+
+­­
+
+­­
+
+Epilepsy (144) Genitourinary lesions
+
+12 (8)
+
+­
+
+­
+
+­­
+
+­­
+
+Male (57) Female (52)
+Ovarian cyst (52) Uterine fibromas (52)
+
+5 (9) 27 (52) 19 (37) 13 (25)
+
+­ ­ ­ ­
+
+­ ­ ­ ­
+
+­­ ­­ ­­ ­­
+
+­­ ­­ ­­ ­­
+
+*A value of p<0.05 was considered to be statistically significant. -, 2 tests could not be performed when age at onset of lesions was not available (benign breast lesions, neurologic and genitourinary anomalies), or when clinical features were present in almost all documented cases (global dermatologic lesions, gastrointestinal polyps and macrocephaly). Fisher test.
+
+11.9, 95% CI 7.5 to 17.9) and especially for: female breast cancer (SIR 39.1, 95% CI 24.8 to 58.6); thyroid cancer in women (SIR 43.2, 95% CI 19.7 to 82.1) and in men (SIR 199.5, 95% CI 106.4 to 342); endometrial cancers (SIR 48.7, 95% CI 9.8 to 142.3); melanoma in women (SIR 28.3, 95% CI 7.6 to 35.4) and in men (SIR 39.4, 95% CI 10.6 to 100.9); and for kidney cancer in women (SIR 48.9, 95% CI 5.5 to 176.5). Age and sex adjusted SIRs were not statistically significant for colorectal cancer for women or men, nor was kidney cancer for men (table 2).
+We observed that the cumulative risk of cancer at age 70 (for any cancer) was 85% (95% CI 70% to 95%), and that this risk was significantly higher ( p=0.01) among women at age 50 (81%, 95% CI 65% to 92%) than among men at age 50 (48%, 95% CI 32% to 66%). This confirms the results obtained by the calculation of the SIR above, showing that the risk of developing any cancer was two times greater in women (SIR 22.9) than in men (SIR 11.9). The cumulative cancer risk at age 70 was 77% (95% CI 59% to 91%) for female breast cancer and 38%
+
+(95% CI 25% to 56%) for thyroid cancer across both genders (table 3 and figure 2). Note that the evaluation of the cancer risk by the Kaplan­Meier method was carried out only for cancer in general, and breast and thyroid cancers, due to the low number of cases reported for the other types of cancer (see online supplementary table S2).
+Genotype­phenotype correlations No significant correlation ( p>0.05) was found between the occurrence of the different types of cancer that were investigated and the mutation type (truncated mutations vs no truncated mutations) or the protein domain ( phosphatase domain vs C2 domain). These results are reported in online supplementary figures (S1­S6).
+No significant correlation ( p>0.05) has been demonstrated between the non-malignant clinical features of PHTS that were investigated and the mutation type or the protein domain. These results are reported in table 1.
+
+258 Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+Cancer genetics
+
+Table 2 Standardised incidence rates (SIR) of cancer in the patient population
+
+Number of cancers
+
+Observed Expected SIR 95% CI
+
+p Value*
+
+Cancer in women
+
+Any cancer 36
+
+Breast
+
+23
+
+Thyroid
+
+9
+
+Endometrium 3
+
+Melanoma
+
+4
+
+Kidney
+
+2
+
+Colorectal
+
+1
+
+Cancer in men
+
+Any cancer 23
+
+Thyroid
+
+13
+
+Melanoma
+
+4
+
+Kidney
+
+1
+
+Colorectal
+
+3
+
+1.574556 0.588648 0.208104 0.061619 0.141305 0.040909 0.150113
+
+22.9 16.01 to 31.65 <0.001
+
+39.1 24.8 to 58.6 <0.001
+
+43.2 19.7 to 82.1 <0.001
+
+48.7 9.8 to 142.3 <0.001
+
+28.3 7.6 to 35.4 <0.001
+
+48.9 5.49 to 176.55 0.004
+
+6.7 0.087 to 37.1
+
+0.28
+
+1.931316 0.065173 0.101499 0.092144 0.526837
+
+11.9 199.5 39.4 10.8
+5.7
+
+7.5 to 17.9 106.39 to 342.03
+10.6 to 100.9 0.14 to 60.47 1.14 to 16.64
+
+<0.001 <0.001 <0.001
+0.18 0.036
+
+SIR, standardised incidence ratio observed/expected. *2 tests.
+
+DISCUSSION We report the phenotypic evaluation of 146 patients carrying a deleterious germline PTEN mutation and we observe a considerably high cumulative risk of cancer, especially in women. No genotype­phenotype correlations for malignant pathologies or for findings of the disease were observed.
+Cancer risks This study underlines the severity of cancers in CS and provides estimations of the cancer risk. Overall, 40% of patients in this study developed a cancer, with one quarter developing tumours across two or three different sites. Cancer was the main cause of death during this study with a young median age at death of 36 years.
+In accordance with other reports,1 the two most frequently reported cancers were female breast cancer, with bilateral tumours in almost half of the cases, and thyroid cancer. For both of these sites, median age at diagnosis was young, with the youngest patients in our series being 27 and 16 years old, respectively.
+The cumulated risks observed at 70 years for breast cancer (77%) and for thyroid cancer (38%) are much higher than those observed in the general population (12% and <1%, respectively) and those described until recently in the literature (see online supplementary table S2).1 It is possible that these high estimates may be related to a recruitment bias in our study, because one third of the patients in this study presented with, or had already had, a cancer at the time of the request for PTEN gene analysis. However, most patients (2/3) did not have
+
+cancer when the PTEN gene analysis was requested. Further, one third of these patients were selected from genetic tests after identification of a mutation in the family and therefore did not present any recruitment bias. Interestingly, the cumulative risk of cancer is similar in this population to that in patients recruited for primary PTEN analysis (see online supplementary figure S7). In this respect, the cancer risks that we report appear not to be greatly overestimated, given the indications of the genetic analysis.
+In addition, the prevalences of breast and thyroid cancers are similar to those reported in two recent articles presenting the same recruitment bias. The first study14 is a meta-analysis describing 211 CS patients, half (48%) of whom did not have deleterious germline PTEN mutations, and reporting a cumulated risk at 70 years of 81% for breast cancer and 21% for thyroid cancer. The second study13 describes 368 patients with deleterious germline PTEN mutations and reports cumulative risks at 70 years of 85.2% for breast cancer, 35.2% for thyroid cancer, and high SIRs of 25.4 and 51.1, respectively.
+In addition to breast and thyroid cancer, four other tumour sites were overrepresented in this article.13 High SIR and cumulative risks at 70 years were reported for endometrium cancer (42.9% and 28.2%, respectively), renal cell cancer (30.6% and 33.6%), colorectal cancer (10.3% and 9%), and melanoma (8.5% and 6%). In our study, we observed high SIR for these sites compared to the general population, but the number of cases observed for endometrium cancer (4%, 3/70) and renal cancer (2%, 3/146) are lower than those reported by Tan et al.13 The risk of endometrium cancer may have been underevaluated in our study because women with CS are often more likely to receive a hysterectomy for benign utero-ovarian tumours and are thus protected against the risk of cancer to the endometrium. Further, our results are not significant for kidney cancer in men and colorectal cancer. The risk of colorectal cancer is lower than the risk observed in other sites in contrast to the results from a recent series reporting a cumulative risk of 13% with a high SIR of 224.1 (95% CI 109.3 to 411.3).22 For melanoma, our results are significant for women and men and are associated with a higher number of cases in our study (6%) than in Tan et al's (2%). The melanoma risk for patients with PTEN mutations appears higher than previously reported, and with particularly early onset as the youngest case was for a 6-year-old patient in our series and a 3-year-old in Tan et al's study.
+Overall, the risk of malignant tumours across all locations is very high, with a cumulative risk at 70 years of 85%. The cumulative risk at age 30 is also comparatively high at 23%. Cancer risk is higher for women in general (81%) than for men (48%), which is partially explained by the rate of breast cancer which is the most frequent cancer in CS. Interestingly, this observation contrasts with our observations for thyroid cancer with a higher SIR for men (199.5) than for women (43.2), supporting a previous report by Ngeow et al.21 This difference may be explained
+
+Table 3 Cumulative cancer risk* by age and type of cancer in 146 patients with PTEN hamartoma tumour syndrome
+
+Sites
+
+20 years
+
+30 years
+
+40 years
+
+50 years
+
+60 years
+
+All cancers Breast (female) Thyroid
+
+8% (4% to 14%) 0
+5% (2% to 11%)
+
+23% (16% to 32%) 8% (3% to 20%) 11% (7% to 19%)
+
+40% (32% to 52%) 27% (16% to 44%) 20% (13% to 30%)
+
+*Cumulative risks were estimated using Kaplan­Meier method and Stata software. 95% CIs in parentheses.
+
+65% (54% to 77%) 77% (59% to 91%) 30% (20% to 44%)
+
+75% (62% to 87%) 77% (59% to 91%) 38% (25% to 56%)
+
+70 years
+85% (70% to 95%) 77% (59% to 91%) 38% (25% to 56%)
+
+Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+259
+
+Cancer genetics
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+Figure 2 Kaplan­Meier estimation of cumulative lifetime cancer risks in patients with PTEN hamartoma tumour syndrome or Cowden syndrome (grey lines: 95% CIs). (A) Cumulative risk of any cancer. (B) Cumulative risk of any cancer according to sex (full line: female; dashed line: male; p: log rank test). (C) Cumulative risk of female breast cancer. (D) Cumulative risk of thyroid cancer.
+
+by the fact that, in a general population, thyroid cancer occurs less frequently in men. This does not appear to be the case for CS where we see similar rates of thyroid cancer for both men and women, suggesting that there may be a different determinism for thyroid cancer according to whether it is observed in the general population or in a CS population.
+Genotype­phenotype correlations We also investigated individual variations in cancer risk through an analysis of associations with different types of mutations, but no significant genotype­phenotype correlations were found. A significant correlation has been observed between truncating mutations and colorectal cancer,13 but we did not observe the same results, possibly because of such low numbers of colorectal cancer cases. Tan et al13 also found a significant correlation between mutations in the promoter and breast cancer; a finding that we did not seek to replicate as we did not analyse the PTEN promoter due to the debatable pathogenicity of these mutations.
+Animal models have also reported a genotype­phenotype effect for two missense mutations (C124R and G129E) of the PTEN catalytic site and a loss of function mutation (Pten4-5).23 The G129E mutation in mice appears to be frequently associated with an aggressive and varied tumoral phenotype, developing breast, thyroid and prostate tumours. Benign tumours of the endometrium are also described. The same tumoral spectrum (except for prostate) is observed for mice with C124R mutations, but the tumours are less frequent and less aggressive. These two missense mutations were not found in our series but have been described in the literature for patients with PHTS. A skin cancer and a breast cancer in one family, and a melanoma, a breast cancer and a glioblastoma in another family have been reported for four carriers of the G129E mutation.15 24
+
+One case of colorectal cancer has also been described in one out of three families for three carriers of C124R mutations.15 25 Overall, half of the families with G129E mutations do not present any cancer. The patterns indicated from mice studies do not appear to be clearly reproducible in man.
+Despite the description of some interesting phenotypes in mice and in man, no genotype­phenotype correlations appear to exist for CS. This impression is in agreement with previous reports15 17 and is supported by the large intra-familial variability in the disease, with the observation of different phenotypes such as CS, BRRS, LDD, SOLAMEN, macrocephaly-autism and juvenile polyposis syndromes for the same germline mutation. Several examples demonstrate this variability. One patient presented with a typical SOLAMEN syndrome while five other members of her family had a standard form of the disease.4 In another example in a family of four, the index patient was the only one to have LDD along with other signs of the disease; and in a final example in a family of five, the index patient was the only to present with a cognitive impairment. Overall, the absence of any demonstrated genotype­phenotype correlations indicates that the variability of the expression of the disease depends more on the action of modifying genes.26
+Proposition of new surveillance recommendations Finally, these updated cancer risks mean that adapting the care and management of patients with CS or PHTS is essential, especially for the risk of breast cancer for women, which appears similar to predisposition rates for BRCA1-2, but also for the risk of thyroid cancer where cases have been reported as early as age 10, 11 and 1327 28 and at 16 years in our series. New recommendations for the management of these patients are proposed in table 4. This management should vary according to the patient's age and sex.
+
+260 Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+Cancer genetics
+
+Table 4 Proposed surveillance recommendations for PTEN hamartoma tumour syndrome
+
+Type of screening
+
+When to begin
+
+In general Complete physical exam and lesion assessment Patient education Psychological interventions
+Brain Psychomotor assessment Brain MRI
+Thyroid Thyroid ultrasound Total thyroidectomy
+Skin Dermatological exam
+Vascular system Clinical exam Surgery/embolisation
+Breast in female If mild breast dystrophy Clinical breast exam and breast ultrasound Mammogram and breast MRI
+If severe breast dystrophy Clinical breast exam and breast MRI Prophylactic mastectomy
+Colon Colonoscopy
+
+At PHTS diagnosis Regarding signs and symptoms of cancer
+In children, at diagnosis Only if symptomatic
+Age 10 years If multinodular goitre or if surgery required
+At PHTS diagnosis
+At PHTS diagnosis At vascular lesion diagnosis
+Age 25 years Age 30 or 5 years before earliest known breast cancer in the family
+Age 20 years or before if symptomatic Age 25­30 years
+Age 30 years
+
+Kidney Renal ultrasound and/or renal MRI
+
+Age 30 years
+
+Endometrium Endometrial ultrasound
+Hysterectomy PHTS, PTEN hamartoma tumour syndrome.
+
+Age 35­40 years or 5 years before earliest known endometrial cancer in the family
+If symptomatic
+
+How often Annually
+Annually
+Annually
+Annually Annually
+Annually Annually
+Annually
+Every 5 years or every 3 years if polyposis or adenomas found Annually if family history of renal cancer or every 2 years if not Annually
+
+In children, the assessment at diagnosis will primarily concern psychomotor development and research of dermatological, thyroid lesions and vascular malformations. Monitoring should be annual, including complete clinical examination, specific dermatologic examination, psychomotor assessment, and thyroid ultrasound from the age of 10 years.
+In adults, the management is dominated by cancer risk. (1) The assessment at diagnosis must include a complete (and especially dermatological and neurological) clinical examination, mammography and breast MRI, thyroid ultrasound, transvaginal ultrasound, upper gastrointestinal endoscopy, colonoscopy, and renal ultrasound. A systematic brain MRI is more questionable because surgical treatment of brain lesions is indicated only if they are symptomatic. (2) The management of breast cancer risk depends on the quality of screening. If an important mammary dystrophy exists, annual clinical examination and breast MRI at the age of 20 years is recommended, or sooner if symptoms develop, and a prophylactic mastectomy can be discussed from the age of 25­30 years. In the case of moderate breast lesions, annual clinical examination and breast ultrasound are recommended from the age of 25 years, then annual mammography and breast MRI from the age of 30 years. (3) The management of endometrial cancer risk is based on an annual transvaginal ultrasound from the age of 35­40 years, and the indication for hysterectomy depends on the existence of benign lesions such
+
+uterine leiomyoma. (4) The management of thyroid cancer risk is based on an annual thyroid ultrasound and total thyroidectomy in cases of multiple nodules or multinodular goitre. (5) The management of kidney cancer risk is based on an annual renal ultrasound and/or renal MRI if there is a family history of renal cancer, or every 2 years if not. (6) The management of colorectal cancer risk is based on a systematic colonoscopy starting at age 30 years, then every 5 years or every 3 years if a severe polyposis and/or adenomatous polyps are found.
+For the treatment of PHTS, three points are important: (1) complications of deep vascular malformations are frequent and justify an early treatment by embolisation or surgical resection; (2) the existence of melanoma in a child justifies excision of all suspicious melanic lesions; and (3) the existence of thyroid cancer after subtotal thyroidectomy justifies a total thyroidectomy when surgical resection of the thyroid lesions is indicated.
+Author affiliations 1Cancer Genetics Unit, Institut Bergonié, Bordeaux, France 2Inserm U 916 Institut Bergonié, Université de Bordeaux, Bordeaux, France 3Clinical and Epidemiological Research Unit, Institut Bergonié, Bordeaux, France 4Medical Genetics Unit, Centre Hospitalier Universitaire de Nantes, Nantes, France 5Department of Genetics, Hospices Civils de Lyon, Bron, France 6Medical Genetics Unit, Centre Hospitalier Universitaire de Genève, Geneve, Switzerland 7Medical Genetics Unit, Hôpital Jacques Monod, Le Havre, France
+
+Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+261
+
+Cancer genetics
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+8Cancer Genetics Unit, Institut Gustave Roussy, Villejuif, France 9Medical Genetics Unit, Centre Hospitalier Universitaire de Poitiers, Poitiers, France 10Cancer Genetics Unit, Centre Gauducheau, Nantes, France 11Cancer Genetics Unit, Centre Eugène Marquis, Rennes, France 12Cancer Genetics Unit, Centre Paul Strauss, Strasbourg, France 13Medical Genetics Unit, Centre Hospitalier Universitaire d'Angers, Angers, France 14Department of Dermatology, Hôpital Avicenne, Université Paris 13-Sorbonne Paris Cité, Bobigny, France
+Acknowledgements We thank the patients who contributed to this study. We thank Bernadette Gastaldello and Delfine Lafont who performed PTEN mutation analysis and Pippa McKelvie-Sebileau of Institut Bergonié for medical editorial assistance.
+Contributors ML planned and supervised the work; VBu, EB, AD, PE, AB, VL, OC, BG, CDe, CDu, JPF, DB, ML and FC provided patient information and samples; VBr and SH performed statistical analyses; VBu analysed and interpreted the data; VBu, ML and FC wrote the manuscript. All authors revised and approved the final version of the manuscript.
+Funding This work was supported by the Institut National du Cancer (INCa, Boulogne-Billancourt) as part of the French Cowden Syndrome Network.
+Competing interests None.
+Patient consent Obtained.
+Provenance and peer review Not commissioned; externally peer reviewed.
+REFERENCES
+1 Pilarski R. Cowden syndrome: a critical review of the clinical literature. J Genet Couns 2009;18:13­27.
+2 Cohen MM Jr. Bannayan-Riley-Ruvalcaba syndrome: renaming three formerly recognized syndromes as one etiologic entity. Am J Med Genet 1990;35:291­2.
+3 Padberg GW, Schot JD, Vielvoye GJ, Bots GT, de Beer FC. Lhermitte-Duclos disease and Cowden disease: a single phakomatosis. Ann Neurol 1991;29:517­23.
+4 Caux F, Plauchu H, Chibon F, Faivre L, Fain O, Vabres P, Bonnet F, Selma ZB, Laroche L, Gerard M, Longy M. Segmental overgrowth, lipomatosis, arteriovenous malformation and epidermal nevus (SOLAMEN) syndrome is related to mosaic PTEN nullizygosity. Eur J Hum Genet 2007;15:767­73.
+5 Butler MG, Dasouki MJ, Zhou XP, Talebizadeh Z, Brown M, Takahashi TN, Miles JH, Wang CH, Stratton R, Pilarski R, Eng C. Subset of individuals with autism spectrum disorders and extreme macrocephaly associated with germline PTEN tumour suppressor gene mutations. J Med Genet 2005;42:318­21.
+6 Olschwang S, Serova-Sinilnikova OM, Lenoir GM, Thomas G. PTEN germ-line mutations in juvenile polyposis coli. Nat Genet 1998;18:12­4.
+7 Blumenthal GM, Dennis PA. PTEN hamartoma tumor syndromes. Eur J Hum Genet 2008;16:1289­300.
+8 Maehama T, Dixon JE. The tumor suppressor, PTEN/MMAC1, dephosphorylates the lipid second messenger, phosphatidylinositol 3,4,5-trisphosphate. J Biol Chem 1998;273:13375­8.
+9 Lee JO, Yang H, Georgescu MM, Di CA, Maehama T, Shi Y, Dixon JE, Pandolfi P, Pavletich NP. Crystal structure of the PTEN tumor suppressor: implications for its phosphoinositide phosphatase activity and membrane association. Cell 1999;99:323­34.
+10 Starink TM, van d V, Arwert F, de Waal LP, de Lange GG, Gille JJ, Eriksson AW. The Cowden syndrome: a clinical and genetic study in 21 patients. Clin Genet 1986;29:222­33.
+11 Eng C. Will the real Cowden syndrome please stand up: revised diagnostic criteria. J Med Genet 2000;37:828­30.
+12 Brownstein MH, Wolf M, Bikowski JB. Cowden's disease: a cutaneous marker of breast cancer. Cancer 1978;41:2393­8.
+13 Tan MH, Mester JL, Ngeow J, Rybicki LA, Orloff MS, Eng C. Lifetime cancer risks in individuals with germline PTEN mutations. Clin Cancer Res 2012;18:400­7.
+14 Riegert-Johnson DL, Gleeson FC, Roberts M, Tholen K, Youngborg L, Bullock M, Boardman LA. Cancer and Lhermitte-Duclos disease are common in Cowden syndrome patients. Hered Cancer Clin Pract 2010;8:6.
+15 Marsh DJ, Coulon V, Lunetta KL, Rocca-Serra P, Dahia PL, Zheng Z, Liaw D, Caron S, Duboue B, Lin AY, Richardson AL, Bonnetblanc JM, Bressieux JM, Cabarrot-Moreau A, Chompret A, Demange L, Eeles RA, Yahanda AM, Fearon ER, Fricker JP, Gorlin RJ, Hodgson SV, Huson S, Lacombe D, Eng C. Mutation spectrum and genotype-phenotype analyses in Cowden disease and Bannayan-Zonana syndrome, two hamartoma syndromes with germline PTEN mutation. Hum Mol Genet 1998;7:507­15.
+16 Marsh DJ, Kum JB, Lunetta KL, Bennett MJ, Gorlin RJ, Ahmed SF, Bodurtha J, Crowe C, Curtis MA, Dasouki M, Dunn T, Feit H, Geraghty MT, Graham JM Jr, Hodgson SV, Hunter A, Korf BR, Manchester D, Miesfeldt S, Murday VA, Nathanson KL, Parisi M, Pober B, Romano C, Eng C. PTEN mutation spectrum and genotype-phenotype correlations in Bannayan-Riley-Ruvalcaba syndrome suggest a single entity with Cowden syndrome. Hum Mol Genet 1999;8:1461­72.
+
+17 Nelen MR, Kremer H, Konings IB, Schoute F, van Essen AJ, Koch R, Woods CG, Fryns JP, Hamel B, Hoefsloot LH, Peeters EA, Padberg GW. Novel PTEN mutations in patients with Cowden disease: absence of clear genotype-phenotype correlations. Eur J Hum Genet 1999;7:267­73.
+18 Lachlan KL, Lucassen AM, Bunyan D, Temple IK. Cowden syndrome and Bannayan Riley Ruvalcaba syndrome represent one condition with variable expression and age-related penetrance: results of a clinical study of PTEN mutation carriers. J Med Genet 2007;44:579­85.
+19 Rothman J, Greenland S, Lash T. Modern epidemiology. 3rd edn. Philadelphia, PA: Lippincott, Williams & Wilkins: 2008.
+20 Bélot A, Velten M, Grosclaude P, Bossard N, Launoy G, Remontet L, Benhamou E, Chérié-Challine L, Bouyer J, Hemon D, Cordier S, Derriennic F, Stucker I, Stengel B, Clavel J. Estimation nationale de l'incidence et de la mortalité par cancer en France entre 1980 et 2005 Saint-Maurice (Fra): Institut de veille sanitaire, decembre 2008, 132 p. (available at: www.invs.sante.fr)
+21 Ngeow J, Mester J, Rybicki LA, Ni Y, Milas M, Eng C. Incidence and clinical characteristics of thyroid cancer in prospective series of individuals with Cowden and Cowden-like syndrome characterized by germline PTEN, SDH, or KLLN alterations. J Clin Endocrinol Metab 2011;96:E2063­71.
+22 Heald B, Mester J, Rybicki L, Orloff MS, Burke CA, Eng C. Frequent gastrointestinal polyps and colorectal adenocarcinomas in a prospective series of PTEN mutation carriers. Gastroenterology 2010;139:1927­33.
+23 Wang H, Karikomi M, Naidu S, Rajmohan R, Caserta E, Chen HZ, Rawahneh M, Moffitt J, Stephens JA, Fernandez SA, Weinstein M, Wang D, Sadee W, La PK, Stromberg P, Rosol TJ, Eng C, Ostrowski MC, Leone G. Allele-specific tumor spectrum in pten knockin mice. Proc Natl Acad Sci U S A 2010;107:5142­7.
+24 Liaw D, Marsh DJ, Li J, Dahia PL, Wang SI, Zheng Z, Bose S, Call KM, Tsou HC, Peacocke M, Eng C, Parsons R. Germline mutations of the PTEN gene in Cowden disease, an inherited breast and thyroid cancer syndrome. Nat Genet 1997;16:64­7.
+25 Nelen MR, van Staveren WC, Peeters EA, Hassel MB, Gorlin RJ, Hamm H, Lindboe CF, Fryns JP, Sijmons RH, Woods DG, Mariman EC, Padberg GW, Kremer H. Germline mutations in the PTEN/MMAC1 gene in patients with Cowden disease. Hum Mol Genet 1997;6:1383­7.
+26 Freeman D, Lesche R, Kertesz N, Wang S, Li G, Gao J, Groszer M, Martinez-Diaz H, Rozengurt N, Thomas G, Liu X, Wu H. Genetic background controls tumor development in PTEN-deficient mice. Cancer Res 2006;66:6492­6.
+27 Longy M, Lacombe D. Cowden disease. Report of a family and review. Ann Genet 1996;39:35­42.
+28 Tan WH, Baris HN, Burrows PE, Robson CD, Alomari AI, Mulliken JB, Fishman SJ, Irons MB. The spectrum of vascular anomalies in patients with PTEN mutations: implications for diagnosis and management. J Med Genet 2007;44:594­602.
+APPENDIX 1 The French Cowden Disease Network contributing members are: Marc Abramowicz, Medical Genetics Unit, Erasme Hospital, Brussels, Belgium; Didier Bessis, Dermatology Department, CHU, Montpellier, France; Eric Bieth, Medical Genetics Unit, CHU, Toulouse, France; Valérie Bonadona, Cancer Genetics Unit, Centre Léon Bérard, Lyon, France; Jean-Marie Bonnetblanc, Dermatology Department, CHU, Limoges, France; Liliane Demange, Cancer Genetics Unit, Institut Curie, Saint-Cloud, France; François Feillet, Paediatrics Department, Hôpital d'Enfants de Brabois, Vandoeuvre lès Nancy, France; Thierry Frebourg, Medical Genetics Department, CHU Charles-Nicolle, Rouen, France; Sophie Giraud, Medical Genetics Unit, Hôpital Edouard Herriot, CHU, Lyon, France; Irina Giurgea, Genetics Lab, CHIC, Créteil, France; Delphine Heron, Medical Genetics Unit, Hôpital la Pitié Salpêtrière, Paris, France; Muriel Holder, Medical Genetics Department, CHRU, Lille, France; Hubert Journel, Medical Genetics Unit, Centre Hospitalier Bretagne Atlantique, Vannes, France; Sophie Julia, Medical Genetics Department, CHU, Toulouse, France; Maha Kacem, Internal Medicine and Nephrology Unit, CHU Fattouma Bourguiba, Monastir, Tunisia; Sophie Lejeune, Medical Genetics Department, CHRU, Lille, France, Frédéric Leprat, Internal Medicine Unit, Polyclinique du Tondu, Bordeaux, France; Dominique Leroux, Medical Genetics Department, CHU, Grenoble, France; Catherine Lok, Dermatology Department,
+
+262 Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+
+Cancer genetics
+
+CHU, Amiens, France; Alain Lortholary, Cancer Genetics Unit, Centre Catherine de Sienne, Nantes, France; Stanislas, Lyonnet, Medical Genetics Department, Hôpital Necker-Enfants Malades, Paris, France; Geneviève Margueritte, Cancer Paediatrics Unit, CHU, Montpellier, France; Jacques Mauillon, Medical Genetics Department, CHU Charles-Nicolle, Rouen, France; Juliette Mazereeuw-Hautier, Dermatology Department, CHU, Toulouse, France; Sylvie Odent, Medical Genetics Department, CHU, Rennes, France; Clotilde Penet, Cancer Genetics Unit, Centre Jean Godinot, Reims, France; Anne Philippe, INSERM U781, Hôpital Necker-Enfants Malades, Paris, France; Henri Plauchu, Medical Genetics Department, CHU, Lyon, France; Ghislaine Plessis, Medical Genetics Unit,
+
+CHU Clémenceau, Caen, France; Emmanuel Plouvier, Paediatrics Department, CHU, Besançon, France; Marie-Aleth Richard, Dermatology Department, Hôpital Sainte Marguerite, CHU, Marseille, France; Abdelkrim Saadi, Department of Neurology, Hôpital de Benaknoun, Alger, Algeria; Jean-Christophe Saurin, Gastro-enterology Department, CHU, Lyon, France; Julie Tinat, Medical Genetics Department, CHU Charles-Nicolle, Rouen, France; Pierre Vabres, Dermatology Department, CHU, Dijon, France; Lionel Van Maldergem, Medical Genetics Unit, CHIC, Créteil, France; Philippe Vennin, Cancer Genetics Unit, Centre Oscar Lambret, Lille, France; Pierre-Jean Weiller, Internal Medicine Department, CHU, Marseille, France.
+
+Bubien V, et al. J Med Genet 2013;50:255­263. doi:10.1136/jmedgenet-2012-101339
+
+263
+
+Downloaded from http://jmg.bmj.com/ on July 21, 2016 - Published by group.bmj.com
+High cumulative risks of cancer in patients with PTEN hamartoma tumour syndrome
+Virginie Bubien, Françoise Bonnet, Veronique Brouste, Stéphanie Hoppe, Emmanuelle Barouk-Simonet, Albert David, Patrick Edery, Armand Bottani, Valérie Layet, Olivier Caron, Brigitte Gilbert-Dussardier, Capucine Delnatte, Catherine Dugast, Jean-Pierre Fricker, Dominique Bonneau, Nicolas Sevenet, Michel Longy, Frédéric Caux and French Cowden Disease Network
+J Med Genet 2013 50: 255-263 originally published online January 18, 2013
+doi: 10.1136/jmedgenet-2012-101339
+Updated information and services can be found at: http://jmg.bmj.com/content/50/4/255
+
+These include:
+
+Supplementary Supplementary material can be found at:
+
+Material
+
+http://jmg.bmj.com/content/suppl/2013/01/18/jmedgenet-2012-101339 .DC1.html
+
+References This article cites 26 articles, 11 of which you can access for free at:
+http://jmg.bmj.com/content/50/4/255#BIBL
+
+Email alerting service
+
+Receive free email alerts when new articles cite this article. Sign up in the box at the top right corner of the online article.
+
+Topic Collections
+
+Articles on similar topics can be found in the following collections
+Breast cancer (236) Cancer: dermatological (42) Dermatology (238) Endocrine cancer (55) Molecular genetics (1238)
+
+Notes
+
+To request permissions go to: http://group.bmj.com/group/rights-licensing/permissions
+To order reprints go to: http://journals.bmj.com/cgi/reprintform
+To subscribe to BMJ go to: http://group.bmj.com/subscribe/
+
+

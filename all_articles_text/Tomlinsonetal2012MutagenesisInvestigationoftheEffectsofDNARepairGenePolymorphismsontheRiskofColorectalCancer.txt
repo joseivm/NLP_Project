@@ -1,0 +1,255 @@
+Mutagenesis vol. 27 no. 2 pp. 219­223, 2012
+
+doi:10.1093/mutage/ger070
+
+Investigation of the effects of DNA repair gene polymorphisms on the risk of colorectal cancer
+
+Downloaded from http://mutage.oxfordjournals.org/ at Ernst Mayr Library of the Museum Comp Zoology, Harvard University on August 18, 2016
+
+Ian P. M. Tomlinson*, Richard S. Houlston1, Grant W. Montgomery2, Oliver M. Sieber3 and Malcolm G. Dunlop4
+Molecular and Population Genetics Laboratory and Oxford NIHR Comprehensive Biomedical Research Centre, Nuffield Department of Clinical Medicine, Wellcome Trust Centre for Human Genetics, University of Oxford, Roosevelt Drive, Oxford OX3 7BN, UK, 1Section of Cancer Genetics, Institute of Cancer Research, Cotswold Road, Sutton SM2 5NG, UK, 2Genetic and Molecular Epidemiology Laboratories, Queensland Institute of Medical Research, 300 Herston Road, Herston Q4006, Australia, 3Ludwig Colon Cancer Initiative Laboratory, Ludwig Institute for Cancer Research, Royal Melbourne Hospital, Parkville, Victoria, Australia and 4Colon Cancer Genetics Group, Institute of Genetics and Molecular Medicine, Western General Hospital, University of Edinburgh and MRC Human Genetics Unit, Edinburgh EH4 2XU, UK
+*To whom correspondence should be addressed. Molecular and Population Genetics Laboratory, Wellcome Trust Centre for Human Genetics, University of Oxford, Roosevelt Drive, Oxford OX3 7BN, UK. Tel: þ44 (0)1865 287720; Fax: þ44 (0)1865 287501; Email: iant@well.ox.ac.uk
+Received on August 28, 2011; revised on September 13, 2011; accepted on September 15, 2011
+Despite their prime candidate status, polymorphisms near genes involved in DNA repair or in other functions related to genome stability have been conspicuously underrepresented in the significant associations reported from genome-wide association studies (GWAS) of cancer susceptibility. In this study, we assessed a set of singlenucleotide polymorphisms (SNPs) near 157 DNA repair genes in three colorectal cancer (CRC) GWAS. Although no individual SNP showed evidence of association, the set of SNPs as a whole was associated with colorectal cancer risk. When candidate SNPs were examined, our data did not support most of the previously reported associations with CRC susceptibility, an exception being an effect of the MLH1 promoter SNP 293G>A (rs1800734). Rare variants in CHEK2 (I157T and possibly del1100C) also appear to be associated with CRC risk. Overall, the absence to date of disease-associated DNA repair SNPs in cancer GWAS may be explained by a combination of the following: (i) many loci with individually very small effects on risk; (ii) rare alleles of moderate effect and (iii) subgroups of CRC, such as those with microsatellite instability, associated with specific variants. It will be particularly intriguing to determine whether any GWAS across cancer types identify DNA variants that predispose to cancers of more than one site.
+Introduction
+Colorectal cancer genetics Colorectal carcinoma (CRC) affects 5­6% of the Western world population during their lifetime, with a small male
+
+preponderance. In Europe, CRC causes more deaths than any other cancer in the absence of a major avoidable risk factor such as smoking. Although environmental factors, such as diet, influence CRC risk, specific agents and mechanisms of action have been difficult to pin down. Inherited factors also play an important role in CRC predisposition, with a family history of the disease probably being the strongest, easily quantifiable risk factor (apart from a previous personal history of colorectal tumours). Most CRCs probably develop from benign lesions, mainly adenomatous polyps. Screening for adenomas and subsequent removal by colonoscopy or sigmoidoscopy can reduce CRC risk. Many Western countries now have population screening programmes based on these techniques or faecal occult blood testing. Thus, while it is expected that deaths from CRC will fall in Europe as population screening becomes more effective, CRC will continue to be a major killer and the public health burden of colorectal screening is likely to increase considerably.
+The risks of many common diseases, including cancers, are known to depend on inherited factors. Recent progress has led to the identification of panels of common genetic variants that influence risk. For CRC, the known predisposition genes are of two types. Firstly, there patients who harbour high-penetrance mutations that cause rare Mendelian syndromes, often in the familial setting; these include CRC syndromes such as familial adenomatous polyposis (FAP), Lynch syndrome, MUTYHassociated polyposis (MAP) and juvenile polyposis (JPS). Secondly, individuals may carry common genetic variants associated with modest increases in CRC risk in the general population.
+The identification of common polymorphisms associated with CRC risk has occurred in two phases. Initially, such studies were confined to the analysis of candidate polymorphisms, but studies were small and, in retrospect, probably under-powered. It is debatable whether any of the reported associations were demonstrated to sufficiently stringent levels of evidence to be regarded as `proven' (1,2). However, more recently, a genome-wide hypothesis-free approach has been employed in which haplotype tagging single-nucleotide polymorphisms (tagSNPs) are used to screen for associations based on linkage disequilibrum (LD) mapping. For CRC, such genome-wide association studies (GWAS) have identified 17 tagSNPs associated with CRC risk modulation at stringent levels of significance (P , 5 Â 10À8) (3­6). The studies have involved Discovery Phases based on hundreds of thousands of tagSNPs typed in a total of $10 000 CRC cases and controls, and multiple Validation Phases involving tens of thousands of cases and controls derived from the UK and COGENT collaborators throughout Europe (5,7).
+Functions of CRC-associated single-nucleotide polymorphisms
+The nature of the functional variation that is correlated with these single-nucleotide polymorphisms (SNPs) is largely unknown, and studies to identify such variation can be difficult
+
+Ó The Author 2012. Published by Oxford University Press on behalf of the UK Environmental Mutagen Society. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com.
+
+219
+
+I. P. M. Tomlinson et al.
+and time-consuming. For one of the CRC tagSNPs, rs6983267, there is evidence that it itself is functional (8). It lies a few hundred kilobases upstream of the c-Myc oncogene and changes a TCF4-binding site. The region around the SNP is capable of driving reporter gene expression in the same locations as endogenous Myc. A further CRC tagSNP, rs4779584, near Gremlin1 is an example of a synthetic association. Its association with CRC risk actually results from two independent functional variants tagged by rs16969681 and rs11632715. rs16969681 may in fact be functional (4).
+Overall, GWAS in CRC have provided excellent evidence of the important molecular pathways that influence disease risk in the general population. Of the 17 SNPs above, 7 are adjacent to genes (Gremlin1, BMP2/4, SMAD7) that act in the bone morphogenetic protein (BMP) pathway. Although in theory the tagSNPs identified may act on other genes in cis or in trans, the probability of so many being near BMP genes is $10À9. Moreover, two other SNPs are near genes (Laminin A5 and DIP2B) for which there is evidence for interaction with the BMP pathway.
+A further CRC tagSNP, rs10936599, lies within an intron of the myoneurin gene (9). However, the region is gene-rich and SNPs in very strong LD with rs10936599 lie very close to three or four other genes. The strongest candidate gene near rs10936599 is the telomerase RNA component (TERC), which encodes the RNA template on which telomerase reverse transcriptase acts to maintain chromosome ends. Detailed analyses have shown that the risk allele at rs10936599 is in perfect LD with an SNP within the TERC transcript. This allele is associated not only with CRC risk but also with longer telomeres in both peripheral blood and normal colorectal mucosa. Longer chromosome telomeres are, other things being equal, predicted to reduce cellular senescence and apoptosis. As is the case for the BMP pathway SNPs, TERC variation increases the risk of colorectal adenomas as well as CRCs, indicating an effect at early stages of tumorigenesis. Epidemiological evidence regarding associations between telomere length and CRC risk has been mixed, but the genetic findings have provided excellent evidence in favour of long telomeres being associated with disease.
+DNA repair and CRC risk
+Carcinogenesis generally depends on the acquisition of somatic mutations by a susceptible cell. On this basis, it is to be expected that individuals with profound defects in DNA repair will be at greatly increased risk of cancer and other malignancies. Many examples of patients with rare, but highly penetrant, germ line mutations in the major DNA repair pathways do indeed exist and almost all these patients have an increased risk of cancer. Mutations in genes involved in maintaining genome integrity, through processes such as normal chromosome segregation, also increase the risk of cancer. For reasons that remain partly obscure, different types of DNA repair defect predispose to different cancer spectra. Colorectal cancer, for example, can be caused by two forms of high-penetrance DNA repair defect: recessive mutations in the DNA glycosylase MUTYH which cause defective base excision repair; and dominant mutations in any of the four DNA mismatch repair genes (MLH1, MSH2, MSH6 and PMS2). Some variants in genes such as MUTYH, MSH2 and MLH1 have been proposed to act as low- or moderate-penetrance susceptibility alleles for CRC, although evidence in their favour is generally mixed (see below).
+220
+
+In fact, DNA repair and genome integrity SNPs--henceforth called `DNA repair SNPs'--are striking by their absence in the list of common CRC predisposition variants no known DNA repair gene is tagged by the known predisposition SNPs for CRC. This has several potential causes. One highly plausible explanation is that DNA repair and genome integrity are so important to the cell and organism that any alleles with more than very small functional effects are strongly selected against. Such alleles are very unlikely to drift up to polymorphic levels. Nevertheless, common DNA repair alleles with very small effects on cancer risk may still exist, yet their effects are too small--with odds ratios (OR) ,1.1 per allele--to be detected individually even in the several thousand samples employed for GWAS. En masse (or as a class), however, an effect of DNA repair SNPs on cancer susceptibility might be detectable.
+We have therefore analysed our data from three GWAS from the UK to search specifically for effects of DNA repair SNPs on CRC risk.
+Methods
+Patients were recruited from three GWAS, the ColoRectal tumour Gene Identification (CORGI) study, the Scottish Colorectal Cancer Study (COGS) and the VICTOR/QUASAR2/1958 Birth Cohort data sets (VQ58). These cohorts comprised a total of 3334 CRC (or severe adenoma) cases and 4628 controls; further details are provided in (4). All studies received appropriate local research ethics committee approval.
+Methods for genotyping using Illumina Hap550 and Hap300 SNP arrays have been described previously (4). All data had previously been subjected to standard, but rigorous quality control assessment (4) and converted into PLINK binary file format for analysis (http://pngu.mgh.harvard.edu/purcell/plink/).
+One hundred and fifty-seven DNA repair genes and other genes involved in maintaining genome integrity were identified from a published list (10) (supplementary Table 1 is available at Mutagenesis Online). Each gene from this list had a set of SNPs retrieved using dbSNP126 and HapMap Release 24 Phase II by inputting genomic co-ordinates flanking the coding region of each gene by Æ100 kb to cover control regions. SNPs within these regions flanking each gene were identified from the content of the Hap300 and/or Hap550 arrays.
+Basic association analysis was performed for each autosomal SNP using the PLINK package. QQ-plots of the chi-squared association statistic were constructed for each cohort and we found kGC , 1.05 in all three cases (details not shown). Association tests for individual SNPs were carried out using allelic, Cochran­Armitage and recessive models. Meta-analysis was performed using the Mantel­Haenszel method on all SNPS present in two or all data sets. We reported fixed effects statistics unless there was evidence of heterogeneity among sample sets (Phet , 0.05 or I2 . 75%), in which case random effects statistics were reported. For the whole set of SNPs, a simple consistency test between the three data sets was performed based on direction of effect and an expectation that one quarter of SNPs would show the same direction by chance. Set-based tests were also performed on all SNPs and those most strongly associated with CRC in PLINK (http://pngu.mgh.harvard.edu/ $purcell/plink/anal.shtml#set), which calculates a statistic for each set as the mean of these single-SNP statistics, and determines significance using permutation of case­control status. SNPs in LD (r2 . 0.2) were removed from this part of this analysis.
+Results
+We identified 6216 SNPs within 100 kb of the 157 DNA repair loci that were present on the Illumina Hap550 arrays; $60% of these SNPs were also present on the Hap370 arrays. Following meta-analysis in the three GWAS series, only one SNP (Table I) showed evidence of association with CRC risk under the allelic, additive or recessive models using a threshold of Pmeta 5 10À4 (approximating to a Bonferroni correction at P 5 0.05). However, this SNP was rs10411210, a known CRC predisposition SNP that lies within an intron of rhophilin2 (RHPHN2) but is also within 100 kb of the DNA repair gene FAAP24. We have previously presented evidence that favours
+
+Downloaded from http://mutage.oxfordjournals.org/ at Ernst Mayr Library of the Museum Comp Zoology, Harvard University on August 18, 2016
+
+Downloaded from http://mutage.oxfordjournals.org/ at Ernst Mayr Library of the Museum Comp Zoology, Harvard University on August 18, 2016
+
+RHPHN2 as the target of the functional variation tagged by rs10411210 (11).
+Four other independent SNPs were associated with CRC at uncorrected P 5 0.001 in the additive model (Table I). We attempted in silico replication of the association signals at these four SNPs in three further CRC case­control data sets, NSCCG and SOCCS that comprised a total of 9713 individuals from the UK and 1012 from Australia [details in (4)]. However, for all these SNPs, no evidence of replication was found (combined Pmeta . 0.01, meta-analysis of all data sets).
+Previously reported associations between DNA repair polymorphisms and CRC risk
+Especially in the last 10 years, tens of studies have addressed associations between CRC risk and candidate DNA repair polymorphisms. Many of these studies were reviewed by Naccarati et al. (12). Perhaps the best example of a DNA repair SNP being associated with CRC risk is MLH1-93G . A (rs1800734), for which Whiffin et al. (13) provided good evidence of association with CRC overall [OR per allele 5 1.06, 95% confidence interval (CI) 1.00­1.11, P 5 0.037] and excellent evidence that this effect was present only in the microsatellite-unstable sub-group (OR per allele 5 1.39, 95% CI 1.17­1.64, P 5 1.45 Â 10À4). Meta-analysis with other smaller studies (13­20) confirmed these findings. Although the samples reported in our study were not all assessed for microsatellite instability, our data supported an effect of rs1800734 on CRC risk (OR per allele 5 1.07, 95% CI 0.98­1.15, P 5 0.073).
+The data from other candidate DNA repair gene studies does not generally provide convincing evidence of associations with CRC risk. A small selection of such candidates is shown in Table II (15,17,19­31), together with the results from the best
+
+Table I. Individual DNA repair tagSNP association statistics
+
+Chr BP
+
+SNP P
+
+OR Q
+
+I2 Gene
+
+19 38224140 rs10411210 1.27 Â 10À5 0.6882 0.3106 2.73 FAAP24 11 118569768 rs12417928 1.03 Â 10À4 1.378 0.6793 0 H2AFX 14 20094459 rs1243647 4.00 Â 10À4 0.8168 0.6255 0 APEX1 19 38237541 rs6510337 5.83 Â 10À4 0.8456 0.7768 0 FAAP24 19 48854794 rs2239372 7.78 Â 10À4 1.1104 0.4561 0 XRCC1 9 32893868 rs1470217 9.28 Â 10À4 1.1212 0.466 0 APTX
+
+Chr, chromosome; BP, position in base pairs (dbSNP Build 36); P, metaanalysis P value; OR, odds ratio per allele relative to the minor allele; Q, Phet, I2, % heterogeneity; Gene, DNA repair gene in region of SNP.
+
+DNA repair SNPs and bowel cancer
+single-SNP tag in our three GWAS. Even allowing for the modest tagging (low pairwise r2) of some of the candidate SNPs by SNPs on the Hap300/Hap550 arrays, our data provide little or no evidence to support the hypothesis that any of the chosen SNPs is a marker of CRC predisposition (Table II).
+In terms of rarer DNA repair polymorphisms that are not well tagged by SNPs on the Hap300/Hap550 arrays, there exist two major candidates: heterozygote MUTYH mutants, principally Tyr179Cys (rs34612342) and Gly396Asp (rs36053993) that have combined allele frequencies of $1.5% in the UK; and CHEK2 variants 1100delC and Ile157Thr that have frequencies of $0.5 and ,0.1% in the UK (although the latter is more prevalent in other regions such as the Baltic states). The MUTYH state-of-the-art illustrates well the problems of assessing rare, low-penetrance cancer predisposition variants. Even in a study of 20 565 cases and 15 524 controls by Theodoratou et al. (32), results were inconclusive, showing a borderline significant association (OR 5 1.16, 95% CI: 1.00­1.34, P 5 0.05). Given that there are some potential sources of bias in CRC cohorts--such as the presence of MUTYH homozygotes in the relatives of familial cases--the case for MUTYH heterozygotes having raised CRC risk remains unproven.
+For CHEK2 1100delC, a recent meta-analysis by Xiang et al. (33) found a significant $2-fold increased risk of CRC in carriers (OR 5 2.11, 95% CI 1.41­3.16, P 5 0.0003 for unselected cases). A crude meta-analysis of non-overlapping studies of CHEK2 I157T and CRC risk (34­38) also found a highly significant association (OR 5 1.56, 95% CI 1.32­ 1.84, P 5 2.6 Â 10À7, Table III). While the test statistic is not quite at conventionally accepted GWAS levels of significance, this association appears compelling.
+Set-based analyses
+We examined the direction of OR for the 5609 SNPs successfully genotyped in all GWAS series in order to determine whether there was a tendency for a sub-set of truly disease-associated SNPs to show consistent directions of effect across the three data sets. In 1404 cases, the direction was consistently above or below unity in CORGI COGS and VQ58. This compared with an expectation under a modified sign test of 1402 (P 5 0.98, Fisher's exact test). Since the sign test might have lacked sensitivity, we also undertook an en masse association test for all the DNA repair SNPs as a set of candidate SNPs. After excluding all SNPs in moderate or
+
+Table II. Associations between CRC susceptibility and Candidate SNPs chosen in previously published studies
+
+Candidate SNP
+
+Annotation
+
+Proxy SNP
+
+LD of proxy
+
+OR Pmeta
+
+rs1800734 rs1799977 rs2303425 rs1981928 rs1042821 rs26279 rs1979005 rs1042522 rs1800056 rs2308321 rs25487 rs3218536 rs3218499
+
+MLH1-93G . A
+
+Present on Hap300/Hap550 arrays 1.07 0.0726
+
+MLH1 Ile219Val MSH2 -118T.C MSH2 intronic MSH6 Gly39Glu
+
+Present on Hap300/Hap550 arrays 0.99 0.800
+
+rs10495944
+
+r2 5 0.95, D# 5 1.00
+
+1.02 0.817
+
+rs3732183
+
+r2 5 1.00, D# 5 1.00
+
+1.00 0.999
+
+rs6713506
+
+r2 5 0.30, D# 5 0.76
+
+1.06 0.831
+
+MSH3 Ala1045Thr MSH3 intronic TP53 Arg72Pro ATM Phe858Leu
+
+rs3776969 rs7141 rs4987876
+
+Present on Hap300/Hap550 arrays 1.06 0.0814
+
+r2 5 0.87, D# 5 1.00
+
+0.94 0.370
+
+r2 5 0.45, D# 5 0.88
+
+1.01 0.837
+
+r2 5 0.21, D# 5 1.00
+
+0.97 0.636
+
+MGMT Ile174Val XRCC1 Gln399Arg
+
+rs1799778
+
+Present on Hap300/Hap550 arrays 1.00 0.989
+
+r2 5 0.97, D# 5 1.00
+
+0.98 0.488
+
+XRCC2 R188H XRCC2 intronic
+
+rs3218408
+
+Present on Hap300/Hap550 arrays 1.04 0.599
+
+r2 5 0.95, D# 5 1.00
+
+0.99 0.868
+
+Results shown are from the meta-analysis of the three GWAS data sets. Note that for rs26279, the direction of effect is opposite to that found in other studies.
+
+221
+
+I. P. M. Tomlinson et al.
+
+Downloaded from http://mutage.oxfordjournals.org/ at Ernst Mayr Library of the Museum Comp Zoology, Harvard University on August 18, 2016
+
+Table III. Summary of association studies undertaken for CHEK2 I157T and colorectal cancer risk
+
+Case Hets Case Homs Control Hets Control Homs
+
+Irmejs (34) Kilpivaara (35) Cybulski (36) Kleibl (37) Konstantinova (38)
+
+24 76 88 30 9
+
+211 896 1107 601 334
+
+63 100 264 17 21
+
+915 1785 5232 666 781
+
+Numbers of cases and controls are shown for each study. Hets, I/T
+heterozygotes; Homs, common I/I homozygotes. In the meta-analysis, Phet 5 0.77, I2 5 0%.
+
+greater pairwise LD (r2 . 0.2), the overall test statistic was significant (P 5 0.00799). Thus, there may be an effect of some DNA repair SNPs on CRC risk, yet the effect of any individual SNP is too small to readily be detected in individual SNP analyses in the sample sets used.
+
+Discussion
+Candidate gene analyses have failed to provide convincing evidence of DNA repair SNPs that are directly involved in predisposition to colorectal cancer. Here, we have analysed a panel of tagSNPs flanking DNA repair genes and failed to find good evidence that any individual SNP influences the risk of CRC in the general UK population. In general, GWAS of other cancers have failed to find similar associations. In fact, the only cancer susceptibility GWAS that has found variation likely to affect DNA repair is one on breast cancer (SNP rs999737 near RAD51L1) (39). We have, however, provided evidence using en masse (SNP set) analysis that variation around DNA repair loci does contribute to CRC risk. Clearly, set-based tests must be interpreted cautiously, but the examples of Lynch syndrome and MAP show that DNA repair variants can influence CRC risk. The possibility clearly exists that several DNA repair SNPs have small effects on CRC risk--probably too small to find easily using GWAS--and furthermore that an individual's overall DNA repair capacity (40) might be associated with CRC susceptibility.
+DNA repair capacity, measured by assays such as micronucleus formation and radiosensitivity, has been reported as highly heritable (41­43). Even if these results accurately reflect more general variation in DNA repair, they are not necessarily incompatible with the findings that common cancer susceptibility alleles have only rarely been found near DNA repair genes. Potential non-exclusive explanations for this apparent inconsistency include the following:
+(i) heritability results from low variation in intrinsic DAN repair capacity, caused by a small genetic contribution, but even smaller environmental and random contributions;
+(ii) polygenic model: many loci with individually very small effects influence DNA repair capacity;
+(iii) multiple rare alleles of moderate effect influence DNA repair capacity, these alleles not drifting to high frequencies owing to strong selective constraints;
+(iv) sub-groups of CRC, such as those with microsatellite instability, are associated with specific DNA variants, but most studies are not empowered to detect these effects; and
+(v) the relevant DNA repair variants are not present on or tagged by commercial SNP array content.
+
+The set test results reported above support (ii) and the CHEK2 data support (iii). The data in support of an association between MLH1-93G . A and microsatellite-unstable CRC provide evidence for (iv).
+GWAS in CRC have not generally discovered variation in pathways that could be described as strong candidates based, for example, on previous studies of individual genes. For example, none of the nine main Mendelian CRC genes has been shown to harbour low-penetrance susceptibility variants to date. CRC GWAS have, however, thrown up a new list of candidate genes, and studies based on those have already been successful. In other cases, unexplained and unexpected associations have been found. For example, while bearing in mind that the genes influenced by functional variation may not be those nearest to the GWAS tagSNP, it seems likely that variation in EIF3H (44), an apparently ubiquitously expressed transcription elongation factor, has specific effects on CRC risk; the reasons for this are entirely unclear. Despite these examples, examination of variation in DNA repair genes remains a priority in forthcoming studies to detect and examine rarer cancer predisposition variants through screens based on genome-wide or focussed large-scale sequencing. Analysis of CRC risk in carriers of heterozygous MUTYH mutations, where $1% of the population are at hypothetically increased risk, has shown both the promise and the inherent problems of such rare variant studies. It will also be intriguing to determine whether any large GWAS across cancer types can identify DNA repair variants that predispose to cancers of more than one site.
+Supplementary data
+Supplementary Table 1 is available at Mutagenesis Online.
+Funding
+This work was supported by Cancer Research UK.
+Acknowledgements
+Collaborators in the CORGI, NSCCG and COGS studies provided invaluable help with patient recruitment and sample collection. Members of the contributing laboratories undertook invaluable work in patient recruitment and sample preparation. Andrew Beggs kindly supplied the list of DNA repair genes.
+Conflict of interest statement: None declared.
+References
+1. Houlston, R. S. and Tomlinson, I. P. (2001) Polymorphisms and colorectal tumor risk. Gastroenterology, 121, 282­301.
+2. de Jong, M. M., Nolte, I. M., Te Meerman, G. J. et al. (2005) Colorectal cancer and the CHEK2 1100delC mutation. Genes Chromosomes Cancer, 43, 377­382.
+3. Houlston, R. S., Cheadle, J., Dobbins, S. E. et al. (2010) Meta-analysis of three genome-wide association studies identifies susceptibility loci for colorectal cancer at 1q41, 3q26.2, 12q13.13 and 20q13.33. Nat. Genet., 42, 973­977.
+4. Tomlinson, I., Carvajal-Carmona, L., Dobbins, S. et al. (2011) Multiple common susceptibility variants near BMP pathway loci GREM1, BMP4, and BMP2 explain part of the missing heritability of colorectal cancer. PLoS Genet., 7, e1002105.
+5. Houlston, R. S., Aaltonen, L. A., Brenner, H. et al. (2012) COGENT (COlorectal cancer GENeTics) revisited. Mutagenesis, 27, 143­151
+6. Pardini, B., Naccarati, A., Vodicka, P. and Kumar, K. (2012) Gene expression variations: potentialities of master regulator polymorphisms in colorectal cancer risk. Mutagenesis, 27, 161­167
+
+222
+
+Downloaded from http://mutage.oxfordjournals.org/ at Ernst Mayr Library of the Museum Comp Zoology, Harvard University on August 18, 2016
+
+DNA repair SNPs and bowel cancer
+
+7. Tomlinson, I. P., Dunlop, M., Campbell, H. et al. (2009) COGENT (COlorectal cancer GENeTics): an international consortium to study the role of polymorphic variation on the risk of colorectal cancer. Br. J. Cancer, 102, 447­454.
+8. Tuupanen, S., Turunen, M., Lehtonen, R. et al. (2009) The common colorectal cancer predisposition SNP rs6983267 at chromosome 8q24 confers potential to enhanced Wnt signaling. Nat. Genet., 41, 885­890.
+9. Jones, A. M., Beggs, A. D., Carvajal-Carmona, L. et al. (2011) TERC polymorphisms are associated both with susceptibility to colorectal cancer and with longer telomeres. Gut, (in press).
+10. Wood, R. D., Mitchell, M. and Lindahl, T. (2005) Human DNA repair genes. Mutat. Res., 577, 275­283.
+11. Carvajal-Carmona, L. G., Cazier, J. B., Jones, A. M. et al. (2011) Finemapping of colorectal cancer susceptibility loci at 8q23.3, 16q22.1 and 19q13.11: refinement of association signals and use of in silico analysis to suggest functional variation and unexpected candidate target genes. Hum. Mol. Genet., 20, 2879­2888.
+12. Naccarati, A., Pardini, B., Hemminki, K. and Vodicka, P. (2007) Sporadic colorectal cancer and individual susceptibility: a review of the association studies investigating the role of DNA repair genetic polymorphisms. Mutat. Res., 635, 118­145.
+13. Whiffin, N., Broderick, P., Lubbe, S. J., Pittman, A. M., Penegar, S., Chandler, I. and Houlston, R. S. (2011) MLH1-93G . A is a risk factor for MSI colorectal cancer. Carcinogenesis, 32, 1157­1161.
+14. Raptis, S., Mrkonjic, M., Green, R. C. et al. (2007) MLH1 -93G.A promoter polymorphism and the risk of microsatellite-unstable colorectal cancer. J. Natl Cancer Inst., 99, 463­474.
+15. Schafmayer, C., Buch, S., Egberts, J. H. et al. (2007) Genetic investigation of DNA-repair pathway genes PMS2, MLH1, MSH2, MSH6, MUTYH, OGG1 and MTH1 in sporadic colon cancer. Int. J. Cancer, 121, 555­558.
+16. Allan, J. M., Shorto, J., Adlard, J. et al. (2008) MLH1 -93G.A promoter polymorphism and risk of mismatch repair deficient colorectal cancer. Int. J. Cancer, 123, 2456­2459.
+17. Koessler, T., Oestergaard, M. Z., Song, H., Tyrer, J., Perkins, B., Dunning, A. M., Easton, D. F. and Pharoah, P. D. (2008) Common variants in mismatch repair genes and risk of colorectal cancer. Gut, 57, 1097­1101.
+18. Samowitz, W. S., Curtin, K., Wolff, R. K., Albertsen, H., Sweeney, C., Caan, B. J., Ulrich, C. M., Potter, J. D. and Slattery, M. L. (2008) The MLH1 -93 G.A promoter polymorphism and genetic and epigenetic alterations in colon cancer. Genes Chromosomes Cancer, 47, 835­844.
+19. Campbell, P. T., Curtin, K., Ulrich, C. M., Samowitz, W. S., Bigler, J., Velicer, C. M., Caan, B., Potter, J. D. and Slattery, M. L. (2009) Mismatch repair polymorphisms and risk of colon cancer, tumour microsatellite instability and interactions with lifestyle factors. Gut, 58, 661­667.
+20. Picelli, S., Zajac, P., Zhou, X. L. et al. (2010) Common variants in human CRC genes as low-risk alleles. Eur. J. Cancer, 46, 1041­1048.
+21. Mrkonjic, M., Raptis, S., Green, R. C. et al. (2007) MSH2 118T.C and MSH6 159C.T promoter polymorphisms and the risk of colorectal cancer. Carcinogenesis, 28, 2575­2580.
+22. Dahabreh, I. J., Linardou, H., Bouzika, P., Varvarigou, V. and Murray, S. (2010) TP53 Arg72Pro polymorphism and colorectal cancer risk: a systematic review and meta-analysis. Cancer Epidemiol. Biomarkers Prev., 19, 1840­1847.
+23. Wang, J. J., Zheng, Y., Sun, L. et al. (2010) TP53 codon 72 polymorphism and colorectal cancer susceptibility: a meta-analysis. Mol. Biol. Rep.
+24. Webb, E. L., Rudd, M. F., Sellick, G. S. et al. (2006) Search for low penetrance alleles for colorectal cancer through a scan of 1467 non-synonymous SNPs in 2575 cases and 2707 controls with validation by kin-cohort analysis of 14 704 first-degree relatives. Hum. Mol. Genet., 15, 3263­3271.
+25. Loh, Y. H., Mitrou, P. N., Bowman, R., Wood, A., Jeffery, H., Luben, R. N., Lentjes, M. A., Khaw, K. T. and Rodwell, S. A. (2010) MGMT Ile143Val polymorphism, dietary factors and the risk of breast, colorectal and prostate cancer in the European Prospective Investigation into Cancer and Nutrition (EPIC)-Norfolk study. DNA Repair (Amst.), 9, 421­428.
+26. Vineis, P., Manuguerra, M., Kavvoura, F. K. et al. (2009) A field synopsis on low-penetrance variants in DNA repair genes and cancer susceptibility. J. Natl Cancer Inst., 101, 24­36.
+27. Gsur, A., Bernhart, K., Baierl, A., Feik, E., Fuhrlinger, G., Hofer, P., Leeb, G., Mach, K. and Micksche, M. (2011) No association of XRCC1 polymorphisms Arg194Trp and Arg399Gln with colorectal cancer risk. Cancer Epidemiol, (in press).
+28. Jiang, Z., Li, C., Xu, Y. and Cai, S. (2010) A meta-analysis on XRCC1 and XRCC3 polymorphisms and colorectal cancer risk. Int. J. Colorectal Dis., 25, 169­180.
+
+29. Wang, B., Wang, D., Huang, G., Zhang, C., Xu, D. H. and Zhou, W. (2010) XRCC1 polymorphisms and risk of colorectal cancer: a meta-analysis. Int. J. Colorectal Dis., 25, 313­321.
+30. Yeh, C. C., Sung, F. C., Tang, R., Chang-Chieh, C. R. and Hsieh, L. L. (2005) Polymorphisms of the XRCC1, XRCC3, & XPD genes, and colorectal cancer risk: a case-control study in Taiwan. BMC Cancer, 5, 12.
+31. Curtin, K., Lin, W. Y., George, R. et al. (2009) Genetic variants in XRCC2: new insights into colorectal cancer tumorigenesis. Cancer Epidemiol. Biomarkers Prev., 18, 2476­2484.
+32. Theodoratou, E., Campbell, H., Tenesa, A. et al. (2010) A large-scale metaanalysis to refine colorectal cancer risk estimates associated with MUTYH variants. Br. J. Cancer, 103, 1875­1884.
+33. Xiang, H. P., Geng, X. P., Ge, W. W. and Li, H. (2011) Meta-analysis of CHEK2 1100delC variant and colorectal cancer susceptibility. Eur. J. Cancer.
+34. Irmejs, A., Miklasevics, E., Boroschenko, V., Gardovskis, A., Vanags, A., Melbarde-Gorkusa, I., Bitina, M., Suchy, J. and Gardovskis, J. (2006) Pilot study on low penetrance breast and colorectal cancer predisposition markers in latvia. Hered. Cancer Clin. Pract., 4, 48­51.
+35. Kilpivaara, O., Alhopuro, P., Vahteristo, P., Aaltonen, L. A. and Nevanlinna, H. (2006) CHEK2 I157T associates with familial and sporadic colorectal cancer. J. Med. Genet., 43, e34.
+36. Cybulski, C., Wokolorczyk, D., Kladny, J. et al. (2007) Germline CHEK2 mutations and colorectal cancer risk: different effects of a missense and truncating mutations? Eur. J. Hum. Genet., 15, 237­241.
+37. Kleibl, Z., Havranek, O., Hlavata, I., Novotny, J., Sevcik, J., Pohlreich, P. and Soucek, P. (2009) The CHEK2 gene I157T mutation and other alterations in its proximity increase the risk of sporadic colorectal cancer in the Czech population. Eur. J. Cancer, 45, 618­624.
+38. Konstantinova, D., Kadiyska, T., Sokolova, V. et al. (2010) CHEK2 I157T and colorectal cancer in Bulgaria. J. BUON, 15, 314­317.
+39. Thomas, G., Jacobs, K. B., Kraft, P. et al. (2009) A multistage genomewide association study in breast cancer identifies two new risk alleles at 1p11.2 and 14q24.1 (RAD51L1). Nat. Genet., 41, 579­584.
+40. Vodicka, P., Stetina, V., Polakova, E. et al. (2007) Association of DNA repair polymorphisms with DNA repair functional outcomes in healthy human subjects. Carcinogenesis, 28, 657­664.
+41. Curwen, G. B., Cadwell, K. K., Winther, J. F. et al. (2010) The heritability of G2 chromosomal radiosensitivity and its association with cancer in Danish cancer survivors and their offspring. Int. J. Radiat. Biol., 86, 986­995.
+42. Surowy, H., Rinckleb, A., Luedeke, M., Stuber, M., Wecker, A., Varga, D., Maier, C., Hoegel, J. and Vogel, W. (2011) Heritability of baseline and induced micronucleus frequencies. Mutagenesis, 26, 111­117.
+43. Scott, D. (2004) Chromosomal radiosensitivity and low penetrance predisposition to cancer. Cytogenet. Genome Res., 104, 365­370.
+44. Pittman, A. M., Naranjo, S., Jalava, S. E. et al. (2010) Allelic variation at the 8q23.3 colorectal cancer risk locus functions as a cis-acting regulator of EIF3H. PLoS Genet., 6, e1001126.
+
+223
+
+
