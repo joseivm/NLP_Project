@@ -9,27 +9,24 @@ import nltk
 
 '''This function will create a training matrix to feed in to whatever classifier we pick. '''
 
-article_paths = '/all_articles_text/'
-answer_key = '/GoldStandardAll2.txt'
-all_articles = [file for file in os.listdir(os.getcwd()+article_paths if '.txt' in file)]
-test_split = (len(all_articles)/10)*9
-train_articles = all_articles[:test_split]
-test_articles = all_articles[test_split:]
 
 def generate_feature_vector(word_index,sentence,n,word_pos):
 	feature_vector = {}
 	word = sentence[word_index]
-	feature_vector['POS'] = word_pos[word]
-	feature_vector['word'] = word
 	feature_vector['isDigit'] = word.isdigit()
+
 	if (word_index+1) <= (len(sentence)-1):
 		feature_vector['next_word'] = sentence[word_index+1]
+		feature_vector['next_word_pos'] = word_pos[sentence[word_index+1]]
 	else:
 		feature_vector['next_word'] = "end"
+		feature_vector['next_word_pos'] = ''
 
 	for j in range(1,n):
 		feat_word = 'word-' + str(j)
 		feat_pos = 'pos-'+str(j)
+		feat_next = 'word+'+str(j)
+		feat_next_pos = 'pos+'+ str(j)
 		if word_index-j >= 0:
 			feature_vector[feat_word] = sentence[word_index-j]
 			feature_vector[feat_pos] = word_pos[sentence[word_index-j]]
@@ -37,6 +34,16 @@ def generate_feature_vector(word_index,sentence,n,word_pos):
 		else:
 			feature_vector[feat_word] = ''
 			feature_vector[feat_pos] = ''
+
+		# if (word_index+j) <= (len(sentence)-1):
+		# 	feature_vector[feat_next] = sentence[word_index+j]
+		# 	feature_vector[feat_next_pos] = word_pos[sentence[word_index+j]]
+
+		# else:
+		# 	feature_vector[feat_next] = ''
+		# 	feature_vector[feat_next_pos] = ''
+
+
 
 
 	return feature_vector
@@ -116,25 +123,7 @@ def get_article_pops():
 	return name_pop
 
 def LR_test():
-
-	# train_articles = [file for file in os.listdir(os.getcwd()+'/Training_Articles')]
-	# if '.DS_Store' in train_articles: train_articles.remove('.DS_Store')
-
-	# test_articles = [file for file in os.listdir(os.getcwd()+'/Test_Articles')]
-	# if '.DS_Store' in test_articles: test_articles.remove('.DS_Store')
-
-
-
-	name_pop = get_article_pops()
-
-	X_train,dict_vect = create_matrix(train_articles,2)
-	Y_train = create_target_vector(train_articles,name_pop)
-
-	X_test, dict_vect2 = create_matrix(test_articles,2,False,dict_vect)
-	Y_test = create_target_vector(test_articles,name_pop)
-
-
-	model = LogisticRegression(C=10000)
+	model = LogisticRegression(C=10**5)
 	model.fit(X_train,Y_train)
 
 	y_pred = model.predict(X_test)
@@ -142,33 +131,48 @@ def LR_test():
 	print 'sum:', np.sum(y_pred), 'real sum:', np.sum(Y_test)
 	print classification_report(Y_test,y_pred,target_names=class_labels)
 
-def SVM_test():
-	# train_articles = [file for file in os.listdir(os.getcwd()+'/Training_Articles')]
-	# if '.DS_Store' in train_articles: train_articles.remove('.DS_Store')
-
-	# test_articles = [file for file in os.listdir(os.getcwd()+'/Test_Articles')]
-	# if '.DS_Store' in test_articles: test_articles.remove('.DS_Store')
-
-	name_pop = get_article_pops()
-
-	X_train,dict_vect = create_matrix(train_articles,1)
-	Y_train = create_target_vector(train_articles,name_pop, zero_one=False)
-
-	X_test, dict_vect2 = create_matrix(test_articles,1,False,dict_vect)
-	Y_test = create_target_vector(test_articles,name_pop,zero_one=False)
-
-	svm = SVC(C=1000000)
+def SVM_test(X_train, Y_train, X_test,Y_test):
+	svm = SVC(C=10**8)
 	svm.fit(X_train,Y_train)
 
 	y_pred = svm.predict(X_test)
 	class_labels = ['not population', 'population']
-	# print 'pos preds', np.count_nonzero(y_pred == 1), 'real pos:', np.count_nonzero(Y_test == 1)
-	# print 'neg preds', np.count_nonzero(y_pred == -1), 'real negs:', np.count_nonzero(Y_test == -1)
+
 	print classification_report(Y_test,y_pred,target_names=class_labels)
 
-# os.system('pdftotext /Users/joseivelarde/Documents/MIT/6.806/Project/NLP_Project_Proposal.pdf')
-LR_test()
+def create_SVM_XY(train_articles, test_articles, name_pop):
+	X_train,dict_vect = create_matrix(train_articles,2,no_stop=True)
+	Y_train = create_target_vector(train_articles,name_pop, zero_one=False, no_stop=True)
 
+	X_test, dict_vect2 = create_matrix(test_articles,2,False,dict_vect,no_stop=True)
+	Y_test = create_target_vector(test_articles,name_pop,zero_one=False, no_stop=True)
+	return X_train,Y_train,X_test,Y_test
+
+def create_LR_XY(train_articles, test_articles, name_pop):
+	X_train,dict_vect = create_matrix(train_articles,2,no_stop=True)
+	Y_train = create_target_vector(train_articles,name_pop,no_stop=True)
+	X_test, dict_vect2 = create_matrix(test_articles,2,False,dict_vect,no_stop=True)
+	Y_test = create_target_vector(test_articles,name_pop,no_stop=True)
+	return X_train,Y_train,X_test,Y_test
+
+
+if __name__ == "__main__":
+	article_paths = '/all_articles_text/'
+	answer_key = '/GoldStandardSorted.txt'
+
+	name_pop = get_article_pops()
+	all_articles = name_pop.keys()
+	converted_articles = [file for file in os.listdir(os.getcwd()+article_paths) if '.txt' in file]
+	all_articles = [file for file in all_articles if file in converted_articles]
+	test_split = (len(all_articles)/10)*9
+	train_articles = all_articles[:test_split]
+	test_articles = all_articles[test_split:]
+	print 'about to train'
+	# X_train,Y_train,X_test,Y_test = create_LR_XY(train_articles, test_articles, name_pop)
+	X_train,Y_train,X_test,Y_test = create_SVM_XY(train_articles, test_articles, name_pop)
+	print 'about to test'
+	SVM_test(X_train, Y_train, X_test, Y_test)
+	# LR_test(X_train, Y_train)
 
 
 

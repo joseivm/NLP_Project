@@ -1,6 +1,8 @@
 import os
 from sets import Set
+from collections import defaultdict
 import re
+import pandas as pd
 cwd = ' '+os.getcwd()
 
 def make_list():
@@ -96,41 +98,87 @@ def trim():
 					outfile.write(line)
 	print i
 
-# change_names()
-# get_all_PDFs()
-# trim()
-
-name_to_pop = article_pops()
-converted_articles = []
-with open('GoldStandardAll2.txt') as infile:
+articles = []
+short_to_long = defaultdict(list)
+long_to_short = {}
+year_template = re.compile('\d{4}')
+with open(os.getcwd()+'/GoldStandardSorted.txt') as infile:
 	for line in infile:
 		split_line = line.split()
 		article_name = split_line[0]
-		converted_articles.append(article_name)
+		if 'etal' in article_name:
+			split_name = article_name.split('etal')
+			name = split_name[0]
+			year = split_name[1][:4]
+			
 
-directory = os.getcwd()+'/pdftotext/'
-new_directory = os.getcwd()+'/all_articles_text/'
-more_articles = []
-converted_articles = Set(converted_articles)
-name_to_line = {}
-with open('GoldStandard.txt') as infile:
+		else:
+			
+			match = re.search(year_template,article_name)
+			if match:
+				name = article_name[:match.start()]
+				year = article_name[match.start():match.end()]
+			else:
+				print article_name
+				name = article_name
+				year = '0000'
+
+		short_name = name+' '+year
+		short_to_long[short_name].append(article_name)
+		long_to_short[article_name] = short_name
+
+		articles.append(article_name)
+
+long_names = []
+short_names = []
+populations = []
+genes = []
+cancers = []
+isWeird = []
+with open(os.getcwd()+'/GoldStandardSorted.txt') as infile:
 	for line in infile:
 		split_line = line.split()
-		name = split_line[0]
-		name_to_line[name] = line
+		if len(split_line) < 5: 
+			split_line += ['-1','-1','-1']
+
+		long_name = split_line[0]
+		short_name = long_to_short[long_name]
+		population = split_line[1]
+		cancer = split_line[2]
+		gene = split_line[3]
+		if split_line[4] != '-1':
+			weird = False
+		else:
+			weird = True
 
 
+		long_names.append(long_name)
+		short_names.append(short_name)
+		populations.append(population)
+		genes.append(gene)
+		cancers.append(cancer)
+		isWeird.append(weird)
 
-with open('GoldStandardAll2.txt','a') as outfile:
-	for name in name_to_pop.keys():
-		if name not in converted_articles:
-			os.system('cp '+directory+name+' '+new_directory+name)
-			outfile.write(name_to_line[name])
+BabyDataSet = zip(short_names,long_names,populations,genes,cancers,isWeird)
+df = pd.DataFrame(data=BabyDataSet, columns=['Paper','FileName','TotalPopulation','Gene','CancerType','IsWerid'])
+
+
+df.to_csv(os.getcwd()+'/annotations.csv',index=False,header=['Paper','FileName','TotalPopulation','Gene','CancerType','IsWerid'])
+
+
 
 	
 
 
 '''
+====Tasks====
+1. Find out how to use RobotReviewer
+
+2. Annotate!
+
+3. Convolutional Neural Network??
+
+
 Possible problems: some articles can't be converted, the error might make the thing exit out of the for loop
 and it will be hard to know what articles weren't converted. 
 
