@@ -1,1 +1,13 @@
-hi
+
+all_articles_text: folder with the text version of all the articles. 
+
+dead stuff: files I am not actively using. 
+
+file_mods.py: script I used to convert PDFs into text files. 
+
+LiteratureReview: folder containing PDFs of biomedical articles. It has a folder for every gene, and every gene folder has a folder for every cancer it has been linked to. Every cancer folder has PDFs of articles that have been written about it. 
+
+inf_ext.py: script where I use a logistic regression and SVM to extract population size from articles. 
+
+GoldStandardAll2.txt: file with names of articles and their population, cancer, and gene. Articles that haven't been annotated have '-1' for population size. The name, population, cancer, and gene are separated by a single space. 
+
