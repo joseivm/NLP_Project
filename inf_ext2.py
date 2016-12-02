@@ -14,6 +14,7 @@ def generate_feature_vector(word_index,sentence,n,word_pos):
 	feature_vector = {}
 	word = sentence[word_index]
 	feature_vector['isDigit'] = word.isdigit()
+	feature_vector['word'] = word
 
 	if (word_index+1) <= (len(sentence)-1):
 		feature_vector['next_word'] = sentence[word_index+1]
@@ -52,8 +53,9 @@ def create_matrix(articles, n,train=True,dict_vect=None,no_stop=False):
 	stop_words = set(nltk.corpus.stopwords.words('english'))
 	feature_vectors = []
 	for article in articles:
-		sentences = []
+		print article
 		with open(os.getcwd()+article_paths+article) as infile:
+			sentences = []
 			for line in infile:
 				line = line.decode('latin-1')
 				line_sentences = tokenize.sent_tokenize(line)
@@ -122,7 +124,7 @@ def get_article_pops():
 
 	return name_pop
 
-def LR_test():
+def LR_test(X_train, Y_train, X_test,Y_test):
 	model = LogisticRegression(C=10**5)
 	model.fit(X_train,Y_train)
 
