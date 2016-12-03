@@ -1,0 +1,6 @@
+===Results===
+
+SVM, C = 10**8, bigram + next word, stop words: 0.48      0.43      0.46
+SVM, C = 10**8, bigram + next word, no stop words: 0.60      0.66      0.63
+SVM, C = 10**8, trigram + next word, no stop words: 0.62      0.70      0.66
+SVM, C = 10**8 , w = 2, no stop words: 0.60      0.52      0.56

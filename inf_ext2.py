@@ -9,11 +9,14 @@ import nltk
 
 '''This function will create a training matrix to feed in to whatever classifier we pick. '''
 
+article_paths = '/all_articles_text/'
+answer_key = '/GoldStandardSorted.txt'
 
 def generate_feature_vector(word_index,sentence,n,word_pos):
 	feature_vector = {}
 	word = sentence[word_index]
 	feature_vector['isDigit'] = word.isdigit()
+	# feature_vector['word'] = word
 
 	if (word_index+1) <= (len(sentence)-1):
 		feature_vector['next_word'] = sentence[word_index+1]
@@ -110,7 +113,7 @@ def create_target_vector(articles,name_pop,no_stop=False,zero_one=True):
 
 	return target_vector
 
-def get_article_pops():
+def get_article_pops(answer_key):
 	name_pop = {}
 	with open(os.getcwd()+answer_key) as infile:
 		for line in infile:
@@ -130,6 +133,33 @@ def LR_test():
 	class_labels = ['not population', 'population']
 	print 'sum:', np.sum(y_pred), 'real sum:', np.sum(Y_test)
 	print classification_report(Y_test,y_pred,target_names=class_labels)
+
+def SVM_test2():
+	article_paths = '/all_articles_text/'
+	answer_key = '/GoldStandardSorted.txt'
+
+	name_pop = get_article_pops(answer_key)
+	all_articles = name_pop.keys()
+	converted_articles = [file for file in os.listdir(os.getcwd()+article_paths) if '.txt' in file]
+	all_articles = [file for file in all_articles if file in converted_articles]
+	test_split = (len(all_articles)/10)*9
+	train_articles = all_articles[:test_split]
+	test_articles = all_articles[test_split:]
+
+	X_train,dict_vect = create_matrix(train_articles,2,no_stop=True)
+	Y_train = create_target_vector(train_articles,name_pop, zero_one=False, no_stop=True)
+
+	X_test, dict_vect2 = create_matrix(test_articles,2,False,dict_vect,no_stop=True)
+	Y_test = create_target_vector(test_articles,name_pop,zero_one=False, no_stop=True)
+
+	svm = SVC(C=10**8)
+	svm.fit(X_train,Y_train)
+
+	y_pred = svm.predict(X_test)
+	class_labels = ['not population', 'population']
+
+	print classification_report(Y_test,y_pred,target_names=class_labels)
+
 
 def SVM_test(X_train, Y_train, X_test,Y_test):
 	svm = SVC(C=10**8)
@@ -160,19 +190,20 @@ if __name__ == "__main__":
 	article_paths = '/all_articles_text/'
 	answer_key = '/GoldStandardSorted.txt'
 
-	name_pop = get_article_pops()
+	name_pop = get_article_pops(answer_key)
 	all_articles = name_pop.keys()
 	converted_articles = [file for file in os.listdir(os.getcwd()+article_paths) if '.txt' in file]
 	all_articles = [file for file in all_articles if file in converted_articles]
 	test_split = (len(all_articles)/10)*9
 	train_articles = all_articles[:test_split]
 	test_articles = all_articles[test_split:]
-	print 'about to train'
+	# print 'about to train'
 	# X_train,Y_train,X_test,Y_test = create_LR_XY(train_articles, test_articles, name_pop)
 	X_train,Y_train,X_test,Y_test = create_SVM_XY(train_articles, test_articles, name_pop)
-	print 'about to test'
+	# print 'about to test'
 	SVM_test(X_train, Y_train, X_test, Y_test)
 	# LR_test(X_train, Y_train)
+	# SVM_test2()
 
 
 
